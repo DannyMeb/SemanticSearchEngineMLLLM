@@ -1,0 +1,65 @@
+[
+    {
+        "id": 9101,
+        "title": "Classification of Twitter Vaping Discourse Using BERTweet: Comparative Deep Learning Study",
+        "authors": "William Baker, Jason B Colditz, Page D Dobbs, Huy Mai, Shyam Visweswaran, Justin Zhan, Brian A Primack",
+        "published": "2022-7-21",
+        "citations": 7,
+        "abstract": "\nBackground\nTwitter provides a valuable platform for the surveillance and monitoring of public health topics; however, manually categorizing large quantities of Twitter data is labor intensive and presents barriers to identify major trends and sentiments. Additionally, while machine and deep learning approaches have been proposed with high accuracy, they require large, annotated data sets. Public pretrained deep learning classification models, such as BERTweet, produce higher-quality models while using smaller annotated training sets.\n\n\nObjective\nThis study aims to derive and evaluate a pretrained deep learning model based on BERTweet that can identify tweets relevant to vaping, tweets (related to vaping) of commercial nature, and tweets with provape sentiment. Additionally, the performance of the BERTweet classifier will be compared against a long short-term memory (LSTM) model to show the improvements a pretrained model has over traditional deep learning approaches.\n\n\nMethods\nTwitter data were collected from August to October 2019 using vaping-related search terms. From this set, a random subsample of 2401 English tweets was manually annotated for relevance (vaping related or not), commercial nature (commercial or not), and sentiment (positive, negative, or neutral). Using the annotated data, 3 separate classifiers were built using BERTweet with the default parameters defined by the Simple Transformer application programming interface (API). Each model was trained for 20 iterations and evaluated with a random split of the annotated tweets, reserving 10% (n=165) of tweets for evaluations.\n\n\nResults\nThe relevance, commercial, and sentiment classifiers achieved an area under the receiver operating characteristic curve (AUROC) of 94.5%, 99.3%, and 81.7%, respectively. Additionally, the weighted F1 scores of each were 97.6%, 99.0%, and 86.1%, respectively. We found that BERTweet outperformed the LSTM model in the classification of all categories.\n\n\nConclusions\nLarge, open-source deep learning classifiers, such as BERTweet, can provide researchers the ability to reliably determine if tweets are relevant to vaping; include commercial content; and include positive, negative, or neutral content about vaping with a higher accuracy than traditional natural language processing deep learning models. Such enhancement to the utilization of Twitter data can allow for faster exploration and dissemination of time-sensitive data than traditional methodologies (eg, surveys, polling research).\n",
+        "link": "http://dx.doi.org/10.2196/33678"
+    },
+    {
+        "id": 9102,
+        "title": "Classification of Twitter Vaping Discourse Using BERTweet: Comparative Deep Learning Study (Preprint)",
+        "authors": "William Baker, Jason B Colditz, Page D Dobbs, Huy Mai, Shyam Visweswaran, Justin Zhan, Brian A Primack",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "\nBACKGROUND\nTwitter provides a valuable platform for the surveillance and monitoring of public health topics; however, manually categorizing large quantities of Twitter data is labor intensive and presents barriers to identify major trends and sentiments. Additionally, while machine and deep learning approaches have been proposed with high accuracy, they require large, annotated data sets. Public pretrained deep learning classification models, such as BERTweet, produce higher-quality models while using smaller annotated training sets.\n\n\nOBJECTIVE\nThis study aims to derive and evaluate a pretrained deep learning model based on BERTweet that can identify tweets relevant to vaping, tweets (related to vaping) of commercial nature, and tweets with provape sentiment. Additionally, the performance of the BERTweet classifier will be compared against a long short-term memory (LSTM) model to show the improvements a pretrained model has over traditional deep learning approaches.\n\n\nMETHODS\nTwitter data were collected from August to October 2019 using vaping-related search terms. From this set, a random subsample of 2401 English tweets was manually annotated for relevance (vaping related or not), commercial nature (commercial or not), and sentiment (positive, negative, or neutral). Using the annotated data, 3 separate classifiers were built using BERTweet with the default parameters defined by the Simple Transformer application programming interface (API). Each model was trained for 20 iterations and evaluated with a random split of the annotated tweets, reserving 10% (n=165) of tweets for evaluations.\n\n\nRESULTS\nThe relevance, commercial, and sentiment classifiers achieved an area under the receiver operating characteristic curve (AUROC) of 94.5%, 99.3%, and 81.7%, respectively. Additionally, the weighted F1 scores of each were 97.6%, 99.0%, and 86.1%, respectively. We found that BERTweet outperformed the LSTM model in the classification of all categories.\n\n\nCONCLUSIONS\nLarge, open-source deep learning classifiers, such as BERTweet, can provide researchers the ability to reliably determine if tweets are relevant to vaping; include commercial content; and include positive, negative, or neutral content about vaping with a higher accuracy than traditional natural language processing deep learning models. Such enhancement to the utilization of Twitter data can allow for faster exploration and dissemination of time-sensitive data than traditional methodologies (eg, surveys, polling research).\n",
+        "link": "http://dx.doi.org/10.2196/preprints.33678"
+    },
+    {
+        "id": 9103,
+        "title": "NARNIA at NLP4IF-2021: Identification of Misinformation in COVID-19 Tweets Using BERTweet",
+        "authors": "Ankit Kumar, Naman Jhunjhunwala, Raksha Agarwal, Niladri Chatterjee",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.nlp4if-1.14"
+    },
+    {
+        "id": 9104,
+        "title": "A BERTweet-based design for monitoring behaviour change based on five doors theory on coral bleaching campaign",
+        "authors": "Gabriela Nathania Harywanto, Juan Sebastian Veron, Derwin Suhartono",
+        "published": "2022-12",
+        "citations": 1,
+        "abstract": "AbstractCoral reefs are very important ecosystem which are the foundation of all life on this earth, but now they are under threat. Coral bleaching are happening now at a serious rate and the ultimate goal of conservation effort toward this issue is behaviour change. One of the most important parts of conservation effort is monitoring. However, monitoring the success of the coral bleaching campaign on behaviour change requires extensive data collection so traditional methods are not effective because they require resources that may not be met. The goal of this study is to build fast and vast automation in analyzing the stage of behaviour change. Social media data has prospect to become good alternative to be used because social media usage is currently increasing every year, including Twitter. Therefore, an automatic classification model was designed which can identify the stages of behaviour change based on the Five Doors Theory on Twitter. Five Doors Theory define 5 stages of behavior change: Desirability, Enabling Context, Can Do, Buzz, and Invitation. The data was fetched through a trusted repository, Mendeley Data, with title \"An Annotated Dataset for Identifying Behaviour Change Based on Five Doors Theory Under Coral Bleaching Phenomenon on Twitter\". There are 1,222 tweets with keywords related to coral bleaching that have been annotated according to the behaviour change stages. There are two proposed designs: embedding extraction which utilizes the output of each encoder layer in BERTweet and stacking ensemble which uses several BERTweet models with different hyperparameters that are ensembled using a logistic regression model. The best accuracy of 0.7796 with an f1-score of 0.7945 was obtained in the stacking ensemble design scenario. The classification model created can identify each class at the stage of behaviour change well, even though the dataset is unbalanced in its distribution. The proposed design has a performance that exceeds all baseline models and the standalone BERTweet. In conclusion, the automatic classification model create the process of monitoring the stages of behavior change run effectively and efficiently so that the success of the coral bleaching campaign can be monitored and achieved.",
+        "link": "http://dx.doi.org/10.1186/s40537-022-00615-1"
+    },
+    {
+        "id": 9105,
+        "title": "BERTweet: A pre-trained language model for English Tweets",
+        "authors": "Dat Quoc Nguyen, Thanh Vu, Anh Tuan Nguyen",
+        "published": "2020",
+        "citations": 230,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-demos.2"
+    },
+    {
+        "id": 9106,
+        "title": "proBE–A BERTweet-Attentive Prototype Few-Shot Model for Event Detection in OSN",
+        "authors": "Sielvie Sharma, Muhammad Abulaish, Tanvir Ahmad",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wi-iat59888.2023.00016"
+    },
+    {
+        "id": 9107,
+        "title": "Less is more: Pruning BERTweet architecture in Twitter sentiment analysis",
+        "authors": "Ricardo Moura, Jonnathan Carvalho, Alexandre Plastino, Aline Paes",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ipm.2024.103688"
+    }
+]

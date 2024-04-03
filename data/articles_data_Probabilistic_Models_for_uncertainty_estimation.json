@@ -1,0 +1,902 @@
+[
+    {
+        "id": 23871,
+        "title": "Predictive Uncertainty Estimation for Tractable Deep Probabilistic Models",
+        "authors": "Julissa Villanueva Llerena",
+        "published": "2020-7",
+        "citations": 0,
+        "abstract": "Tractable Deep Probabilistic Models (TPMs) are generative models based on arithmetic circuits that allow for exact marginal inference in linear time. These models have obtained promising results in several machine learning tasks. Like many other models, TPMs can produce over-confident incorrect inferences, especially on regions with small statistical support. In this work, we will develop efficient estimators of the predictive uncertainty that are robust to data scarcity and outliers. We investigate two approaches. The first approach measures the variability of the output to perturbations of the model weights. The second approach captures the variability of the prediction to changes in the model architecture. We will evaluate the approaches on challenging tasks such as image completion and multilabel classification.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2020/745"
+    },
+    {
+        "id": 23872,
+        "title": "Probabilistic predictions and uncertainty estimation for radiological and nuclear effects modeling",
+        "authors": "Donald D. Lucas",
+        "published": "2020-4-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/1608921"
+    },
+    {
+        "id": 23873,
+        "title": "Robust Self-Tuning Control under Probabilistic Uncertainty using Generalized Polynomial Chaos Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>A robust self-tuning controller for a chemical process is developed based on a generalized Polynomial Chaos (gPC) model that accounts for probabilistic time-invariant uncertainty. Using this model, it is possible to calculate analytical expressions of the one-step ahead predicted mean and variances of controlled and manipulated variables. The key idea is to consider these predicted values for performing online robust tuning of the controller through a quadratic optimization procedure. The gPC model is also used to identify overlap between consecutive probability density functions (PDFs) of manipulated variables and to find trade-offs between the aggressiveness of the self-tuning controller and robustness to uncertainty based on this overlap. The proposed methodology is illustrated by a continuous stirred tank reactor (CSTR) system with stochastic variations in the inlet concentration. The efficiency of the proposed algorithm is quantified in terms of control performance and robustness.</p>\n<p> </p>",
+        "link": "http://dx.doi.org/10.32920/23709639.v1"
+    },
+    {
+        "id": 23874,
+        "title": "Robust Self-Tuning Control under Probabilistic Uncertainty using Generalized Polynomial Chaos Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>A robust self-tuning controller for a chemical process is developed based on a generalized Polynomial Chaos (gPC) model that accounts for probabilistic time-invariant uncertainty. Using this model, it is possible to calculate analytical expressions of the one-step ahead predicted mean and variances of controlled and manipulated variables. The key idea is to consider these predicted values for performing online robust tuning of the controller through a quadratic optimization procedure. The gPC model is also used to identify overlap between consecutive probability density functions (PDFs) of manipulated variables and to find trade-offs between the aggressiveness of the self-tuning controller and robustness to uncertainty based on this overlap. The proposed methodology is illustrated by a continuous stirred tank reactor (CSTR) system with stochastic variations in the inlet concentration. The efficiency of the proposed algorithm is quantified in terms of control performance and robustness.</p>\n<p> </p>",
+        "link": "http://dx.doi.org/10.32920/23709639"
+    },
+    {
+        "id": 23875,
+        "title": "Quantification of uncertainty in probabilistic storm surge models : literature review",
+        "authors": "Victor Gonzalez, Norberto Nadal-Caraballo, Jeffrey Melby, Mary Cialone",
+        "published": "2019-3-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21079/11681/32295"
+    },
+    {
+        "id": 23876,
+        "title": "Statistical and Probabilistic Models",
+        "authors": "William P. Fox, Robert E. Burks",
+        "published": "2022-5-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003298762-3"
+    },
+    {
+        "id": 23877,
+        "title": "Robust Self-Tuning Control Design under Probabilistic Uncertainty using Polynomial Chaos Expansion-based Markov Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>A robust adaptive controller is developed for a chemical process using a generalized Polynomial Chaos (gPC) expansion-based Markov decision model, which can account for time-invariant probabilistic uncertainty and overcome computational challenge for building Markov models. To calculate the transition probability, a gPC model is used to iteratively predict probability density functions (PDFs) of system’s states including controlled and manipulated variables. For controller tuning, these PDFs and controller parameters are discretized to a finite number of discrete states for building a Markov model. The key idea is to predict the transition probability of controlled and manipulated variables over a finite future control horizon, which can be further used to calculate an optimal sequence of control actions. This approach can be used to optimally tune a controller for set point tracking within a finite future control horizon. The proposed method is illustrated by a continuous stirred tank reactor (CSTR) system with stochastic perturbations in the inlet concentration. The efficiency of the proposed algorithm is quantified in terms of control performance and transient decay.</p>\n<p> </p>",
+        "link": "http://dx.doi.org/10.32920/23709621"
+    },
+    {
+        "id": 23878,
+        "title": "Robust Self-Tuning Control Design under Probabilistic Uncertainty using Polynomial Chaos Expansion-based Markov Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>A robust adaptive controller is developed for a chemical process using a generalized Polynomial Chaos (gPC) expansion-based Markov decision model, which can account for time-invariant probabilistic uncertainty and overcome computational challenge for building Markov models. To calculate the transition probability, a gPC model is used to iteratively predict probability density functions (PDFs) of system’s states including controlled and manipulated variables. For controller tuning, these PDFs and controller parameters are discretized to a finite number of discrete states for building a Markov model. The key idea is to predict the transition probability of controlled and manipulated variables over a finite future control horizon, which can be further used to calculate an optimal sequence of control actions. This approach can be used to optimally tune a controller for set point tracking within a finite future control horizon. The proposed method is illustrated by a continuous stirred tank reactor (CSTR) system with stochastic perturbations in the inlet concentration. The efficiency of the proposed algorithm is quantified in terms of control performance and transient decay.</p>\n<p> </p>",
+        "link": "http://dx.doi.org/10.32920/23709621.v1"
+    },
+    {
+        "id": 23879,
+        "title": "Introduction to Probabilistic Methods &amp; Uncertainty Modeling in Direct &amp; Inverse Problems",
+        "authors": "Ariosto Bretanha Jorge, Carla Tatiana Mota Anflor, Guilherme Ferreira Gomes, Sergio Henrique da Silva Carneiro",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4322/978-65-86503-88-3.c01"
+    },
+    {
+        "id": 23880,
+        "title": "Probabilistic estimation of glacier surface elevation changes from DEM differentiation: a Bayesian method for outlier filtering, gap filling and uncertainty estimation with examples from High Mountain Asia",
+        "authors": "Gregoire Guillet, Tobias Bolch",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "&lt;p&gt;Various interdisciplinary studies have shown substantial discrepancies between modeled and remotely sensed glacier surface elevation change.It is therefore crucial to better understand and quantify uncertainties associated to both methods. We design a probabilistic framework with the aim to filter outliers, fill data voids and estimate uncertainties in glacier surface elevation changes computed from Digital Elevation Model (DEM) differentiation. The technique is based on a Bayesian formulation of the DEM difference problem and specifically targets surging and debris-covered glaciers, both at glacier and regional scales. We first define a set of physically admissible surface elevation changes as an elevation-dependent probability density function.&lt;/p&gt;&lt;p&gt;In a second step, terrain roughness is defined as the main descriptor for DEM uncertainty. Each surface elevation change pixel is a probability distribution. We present validation experiments in High Mountain Asia and show that the model produces results consistent with conventional DEM differencing, while avoiding the caveats of already existing methods. We further demonstrate that accounting for unstable glacier dynamics is crucial for accurate outlier filtering and robust uncertainty estimation. The technique can be applied to other types of remotely sensed glacier quantities (surface velocity etc.) and would provide more reliable characterization of uncertainty associated with changes in glacier mass and dynamics.&lt;/p&gt;",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu22-10073"
+    },
+    {
+        "id": 23881,
+        "title": "Probabilistic solvers enable a straight-forward exploration of numerical uncertainty in neuroscience models",
+        "authors": "Jonathan Oesterle, Nicholas Krämer, Philipp Hennig, Philipp Berens",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractUnderstanding neural computation on the mechanistic level requires models of neurons and neuronal networks. To analyze such models one typically has to solve coupled ordinary differential equations (ODEs), which describe the dynamics of the underlying neural system. These ODEs are solved numerically with deterministic ODE solvers that yield single solutions with either no, or only a global scalar bound on precision. It can therefore be challenging to estimate the effect of numerical uncertainty on quantities of interest, such as spike-times and the number of spikes. To overcome this problem, we propose to use recently developed sampling-based probabilistic solvers, which are able to quantify such numerical uncertainties. They neither require detailed insights into the kinetics of the models, nor are they difficult to implement. We show that numerical uncertainty can affect the outcome of typical neuroscience simulations, e.g. jittering spikes by milliseconds or even adding or removing individual spikes from simulations altogether, and demonstrate that probabilistic solvers reveal these numerical uncertainties with only moderate computational overhead.",
+        "link": "http://dx.doi.org/10.1101/2021.04.27.441605"
+    },
+    {
+        "id": 23882,
+        "title": "On information fusion for reliability estimation with multifidelity models",
+        "authors": "Carsten Proppe, Jonas Kaupp",
+        "published": "2022-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2022.103291"
+    },
+    {
+        "id": 23883,
+        "title": "Probabilistic Neural Network to Quantify Uncertainty of Wind Power Estimation",
+        "authors": "Farzad Karami, Nasser Kehtarnavaz, Mario Rotea",
+        "published": "2022-6-17",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dcas53974.2022.9845651"
+    },
+    {
+        "id": 23884,
+        "title": "Probabilistic Electricity Price Forecasting and Uncertainty Estimation Using Deep Bayesian Model with Multi-Distribution Fusion",
+        "authors": "Zhen Shao, Yating Han, Chao Fu, Jianrui Zha, Shanlin Yang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4706884"
+    },
+    {
+        "id": 23885,
+        "title": "Probabilistic Machine Learning for Parameters Estimation of Capacitance Resistance Modeling and Uncertainty Assessment.",
+        "authors": "M. Thiam, A. Nakhaee",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202273012"
+    },
+    {
+        "id": 23886,
+        "title": "Intent-Aware Probabilistic Trajectory Estimation for Collision Prediction with Uncertainty Quantification",
+        "authors": "Andrew Patterson, Arun Lakshmanan, Naira Hovakimyan",
+        "published": "2019-12",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cdc40024.2019.9029215"
+    },
+    {
+        "id": 23887,
+        "title": "Design of experiments for uncertainty quantification based on polynomial chaos expansion metamodels",
+        "authors": "Subhrajit Dutta, Amir H. Gandomi",
+        "published": "2020",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/b978-0-12-816514-0.00015-1"
+    },
+    {
+        "id": 23888,
+        "title": "Probabilistic estimation of glacier surface elevation changes from DEM differentiation: a Bayesian method for outlier filtering, gap filling and uncertainty estimation with examples from High Mountain Asia",
+        "authors": "Gregoire Guillet, Tobias Bolch",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/essoar.10509180.1"
+    },
+    {
+        "id": 23889,
+        "title": "An Uncertainty Estimation Framework for Probabilistic Object Detection",
+        "authors": "Zongyao Lyu, Nolan B. Gutierrez, William J. Beksi",
+        "published": "2021-8-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/case49439.2021.9551543"
+    },
+    {
+        "id": 23890,
+        "title": "Integrating Probabilistic Graphical Models, Information Theory, and the Principle of Increase of Entropy for Quantifying and Analyzing the Uncertainty in Fault Interpretation",
+        "authors": "Zhicheng Lei",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4423608"
+    },
+    {
+        "id": 23891,
+        "title": "Structural uncertainty modeling for nonlinear geometric response using nonintrusive reduced order models",
+        "authors": "X.Q. Wang, Marc P. Mignolet, Christian Soize",
+        "published": "2020-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2020.103033"
+    },
+    {
+        "id": 23892,
+        "title": "Bayesian Uncertainty Estimation for Gaussian Graphical Models and Centrality Indices",
+        "authors": "Joran Jongerling, Sacha Epskamp, Donald Ray Williams",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "In the network approach to psychopathology, psychological constructs are conceptualized as networks of interacting components (e.g., the symptoms of a disorder). In this network view, interest is on the degree to which symptoms influence each other, both directly and indirectly. These direct and indirect influences are often captured with centrality indices, however, the estimation method often used with these networks, the frequentist graphical LASSO (GLASSO), has difficulty estimating (uncertainty in) these measures. Bayesian estimation might provide a solution, as it is better suited to deal with bias in the sampling distribution of centrality indices. This study therefore compares estimation of symptom networks with Bayesian GLASSO- and Horseshoe priors to estimation using the frequentist GLASSO using extensive simulations.Results showed that the Bayesian GLASSO performed better than the Horseshoe, and that the Bayesian GLASSO outperformed the frequentist GLASSO with respect to bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity. Sensitivity was better for the frequentist GLASSO, but performance of the Bayesian GLASSO is usually close. With respect to uncertainty in the centrality measures, the Bayesian GLASSO shows good coverage for strength and closeness centrality, but uncertainty in betweenness centrality is estimated less well.",
+        "link": "http://dx.doi.org/10.31234/osf.io/7kude"
+    },
+    {
+        "id": 23893,
+        "title": "Combining thermochronological data with 3D probabilistic kinematic modeling of the Bavarian Subalpine Molasse for uncertainty estimation",
+        "authors": "Sofia Brisson, Josefine Ziegler, Nils Chudalla, Florian Wellmann, Christoph von Hagke",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Thermokinematic modeling often relies on prescribed geometric and kinematic models at depth without considering their uncertainty. This does not allow for the proper quantification of the relative contributions of different drivers to the exhumation signal. Considering uncertainty of structural data in thermokinematic models would help understanding how much shortening associated with the observed cooling signal occurred.&#160;The aim of this work is to combine probabilistic structural modeling with thermokinematic forward simulations to investigate the related uncertainties. For this purpose, the Bavarian Subalpine Molasse is particularly suited as a test case, as it connects the Alpine orogen with its foreland, and should shed light on the strain distributions during the latest stages of Alpine mountain building. 3D implicit geological modeling of the Bavarian Subalpine Molasse triangle zone was carried out and combined with a systematic random sampling approach to automatically generate an ensemble of geometric models in the range of assigned uncertainties. In addition, a probabilistic 3D kinematic forward model is constructed. A link can then be obtained between kinematic model parameters and present-day geometry in comparison with field observations at the surface and also in comparison to the range of geometric uncertainties in the 3D geological model. Results show that the uncertainty (quantified as information entropy) is distributed as a function of structural complexity, depth, and data density throughout the geometric model, and additionally where fault slip ranges are large in the kinematic model.In a next step, these models are combined with a thermokinematic forward model to integrate thermochronological measurements from previous campaigns, and eventually own measurements, to obtain an integrated picture of foreland evolution and associated uncertainties over space and time.",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu23-13340"
+    },
+    {
+        "id": 23894,
+        "title": "Integrating probabilistic graphical models, information theory, and the principle of increase of entropy for quantifying and analyzing the uncertainty in fault interpretation",
+        "authors": "Zhicheng Lei",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nFault interpretation in geology inherently involves uncertainty, and there is a growing need to develop methods to quantify and analyze this uncertainty. In this paper, we propose a novel framework that integrates Markov chains, graph theory, information theory, and the principle of increase of entropy to comprehensively analyze uncertainty in fault interpretation and its geological implications. Our framework provides a more complete and quantitative approach compared to traditional methods, we show how entropy can quantify the uncertainty in fault interpretation and kinematic analysis results, be interpreted for faulting analysis, and analyze fault network evolution using the principle of increase of entropy. Our findings suggest that entropy can be used as a metric to compare different fault networks, and it provides a measure of the total available evolutionary paths for a fault network, enabling quantification of uncertainty in fault kinematic analysis results. The integration of these tools provides a powerful approach for quantifying and analyzing the uncertainty in fault interpretation, which can enhance our understanding of the geological implications of uncertainty and enable geologists to analyze fault networks in a more quantitative manner.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3418526/v1"
+    },
+    {
+        "id": 23895,
+        "title": "Parameter Estimation with Uncertainty Quantification",
+        "authors": "Nan Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-22249-8_9"
+    },
+    {
+        "id": 23896,
+        "title": "Hybrid Possibilistic-Probabilistic Approach to Uncertainty Quantification in Electromagnetic Compatibility Models",
+        "authors": "Nicola Toscani, Flavia Grassi, Giordano Spadacini, Sergio A. Pignari",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-04870-9_10"
+    },
+    {
+        "id": 23897,
+        "title": "Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression",
+        "authors": "Anton Baumann, Thomas Roßberg, Michael Schmitt",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00484"
+    },
+    {
+        "id": 23898,
+        "title": "Analysis of Different Statistical Models in Probabilistic Joint Estimation of Porosity and Litho-Fluid Facies from Acoustic Impedance Values",
+        "authors": "Mattia Aleardi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "We discuss the influence played by different statistical models in the prediction of porosity and litho-fluid facies from logged and post-stack inverted acoustic impedance (Ip) values. We compare the inversion and classification results obtained under three different a-priori statistical assumptions: an analytical Gaussian distribution, an analytical Gaussian-mixture model and a non-parametric mixture distribution. The first model assumes Gaussian distributed porosity and Ip values, thus neglecting their facies-dependent behaviour caused by different lithologic and saturation conditions. Differently, the other two statistical models relate each component of the mixture to a specific litho-fluid facies, so that the facies-dependency of porosity and Ip values is taken into account. Blind well tests are used to validate the final predictions, whereas the analysis of the maximum-a-posteriori (MAP) solutions, the coverage ratio and the contingency analysis tools are used to quantitatively compare the inversion outcomes. This work points out that the correct choice of the statistical petrophysical model could be crucial in reservoir characterization studies. Indeed, for the investigated zone it turns out that the simple Gaussian model constitutes an oversimplified assumption, while the two mixture models provide more accurate results, although the non-parametric one yields slightly superior predictions with respect to the Gaussian-mixture assumption.",
+        "link": "http://dx.doi.org/10.20944/preprints201809.0237.v1"
+    },
+    {
+        "id": 23899,
+        "title": "Evaluation of the structural uncertainty of hydrological models in the estimation of multiple hydrological processes",
+        "authors": "Paulina Rodriguez, Ximena Vargas",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Hydrological models are powerful tools, that allows users to create a simplified representation of real-world system and that serve to understand the hydrological processes in a basin, and predict their future behavior, including, for example, the effects of climate change. However, these models are subject to multiple sources of uncertainty, including structural uncertainty, related to the hydrological processes simulated and to the spatial discretization applied (lumped, semi-distributed or distributed models). The effects of this modelling decision could be particularly relevant when the objective is to simulate more than one hydrological process.The objective of this work is to determine if the use of different model structures (lumped or semi-distributed), and the selection of process to be simulated allows reducing the uncertainty of the estimation of more than one hydrological process. Using Raven, a robust and flexible hydrological modelling framework, that supports a wide variety of modelling options, and sits atop a robust and extendible software architecture, eight model structures have been constructed to simulate the River Colorado en Junta con Palos Basin. This basin located in the central zone of Chile (Lat.-35.25, Lon. 71), has a snow-pluvial regime and an average annual rainfall of 1796 mm for the period 1979-2020. &#160;Additionally, this basin covers an area of 879 km2, with a wide elevation range, from 643 m.a.s.l. to 4074 m.a.s.l.The results have shown some differences at modelling daily streamflow (KGE from 0.68 to 0.72 in the lumped models, and from 0.68 to 0.8 in semi-distributed models). Furthermore, other important changes have been visualized related to the characterization of snow cover and soil moisture in the first layer of soil. The simulated series have been compared to satellite data (products MODIS10A2 for snow cover and NASA-USDA Enhanced SMAP Global Soil Moisture Data for superficial soil moisture).In the case of the snow cover, the annual duration of snow cover was evaluated, obtaining Pearson's coefficient values between 0.4 and 0.56 for lumped models, while these values reach 0.65 in the case of semi-distributed models. Regarding soil moisture, the changes were more significant when changing the structure of the model (selection and parameterizations of the processes), rather than its spatial discretization, with a range of KGE values from 0.34 to values close to 0.7, strongly influenced by the methods used to evaluate evapotranspiration and infiltration, as well as by the characteristics of the soil.Overall, this work demonstrates the potential of a flexible hydrologic modeling framework to assess and reduce the structural uncertainty of hydrologic models, taking advantage of the potential of these tools.",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu23-15920"
+    },
+    {
+        "id": 23900,
+        "title": "Probabilistic Project Duration Estimation Based on Uncertainty of Linkage between Activities",
+        "authors": " Seon-Gyoo Kim,  Junyoung Kim",
+        "published": "2020-4-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.17265/1934-7359/2020.04.005"
+    },
+    {
+        "id": 23901,
+        "title": "Time Series Models and Expansion Optimal Linear Estimation for Time-Dependent Reliability Analysis",
+        "authors": "André J. Torii, Eduardo M. Medeiros, Henrique Kroetz, Rafael H. Lopez, André T. Beck",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4322/978-65-86503-88-3.c14"
+    },
+    {
+        "id": 23902,
+        "title": "A bio-inspired approach for probabilistic energy management of micro-grid incorporating uncertainty in statistical cost estimation",
+        "authors": "S.J. Ben Christopher, M. Carolin Mabel",
+        "published": "2020-7",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.energy.2020.117810"
+    },
+    {
+        "id": 23903,
+        "title": "Calibrating Uncertainty Models for Steering Angle Estimation",
+        "authors": "Christian Hubschneider, Robin Hutmacher, J. Marius Zollner",
+        "published": "2019-10",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itsc.2019.8917207"
+    },
+    {
+        "id": 23904,
+        "title": "Efficient Bayesian estimation and uncertainty quantification in ordinary differential equation models",
+        "authors": "Prithwish Bhaumik, Subhashis Ghosal",
+        "published": "2017-11-2",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3150/16-bej856"
+    },
+    {
+        "id": 23905,
+        "title": "Fast and reliable probabilistic face embeddings based on constrained data uncertainty estimation",
+        "authors": "Kai Chen, Taihe Yi, Qi Lv",
+        "published": "2022-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.imavis.2022.104429"
+    },
+    {
+        "id": 23906,
+        "title": "Improved parameter estimation and uncertainty propagation in Bayesian Radiocarbon-dated Event Count [REC] models",
+        "authors": "William Christopher Carleton, Dave Campbell",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "Data about the past contain chronological uncertainty that needs to be accounted for in statistical models. Recently a method called Radiocarbon-dated Event Count (REC) modelling has been explored as a way to improve the handling of chronological uncertainty in the context of statistical regression. REC modelling has so far employed a Bayesian hierarchical framework for parameter estimation to account for chronological uncertainty in count series of radiocarbon-dates. This approach, however, suffers from a couple of limitations. It is computationally inefficient, which limits the amount of chronological uncertainty that can be accounted for, and the hierarchical framework can produce biased, but highly precise parameter estimates. Here we report the results of an investigation in which we compared hierarchical REC models to an alternative with simulated data and a new R package called \"chronup\". Our results indicate that the hierarchical framework can produce correct high-precision estimates given enough data, but it is susceptible to sampling bias and has an inflated Type I error rate. In contrast, the alternative better handles small samples and fully propagates uncertainty into parameter estimates. In light of these results, we think the alternative method is more generally suitable for Palaeo Science applications.",
+        "link": "http://dx.doi.org/10.31219/osf.io/7p9vx"
+    },
+    {
+        "id": 23907,
+        "title": "On the usefulness of gradient information in surrogate modeling: Application to uncertainty propagation in composite material models",
+        "authors": "Anindya Bhaduri, David Brandyberry, Michael D. Shields, Philippe Geubelle, Lori Graham-Brady",
+        "published": "2020-4",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2020.103024"
+    },
+    {
+        "id": 23908,
+        "title": "Correction: Order Under Uncertainty: Robust Differential Expression Analysis Using Probabilistic Models for Pseudotime Inference",
+        "authors": " ",
+        "published": "2017-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1371/journal.pcbi.1005477"
+    },
+    {
+        "id": 23909,
+        "title": "Robust Self-Tuning Control under Probabilistic Uncertainty using Generalized Polynomial Chaos Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "2017-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2017.08.944"
+    },
+    {
+        "id": 23910,
+        "title": "Undirected probabilistic graphical models",
+        "authors": "Qiang Ji",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/b978-0-12-803467-5.00009-5"
+    },
+    {
+        "id": 23911,
+        "title": "Directed probabilistic graphical models",
+        "authors": "Qiang Ji",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/b978-0-12-803467-5.00008-3"
+    },
+    {
+        "id": 23912,
+        "title": "Lookahead Diffusion Probabilistic Models for Refining Mean Estimation",
+        "authors": "Guoqiang Zhang, Kenta Niwa, W. Bastiaan Kleijn",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr52729.2023.00143"
+    },
+    {
+        "id": 23913,
+        "title": "Efficient Predictive Uncertainty Estimators for Deep Probabilistic Models",
+        "authors": "Julissa Villanueva Llerena, Denis Deratani Maua",
+        "published": "2020-4-3",
+        "citations": 0,
+        "abstract": "Deep Probabilistic Models (DPM) based on arithmetic circuits representation, such as Sum-Product Networks (SPN) and Probabilistic Sentential Decision Diagrams (PSDD), have shown competitive performance in several machine learning tasks with interesting properties (Poon and Domingos 2011; Kisa et al. 2014). Due to the high number of parameters and scarce data, DPMs can produce unreliable and overconfident inference. This research aims at increasing the robustness of predictive inference with DPMs by obtaining new estimators of the predictive uncertainty. This problem is not new and the literature on deep models contains many solutions. However the probabilistic nature of DPMs offer new possibilities to achieve accurate estimates at low computational costs, but also new challenges, as the range of different types of predictions is much larger than with traditional deep models. To cope with such issues, we plan on investigating two different approaches. The first approach is to perform a global sensitivity analysis on the parameters, measuring the variability of the output to perturbations of the model weights. The second approach is to capture the variability of the prediction with respect to changes in the model architecture. Our approaches shall be evaluated on challenging tasks such as image completion, multilabel classification.",
+        "link": "http://dx.doi.org/10.1609/aaai.v34i10.7142"
+    },
+    {
+        "id": 23914,
+        "title": "Estimation of Ordinary Differential Equation Models with Discretization Error Quantification",
+        "authors": "Takeru Matsuda, Yuto Miyatake",
+        "published": "2021-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/19m1278405"
+    },
+    {
+        "id": 23915,
+        "title": "Numerical Linear Programming under Non-Probabilistic Uncertainty Models — Interval and Fuzzy Sets",
+        "authors": "Keivan Shariatmadar, Mark Versteyhe",
+        "published": "2020-6",
+        "citations": 4,
+        "abstract": " This paper considers a linear optimisation problem under uncertainty with at least one element modelled as a non-probabilistic uncertainty. The uncertainty is expressed in the coefficient matrices of constraints and/or coefficients of goal function. Previous work converts such problems to classical (linear) optimisation problems and eliminates uncertainty by converting the linear programming under uncertainty problem to a decision problem using imprecise probability and imprecise decision theory. Our aim here is to generalise this approach numerically and present three methods to calculate the solution. We investigate what numerical results can be obtained for interval and fuzzy types of uncertainty models and compare them to classical probabilistic cases — for two different optimality criteria: maximinity and maximality. We also provide an efficient method to calculate the maximal solutions in the fuzzy set model. A numerical example is considered for illustration of the results. ",
+        "link": "http://dx.doi.org/10.1142/s0218488520500191"
+    },
+    {
+        "id": 23916,
+        "title": "A Probabilistic Characterization of Aleatoric and Epistemic Uncertainty in Solutions to Stochastic Inverse Problems Using Machine Learning Surrogate Models.",
+        "authors": "Timothy Wildey, Troy Butler, Tian Yen",
+        "published": "2022-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/2002264"
+    },
+    {
+        "id": 23917,
+        "title": "Static Systems: Probabilistic Structural Uncertainty",
+        "authors": "",
+        "published": "2022-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108123853.006"
+    },
+    {
+        "id": 23918,
+        "title": "Static Systems: Probabilistic Input Uncertainty",
+        "authors": "",
+        "published": "2022-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108123853.005"
+    },
+    {
+        "id": 23919,
+        "title": "Probabilistic Power Flow Model to Study Uncertainty in Power System Network Based Upon Point Estimation Method",
+        "authors": "Li Bin",
+        "published": "2017",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.11648/j.epes.20170605.11"
+    },
+    {
+        "id": 23920,
+        "title": "Uncertainty estimation by probabilistic first arrival time tomography using Markov Chain Monte Carlo sampling",
+        "authors": "A. Gesret, J. Belhadj, T. Romary, M. Noble, N. Desassis",
+        "published": "2017-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.201701694"
+    },
+    {
+        "id": 23921,
+        "title": "Reservoir interwell connectivity estimation from small datasets using a probabilistic data driven approach and uncertainty quantification",
+        "authors": "Moustapha Thiam, Ali Nakhaee",
+        "published": "2023-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.geoen.2023.212154"
+    },
+    {
+        "id": 23922,
+        "title": "Probabilistic Geomagnetic Fingerprinting for Low-Power Orientation Estimation utilising Geometric Models",
+        "authors": "Johannes Meyer, Lars Klitzke, Gerd von Colln",
+        "published": "2019-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/indin41052.2019.8972227"
+    },
+    {
+        "id": 23923,
+        "title": "Semiparametric Estimation of Probabilistic Index Models: Efficiency and Bias",
+        "authors": "Karel Vermeulen, Jan De Neve, Gustavo Amorim, Olivier Thas, Stijn Vansteelandt",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5705/ss.202021.0070"
+    },
+    {
+        "id": 23924,
+        "title": "Development of Throughfall Simulation Models and Prediction Uncertainty Estimation by Different Forest Stand Characteristics",
+        "authors": "Hyunje Yang, Honggeun Lim, Hyung Tae Choi, Jiyoung Lee",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "&lt;p&gt;Continuously increasing demand for freshwater makes many scientists study water yield prediction. In South Korea, of which two-third is covered by forests, understanding the water cycle especially in forests is even more important. Throughfall is penetrated rainfall through the tree canopy and it is the basic source for groundwater recharge which is directly related to the water yield on the catchment scale. Therefore, understanding the throughfall characteristics is essential for sustainable water management. This study is conducted to develop simple throughfall simulation models and estimate prediction uncertainty from developed models by different forest stand characteristics. National Institute of Forest Service (NIFoS) has collected throughfall data for 2 years from 7 different forest stand sites. Rutter model was used for the structure of the simple throughfall simulation model and it had several parameters for simulating. And over a million Monte Carlo experiments and generalized likelihood uncertainty estimation (GLUE) methodology were used for selecting parameters sets of behavioural models from comparing simulated throughfall and observed throughfall. From the range of behaviours in a period, we successfully estimated the prediction uncertainty. We also compared the features of behavioural parameter sets by different forest stand characteristics. We expect developed models can be applied for several forest stands in South Korea with various physical-based hydrological models.&lt;/p&gt;",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu22-6657"
+    },
+    {
+        "id": 23925,
+        "title": "Improvement of uncertainty estimation in global hydrological models by using high resolution satellite data as an interpolator",
+        "authors": "Rogier Westerhoff, Frederika Mourot, Conny Tschritter",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "\n        &lt;p&gt;Global hydrological models often ingest remotely-sensed observations supported by ground-truthed data in attempts to better quantify water balance components, e.g. soil water content, evapotranspiration, runoff/discharge, groundwater recharge. However, the scaling up process from local observations to that global, coarse, scale contains large uncertainty, often undermining the relevance of water balance calculations.&lt;/p&gt;&lt;p&gt;With recent more advanced high-resolution satellite data, freely available at 10m spatial resolution and (sub-) weekly temporal resolution, there is a possibility to reduce uncertainty in that upscaling. However, there are two challenges in doing so when working with global models: exponential increase of computational effort, and the need for quantifying the yet unknown uncertainty of assumptions that coarse global model cells and their underlying equations bring.&lt;/p&gt;&lt;p&gt;This study hypothesises that a bottom-up approach with high-resolution satellite data and in situ observations will better constrain and quantify uncertainty. By using these more spatially-explicit data, we make the case that the estimation of water balance components should become more data-driven. We propose a more data-driven model that improves uncertainty of estimation and scalability by using more sophisticated, remotely-sensed interpolation layers.&lt;/p&gt;&lt;p&gt;Our case study shows New Zealand-wide estimates of evapotranspiration and groundwater recharge at two resolutions: 1km x 1km, using an earlier developed model and MODIS satellite data; and a novel approach at 10m x 10m using Sentinel-1 and Sentinel-2 data to better incorporate impervious areas (e.g., anthropogenic urbanised land covers) and small land patches (e.g., small forestry areas). We then study the implications of using different spatial scales and quantify the differences between 10m x 10m versus 1km x 1km model pixel estimates. Our method is applied in the Google Earth Engine, a free-for-research high performance cloud computing facility, hence providing powerful computational resources and making our approach easily scalable to global, regional and catchment scales.&amp;#160;&lt;/p&gt;&lt;p&gt;Finally, we discuss what underlying model assumptions in traditional models could be changed to facilitate a method that works consistently at these different scales.&lt;/p&gt;\n        ",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu2020-4323"
+    },
+    {
+        "id": 23926,
+        "title": "Epistemic uncertainty of probabilistic building exposure compositions in scenario-based earthquake loss models",
+        "authors": "Juan Camilo Gomez-Zapata, Massimiliano Pittore, Fabrice Cotton, Henning Lilienkamp, Simantini Shinde, Paula Aguirre, Hernan Santa Maria",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Abstract\nIn seismic risk assessment the sources of uncertainty associated to building exposure modelling have not received as much attention as other components related to hazard and vulnerability. We are introducing that the degree of knowledge of a building portfolio can be described within a Bayesian probabilistic approach to acknowledge the epistemic uncertainty of its composition (i.e. proportions per building class). We are investigating the impact of such uncertainty on earthquake loss models through a novel approach based on an exposure-oriented logic tree arrangement and scenario-based seismic risk simulations. We have found that the building class reconnaissance either from prior assumptions by desktop studies with aggregated data (top-down approach) or from building-by-building data collection (bottom-up approach), plays a fundamental role in statistical modelling of exposure. We successively show that the selection of the basic set of building classes is a major contribution to the uncertainties in the loss estimations given their dependence on specific fragility functions. If the set of fragility functions handle multiple spectral periods, cross-correlated ground motion fields are required for the vulnerability assessment which ultimately control the variability of the losses. When the exposure composition is poorly known due to, for instance, simplifications and assumptions over aggregated data, its absolute contribution to the loss uncertainties has been found to be larger than the one imposed by the spatially distributed cross-correlated ground motion fields. This work invites to redesign desktop exposure studies, while it also highlights the importance of a standardized iterative approach to exposure data collection and modelling.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-178120/v1"
+    },
+    {
+        "id": 23927,
+        "title": "Contribution of Human Reliability in Power Probabilistic Safety Assessment Models Versus Shutdown Models",
+        "authors": "Marko Čepin",
+        "published": "2020-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nHuman reliability analysis is a method, which evaluates the human error probabilities of human failure events, which may arise when human actions are required in operation of the considered facility or system. The objective of the work is to show the contribution of human failure events in probabilistic safety assessment with focus on comparison of this contribution over the different plant operating states. The method integrates the diagnosis and action part, which are evaluated for all steps, which are needed for modeling of the human action under investigation considering the parameters, which impact the human failure probability and which are obtained from database. The results show that the risk contribution of human failure events is notably higher in low power and shutdown states than in full power operation. The results show that the human factor in shutdown plant states is the most important risk contributor regarding the contribution to the core damage frequency and regarding the risk reduction worth and risk achievement worth. Only at some plant operating states, some other groups of equipment show larger risk achievement worth than group of human failure events.",
+        "link": "http://dx.doi.org/10.1115/1.4044783"
+    },
+    {
+        "id": 23928,
+        "title": "Probabilistic Models for Uncertainty Quantification of Soil Properties on Site Response Analysis",
+        "authors": "Thanh-Tuan Tran, Kashif Salman, Seung-Ryong Han, Dookie Kim",
+        "published": "2020-9",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1061/ajrua6.0001079"
+    },
+    {
+        "id": 23929,
+        "title": "Physics-integrated deep learning for uncertainty quantification and reliability estimation of nonlinear dynamical systems",
+        "authors": "Udbhav Tripathi, Shailesh Garg, Rajdip Nayek, Souvik Chakraborty",
+        "published": "2023-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2023.103419"
+    },
+    {
+        "id": 23930,
+        "title": "Discrete-Time Systems: Probabilistic Input Uncertainty",
+        "authors": "",
+        "published": "2022-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108123853.007"
+    },
+    {
+        "id": 23931,
+        "title": "Polynomial Chaos Expansion for Probabilistic Uncertainty Propagation",
+        "authors": "Shuxing Yang, Fenfen Xiong, Fenggang Wang",
+        "published": "2017-7-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5772/intechopen.68484"
+    },
+    {
+        "id": 23932,
+        "title": "Continuous-Time Systems: Probabilistic Input Uncertainty",
+        "authors": "",
+        "published": "2022-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108123853.008"
+    },
+    {
+        "id": 23933,
+        "title": "Data-driven probabilistic energy consumption estimation for battery electric vehicles with model uncertainty",
+        "authors": "Ayan Maity, Sudeshna Sarkar",
+        "published": "2023-11-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/15435075.2023.2276174"
+    },
+    {
+        "id": 23934,
+        "title": "Robust estimation and economic predictive control for dynamic metabolic flux systems under probabilistic uncertainty",
+        "authors": "Honghao Zheng, Luis Ricardez-Sandoval, Hector Budman",
+        "published": "2020-9",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.compchemeng.2020.106918"
+    },
+    {
+        "id": 23935,
+        "title": "Uncertainty Estimation Using Probabilistic Dependency: An Extended Rough Set-Based Approach",
+        "authors": "Indrajit Ghosh",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-15-2188-1_43"
+    },
+    {
+        "id": 23936,
+        "title": "Uncertainty Calibration",
+        "authors": "",
+        "published": "2022-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781316681411.027"
+    },
+    {
+        "id": 23937,
+        "title": "Inverse problems in structural safety analysis with combined probabilistic and non-probabilistic uncertainty models",
+        "authors": "K. Karuna, C.S. Manohar",
+        "published": "2017-11",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.engstruct.2017.07.044"
+    },
+    {
+        "id": 23938,
+        "title": "Robust Self-Tuning Control Design under Probabilistic Uncertainty using Polynomial Chaos Expansion-based Markov Models",
+        "authors": "Yuncheng Du, Hector Budman, Thomas Duever",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2018.09.273"
+    },
+    {
+        "id": 23939,
+        "title": "Locating uncertainty in stochastic evolutionary models: divergence time estimation",
+        "authors": "Charles H. Pence",
+        "published": "2019-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10539-019-9683-1"
+    },
+    {
+        "id": 23940,
+        "title": "Probabilistic fatigue resistance model for steel welded details under variable amplitude loading – Inference and uncertainty estimation",
+        "authors": "Davide Leonetti, Johan Maljaars, H.H. Snijder",
+        "published": "2020-6",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ijfatigue.2020.105515"
+    },
+    {
+        "id": 23941,
+        "title": "Analysis of Different Statistical Models in Probabilistic Joint Estimation of Porosity and Litho-Fluid Facies from Acoustic Impedance Values",
+        "authors": "Mattia Aleardi",
+        "published": "2018-10-26",
+        "citations": 3,
+        "abstract": "We discuss the influence of different statistical models in the prediction of porosity and litho-fluid facies from logged and inverted acoustic impedance (Ip) values. We compare the inversion and classification results that were obtained under three different statistical a-priori assumptions: an analytical Gaussian distribution, an analytical Gaussian-mixture model, and a non-parametric mixtu re distribution. The first model assumes Gaussian distributed porosity and Ip values, thus neglecting their facies-dependent behaviour related to different lithologic and saturation conditions. Differently, the other two statistical models relate each component of the mixture to a specific litho-fluid facies, so that the facies-dependency of porosity and Ip values is taken into account. Blind well tests are used to validate the final predictions, whereas the analysis of the maximum-a-posteriori (MAP) solutions, the coverage ratio, and the contingency analysis tools are used to quantitatively compare the inversion outcomes. This work points out that the correct choice of the statistical petrophysical model could be crucial in reservoir characterization studies. Indeed, for the investigated zone, it turns out that the simple Gaussian model constitutes an oversimplified assumption, while the two mixture models provide more accurate estimates, although the non-parametric one yields slightly superior predictions with respect to the Gaussian-mixture assumption.",
+        "link": "http://dx.doi.org/10.3390/geosciences8110388"
+    },
+    {
+        "id": 23942,
+        "title": "Uncertainty estimation with LSTM based rainfall-runoff models",
+        "authors": "Daniel Klotz, Frederik Kratzert, Martin Gauch, Alden K. Sampson, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter, Grey Nearing",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "&lt;p&gt;Uncertainty is a central part of hydrological inquiry. Deep Learning provides us with new tools for estimating these inherent uncertainties. The currently best performing rainfall-runoff models are based on Long Short-Term Memory (LSTM) networks. However, most LSTM-based modelling studies focus on point estimates.&lt;/p&gt;&lt;p&gt;Building on the success of LSTMs for estimating point predictions, this contribution explores different extensions to directly provide uncertainty estimations. We find that the resulting models provide excellent estimates in our benchmark for daily rainfall-runoff across hundreds basins. We provide an intuitive overview of these strong results, the benchmarking procedure, and the approaches used for obtaining them.&lt;/p&gt;&lt;p&gt;In short, we extend the LSTMs in two ways to obtain uncertainty estimations. First, we parametrize LSTMs so that they directly provide uncertainty estimates in the form of mixture densities. This is possible because it is a general function approximation approach. It requires minimal a-priori knowledge of the sampling distribution and provides us with an estimation technique for the aleatoric uncertainty of the given setup. &amp;#160;Second, we use Monte Carlo Dropout to randomly mask out random connections of the network. This enforces an implicit approximation to a Gaussian Process and therefore provides us with a tool to estimate a form of epistemic uncertainty. In the benchmark the mixture density based approaches provide better estimates, especially the ones that use Asymmetric Laplacians as components.&lt;/p&gt;",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu21-13308"
+    },
+    {
+        "id": 23943,
+        "title": "Data for Development of the cubature consider Kalman filter to improve state estimation of hydrological models by accounting for parameter uncertainty",
+        "authors": "Yiqun Sun",
+        "published": "2022-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4211/hs.94562ee797034c02ba9863b9d1587768"
+    },
+    {
+        "id": 23944,
+        "title": "Towards an Effective Application of Parameter Estimation and Uncertainty Analysis to Mathematical Groundwater Models",
+        "authors": "Paulo A. Herrera, Miguel Angel Marazuela, Giovanni Formentin, Thilo Hofmann",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Groundwater models serve as support tools to among others: assess water resources, evaluate management strategies, design remediation systems and optimize monitoring networks. Thus, the assimilation of information from observations into models is crucial to improve forecasts and reduce uncertainty of their results. As more information is collected routinely due to the use of automatic sensors, data loggers and real time transmission systems; groundwater modelers are becoming increasingly aware of the importance of using sophisticated tools to perform model calibration in combination with sensitivity and uncertainty analysis. Despite their usefulness, available approaches to perform this kind of analyses still present some challenges such as non-unique solution for the parameter estimation problem, high computational burden and a need of a deep understanding of the theoretical basis for the correct interpretation and use of their results, in particular the ones related to uncertainty analysis. We present a brief derivation of the main equations that serve as basis for this kind of analysis. We demonstrate how to use them to estimate parameters, assess the sensitivity and quantify the uncertainty of the model results using an example inspired by a real world setting. We analyze some of the main pitfalls that can occur when performing such kind of analyses and comment on practical approaches to overcome them. We also demonstrate that including groundwater flow estimations, although helpful in constraining the solution of the inverse problem as shown previously, may be difficult to apply in practice and, in some cases, may not provide enough information to significantly constrain the set of potential solutions.",
+        "link": "http://dx.doi.org/10.20944/preprints202203.0240.v1"
+    },
+    {
+        "id": 23945,
+        "title": "Measurement Uncertainty Analysis of Temperature Based Solar Radiation Estimation Models",
+        "authors": "Can Ekici, Ismail Teke",
+        "published": "2018-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s12647-018-0258-4"
+    },
+    {
+        "id": 23946,
+        "title": "On Error Measures for Validation and Uncertainty Estimation of Predictive QSAR Models",
+        "authors": "Supratik Kar, Kunal Roy, Jerzy Leszczynski",
+        "published": "2019-11-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429341373-10"
+    },
+    {
+        "id": 23947,
+        "title": "Uncertainty Estimation in Deep Bayesian Survival Models",
+        "authors": "Christian Marius Lillelund, Martin Magris, Christian Fischer Pedersen",
+        "published": "2023-10-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bhi58575.2023.10313466"
+    },
+    {
+        "id": 23948,
+        "title": "A new gamma spectroscopy methodology based on probabilistic uncertainty estimation and conservative approach",
+        "authors": "Thomas Frosio, Nabil Menaa, Charlotte Duchemin, Nicolas Riggaz, Chris Theis",
+        "published": "2020-1",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.apradiso.2019.108929"
+    },
+    {
+        "id": 23949,
+        "title": "A Probabilistic Uncertainty Estimation Method for Turbulence Parameters Measured by Hot Wire Anemometry in Short Duration Wind Tunnels",
+        "authors": "Elissavet Boufidi, Sergio Lavagnoli, Fabrizio Fontaneto",
+        "published": "2019-6-17",
+        "citations": 0,
+        "abstract": "Abstract\nA robust and complete uncertainty estimation method is developed to quantify the uncertainty of turbulence quantities measured by hot-wire anemometry at the inlet of a short-duration turbine test rig. The uncertainty is categorized into two macro-uncertainty sources: the measurement related uncertainty (the uncertainty of each instantaneous velocity sample) and the uncertainty stemming from the statistical treatment of the time series. The former is addressed by the implementation of a Monte Carlo method. The latter, which is directly related to the duration of the acquired signal, is estimated using the moving block bootstrap method, a non-parametric resampling algorithm suitable for correlated time series. This methodology allows computing the confidence intervals of the spanwise distributions of mean velocity, turbulence intensity, length scales and other statistical moments at the inlet of the turbine test section.",
+        "link": "http://dx.doi.org/10.1115/gt2019-90461"
+    },
+    {
+        "id": 23950,
+        "title": "Probabilistic Model for Regional Multiseverity Casualty Estimation due to Building Damage Following an Earthquake",
+        "authors": "Luis Ceferino, Anne Kiremidjian, Greg Deierlein",
+        "published": "2018-9",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1061/ajrua6.0000972"
+    },
+    {
+        "id": 23951,
+        "title": "Uncertainty Distribution Estimation Based on Unified Uncertainty Analysis Under Probabilistic, Evidence, Fuzzy and Interval Uncertainties",
+        "authors": "Xiangyun Long, Mengchen Yu, Donglin Mao, Chao Jiang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-9398-5_23"
+    },
+    {
+        "id": 23952,
+        "title": "On Using GEV or Gumbel Models When Applying EVT for Probabilistic WCET Estimation",
+        "authors": "Karila Palma Silva, Luis Fernando Arcaro, Romulo Silva De Oliveira",
+        "published": "2017-12",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/rtss.2017.00028"
+    },
+    {
+        "id": 23953,
+        "title": "Multifidelity Monte Carlo Estimation with Adaptive Low-Fidelity Models",
+        "authors": "Benjamin Peherstorfer",
+        "published": "2019-1",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/17m1159208"
+    },
+    {
+        "id": 23954,
+        "title": "Quantifying sources of uncertainty in drug discovery predictions with probabilistic models",
+        "authors": "Stanley E. Lazic, Dominic P. Williams",
+        "published": "2021-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ailsci.2021.100004"
+    },
+    {
+        "id": 23955,
+        "title": "EMI Risk Estimation for System-Level Functions Using Probabilistic Graphical Models",
+        "authors": "Lokesh Devaraj, Alastair R. Ruddle, Alistair P. Duffy",
+        "published": "2021-7-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/emc/si/pi/emceurope52599.2021.9559291"
+    },
+    {
+        "id": 23956,
+        "title": "Failure Probability Estimation of Linear Time Varying Systems by Progressive Refinement of Reduced Order Models",
+        "authors": "Agnimitra Dasgupta, Debraj Ghosh",
+        "published": "2019-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/18m1165840"
+    },
+    {
+        "id": 23957,
+        "title": "Measuring Uncertainty of Predictors",
+        "authors": "Shonosuke Sugasawa, Tatsuya Kubokawa",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-9486-9_3"
+    },
+    {
+        "id": 23958,
+        "title": "The impact of parameter estimation uncertainty in extreme wind speed models",
+        "authors": "Ágnes Kenéz, Attila László Joó",
+        "published": "2023-3-7",
+        "citations": 0,
+        "abstract": "AbstractAll the available information and uncertainties should be taken into account in a model to give correct answer to a stated problem and evaluate the performance of a structure. This study deals with the impact of parameter estimation uncertainty in extreme wind speeds on the assessed reliability index using frequentist approach. The peak-over-threshold approach with an automated threshold selection method is applied and bootstrapping is used to determine the 95% confidence interval of the estimated reliability index. Based on the results practical recommendations, i.e., a framework of this procedure are derived on how to handle peak-over-threshold in extreme wind speed models for the application of the proposed performance-based wind engineering design.",
+        "link": "http://dx.doi.org/10.1556/606.2022.00645"
+    },
+    {
+        "id": 23959,
+        "title": "Probabilistic Estimation of Rock Load Acting on Tunnels Considering Uncertainty in Peak and Post-peak Strength Parameters",
+        "authors": "Masoud Mazraehli, Shokrollah Zare",
+        "published": "2022-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10706-022-02057-1"
+    },
+    {
+        "id": 23960,
+        "title": "Phenomenological Creep Models of Nanocomposites (Probabilistic Approach)",
+        "authors": "Leo Razdolsky",
+        "published": "2019-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/b22416-7"
+    },
+    {
+        "id": 23961,
+        "title": "Simulated Probabilistic Population Estimation",
+        "authors": "Sherman Dorn",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "One can estimate population sizes from random nonunique identifier variables such as birthdates or first names. Banks and Pandiani (2001) developed an efficient method of estimating population from the number of birthdates, and extended that to estimating overlaps of two populations. Banks and Pandiani took advantage of the (almost) uniform distribution of birthdates using the coupon-collector model in probability. This paper develops an alternative method from simulated data and extends the method to nonuniform distributions, such as names. The appendix provides applicable R code.",
+        "link": "http://dx.doi.org/10.31235/osf.io/dpc7z"
+    },
+    {
+        "id": 23962,
+        "title": "Hybrid Probabilistic–Possibilistic Treatment of Uncertainty in\n                    Building Energy Models: A Case Study of Sizing Peak Cooling\n                    Loads",
+        "authors": "Fazel Khayatian, Maryam MeshkinKiya, Piero Baraldi, Francesco Di Maio, Enrico Zio",
+        "published": "2018-12-1",
+        "citations": 2,
+        "abstract": "Abstract\nOptimal sizing of peak loads has proven to be an important factor affecting the overall energy consumption of heating ventilation and air-conditioning (HVAC) systems. Uncertainty quantification of peak loads enables optimal configuration of the system by opting for a suitable size factor. However, the representation of uncertainty in HVAC sizing has been limited to probabilistic analysis and scenario-based cases, which may limit and bias the results. This study provides a framework for uncertainty representation in building energy modeling, due to both random factors and imprecise knowledge. The framework is shown by a numerical case study of sizing cooling loads, in which uncertain climatic data are represented by probability distributions and human-driven activities are described by possibility distributions. Cooling loads obtained from the hybrid probabilistic–possibilistic propagation of uncertainty are compared to those obtained by pure probabilistic and pure possibilistic approaches. Results indicate that a pure possibilistic representation may not provide detailed information on the peak cooling loads, whereas a pure probabilistic approach may underestimate the effect of uncertain human behavior. The proposed hybrid representation and propagation of uncertainty in this paper can overcome these issues by proper handling of both random and limited data.",
+        "link": "http://dx.doi.org/10.1115/1.4039784"
+    },
+    {
+        "id": 23963,
+        "title": "Accurate bus occupancy estimation for WLAN probing utilising probabilistic models",
+        "authors": "Lars Mikkelsen, Tatiana Madsen, Hans Peter Schwefel",
+        "published": "2019",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1504/ijsnet.2019.101240"
+    },
+    {
+        "id": 23964,
+        "title": "Estimation of Failure Probability Function under Imprecise Probabilities by Active Learning–Augmented Probabilistic Integration",
+        "authors": "Chao Dang, Pengfei Wei, Jingwen Song, Michael Beer",
+        "published": "2021-12",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1061/ajrua6.0001179"
+    },
+    {
+        "id": 23965,
+        "title": "Probabilistic analytical target cascading using kernel density estimation for accurate uncertainty propagation",
+        "authors": "Yongsu Jung, Jongmin Lee, Mingyu Lee, Namwoo Kang, Ikjin Lee",
+        "published": "2020-5",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00158-019-02455-9"
+    },
+    {
+        "id": 23966,
+        "title": "A probabilistic approach for seismic demand estimation of steel moment frames considering capacity uncertainty",
+        "authors": "Behzad Shokrollahi Yancheshmeh, Mehdi Mahdavi Adeli",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s42107-023-00623-3"
+    },
+    {
+        "id": 23967,
+        "title": "Phenomenological Creep Models of Fibrous Composites (Probabilistic Approach)",
+        "authors": "Leo Razdolsky",
+        "published": "2019-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/b22416-6"
+    },
+    {
+        "id": 23968,
+        "title": "One-year estimation uncertainty in some claim development models",
+        "authors": "Walther Neuhaus",
+        "published": "2019-8-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/03461238.2019.1586757"
+    },
+    {
+        "id": 23969,
+        "title": "Uncertainty Estimation in Deep Speech Enhancement Using Complex Gaussian Mixture Models",
+        "authors": "Huajian Fang, Timo Gerkmann",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095213"
+    },
+    {
+        "id": 23970,
+        "title": "Likelihood-free posterior estimation and uncertainty quantification for diffusion MRI models",
+        "authors": "Hazhar Sufi Karimi, Arghya Pal, Lipeng Ning, Yogesh Rathi",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "Abstract\nDiffusion magnetic resonance imaging (dMRI) allows to estimate brain tissue microstructure as well as the connectivity of the white matter (known as tractography). Accurate estimation of the model parameters (by solving the inverse problem) is thus very important to infer the underlying biophysical tissue properties and fiber orientations. Although there has been extensive research on this topic with a myriad of dMRI models, most models use standard nonlinear optimization techniques and only provide an estimate of the model parameters without any information (quantification) about uncertainty in their estimation. Further, the effect of this uncertainty on the estimation of the derived dMRI microstructural measures downstream (e.g., fractional anisotropy) is often unknown and is rarely estimated. To address this issue, we first design a new deep-learning algorithm to identify the number of crossing fibers in each voxel. Then, at each voxel, we propose a robust likelihood-free deep learning method to estimate not only the mean estimate of the parameters of a multi-fiber dMRI model (e.g., the biexponential model), but also its full posterior distribution. The posterior distribution is then used to estimate the uncertainty in the model parameters as well as the derived measures. We perform several synthetic and in-vivo quantitative experiments to demonstrate the robustness of our approach for different noise levels and out-of-distribution test samples. Besides, our approach is computationally fast and requires an order of magnitude less time than standard nonlinear fitting techniques. The proposed method demonstrates much lower error (compared to existing methods) in estimating several metrics, including number of fibers in a voxel, fiber orientation, and tensor eigenvalues. The proposed methodology is quite general and can be used for the estimation of the parameters from any other dMRI model.",
+        "link": "http://dx.doi.org/10.1162/imag_a_00088"
+    }
+]

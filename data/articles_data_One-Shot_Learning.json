@@ -1,0 +1,902 @@
+[
+    {
+        "id": 17571,
+        "title": "Generative One-Shot Learning (GOL): A Semi-Parametric Approach to One-Shot Learning in Autonomous Vision",
+        "authors": "Sorin M. Grigorescu",
+        "published": "2018-5",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra.2018.8461174"
+    },
+    {
+        "id": 17572,
+        "title": "WITHDRAWN: Learning to Optimize Decision Boundary for One-Shot One-Class Image Recognition",
+        "authors": "",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThe full text of this preprint has been withdrawn by the authors due to author disagreement with the posting of the preprint. Therefore, the authors do not wish this work to be cited as a reference. Questions should be directed to the corresponding author.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1848299/v2"
+    },
+    {
+        "id": 17573,
+        "title": "One-shot learning with spiking neural networks",
+        "authors": "Franz Scherr, Christoph Stöckl, Wolfgang Maass",
+        "published": "No Date",
+        "citations": 8,
+        "abstract": "AbstractUnderstanding how one-shot learning can be accomplished through synaptic plasticity in neural networks of the brain is a major open problem. We propose that approximations toBPTTin recurrent networks of spiking neurons (RSNNs) such ase-propcannot achieve this because their local synaptic plasticity is gated by learning signals that are rather ad hoc from a biological perspective: Random projections of instantaneously arising losses at the network outputs, analogously as in Broadcast Alignment for feedforward networks. In contrast, synaptic plasticity is gated in the brain by learning signals such as dopamine, which are emitted by specialized brain areas, e.g. VTA. These brain areas have arguably been optimized by evolution to gate synaptic plasticity in such a way that fast learning of survival-relevant tasks is enabled. We found that a corresponding model architecture, where learning signals are emitted by a separate RSNN that is optimized to facilitate fast learning, enables one-shot learning via local synaptic plasticity in RSNNs for large families of learning tasks. The same learning approach also supports fast spike-based learning of posterior probabilities of potential input sources, thereby providing a new basis for probabilistic reasoning in RSNNs. Our new learning approach also solves an open problem in neuromorphic engineering, where on-chip one-shot learning capability is highly desirable for spike-based neuromorphic devices, but could so far not be achieved. Our method can easily be mapped into neuromorphic hardware, and thereby solves this problem.",
+        "link": "http://dx.doi.org/10.1101/2020.06.17.156513"
+    },
+    {
+        "id": 17574,
+        "title": "SENet: Sequential Encoders for One-Shot Learning",
+        "authors": "Nariman Abdi, Farzad Parvaresh, Mohammad Farzan Sabahi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>One-shot object recognition is a challenging task for deep neural networks. It becomes more difficult when there is a domain shift between support and query samples. The generalization of a deep model on an unknown domain with different distributions is another problematic task in on-shot recognition. This work introduces a novel deep network architecture named SENet and a multi-step meta-training strategy to overcome the aforementioned problems. To the best of our knowledge, this work outperforms all state-of-the-art models in one-shot traffic sign recognition and one-shot logo identification by superior results. Although the SENet model achieves comparable results for the traditional GTSRB benchmark, it has about 6X fewer parameters than its competitors. The smaller size of the SENet architecture enables it to be used in resource-constrained devices in many applications such as smart vehicles. The experimental results depict that our proposed SENet performance is ameliorated by large margins, with up to 20% accuracy for one-shot classification and 30% area under the curve (AUC) for image retrieval tasks.<br>\n </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.23445554"
+    },
+    {
+        "id": 17575,
+        "title": "SENet: Sequential Encoders for One-Shot Learning",
+        "authors": "Nariman Abdi, Farzad Parvaresh, Mohammad Farzan Sabahi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>One-shot object recognition is a challenging task for deep neural networks. It becomes more difficult when there is a domain shift between support and query samples. The generalization of a deep model on an unknown domain with different distributions is another problematic task in on-shot recognition. This work introduces a novel deep network architecture named SENet and a multi-step meta-training strategy to overcome the aforementioned problems. To the best of our knowledge, this work outperforms all state-of-the-art models in one-shot traffic sign recognition and one-shot logo identification by superior results. Although the SENet model achieves comparable results for the traditional GTSRB benchmark, it has about 6X fewer parameters than its competitors. The smaller size of the SENet architecture enables it to be used in resource-constrained devices in many applications such as smart vehicles. The experimental results depict that our proposed SENet performance is ameliorated by large margins, with up to 20% accuracy for one-shot classification and 30% area under the curve (AUC) for image retrieval tasks.<br>\n </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.23445554.v1"
+    },
+    {
+        "id": 17576,
+        "title": "One-shot trajectory learning of open quantum systems dynamics",
+        "authors": "ARIF ULLAH, Pavlo O. Dral",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Nonadiabatic quantum dynamics are important for understanding lightharvesting processes, but their propagation with tradition methods can be rather expensive. Here we present a one-short trajectory learning approach that allows to directly make ultra-fast prediction of the entire trajectory for a new set of such simulation parameters as temperature and reorganization energy. The whole 2.5 ps long propagation takes 50 milliseconds as we demonstrate on the comparatively large quantum system, the Fenna–Matthews–Olsen (FMO) complex. Our approach also significantly reduces time and memory requirements for training.",
+        "link": "http://dx.doi.org/10.26434/chemrxiv-2022-gwvg4"
+    },
+    {
+        "id": 17577,
+        "title": "One-shot trajectory learning of open quantum systems dynamics",
+        "authors": "ARIF ULLAH, Pavlo O. Dral",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Nonadiabatic quantum dynamics are important for understanding light-harvesting processes, but their propagation with traditional methods can be rather expensive. Here we present a one-shot trajectory learning approach that allows to directly make ultra-fast prediction of the entire trajectory of the reduced density matrix for a new set of such simulation parameters as temperature and reorganization energy. The whole 10ps long propagation takes 70 milliseconds as we demonstrate on the comparatively large quantum system, the Fenna–Matthews–Olsen (FMO) complex. Our approach also significantly reduces time and memory requirements for training.",
+        "link": "http://dx.doi.org/10.26434/chemrxiv-2022-gwvg4-v2"
+    },
+    {
+        "id": 17578,
+        "title": "Dendritic processing of spontaneous neuronal sequences for one-shot learning",
+        "authors": "Tatsuya Haga, Tomoki Fukai",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractSpontaneous firing sequences colloquially called “preplay” are fundamental features of hippocampal network physiology. Preplay sequences have been hypothesized to participate in hippocampal learning and memory, but such functional roles and their potential cellular mechanisms remain unexplored. Here, we report a computational model based on the functional propagation of preplay sequences in the CA3 neuronal network. The model instantiates two synaptic pathways in CA3 neurons, one for proximal dendrite-somatic interactions to generate intrinsic preplay sequences and the other for distal dendritic processing of extrinsic sensory signals. The core dendritic computation is the maximization of matching between patterned activities in the two compartments through nonlinear spike generation. The model performs robust one-shot learning with long-term stability and independence that are modulated by the plasticity of dendrite-targeted inhibition. This model demonstrates that learning models combined with dendritic computations can enable preplay sequences to act as templates for rapid and stable memory formation.",
+        "link": "http://dx.doi.org/10.1101/165613"
+    },
+    {
+        "id": 17579,
+        "title": "One Shot Learning for Generic Instance Segmentation in RGBD Videos",
+        "authors": "Xiao Lin, Josep Casas, Montse Pardàs",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0007259902330239"
+    },
+    {
+        "id": 17580,
+        "title": "One Shot Learning for Generic Instance Segmentation in RGBD Videos",
+        "authors": "Xiao Lin, Josep Casas, Montse Pardàs",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0007259900002108"
+    },
+    {
+        "id": 17581,
+        "title": "Siamese Sinir Ağı One-Shot Öğrenmeyi Kullanarak İmza Doğrulama",
+        "authors": "Merve VAROL ARISOY",
+        "published": "2021-9-16",
+        "citations": 3,
+        "abstract": "With the acceleration of digitalization in all areas of our lives, the need for biometric verification methods is increasing. The fact that biometric data is unique and biometric verification is stronger against phishing attacks compared to password-based authentication methods, has increased its preference rate. Signature verification, which is one of the biometric verification types, plays an important role in many areas such as banking systems, administrative and judicial applications. There are 2 types of signature verification, online and offline, for identifying the identity of the person and detecting signature forgery. Online signature verification is carried out during signing and temporal dynamic data are available regarding the person's signature. Offline verification is applied by scanning the image after signing, and this verification is limited to spatial data. Therefore, the offline signature verification process is considered a more challenging task.\nIn this study, offline signature verification, independent of the writer, based on One-Shot Learning, was performed using Siamese Neural Network. Due to the fact that the Deep Convolution Neural Network requires a large amount of labeled data for image classification, real and fake signature distinction has been achieved by using the One-Shot Learning method, which can perform a successful classification by using less numbers of signature images. As a result of the experiments conducted on signature datasets, using the Siamese architecture, the proposed approach achieved percentage accuracy of 93.23, 92.11, 89.78, 91.35 verification in 4NSigComp2012, SigComp2011, 4NSigComp2010 and BHsig260 respectively.",
+        "link": "http://dx.doi.org/10.47933/ijeir.972796"
+    },
+    {
+        "id": 17582,
+        "title": "Demystification of Few-shot and One-shot Learning",
+        "authors": "Ivan Y. Tyukin, Alexander N. Gorban, Muhammad H. Alkhudaydi, Qinghua Zhou",
+        "published": "2021-7-18",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9534395"
+    },
+    {
+        "id": 17583,
+        "title": "Semi-Supervised Spiking Neural Network for One-Shot Object Appearance Learning",
+        "authors": "Igor Peric, Robert Hangu, Jacques Kaiser, Stefan Ulbrich, Arne Roennau, Johann Marius Zoellner, Ruediger Dillman",
+        "published": "2017",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0006503300470053"
+    },
+    {
+        "id": 17584,
+        "title": "Review for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "",
+        "published": "2023-2-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v1/review1"
+    },
+    {
+        "id": 17585,
+        "title": "CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition",
+        "authors": "Jedrzej Kozerawski, Matthew Turk",
+        "published": "2018-6",
+        "citations": 26,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2018.00363"
+    },
+    {
+        "id": 17586,
+        "title": "A One-shot Learning Approach to Image Classification using Genetic Programming",
+        "authors": "Harith Al-Sahaf, Mengjie Zhang, M Johnston",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "In machine learning, it is common to require a large number of instances to train a model for classification. In many cases, it is hard or expensive to acquire a large number of instances. In this paper, we propose a novel genetic programming (GP) based method to the problem of automatic image classification via adopting a one-shot learning approach. The proposed method relies on the combination of GP and Local Binary Patterns (LBP) techniques to detect a predefined number of informative regions that aim at maximising the between-class scatter and minimising the within-class scatter. Moreover, the proposed method uses only two instances of each class to evolve a classifier. To test the effectiveness of the proposed method, four different texture data sets are used and the performance is compared against two other GP-based methods namely Conventional GP and Two-tier GP. The experiments revealed that the proposed method outperforms these two methods on all the data sets. Moreover, a better performance has been achieved by Naïve Bayes, Support Vector Machine, and Decision Trees (J48) methods when extracted features by the proposed method have been used compared to the use of domain-specific and Two-tier GP extracted features. © Springer International Publishing 2013.",
+        "link": "http://dx.doi.org/10.26686/wgtn.13150934.v1"
+    },
+    {
+        "id": 17587,
+        "title": "One-shot learning and robust recall with BTSP, a biological synaptic plasticity rule",
+        "authors": "Yujie Wu, Wolfgang Maass",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "ABSTRACTRecent experimental studies in the awake brain have identified a rule for synaptic plasticity that is instrumental for the instantaneous creation of memory traces in area CA1 of the mammalian brain: Behavioral Time scale Synaptic Plasticity (BTSP). This one-shot learning rule differs in essential aspects from previously considered plasticity mechanisms. We introduce a transparent model for the core function of BTSP, and establish a theory that enables a principled understanding of the system of memory traces that it creates. Our theoretical predictions and numerical simulations show that BTSP is able to create a functionally powerful content-addressable memory without the need for high-resolution synaptic weights. Furthermore, it reproduces the repulsion effect of human memory, whereby traces for similar memory items are pulled apart to enable differential downstream processing. Altogether, our results create a link between synaptic plasticity in area CA1 of the hippocampus and its network function. They also provide a blueprint for implementing content-addressable memory with on-chip learning capability in highly energy-efficient crossbar arrays of memristors.",
+        "link": "http://dx.doi.org/10.1101/2023.04.04.535572"
+    },
+    {
+        "id": 17588,
+        "title": "A One-shot Learning Approach to Image Classification using Genetic Programming",
+        "authors": "Harith Al-Sahaf, Mengjie Zhang, M Johnston",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "In machine learning, it is common to require a large number of instances to train a model for classification. In many cases, it is hard or expensive to acquire a large number of instances. In this paper, we propose a novel genetic programming (GP) based method to the problem of automatic image classification via adopting a one-shot learning approach. The proposed method relies on the combination of GP and Local Binary Patterns (LBP) techniques to detect a predefined number of informative regions that aim at maximising the between-class scatter and minimising the within-class scatter. Moreover, the proposed method uses only two instances of each class to evolve a classifier. To test the effectiveness of the proposed method, four different texture data sets are used and the performance is compared against two other GP-based methods namely Conventional GP and Two-tier GP. The experiments revealed that the proposed method outperforms these two methods on all the data sets. Moreover, a better performance has been achieved by Naïve Bayes, Support Vector Machine, and Decision Trees (J48) methods when extracted features by the proposed method have been used compared to the use of domain-specific and Two-tier GP extracted features. © Springer International Publishing 2013.",
+        "link": "http://dx.doi.org/10.26686/wgtn.13150934"
+    },
+    {
+        "id": 17589,
+        "title": "Predicting the Activities of Drug Excipients on Biological Targets using One-Shot Learning",
+        "authors": "Xuenan Mi, Diwakar Shukla",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractExcipients are a major component of drugs and are used to improve drugs attributes such as stability and appearance. Excipients approved by Food and Drug Administration (FDA) are regarded as safe for human in allowed concentration, but their potential interaction with drug targets have not been investigated systematically, which might influence drug’s efficacy. Deep learning models have been used for identification of ligands that could bind to the drug targets. However, due to the limited available data, it is challenging to reliably estimate the likelihood of a ligand-protein interaction. One-shot learning techniques provide a potential approach to address this low-data problem as these techniques require only one or a few examples to classify the new data. In this study, we apply one-shot learning models on datasets that include ligands binding to G-Protein Coupled Receptors (GPCRs) and Kinases. The predicted results suggest that one-shot learning models could be used for predicting ligand-protein interaction and the models attain better performance when protein targets contain conserved binding pockets. The trained models are also used to predict interactions between excipients and drug targets, which provides a potential efficient strategy to explore the activities of drug excipients. We find that a large number of drug excipients could interact with biological targets and influence their function. The results demonstrate how one-shot learning models can be used to make accurate prediction for excipient-protein interactions and these methods could be used for selecting excipients with limited drug-protein interactions.",
+        "link": "http://dx.doi.org/10.1101/2021.10.04.463110"
+    },
+    {
+        "id": 17590,
+        "title": "Reflection and Transfer Learning in the One-Shot: Demonstrating Student Learning",
+        "authors": "Karleigh Riesen, Sara Whitver",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5860/crl.84.4.531"
+    },
+    {
+        "id": 17591,
+        "title": "WITHDRAWN: Learning to Optimize Decision Boundary for One-Shot One-Class Image Recognition",
+        "authors": "Linkai Chen, Hongjin Zhu, Congzhe You, Honghui Fan, Yaduan Ruan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nIn this paper, we study One-Shot One-Class classification (OSOC), where the aim is to identify the objects of a specific class amongst all objects by using only one single sample of that class as training data. The key challenge of this task is how to learn a robust decision boundary to distinguish a class in such an extreme case. Towards this goal, we propose a novel meta-learning strategy to meta learn a mapping function from the exemplar image of a target class to the categorical classifier as well as a reference score for this class. The classifier is applied to a testing sample to predict the classification score, which will be compared against the reference score to decide whether this sample belongs to the target class or not. To realize this idea, in the meta training phase, we propose a ranking loss that employs the reference score as the threshold to distinguish samples both from the target class and other non-target classes. On top of this basic loss function, we develop another two terms: a fidelity term to ensure the learned classifier has high fidelity to the exemplar and a learnable slack term to adaptively adjust the reference score on the fly. These two terms compete against each other and consequently seek a balance to optimize the decision boundary. Comprehensive experimental results on five OSOC datasets demonstrate the proposed method can obviously outperform state-of-the-art",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1848299/v1"
+    },
+    {
+        "id": 17592,
+        "title": "Toward One-Shot Learning in Neuroscience-Inspired Deep Spiking Neural Networks",
+        "authors": "Faramarz Faghihi, Hossein Molhem, Ahmed A. Moustafa",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractConventional deep neural networks capture essential information processing stages in perception. Deep neural networks often require very large volume of training examples, whereas children can learn concepts such as hand-written digits with few examples. The goal of this project is to develop a deep spiking neural network that can learn from few training trials. Using known neuronal mechanisms, a spiking neural network model is developed and trained to recognize hand-written digits with presenting one to four training examples for each digit taken from the MNIST database. The model detects and learns geometric features of the images from MNIST database. In this work, a novel biological back-propagation based learning rule is developed and used to a train the network to detect basic features of different digits. For this purpose, randomly initialized synaptic weights between the layers are being updated. By using a neuroscience inspired mechanism named ‘synaptic pruning’ and a predefined threshold, some of the synapses through the training are deleted. Hence, information channels are constructed that are highly specific for each digit as matrix of synaptic connections between two layers of spiking neural networks. These connection matrixes named ‘information channels’ are used in the test phase to assign a digit class to each test image. As similar to humans’ abilities to learn from small training trials, the developed spiking neural network needs a very small dataset for training, compared to conventional deep learning methods checked on MNIST dataset.",
+        "link": "http://dx.doi.org/10.1101/829556"
+    },
+    {
+        "id": 17593,
+        "title": "Unsupervised vs. Transfer Learning for Multimodal One-Shot Matching of Speech and Images",
+        "authors": "Leanne Nortje, Herman Kamper",
+        "published": "2020-10-25",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2020-87"
+    },
+    {
+        "id": 17594,
+        "title": "Unsupervised vs. Transfer Learning for Multimodal One-Shot Matching of Speech and Images",
+        "authors": "Leanne Nortje, Herman Kamper",
+        "published": "2020-10-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2020-0087"
+    },
+    {
+        "id": 17595,
+        "title": "Review for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "E Ng",
+        "published": "2023-4-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v1/review3"
+    },
+    {
+        "id": 17596,
+        "title": "Review for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "Silvio Simani",
+        "published": "2023-3-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v1/review2"
+    },
+    {
+        "id": 17597,
+        "title": "Chapter 5. Transfer learning and one-shot learning to address software deployment issues",
+        "authors": "",
+        "published": "2021-7-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1515/9783110703399-005"
+    },
+    {
+        "id": 17598,
+        "title": "Statistical Learning Models for Japanese Essay Scoring Toward One-shot Learning",
+        "authors": "Chihiro Ejima, Koichi Takeuchi",
+        "published": "2022-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iiaiaai55812.2022.00070"
+    },
+    {
+        "id": 17599,
+        "title": "One-Shot AI Machine Learning Needed When Gleaning Landmark Legal Cases",
+        "authors": "Lance Eliot",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3998251"
+    },
+    {
+        "id": 17600,
+        "title": "A Weighting Scheme for One-Shot Federated Learning",
+        "authors": "Marie Garin, Theodoros Evgeniou, Nicolas Vayatis",
+        "published": "2022",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4035732"
+    },
+    {
+        "id": 17601,
+        "title": "Decision letter for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v1/decision1"
+    },
+    {
+        "id": 17602,
+        "title": "Decision letter for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v2/decision1"
+    },
+    {
+        "id": 17603,
+        "title": "Decision letter for \"Fault diagnosis for wind turbines with graph neural network model based on one-shot learning\"",
+        "authors": "",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1098/rsos.230706/v3/decision1"
+    },
+    {
+        "id": 17604,
+        "title": "Latent space decomposition supports efficient less-than-one-shot learning",
+        "authors": "Ilia Sucholutsky, Thomas L. Griffiths",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1358-0"
+    },
+    {
+        "id": 17605,
+        "title": "One Shot Spatial Learning through Replay in a Hippocampus-Inspired Reinforcement Learning Model",
+        "authors": "Adedapo Alabi, Ali A. Minai, Dieter Vanderelst",
+        "published": "2020-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9207435"
+    },
+    {
+        "id": 17606,
+        "title": "Meta Learning for Few-Shot One-Class Classification",
+        "authors": "Gabriel Dahia, Maurício Pamplona Segundo",
+        "published": "2021-4-22",
+        "citations": 0,
+        "abstract": "We propose a method that can perform one-class classification given only a small number of examples from the target class and none from the others. We formulate the learning of meaningful features for one-class classification as a meta-learning problem in which the meta-training stage repeatedly simulates one-class classification, using the classification loss of the chosen algorithm to learn a feature representation. To learn these representations, we require only multiclass data from similar tasks. We show how the Support Vector Data Description method can be used with our method, and also propose a simpler variant based on Prototypical Networks that obtains comparable performance, indicating that learning feature representations directly from data may be more important than which one-class algorithm we choose. We validate our approach by adapting few-shot classification datasets to the few-shot one-class classification scenario, obtaining similar results to the state-of-the-art of traditional one-class classification, and that improves upon that of one-class classification baselines employed in the few-shot setting.",
+        "link": "http://dx.doi.org/10.3390/ai2020012"
+    },
+    {
+        "id": 17607,
+        "title": "Cortical representation variability aligns with in-class variances and can help one-shot learning",
+        "authors": "Jiaqi Shang, Eric Shea-Brown, Stefan Mihalas",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractLearning invariance across a set of transformations is an important step in mapping high-dimensional inputs to a limited number of classes. After understanding the set of\\ invariances, can a new class be learned from one element? We propose a representation which can facilitate such learning: if the variability in representing individual elements across trials aligns with the variability among different elements in a class, then class boundaries learned from the variable representations of one element should be representative of the entire class. In this study, we test whether such a representation occurs in mouse visual systems. We use Neuropixels probes recording single unit activity in mice observing 200 repeats of natural movies taken from a set of 9 continuous clips. We observe that the trial-by-trial variability in the representation of individual frames is well aligned to the variability in representation of multiple frames from the same clip, but not well aligned to the variability among frames from different clips. Thus, the variable representations of images in the mouse cortex can be efficiently used to classify images into their clips. We compare these representations to those in artificial neural networks. We find that, when introducing noise in networks trained for classification (both feed-forward and recurrent networks), the variability in the representation of elements aligns with the in-class variance. The networks which best reproduce the in-vivo observed directions of variability were those trained on a hierarchical classification task. Taken together, these results point to a solution which the cortex can use for one-shot learning of a class: by using noise as a mechanism for generalization. This is a potential computational explanation for the high level of noise observed in the cortex.",
+        "link": "http://dx.doi.org/10.1101/2021.01.27.428518"
+    },
+    {
+        "id": 17608,
+        "title": "Knowledge Gradient: Nested Optimization vs. One-Shot Learning",
+        "authors": "Peng Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4842-9063-7_6"
+    },
+    {
+        "id": 17609,
+        "title": "Feature Learning for One-Shot Face Recognition",
+        "authors": "Lingxiao Wang, Yali Li, Shengjin Wang",
+        "published": "2018-10",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icip.2018.8451464"
+    },
+    {
+        "id": 17610,
+        "title": "One-shot Representational Learning for Joint Biometric and Device Authentication",
+        "authors": "Sudipta Banerjee, Arun Ross",
+        "published": "2021-1-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icpr48806.2021.9413087"
+    },
+    {
+        "id": 17611,
+        "title": "One-Shot Metric Learning for Person Re-identification",
+        "authors": "Slawomir Bak, Peter Carr",
+        "published": "2017-7",
+        "citations": 82,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2017.171"
+    },
+    {
+        "id": 17612,
+        "title": "Ots: A One-Shot Learning Approach for Text Spotting in Historical Manuscripts",
+        "authors": "Wenbo Hu, Hongjian Zhan, Cong Liu, Bing Yin, Yue Lu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4419850"
+    },
+    {
+        "id": 17613,
+        "title": "ROSS: Robust Learning of One-Shot 3D Shape Segmentation",
+        "authors": "Shuaihang Yuan, Yi Fang",
+        "published": "2020-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wacv45572.2020.9093604"
+    },
+    {
+        "id": 17614,
+        "title": "One-shot Learning Approach for Unknown Malware Classification",
+        "authors": "Trung Kien Tran, Hiroshi Sato, Masao Kubo",
+        "published": "2018-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/acdt.2018.8593203"
+    },
+    {
+        "id": 17615,
+        "title": "Dpl: Dual Progressive Learning for One-Shot Video-Based Person Re-Identification",
+        "authors": "Xiu Zhang, Bir Bhanu",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4297696"
+    },
+    {
+        "id": 17616,
+        "title": "A one-shot learning signal in monkey prefrontal cortex",
+        "authors": "Jascha Achterberg, Mikiko Kadohisa, Kei Watanabe, Makoto Kusunoki, Mark J Buckley, John Duncan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractMuch animal learning is slow, with cumulative changes in behavior driven by reward prediction errors. When the abstract structure of a problem is known, however, both animals and formal learning models can rapidly attach new items to their roles within this structure, sometimes in a single trial. Frontal cortex is likely to play a key role in this process. To examine information seeking and use in a known problem structure, we trained monkeys in a novel explore/exploit task, requiring the animal first to test objects for their association with reward, then, once rewarded objects were found, to re-select them on further trials for further rewards. Many cells in the frontal cortex showed an explore/exploit preference, changing activity in a signal trial to align with one-shot learning in the monkeys’ behaviour. In contrast to this binary switch, these cells showed little evidence of continuous changes linked to expectancy or prediction error. Explore/exploit preferences were independent for two stages of the trial, object selection and receipt of feedback. Within an established task structure, frontal activity may control the separate operations of explore and exploit, switching in one trial between the two.Significance statementMuch animal learning is slow, with cumulative changes in behavior driven by reward prediction errors. When the abstract structure a problem is known, however, both animals and formal learning models can rapidly attach new items to their roles within this structure. To address transitions in neural activity during one-shot learning, we trained monkeys in an explore/exploit task using familiar objects and a highly familiar task structure. In contrast to continuous changes reflecting expectancy or prediction error, frontal neurons showed a binary, one-shot switch between explore and exploit. Within an established task structure, frontal activity may control the separate operations of exploring alternative objects to establish their current role, then exploiting this knowledge for further reward.",
+        "link": "http://dx.doi.org/10.1101/2020.11.27.401422"
+    },
+    {
+        "id": 17617,
+        "title": "Learn from one image: Dynamic One-shot learning based on parameter generation",
+        "authors": "Nikhil Sathya Kumar, Manoj Ravindra Phirke, Anupriya Jayapal",
+        "published": "2021-11-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ispacs51563.2021.9651100"
+    },
+    {
+        "id": 17618,
+        "title": "Deep-learning based group-photo Attendance System using One Shot Learning",
+        "authors": "Aruna Bhat, Shivam Rustagi, Shivi R Purwaha, Shubhang Singhal",
+        "published": "2020-7",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icesc48915.2020.9155755"
+    },
+    {
+        "id": 17619,
+        "title": "Learning to Distinguish: A General Method to Improve Compare-Based one-shot Learning Frameworks for Similar Classes",
+        "authors": "Qiuzheng Chen, Ruoyu Yang",
+        "published": "2019-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icme.2019.00168"
+    },
+    {
+        "id": 17620,
+        "title": "One‐Shot Device Testing Data",
+        "authors": "",
+        "published": "2021-3-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/9781119664031.ch1"
+    },
+    {
+        "id": 17621,
+        "title": "Ultrafast pulse retrieval with one-shot unsupervised deep learning",
+        "authors": "Jesse W. Wilson",
+        "published": "2023-10-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.2677885"
+    },
+    {
+        "id": 17622,
+        "title": "Towards More Generalizable One-shot Visual Imitation Learning",
+        "authors": "Zhao Mandi, Fangchen Liu, Kimin Lee, Pieter Abbeel",
+        "published": "2022-5-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra46639.2022.9812450"
+    },
+    {
+        "id": 17623,
+        "title": "One-shot learning goes 3D",
+        "authors": "Zijian Zhao, Shan Deng, Zhouhang Jiang, Kai Ni",
+        "published": "2021-12-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1038/s41928-021-00692-9"
+    },
+    {
+        "id": 17624,
+        "title": "Face Recognition using One-shot Learning",
+        "authors": "Nikhil Thakurdesai, Nikita Raut, Anupam Tripathi",
+        "published": "2018-10-17",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5120/ijca2018918032"
+    },
+    {
+        "id": 17625,
+        "title": "Coupling one-shot learning and online discriminative learning for robust object tracking",
+        "authors": "Hao Guan, Zhiyong An",
+        "published": "2019-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3233/jifs-18577"
+    },
+    {
+        "id": 17626,
+        "title": "Deep Reinforcement One-Shot Learning for Change Point Detection",
+        "authors": "Anton Puzanov, Kobi Cohen",
+        "published": "2018-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/allerton.2018.8635928"
+    },
+    {
+        "id": 17627,
+        "title": "Controllable One-shot Head Avatar Reconstruction",
+        "authors": "Weidong Liu, Dingyun Zhang, Yudong Guo",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424816"
+    },
+    {
+        "id": 17628,
+        "title": "One-Shot learning based classification for segregation of plastic waste",
+        "authors": "Shivaank Agarwal, Ravindra Gudi, Paresh Saxena",
+        "published": "2020-11-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dicta51227.2020.9363374"
+    },
+    {
+        "id": 17629,
+        "title": "Tracking skeletal fusion feature for one shot learning gesture recognition",
+        "authors": " Liu Xuejiao,  Su Yongqing",
+        "published": "2017-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icivc.2017.7984545"
+    },
+    {
+        "id": 17630,
+        "title": "OSSEM: one-shot speaker adaptive speech enhancement using meta learning",
+        "authors": "Cheng Yu, Szu-wei Fu, Tsun-An Hsieh, Yu Tsao, Mirco Ravanelli",
+        "published": "2022-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2022-10283"
+    },
+    {
+        "id": 17631,
+        "title": "One-Shot Learning for Semantic Segmentation",
+        "authors": "Amirreza Shaban, Shray Bansal, Zhen Liu, Irfan Essa, Byron Boots",
+        "published": "2017",
+        "citations": 285,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5244/c.31.167"
+    },
+    {
+        "id": 17632,
+        "title": "Post-encoding reactivation promotes one-shot learning of episodes in humans",
+        "authors": "Xiongbo Wu, Xavier Viñals, Aya Ben-Yakov, Bernhard P. Staresina, Lluís Fuentemilla",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "AbstractPrior animal and human work have shown that post-encoding reinstatement plays an important role in organizing the temporal sequence of unfolding episodes in memory. Here, we investigated whether post-encoding reinstatement serves to promote the encoding of ‘one-shot’ episodic learning beyond the temporal structure in humans. In experiment 1, participants encoded sequences of pictures depicting unique and meaningful episodic-like events. We used representational similarity analysis on scalp electroencephalography recordings during encoding and found evidence of rapid picture elicited EEG patterns reinstatement at episodic offset (around 500ms post-episode). Memory reinstatement was not observed between successive elements within an episode and the degree of memory reinstatement at episodic offset predicted later recall for that episode. In experiment 2, participants encoded a shuffled version of the picture sequences from experiment 1, rendering each episode meaningless to the participant but temporally structured as in experiment 1, and we found no evidence of memory reinstatement at episodic offset. These results suggest that post-encoding memory reinstatement is akin to the rapid formation of unique and meaningful episodes that unfold over time.",
+        "link": "http://dx.doi.org/10.1101/2021.04.13.439658"
+    },
+    {
+        "id": 17633,
+        "title": "Mind wandering at encoding, but not at retrieval, disrupts one-shot stimulus-control learning",
+        "authors": "Peter S. Whitehead, Younis Mahmoud, Paul Seli, Tobias Egner",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "The one-shot pairing of a stimulus with a specific cognitive control process, such as task switching, can bind the two together in memory. The episodic control-binding hypothesis posits that the formation of temporary stimulus-control bindings, which are held in event-files supported by episodic memory, can guide the contextually appropriate application of cognitive control. Across two experiments, we sought to examine the role of task-focused attention in the encoding and implementation of stimulus-control bindings in episodic event-files. In Experiment 1, we obtained self-reports of mind wandering during encoding and implementation of stimulus-control bindings. Results indicated that, whereas mind wandering during the implementation of stimulus-control bindings does not decrease their efficacy, mind wandering during the encoding of these control-state associations interferes with their successful deployment at a later point. In Experiment 2, we complemented these results by using trial-by-trial pupillometry to measure attention, again demonstrating that attention levels at encoding predict the subsequent implementation of stimulus-control bindings better than attention levels at implementation. These results suggest that, although encoding stimulus-control bindings in episodic memory requires active attention and engagement, once encoded, these bindings are automatically deployed to guide behavior when the stimulus recurs. These findings expand our understanding of how cognitive control processes are integrated into episodic event files.",
+        "link": "http://dx.doi.org/10.31234/osf.io/e5thj"
+    },
+    {
+        "id": 17634,
+        "title": "Spectrum Sensing in Full-Duplex OFDM Systems using One-Shot Learning",
+        "authors": "Qingqing Cheng, Zhenguo Shi, Jinhong Yuan",
+        "published": "2021-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icc42927.2021.9500575"
+    },
+    {
+        "id": 17635,
+        "title": "One Shot Face Image Style Transfer Method Based on GAN",
+        "authors": "Wenyin He",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424948"
+    },
+    {
+        "id": 17636,
+        "title": "Emotion recognition using one-shot learning for human-computer interactions",
+        "authors": "Siddharth Karanchery, Suja Palaniswamy",
+        "published": "2021-6-16",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccisc52257.2021.9485024"
+    },
+    {
+        "id": 17637,
+        "title": "One‐Shot Devices with Dependent Components",
+        "authors": "",
+        "published": "2021-3-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/9781119664031.ch10"
+    },
+    {
+        "id": 17638,
+        "title": "One shot",
+        "authors": "Luke Robinson, Melanie Robson",
+        "published": "2024-7-16",
+        "citations": 0,
+        "abstract": "Abstract\n“One Shot: Hitchcock’s Crime Scenes” proposes a new auteurist methodology in which a single shot can be used to reveal the imprint of the director on a film. It expands upon Tom Gunning’s work on Fritz Lang to explore how reading backward from the single shot outward to the film as a whole, and in turn, to the director and their context is a particularly productive practice of film analysis. This chapter demonstrates this methodology through a discussion of Alfred Hitchcock’s most famous sequence, the shower scene in Psycho (1960). Special attention is also given to Hitchcock’s cameo shots, which are examples of Hitchcock imprinting himself on singular shots from his films and television series. Through these analyses this chapter sets up the complexities of the single shot approach, establishing how such a study is valuable for furthering scholarship on Hitchcock’s oeuvre.",
+        "link": "http://dx.doi.org/10.1093/oso/9780197682876.003.0001"
+    },
+    {
+        "id": 17639,
+        "title": "Reinforcement Learning-Based Grasping via One-Shot Affordance Localization and Zero-Shot Contrastive Language-Image Learning",
+        "authors": "Xiang Long, Luke Beddow, Denis Hadjivelichkov, Andromachi Maria Delfaki, Helge Wurdemann, Dimitrios Kanoulas",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/sii58957.2024.10417178"
+    },
+    {
+        "id": 17640,
+        "title": "One-Shot-Learning Gesture Recognition Using HOG-HOF Features",
+        "authors": "Jakub Konečný, Michal Hagara",
+        "published": "2017",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-57021-1_12"
+    },
+    {
+        "id": 17641,
+        "title": "Personalized One-Shot Collaborative Learning",
+        "authors": "Marie Garin, Antoine De Mathelin, Mathilde Mougeot, Nicolas Vayatis",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictai59109.2023.00024"
+    },
+    {
+        "id": 17642,
+        "title": "Do children (and adults) benefit from a prediction error boost in one-shot word learning?",
+        "authors": "Chiara Gambi, Jaroslaw Roman Lelonkiewicz, Davide Crepaldi",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Influential theories and computational models suggest one powerful mechanism in early word learning is based on prediction: Children learn new words by generating predictions about upcoming utterances and revising those predictions when they are disconfirmed. According to many predict-and-revise models, word learning should benefit from disconfirming stronger rather than weaker predictions, because stronger predictions produce larger error signals. Although demonstrated in adults, this prediction error boost has not been conclusively shown in children. Here we tested 107 participants between the ages of 5 and 10. Crucially, we found little evidence that word learning in this age group benefits from this prediction error boost. This is inconsistent with the central role of prediction in early vocabulary acquisition. Surprisingly, we also failed to replicate previous evidence that adults benefit from a prediction error boost. Based on a detailed task analysis, we suggest this variation in adult findings may be partly explained by differences in encoding strategies and that, relatedly, the protracted development of the episodic memory system might explain why children do not experience robust benefits from having stronger (compared to weaker) predictions disconfirmed.",
+        "link": "http://dx.doi.org/10.31219/osf.io/kx4sf"
+    },
+    {
+        "id": 17643,
+        "title": "One shot learning of novel object classes",
+        "authors": "Yaniv Morgenstern, Filipp Schmidt, Roland Fleming",
+        "published": "2018-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1167/18.10.556"
+    },
+    {
+        "id": 17644,
+        "title": "Memory-Based Multiagent One-Shot Learning: Extended Abstract",
+        "authors": "Shauharda Khadka, Connor Yates, Kagan Tumer",
+        "published": "2019-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mrs.2019.8901051"
+    },
+    {
+        "id": 17645,
+        "title": "CancerSiamese: one-shot learning for predicting primary and metastatic tumor types unseen during model training",
+        "authors": "Milad Mostav, Yu-Chiao Chiu, Yidong Chen, Yufei Huang",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractWe consider cancer classification based on one single gene expression profile. We proposed CancerSiamese, a new one-shot learning model, to predict the cancer type of a query primary or metastatic tumor sample based on a support set that contains only one known sample for each cancer type. CancerSiamese receives pairs of gene expression profiles and learns a representation of similar or dissimilar cancer types through two parallel Convolutional Neural Networks joined by a similarity function. We trained CancerSiamese for both primary and metastatic cancer type predictions using samples from TCGA and MET500. Test results for different N-way predictions yielded an average accuracy improvement of 8% and 4% over the benchmark 1-Nearest Neighbor (1-NN) classifier for primary and metastatic tumors, respectively. Moreover, we applied the guided gradient saliency map and feature selection to CancerSiamese to identify and analyze the marker-gene candidates for primary and metastatic cancers. Our work demonstrated, for the first time, the feasibility of applying one-shot learning for expression-based cancer type prediction when gene expression data of cancer types are limited and could inspire new and ingenious applications of one-shot and few-shot learning solutions for improving cancer diagnosis, treatment planning, and our understanding of cancer.",
+        "link": "http://dx.doi.org/10.1101/2020.09.07.286583"
+    },
+    {
+        "id": 17646,
+        "title": "One-shot learning for acoustic diagnosis of industrial machines",
+        "authors": "Stavros Ntalampiras",
+        "published": "2021-9",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2021.114984"
+    },
+    {
+        "id": 17647,
+        "title": "One-Shot Gesture Recognition: One Step Towards Adaptive Learning",
+        "authors": "Maria E. Cabrera, Natalia Sanchez-Tamayo, Richard Voyles, Juan P. Wachs",
+        "published": "2017-5",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/fg.2017.98"
+    },
+    {
+        "id": 17648,
+        "title": "One-Shot Learning on Attributed Sequences",
+        "authors": "Zhongfang Zhuang, Xiangnan Kong, Elke Rundensteiner, Aditya Arora, Jihane Zouaoui",
+        "published": "2018-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bigdata.2018.8622257"
+    },
+    {
+        "id": 17649,
+        "title": "One-shot learning for acoustic identification of bird species in non-stationary environments",
+        "authors": "Michelangelo Acconcjaioco, Stavros Ntalampiras",
+        "published": "2021-1-10",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icpr48806.2021.9412005"
+    },
+    {
+        "id": 17650,
+        "title": "One-Shot Affordance Learning (OSAL): Learning to Manipulate Articulated Objects by Observing Once",
+        "authors": "Ruomeng Fan, Taohan Wang, Masahiro Hirano, Yuji Yamakawa",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341421"
+    },
+    {
+        "id": 17651,
+        "title": "One-shot learning for autonomous aerial manipulation",
+        "authors": "Claudio Zito, Eliseo Ferrante",
+        "published": "2022-10-5",
+        "citations": 1,
+        "abstract": "This paper is concerned with learning transferable contact models for aerial manipulation tasks. We investigate a contact-based approach for enabling unmanned aerial vehicles with cable-suspended passive grippers to compute the attach points on novel payloads for aerial transportation. This is the first time that the problem of autonomously generating contact points for such tasks has been investigated. Our approach builds on the underpinning idea that we can learn a probability density of contacts over objects’ surfaces from a single demonstration. We enhance this formulation for encoding aerial transportation tasks while maintaining the one-shot learning paradigm without handcrafting task-dependent features or employing ad-hoc heuristics; the only prior is extrapolated directly from a single demonstration. Our models only rely on the geometrical properties of the payloads computed from a point cloud, and they are robust to partial views. The effectiveness of our approach is evaluated in simulation, in which one or three quadcopters are requested to transport previously unseen payloads along a desired trajectory. The contact points and the quadcopters configurations are computed on-the-fly for each test by our approach and compared with a baseline method, a modified grasp learning algorithm from the literature. Empirical experiments show that the contacts generated by our approach yield a better controllability of the payload for a transportation task. We conclude this paper with a discussion on the strengths and limitations of the presented idea, and our suggested future research directions.",
+        "link": "http://dx.doi.org/10.3389/frobt.2022.960571"
+    },
+    {
+        "id": 17652,
+        "title": "Exploiting graph neural network with one-shot learning for fault diagnosis of rotating machinery (PHM2021)",
+        "authors": "Shuai Yang, Xu Chen, Yun Bai, Ziqiang Pu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nDue to lack of training samples, overfitting is a severe problem in fault diagnosis for mechanical devices, especially for rotating machinery. In this paper, a graph neural network (GNN) method with one-shot learning is proposed for fault diagnosis of rotating machinery. Convolutional Neural Network (CNN) is applied to extract the feature vectors and generate codes for one-shot learning. With adjacency matrix in GNN, the proposed method can achieve fault classification for rotating machinery with small dataset. Rotate vector (RV) reducer of the industrial robot and bearing of the rotating shaft were chosen as experimental subjects. Experimental results show the high accuracy of classification in both experiments with the proposed method. To further verify the efficiency of this method, Siamese Net, Matching Net and SAE+RF were chosen as the comparisons. The results indicate the proposed method outperforms all the selected methods for fault classification in both rotating machineries.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1245521/v1"
+    },
+    {
+        "id": 17653,
+        "title": "InstaLoc: One-shot Global Lidar Localisation in Indoor Environments through Instance Learning",
+        "authors": "Lintong Zhang, Sundara Digumarti, Georgi Tinchev, Maurice Fallon",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.070"
+    },
+    {
+        "id": 17654,
+        "title": "Incidence of the Sample Size Distribution on One-Shot Federated Learning",
+        "authors": "Marie Garin, Gonzalo Iñaki Quintana",
+        "published": "2023-2-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5201/ipol.2023.440"
+    },
+    {
+        "id": 17655,
+        "title": "Decision letter: One-shot learning and behavioral eligibility traces in sequential decision making",
+        "authors": "Jan Gläscher, Marieke Jepma, Rui Ponte Costa",
+        "published": "2019-6-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7554/elife.47463.sa1"
+    },
+    {
+        "id": 17656,
+        "title": "FIGO: Fingerprint Identification Approach Using GAN and One Shot Learning Techniques",
+        "authors": "Ibrahim Yilmaz, Mahmoud Abouyoussef",
+        "published": "2023-5-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isdfs58141.2023.10131805"
+    },
+    {
+        "id": 17657,
+        "title": "One-Shot Action Localization by Learning Sequence Matching Network",
+        "authors": "Hongtao Yang, Xuming He, Fatih Porikli",
+        "published": "2018-6",
+        "citations": 27,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2018.00157"
+    },
+    {
+        "id": 17658,
+        "title": "Practical One-Shot Federated Learning for Cross-Silo Setting",
+        "authors": "Qinbin Li, Bingsheng He, Dawn Song",
+        "published": "2021-8",
+        "citations": 20,
+        "abstract": "Federated learning enables multiple parties to collaboratively learn a model without exchanging their data. While most existing federated learning algorithms need many rounds to converge, one-shot federated learning (i.e., federated learning with a single communication round) is a promising approach to make federated learning applicable in cross-silo setting in practice. However, existing one-shot algorithms only support specific models and do not provide any privacy guarantees, which significantly limit the applications in practice. In this paper, we propose a practical one-shot federated learning algorithm named FedKT. By utilizing the knowledge transfer technique, FedKT can be applied to any classification models and can flexibly achieve differential privacy guarantees. Our experiments on various tasks show that FedKT can significantly outperform the other state-of-the-art federated learning algorithms with a single communication round.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2021/205"
+    },
+    {
+        "id": 17659,
+        "title": "Multi-accent Speech Separation with One Shot Learning",
+        "authors": "Kuan Po Huang, Yuan-Kuei Wu, Hung-yi Lee",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.metanlp-1.7"
+    },
+    {
+        "id": 17660,
+        "title": "One-Shot Learning Via Meta-Learning Using Multi-View Image",
+        "authors": "Akinori TOKUNAGA, Gakuto MASUYAMA",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1299/jsmermd.2019.2p2-i05"
+    },
+    {
+        "id": 17661,
+        "title": "JARVix at SemEval-2022 Task 2: It Takes One to Know One? Idiomaticity Detection using Zero and One-Shot Learning",
+        "authors": "Yash Jakhotiya, Vaibhav Kumar, Ashwin Pathak, Raj Shah",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.semeval-1.19"
+    },
+    {
+        "id": 17662,
+        "title": "One-Shot Imitation Learning on Heterogeneous Associated Tasks via Conjugate Task Graph",
+        "authors": "Tiancheng Huang, Feng Zhao, Donglin Wang",
+        "published": "2021-7-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9533467"
+    },
+    {
+        "id": 17663,
+        "title": "Non-IID quantum federated learning with one-shot communication complexity",
+        "authors": "Haimeng Zhao",
+        "published": "2023-6",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s42484-022-00091-z"
+    },
+    {
+        "id": 17664,
+        "title": "Vision-Based One-Shot Imitation Learning Supplemented with Target Recognition via Meta Learning",
+        "authors": "Xuyun Yang, Yueyan Peng, Wei Li, James Zhiqing Wen, Decheng Zhou",
+        "published": "2021-8-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icma52036.2021.9512607"
+    },
+    {
+        "id": 17665,
+        "title": "A Human-Centered Approach to One-Shot Gesture Learning",
+        "authors": "Maria Eugenia Cabrera, Juan Pablo Wachs",
+        "published": "2017-3-20",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3389/frobt.2017.00008"
+    },
+    {
+        "id": 17666,
+        "title": "Meta-Meta Classification for One-Shot Learning",
+        "authors": "Arkabandhu Chowdhury, Dipak Chaudhari, Swarat Chaudhuri, Chris Jermaine",
+        "published": "2022-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wacv51458.2022.00169"
+    },
+    {
+        "id": 17667,
+        "title": "Discriminative Recognition of Point Cloud Gesture Classes through One-Shot Learning",
+        "authors": "Joshua Owoyemi, Naoya Chiba, Koichi Hashimoto",
+        "published": "2019-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/robio49542.2019.8961778"
+    },
+    {
+        "id": 17668,
+        "title": "Supplemental Material for Developing Global Spatial Memories by One-Shot Across-Boundary Navigation",
+        "authors": "",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1037/xlm0001083.supp"
+    },
+    {
+        "id": 17669,
+        "title": "One-shot learning for the long term: consolidation with an artificial hippocampal algorithm",
+        "authors": "Gideon Kowadlo, Abdelrahman Ahmed, David Rawlinson",
+        "published": "2021-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9534193"
+    },
+    {
+        "id": 17670,
+        "title": "PLIO: Physical Layer Identification using One-shot Learning",
+        "authors": "Saptarshi Hazra, Thiemo Voigt, Wenqing Yan",
+        "published": "2021-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mass52906.2021.00050"
+    }
+]

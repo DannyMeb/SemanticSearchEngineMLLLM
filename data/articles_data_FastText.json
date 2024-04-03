@@ -1,0 +1,902 @@
+[
+    {
+        "id": 9760,
+        "title": "FastPacket: Towards Pre-trained Packets Embedding based on FastText for nextgeneration NIDS",
+        "authors": "",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "New Attacks are increasingly used by attackers everyday but many of them are not detected by Intrusion Detection Systems as most IDS ignore raw packet information and only care about some basic statistical information extracted from PCAP files. Using networking programs to extract fixed statistical features from packets is good, but may not enough to detect nowadays challenges. We think that it is time to utilize big data and deep learning for automatic dynamic feature extraction from packets. It is time to get inspired by deep learning pre-trained models in computer vision and natural language processing, so security deep learning solutions will have its pre-trained models on big datasets to be used in future researches. In this paper, we proposed a new approach for embedding packets based on character-level embeddings, inspired by FastText success on text data. We called this approach FastPacket. Results are measured on subsets of CIC-IDS-2017 dataset, but we expect promising results on big data pre-trained models. We suggest building pre-trained FastPacket on MAWI big dataset and make it available to community, similar to FastText. To be able to outperform currently used NIDS, to start a new era of packet-level NIDS that can better detect complex attacks.",
+        "link": "http://dx.doi.org/10.33140/jctcsr.02.01.07"
+    },
+    {
+        "id": 9761,
+        "title": "Performance Comparison of Word2vec and fastText Embedding Models",
+        "authors": "Hyungsuc Kang, Janghoon Yang",
+        "published": "2020-7-31",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.9728/dcs.2020.21.7.1335"
+    },
+    {
+        "id": 9762,
+        "title": "Research on Text Classification of Anonymous Data Based on FastText Model",
+        "authors": "美瑶 朱",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/sa.2023.122060"
+    },
+    {
+        "id": 9763,
+        "title": "Discovering Business Processes from Email Logs using fastText and Process Mining",
+        "authors": "Yaghoub rashnavadi, Sina Behzadifard, Reza Farzadnia, sina zamani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Communication\nhas never been more accessible than today. With the help of Instant messengers\nand Email Services, millions of people can transfer information with ease, and\nthis trend has affected organizations as well. There are billions of\norganizational emails sent or received daily, and their main goal is to\nfacilitate the daily operation of organizations. Behind this vast corpus of\nhuman-generated content, there is much implicit information that can be mined\nand used to improve or optimize the organizations’ operations. Business\nprocesses are one of those implicit knowledge areas that can be discovered from\nEmail logs of an Organization, as most of the communications are followed\ninside Emails. The purpose of this research is to propose an approach to\ndiscover the process models in the Email log. In this approach, we combine two\ntools, supervised machine learning and process mining. With the help of supervised\nmachine learning, fastText classifier, we classify the body text of emails to\nthe activity-related. Then the generated log will be mined with process mining techniques\nto find process models. We illustrate the approach with a case study company\nfrom the oil and gas sector.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.12283835"
+    },
+    {
+        "id": 9764,
+        "title": "Improve Classification of Security Bug Reports using fasttext. A Machine Learning Based Approach",
+        "authors": "Sultan S. Alqahtani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nSoftware developers must handle security bug reports (SBRs) before they are widely disclosed, and the system becomes vulnerable to hackers. Bug tracking systems may contain many securities-related reports which are unlabelled as SBRs. Therefore, finding unlabelled SBRs is a challenge to help security engineers identify these security issues fast and accurately. Although many methods have been proposed for classifying SBRs, challenging issues remain due to selecting an accurate and high-performance classification algorithm. This motivates us to tackle the challenges faced by the state-of-the-art SBRs classification methods by selecting a high-performance machine learning algorithm. Therefore, the main goal of this paper is to automate the process of determining which bug report can be labeled as SBR through the use of machine learning techniques. We first extracted 45,940 bug reports from publicly available datasets of five software repositories (e.g., the work of Peters et al. and Shu et al.). Second, we conducted a study on the classification of SBRs using machine learning, where we built a fasttext classifier. We then examined the accuracy of using fasttext in detecting SBRs. Our results show that fasttext can identify SBRs with an average F1 score of 0.81. Furthermore, we investigated the generalizability of identifying SBRs by applying cross-project validation, and our results show that the fasttext classifier achieves an average F1 value of 0.65. Data and results are available at https://github.com/isultane/fasttext_classifications.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2263306/v1"
+    },
+    {
+        "id": 9765,
+        "title": "FastPacket: Towards Pre-trained Packets Embedding based on FastText for next-generation NIDS",
+        "authors": "Khloud Al Jallad",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nNew Attacks are increasingly used by attackers every day but many of them are not detected by Intrusion Detection Systems as most IDS ignore raw packet information and only care about some basic statistical information extracted from PCAP files. Using networking programs to extract fixed statistical features from packets is good, but may not enough to detect nowadays challenges. We think that it is time to utilize big data and deep learning for automatic dynamic feature extraction from packets. It is time to get inspired by deep learning pre-trained models in computer vision and natural language processing, so security deep learning solutions will have its pre-trained models on big datasets to be used in future researches. In this paper, we proposed a new approach for embedding packets based on character-level embeddings, inspired by FastText success on text data. We called this approach FastPacket. Results are measured on subsets of CIC-IDS-2017 dataset, but we expect promising results on big data pre-trained models. We suggest building pre-trained FastPacket on MAWI big dataset and make it available to community, similar to FastText. To be able to outperform currently used NIDS, to start a new era of packet-level NIDS that can better detect complex attacks",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-555961/v1"
+    },
+    {
+        "id": 9766,
+        "title": "Peer Review #2 of \"Persian sentiment analysis of an online store independent of pre-processing using convolutional neural network with fastText embeddings (v0.2)\"",
+        "authors": "",
+        "published": "2021-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.422v0.2/reviews/2"
+    },
+    {
+        "id": 9767,
+        "title": "Discovering Business Processes from Email Logs using fastText and Process Mining",
+        "authors": "Yaghoub rashnavadi, Sina Behzadifard, Reza Farzadnia, sina zamani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Communication\nhas never been more accessible than today. With the help of Instant messengers\nand Email Services, millions of people can transfer information with ease, and\nthis trend has affected organizations as well. There are billions of\norganizational emails sent or received daily, and their main goal is to\nfacilitate the daily operation of organizations. Behind this vast corpus of\nhuman-generated content, there is much implicit information that can be mined\nand used to improve or optimize the organizations’ operations. Business\nprocesses are one of those implicit knowledge areas that can be discovered from\nEmail logs of an Organization, as most of the communications are followed\ninside Emails. The purpose of this research is to propose an approach to\ndiscover the process models in the Email log. In this approach, we combine two\ntools, supervised machine learning and process mining. With the help of supervised\nmachine learning, fastText classifier, we classify the body text of emails to\nthe activity-related. Then the generated log will be mined with process mining techniques\nto find process models. We illustrate the approach with a case study company\nfrom the oil and gas sector.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.12283835.v1"
+    },
+    {
+        "id": 9768,
+        "title": "Fake News Detection in Turkish Using Machine Learning Algorithms and Fasttext With Word Embedding",
+        "authors": "Gülsüm KAYABAŞI KORU, Doç.Dr.Çelebi ULUYOL",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractText classification problem is the transaction of pre-processing texts with natural language processing techniques, and the controlled separation of texts into one or more predefined categories or classes according to their content. Preprocessing is the most important and crucial step in classification and text mining. Applications of text classifications are commonly used in various fields such as classification of social interactions, web sites and news texts, improvement of search engines, extraction of information, automatic processing of e-mails. In this study, the classification success of Turkish fake news pulled from Twitter was analyzed with different parameters by using word embedding with fastText and using scikit-learn libraries in our fastText language model. With this model, the classification of Turkish news tweets according to two predefined classes (fake, real) was tested and the classification success was 88%. In addition, the performances of multnomialNB, Stochastic Gradient Descent (SGD), Random Forest, Logistic Regression, K-NN, XGBoost and Support Vector Machines (SVM) algorithms on Turkish news tweets were compared and interpreted. At the end of the of the study, the technique with the best classification accomplishment was the SVM algorithm with a classification success of about 84%. According to the result, an effective classifier method in the classification of fake news in Turkish has been put forward and a language model has been developed with our data set created with Turkish tweets. It is possible that the suggested methodology can also be applied to Turkish news on different social media platforms other than Twitter.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2042669/v1"
+    },
+    {
+        "id": 9769,
+        "title": "Security bug reports classification using fasttext",
+        "authors": "Sultan S. Alqahtani",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10207-023-00793-w"
+    },
+    {
+        "id": 9770,
+        "title": "Discovering Business Processes from Email Logs Using fastText and Process Mining",
+        "authors": "Yaghoub Rashnavadi, Sina Behzadifard, Reza Farzadnia, Sina Zamani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Communication is indispensable for today's lifestyle, and thanks to technology, millions of people can communicate as quickly as possible. The effect of this breakthrough has transformed organizations to the degree that they generate billions of emails daily to facilitate their operations. There is implicit information behind this vast corpus of human-generated content that can be mined and used for their benefit. This paper tries to address the opportunity that email logs can bring to organizations and propose an approach to discover process models by combining supervised text classification and process mining.  This framework consists of two main steps, text classification, and process mining. First, Emails will be classified with supervised machine learning, and to mine, the processes fuzzy Miner is used. To further investigate the application of this framework, we also applied this framework over a real-life dataset from a case study organization.",
+        "link": "http://dx.doi.org/10.20944/preprints202005.0007.v2"
+    },
+    {
+        "id": 9771,
+        "title": "Malware Detection and Classification Using fastText and BERT",
+        "authors": "Salih Yesir, Ibrahim Sogukpinar",
+        "published": "2021-6-28",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isdfs52919.2021.9486377"
+    },
+    {
+        "id": 9772,
+        "title": "Semi-automatic Detection of Persian Stopwords using FastText Library",
+        "authors": "Mohammad Dehghani, Mohammad Manthouri",
+        "published": "2021-10-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccke54056.2021.9721519"
+    },
+    {
+        "id": 9773,
+        "title": "Peer Review #1 of \"Persian sentiment analysis of an online store independent of pre-processing using convolutional neural network with fastText embeddings (v0.1)\"",
+        "authors": "",
+        "published": "2021-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.422v0.1/reviews/1"
+    },
+    {
+        "id": 9774,
+        "title": "Detection and classification of malware based on FastText",
+        "authors": "Luming Feng, Yanpeng Cui, Jianwei Hu",
+        "published": "2020-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaiis49377.2020.9194806"
+    },
+    {
+        "id": 9775,
+        "title": "Peer Review #2 of \"Persian sentiment analysis of an online store independent of pre-processing using convolutional neural network with fastText embeddings (v0.1)\"",
+        "authors": "",
+        "published": "2021-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.422v0.1/reviews/2"
+    },
+    {
+        "id": 9776,
+        "title": "Text Classification Model Based on fastText",
+        "authors": "Tengjun Yao, Zhengang Zhai, Bingtao Gao",
+        "published": "2020-3",
+        "citations": 19,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaiis49377.2020.9194939"
+    },
+    {
+        "id": 9777,
+        "title": "Typo Correction in Domain-Specific Texts Using FastText",
+        "authors": "Ahmet Tugrul Bayrak, Bekir Berker Turker",
+        "published": "2020-10-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asyu50717.2020.9259843"
+    },
+    {
+        "id": 9778,
+        "title": "Discovering Business Processes from Email Logs Using fastText and Process Mining",
+        "authors": "Yaghoub Rashnavadi, Sina Behzadifard, Reza Farzadnia, Sina Zamani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Communication has never been more accessible than today. With the help of Instant messengers and Email Services, millions of people can transfer information with ease, and this trend has affected organizations as well. There are billions of organizational emails sent or received daily, and their main goal is to facilitate the daily operation of organizations. Behind this vast corpus of human-generated content, there is much implicit information that can be mined and used to improve or optimize the organizations&rsquo; operations. Business processes are one of those implicit knowledge areas that can be discovered from Email logs of an Organization, as most of the communications are followed inside Emails. The purpose of this research is to propose an approach to discover the process models in the Email log. In this approach, we combine two tools, supervised machine learning and process mining. With the help of supervised machine learning, fastText classifier, we classify the body text of emails to the activity-related. Then the generated log will be mined with process mining techniques to find process models. We illustrate the approach with a case study company from the oil and gas sector.",
+        "link": "http://dx.doi.org/10.20944/preprints202005.0007.v1"
+    },
+    {
+        "id": 9779,
+        "title": "Peer Review #1 of \"Persian sentiment analysis of an online store independent of pre-processing using convolutional neural network with fastText embeddings (v0.2)\"",
+        "authors": "",
+        "published": "2021-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.422v0.2/reviews/1"
+    },
+    {
+        "id": 9780,
+        "title": "Analysis of Subword based Word Representations Case Study: Fasttext Malayalam",
+        "authors": "Vivek M R, Priya Chandran",
+        "published": "2022-11-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/indicon56171.2022.10040147"
+    },
+    {
+        "id": 9781,
+        "title": "FastText Embedding and LSTM for Sentiment Analysis: An Empirical Study on Algerian Tweets",
+        "authors": "Lamia Ouchene, Sadik Bessou",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icit58056.2023.10226060"
+    },
+    {
+        "id": 9782,
+        "title": "Discovering Business Processes from Email Logs using fastText and Process Mining",
+        "authors": "Yaghoub Rashnavadi, Sina Behzadifard, Reza Farzadnia, Sina Zamani",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3671233"
+    },
+    {
+        "id": 9783,
+        "title": "A Multi-tiered Solution for Personalized Baggage Item Recommendations using FastText and Association Rule Mining: A Novel Approach",
+        "authors": "Ravi Mudavath, Atul Negi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThe use of automated systems is helpful for the social transformation to an advanced society. This research paper presents a baggage item recommendation system that leverages FastText word embeddings and Association Rule Mining (ARM) to deliver personalized suggestions to users. The methodology involves several key steps. First, the baggage data is collected and preprocessed, including loading pre-trained Fast-Text word embeddings for text representation. The Phase-I recommendation system is then developed, using FastText embeddings to calculate similarity scores between user input and existing items. Next, the Phase-II recommendation system is extended to incorporate user search history by recording searches and storing them in a data frame. In Phase-III, ARM is applied to the user search history, generating associationrules that enrich the recommendation process. The final stage, Phase-IV, combines FastText and ARM-based recommendations, providing users with more accurate and relevant suggestions. The research evaluates the recommendation model’s performance using metrics such as coverage, support, confidence, lift, leverage, and conviction. The proposed approach achieves enhanced item recommendations, offering insights intouser behavior and preferences, and opens opportunities for personalized recommendations, marketing strategies, and product optimization.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3893110/v1"
+    },
+    {
+        "id": 9784,
+        "title": "Semi-supervised Turkish Text Categorization with Word2Vec, Doc2Vec and FastText Algorithms",
+        "authors": "Hakkı Yağız Erdinҫ, Aysun Güran",
+        "published": "2019-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/siu.2019.8806539"
+    },
+    {
+        "id": 9785,
+        "title": "Text Classification of Flu-Related Tweets Using FastText with Sentiment and Keyword Features",
+        "authors": "Ali Alessa, Miad Faezipour, Zakhriya Alhassan",
+        "published": "2018-6",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ichi.2018.00058"
+    },
+    {
+        "id": 9786,
+        "title": "FastText-Based Intent Detection for Inflected Languages",
+        "authors": "Kaspars Balodis, Daiga Deksne",
+        "published": "2019-5-1",
+        "citations": 11,
+        "abstract": "Intent detection is one of the main tasks of a dialogue system. In this paper, we present our intent detection system that is based on fastText word embeddings and a neural network classifier. We find an improvement in fastText sentence vectorization, which, in some cases, shows a significant increase in intent detection accuracy. We evaluate the system on languages commonly spoken in Baltic countries—Estonian, Latvian, Lithuanian, English, and Russian. The results show that our intent detection system provides state-of-the-art results on three previously published datasets, outperforming many popular services. In addition to this, for Latvian, we explore how the accuracy of intent detection is affected if we normalize the text in advance.",
+        "link": "http://dx.doi.org/10.3390/info10050161"
+    },
+    {
+        "id": 9787,
+        "title": "Sentiment Lexicon Expansion using Word2vec and fastText for Sentiment Prediction in Tamil texts",
+        "authors": "Sajeetha Thavareesan, Sinnathamby Mahesan",
+        "published": "2020-7",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mercon50084.2020.9185369"
+    },
+    {
+        "id": 9788,
+        "title": "Compromised Tweet Detection Using Siamese Networks and fastText Representations",
+        "authors": "Mihir Joshi, Parmeet Singh, Nur Zincir-Heywood",
+        "published": "2019-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/cnsm46954.2019.9012722"
+    },
+    {
+        "id": 9789,
+        "title": "Evaluating Gender Bias in Pre-trained Filipino FastText Embeddings",
+        "authors": "Lance Calvin Gamboa, Maria Regina Justina Estuar",
+        "published": "2023-3-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itikd56332.2023.10100022"
+    },
+    {
+        "id": 9790,
+        "title": "MEMBANGUN SLANG DICTIONARY UNTUK NORMALISASI TEKS MENGGUNAKAN PRE-TRAINED FASTTEXT MODEL",
+        "authors": "Junita Amalia",
+        "published": "2022-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.58486/jsr.v6i2.184"
+    },
+    {
+        "id": 9791,
+        "title": "Sentiment analysis using convolutional neural network with fastText embeddings",
+        "authors": "Igor Santos, Nadia Nedjah, Luiza de Macedo Mourelle",
+        "published": "2017-11",
+        "citations": 45,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/la-cci.2017.8285683"
+    },
+    {
+        "id": 9792,
+        "title": "HyperText: Endowing FastText with Hyperbolic Geometry",
+        "authors": "Yudong Zhu, Di Zhou, Jinghui Xiao, Xin Jiang, Xiao Chen, Qun Liu",
+        "published": "2020",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.findings-emnlp.104"
+    },
+    {
+        "id": 9793,
+        "title": "Fuzzy Cloud Evaluation of Service Quality Based on DP-FastText",
+        "authors": "Huanzhuo Ye, Yuan Li",
+        "published": "2021-8-2",
+        "citations": 1,
+        "abstract": "This study proposes a service quality evaluation model framework which integrates automatic data acquisition, intelligent data processing and real-time data analysis with online comment data as data sources by introducing natural language processing technology based on management methods to break the traditional idea of over-reliance on human resources for service quality evaluation. The framework is mainly divided into text data preparation, fine-grained sentiment analysis and fuzzy cloud evaluation models. Data preparation module is responsible for preparing the initial data, and the fine-grained sentiment analysis module is responsible for pre-training a fine-grained sentiment classification model. The fuzzy cloud evaluation module uses the data obtained from the first two modules to evaluate service quality. By applying the model into catering industry, the feasibility of the model is proved and individuality, efficiency, dynamicity and intelligence of the model give it more advantage in the practice of service quality evaluation",
+        "link": "http://dx.doi.org/10.37394/23205.2021.20.16"
+    },
+    {
+        "id": 9794,
+        "title": "Hierarchical Classification Algorithm Based on FastText",
+        "authors": "Yaxin RAN, Hongqi HAN, Yunliang ZHANG, Xiaorui ZHAI, Mengjuan WENG",
+        "published": "2019-11-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12783/dtcse/iccis2019/31991"
+    },
+    {
+        "id": 9795,
+        "title": "Chinese Story Generation with FastText Transformer Network",
+        "authors": "Jhe-Wei Lin, Yu-Che Gao, Rong-Guey Chang",
+        "published": "2019-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaiic.2019.8669087"
+    },
+    {
+        "id": 9796,
+        "title": "Hierarchical Classification Algorithm Based on FastText",
+        "authors": "Yaxin RAN, Hongqi HAN, Yunliang ZHANG, Xiaorui ZHAI, Mengjuan WENG",
+        "published": "2019-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12783/dteees/iccis2019/31766"
+    },
+    {
+        "id": 9797,
+        "title": "FastText ve Kelime Çantası Kelime Temsil Yöntemlerinin Turistik Mekanlar İçin Yapılan Türkçe İncelemeler Kullanılarak Karşılaştırılması",
+        "authors": "Muhammed Çağrı AKSU, Ersin KARAMAN",
+        "published": "2020-10-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31590/ejosat.776629"
+    },
+    {
+        "id": 9798,
+        "title": "Adaptive GloVe and FastText Model for Hindi Word Embeddings",
+        "authors": "Vijay Gaikwad, Yashodhara Haribhakta",
+        "published": "2020-1-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3371158.3371179"
+    },
+    {
+        "id": 9799,
+        "title": "Review and Visualization of Facebook's FastText Pretrained Word Vector Model",
+        "authors": "Julio Christian Young, Andre Rusli",
+        "published": "2019-8",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icesi.2019.8863015"
+    },
+    {
+        "id": 9800,
+        "title": "Sentiment Classification Using fastText Embedding and Deep Learning Model",
+        "authors": "Isnaini Nurul Khasanah",
+        "published": "2021",
+        "citations": 19,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.procs.2021.05.103"
+    },
+    {
+        "id": 9801,
+        "title": "A Novel Approach for E-mail Classification Using FastText",
+        "authors": "Raisa Tahsin, Mahmudul Hasan Mozumder, Shaikh Akib Shahriyar, Md. Abdus Salim Mollah",
+        "published": "2020",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tensymp50017.2020.9230961"
+    },
+    {
+        "id": 9802,
+        "title": "Learning Word Embeddings for Ukrainian: A Comparative Study of FastText Hyperparameters",
+        "authors": "Nataliia Romanyshyn, Dmytro Chaplynskyi, Kyrylo Zakharov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.unlp-1.3"
+    },
+    {
+        "id": 9803,
+        "title": "Studying Effectiveness of Transformers Over FastText",
+        "authors": "Jitendra Singh Malik",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-7346-8_7"
+    },
+    {
+        "id": 9804,
+        "title": "Depression and Suicide Risk Detection on Social Media using fastText Embedding and XGBoost Classifier",
+        "authors": "Sayani Ghosal, Amita Jain",
+        "published": "2023",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.141"
+    },
+    {
+        "id": 9805,
+        "title": "Enhancing Short Text Topic Modeling with FastText Embeddings",
+        "authors": "Fan Zhang, Wang Gao, Yuan Fang, Bo Zhang",
+        "published": "2020-6",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icbaie49996.2020.00060"
+    },
+    {
+        "id": 9806,
+        "title": "Study on Chinese text classification for FastText that combing TF-RF and improved random walk model",
+        "authors": "Zheng Wang",
+        "published": "2021-4-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsp51882.2021.9408910"
+    },
+    {
+        "id": 9807,
+        "title": "BERT and fastText Embeddings for Automatic Detection of Toxic Speech",
+        "authors": "Ashwin Geet D'Sa, Irina Illina, Dominique Fohr",
+        "published": "2020-2",
+        "citations": 28,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/octa49274.2020.9151853"
+    },
+    {
+        "id": 9808,
+        "title": "Content Retrieval dengan Fasttext Word Embedding pada Learning Management System Olimpiade",
+        "authors": "Rochana Prih Hastuti, Vellya Riona, Margareta Hardiyanti",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "Learning Management System (LMS) merupakan jenis media pembelajaran daring yang digunakan siswa di berbagai tingkat. Penggunaannya pada keperluan kompetisi, secara khusus olimpiade, memiliki karakteristik tersendiri dibanding LMS  untuk keperluan pembelajaran sehari-hari. Salah satunya adalah kemampuan sistem mengelola bank soal dan menyajikan kategori yang relevan kepada user. User pada LMS Olimpiade tersegmentasi sesuai bidang ilmu yang ingin ditekuni. Meski begitu, tiap bidang memiliki topik pembelajaran yang beragam jenisnya dan bahkan cenderung berkembang seiring waktu. Manajemen bank soal dengan anotasi topik di awal memerlukan tenaga ahli dan memakan waktu. Sedangkan fitur pencarian tanpa menggunakan informasi metadata tersebut tentu juga sulit dilakukan. Fitur pencarian semantik menjadi penting pada sistem seperti ini. Dibutuhkan skema pencarian berdasarkan konten yang mampu mengembalikan soal-soal yang relevan dengan topik di masing-masing bidang. Fitur pencarian dibangun menggunakan skema information retrieval yakni vector space model. Hasil eksperimen dan evaluasi responden menunjukkan representasi word embedding dengan performa pencarian terbaik adalah FastText word embedding. Efisiensi ukuran model dilakukan dengan menggunakan compressed version. Representasi ini selain dapat mengakomodasi hasil pencarian sesuai konteks kueri juga dapat mengatasi permasalahan out-of-vocabulary.",
+        "link": "http://dx.doi.org/10.22146/jise.v4i1.6766"
+    },
+    {
+        "id": 9809,
+        "title": "Feature Expansion with FastText on Topic Classification Using the Gradient Boosted Decision Tree on Twitter",
+        "authors": "Reza A. Yahya, Erwin B. Setiawan",
+        "published": "2022-8-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icoict55009.2022.9914896"
+    },
+    {
+        "id": 9810,
+        "title": "Emotion Analysis of Covid Tweets using FastText Supervised Classifier model",
+        "authors": "Anushree Kulai, Mansi Sankhe, Sumegh Anglekar, Aparna Halbe",
+        "published": "2021-6-25",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccict50803.2021.9510156"
+    },
+    {
+        "id": 9811,
+        "title": "Hate Speech Detection on Indonesian Instagram Comments using FastText Approach",
+        "authors": "Nur Indah Pratiwi, Indra Budi, Ika Alfina",
+        "published": "2018-10",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icacsis.2018.8618182"
+    },
+    {
+        "id": 9812,
+        "title": "Calculation of sentence vector similarity based on fasttext model of weighted fusion",
+        "authors": "Shuzhong Lai, Dian Lei",
+        "published": "2022-4-22",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ctisc54888.2022.9849804"
+    },
+    {
+        "id": 9813,
+        "title": "Classification of Turkish News Content by Deep Learning Based LSTM Using Fasttext Model",
+        "authors": "Gözde Nergız, Yaşar Safali, Erdinç Avaroğlu, Selahaddin Erdoğan",
+        "published": "2019-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/idap.2019.8875949"
+    },
+    {
+        "id": 9814,
+        "title": "CNN-FastText Multi-Input (CFMI) Neural Networks for Social Media Clickbait Classification",
+        "authors": "Chirag Sharma, Gurneet Singh, Pratibha Singh Muttum, Shubham Mahajan",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "\nIntroduction:\nUser-generated video portals, such as YouTube, are facing the chal-lenge of Clickbait. These are used to lure viewers and gain traffic on specific content. The real content inside the video deviates from its title. and a thumbnail. The consequence of this is poor user experience on the platform.\n\n\nbackground:\nThe method employs a self-developed convolutional model, combined with different other video metadata. The thumbnail of any video plays a vital role in gathering user attention; hence, it should also be addressed. Moreover, we believe that word embeddings can help in determining the words that can attract viewers.\n\n\nMethods:\nThe existing identification techniques either use pre-trained models or are restricted to text only. Other video metadata is not considered. To tackle this situation of clickbait, we propose a CNN-Fast Text Multi-Input (CFMI) Neural Network. The method employs a self-developed convolutional model, combined with different other video metadata. The thumbnail of any video plays a vital role in gathering user attention; hence, it should also be addressed. With greater expressiveness, it depicts and captures the parallels between the title and thumb-nail and the video content.\n\n\nobjective:\nThis research also compares the proposed system with the previous works on various parameters. With the usage of the proposed network, the platforms can easily analyze the videos during the uploading stage. In Industry 4.0, every data bit is crucial and must be preserved carefully.\n\n\nResults:\nThis research also compares the proposed system with the previous works on various parameters. With the usage of the proposed network, the platforms can easily analyze the vide-os during the uploading stage. The future belongs to Post Quantum Cryptography (PWC), we reviewed various encryption standards in this paper.\n\n\nConclusion:\nIn Industry 4.0, every data bit is crucial and must be preserved carefully. This in-dustry will surely benefit from the model as it will eliminate false and misleading videos from the platform.\n",
+        "link": "http://dx.doi.org/10.2174/0126662558283914231221065437"
+    },
+    {
+        "id": 9815,
+        "title": "A Fusion Method for Word Vector Based on Fasttext-KdTree",
+        "authors": "Yu Dai, Hongcui Hua, Chenyan Ma, Huixue Zhang, Lei Yang",
+        "published": "2019-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cbd.2019.00049"
+    },
+    {
+        "id": 9816,
+        "title": "Analisis Trending Topik Twitter dengan Fitur Ekspansi FastText Menggunakan Metode Logistic Regression",
+        "authors": "Izzan Faikar Ramadhy, Yuliant Sibaroni",
+        "published": "2022-2-25",
+        "citations": 0,
+        "abstract": "Twitter is a social media that contains information such as the latest news, a person's biography, and tweets from users. Twitter has a feature called trending topics that serves to find out information on certain topics that are currently popular. In fact, it is often difficult to understand what trending topics are happening. Therefore, it is necessary to classify trending topics into a general category. This study aims to analyze and classify Twitter topic trending information by dividing several topic trend labels using the FastText expansion feature method. The FastText expansion feature is used to reduce vocabulary mismatches in a tweet. The classification process of this system will use the Logistic Regression method. The best results were obtained in this study using test data scenarios, 90:10 training data with 76.39% accuracy. The most discussed trending topic from September 2021 to October 2021 was politics with a percentage of 15.83%, followed by religion 12.64% and technology 10.42%",
+        "link": "http://dx.doi.org/10.30865/jurikom.v9i1.3791"
+    },
+    {
+        "id": 9817,
+        "title": "Study of Tibetan Text Classification based on fastText",
+        "authors": "Wei Ma, Hongzhi Yu, Jing Ma",
+        "published": "2019",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2991/iccia-19.2019.58"
+    },
+    {
+        "id": 9818,
+        "title": "KLASIFIKASI SENTIMEN VAKSIN COVID-19 MENGGUNAKAN K-NEAREST NEIGHBOR BERDASARKAN WORD EMBEDDINGS FASTTEXT PADA TWITTER",
+        "authors": "Afri Naldi, Surya Agustian",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "Pada akhir 2019 muncul penyakit semacam flu yang menginfeksi paru-paru di kota Wuhan. Diduga penyakit tersebut diduga berasal dari kelelawar. WHO memberi nama penyakit ini dengan nama Covid-19 dan virus ini tersebar ke seluruh dunia sehingga menyebabkan pandemi. Pemerintah mengambil indakan vaksinasi untuk mengatasi virus ini, namun mendapat respon pro dan kontra dari masyarakat. Ada banyak penelitian yang membahas sentimen masyarakat terhadap vaksinasi salah satunya adalah klasifikasi sentimen. Penelitian ini membahas klasifikasi sentimen terhadap vaksin covid-19 menggunakan algoritma K-Nearest Neighbor dan Fasttext pada twitter. Data diperoleh dengan cara crawling menggunakan bahasa pemograman pyton dan Twitter API. Pelabelan data dilakukan dengan teknik crowdsourcing dan majority voting. Data yang digunakan setelah proses penyeimbangan adalah 6000 data training, 778 data development dan 400 data test. Hasil pengujian setelah berbagai eksperimen dan feature engineering mendapatkan hasil terbaik dengan nilai akurasi 69% dan f1-score 60%. Hasil ini merupakan hasil terbaik dibanding penelitian sebelumnya dengan dataset yang sama.",
+        "link": "http://dx.doi.org/10.31849/zn.v5i2.12548"
+    },
+    {
+        "id": 9819,
+        "title": "Detecting Webshell Based on Random Forest with FastText",
+        "authors": "Yong Fang, Yaoyao Qiu, Liang Liu, Cheng Huang",
+        "published": "2018-3-12",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3194452.3194470"
+    },
+    {
+        "id": 9820,
+        "title": "BERT- and FastText-Based Research Paper Recommender System",
+        "authors": "Nemil Shah, Yash Goda, Naitik Rathod, Vatsal Khandor, Pankaj Kulkarni, Ramchandra Mangrulkar",
+        "published": "2022-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003283249-11"
+    },
+    {
+        "id": 9821,
+        "title": "Probabilistic FastText for Multi-Sense Word Embeddings",
+        "authors": "Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar",
+        "published": "2018",
+        "citations": 51,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p18-1001"
+    },
+    {
+        "id": 9822,
+        "title": "Morphological Skip-Gram: Replacing FastText characters n-gram with morphological knowledge",
+        "authors": "Flávio Arthur O. Santos, Thiago Dias Bispo, Hendrik Teixeira Macedo, Cleber Zanchettin",
+        "published": "2021-2-20",
+        "citations": 0,
+        "abstract": "Natural language processing systems have attracted much interest of the industry. This branch of study is composed of some applications such as machine translation, sentiment analysis, named entity recognition, question and answer, and others. Word embeddings (i.e., continuous word representations) are an essential module for those applications generally used as word representation to machine learning models. Some popular methods to train word embeddings are GloVe and Word2Vec. They achieve good word representations, despite limitations: both ignore morphological information of the words and consider only one representation vector for each word. This approach implies the word embeddings does not consider different word contexts properly and are unaware of its inner structure. To mitigate this problem, the other word embeddings method FastText represents each word as a bag of characters n-grams. Hence, a continuous vector describes each n-gram, and the final word representation is the sum of its characters n-grams vectors. Nevertheless, the use of all n-grams character of a word is a poor approach since some n-grams have no semantic relation with their words and increase the amount of potentially useless information. This approach also increase the training phase time. In this work, we propose a new method for training word embeddings, and its goal is to replace the FastText bag of character n-grams for a bag of word morphemes through the morphological analysis of the word. Thus, words with similar context and morphemes are represented by vectors close to each other. To evaluate our new approach, we performed intrinsic evaluations considering 15 different tasks, and the results show a competitive performance compared to FastText. Moreover, the proposed model is $40\\%$ faster than FastText in the training phase. We also outperform the baseline approaches in extrinsic evaluations through Hate speech detection and NER tasks using different scenarios.",
+        "link": "http://dx.doi.org/10.4114/intartif.vol24iss67pp1-17"
+    },
+    {
+        "id": 9823,
+        "title": "PhishDetect: A BiLSTM based phishing URL detection framework using FastText embeddings",
+        "authors": "Kumar Mangalam, Basant Subba",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/comsnets59351.2024.10427067"
+    },
+    {
+        "id": 9824,
+        "title": "fastText-based methods for Emotion Identification in Russian Internet Discourse",
+        "authors": "Alexander Babii, Marina Kazyulina, Alexey Malafeev",
+        "published": "2021-6-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3447535.3462499"
+    },
+    {
+        "id": 9825,
+        "title": "Improving FastText with inverse document frequency of subwords",
+        "authors": "Jaekeol Choi, Sang-Woong Lee",
+        "published": "2020-5",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2020.03.003"
+    },
+    {
+        "id": 9826,
+        "title": "Chinese Text Sentiment Classification Model Based on FastText and Multi-scale Deep Pyramid Convolutional Neural Network",
+        "authors": "Shangte Tsai, Liuyue Shi",
+        "published": "2022-5-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccbe56101.2022.9888185"
+    },
+    {
+        "id": 9827,
+        "title": "TF-IDF, Word2vec ve Fasttext Vektör Model Yöntemleri ile Türkçe Haber Metinlerinin Sınıflandırılması",
+        "authors": "Özer ÇELİK, Burak Can KOÇ",
+        "published": "2021-1-15",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21205/deufmd.2021236710"
+    },
+    {
+        "id": 9828,
+        "title": "Subwords-Only Alternatives to fastText for Morphologically Rich Languages",
+        "authors": "Tsolak Ghukasyan, Yeva Yeshilbashyan, Karen Avetisyan",
+        "published": "2021-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1134/s0361768821010059"
+    },
+    {
+        "id": 9829,
+        "title": "Advancing Fake News Detection: Hybrid Deep Learning with FastText and Explainable AI",
+        "authors": "Ehtesham Hashmi, Sule Yildirim Yayilgan, Muhammad Mudassar Yamin, Subhan Ali, Mohamed Abomhara",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/access.2024.3381038"
+    },
+    {
+        "id": 9830,
+        "title": "Automating Service Classification for Victims of Violence in Indonesia through Deep Learning Using Gated Recurrent Unit and fastText",
+        "authors": "Dedy Arisandi, Rossy Nurhasanah, Suci Khairiah",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/elticom61905.2023.10443196"
+    },
+    {
+        "id": 9831,
+        "title": "Classification of Bulughul Maraam Categories: Prohibitions, Recommendations, and Information Using Extreme Learning Machine and Fasttext",
+        "authors": "Rissa Handayani, Ina Najiyah, Dirga Wisnuwardana",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "Hadith is the second source of Islamic law after the Quran. After the hadiths were compiled, Imam of Hadith created collections of hadiths, one of which is Imam Bukhari who compiled the book Bulughul Maraam, which is considered to have the highest level of authenticity. Digital collections of hadiths can now be found in the form of e-books and web pages, which help in the search for hadiths. The classification of hadiths is necessary to organize them by category, making it easier to search for hadiths based on their categories. Text mining is needed to classify hadiths because it can identify patterns in unstructured text. This research aims to improve the accuracy of classifying recommended, prohibited, and informational hadiths using a dataset of 7008 hadiths, which consists of primary data taken from the book Bulughul Maraam in the Indonesian language. Previously, similar research was conducted in 2017 that classified recommended, prohibited, and obligatory hadiths with an accuracy of 85%, but only for Sahih Bukhari hadiths. In this research, the same classification categories will be examined, proposing a different method, namely the Extreme Learning Machine method and Word2vec Fasttext for text representation with a larger dataset. The results of this research show a model accuracy of 86.31%, 86% precision, and 87% recall, indicating that the proposed model performs well in classifying hadiths.",
+        "link": "http://dx.doi.org/10.15575/join.v8i2.1205"
+    },
+    {
+        "id": 9832,
+        "title": "Classification of Chinese Text in the Power Field Using FastText with Electric Power Keywords",
+        "authors": "Changan Li, Feihu Hu, Yanpeng Wang",
+        "published": "2022-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ipec54454.2022.9777517"
+    },
+    {
+        "id": 9833,
+        "title": "Analysis Comparison of FastText and Word2vec for Detecting Offensive Language",
+        "authors": "Rosni Lumbantoruan, Rifka Uli Siregar, Indah Manik, Nadya Tambunan, Humasak Simanjuntak",
+        "published": "2022-10-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icosnikom56551.2022.10034886"
+    },
+    {
+        "id": 9834,
+        "title": "Deception Detection and Analysis in Spoken Dialogues based on FastText",
+        "authors": "Naoki Hosomi, Sakriani Sakti, Koichiro Yoshino, Satoshi Nakamura",
+        "published": "2018-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/apsipa.2018.8659614"
+    },
+    {
+        "id": 9835,
+        "title": "Disaster Event Classification on Twitter: A Comparison of LSTM and GRU Algorithms using Word Embedding FastText and GloVe",
+        "authors": "Ade Febrian, Arif Dwi Laksito",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iwaiip58158.2023.10462842"
+    },
+    {
+        "id": 9836,
+        "title": "Combining FastText and Glove Word Embedding for Offensive and Hate speech Text Detection",
+        "authors": "Nabil Badri, Ferihane Kboubi, Anja Habacha Chaibi",
+        "published": "2022",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.procs.2022.09.132"
+    },
+    {
+        "id": 9837,
+        "title": "Clustering Glossary Terms Extracted from Large-Sized Software Requirements using FastText",
+        "authors": "Kushagra Bhatia, Siba Mishra, Arpit Sharma",
+        "published": "2020-2-27",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3385032.3385039"
+    },
+    {
+        "id": 9838,
+        "title": "Analisis Basic Emotion Masyarakat Pada Masa Pandemi COVID-19 di Media Sosial Twitter Dengan Metode LSTM-FastText",
+        "authors": "Meytry Petronella Purba, Yuliagnis Transver Wijaya",
+        "published": "2022-11-1",
+        "citations": 0,
+        "abstract": "Kebijakan pembatasan kegiatan publik yang diterapkan saat pandemi, menimbulkan efek negatif yang berkaitan dengan emosi dan kesehatan mental masyarakat di berbagai lapisan. Kestabilan emosi merupakan proxy indicator dalam mengukur kesehatan mental. Pandemi mengakibatkan berbagai respon psikologis salah satunya adalah respon emosi. Maka penting untuk mengetahui emosi apa saja yang paling mendominasi di tengah masyarakat. Oleh karena itu, penelitian ini dilakukan untuk menginformasikan basic emotion masyarakat pada media sosial twitter dengan model emosi Ekman, serta mengimplementasikannya dengan algoritma pembelajaran mendalam yaitu Long Short Term Memory (LSTM) dengan word embedding FastText. Penelitian ini berhasil menemukan basic emotion masyarakat yang paling dominan adalah kategori emosi bahagia. Dan berdasarkan model yang telah dibangun LSTM-FastText, menghasilkan akurasi sebesar 99.24% dan loss sebesar 0.0264. Hal ini menggambarkan bahwa error yang sangat kecil terjadi dalam pengklasifikasian data train. Dan model ini sudah baik digunakan dalam menganalisis basic emotion masyarakat pada masa pandemi covid-19 pada media sosial Twitter.",
+        "link": "http://dx.doi.org/10.34123/semnasoffstat.v2022i1.1524"
+    },
+    {
+        "id": 9839,
+        "title": "Hate Speech and Abusive Language Classification using fastText",
+        "authors": "Guntur Budi Herwanto, Annisa Maulida Ningtyas, Kurniawan Eka Nugraha, I Nyoman Prayana Trisna",
+        "published": "2019-12",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isriti48646.2019.9034560"
+    },
+    {
+        "id": 9840,
+        "title": "FastText-Based Local Feature Visualization Algorithm for Merged Image-Based Malware Classification Framework for Cyber Security and Cyber Defense",
+        "authors": "Sejun Jang, Shuyu Li, Yunsick Sung",
+        "published": "2020-3-24",
+        "citations": 19,
+        "abstract": "The importance of cybersecurity has recently been increasing. A malware coder writes malware into normal executable files. A computer is more likely to be infected by malware when users have easy access to various executables. Malware is considered as the starting point for cyber-attacks; thus, the timely detection, classification and blocking of malware are important. Malware visualization is a method for detecting or classifying malware. A global image is visualized through binaries extracted from malware. The overall structure and behavior of malware are considered when global images are utilized. However, the visualization of obfuscated malware is tough, owing to the difficulties encountered when extracting local features. This paper proposes a merged image-based malware classification framework that includes local feature visualization, global image-based local feature visualization, and global and local image merging methods. This study introduces a fastText-based local feature visualization method: First, local features such as opcodes and API function names are extracted from the malware; second, important local features in each malware family are selected via the term frequency inverse document frequency algorithm; third, the fastText model embeds the selected local features; finally, the embedded local features are visualized through a normalization process. Malware classification based on the proposed method using the Microsoft Malware Classification Challenge dataset was experimentally verified. The accuracy of the proposed method was approximately 99.65%, which is 2.18% higher than that of another contemporary global image-based approach.",
+        "link": "http://dx.doi.org/10.3390/math8030460"
+    },
+    {
+        "id": 9841,
+        "title": "Text classification framework for short text based on TFIDF-FastText",
+        "authors": "Shrutika Chawla, Ravreet Kaur, Preeti Aggarwal",
+        "published": "2023-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15211-5"
+    },
+    {
+        "id": 9842,
+        "title": "Automation in Social Networking Comments With the Help of Robust fastText and CNN",
+        "authors": "Suresh Mestry, Hargun Singh, Roshan Chauhan, Vishal Bisht, Kaushik Tiwari",
+        "published": "2019-4",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciict1.2019.8741503"
+    },
+    {
+        "id": 9843,
+        "title": "Multi-label Classification of Indonesian Al-Quran Translation based CNN, BiLSTM, and FastText",
+        "authors": "Ahmad Rofiqul Muslikh, Ismail Akbar, De Rosal Ignatius Moses Setiadi, Hussain Md Mehedul Islam",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "Studying the Qur'an is a pivotal act of worship in Islam, which necessitates a structured understanding of its verses to facilitate learning and referencing. Reflecting this complexity, each Quranic verse is rich with unique thematic elements and can be classified into a range of distinct categories. This study explores the enhancement of a multi-label classification model through the integration of FastText. Employing a CNN+Bi-LSTM architecture, the research undertakes the classification of Quranic translations across categories such as Tauhid, Ibadah, Akhlak, and Sejarah. Based on model evaluation using F1-Score, it shows significant differences between the CNN+Bi-LSTM model without FastText, with the highest result being 68.70% in the 80:20 testing configuration. Conversely, the CNN+Bi-LSTM+FastText model, combining embedding size and epoch parameters, achieves a result of 73.30% with an embedding size of 200, epoch of 100, and a 90:10 testing configuration. These findings underscore the significant impact of FastText on model optimization, with an enhancement margin of 4.6% over the base model.",
+        "link": "http://dx.doi.org/10.62411/tc.v23i1.9925"
+    },
+    {
+        "id": 9844,
+        "title": "Analysis of Google Play Store's Sentiment Review on Waqf Digital Platform Using Fasttext Embedding",
+        "authors": "Muhammad Ichwandar Akrianto, Adhistya Erna Permanasari, Indriana Hidayah, Mahfud Sholihin",
+        "published": "2023-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccosite57641.2023.10127810"
+    },
+    {
+        "id": 9845,
+        "title": "Topic Classification Using the Long Short-Term Memory (LSTM) Method with FastText Feature Expansion on Twitter",
+        "authors": "Bella Adriani Putri, Erwin Budi Setiawan",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icodsa58501.2023.10277033"
+    },
+    {
+        "id": 9846,
+        "title": "PERBANDINGAN KINERJA WORD EMBEDDING WORD2VEC, GLOVE, DAN FASTTEXT PADA KLASIFIKASI TEKS",
+        "authors": "Arliyanti Nurdin, Bernadus Anggo Seno Aji, Anugrayani Bustamin, Zaenal Abidin",
+        "published": "2020-8-15",
+        "citations": 19,
+        "abstract": "Karakteristik teks yang tidak terstruktur menjadi tantangan dalam ekstraksi fitur pada bidang pemrosesan teks. Penelitian ini bertujuan untuk membandingkan kinerja dari word embedding  seperti Word2Vec, GloVe dan FastText dan diklasifikasikan dengan algoritma Convolutional Neural Network. Ketiga metode ini dipilih karena dapat menangkap makna semantik, sintatik, dan urutan bahkan konteks di sekitar kata jika dibandingkan dengan feature engineering tradisional seperti Bag of Words. Proses word embedding dari metode tersebut akan dibandingkan kinerjanya pada klasifikasi berita dari dataset 20 newsgroup dan Reuters Newswire. Evaluasi kinerja diukur menggunakan F-measure. Performa terbaik menunjukkan FastText unggul dibanding dua metode word embedding lainnya dengan nilai F-Measure  sebesar 0.979 untuk dataset 20 Newsgroup dan 0.715 untuk Reuters. Namun, perbedaan kinerja yang tidak begitu signifikan antar ketiga word embedding tersebut menunjukkan bahwa ketiga word embedding ini memiliki kinerja yang kompetitif. Penggunaannya sangat bergantung pada dataset yang digunakan dan permasalahan yang ingin diselesaikan.Kata kunci: word embedding, word2vec, glove, fasttext, klasfikasi teks, convolutional neural network, cnn.",
+        "link": "http://dx.doi.org/10.33365/jtk.v14i2.732"
+    },
+    {
+        "id": 9847,
+        "title": "Attention-Based 1D CNN-BiLSTM Hybrid Model Enhanced with FastText Word Embedding for Korean Voice Phishing Detection",
+        "authors": "Milandu Keith Moussavou Boussougou, Dong-Joo Park",
+        "published": "2023-7-21",
+        "citations": 1,
+        "abstract": "In the increasingly complex domain of Korean voice phishing attacks, advanced detection techniques are paramount. Traditional methods have achieved some degree of success. However, they often fail to detect sophisticated voice phishing attacks, highlighting an urgent need for enhanced approaches to improve detection performance. Addressing this, we have designed and implemented a novel artificial neural network (ANN) architecture that successfully combines data-centric and model-centric AI methodologies for detecting Korean voice phishing attacks. This paper presents our unique hybrid architecture, consisting of a 1-dimensional Convolutional Neural Network (1D CNN), a Bidirectional Long Short-Term Memory (BiLSTM), and Hierarchical Attention Networks (HANs). Our evaluations using the real-world KorCCVi v2 dataset demonstrate that the proposed architecture effectively leverages the strengths of CNN and BiLSTM to extract and learn contextually rich features from word embedding vectors. Additionally, implementing word and sentence attention mechanisms from HANs enhances the model’s focus on crucial features, considerably improving detection performance. Achieving an accuracy score of 99.32% and an F1 score of 99.31%, our model surpasses all baseline models we trained, outperforms several existing solutions, and maintains comparable performance to others. The findings of this study underscore the potential of hybrid neural network architectures in improving voice phishing detection in the Korean language and pave the way for future research. This could involve refining and expanding upon this model to tackle increasingly sophisticated voice phishing strategies effectively or utilizing larger datasets.",
+        "link": "http://dx.doi.org/10.3390/math11143217"
+    },
+    {
+        "id": 9848,
+        "title": "Deteksi Clickbait pada Judul Berita Online Berbahasa Indonesia Menggunakan FastText",
+        "authors": "Muhaza Liebenlito, Arlianis Arum Yesinta, Muhamad Irvan Septiar Musti",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "The rise of people accessing news portals has created intense competition between online media to get readers or visitors to maximize their revenue. This is what triggers the development of clickbait. Clickbait can reduce the quality of the news itself, and it also has the potential to be misinformation regarding to news contents as known as fake news. Therefore, it is necessary to detect news titles that contain clickbait. This study aims to obtain an optimal clickbait news title classification model using FastText. To get the optimal model can be done by cleaning the data and optimizing the model's hyperparameters. The model was trained using 9600 training data collected from Indonesian online news. The best model obtained in this study has performance with an accuracy of 77% and an F1-Score of 69%.\r\n ",
+        "link": "http://dx.doi.org/10.52158/jacost.v5i1.655"
+    },
+    {
+        "id": 9849,
+        "title": "Hoax analyzer for Indonesian news using RNNs with fasttext and glove embeddings",
+        "authors": "Ryan Adipradana, Bagas Pradipabista Nayoga, Ryan Suryadi, Derwin Suhartono",
+        "published": "2021-8-1",
+        "citations": 7,
+        "abstract": "Misinformation has become an innocuous yet potentially harmful problem ever since the development of internet. Numbers of efforts are done to prevent the consumption of misinformation, including the use of artificial intelligence (AI), mainly natural language processing (NLP). Unfortunately, most of natural language processing use English as its linguistic approach since English is a high resource language. On the contrary, Indonesia language is considered a low resource language thus the amount of effort to diminish consumption of misinformation is low compared to English-based natural language processing. This experiment is intended to compare fastText and GloVe embeddings for four deep neural networks (DNN) models: long short-term memory (LSTM), bidirectional long short-term memory (BI-LSTM), gated recurrent unit (GRU) and bidirectional gated recurrent unit (BI-GRU) in terms of metrics score when classifying news between three classes: fake, valid, and satire. The latter results show that fastText embedding is better than GloVe embedding in supervised text classification, along with BI-GRU + fastText yielding the best result.",
+        "link": "http://dx.doi.org/10.11591/eei.v10i4.2956"
+    },
+    {
+        "id": 9850,
+        "title": "ANALISIS SELF-ATTENTION PADA BI-DIRECTIONAL LSTM DENGAN FASTTEXT DALAM MENDETEKSI EMOSI BERDASARKAN TEXT",
+        "authors": "Letare Saragih, Maria Nababan, Yohana Simatupang, Junita Amalia",
+        "published": "2022-11-15",
+        "citations": 0,
+        "abstract": "Cuitan Twitter yang sudah dilabeli berdasarkan jenis emosinya merupakan salah satu bentuk pengekspresian emosi dalam bentuk teks. Teks dapat dijadikan sebagai objek dalam melakukan emotion detection. Tujuan penelitian ini adalah untuk mengetahui pengaruh self-attention pada pemodelan Bi-LSTM dengan FastText dalam mendeteksi emosi pada cuitan Twitter. Pengaruh dilihat dengan membandingkan hasil evaluasi recall, precison, F1-score dan akurasi dari pemodelan Bi-LSTM, Bi-LSTM + Self-Attention dan Self-Attention. FastText digunakan untuk mengubah setiap kata menjadi vector matrix. Bi-LSTM digunakan untuk proses klasifikasi. Dan self-attention untuk membantu model untuk memilih kata yang paling dapat merepresentasikan makna dari kalimat terutama pada kalimat review yang panjang. Hasil yang diperoleh menunjukkan bahwa dari ketiga model, Bi-LSTM memiliki hasil evaluasi yang lebih baik dibandingkan dengan kedua model lainnya. Berdasarkan hasil tersebut, dapat disimpulkan bahwa penambahan self-attention pada model Bi-LSTM tidak memberikan pengaruh pada hasil evaluasi model untuk klasifikasi emosi.",
+        "link": "http://dx.doi.org/10.31849/zn.v4i2.10846"
+    },
+    {
+        "id": 9851,
+        "title": "Chatbot Informasi Penerimaan Mahasiswa Baru  Menggunakan Metode FastText dan LSTM",
+        "authors": " Fahmi Yusron Fiddin, Agus Komarudin, Melina Melina",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "New Student Admission (PMB) is an important stage in the continuity of education in an educational institution. The Faculty of Science and Informatics (FSI) at Jenderal Achmad Yani University (UNJANI) provides information services about PMB to prospective students and parents/guardians of prospective students but is still inefficient, so it is necessary to improve PMB information services by using Chatbots as a solution that is able to serve questions effectively and consistent. This study aims to develop a PMB information Chatbot system for FSI using the FastText and Long Short-Term Memory (LSTM) methods. Several methods have been used in Chatbot development research, such as Term Frequency–Inverse Document Frequency (TF-IDF), Bag of Words (BoW), and Convolutional Neural Networks (CNN). However, these studies still have certain limitations, such as the inability to grasp the meaning of words and difficulties in handling certain inputs. In this study, the text classification model uses the FastText method as the stage for representing words in vector form, then combined with several pre-processing methods (Tokenization & Casefolding) and LSTM for the classification stage. Then put it into the Chatbot component according to the architecture that was made. In testing, the Black Box Testing method is used to ensure the functionality of the Chatbot system. The test results show that the Chatbot system is able to understand the topic of questions asked by users properly. The interaction between users and Chatbots also runs smoothly, resulting in appropriate and informative responses. The results of this study are expected to be an effective and consistent solution for providing information about PMB to prospective students and parents/guardians of prospective students at FSI.",
+        "link": "http://dx.doi.org/10.52158/jacost.v5i1.648"
+    },
+    {
+        "id": 9852,
+        "title": "Stance Classification Post Kesehatan di Media Sosial Dengan FastText Embedding dan Deep Learning",
+        "authors": "Ernest Lim, Esther Irawati Setiawan, Joan Santoso",
+        "published": "2019-12-5",
+        "citations": 3,
+        "abstract": "Misinformasi merupakan fenomena yang semakin sering terjadi di media sosial, tidak terkecuali Facebook, salah satu media sosial terbesar di Indonesia. Beberapa penelitian telah dilakukan mengenai teknik identifikasi dan klasifikasi stance di media sosial Indonesia. Akan tetapi, penggunaan Word2Vec sebagai word embedding dalam penelitian tersebut memiliki keterbatasan pada pengenalan kata baru. Hal ini menjadi dasar penggunaan fastText embedding dalam penelitian ini. Dengan menggunakan pendekatan deep learning, penelitian berfokus pada performa model dalam klasifikasi stance suatu judul post kesehatan di Facebook terhadap judul post lainnya. Stance berupa for (setuju), observing (netral), dan against (berlawanan). Dataset terdiri dari 3500 judul post yang terdiri dari 500 kalimat klaim dengan enam kalimat stance terhadap setiap klaim. Model dengan fastText pada penelitian ini mampu menghasilkan F1 macro score sebesar 64%.",
+        "link": "http://dx.doi.org/10.52985/insyst.v1i2.86"
+    },
+    {
+        "id": 9853,
+        "title": "Toxic Speech Detection using Traditional Machine Learning Models and BERT and fastText Embedding with Deep Neural Networks",
+        "authors": "Pranav Malik, Aditi Aggrawal, Dinesh K. Vishwakarma",
+        "published": "2021-4-8",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccmc51019.2021.9418395"
+    },
+    {
+        "id": 9854,
+        "title": "Koreksi Jawaban Esai Berdasarkan Persamaan Makna Menggunakan Fasttext dan Algoritma Backpropagation",
+        "authors": "Dian Ahkam Sani, M. Zoqi Sarwani",
+        "published": "2022-8-7",
+        "citations": 0,
+        "abstract": "Word Embedding adalah bagian dari NLP (Natural Language Processing) yang belakangan ini menjadi topik menarik untuk diteliti. Facebook AI research mengusulkan FastText sebagai salah satu metode word embedding yang memiliki keunggulan menemukan kata yang jarang ditemui atau OOV (Out of Vocab). Algoritma Backpropagation sebagai salah satu metode yang tidak hanya bisa mengklasifikasi namun juga memprediksi dengan arsitektur multilayer yang sering digunakan dengan mencari bobot optimal pada jaringan saraf tiruan. Pada tingkat akademisi penggunaan word embedding sudah banyak dilakukan untuk mencari kesamaan kata ataupun makna. Penelitian ini bertujuan untuk mengoreksi jawaban esai berdasarkan kesamaan makna sebagai alternatif bagi guru dalam menilai ujian. Data yang digunakan adalah data jawaban yang diambil dari pelajaran bahasa Indonesia sebanyak 10 soal dari total 50 siswa. Data jawaban tersebut nantinya akan ditraining dan disimpan kedalam bentuk vektor dengan menggunakan FastText. Sedangkan pemodelan data train sebelumnya menggunakan model corpus wikipedia dengan besaran dimensi vektor 200, n-window 5, dan min-count 3. Dari proses tersebut maka hasil penelitian menunjukkan bahwa dari 500 data yang digunakan didapatkan kombinasi terbaik dimana data training 75% sebesar 375 data dan jumlah data testing 25% sebesar 125 data dengan membandingkan nilai Yaktual dengan Yprediksi menggunakan MAPE (Mean Absolute Percentage Error) sehingga nilai MAPE terbaik yang didapatkan pada hasil pengujian proses training dan testing masing-masing 5% dan 8%. Dari hasil tersebut dapat dilihat bahwa model yang dihasilkan menggunakan algoritma backpropagation untuk melakukan penilaian/koreksi jawaban secara otomatis sangat baik.",
+        "link": "http://dx.doi.org/10.23887/janapati.v11i2.49192"
+    },
+    {
+        "id": 9855,
+        "title": "AppGuider: Feature Comparison System using Neural Network with FastText and Aspect-based Sentiment Analysis on Play Store User Reviews",
+        "authors": "D.M.K. Oshadi, Samantha Thelijjagoda",
+        "published": "2022-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icosec54921.2022.9952093"
+    },
+    {
+        "id": 9856,
+        "title": "An Efficient Text Classification Using fastText for Bahasa Indonesia Documents Classification",
+        "authors": "Amalia Amalia, Opim Salim Sitompul, Erna Budhiarti Nababan, Teddy Mantoro",
+        "published": "2020-7",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/databia50434.2020.9190447"
+    },
+    {
+        "id": 9857,
+        "title": "Chinese text classification method using FastText and term frequency-inverse document frequency optimization",
+        "authors": "Tiantian Zhou, Yintong Wang, Xin Zheng",
+        "published": "2020-12-1",
+        "citations": 2,
+        "abstract": "Abstract\nWith the development of information technology, obtaining information quickly and accurately has become an indispensable part of people’s lives. Text classification can filter and organize massive text data to find valuable information, and its practical application is of great significance. This paper proposes Chinese text classification method using FastText and term frequency-inverse document frequency optimization(I-FastText). This method introduces term frequency-inverse document frequency(TF-IDF) optimization into the input layer of FastText model, removes words with high frequency and low discrimination ability, and achieves high-quality word vectors to train the text classification model. The experimental results on the THUCNews dataset shown that the Chinese text classification accuracy of I-FastText is significantly better than TF-IDF and FastText methods.",
+        "link": "http://dx.doi.org/10.1088/1742-6596/1693/1/012121"
+    },
+    {
+        "id": 9858,
+        "title": "Influence of Sentiment on Mandiri Bank Stocks (BMRI) Using Feature Expansion with FastText and Logistic Regression Classification",
+        "authors": "Muhammad Faishal Darma Putra, Erwin Budi Setiawan",
+        "published": "2022-11-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icacnis57039.2022.10055450"
+    },
+    {
+        "id": 9859,
+        "title": "Klasifikasi Sentiment Review Aplikasi MyPertamina Menggunakan Word Embedding FastText dan SVM  (Support Vector Machine)",
+        "authors": "Mustasaruddin Mustasaruddin, Elvia Budianita, M Fikry, Febi Yanto",
+        "published": "2023-3-31",
+        "citations": 1,
+        "abstract": "The MyPertamina application is a requirement for buying subsidized fuel oil (BBM), namely pertalite and diesel, the goal is that subsidized (BBM) purchases are right on target. The MyPertamina application has received many ratings and comments from the public, both positive and negative, with these comments and ratings expected to help the government as a benchmark in implementing a program. Therefore, this research aims to assess the MyPertamina application by grouping sentiment classes 90:10, 80:20 and 70:30. In this study, the method used is Fasttext and Support Vector Machine (SVM) to review the MyPertamina application. This research uses 8000 data, the data is grouped into three portions of data, with portions of 90:10, 80:20 and 70:30. The best SVM model was obtained with a data portion of 90:10 with a total of 7200 training data and 800 testing data, obtained 80% accuracy, 50% recall and 84% precision without undersampling. Meanwhile, if the amount of data is balanced (undersampling) with the number of positive data 1325, neutral 1325 and negative 1325, that is, with the benchmark of the lowest data value from the sentiment class, an accuracy of 67% is obtained, recall is 69% and precision is 57%. The highest number of sentiment classes from the 90:10 portion of the data is negative, namely 4300, neutral 1575 and positive 1325, because many users found reviews of the MyPertamina application, namely \"after updating the MyPertamina application the bugs are getting worse\".",
+        "link": "http://dx.doi.org/10.30865/json.v4i3.5695"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "id": 23771,
+        "title": "Sentiment classification on Tamil and Telugu text using RNNs and Transformers",
+        "authors": "D. Sumathi, B. Gowtham, K. Naveen, H. Subramani",
+        "published": "2021-11-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictai53825.2021.9673365"
+    },
+    {
+        "id": 23772,
+        "title": "Sparse RNNs can support high-capacity classification",
+        "authors": "Denis Turcu, L. F. Abbott",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractFeedforward network models performing classification tasks rely on highly convergent output units that collect the information passed on by preceding layers. Although convergent output-unit like neurons may exist in some biological neural circuits, notably the cerebellar cortex, neocortical circuits do not exhibit any obvious candidates for this role; instead they are highly recurrent. We investigate whether a sparsely connected recurrent neural network (RNN) can perform classification in a distributed manner without ever bringing all of the relevant information to a single convergence site. Our model is based on a sparse RNN that performs classification dynamically. Specifically, the interconnections of the RNN are trained to resonantly amplify the magnitude of responses to some external inputs but not others. The amplified and non-amplified responses then form the basis for binary classification. Furthermore, the network acts as an evidence accumulator and maintains its decision even after the input is turned off. Despite highly sparse connectivity, learned recurrent connections allow input information to flow to every neuron of the RNN, providing the basis for distributed computation. In this arrangement, the minimum number of synapses per neuron required to reach maximum memory capacity scales only logarithmically with network size. The model is robust to various types of noise, works with different activation and loss functions and with both backpropagation- and Hebbian-based learning rules. The RNN can also be constructed with a split excitation-inhibition architecture with little reduction in performance.",
+        "link": "http://dx.doi.org/10.1101/2022.05.18.492540"
+    },
+    {
+        "id": 23773,
+        "title": "CNNs and RNNs in aspect-level sentiment analysis and comparison",
+        "authors": "Yijun Qi",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "Aspect-based sentiment analysis (ABSA), also known as fine-grained sentiment analysis, may offer a precise polarity for each aspect in statement aspect. CNN and RNN neural network models, the most fundamental and widely used deep neural network models, have been created by researchers using a variety of methodologies to offer reliable findings in ABSA. This paper will sort out the development process of CNN and RNN models in completing various tasks in aspect-level sentiment analysis and find out the current SOTA model. In addition, by comparing the representatives of the two models in the same environment, the advantages and disadvantages of the two models are analysed to provide guidance for choosing different baseline models. The results show that the CNN-based model has the advantages of high accuracy and fast training speed, but the design is more complicated, and the pooling layer is prone to lose position or sequence features. The RNN-LSTM based model is easier to capture sequence data, has high reliability, and has a relatively simple design structure. However, it requires significantly longer training time, the model is complex, and the computational cost is high. Considering the characteristics of the two most basic neural models, new tasks require researchers to propose better hybrid neural network models.",
+        "link": "http://dx.doi.org/10.54254/2755-2721/6/20230417"
+    },
+    {
+        "id": 23774,
+        "title": "Aspect Sentiment Classification",
+        "authors": "",
+        "published": "2020-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108639286.006"
+    },
+    {
+        "id": 23775,
+        "title": "Document Sentiment Classification",
+        "authors": "",
+        "published": "2020-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108639286.004"
+    },
+    {
+        "id": 23776,
+        "title": "Enhancing Sentiment Analysis with Term Sentiment Entropy: Capturing Nuanced Sentiment in Text Classification",
+        "authors": "Suttipong Klongdee, Jatsada Singthongchai",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Sentiment analysis plays a crucial role in understanding customer feedback, guiding product development, and informing business decisions. This paper introduces term sentiment entropy (TSE), a novel weighting method that leverages the distribution of sentiment labels associated with words to enhance text classification accuracy. TSE complements traditional TF-IDF techniques by capturing the nuances of sentiment variation across different contexts. Experiments across diverse public datasets demonstrate TSE's potential to improve sentiment analysis performance, especially in capturing subtle sentiment shifts and adapting to specific domains. While computational cost and label quality pose challenges, TSE offers a promising avenue for refining sentiment analysis and opening new research frontiers.",
+        "link": "http://dx.doi.org/10.20944/preprints202403.1364.v1"
+    },
+    {
+        "id": 23777,
+        "title": "RNNs for Classification of Driving Behaviour",
+        "authors": "Dimitris Mantzekis, Michalis Savelonas, Stavros Karkanis, Evaggelos Spyrou",
+        "published": "2019-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iisa.2019.8900693"
+    },
+    {
+        "id": 23778,
+        "title": "Sentence Subjectivity and Sentiment Classification",
+        "authors": "",
+        "published": "2020-10-31",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108639286.005"
+    },
+    {
+        "id": 23779,
+        "title": "Application of Classification Model Based on Sentiment Tendency Data Mining in NLP Text Sentiment Analysis",
+        "authors": "Ke Yu",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0011754400003607"
+    },
+    {
+        "id": 23780,
+        "title": "Multi-labelled Bengali Public Comments Sentiment Analysis with Bidirectional Recurrent Neural Networks (Bi-RNNs)",
+        "authors": "Promila Ghosh, M. Raihan, Nishat Tasnim Tonni, Himadri Sikder Badhon, Sayed Asaduzzaman, Hasin Rehana",
+        "published": "2023-5-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003256083-1"
+    },
+    {
+        "id": 23781,
+        "title": "Dialogue Acts Classification via RNNs with One- Versus-All Layers Considering Rare Utterances",
+        "authors": "Haruno Izumi, Shohei Kato",
+        "published": "2019-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/gcce46687.2019.9015354"
+    },
+    {
+        "id": 23782,
+        "title": "Sentiment Expression Boundaries in Sentiment Polarity Classification",
+        "authors": "Rasoul Kaljahi, Jennifer Foster",
+        "published": "2018",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-6222"
+    },
+    {
+        "id": 23783,
+        "title": "Aspect Sentiment Learning for Aspect-Level Sentiment Classification",
+        "authors": "Zhongquan Jian, Jiajian Li, Meihong Wang, Junfeng Yao, Qingqiang Wu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4606050"
+    },
+    {
+        "id": 23784,
+        "title": "Sentiment analysis using machine learning  classification models",
+        "authors": "Umair Hassan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "This paper is written to compare different classification models for sentiment analysis",
+        "link": "http://dx.doi.org/10.36227/techrxiv.19783384"
+    },
+    {
+        "id": 23785,
+        "title": "Sentiment analysis using machine learning  classification models",
+        "authors": "Umair Hassan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "This paper is written to compare different classification models for sentiment analysis",
+        "link": "http://dx.doi.org/10.36227/techrxiv.19783384.v1"
+    },
+    {
+        "id": 23786,
+        "title": "Hybrid Tiled Convolutional Neural Networks (HTCNN) Text Sentiment Classification",
+        "authors": "Maria Truşcǎ, Gerasimos Spanakis",
+        "published": "2020",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0008946505060513"
+    },
+    {
+        "id": 23787,
+        "title": "Movie Reviews Classification Using Sentiment Analysis",
+        "authors": "Somya Dwivedi, Harsh Patel, Shweta Sharma",
+        "published": "2019-11-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.17485/ijst/2019/v12i41/145554"
+    },
+    {
+        "id": 23788,
+        "title": "Multimodal Sentiment and Gender Classification for Video Logs",
+        "authors": "Sadam Al-Azani, El-Sayed El-Alfy",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0007711409070914"
+    },
+    {
+        "id": 23789,
+        "title": "Multi-Category Sentiment Classification Based on Conditional Random Fields for Research Publication on Sentiment Analysis Using Universal Dependencies",
+        "authors": "Ashwin Perti, Amit Sinha",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4503734"
+    },
+    {
+        "id": 23790,
+        "title": "Linking News Sentiment to Microblogs: A Distributional Semantics Approach to Enhance Microblog Sentiment Classification",
+        "authors": "Tobias Daudert, Paul Buitelaar",
+        "published": "2018",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-6216"
+    },
+    {
+        "id": 23791,
+        "title": "Sentiment Analysis in Online Product Reviews: Mining Customer Opinions for Sentiment Classification",
+        "authors": "Lakshay Bharadwaj -",
+        "published": "2023-9-3",
+        "citations": 1,
+        "abstract": "Online product reviews have become a valuable resource for consumers seeking detailed information and making informed choices. The process of automatically extracting sentiment or opinions from these reviews heavily relies on sentiment analysis, a branch of Natural Language Processing (NLP). This research article focuses on sentiment categorization in online product evaluations, utilizing innovative techniques for mining consumer opinions. The project aims to establish a robust framework for sentiment analysis that accurately classifies emotions expressed in these reviews. The proposed system incorporates advanced deep learning and machine learning methods to enhance data classification and extract fine-grained sentiment information. The study addresses the unique challenges of sentiment analysis in the context of online product evaluations, including polarity changes, sarcasm, and domain-specific sentiment expressions, which often pose significant obstacles to precise sentiment classification. The approach combines feature engineering and deep learning techniques, extracting lexical, syntactic, and semantic features such as part-of-speech tags, n-grams, sentiment lexicons, and word embeddings from the review texts. Convolutional neural networks (CNNs) and recurrent neural networks (RNNs) are employed as sophisticated neural network architectures to leverage these features, creating robust representations and capturing contextual information. The suggested architecture is extensively evaluated on a large dataset of online product reviews, demonstrating superior performance in sentiment categorization compared to existing approaches. The evaluation encompasses various sentiment classes, measuring metrics like accuracy, recall, and F1-score, and assessing the framework's adaptability to different product domains. The study showcases the effectiveness of advanced machine learning and deep learning algorithms in sentiment categorization, advancing the field of sentiment analysis for online product evaluations. Businesses can gain valuable insights into customer sentiment and make well-informed decisions regarding product enhancements and marketing strategies by leveraging the proposed framework",
+        "link": "http://dx.doi.org/10.36948/ijfmr.2023.v05i05.6090"
+    },
+    {
+        "id": 23792,
+        "title": "Sentiment Classification",
+        "authors": "",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4939-7131-2_101058"
+    },
+    {
+        "id": 23793,
+        "title": "Real Time Big Data Sentiment Analysis and Classification of Facebook",
+        "authors": "Watheq Ghanim Mutasher, Abbas Fadhil Aljuboori",
+        "published": "2022-1-20",
+        "citations": 0,
+        "abstract": "Many peoples use Facebook to connect and share their views on various issues, with the majority of user-generated content consisting of textual information. Since there is so much actual data from people who are posting messages on their situation in real time thoughts on a range of subjects in everyday life, the collection and analysis of these data, which may well be helpful for political decision or public opinion monitoring, is a worthwhile research project. Therefore, in this paper doing to analyze for public text post on Facebook stream in real time through environment Hadoop ecosystem by using apache spark with NLTK python. The post or feeds are gathered form the Facebook API in real time the data stored database used Apache spark to quick query processing the text partitions in each data nodes (machine). Also used Amazon cloud based Hadoop cluster ecosystem into processing of huge data and eliminate on-site hardware, IT support, and other operational difficulties and installation configuration Hadoop such as Hadoop distribution file system and Apache spark. By using the principle of decision dictionary, emotion analysis is used as positive, negative, or neutral and execution two algorithms in machine learning (naive bias & support vector machine) to build model predict the outcome demonstrates a high level of precision in sentiment analysis.",
+        "link": "http://dx.doi.org/10.14704/web/v19i1/web19076"
+    },
+    {
+        "id": 23794,
+        "title": "Super Characters: A Conversion from Sentiment Classification to Image Classification",
+        "authors": "Baohua Sun, Lin Yang, Patrick Dong, Wenhan Zhang, Jason Dong, Charles Young",
+        "published": "2018",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-6245"
+    },
+    {
+        "id": 23795,
+        "title": "Sense classification of shallow discourse relations with focused RNNs",
+        "authors": "Gregor Weiss, Marko Bajec",
+        "published": "2018-10-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0206057"
+    },
+    {
+        "id": 23796,
+        "title": "A Comparative Analysis of CNNs and RNNs for EEG-based Motor Imagery Classification in BCIs",
+        "authors": "Yat Hei Vanessa Lam, Leo Lui",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "EEG-based motor imagery (MI) classification plays a vital role in brain-computer interface systems (BCIs) to enable the control of external devices with the human brain. However, there is currently limited research focusing on the comparison between different machine learning models for this task. This research paper aims to present a comprehensive comparative analysis of two popular deep learning architectures, Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for MI recognition with EEG data. The experiments utilised the EEG Motor Movement/Imagery Dataset v1.0.0 from PhysioNet, which contains EEG signals recorded during a variety of motor imagery tasks. The respective performances of the CNN and RNN architectures were subsequently evaluated and compared based on classification accuracy and computational efficiency. Various metrics and statistics, namely accuracy, precision, training speed, memory usage, etc., were used for assessment. The results revealed that CNN outperforms RNN in terms of accuracy, while RNN demonstrates superior computational efficiency. These findings potentially serve as a valuable guideline for researchers and practitioners in the field of BCIs, aiding them in selecting the most suitable neural network architecture for performing MI related tasks.",
+        "link": "http://dx.doi.org/10.47611/jsrhs.v12i4.5740"
+    },
+    {
+        "id": 23797,
+        "title": "Sentiment Classification through Convolutional Neural Network Based Quick Sentiment Analysis",
+        "authors": "",
+        "published": "2020-9-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.30534/ijeter/2020/63892020"
+    },
+    {
+        "id": 23798,
+        "title": "Classification Approach for Sentiment Analysis Using Machine Learning",
+        "authors": "Satyen M. Parikh, Mitali K. Shah",
+        "published": "2022-6-10",
+        "citations": 0,
+        "abstract": "A utilization of the computational semantics is known as natural language processing or NLP. Any opinion through attitude, feelings, and thoughts can be identified as sentiment. The overview of people against specific events, brand, things, or association can be recognized through sentiment analysis. Positive, negative, and neutral are each of the premises that can be grouped into three separate categories. Twitter, the most commonly used microblogging tool, is used to gather information for research. Tweepy is used to access Twitter's source of information. Python language is used to execute the classification algorithm on the information collected. Two measures are applied in sentiment analysis, namely feature extraction and classification. Using n-gram modeling methodology, the feature is extracted. Through a supervised machine learning algorithm, the sentiment is graded as positive, negative, and neutral. Support vector machine (SVM) and k-nearest neighbor (KNN) classification models are used and demonstrated both comparisons. ",
+        "link": "http://dx.doi.org/10.4018/978-1-6684-6303-1.ch012"
+    },
+    {
+        "id": 23799,
+        "title": "Recurrent Convolutional Neural Network with Attention for Twitter and Yelp Sentiment Classification",
+        "authors": "Shuang Wen, Jian Li",
+        "published": "2018-12-21",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3302425.3302468"
+    },
+    {
+        "id": 23800,
+        "title": "Sentiment and Emotion Classification in Low-resource Settings",
+        "authors": "Jeremy Barnes",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.wassa-1.26"
+    },
+    {
+        "id": 23801,
+        "title": "Ternary Twitter Sentiment Classification with Distant Supervision and Sentiment-Specific Word Embeddings",
+        "authors": "Mats Byrkjeland, Frederik Gørvell de Lichtenberg, Björn Gambäck",
+        "published": "2018",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-6215"
+    },
+    {
+        "id": 23802,
+        "title": "On Deep Learning in Cross-Domain Sentiment Classification",
+        "authors": "Giacomo Domeniconi, Gianluca Moro, Andrea Pagliarani, Roberto Pasolini",
+        "published": "2017",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0006488100500060"
+    },
+    {
+        "id": 23803,
+        "title": "An Advanced BERT LayerSum Model for Sentiment Classification of COVID-19 Tweets",
+        "authors": "Areeba Umair, Elio Masciari",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0012128900003541"
+    },
+    {
+        "id": 23804,
+        "title": "A Comparative Analysis of Sentiment Classification Models for Improved Performance Optimization",
+        "authors": "Varun Iyer",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.36227/techrxiv.171073040.03879551/v1"
+    },
+    {
+        "id": 23805,
+        "title": "A Comparative Study of Different Classification Techniques for Sentiment Analysis",
+        "authors": "Soumadip Ghosh, Arnab Hazra, Abhishek Raj",
+        "published": "2022-6-10",
+        "citations": 1,
+        "abstract": "Sentiment analysis denotes the analysis of emotions and opinions from text. The authors also refer to sentiment analysis as opinion mining. It finds and justifies the sentiment of the person with respect to a given source of content. Social media contain vast amounts of the sentiment data in the form of product reviews, tweets, blogs, and updates on the statuses, posts, etc. Sentiment analysis of this largely generated data is very useful to express the opinion of the mass in terms of product reviews. This work is proposing a highly accurate model of sentiment analysis for reviews of products, movies, and restaurants from Amazon, IMDB, and Yelp, respectively. With the help of classifiers such as logistic regression, support vector machine, and decision tree, the authors can classify these reviews as positive or negative with higher accuracy values. ",
+        "link": "http://dx.doi.org/10.4018/978-1-6684-6303-1.ch009"
+    },
+    {
+        "id": 23806,
+        "title": "Classification of Code-Mixed Bilingual Phonetic Text Using Sentiment Analysis",
+        "authors": "Shailendra Kumar Singh, Manoj Kumar Sachan",
+        "published": "2022-6-10",
+        "citations": 0,
+        "abstract": "The rapid growth of internet facilities has increased the comments, posts, blogs, feedback, etc., on a large scale on social networking sites. These social media data are available in an unstructured form, which includes images, text, and videos. The processing of these data is difficult, but some sentiment analysis, information retrieval, and recommender systems are used to process these unstructured data. To extract the opinion and sentiment of internet users from their written social media text, a sentiment analysis system is required to develop, which can work on both monolingual and bilingual phonetic text. Therefore, a sentiment analysis (SA) system is developed, which performs well on different domain datasets. The system performance is tested on four different datasets and achieved better accuracy of 3% on social media datasets, 1.5% on movie reviews, 1.35% on Amazon product reviews, and 4.56% on large Amazon product reviews than the state-of-art techniques. Also, the stemmer (StemVerb) for verbs of the English language is proposed, which improves the SA system's performance. ",
+        "link": "http://dx.doi.org/10.4018/978-1-6684-6303-1.ch033"
+    },
+    {
+        "id": 23807,
+        "title": "Sentiment Classification using N-ary Tree-Structured Gated Recurrent Unit Networks",
+        "authors": "Vasileios Tsakalos, Roberto Henriques",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0006894201490154"
+    },
+    {
+        "id": 23808,
+        "title": "Sentiment Analysis based on Feature Selection Classification model",
+        "authors": "Elangovan D, Subedha V",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Abstract\nAs the use of social media and other online forums for exchanging ideas and exchanging opinions has grown, so has the field of sentiment analysis. Many people use social media like Twitter and Facebook to share their thoughts and ideas with the rest of the world. Opinion mining or sentiment analysis focuses on classifying and predicting a target's opinion. Text documents or sentences can be categorized based on whether they represent a favorable or negative view on a certain subject. Text categorization may seem like an easy process compared to sentiment analysis, but numerous difficulties have prompted many studies into this area. The use of Firefly with Levy and Multilayer Perceptron approaches combined with a feature selection-based classification model to automate sentiment analysis has been proposed. Online product reviews can be improved by incorporating feature selection and classification into the SA model presented in this research. Feature extraction from online product evaluations was accomplished using the firefly (FF) algorithm, while sentiment classification was accomplished using a multi-layer perceptron (MLP). Four datasets are used in the experiment, and the outcomes are evaluated according to various criteria. As a result of these tests, it can be concluded that the FF-MLP model provided here has the best classification performance over the whole dataset tested.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1229204/v1"
+    },
+    {
+        "id": 23809,
+        "title": "Methodology for Text Classification using Manually Created Corpora-based Sentiment Dictionary",
+        "authors": "Nina Rizun, Wojciech Waloszek",
+        "published": "2018",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0006932602120220"
+    },
+    {
+        "id": 23810,
+        "title": "Sentiment-Polarized Word Embedding for Multi-label Sentiment Classification",
+        "authors": "Liujie Zhang, Yanquan Zhou, Ruiqi Chen, Xiuyu Duan",
+        "published": "2018-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/compcomm.2018.8780754"
+    },
+    {
+        "id": 23811,
+        "title": "Unsupervised Sentiment Classification: A Hybrid Sentiment-Topic Model Approach",
+        "authors": "Stuart J. Blair, Yaxin Bi, Maurice D. Mulvenna",
+        "published": "2017-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictai.2017.00076"
+    },
+    {
+        "id": 23812,
+        "title": "Learning representations for sentiment classification using Multi-task framework",
+        "authors": "Hardik Meisheri, Harshad Khadilkar",
+        "published": "2018",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-6244"
+    },
+    {
+        "id": 23813,
+        "title": "Towards Twitter sentiment classification by multi-level sentiment-enriched word embeddings",
+        "authors": "Shufeng Xiong, Hailian Lv, Weiting Zhao, Donghong Ji",
+        "published": "2018-1",
+        "citations": 71,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2017.11.023"
+    },
+    {
+        "id": 23814,
+        "title": "Sentiment Classification of Internet Commodity Reviews Based on the Extended Chinese Sentiment Lexicon",
+        "authors": "Yan ZENG, Ping SHI",
+        "published": "2017-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12783/dtcse/aita2017/16039"
+    },
+    {
+        "id": 23815,
+        "title": "Explaining Sentiment Classification",
+        "authors": "Marvin Rajwadi, Cornelius Glackin, Julie Wall, Gérard Chollet, Nigel Cannings",
+        "published": "2019-9-15",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2019-2743"
+    },
+    {
+        "id": 23816,
+        "title": "Leveraging News Sentiment to Improve Microblog Sentiment Classification in the Financial Domain",
+        "authors": "Tobias Daudert, Paul Buitelaar, Sapna Negi",
+        "published": "2018",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-3107"
+    },
+    {
+        "id": 23817,
+        "title": "Knowledge-oriented Sentiment-level Embedding for Sentiment Classification",
+        "authors": "Xiaoran Xu, Pengfei Li",
+        "published": "2019-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3377713.3377718"
+    },
+    {
+        "id": 23818,
+        "title": "Sentiment Lexicon Enhanced Attention-Based LSTM for Sentiment Classification",
+        "authors": "Zeyang Lei, Yujiu Yang, Min Yang",
+        "published": "2018-4-29",
+        "citations": 7,
+        "abstract": "\n      \n        Deep neural networks have gained great success recently for sentiment classification. However, these approaches do not fully exploit the linguistic knowledge. In this paper, we propose a novel sentiment lexicon enhanced attention-based LSTM (SLEA-LSTM) model to improve the performance of sentence-level sentiment classification. Our method successfully integrates sentiment lexicon into deep neural networks via single-head or multi-head attention mechanisms. We conduct extensive experiments on MR and SST datasets. The experimental results show that our model achieved comparable or better performance than the state-of-the-art methods.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v32i1.12142"
+    },
+    {
+        "id": 23819,
+        "title": "Sentiment Analysis Is Not Solved! Assessing and Probing Sentiment Classification",
+        "authors": "Jeremy Barnes, Lilja Øvrelid, Erik Velldal",
+        "published": "2019",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-4802"
+    },
+    {
+        "id": 23820,
+        "title": "Sentiment Classification Method Based on Bert-Condconv Multi-Moment State Fusion",
+        "authors": "Xiaoyang Wang, Liu Wenfeng",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4602268"
+    },
+    {
+        "id": 23821,
+        "title": "As An Analysis of Different Classification Technique Using Sentiment Analysis of Product Review",
+        "authors": "Sivasakthi K.",
+        "published": "2020-2-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5373/jardcs/v12sp3/20201300"
+    },
+    {
+        "id": 23822,
+        "title": "Peer Review #2 of \"Adaptive sentiment analysis using multioutput classification: a performance comparison (v0.1)\"",
+        "authors": "MC Martinis",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1378v0.1/reviews/2"
+    },
+    {
+        "id": 23823,
+        "title": "Sentiment Classification for Film Reviews by Reducing Additional Introduced Sentiment Bias",
+        "authors": "Fery Ardiansyah Effendi,  Yuliant Sibaroni",
+        "published": "2021-10-24",
+        "citations": 1,
+        "abstract": "Film business and its individual reviews cannot be separated and film review sites such as IMDb is a credible source of reviews posted in public forums. With IMDb site reviews being unstructured and bias-heavy, classification methods by reducing additional sentiment bias is needed to create a balanced classification with lower polarity bias. Elimination of additional sentiment bias will improve the model as polarity is defined by non-bias method, resulting in models correctly defined which sequences of words is either positive or negative. This research limits the dataset by 50.000 rows of randomly extracted reviews from the IMDb website using dataset preparation methods such as Preprocessing, POS-Tagging, and Word Embeddings. Then preprocessed data is used in classification methods such as ANN, SWN, and SO-Cal. This paper also used bias processing methods such as Hyperparameter Tuning and BPM, with outputs evaluated using Accuracy and PBR metrics. This research yields 77.39 % for ANN, 66.32% for BPM,  75.6% for SO-Cal, and 76.26% for Hybrid classification. Best PBR resulted in two lexicon-based methods on 0.0009 for BPM, and 0.00006 for SO-Cal. More advanced model configuration in ANN can improve the model, and much complex lexicon models will be a future in the research topic.\r\n ",
+        "link": "http://dx.doi.org/10.29207/resti.v5i5.3400"
+    },
+    {
+        "id": 23824,
+        "title": "Peer Review #1 of \"Adaptive sentiment analysis using multioutput classification: a performance comparison (v0.1)\"",
+        "authors": "I Scarpino",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1378v0.1/reviews/1"
+    },
+    {
+        "id": 23825,
+        "title": "Stock Market Trend Prediction Using Regression Model, RNNs, and Sentiment Analysis",
+        "authors": "Rajkumar Sujatha, Varad Abhyankar, Abhishek Gehlot, Priyank Gupta, Sivakumar Subramaniam",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-15-8221-9_27"
+    },
+    {
+        "id": 23826,
+        "title": "Supporting Business Process Modeling Using RNNs for Label Classification",
+        "authors": "Philip Hake, Manuel Zapp, Peter Fettke, Peter Loos",
+        "published": "2017",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-59569-6_35"
+    },
+    {
+        "id": 23827,
+        "title": "A Sentiment Classification from Review Corpus using Linked Open Data and Sentiment Lexicon",
+        "authors": "Worapoj Suwanpipob, Ngamnij Arch-int, Monlica Wattana",
+        "published": "2021-10-14",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icitee53064.2021.9611898"
+    },
+    {
+        "id": 23828,
+        "title": "Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction",
+        "authors": "Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang",
+        "published": "2021",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.findings-emnlp.258"
+    },
+    {
+        "id": 23829,
+        "title": "A Weak-supervision Method for Automating Training Set Creation in Multi-domain Aspect Sentiment Classification",
+        "authors": "Massimo Ruffolo, Francesco Visalli",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0009165602490256"
+    },
+    {
+        "id": 23830,
+        "title": "Sentiment Classification of Chinese Text Based on Extending Semantic Similar Sentiment Words",
+        "authors": "Yanying Mao",
+        "published": "2021-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3482632.3484084"
+    },
+    {
+        "id": 23831,
+        "title": "Aspect Detection and Sentiment Classification Using Deep Neural Network for Indonesian Aspect-Based Sentiment Analysis",
+        "authors": "Arfinda Ilmania,  Abdurrahman, Samuel Cahyawijaya, Ayu Purwarianti",
+        "published": "2018-11",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ialp.2018.8629181"
+    },
+    {
+        "id": 23832,
+        "title": "Optimizing RNNs for EMG Signal Classification: A Novel Strategy Using Grey Wolf Optimization",
+        "authors": "Marcos Aviles, José Manuel Alvarez-Alvarado, Jose-Billerman Robles-Ocampo , Perla Yazmín Sevilla-Camacho , Juvenal Rodríguez-Reséndiz",
+        "published": "2024-1-13",
+        "citations": 0,
+        "abstract": "Accurate classification of electromyographic (EMG) signals is vital in biomedical applications. This study evaluates different architectures of recurrent neural networks for the classification of EMG signals associated with five movements of the right upper extremity. A Butterworth filter was implemented for signal preprocessing, followed by segmentation into 250 ms windows, with an overlap of 190 ms. The resulting dataset was divided into training, validation, and testing subsets. The Grey Wolf Optimization algorithm was applied to the gated recurrent unit (GRU), long short-term memory (LSTM) architectures, and bidirectional recurrent neural networks. In parallel, a performance comparison with support vector machines (SVMs) was performed. The results obtained in the first experimental phase revealed that all the RNN networks evaluated reached a 100% accuracy, standing above the 93% achieved by the SVM. Regarding classification speed, LSTM ranked as the fastest architecture, recording a time of 0.12 ms, followed by GRU with 0.134 ms. Bidirectional recurrent neural networks showed a response time of 0.2 ms, while SVM had the longest time at 2.7 ms. In the second experimental phase, a slight decrease in the accuracy of the RNN models was observed, standing at 98.46% for LSTM, 96.38% for GRU, and 97.63% for the bidirectional network. The findings of this study highlight the effectiveness and speed of recurrent neural networks in the EMG signal classification task.",
+        "link": "http://dx.doi.org/10.3390/bioengineering11010077"
+    },
+    {
+        "id": 23833,
+        "title": "Peer Review #1 of \"Adaptive sentiment analysis using multioutput classification: a performance comparison (v0.2)\"",
+        "authors": "I Scarpino",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1378v0.2/reviews/1"
+    },
+    {
+        "id": 23834,
+        "title": "A Sentiment Analysis on Book and Hotel review Using Sentiment Association Index Classification",
+        "authors": "M. Thirunavukkarasu, J. Chockalingam",
+        "published": "2018-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26438/ijcse/v6i12.725729"
+    },
+    {
+        "id": 23835,
+        "title": "Debunking Sentiment Lexicons: A Case of Domain-Specific Sentiment\n            Classification for Croatian",
+        "authors": "Paula Gombar, Zoran Medić, Domagoj Alagić, Jan Šnajder",
+        "published": "2017",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w17-1409"
+    },
+    {
+        "id": 23836,
+        "title": "A Soft Label Strategy for Target-Level Sentiment Classification",
+        "authors": "Da Yin, Xiao Liu, Xiuyu Wu, Baobao Chang",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-1302"
+    },
+    {
+        "id": 23837,
+        "title": "Human Face Sentiment Classification Using Synthetic Sentiment Images with Deep Convolutional Neural Networks",
+        "authors": "Chen-Chun Huang, Yi-Leh Wu, Cheng-Yuan Tang",
+        "published": "2019-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmlc48188.2019.8949240"
+    },
+    {
+        "id": 23838,
+        "title": "Sentiment Analysis using a CNN-BiLSTM Deep Model Based on Attention Classification",
+        "authors": "Wang Yue,  , Li Lei,  ",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "With the rapid development of the Internet, the number of social media and e-commerce platforms increased dramatically. Users from all over world share their comments and sentiments on the Internet become a new tradition. Applying natural language processing technology to analyze the text on the Internet for mining the emotional tendencies has become the main way in the social public opinion monitoring and the after-sale feedback of manufactory. Thus, the study on text sentiment analysis has shown important social significance and commercial value. Sentiment analysis is a hot research topic in the field of natural language processing and data mining in recent ten years. The paper starts with the topic of \"Sentiment Analysis using a CNN-BiLSTM deep model based on attention mechanism classification\". First, it conducts an in-depth investigation on the current research status and commonly used algorithms at home and abroad, and briefly introduces and analyzes the current mainstream sentiment analysis methods. As a direction of machine learning, deep learning has become a hot research topic in emotion classification in the field of natural language processing. This paper uses deep learning models to study the sentiment classification problem of short and long text sentiment classification tasks. The main research contents are as follows. Firstly, Traditional neural network based short text classification algorithms for sentiment classification is easy to find the errors. The feature dimension is too high, and the feature information of the pool layer is lost, which leads to the loss of the details of the emotion vocabulary. To solve this problem, the Word Vector Model (Word2vec), Bidirectional Long-term and Short-term Memory networks (BiLSTM) and convolutional neural network (CNN) are combined in Quora dataset. The experiment shows that the accuracy of CNN-BiLSTM model associated with Word2vec word embedding achieved 91.48%. This proves that the hybrid network model performs better than the single structure neural network in short text. Convolutional neural network (CNN) models use convolutional layers and maximum pooling or max-overtime pooling layers to extract higher-level features, while LSTM models can capture long- term dependencies between words hence are better used for text classification. However, even with the hybrid approach that leverages the powers of these two deep-learning models, the number of features to remember for classification remains huge, hence hindering the training process. Secondly, we propose an attention based CNN-BiLSTM hybrid model that capitalize on the advantages of LSTM and CNN with an additional attention mechanism in IMDB movie reviews dataset. In the experiment, under the control of single variable of Data volume and Epoch, the proposed hybrid model was compared with the results of various indicators including recall, precision, F1 score and accuracy of CNN, LSTM and CNN-LSTM in long text. When the data size was 13 k, the proposed model had the highest accuracy at 0.908, and the F1 score also showed the highest performance at 0.883. When the epoch value for obtaining the optimal accuracy of each model was 10 for CNN, 14 for LSTM, 5 for MLP and 15 epochs for CNN-LSTM, which took the longest learning time. The F1 score also showed the best performance of the proposed model at 0.906, and accuracy of the proposed model was the highest at 0.929. Finally, the experimental results show that the bidirectional long- and short-term memory convolutional neural network (BiLSTM-CNN) model based on attention mechanism can effectively improve the performance of sentiment classification of data sets when processing long-text sentiment classification tasks.  Keywords: sentiment analysis, CNN, BiLSTM, attention mechanism, text classification",
+        "link": "http://dx.doi.org/10.47880/inf2603-02"
+    },
+    {
+        "id": 23839,
+        "title": "Feature Selection for Sentiment Classification of COVID-19 Tweets: H-TFIDF Featuring BERT",
+        "authors": "Mehtab Syed, Elena Arsevska, Mathieu Roche, Maguelonne Teisseire",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0010887800003123"
+    },
+    {
+        "id": 23840,
+        "title": "Dialogue Act Classification Using RNNs Introducing One-Versus-All and Attention Mechanism",
+        "authors": "Haruno Izumi, Shohei Kato",
+        "published": "2019-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1541/ieejeiss.139.1407"
+    },
+    {
+        "id": 23841,
+        "title": "Connecting Text Classification with Image Classification: A New Preprocessing Method for Implicit Sentiment Text Classification",
+        "authors": "Meikang Chen, Kurban Ubul, Xuebin Xu, Alimjan Aysa, Mahpirat Muhammat",
+        "published": "2022-2-28",
+        "citations": 6,
+        "abstract": "As a research hotspot in the field of natural language processing (NLP), sentiment analysis can be roughly divided into explicit sentiment analysis and implicit sentiment analysis. However, due to the lack of obvious emotion words in the implicit sentiment analysis task and because the sentiment polarity contained in implicit sentiment words is not easily accurately identified by existing text-processing methods, the implicit sentiment analysis task is one of the most difficult tasks in sentiment analysis. This paper proposes a new preprocessing method for implicit sentiment text classification; this method is named Text To Picture (TTP) in this paper. TTP highlights the sentiment differences between different sentiment polarities in Chinese implicit sentiment text with the help of deep learning by converting original text data into word frequency maps. The differences between sentiment polarities are used as sentiment clues to improve the performance of the Chinese implicit sentiment text classification task. It does this by transforming the original text data into a word frequency map in order to highlight the differences between the sentiment polarities expressed in the implicit sentiment text. We conducted experimental tests on two common datasets (SMP2019, EWECT), and the results show that the accuracy of our method is significantly improved compared with that of the competitor’s. On the SMP2019 dataset, the accuracy-improvement range was 4.55–7.06%. On the EWECT dataset, the accuracy was improved by 1.81–3.95%. In conclusion, the new preprocessing method for implicit sentiment text classification proposed in this paper can achieve better classification results.",
+        "link": "http://dx.doi.org/10.3390/s22051899"
+    },
+    {
+        "id": 23842,
+        "title": "Social Media Sentiment Analysis Classification Leveraging Hybrid Deep Learning Methods",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.59287/icias.1615"
+    },
+    {
+        "id": 23843,
+        "title": "Automatic construction of domain-specific sentiment lexicon for unsupervised domain adaptation and sentiment classification",
+        "authors": "Omid Mohamad Beigi, Mohammad H. Moattar",
+        "published": "2021-2",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2020.106423"
+    },
+    {
+        "id": 23844,
+        "title": "Sentiment Analysis of movie reviews A new feature-based sentiment classification",
+        "authors": "Ketan Sarvakar, Urvashi K Kuchara",
+        "published": "2018-6-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26438/ijsrcse/v6i3.812"
+    },
+    {
+        "id": 23845,
+        "title": "Sentiment wEight of N-grams in Dataset (SEND): A Feature-set for Cross-domain Sentiment Classification",
+        "authors": "Atanu Dey, Mamata Jenamani, Jitesh J Thakkar",
+        "published": "2017-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icapr.2017.8593172"
+    },
+    {
+        "id": 23846,
+        "title": "The Impact of Sentiment Features on the Sentiment Polarity Classification in Persian Reviews",
+        "authors": "Ehsan Asgarian, Mohsen Kahani, Shahla Sharifi",
+        "published": "2018-2",
+        "citations": 26,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s12559-017-9513-1"
+    },
+    {
+        "id": 23847,
+        "title": "Text sentiment classification based on the automatic expansion of sentiment dictionary",
+        "authors": "Haijie Pang, Hua Zhao, Chenjing Gong",
+        "published": "2019-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3369985.3370038"
+    },
+    {
+        "id": 23848,
+        "title": "SNNN: Promoting Word Sentiment and Negation in Neural Sentiment Classification",
+        "authors": "Qinmin Hu, Jie Zhou, Qin Chen, Liang He",
+        "published": "2018-4-29",
+        "citations": 5,
+        "abstract": "\n      \n        We mainly investigate word influence in neural sentiment classification, which results in a novel approach to promoting word sentiment and negation as attentions. Particularly, a sentiment and negation neural network (SNNN) is proposed, including a sentiment neural network (SNN) and a negation neural network (NNN). First, we modify the word level by embedding the word sentiment and negation information as the extra layers for the input. Second, we adopt a hierarchical LSTM model to generate the word-level, sentence-level and document-level representations respectively. After that, we enhance word sentiment and negation as attentions over the semantic level. Finally, the experiments conducting on the IMDB and Yelp data sets show that our approach is superior to the state-of-the-art baselines. Furthermore, we draw the interesting conclusions that (1) LSTM performs better than CNN and RNN for neural sentiment classification; (2) word sentiment and negation are a strong alliance with attention, while overfitting occurs when they are simultaneously applied at the embedding layer; and (3) word sentiment/negation can be singly implemented for better performance as both embedding layer and attention at the same time.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v32i1.11665"
+    },
+    {
+        "id": 23849,
+        "title": "Enhancing the Classification Accuracy in Sentiment Analysis with Computational Intelligence using Joint Sentiment Topic Detection with MEDLDA",
+        "authors": "PCD Kalaivaani, R Thangarajan",
+        "published": "2019",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31209/2019.100000152"
+    },
+    {
+        "id": 23850,
+        "title": "SENTIMENT INFORMATION CLASSIFICATION USING DEEP CONVOLUTION NEURAL NETWORKS",
+        "authors": "",
+        "published": "2020-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.37896/jxu14.6/273"
+    },
+    {
+        "id": 23851,
+        "title": "Deep Learning for Target-Dependent Sentiment Classification in Social Media",
+        "authors": "S.I. Abudalfa, M.A. Ahmed",
+        "published": "2018",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/cp.2018.1408"
+    },
+    {
+        "id": 23852,
+        "title": "CLASSIFYING AND RATIONALIZING TWITTER SENTIMENT THROUGH CLASSIFICATION ALGORITHMS",
+        "authors": "",
+        "published": "2020-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31838/jcr.07.04.24"
+    },
+    {
+        "id": 23853,
+        "title": "Development of an Algorithm for Memes Sentiment Classification",
+        "authors": "",
+        "published": "2020-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.37896/jxu14.9/015"
+    },
+    {
+        "id": 23854,
+        "title": "A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification",
+        "authors": "Zeyang Lei, Yujiu Yang, Min Yang, Yi Liu",
+        "published": "2018",
+        "citations": 35,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p18-2120"
+    },
+    {
+        "id": 23855,
+        "title": "Lightweight, Deep RNNs for Radar Classification",
+        "authors": "Dhrubojyoti Roy, Sangeeta Srivastava, Pranshu Jain, Aditya Kusupati, Manik Varma, Anish Arora",
+        "published": "2019-11-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3360322.3361000"
+    },
+    {
+        "id": 23856,
+        "title": "Hybrid sentiment classification on twitter aspect-based sentiment analysis",
+        "authors": "Nurulhuda Zainuddin, Ali Selamat, Roliana Ibrahim",
+        "published": "2017-12-13",
+        "citations": 50,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10489-017-1098-6"
+    },
+    {
+        "id": 23857,
+        "title": "An Extensive Text Mining Study for the Turkish Language",
+        "authors": "Durmuş Özkan Şahin, Erdal Kılıç",
+        "published": "2022-6-10",
+        "citations": 0,
+        "abstract": "In this study, the authors give both theoretical and experimental information about text mining, which is one of the natural language processing topics. Three different text mining problems such as news classification, sentiment analysis, and author recognition are discussed for Turkish. They aim to reduce the running time and increase the performance of machine learning algorithms. Four different machine learning algorithms and two different feature selection metrics are used to solve these text classification problems. Classification algorithms are random forest (RF), logistic regression (LR), naive bayes (NB), and sequential minimal optimization (SMO). Chi-square and information gain metrics are used as the feature selection method. The highest classification performance achieved in this study is 0.895 according to the F-measure metric. This result is obtained by using the SMO classifier and information gain metric for news classification. This study is important in terms of comparing the performances of classification algorithms and feature selection methods.",
+        "link": "http://dx.doi.org/10.4018/978-1-6684-6303-1.ch037"
+    },
+    {
+        "id": 23858,
+        "title": "A Robust Deep Learning-based Approach for Network Traffic Classification using CNNs and RNNs",
+        "authors": "A Jenefa, Shebin Sam, Varun Nair, Boney George Thomas, Anson Saju George, Rino Thomas, Alwin Dany Sunil",
+        "published": "2023-3-23",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icspc57692.2023.10125858"
+    },
+    {
+        "id": 23859,
+        "title": "Hybrid approach framework for sentiment classification on microblogging",
+        "authors": "Korawit Orkphol, Wu Yang, Wei Wang, Wenlong Zhu",
+        "published": "2017-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/sai.2017.8252200"
+    },
+    {
+        "id": 23860,
+        "title": "Dual Sentiment Classification with Sarcasm Identification",
+        "authors": "Akhilesh Vilas Kashikar, Prof. Jyoti Ramteke",
+        "published": "2019-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ibssc47189.2019.8973071"
+    },
+    {
+        "id": 23861,
+        "title": "Peer Review #2 of \"Self voting classification model for online meeting app review sentiment analysis and topic modeling (v0.1)\"",
+        "authors": "",
+        "published": "2022-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1141v0.1/reviews/2"
+    },
+    {
+        "id": 23862,
+        "title": "Implementation Analysis of Data Classification Approach for Sentiment Classification",
+        "authors": "Bhushan R. Chincholkar",
+        "published": "2021-7-15",
+        "citations": 0,
+        "abstract": "Sentiment analysis is one of the fastest growing fields with its demand and potential benefits that are increasing every day. Sentiment analysis aims to classify the polarity of a document through natural language processing, text analysis. With the help of internet and modern technology, there has bee n a tremendous growth in the amount of data. Each individual is in position to precise his/her own ideas freely on social media. All of this data can be analyzed and used in order to draw benefits and quality information. In this paper, the focus is on cyber-hate classification based on for public opinion or views, since the spread of hate speech using social media can have disruptive impacts on social sentiment analysis. In particular, here proposing a modified approach with two stage training for dealing with text ambiguity and classifying three type approach positive, negative and neutral sentiment, and compare its performance with those popular methods also as well as some existing fuzzy approaches. Afterword comparing the performance of proposed approach with commonly used sentiment classifiers which are known to perform well in this task. The experimental results indicate that our modified approach performs marginally better than the other algorithms.",
+        "link": "http://dx.doi.org/10.22214/ijraset.2021.36613"
+    },
+    {
+        "id": 23863,
+        "title": "Aspect Sentiment Classification with Document-level Sentiment Preference Modeling",
+        "authors": "Xiao Chen, Changlong Sun, Jingjing Wang, Shoushan Li, Luo Si, Min Zhang, Guodong Zhou",
+        "published": "2020",
+        "citations": 31,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.acl-main.338"
+    },
+    {
+        "id": 23864,
+        "title": "New Education Policy 2020: A Sentiment Classification",
+        "authors": "E Sujatha,  , R Radha",
+        "published": "2023-5-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.17485/ijst/v16i9.1164"
+    },
+    {
+        "id": 23865,
+        "title": "Strength in Numbers: Using Big Data to Simplify Sentiment Classification",
+        "authors": "Apostolos Filippas",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.2929091"
+    },
+    {
+        "id": 23866,
+        "title": "The Today Tendency of Sentiment Classification",
+        "authors": "Vo Ngoc Phu, Vo Thi Ngoc Tran",
+        "published": "2018-6-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5772/intechopen.74930"
+    },
+    {
+        "id": 23867,
+        "title": "Recurrent Neural Networks for Sentiment Classification and Recognition",
+        "authors": "",
+        "published": "2021-12-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.38007/nn.2021.020401"
+    },
+    {
+        "id": 23868,
+        "title": "Efficient Transformer based Sentiment Classification Models",
+        "authors": "Leeja Mathew, Bindu V R",
+        "published": "2022-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31449/inf.v46i8.4332"
+    },
+    {
+        "id": 23869,
+        "title": "Peer Review #2 of \"Self voting classification model for online meeting app review sentiment analysis and topic modeling (v0.2)\"",
+        "authors": "",
+        "published": "2022-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1141v0.2/reviews/2"
+    },
+    {
+        "id": 23870,
+        "title": "Sentiment Polarity Classification of Corporate Review Data with a Bidirectional Long-Short Term Memory (biLSTM) Neural Network Architecture",
+        "authors": "R. Loke, O. Kachaniuk",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0009892303100317"
+    }
+]

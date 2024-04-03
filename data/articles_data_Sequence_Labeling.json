@@ -1,0 +1,902 @@
+[
+    {
+        "id": 11071,
+        "title": "Pre-training with pseudo-labeling for regulatory sequence prediction",
+        "authors": "Raphaël Mourad",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractPredicting molecular processes using deep learning is a promising approach to provide biological insights for non-coding SNPs identified in genome-wide association studies. However, most deep learning methods rely on supervised learning which requires DNA sequences associated with functional data, and whose amount is severely limited by the finite size of the human genome. Conversely, the amount of mammalian DNA sequences is growing exponentially due to ongoing large-scale sequencing projects, but in most cases without functional data. To alleviate the limitations of supervised learning, we propose a novel semi-supervised learning based on pseudo-labeling, which allows to explot unannotated DNA sequences from numerous genomes during model pre-training. The approach is very flexible and can be used to train any neural architecture including state-of-the-art models, and shows in certain situations strong predictive performance improvements compared to standard supervised learning in most cases.",
+        "link": "http://dx.doi.org/10.1101/2023.12.21.572780"
+    },
+    {
+        "id": 11072,
+        "title": "A Sequence-to-Sequence Model for Semantic Role Labeling",
+        "authors": "Angel Daza, Anette Frank",
+        "published": "2018",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-3027"
+    },
+    {
+        "id": 11073,
+        "title": "Novel transformer networks for improved sequence labeling in genomics",
+        "authors": "Jim Clauwaert, Willem Waegeman",
+        "published": "No Date",
+        "citations": 4,
+        "abstract": "AbstractIn genomics, a wide range of machine learning methodologies have been investigated to annotate biological sequences for positions of interest such as transcription start sites, translation initiation sites, methylation sites, splice sites and promoter start sites. In recent years, this area has been dominated by convolutional neural networks, which typically outperform previously-designed methods as a result of automated scanning for influential sequence motifs. However, those architectures do not allow for the efficient processing of the full genomic sequence. As an improvement, we introduce transformer architectures for whole genome sequence labeling tasks. We show that these architectures, recently introduced for natural language processing, are better suited for processing and annotating long DNA sequences. We apply existing networks and introduce an optimized method for the calculation of attention from input nucleotides. To demonstrate this, we evaluate our architecture on several sequence labeling tasks, and find it to achieve state-of-the-art performances when comparing it to specialized models for the annotation of transcription start sites, translation initiation sites and 4mC methylation inE. coli.",
+        "link": "http://dx.doi.org/10.1101/836163"
+    },
+    {
+        "id": 11074,
+        "title": "SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup",
+        "authors": "Rongzhi Zhang, Yue Yu, Chao Zhang",
+        "published": "2020",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.691"
+    },
+    {
+        "id": 11075,
+        "title": "Multiplexed Small Molecule Ligand Binding Assays by Affinity Labeling and DNA Sequence Analysis",
+        "authors": "Bo Cai, Casey Krusemark",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Small molecule binding assays to target proteins are a core component of drug discovery and development. While a number of assay formats are available, significant drawbacks still remain in cost, sensitivity, and throughput. To improve assays by capitalizing on the power of DNA sequence analysis, we have developed an assay method that combines DNA encoding with split-and-pool sample handling. The approach involves affinity labeling of DNA-linked ligands to a protein target. Critically, the labeling event assesses ligand binding and enables subsequent pooling of several samples. Application of a purifying selection on the pool for protein-labeled DNAs allows detection of ligand binding by quantification of DNA barcodes. We demonstrate the approach in both ligand displacement and direct binding formats and demonstrate its utility in determination of relative ligand affinity, profiling ligand specificity, and high-throughput small molecule screening.</p>",
+        "link": "http://dx.doi.org/10.26434/chemrxiv.14382056"
+    },
+    {
+        "id": 11076,
+        "title": "Recognizing Japanese Historical Cursive with Pseudo-Labeling-aided CRNN as an Application of Semi-Supervised Learning to Sequence Labeling",
+        "authors": "Ayumu Nagai",
+        "published": "2020-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icfhr2020.2020.00028"
+    },
+    {
+        "id": 11077,
+        "title": "NCRF++: An Open-source Neural Sequence Labeling Toolkit",
+        "authors": "Jie Yang, Yue Zhang",
+        "published": "2018",
+        "citations": 45,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p18-4013"
+    },
+    {
+        "id": 11078,
+        "title": "Multiplexed Small Molecule Ligand Binding Assays by Affinity Labeling and DNA Sequence Analysis",
+        "authors": "Bo Cai, Casey Krusemark",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Small molecule binding assays to target proteins are a core component of drug discovery and development. While a number of assay formats are available, significant drawbacks still remain in cost, sensitivity, and throughput. To improve assays by capitalizing on the power of DNA sequence analysis, we have developed an assay method that combines DNA encoding with split-and-pool sample handling. The approach involves affinity labeling of DNA-linked ligands to a protein target. Critically, the labeling event assesses ligand binding and enables subsequent pooling of several samples. Application of a purifying selection on the pool for protein-labeled DNAs allows detection of ligand binding by quantification of DNA barcodes. We demonstrate the approach in both ligand displacement and direct binding formats and demonstrate its utility in determination of relative ligand affinity, profiling ligand specificity, and high-throughput small molecule screening.",
+        "link": "http://dx.doi.org/10.26434/chemrxiv.14382056.v1"
+    },
+    {
+        "id": 11079,
+        "title": "DRS Parsing as Sequence Labeling",
+        "authors": "Minxing Shen, Kilian Evang",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.starsem-1.19"
+    },
+    {
+        "id": 11080,
+        "title": "Viable Dependency Parsing as Sequence Labeling",
+        "authors": "Michalina Strzyz, David Vilares, Carlos Gómez-Rodríguez",
+        "published": "2019",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/n19-1077"
+    },
+    {
+        "id": 11081,
+        "title": "Contextual Sequence Labeling Model Integrating Symbolic Rules for Extracting Indicators of Compromise",
+        "authors": "Jun Zhao, Wenxiao Zhang, Jianchao Liu, Wenxiao Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4496393"
+    },
+    {
+        "id": 11082,
+        "title": "An Extended Sequence Labeling Approach For Relation Extraction",
+        "authors": "Yangyang Tang",
+        "published": "2019-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icpics47731.2019.8942461"
+    },
+    {
+        "id": 11083,
+        "title": "A k-Nearest Neighbor Approach towards Multi-level Sequence Labeling",
+        "authors": "Yue Chen, John Chen",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/n19-2019"
+    },
+    {
+        "id": 11084,
+        "title": "Unsupervised Domain Adaptation for Dialogue Sequence Labeling Based on Hierarchical Adversarial Training",
+        "authors": "Shota Orihashi, Mana Ihori, Tomohiro Tanaka, Ryo Masumura",
+        "published": "2020-10-25",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2020-2010"
+    },
+    {
+        "id": 11085,
+        "title": "Constituent Parsing as Sequence Labeling",
+        "authors": "Carlos Gómez-Rodríguez, David Vilares",
+        "published": "2018",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-1162"
+    },
+    {
+        "id": 11086,
+        "title": "A Sequence Labeling Framework for Extracting Drug-Protein Relations from Biomedical Literature",
+        "authors": "Ling Luo, Po-Ting Lai, Chih-Hsuan Wei, Zhiyong Lu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractAutomatic extracting interactions between chemical compound/drug and gene/protein is significantly beneficial to drug discovery, drug repurposing, drug design, and biomedical knowledge graph construction. To promote the development of the relation extraction between drug and protein, the BioCreative VII challenge organized the DrugProt track. This paper describes the approach we developed for this task. In addition to the conventional text classification framework that has been widely used in relation extraction tasks, we propose a sequence labeling framework to drug-protein relation extraction. We first comprehensively compared the cutting-edge biomedical pre-trained language models for both frameworks. Then, we explored several ensemble methods to further improve the final performance. In the evaluation of the challenge, our best submission (i.e., the ensemble of models in two frameworks via major voting) achieved the F1-score of 0.795 on the official test set. Further, we realized the sequence labeling framework is more efficient and achieves better performance than the text classification framework. Finally, our ensemble of the sequence labeling models with majority voting achieves the best F1-score of 0.800 on the test set.Database URLhttps://github.com/lingluodlut/BioCreativeVII_DrugProt",
+        "link": "http://dx.doi.org/10.1101/2022.03.31.486574"
+    },
+    {
+        "id": 11087,
+        "title": "Paintings, Not Noise—The Role of Presentation Sequence in Labeling",
+        "authors": "Merlin Knaeble, Mario Nadj, Alexander Maedche",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "Abstract\nLabeling is critical in creating training datasets for supervised machine learning, and is a common form of crowd work heteromation. It typically requires manual labor, is badly compensated and not infrequently bores the workers involved. Although task variety is known to drive human autonomy and intrinsic motivation, there is little research in this regard in the labeling context. Against this backdrop, we manipulate the presentation sequence of a labeling task in an online experiment and use the theoretical lens of self-determination theory to explain psychological work outcomes and work performance. We rely on 176 crowd workers contributing with group comparisons between three presentation sequences (by label, by image, random) and a mediation path analysis along the phenomena studied. Surprising among our key findings is that the task variety when sorting by label is perceived higher than when sorting by image and the random group. Naturally, one would assume that the random group would be perceived as most varied. We choose a visual metaphor to explain this phenomenon, whereas paintings offer a structured presentation of coloured pixels, as opposed to random noise.",
+        "link": "http://dx.doi.org/10.1093/iwc/iwae008"
+    },
+    {
+        "id": 11088,
+        "title": "Chinese Spelling Check based on Sequence Labeling",
+        "authors": "Zijia Han, Chengguo Lv, Qiansheng Wang, Guohong Fu",
+        "published": "2019-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ialp48816.2019.9037652"
+    },
+    {
+        "id": 11089,
+        "title": "The Sequence Labeling Approach for Text Alignment of Plagiarism Detection",
+        "authors": "",
+        "published": "2019-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3837/tiis.2019.09.026"
+    },
+    {
+        "id": 11090,
+        "title": "A Sequence Labeling Method for First-order Logic Representation",
+        "authors": "Hanxiu Chen",
+        "published": "2023-2-7",
+        "citations": 0,
+        "abstract": "Extracting logic knowledge is an important part of natural language understanding. This study introduces a new dataset for the purpose of measuring the model's ability to transfer natural language to logic form. Since logic represents how various concepts infer and reason from/to each other, it is essential to learn logical structure in any form of language while trying to comprehend its meaning of it. There have recently been many interests in deploying machine learning and deep learning methods for extracting logical knowledge and representing logic from natural language. The promising generative model that applied to recent sequence labeling work is used in the task of representing logic. Experiments have shown that generative methods can extract logic form from natural language texts. To be more specific, a sequence-to-sequence model is quite a convenient option when it deals with extraction tasks. The model provided in this study would be inspiring for future studies to work out more efficient solutions.",
+        "link": "http://dx.doi.org/10.54097/ehss.v8i.4287"
+    },
+    {
+        "id": 11091,
+        "title": "DiffusionSL: Sequence Labeling via Tag Diffusion Process",
+        "authors": "Ziyang Huang, Pengfei Cao, Jun Zhao, Kang Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.860"
+    },
+    {
+        "id": 11092,
+        "title": "Error Detection for Arabic Text Using Neural Sequence Labeling",
+        "authors": "Nora Madi, Hend Al-Khalifa",
+        "published": "2020-7-30",
+        "citations": 9,
+        "abstract": "The English language has, thus far, received the most attention in research concerning automatic grammar error correction and detection. However, these tasks have been less investigated for other languages. In this paper, we present the first experiments using neural network models for the task of error detection for Modern Standard Arabic (MSA) text. We investigate several neural network architectures and report the evaluation results acquired by applying cross-validation on the data. All experiments involve a corpus we created and augmented. The corpus has 494 sentences and 620 sentences after augmentation. Our models achieved a maximum precision of 78.09%, recall of 83.95%, and F0.5 score of 79.62% in the error detection task using SimpleRNN. Using an LSTM, we achieved a maximum precision of 79.21%, recall of 93.8%, and F0.5 score of 79.16%. Finally, the best results were achieved using a BiLSTM with a maximum precision of 80.74%, recall of 85.73%, and F0.5 score of 81.55%. We compared the results of the three models to a baseline, which is a commercially available Arabic grammar checker (Microsoft Word 2007). LSTM, BiLSTM, and SimpleRNN all outperformed the baseline in precision and F0.5. Our work shows preliminary results, demonstrating that neural network architectures for error detection through sequence labeling can successfully be applied to Arabic text.",
+        "link": "http://dx.doi.org/10.3390/app10155279"
+    },
+    {
+        "id": 11093,
+        "title": "Grammatical Error Correction as GAN-like Sequence Labeling",
+        "authors": "Kevin Parnow, Zuchao Li, Hai Zhao",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.findings-acl.290"
+    },
+    {
+        "id": 11094,
+        "title": "Discontinuous Constituent Parsing as Sequence Labeling",
+        "authors": "David Vilares, Carlos Gómez-Rodríguez",
+        "published": "2020",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.221"
+    },
+    {
+        "id": 11095,
+        "title": "Label-Agnostic Sequence Labeling by Copying Nearest Neighbors",
+        "authors": "Sam Wiseman, Karl Stratos",
+        "published": "2019",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p19-1533"
+    },
+    {
+        "id": 11096,
+        "title": "Multilingual Sequence Labeling Approach to solve Lexical Normalization",
+        "authors": "Divesh Kubal, Apurva Nagvenkar",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.wnut-1.51"
+    },
+    {
+        "id": 11097,
+        "title": "Sequence Labeling Using Deep Neural Nets",
+        "authors": "Nikhila N.V.",
+        "published": "2019-12-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.30534/ijatcse/2019/150862019"
+    },
+    {
+        "id": 11098,
+        "title": "Joint Word Segmentation and Stemming with Neural Sequence Labeling for Myanmar Language",
+        "authors": "",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18178/wcse.2019.03.017"
+    },
+    {
+        "id": 11099,
+        "title": "Contextual Features and Sequence Labeling Techniques for Relevance Prediction in Retrieval",
+        "authors": "Alberto Oliveira, Anderson Rocha",
+        "published": "2020-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iwssip48289.2020.9145087"
+    },
+    {
+        "id": 11100,
+        "title": "Semi-supervised Multitask Learning for Sequence Labeling",
+        "authors": "Marek Rei",
+        "published": "2017",
+        "citations": 80,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p17-1194"
+    },
+    {
+        "id": 11101,
+        "title": "Hierarchical Capsule Based Neural Network Architecture for Sequence Labeling",
+        "authors": "Saurabh Srivastava, Puneet Agarwal, Gautam Shroff, Lovekesh Vig",
+        "published": "2019-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn.2019.8852016"
+    },
+    {
+        "id": 11102,
+        "title": "An improved-Viterbi Based Chinese Sequence Labeling Enhancement Method",
+        "authors": "Quan qi, Bo Wang, Kaihui Mu",
+        "published": "2020-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccst50977.2020.00119"
+    },
+    {
+        "id": 11103,
+        "title": "Language-Agnostic Syllabification with Neural Sequence Labeling",
+        "authors": "Jacob Krantz, Maxwell Dulin, Paul De Palma",
+        "published": "2019-12",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla.2019.00141"
+    },
+    {
+        "id": 11104,
+        "title": "A Unified Sequence Labeling Model for Emotion Cause Pair Extraction",
+        "authors": "Xinhong Chen, Qing Li, Jianping Wang",
+        "published": "2020",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.coling-main.18"
+    },
+    {
+        "id": 11105,
+        "title": "Empirical Error Modeling Improves Robustness of Noisy Neural Sequence Labeling",
+        "authors": "Marcin Namysl, Sven Behnke, Joachim Köhler",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.findings-acl.27"
+    },
+    {
+        "id": 11106,
+        "title": "Boilerplate Removal using a Neural Sequence Labeling Model",
+        "authors": "Jurek Leonhardt, Avishek Anand, Megha Khosla",
+        "published": "2020-4-20",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3366424.3383547"
+    },
+    {
+        "id": 11107,
+        "title": "Leveraging morphological information via employing word hashing for sequence labeling",
+        "authors": "Zonghui Peng, Ruifang Liu, Si Li",
+        "published": "2017-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pic.2017.8359510"
+    },
+    {
+        "id": 11108,
+        "title": "Joint Learning of Correlated Sequence Labeling Tasks Using Bidirectional Recurrent Neural Networks",
+        "authors": "Vardaan Pahuja, Anirban Laha, Shachar Mirkin, Vikas Raykar, Lili Kotlerman, Guy Lev",
+        "published": "2017-8-20",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2017-1247"
+    },
+    {
+        "id": 11109,
+        "title": "Attending to Long-Distance Document Context for Sequence Labeling",
+        "authors": "Matthew Jörke, Jon Gillick, Matthew Sims, David Bamman",
+        "published": "2020",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.findings-emnlp.330"
+    },
+    {
+        "id": 11110,
+        "title": "UZH@CRAFT-ST: a Sequence-labeling Approach to Concept Recognition",
+        "authors": "Lenz Furrer, Joseph Cornelius, Fabio Rinaldi",
+        "published": "2019",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-5726"
+    },
+    {
+        "id": 11111,
+        "title": "T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks",
+        "authors": "Iker García-Ferrero, Rodrigo Agerri, German Rigau",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.1015"
+    },
+    {
+        "id": 11112,
+        "title": "Sequence Labeling Parsing by Learning across Representations",
+        "authors": "Michalina Strzyz, David Vilares, Carlos Gómez-Rodríguez",
+        "published": "2019",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p19-1531"
+    },
+    {
+        "id": 11113,
+        "title": "A Unifying Theory of Transition-based and Sequence Labeling Parsing",
+        "authors": "Carlos Gómez-Rodríguez, Michalina Strzyz, David Vilares",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.coling-main.336"
+    },
+    {
+        "id": 11114,
+        "title": "Auxiliary Sequence Labeling Tasks for Disfluency Detection",
+        "authors": "Dongyub Lee, Byeongil Ko, Myeong Cheol Shin, Taesun Whang, Daniel Lee, Eunhwa Kim, Eunggyun Kim, Jaechoon Jo",
+        "published": "2021-8-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2021-400"
+    },
+    {
+        "id": 11115,
+        "title": "Domain-aware Neural Model for Sequence Labeling using Joint Learning",
+        "authors": "Huang Heng, Liu Xiaozhong, Yuliang Yan",
+        "published": "2019-5-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3308558.3313566"
+    },
+    {
+        "id": 11116,
+        "title": "Finding the Blank with Sequence Labeling for English Learning",
+        "authors": "Shivam Mehta, Ivan Smetannikov",
+        "published": "2020-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3437802.3437834"
+    },
+    {
+        "id": 11117,
+        "title": "Handling Rare Entities for Neural Sequence Labeling",
+        "authors": "Yangming Li, Han Li, Kaisheng Yao, Xiaolong Li",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.acl-main.574"
+    },
+    {
+        "id": 11118,
+        "title": "A Sequence Labeling Convolutional Network and Its Application to Handwritten String Recognition",
+        "authors": "Qingqing Wang, Yue Lu",
+        "published": "2017-8",
+        "citations": 14,
+        "abstract": "Handwritten string recognition has been struggling with connected patterns fiercely. Segmentation-free and over-segmentation frameworks are commonly applied to deal with this issue. For the past years, RNN combining with CTC has occupied the domain of segmentation-free handwritten string recognition, while CNN is just employed as a single character recognizer in the over-segmentation framework. The main challenges for CNN to directly recognize handwritten strings are the appropriate processing of arbitrary input string length, which implies arbitrary input image size, and reasonable design of the output layer. In this paper, we propose a sequence labeling convolutional network for the recognition of handwritten strings, in particular, the connected patterns. We properly design the structure of the network to predict how many characters present in the input images and what exactly they are at every position. Spatial pyramid pooling (SPP) is utilized with a new implementation to handle arbitrary string length. Moreover, we propose a more flexible pooling strategy called FSPP to adapt the network to the straightforward recognition of long strings better. Experiments conducted on handwritten digital strings from two benchmark datasets and our own cell-phone number dataset demonstrate the superiority of the proposed network.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2017/411"
+    },
+    {
+        "id": 11119,
+        "title": "Dependency Parsing as Sequence Labeling with Head-Based Encoding and Multi-Task Learning",
+        "authors": "Ophélie Lacroix",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-7716"
+    },
+    {
+        "id": 11120,
+        "title": "On the Strength of Sequence Labeling and Generative Models for Aspect Sentiment Triplet Extraction",
+        "authors": "Shen Zhou, Tieyun Qian",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.762"
+    },
+    {
+        "id": 11121,
+        "title": "AlexU-AIC at WojoodNER shared task: Sequence Labeling vs MRC and SWA for Arabic Named Entity Recognition",
+        "authors": "Shereen Elkordi, Noha Adly, Marwan Torki",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.86"
+    },
+    {
+        "id": 11122,
+        "title": "Sequence Alignment Ensemble With a Single Neural Network for Sequence Labeling",
+        "authors": "Jeesu Jung, Sangkeun Jung, Hyein Seo, Hyuk Namgung, Sungryeol Kim",
+        "published": "2022",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/access.2022.3188107"
+    },
+    {
+        "id": 11123,
+        "title": "Term Extraction via Neural Sequence Labeling a Comparative Evaluation of Strategies Using Recurrent Neural Networks",
+        "authors": "Maren Kucza, Jan Niehues, Thomas Zenkel, Alex Waibel, Sebastian Stüker",
+        "published": "2018-9-2",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2018-2017"
+    },
+    {
+        "id": 11124,
+        "title": "LSTMVoter: chemical named entity recognition using a conglomerate of sequence labeling tools",
+        "authors": "Wahed Hemati, Alexander Mehler",
+        "published": "2019-12",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1186/s13321-018-0327-2"
+    },
+    {
+        "id": 11125,
+        "title": "A Self-Attention Based Joint Sequence Labeling Model",
+        "authors": "Eryong Wu, Xiaoming Liu, Yun Chen, Tao Zhang",
+        "published": "2022-6-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaica54878.2022.9844562"
+    },
+    {
+        "id": 11126,
+        "title": "Neural CRF Transducers for Sequence Labeling",
+        "authors": "Kai Hu, Zhijian Ou, Min Hu, Junlan Feng",
+        "published": "2019-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp.2019.8682728"
+    },
+    {
+        "id": 11127,
+        "title": "NAT: Noise-Aware Training for Robust Neural Sequence Labeling",
+        "authors": "Marcin Namysl, Sven Behnke, Joachim Köhler",
+        "published": "2020",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.acl-main.138"
+    },
+    {
+        "id": 11128,
+        "title": "Complete sequence stratigraphy from seismic optical flow without human labeling",
+        "authors": "Zhun Li, Aria Abubakar",
+        "published": "2020-9-30",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1190/segam2020-3427292.1"
+    },
+    {
+        "id": 11129,
+        "title": "Towards Fast and Unified Transfer Learning Architectures for Sequence Labeling",
+        "authors": "Parminder Bhatia, Kristjan Arumae, Busra Celikkaya",
+        "published": "2019-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla.2019.00298"
+    },
+    {
+        "id": 11130,
+        "title": "Implicitly-Defined Neural Networks for Sequence Labeling",
+        "authors": "Michaeel Kazi, Brian Thompson",
+        "published": "2017",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p17-2027"
+    },
+    {
+        "id": 11131,
+        "title": "Zero-shot Sequence Labeling for Transformer-based Sentence Classifiers",
+        "authors": "Kamil Bujel, Helen Yannakoudakis, Marek Rei",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.repl4nlp-1.20"
+    },
+    {
+        "id": 11132,
+        "title": "Sub-event detection from twitter streams as a sequence labeling problem",
+        "authors": "Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder",
+        "published": "2019",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/n19-1081"
+    },
+    {
+        "id": 11133,
+        "title": "A New Method of Time-Series Event Prediction Based on Sequence Labeling",
+        "authors": "Zihan Zhong, Shu Lv, Kaibo Shi",
+        "published": "2023-4-24",
+        "citations": 4,
+        "abstract": "In the existing research on time-series event prediction (TSEP) methods, most of the work is focused on improving the algorithm for classifying subsequence sets (sets composed of multiple adjacent subsequences). However, these prediction methods ignore the timing dependence between the subsequence sets, nor do they capture the mutual transition relationship between events, the prediction effect on a small sample data set is very poor. Meanwhile, the sequence labeling problem is one of the common problems in natural language processing and image segmentation. To solve this problem, this paper proposed a new framework for time-series event prediction, which transforms the event prediction problem into a labeling problem, to better capture the timing relationship between the subsequence sets. Specifically, the framework used a sequence clustering algorithm for the first time to identify representative patterns in the time series, then represented the set of subsequences as a weighted combination of patterns, and used the eXtreme gradient boosting algorithm (XGBoost) for feature selection. After that, the selected pattern feature was used as the input of the long-term short-term memory model (LSTM) to obtain the preliminary prediction value. Furthermore, the fully-linked conditional random field (CRF) was used to smooth and refine the preliminary prediction value to obtain the final prediction result. Finally, the experimental results of event prediction on five real data sets show that the CX-LC method has a certain improvement in prediction accuracy compared with the other six models.",
+        "link": "http://dx.doi.org/10.3390/app13095329"
+    },
+    {
+        "id": 11134,
+        "title": "Sparse Coding of Neural Word Embeddings for Multilingual Sequence Labeling",
+        "authors": "Gáabor Berend",
+        "published": "2017-12",
+        "citations": 6,
+        "abstract": "In this paper we propose and carefully evaluate a sequence labeling framework which solely utilizes sparse indicator features derived from dense distributed word representations. The proposed model obtains (near) state-of-the art performance for both part-of-speech tagging and named entity recognition for a variety of languages. Our model relies only on a few thousand sparse coding-derived features, without applying any modification of the word representations employed for the different tasks. The proposed model has favorable generalization properties as it retains over 89.8% of its average POS tagging accuracy when trained at 1.2% of the total available training data, i.e. 150 sentences per language.",
+        "link": "http://dx.doi.org/10.1162/tacl_a_00059"
+    },
+    {
+        "id": 11135,
+        "title": "Attribute Extraction by Combing Feature Ranking and Sequence Labeling",
+        "authors": "Bin Peng, Xiaoming Zhang, Yueying He, Zhoujun Li",
+        "published": "2018-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bigcomp.2018.00094"
+    },
+    {
+        "id": 11136,
+        "title": "Bi-LSTM-CRF Sequence Labeling for Keyphrase Extraction from Scholarly Documents",
+        "authors": "Rabah Alzaidy, Cornelia Caragea, C. Lee Giles",
+        "published": "2019-5-13",
+        "citations": 79,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3308558.3313642"
+    },
+    {
+        "id": 11137,
+        "title": "KNU CI System at SemEval-2018 Task4: Character Identification by\n            Solving Sequence-Labeling Problem",
+        "authors": "Cheoneum Park, Heejun Song, Changki Lee",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/s18-1107"
+    },
+    {
+        "id": 11138,
+        "title": "Sequence-Labeling RoBERTa Model for Dependency-Parsing in Classical Chinese and Its Application to Vietnamese and Thai",
+        "authors": "Koichi Yasuoka",
+        "published": "2023-5-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icbir57571.2023.10147628"
+    },
+    {
+        "id": 11139,
+        "title": "Detecting Local Insights from Global Labels: Supervised and Zero-Shot Sequence Labeling via a Convolutional Decomposition",
+        "authors": "Allen Schmaltz",
+        "published": "2021-12-23",
+        "citations": 1,
+        "abstract": "Abstract\nWe propose a new, more actionable view of neural network interpretability and data analysis by leveraging the remarkable matching effectiveness of representations derived from deep networks, guided by an approach for class-conditional feature detection. The decomposition of the filter-n-gram interactions of a convolutional neural network (CNN) and a linear layer over a pre-trained deep network yields a strong binary sequence labeler, with flexibility in producing predictions at—and defining loss functions for—varying label granularities, from the fully supervised sequence labeling setting to the challenging zero-shot sequence labeling setting, in which we seek token-level predictions but only have document-level labels for training. From this sequence-labeling layer we derive dense representations of the input that can then be matched to instances from training, or a support set with known labels. Such introspection with inference-time decision rules provides a means, in some settings, of making local updates to the model by altering the labels or instances in the support set without re-training the full model. Finally, we construct a particular K-nearest neighbors (K-NN) model from matched exemplar representations that approximates the original model’s predictions and is at least as effective a predictor with respect to the ground-truth labels. This additionally yields interpretable heuristics at the token level for determining when predictions are less likely to be reliable, and for screening input dissimilar to the support set. In effect, we show that we can transform the deep network into a simple weighting over exemplars and associated labels, yielding an introspectable—and modestly updatable—version of the original model.",
+        "link": "http://dx.doi.org/10.1162/coli_a_00416"
+    },
+    {
+        "id": 11140,
+        "title": "SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling",
+        "authors": "Luoxin Chen, Weitong Ruan, Xinyue Liu, Jianhua Lu",
+        "published": "2020",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.acl-main.777"
+    },
+    {
+        "id": 11141,
+        "title": "Engineering sequence-directed protein-RNA covalent linkages for compact RNA-labeling tools",
+        "authors": "Adam T. Smiley, Wendy R. Gordon",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.bpj.2022.11.1291"
+    },
+    {
+        "id": 11142,
+        "title": "Enhanced sequence labeling based on latent variable conditional random fields",
+        "authors": "Jerry Chun-Wei Lin, Yinan Shao, Ji Zhang, Unil Yun",
+        "published": "2020-8",
+        "citations": 37,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2020.04.102"
+    },
+    {
+        "id": 11143,
+        "title": "Predictive Model Selection for Transfer Learning in Sequence Labeling Tasks",
+        "authors": "Parul Awasthy, Bishwaranjan Bhattacharjee, John Kender, Radu Florian",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.sustainlp-1.15"
+    },
+    {
+        "id": 11144,
+        "title": "Optimizer Comparison with Dropout for Neural Sequence Labeling in Myanmar Stemmer",
+        "authors": "Oo Yadanar, Khin Mar Soe",
+        "published": "2019-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciaict.2019.8784850"
+    },
+    {
+        "id": 11145,
+        "title": "Neural Sequence Labeling for Vietnamese POS Tagging and NER",
+        "authors": "Anh-Duong Nguyen, Kiem-Hieu Nguyen, Van-Vi Ngo",
+        "published": "2019-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/rivf.2019.8713710"
+    },
+    {
+        "id": 11146,
+        "title": "Hybrid semi-Markov CRF for Neural Sequence Labeling",
+        "authors": "Zhixiu Ye, Zhen-Hua Ling",
+        "published": "2018",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p18-2038"
+    },
+    {
+        "id": 11147,
+        "title": "Biomedical Event Extraction as Sequence Labeling",
+        "authors": "Alan Ramponi, Rob van der Goot, Rosario Lombardo, Barbara Plank",
+        "published": "2020",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.431"
+    },
+    {
+        "id": 11148,
+        "title": "APLIKASI 3D ARTERIAL SPIN LABELING SEQUENCE PADA PEMERIKSAAN BRAIN MRI",
+        "authors": "Ary Nova Setiyanto, Anita Nur Mayani",
+        "published": "2020-11-9",
+        "citations": 0,
+        "abstract": "Background: MRI (Magnetic Resonance Imaging) is a noninvasive diagnostic examination that utilizes high magnetic field strength in producing an image. Non-contrast Brain MRI Examination in Radiology Installation of Adi Husada Undaan Wetan Hospital Surabaya using a sequence of Ax DWI b1000 routines, Ax T2 Flair FS, Ax T2 Propeller, Ax T1 FSE, MRA TOF, Ax T2 * GRE. Clinical suspect CVA infarct, Brain MRI examination in Radiology Installation of Adi Husada Hospital Undaan Wetan Surabaya added 3D ASL sequences without using gadolinium contrast media.\r\nMethods: This type of research is qualitative research with a case study approach. Data was taken from January to February 2019. The object of the study was MRI Brain examination in CVA infract cases at Radiology Installation at Adi Husada Undaan Wetan Hospital, Surabaya. The research subjects are 2 radiographers and 1 radiologist.\r\nResults: Based on the results of visual analysis with interview methods with radiologists, the image results on Ax DWI b1000, Ax T2 Flair FS and Ax T2 Propeller appear hyperintense images which indicate the presence of pathology in the restricted area. The addition of the 3D ASL sequence is used to determine CBF (cerebral blood flow).\r\nConclusions : The application of the 3D ASL sequence to the clinical suspect CVA infarct with the right method can greatly assist the radiologist to diagnose patient abnormalities.",
+        "link": "http://dx.doi.org/10.55451/jri.v3i2.68"
+    },
+    {
+        "id": 11149,
+        "title": "Learning Label-Relational Output Structure for Adaptive Sequence Labeling",
+        "authors": "Keqing He, Yuanmeng Yan, Hong Xu, Sihong Liu, Zijun Liu, Weiran Xu",
+        "published": "2020-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9206988"
+    },
+    {
+        "id": 11150,
+        "title": "A Sequence-to-Sequence Approach with Mixed Pointers to Topic Segmentation and Segment Labeling",
+        "authors": "Jinxiong Xia, Houfeng Wang",
+        "published": "2023-8-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3580305.3599245"
+    },
+    {
+        "id": 11151,
+        "title": "Embedded-State Latent Conditional Random Fields for Sequence Labeling",
+        "authors": "Dung Thai, Sree Harsha Ramesh, Shikhar Murty, Luke Vilnis, Andrew McCallum",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/k18-1001"
+    },
+    {
+        "id": 11152,
+        "title": "Quantity Tagger: A Latent-Variable Sequence Labeling Approach to Solving Addition-Subtraction Word Problems",
+        "authors": "Yanyan Zou, Wei Lu",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p19-1517"
+    },
+    {
+        "id": 11153,
+        "title": "Sequence Labeling of Chinese Text Based on Bidirectional Gru-Cnn-Crf Model",
+        "authors": "Di Liu, Xinyi Zou",
+        "published": "2018-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccwamtip.2018.8632570"
+    },
+    {
+        "id": 11154,
+        "title": "Hierarchical Knowledge Distillation for Dialogue Sequence Labeling",
+        "authors": "Shota Orihashi, Yoshihiro Yamazaki, Naoki Makishima, Mana Ihori, Akihiko Takashima, Tomohiro Tanaka, Ryo Masumura",
+        "published": "2021-12-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asru51503.2021.9687959"
+    },
+    {
+        "id": 11155,
+        "title": "Pheonix at SemEval-2020 Task 5: Masking the Labels Lubricates Models for Sequence Labeling",
+        "authors": "Pouria Babvey, Dario Borrelli, Yutong Zhao, Carlo Lipizzi",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.semeval-1.88"
+    },
+    {
+        "id": 11156,
+        "title": "HoogBERTa: Multi-task Sequence Labeling using Thai Pretrained Language Representation",
+        "authors": "Peerachet Porkaew, Prachya Boonkwan, Thepchai Supnithi",
+        "published": "2021-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isai-nlp54397.2021.9678190"
+    },
+    {
+        "id": 11157,
+        "title": "North Sámi morphological segmentation with low-resource semi-supervised sequence labeling",
+        "authors": "Stig-Arne Grönroos, Sámi Virpioja, Mikko Kurimo",
+        "published": "2019",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-0302"
+    },
+    {
+        "id": 11158,
+        "title": "Sequence Labeling with Non-Negative Weighted Higher Order Features",
+        "authors": "Xian Qian, Yang Liu",
+        "published": "2021-9-20",
+        "citations": 0,
+        "abstract": "\n      \n        In sequence labeling, using higher order features leads to high inference complexity. A lot of studies have been conducted to address this problem. In this paper, we propose a new exact decoding algorithm under the assumption that weights of all higher order features are non-negative. In the worst case, the time complexity of our algorithm is quadratic on the number of higher order features. Comparing with existing algorithms, our method is more efficient and easier to implement. We evaluate our method on two sequence labeling tasks: Optical Character Recognition and Chinese part-of-speech tagging. Our experimental results demonstrate that adding higher order features significantly improves the performance while requiring only 30% additional inference time.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v26i1.8280"
+    },
+    {
+        "id": 11159,
+        "title": "Sequence Labeling Approach to the Task of Sentence Boundary Detection",
+        "authors": "The Anh Le",
+        "published": "2020-1-17",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3380688.3380703"
+    },
+    {
+        "id": 11160,
+        "title": "Learning Better Internal Structure of Words for Sequence Labeling",
+        "authors": "Yingwei Xin, Ethan Hart, Vibhuti Mahajan, Jean-David Ruvini",
+        "published": "2018",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-1279"
+    },
+    {
+        "id": 11161,
+        "title": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling",
+        "authors": "Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen",
+        "published": "2019",
+        "citations": 82,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/n19-1259"
+    },
+    {
+        "id": 11162,
+        "title": "Deep Learning-Based Sequence Labeling for Information Extraction from Multiple Types of Textual Bridge Reports",
+        "authors": "Qiyang Chen, Nora EI-Gohary",
+        "published": "2022-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1061/9780784483893.023"
+    },
+    {
+        "id": 11163,
+        "title": "Semi-markov CRF Model Based on Stacked Neural Bi-LSTM for Sequence Labeling",
+        "authors": "Yupeng Liu, Guodong Li, Xiaochen Zhang",
+        "published": "2020-11-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iicspi51290.2020.9332321"
+    },
+    {
+        "id": 11164,
+        "title": "Augmented Natural Language for Generative Sequence Labeling",
+        "authors": "Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone, Bing Xiang",
+        "published": "2020",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.27"
+    },
+    {
+        "id": 11165,
+        "title": "Feature Selection and Extraction in Sequence Labeling for Arrhythmia Detection",
+        "authors": "Minxiang Ye, Vladimir Stankovic, Lina Stankovic, Srdjan Lulic, Andras Anderla, Srdjan Sladojevic",
+        "published": "2021-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/balkancom53780.2021.9593247"
+    },
+    {
+        "id": 11166,
+        "title": "Parsing Clinical Trial Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model",
+        "authors": "Shubo Tian, Pengfei Yin, Hansi Zhang, Arslan Erdengasileng, Jiang Bian, Zhe He",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractTo enable electronic screening of eligible patients for clinical trials, free-text clinical trial eligibility criteria should be translated to a computable format. Natural language processing (NLP) techniques have the potential to automate this process. In this study, we explored a supervised multi-input multi-output (MIMO) sequence labelling model to parse eligibility criteria into combinations of fact and condition tuples. Our experiments on a small manually annotated training dataset showed that that the performance of the MIMO framework with a BERT-based encoder using all the input sequences achieved an overall lenient-level AUROC of 0.61. Although the per-formance is suboptimal, representing eligibility criteria into logical and semantically clear tuples can potentially make subsequent translation of these tuples into database queries more reliable.",
+        "link": "http://dx.doi.org/10.1101/2021.11.18.21266533"
+    },
+    {
+        "id": 11167,
+        "title": "A Sequence Labeling Based Approach for Character Segmentation of Historical Documents",
+        "authors": "Liangcai Gao, Xiaode Zhang, Zhi Tang, Yaoxiong Huang, Lianwen Jin",
+        "published": "2018-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/das.2018.16"
+    },
+    {
+        "id": 11168,
+        "title": "CLaC at SemEval-2023 Task 2: Comparing Span-Prediction and Sequence-Labeling Approaches for NER",
+        "authors": "Harsh Verma, Sabine Bergler",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.215"
+    },
+    {
+        "id": 11169,
+        "title": "An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks",
+        "authors": "Lifu Tu, Tianyu Liu, Kevin Gimpel",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.449"
+    },
+    {
+        "id": 11170,
+        "title": "WING-NUS at SemEval-2017 Task 10: Keyphrase Extraction and\n            Classification as Joint Sequence Labeling",
+        "authors": "Animesh Prasad, Min-Yen Kan",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/s17-2170"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "id": 15971,
+        "title": "Temporal Difference (TD) Learning",
+        "authors": "",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-0716-1006-0_300629"
+    },
+    {
+        "id": 15972,
+        "title": "Ant-TD: Ant colony optimization plus temporal difference reinforcement learning for multi-label feature selection",
+        "authors": "Mohsen Paniri, Mohammad Bagher Dowlatshahi, Hossein Nezamabadi-pour",
+        "published": "2021-7",
+        "citations": 53,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2021.100892"
+    },
+    {
+        "id": 15973,
+        "title": "Q-Learning: Model Free Reinforcement Learning and Temporal Difference Learning",
+        "authors": "Steven L. Brunton",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Here we describe Q-learning, which is one of the most popular methods in reinforcement learning. Q-learning is a type of temporal difference learning.  We discuss other TD algorithms, such as SARSA, and connections to biological learning through dopamine. Q-learning is also one of the most common frameworks for deep reinforcement learning.",
+        "link": "http://dx.doi.org/10.52843/cassyni.ss11hp"
+    },
+    {
+        "id": 15974,
+        "title": "Temporal Difference Learning",
+        "authors": "",
+        "published": "2022-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781009218245.021"
+    },
+    {
+        "id": 15975,
+        "title": "H-TD<sup>2</sup>: Hybrid Temporal Difference Learning for Adaptive Urban Taxi Dispatch",
+        "authors": "Benjamin Riviere, Soon-Jo Chung",
+        "published": "2022-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tits.2021.3097297"
+    },
+    {
+        "id": 15976,
+        "title": "Understanding Human Learning: Estimating Parameters of Temporal Difference Learning",
+        "authors": "Xiao Yang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Previous work in psychology has demonstrated how to use the Rescorla-Wagner model to estimate learning parameters from experimental design data (e.g., Iowa gambling test). Yet, the effect of actions on states often occur with a temporal delay in naturalistic settings, which the Rescorla-Wagner model does not model. To explain how humans learn about the time-delayed consequence of their actions requires a temporal difference (TD) learning model, like the state-action-reward-state-action model (SARSA), to incorporate the process of how humans learn about the temporal relations between state and action. This paper proposes a SARSA-based algorithm to estimate the learning rate and discount factor in such temporal difference learning processes, in order to quantify human learning process from behavior sequence data in naturalistic settings (e.g., experience sampling). Specifically, this paper uses a grid search over possible parameter space of learning rate and discount factor to find the best fitting values. To evaluate this estimation algorithm, simulations are conducted to provide evidence that the estimation algorithm can accurately recover the TD learning parameters. Then this estimation method is applied on an empirical dataset of exercise and stress. This new estimation method of TD learning parameters can open opportunities for important health-related empirical applications, including explaining individual-level TD learning, specifically, how human change their behaviors to achieve health-related goals. Additionally, the estimated learning parameters can also be used to design just-in-time adaptive personalized intervention (control) to induce behavior change.",
+        "link": "http://dx.doi.org/10.31219/osf.io/ukshf"
+    },
+    {
+        "id": 15977,
+        "title": "Temporal Difference Methods",
+        "authors": "",
+        "published": "2022-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781009051873.012"
+    },
+    {
+        "id": 15978,
+        "title": "VNE-TD: A virtual network embedding algorithm based on temporal-difference learning",
+        "authors": "Sen Wang, Jun Bi, Jianping Wu, Athanasios V. Vasilakos, Qilin Fan",
+        "published": "2019-10",
+        "citations": 30,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.comnet.2019.05.004"
+    },
+    {
+        "id": 15979,
+        "title": "Temporal Difference Learning",
+        "authors": "​William Uther",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_817"
+    },
+    {
+        "id": 15980,
+        "title": "Temporal Difference Learning",
+        "authors": "Michael Hu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4842-9606-6_5"
+    },
+    {
+        "id": 15981,
+        "title": "Reward Bases: Instantaneous reward revaluation with temporal difference learning",
+        "authors": "Beren Millidge, Mark Walton, Rafal Bogacz",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractAn influential theory posits that dopaminergic neurons in the mid-brain implement a model-free reinforcement learning algorithm based on temporal difference (TD) learning. A fundamental assumption of this model is that the reward function being optimized is fixed. However, for biological creatures the ‘reward function’ can fluctuate substantially over time depending on the internal physiological state of the animal. For instance, food is rewarding when you are hungry, but not when you are satiated. While a variety of experiments have demonstrated that animals can instantly adapt their behaviour when their internal physiological state changes, under current thinking this requires model-based planning since the standard model of TD learning requires retraining from scratch if the reward function changes. Here, we propose a novel and simple extension to TD learning that allows for the zero-shot (instantaneous) generalization to changing reward functions. Mathematically, we show that if we assume the reward function is a linear combination ofreward basis vectors, and if we learn a value function for each reward basis using TD learning, then we can recover the true value function by a linear combination of these value function bases. This representational scheme allows instant and perfect generalization to any reward function in the span of the reward basis vectors as well as possesses a straightforward implementation in neural circuitry by parallelizing the standard circuitry required for TD learning. We demonstrate that our algorithm can also reproduce behavioural data on reward revaluation tasks, predict dopamine responses in the nucleus accumbens, as well as learn equally fast as successor representations while requiring much less memory.",
+        "link": "http://dx.doi.org/10.1101/2022.04.14.488361"
+    },
+    {
+        "id": 15982,
+        "title": "Temporal Difference Learning for Recurrent Neural Networks",
+        "authors": "Risheek Garrepalli Garrepalli",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.32470/ccn.2019.1392-0"
+    },
+    {
+        "id": 15983,
+        "title": "Temporal Difference (TD) Based Critic-Actor Adaptive Control for a Fine Hand Motion Rehabilitation Robot",
+        "authors": "Xianwei Huang, Fazel Naghdy, Haiping Du, Golshah Naghdy, Catherine Todd",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-76947-9_14"
+    },
+    {
+        "id": 15984,
+        "title": "Temporal Difference Learning, SARSA, and Q-Learning",
+        "authors": "Mohit Sewak",
+        "published": "2019",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-13-8285-7_4"
+    },
+    {
+        "id": 15985,
+        "title": "Habits Through Temporal-Difference Action Learning",
+        "authors": "Charlotte Collingwood, Marcus Stephenson-Jones, Rafal Bogacz",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1156-0"
+    },
+    {
+        "id": 15986,
+        "title": "Optimization of Music Education Strategy Guided by the Temporal-Difference Reinforcement Learning Algorithm",
+        "authors": "Yingwei Su, Yuan Wang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nTo optimize the learning path and strategy of music courses and promote the innovation and development of music education, a reinforcement learning (RL) algorithm is used to conduct an intelligent exploration of Erhu teaching methods in the field of music. Firstly, a rule-based Erhu fingering evaluation method is proposed, which summarizes the fingering habits and general rules of modern Erhu performance and constructs a quantitative evaluation system (QES) of Erhu fingering. This system provides the evaluation basis for effectively verifying the intelligent generation model of Erhu fingering proposed here. Secondly, on the one hand, an intelligent generation model of Erhu music is proposed based on neural network technology. On the other hand, an intelligent automatic generation (AG) algorithm for Erhu fingering is put forward. In this algorithm, the temporal-difference RL (TDRL) model and off-policy are integrated, and the influence of the fingers before and after actual playing is considered comprehensively. Finally, the validity and feasibility of the proposed Erhu music generation model and the Erhu fingering-intelligence generation model are verified by simulation experiments. The results reveal that: (1) The QES of Erhu fingering proposed here can objectively describe the advantages and disadvantages of Erhu fingering and play a role of feedback and improvement to the generation model of fingering; (2) In the proposed Erhu music generation model, the musical note index value of the generated music is high, which avoids the situation of excessive note repetition and note jump amplitude in the generated music. (3) The designed Erhu fingering-intelligence generation model is employed to compare and analyze three kinds of music segments. It is found that the total score and scoring rates of fingering evaluation generated by the three pieces of music are relatively high and very close to the professional fingering, scoring rate difference is less than 3%; (4) The scoring rate of all kinds of fingering generated by machines is about 90%, and the difference with professional fingering is no more than 3%. The data show that the proposed method can realize the AG of Erhu fingering well. This study aims to provide assistance in music and fingering teaching for Erhu course education, and also to offer some reference for other courses in the field of music teaching.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2796990/v1"
+    },
+    {
+        "id": 15987,
+        "title": "Monte-Carlo and Temporal-Difference for Prediction",
+        "authors": "Ashwin Rao, Tikhon Jelvis",
+        "published": "2022-10-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003229193-11"
+    },
+    {
+        "id": 15988,
+        "title": "Stochastic Temporal Difference Learning for Sequence Data",
+        "authors": "Jen-Tzung Chien, Yi-Chung Chiu",
+        "published": "2021-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9534155"
+    },
+    {
+        "id": 15989,
+        "title": "Linear Observer Learning by Temporal Difference",
+        "authors": "Stefano Menchetti, Mario Zanon, Alberto Bemporad",
+        "published": "2022-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cdc51059.2022.9992369"
+    },
+    {
+        "id": 15990,
+        "title": "Monte-Carlo and Temporal-Difference for Control",
+        "authors": "Ashwin Rao, Tikhon Jelvis",
+        "published": "2022-10-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003229193-12"
+    },
+    {
+        "id": 15991,
+        "title": "Model-Free Indirect RL: Temporal Difference",
+        "authors": "Shengbo Eben Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-7784-8_4"
+    },
+    {
+        "id": 15992,
+        "title": "Encrypted Value Iteration and Temporal Difference Learning over Leveled Homomorphic Encryption",
+        "authors": "Jihoon Suh, Takashi Tanaka",
+        "published": "2021-5-25",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/acc50511.2021.9483184"
+    },
+    {
+        "id": 15993,
+        "title": "Correlation minimizing replay memory in temporal-difference reinforcement learning",
+        "authors": "Mirza Ramicic, Andrea Bonarini",
+        "published": "2020-6",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2020.02.004"
+    },
+    {
+        "id": 15994,
+        "title": "Temporal Legacies: What Difference Does Time Make?",
+        "authors": "Sarit Kattan Gribetz",
+        "published": "2020-11-17",
+        "citations": 0,
+        "abstract": "This concluding chapter outlines how select groups of later Jews adopted and adapted the rabbinic concerns about time to their present circumstances, and the lasting legacy of these time frames and the differences they constructed on the history of Judaism and Jewish life. Among the legacies of rabbinic texts are the rhythms of time they dictated, which persisted (and persist): the annual calendar and its festivals, the week and its Sabbath, the day and its ritual schedule, the hour and its symbolism. Another legacy of rabbinic texts are the various configurations of difference — ethnic, communal, gendered, and theological — that their laws, rituals, and narratives constructed and cultivated. The central claim of this book has been that conceptions of time and practices of time-keeping can (and often do) function as mechanisms for constructing as well as challenging difference, even as, with the passage of time, such constructions of time and difference are reimagined. The examples and analyses presented in the previous chapters sought to demonstrate the various ways in which specific rabbinic times and differences were intertwined and mutually constitutive as well as to highlight the complexity of multiple times and the consequences of conflicting modes of time-keeping.",
+        "link": "http://dx.doi.org/10.23943/princeton/9780691192857.003.0006"
+    },
+    {
+        "id": 15995,
+        "title": "Bayesian Multi-Temporal-Difference Learning",
+        "authors": "Jen-Tzung Chien, Yi-Chung Chiu",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1561/116.00000037"
+    },
+    {
+        "id": 15996,
+        "title": "Discerning Temporal Difference Learning",
+        "authors": "Jianfei Ma",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Temporal difference learning (TD) is a foundational concept in reinforcement learning (RL), aimed at efficiently assessing a policy's value function. TD(λ), a potent variant, incorporates a memory trace to distribute the prediction error into the historical context. However, this approach often neglects the significance of historical states and the relative importance of propagating the TD error, influenced by challenges such as visitation imbalance or outcome noise. To address this, we propose a novel TD algorithm named discerning TD learning (DTD), which allows flexible emphasis functions—predetermined or adapted during training—to allocate efforts effectively across states. We establish the convergence properties of our method within a specific class of emphasis functions and showcase its promising potential for adaptation to deep RL contexts. Empirical results underscore that employing a judicious emphasis function not only improves value estimation but also expedites learning across diverse scenarios.",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i13.29335"
+    },
+    {
+        "id": 15997,
+        "title": "Source Traces for Temporal Difference Learning",
+        "authors": "Silviu Pitis",
+        "published": "2018-4-29",
+        "citations": 2,
+        "abstract": "\n      \n        This paper motivates and develops source traces for temporal difference (TD) learning in the tabular setting. Source traces are like eligibility traces, but model potential histories rather than immediate ones. This allows TD errors to be propagated to potential causal states and leads to faster generalization. Source traces can be thought of as the model-based, backward view of successor representations (SR), and share many of the same benefits. This view, however, suggests several new ideas. First, a TD(λ)-like source learning algorithm is proposed and its convergence is proven. Then, a novel algorithm for learning the source map (or SR matrix) is developed and shown to outperform the previous algorithm. Finally, various approaches to using the source/SR model are explored, and it is shown that source traces can be effectively combined with other model-based methods like Dyna and experience replay.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v32i1.11813"
+    },
+    {
+        "id": 15998,
+        "title": "'PyTDL': A Versatile Toolkit of Temporal Difference Learning Algorithm to Simulate Behavior Process of Decision Making and Cognitive Learning",
+        "authors": "Qiyun Wu, Xiaodan Yang, Kaishu Wang, Jiejunyi Liang, Yunyun Han",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4741097"
+    },
+    {
+        "id": 15999,
+        "title": "Exploiting Distributional Temporal Difference Learning to Deal with Tail Risk",
+        "authors": "Peter Bossaerts, Shijie Huang, Nitin Yadav",
+        "published": "2020-10-26",
+        "citations": 0,
+        "abstract": "In traditional Reinforcement Learning (RL), agents learn to optimize actions in a dynamic context based on recursive estimation of expected values. We show that this form of machine learning fails when rewards (returns) are affected by tail risk, i.e., leptokurtosis. Here, we adapt a recent extension of RL, called distributional RL (disRL), and introduce estimation efficiency, while properly adjusting for differential impact of outliers on the two terms of the RL prediction error in the updating equations. We show that the resulting “efficient distributional RL” (e-disRL) learns much faster, and is robust once it settles on a policy. Our paper also provides a brief, nontechnical overview of machine learning, focusing on RL.",
+        "link": "http://dx.doi.org/10.3390/risks8040113"
+    },
+    {
+        "id": 16000,
+        "title": "Distributed consensus-based multi-agent temporal-difference learning",
+        "authors": "Miloš S. Stanković, Marko Beko, Srdjan S. Stanković",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.automatica.2023.110922"
+    },
+    {
+        "id": 16001,
+        "title": "A complementary learning systems approach to temporal difference learning",
+        "authors": "Sam Blakeman, Denis Mareschal",
+        "published": "2020-2",
+        "citations": 28,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2019.10.011"
+    },
+    {
+        "id": 16002,
+        "title": "Policy Evaluation and Temporal-Difference Learning in Continuous Time and Space: A Martingale Approach",
+        "authors": "Yanwei Jia, Xunyu Zhou",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3905379"
+    },
+    {
+        "id": 16003,
+        "title": "Adaptive UAV Swarm Mission Planning by Temporal Difference Learning",
+        "authors": "Shreevanth Krishnaa Gopalakrishnan, Saba Al-Rubaye, Gokhan Inalhan",
+        "published": "2021-10-3",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dasc52595.2021.9594300"
+    },
+    {
+        "id": 16004,
+        "title": "Dynamic Bus Arrival Time Prediction: A temporal difference learning approach",
+        "authors": "L. K. P. Vignesh, Avinash Achar, Gokul Karthik",
+        "published": "2020-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9207455"
+    },
+    {
+        "id": 16005,
+        "title": "Accelerated Gradient Temporal Difference Learning",
+        "authors": "Yangchen Pan, Adam White, Martha White",
+        "published": "2017-2-13",
+        "citations": 2,
+        "abstract": "\n      \n        The family of temporal difference (TD) methods span a spectrum from computationally frugal linear methods like TD(λ) to data efficient least squares methods. Least square methods make the best use of available data directly computing the TD solution and thus do not require tuning a typically highly sensitive learning rate parameter, but require quadratic computation and storage. Recent algorithmic developments have yielded several sub-quadratic methods that use an approximation to the least squares TD solution, but incur bias. In this paper, we propose a new family of accelerated gradient TD (ATD) methods that (1) provide similar data efficiency benefits to least-squares methods, at a fraction of the computation and storage (2) significantly reduce parameter sensitivity compared to linear TD methods, and (3) are asymptotically unbiased. We illustrate these claims with a proof of convergence in expectation and experiments on several benchmark domains and a large-scale industrial energy allocation domain.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v31i1.10829"
+    },
+    {
+        "id": 16006,
+        "title": "Deep Reinforcing Learning for Trading with TD(λ)",
+        "authors": "ZiHao Wang, Qiang Gao",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0011953600003612"
+    },
+    {
+        "id": 16007,
+        "title": "Temporal Difference Learning of Area Coverage Control with Multi-Agent Systems",
+        "authors": "Farzan Soleymani, Suruz Miah, Davide Spinello",
+        "published": "2022-11-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/rose56499.2022.9977412"
+    },
+    {
+        "id": 16008,
+        "title": "A Reinforcement Learning Method of Solving Markov Decision Processes: An Adaptive Exploration Model Based on Temporal Difference Error",
+        "authors": "Xianjia Wang, zhipeng yang, Guici Chen, Yanli Liu",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4531608"
+    },
+    {
+        "id": 16009,
+        "title": "Deep Reinforcement Learning by Balancing Offline Monte Carlo and Online Temporal Difference Use Based on Environment Experiences",
+        "authors": "Chayoung Kim",
+        "published": "2020-10-14",
+        "citations": 6,
+        "abstract": "Owing to the complexity involved in training an agent in a real-time environment, e.g., using the Internet of Things (IoT), reinforcement learning (RL) using a deep neural network, i.e., deep reinforcement learning (DRL) has been widely adopted on an online basis without prior knowledge and complicated reward functions. DRL can handle a symmetrical balance between bias and variance—this indicates that the RL agents are competently trained in real-world applications. The approach of the proposed model considers the combinations of basic RL algorithms with online and offline use based on the empirical balances of bias–variance. Therefore, we exploited the balance between the offline Monte Carlo (MC) technique and online temporal difference (TD) with on-policy (state-action–reward-state-action, Sarsa) and an off-policy (Q-learning) in terms of a DRL. The proposed balance of MC (offline) and TD (online) use, which is simple and applicable without a well-designed reward, is suitable for real-time online learning. We demonstrated that, for a simple control task, the balance between online and offline use without an on- and off-policy shows satisfactory results. However, in complex tasks, the results clearly indicate the effectiveness of the combined method in improving the convergence speed and performance in a deep Q-network.",
+        "link": "http://dx.doi.org/10.3390/sym12101685"
+    },
+    {
+        "id": 16010,
+        "title": "Proximal Gradient Temporal Difference Learning: Stable Reinforcement Learning with Polynomial Sample Complexity",
+        "authors": "Bo Liu, Ian Gemp, Mohammad Ghavamzadeh, Ji Liu, Sridhar Mahadevan, Marek Petrik",
+        "published": "2018-11-15",
+        "citations": 3,
+        "abstract": "\r\n\r\n\r\nIn this paper, we introduce proximal gradient temporal difference learning, which provides a principled way of designing and analyzing true stochastic gradient temporal difference learning algorithms. We show how gradient TD (GTD) reinforcement learning methods can be formally derived, not by starting from their original objective functions, as previously attempted, but rather from a primal-dual saddle-point objective function. We also conduct a saddle-point error analysis to obtain finite-sample bounds on their performance. Previous analyses of this class of algorithms use stochastic approximation techniques to prove asymptotic convergence, and do not provide any finite-sample analysis. We also propose an accelerated algorithm, called GTD2-MP, that uses proximal \"mirror maps\" to yield an improved convergence rate. The results of our theoretical analysis imply that the GTD family of algorithms are comparable and may indeed be preferred over existing least squares TD methods for off-policy learning, due to their linear complexity. We provide experimental results showing the improved performance of our accelerated gradient TD methods.\r\n\r\n\r\n",
+        "link": "http://dx.doi.org/10.1613/jair.1.11251"
+    },
+    {
+        "id": 16011,
+        "title": "Addressing the Credit Assignment Problem in Treatment Outcome Prediction using Temporal Difference Learning",
+        "authors": "Sahar Harati, Andrea Crowell, Helen Mayberg, Shamim Nemati",
+        "published": "2019-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1142/9789811215636_0005"
+    },
+    {
+        "id": 16012,
+        "title": "Monte Carlo tree search with temporal-difference learning for general video game playing",
+        "authors": "Ercument Ilhan, A. Sima Etaner-Uyar",
+        "published": "2017-8",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cig.2017.8080453"
+    },
+    {
+        "id": 16013,
+        "title": "Temporal Difference Enhancement for High-Resolution Video Frame Interpolation",
+        "authors": "Xiulei Tan, Chongwen Wang",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3587716.3587788"
+    },
+    {
+        "id": 16014,
+        "title": "A Unified Approach for Multi-step Temporal-Difference Learning with Eligibility Traces in Reinforcement Learning",
+        "authors": "Long Yang, Minhao Shi, Qian Zheng, Wenjia Meng, Gang Pan",
+        "published": "2018-7",
+        "citations": 7,
+        "abstract": "Recently, a new multi-step temporal learning algorithm Q(σ) unifies n-step Tree-Backup (when σ = 0) and \n\nn-step Sarsa (when σ = 1) by introducing a sampling parameter σ. However, similar to other multi-step \n\ntemporal-difference learning algorithms, Q(σ) needs much memory consumption and computation time. Eligibility trace is an important mechanism to transform the off-line updates into efficient on-line ones which consume less memory and computation time. In this paper, we combine the original Q(σ) with eligibility traces and propose a new algorithm, called Qπ(σ,λ), where λ is trace-decay parameter. This new algorithm unifies Sarsa(λ) (when σ = 1) and Qπ (λ) (when σ = 0). Furthermore, we give an upper error bound of Qπ(σ,λ) policy evaluation algorithm. We prove that Qπ (σ, λ) control algorithm converges to the optimal value function exponentially. We also empirically compare it with conventional temporal-difference learning methods. Results show that, with an intermediate value of σ, Qπ(σ,λ) creates a mixture of the existing algorithms which learn the optimal value significantly faster than the extreme end (σ = 0, or 1).",
+        "link": "http://dx.doi.org/10.24963/ijcai.2018/414"
+    },
+    {
+        "id": 16015,
+        "title": "A novel method-based reinforcement learning with deep temporal difference network for flexible double shop scheduling problem",
+        "authors": "Xiao Wang, Peisi Zhong, Mei Liu, Chao Zhang, Shihao Yang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThis paper studies the flexible double shop scheduling problem (FDSSP) that considers simultaneously job shop and assembly shop. It brings about the problem of scheduling association of the related tasks. To this end, a reinforcement learning algorithm with a deep temporal difference network (DTDN) is proposed to minimize the makespan. Firstly, the FDSSP is defined as the mathematical model of the flexible job-shop scheduling problem (FJSP) joined to the assembly constraint level. It is translated into a Markov Decision Process (MDP) that directly selects behavioral strategies according to historical machining state data. Secondly, the proposed ten generic state features are input into the deep neural network model to fit the state value function. Similarly, eight Simple Constructive Heuristics (SCH) are used as candidate actions for scheduling decisions. From the greedy mechanism, optimally combined actions of all machines are obtained for each decision step. Finally, a deep temporal difference reinforcement learning framework is established, and a large number of comparative experiments are designed to analyze the basic performance of this algorithm. The results showed that the proposed algorithm was better than most other methods, which contributed to solving the practical production problem of the manufacturing industry.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3810886/v1"
+    },
+    {
+        "id": 16016,
+        "title": "Comparison of Temporal Difference Learning Algorithm and Dijkstra's Algorithm for Robotic Path Planning",
+        "authors": "Devika S. Nair, P Supriya",
+        "published": "2018-6",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccons.2018.8663020"
+    },
+    {
+        "id": 16017,
+        "title": "From Reward to Histone: Combining Temporal-Difference Learning and Epigenetic Inheritance for Swarm's Coevolving Decision Making",
+        "authors": "Faqihza Mukhlish, John Page, Michael Bain",
+        "published": "2020-10-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icdl-epirob48136.2020.9278049"
+    },
+    {
+        "id": 16018,
+        "title": "Adaptive Step-Size for Online Temporal Difference Learning",
+        "authors": "William Dabney, Andrew Barto",
+        "published": "2021-9-20",
+        "citations": 3,
+        "abstract": "\n      \n        The step-size, often denoted as α, is a key parameter for most incremental learning algorithms. Its importance is especially pronounced when performing online temporal difference (TD) learning with function approximation. Several methods have been developed to adapt the step-size online. These range from straightforward back-off strategies to adaptive algorithms based on gradient descent. We derive an adaptive upper bound on the step-size parameter to guarantee that online TD learning with linear function approximation will not diverge. We then empirically evaluate algorithms using this upper bound as a heuristic for adapting the step-size parameter online. We compare performance with related work including HL(λ) and Autostep. Our results show that this adaptive upper bound heuristic out-performs all existing methods without requiring any meta-parameters. This effectively eliminates the need to tune the learning rate of temporal difference learning with linear function approximation.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v26i1.8313"
+    },
+    {
+        "id": 16019,
+        "title": "Conclusion: Temporal Legacies: What Difference Does Time Make",
+        "authors": "",
+        "published": "2020-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1515/9780691209807-007"
+    },
+    {
+        "id": 16020,
+        "title": "TD 2814 - Previsão de inflação : análise preliminar de desempenho de técnicas de Machine Learning",
+        "authors": "Francisco Luna Santos, Izabel Nolau",
+        "published": "2022-11-23",
+        "citations": 0,
+        "abstract": "Neste Texto para Discussão testamos diversos modelos de previsão de inflação e da atividade econômica brasileira, a partir de dados macroeconômicos e estimativas de especialistas, referentes ao período entre janeiro de 2002 e outubro de 2019, com frequência mensal. Devido à alta dimensão do conjunto de variáveis explicativas, nos concentramos em modelos associados à técnica de machine learning (ML) que oferecem diferentes abordagens para lidar com grandes conjuntos de dados e os comparamos com modelos de referência. Nossos resultados indicam que, para horizontes de previsão de curto prazo (um e três meses), os métodos de ML melhoram substancialmente as previsões de inflação. Para o horizonte de um mês, o Least Absolute Shrinkage and Selection Operator (Lasso) é o método com melhor desempenho, e a combinação dos melhores modelos de ML por horizonte é o destaque para o horizonte de três meses. No entanto, para horizontes de previsão mais longos (seis meses e doze meses), os modelos de ML e suas combinações não superam as expectativas de especialistas, ainda que as combinações de métodos de ML superem as metodologias tradicionais. Na previsão para o produto interno bruto (PIB), ocorre o contrário. Os modelos de ML não têm desempenho satisfatório para o horizonte mais curto, mas as combinações (horizonte de três e doze meses) e o complete subset regression (CSR) (horizonte de seis meses) superam os modelos tradicionais.",
+        "link": "http://dx.doi.org/10.38116/td2814"
+    },
+    {
+        "id": 16021,
+        "title": "Motor Cortex Encodes A Temporal Difference Reinforcement Learning Process",
+        "authors": "Venkata S Aditya Tarigoppula, John S Choi, John P Hessburg, David B McNiel, Brandi T Marsh, Joseph T Francis",
+        "published": "No Date",
+        "citations": 7,
+        "abstract": "AbstractTemporal difference reinforcement learning (TDRL) accurately models associative learning observed in animals, where they learn to associate outcome predicting environmental states, termed conditioned stimuli (CS), with the value of outcomes, such as rewards, termed unconditioned stimuli (US). A component of TDRL is the value function, which captures the expected cumulative future reward from a given state. The value function can be modified by changes in the animal’s knowledge, such as by the predictability of its environment. Here we show that primary motor cortical (M1) neurodynamics reflect a TD learning process, encoding a state value function and reward prediction error in line with TDRL. M1 responds to the delivery of reward, and shifts its value related response earlier in a trial, becoming predictive of an expected reward, when reward is predictable due to a CS. This is observed in tasks performed manually or observed passively, as well as in tasks without an explicit CS predicting reward, but simply with a predictable temporal structure, that is a predictable environment. M1 also encodes the expected reward value associated with a set of CS in a multiple reward level CS-US task. Here we extend the Microstimulus TDRL model, reported to accurately capture RL related dopaminergic activity, to account for M1 reward related neural activity in a multitude of tasks.Significance statementThere is a great deal of agreement between aspects of temporal difference reinforcement learning (TDRL) models and neural activity in dopaminergic brain centers. Dopamine is know to be necessary for sensorimotor learning induced synaptic plasticity in the motor cortex (M1), and thus one might expect to see the hallmarks of TDRL in M1, which we show here in the form of a state value function and reward prediction error during. We see these hallmarks even when a conditioned stimulus is not available, but the environment is predictable, during manual tasks with agency, as well as observational tasks without agency. This information has implications towards autonomously updating brain machine interfaces as others and we have proposed and published on.",
+        "link": "http://dx.doi.org/10.1101/257337"
+    },
+    {
+        "id": 16022,
+        "title": "A temporal difference method for multi-objective reinforcement learning",
+        "authors": "Manuela Ruiz-Montiel, Lawrence Mandow, José-Luis Pérez-de-la-Cruz",
+        "published": "2017-11",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2016.10.100"
+    },
+    {
+        "id": 16023,
+        "title": "Particle swarm optimization based on temporal-difference learning for solving multi-objective optimization problems",
+        "authors": "Desong Zhang, Guangyu Zhu",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00607-023-01166-w"
+    },
+    {
+        "id": 16024,
+        "title": "Gaussian Process Temporal-Difference Learning with Scalability and Worst-Case Performance Guarantees",
+        "authors": "Qin Lu, Georgios B. Giannakis",
+        "published": "2021-6-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp39728.2021.9414667"
+    },
+    {
+        "id": 16025,
+        "title": "Temporal Difference Learning Based Critical Component Identifying Method with Cascading Failure Data in Power Systems",
+        "authors": "Linzhi Li, Hao Wu, Yonghua Song",
+        "published": "2018-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pesgm.2018.8586590"
+    },
+    {
+        "id": 16026,
+        "title": "Gradient compensation traces based temporal difference learning",
+        "authors": "Wang Bi, Li Xuelian, Gao Zhiqiang, Chen Yang",
+        "published": "2021-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2021.02.042"
+    },
+    {
+        "id": 16027,
+        "title": "Comparison of SARSA algorithm and Temporal Difference Learning Algorithm for Robotic Path Planning for Static Obstacles",
+        "authors": "Laya Harwin, Supriya P.",
+        "published": "2019-1",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icisc44355.2019.9036354"
+    },
+    {
+        "id": 16028,
+        "title": "Reinforcement Learning: From TD(0) to Deep-Q-Learning",
+        "authors": "Miroslav Kubat",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-81935-4_18"
+    },
+    {
+        "id": 16029,
+        "title": "Off-policy temporal difference learning with distribution adaptation in fast mixing chains",
+        "authors": "Arash Givchi, Maziar Palhang",
+        "published": "2018-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00500-017-2490-1"
+    },
+    {
+        "id": 16030,
+        "title": "TD-Gammon",
+        "authors": "",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_813"
+    },
+    {
+        "id": 16031,
+        "title": "Concentration bounds for temporal difference learning with linear function approximation: the case of batch data and uniform sampling",
+        "authors": "L. A. Prashanth, Nathaniel Korda, Rémi Munos",
+        "published": "2021-3",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10994-020-05912-5"
+    },
+    {
+        "id": 16032,
+        "title": "CONCLUSION:",
+        "authors": "",
+        "published": "2020-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2307/j.ctv11vcdsx.9"
+    },
+    {
+        "id": 16033,
+        "title": "Double-State-Temporal Difference Learning for Resource Provisioning in Uncertain Fog Computing Environment",
+        "authors": "Bhargavi Krishna Murthy, Sajjan G Shiva",
+        "published": "2021-10-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iemcon53756.2021.9623085"
+    },
+    {
+        "id": 16034,
+        "title": "Online attentive kernel-based temporal difference learning",
+        "authors": "Xingguo Chen, Guang Yang, Shangdong Yang, Huihui Wang, Shaokang Dong, Yang Gao",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110902"
+    },
+    {
+        "id": 16035,
+        "title": "Model-Free Temporal Difference Learning for Non-Zero-Sum Games",
+        "authors": "Liming Wang, Yongliang Yang, Dawei Ding, Yixin Yin, Zhishan Guo, Donald C. Wunsch",
+        "published": "2019-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn.2019.8851866"
+    },
+    {
+        "id": 16036,
+        "title": "Ordinal Position Based Nonlinear Normalization Method in Temporal-Difference Reinforced Learning",
+        "authors": "Du Runle, Liu Jiaqi, Wang Yonghai, Jiang Zhiye, Zhou Di",
+        "published": "2021-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmae52228.2021.9522465"
+    },
+    {
+        "id": 16037,
+        "title": "Short-term memory ability of reservoir-based temporal difference learning model",
+        "authors": "Yu Yoshino, Yuichi Katori",
+        "published": "2022",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1587/nolta.13.203"
+    },
+    {
+        "id": 16038,
+        "title": "Deep Distributional Temporal Difference Learning for Game Playing",
+        "authors": "Frej Berglind, Jianhua Chen, Alexandros Sopasakis",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-67148-8_14"
+    },
+    {
+        "id": 16039,
+        "title": "Temporal Difference Rewards for End-to-end Vision-based Active Robot Tracking using Deep Reinforcement Learning",
+        "authors": "Pavlos Tiritiris, Nikolaos Passalis, Anastasios Tefas",
+        "published": "2021-8-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icetci51973.2021.9574071"
+    },
+    {
+        "id": 16040,
+        "title": "Temporal-Difference Learning With Sampling Baseline for Image Captioning",
+        "authors": "Hui Chen, Guiguang Ding, Sicheng Zhao, Jungong Han",
+        "published": "2018-4-27",
+        "citations": 13,
+        "abstract": "\n      \n        The existing methods for image captioning usually train the language model under the cross entropy loss, which results in the exposure bias and inconsistency of evaluation metric. Recent research has shown these two issues can be well addressed by policy gradient method in reinforcement learning domain attributable to its unique capability of directly optimizing the discrete and non-differentiable evaluation metric. In this paper, we utilize reinforcement learning method to train the image captioning model. Specifically, we train our image captioning model to maximize the overall reward of the sentences by adopting the temporal-difference (TD) learning method, which takes the correlation between temporally successive actions into account. In this way, we assign different values to different words in one sampled sentence by a discounted coefficient when back-propagating the gradient with the REINFORCE algorithm, enabling the correlation between actions to be learned. Besides, instead of estimating a \"baseline\" to normalize the rewards with another network, we utilize the reward of another Monte-Carlo sample as the \"baseline\" to avoid high variance. We show that our proposed method can improve the quality of generated captions and outperforms the state-of-the-art methods on the benchmark dataset MS COCO in terms of seven evaluation metrics.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v32i1.12263"
+    },
+    {
+        "id": 16041,
+        "title": "Distributed Gradient Temporal Difference Off-policy Learning With Eligibility Traces: Weak Convergence",
+        "authors": "Miloš S. Stanković, Marko Beko, Srdjan S. Stanković",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2020.12.2184"
+    },
+    {
+        "id": 16042,
+        "title": "Reinforcement Learning: Computing the Temporal Difference of Values via Distinct Corticostriatal Pathways",
+        "authors": "Kenji Morita, Mieko Morishima, Katsuyuki Sakai, Yasuo Kawaguchi",
+        "published": "2017-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.tins.2017.05.006"
+    },
+    {
+        "id": 16043,
+        "title": "MA-TDMPC: Multi-Agent Temporal Difference for Model Predictive Control",
+        "authors": "Rongxiao Wang, Xiaotian Hao, Yanghe Feng, Jincai Huang, Pengfei Zhang",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mlccim60412.2023.00043"
+    },
+    {
+        "id": 16044,
+        "title": "Measuring Semantic Orientation of Words using Temporal Difference Learning",
+        "authors": "Youngsam Kim, Hyopil Shin",
+        "published": "2018-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5626/jok.2018.45.12.1287"
+    },
+    {
+        "id": 16045,
+        "title": "A Finite Time Analysis of Temporal Difference Learning with Linear Function Approximation",
+        "authors": "Jalaj Bhandari, Daniel Russo, Raghav Singal",
+        "published": "2021-5",
+        "citations": 17,
+        "abstract": " Temporal difference learning (TD) is a simple iterative algorithm widely used for policy evaluation in Markov reward processes. Bhandari et al. prove finite time convergence rates for TD learning with linear function approximation. The analysis follows using a key insight that establishes rigorous connections between TD updates and those of online gradient descent. In a model where observations are corrupted by i.i.d. noise, convergence results for TD follow by essentially mirroring the analysis for online gradient descent. Using an information-theoretic technique, the authors also provide results for the case when TD is applied to a single Markovian data stream where the algorithm’s updates can be severely biased. Their analysis seamlessly extends to the study of TD learning with eligibility traces and Q-learning for high-dimensional optimal stopping problems. ",
+        "link": "http://dx.doi.org/10.1287/opre.2020.2024"
+    },
+    {
+        "id": 16046,
+        "title": "A Reinforcement Learning Method of Solving Markov Decision Processes: An Adaptive Exploration Model Based on Temporal Difference Error",
+        "authors": "Xianjia Wang, Zhipeng Yang, Guici Chen, Yanli Liu",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "Traditional backward recursion methods face a fundamental challenge in solving Markov Decision Processes (MDP), where there exists a contradiction between the need for knowledge of optimal expected payoffs and the inability to acquire such knowledge during the decision-making process. To address this challenge and strike a reasonable balance between exploration and exploitation in the decision process, this paper proposes a novel model known as Temporal Error-based Adaptive Exploration (TEAE). Leveraging reinforcement learning techniques, TEAE overcomes the limitations of traditional MDP solving methods. TEAE exhibits dynamic adjustment of exploration probabilities based on the agent’s performance, on the one hand. On the other hand, TEAE approximates the optimal expected payoff function for subprocesses after specific states and times by integrating deep convolutional neural networks to minimize the temporal difference error between the dual networks. Furthermore, the paper extends TEAE to DQN-PER and DDQN-PER methods, resulting in DQN-PER-TEAE and DDQN-PER-TEAE variants, which not only demonstrate the generality and compatibility of the TEAE model with existing reinforcement learning techniques but also validate the practicality and applicability of the proposed approach in a broader MDP reinforcement learning context. To further validate the effectiveness of TEAE, the paper conducts a comprehensive evaluation using multiple metrics, compares its performance with other MDP reinforcement learning methods, and conducts case studies. Ultimately, simulation results and case analyses consistently indicate that TEAE exhibits higher efficiency, highlighting its potential in driving advancements in the field.",
+        "link": "http://dx.doi.org/10.3390/electronics12194176"
+    },
+    {
+        "id": 16047,
+        "title": "Deep learning landslide extraction based on multi-temporal image difference local spatial information",
+        "authors": "Sheng Miao, Yu Qu, Xirong Liu",
+        "published": "2023-6-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.2681307"
+    },
+    {
+        "id": 16048,
+        "title": "Dynamic Functional Split Selection in Energy Harvesting Virtual Small Cells Using Temporal Difference Learning",
+        "authors": "Dagnachew A. Temesgene, Marco Miozzo, Paolo Dini",
+        "published": "2018-9",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pimrc.2018.8580970"
+    },
+    {
+        "id": 16049,
+        "title": "Learning temporal difference embeddings for biomedical hypothesis generation",
+        "authors": "Huiwei Zhou, Haibin Jiang, Weihong Yao, Xun Du",
+        "published": "2022-11-30",
+        "citations": 3,
+        "abstract": "Abstract\n\nMotivation\nHypothesis generation (HG) refers to the discovery of meaningful implicit connections between disjoint scientific terms, which is of great significance for drug discovery, prediction of drug side effects and precision treatment. More recently, a few initial studies attempt to model the dynamic meaning of the terms or term pairs for HG. However, most existing methods still fail to accurately capture and utilize the dynamic evolution of scientific term relations.\n\n\nResults\nThis article proposes a novel temporal difference embedding (TDE) learning framework to model the temporal difference information evolution of term-pair relations for predicting future interactions. Specifically, the HG problem is formulated as a future connectivity prediction task on a temporal sequence of a dynamic attributed graph. Our approach models both the local neighbor changes of the term-pairs and the changes of the global graph structure over time, learning local and global TDE of node-pairs, respectively. Future term-pair relations can be inferred in a recurrent network based on the local and global TDE. Experiments on three real-world biomedical term relationship datasets show the effectiveness and superiority of the proposed approach.\n\n\nAvailability and implementation\nThe data and source codes related to TDE are publicly available at https://github.com/Huiweizhou/TDE.\n\n\nSupplementary information\nSupplementary data are available at Bioinformatics online.\n",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btac660"
+    },
+    {
+        "id": 16050,
+        "title": "Distributed multi-agent temporal-difference learning with full neighbor information",
+        "authors": "Zhinan Peng, Jiangping Hu, Rui Luo, Bijoy K. Ghosh",
+        "published": "2020-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11768-020-00016-w"
+    },
+    {
+        "id": 16051,
+        "title": "Deterministic limit of temporal difference reinforcement learning for stochastic games",
+        "authors": "Wolfram Barfuss, Jonathan F. Donges, Jürgen Kurths",
+        "published": "2019-4-10",
+        "citations": 30,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1103/physreve.99.043305"
+    },
+    {
+        "id": 16052,
+        "title": "Sustainable ℓ&lt;inf&gt;2&lt;/inf&gt;-regularized actor-critic based on recursive least-squares temporal difference learning",
+        "authors": "Luntong Li, Dazi Li, Tianheng Song",
+        "published": "2017-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/smc.2017.8122892"
+    },
+    {
+        "id": 16053,
+        "title": "A Fast Technique for Smart Home Management: ADP With Temporal Difference Learning",
+        "authors": "Chanaka Keerthisinghe, Gregor Verbic, Archie C. Chapman",
+        "published": "2018-7",
+        "citations": 88,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tsg.2016.2629470"
+    },
+    {
+        "id": 16054,
+        "title": "INTEGRATION OF QUANTITATIVE PHASE SPATIAL AND TEMPORAL FLUCTUATIONS IN COHERENT MICROSCOPY",
+        "authors": "P.  A. Semin, S. A. Mikaeva",
+        "published": "2022-11",
+        "citations": 0,
+        "abstract": "The work is devoted to the consideration of a new approach to the classification of living cells, which combines spatial and temporal fluctuations, quantitative indicators of the optical thickness of the cell, obtained using phase dynamic imaging. Five different indicators were used to evaluate the various methods: accuracy, sensitivity, specificity, reliability and statistical index (AUC). Various architectures were considered: single-path ResNet, two-way ResNet and three-way ResNet. The methods of early and late fusion were also compared using various indicators: morphology, a map of spatio-temporal fluctuations and/or a two-channel input. Combining morphology and spatial-temporal fluctuations map (triple path model) improves results from 85 % (morphology only) to 89 % (combining morphology and spatial-temporal fluctuations).",
+        "link": "http://dx.doi.org/10.14489/td.2022.11.pp.046-051"
+    },
+    {
+        "id": 16055,
+        "title": "Temporal Difference and Density-Based Learning Method Applied for Deforestation Detection Using ALOS-2/PALSAR-2",
+        "authors": "Irene Erlyn Wina Rachmawan, Takeo Tadono, Masato Hayashi, Yasushi Kiyoki",
+        "published": "2018-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/igarss.2018.8518412"
+    },
+    {
+        "id": 16056,
+        "title": "TD Based Unsupervised FE",
+        "authors": "Y-h. Taguchi",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-22456-1_5"
+    },
+    {
+        "id": 16057,
+        "title": "Temporal difference thresholds and repetitive stimulation: Can click trains improve temporal sensitivity?",
+        "authors": "Emily A. Williams, Ruth Ogden, Andrew James Stewart, Luke Anthony Jones",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Trains of auditory clicks increase subsequent judgements of stimulus duration by approximately 10%. Scalar timing theory suggests this is due to a 10% increase in pacemaker rate, a main component of the internal clock. The effect has been demonstrated in many timing tasks, including verbal estimation, temporal generalisation, and temporal bisection. However, the effect of click trains has yet to be examined on temporal sensitivity, commonly measured by temporal difference thresholds. We sought to investigate this both experimentally; where we found no significant increase in temporal sensitivity, and computationally; by modelling the temporal difference threshold task according to scalar timing theory. Our experimental null result presented three possibilities which we investigated by simulating a 10% increase in pacemaker rate in a newly-created scalar timing theory model of thresholds. We found that a 10% increase in pacemaker rate led to a significant improvement in temporal sensitivity in only 8.66% of 10,000 simulations. When a 74% increase in pacemaker rate was modelled to simulate the filled-duration illusion, temporal sensitivity was significantly improved in 55.36% of simulations. Therefore, scalar timing theory does predict improved temporal sensitivity for a faster pacemaker, but the effect of click trains (a supposed 10% increase) appears to be too small to be reliably found in the temporal difference threshold task.",
+        "link": "http://dx.doi.org/10.31234/osf.io/8hkmt"
+    },
+    {
+        "id": 16058,
+        "title": "Hybrid Training Strategies: Improving Performance of Temporal Difference Learning in Board Games",
+        "authors": "Jesús Fernández-Conde, Pedro Cuenca-Jiménez, José M. Cañas",
+        "published": "2022-3-10",
+        "citations": 0,
+        "abstract": "Temporal difference (TD) learning is a well-known approach for training automated players in board games with a limited number of potential states through autonomous play. Because of its directness, TD learning has become widespread, but certain critical difficulties must be solved in order for it to be effective. It is impractical to train an artificial intelligence (AI) agent against a random player since it takes millions of games for the agent to learn to play intelligently. Training the agent against a methodical player, on the other hand, is not an option owing to a lack of exploration. This article describes and examines a variety of hybrid training procedures for a TD-based automated player that combines randomness with specified plays in a predetermined ratio. We provide simulation results for the famous tic-tac-toe and Connect-4 board games, in which one of the studied training strategies significantly surpasses the other options. On average, it takes fewer than 100,000 games of training for an agent taught using this approach to act as a flawless player in tic-tac-toe.",
+        "link": "http://dx.doi.org/10.3390/app12062854"
+    },
+    {
+        "id": 16059,
+        "title": "Kernel Temporal Difference based Reinforcement Learning for Brain Machine Interfaces",
+        "authors": "Xiang Shen, Xiang Zhang, Yiwen Wang",
+        "published": "2021-11-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/embc46164.2021.9631086"
+    },
+    {
+        "id": 16060,
+        "title": "Fixed-Horizon Temporal Difference Methods for Stable Reinforcement Learning",
+        "authors": "Kristopher De Asis, Alan Chan, Silviu Pitis, Richard Sutton, Daniel Graves",
+        "published": "2020-4-3",
+        "citations": 7,
+        "abstract": "We explore fixed-horizon temporal difference (TD) methods, reinforcement learning algorithms for a new kind of value function that predicts the sum of rewards over a fixed number of future time steps. To learn the value function for horizon h, these algorithms bootstrap from the value function for horizon h−1, or some shorter horizon. Because no value function bootstraps from itself, fixed-horizon methods are immune to the stability problems that plague other off-policy TD methods using function approximation (also known as “the deadly triad”). Although fixed-horizon methods require the storage of additional value functions, this gives the agent additional predictive power, while the added complexity can be substantially reduced via parallel updates, shared weights, and n-step bootstrapping. We show how to use fixed-horizon value functions to solve reinforcement learning problems competitively with methods such as Q-learning that learn conventional value functions. We also prove convergence of fixed-horizon temporal difference methods with linear and general function approximation. Taken together, our results establish fixed-horizon TD methods as a viable new way of avoiding the stability problems of the deadly triad.",
+        "link": "http://dx.doi.org/10.1609/aaai.v34i04.5784"
+    },
+    {
+        "id": 16061,
+        "title": "Temporal Difference Learning Model for TCP End-To-End Congestion Control in Heterogeneous Wireless Networks",
+        "authors": "Rahul Pradeep, Akhil Babu, Midhula K S, Arun Raj Kumar Parthiban",
+        "published": "2021-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icccnt51525.2021.9579892"
+    },
+    {
+        "id": 16062,
+        "title": "Exponential TD Learning: A Risk-Sensitive Actor-Critic Reinforcement Learning Algorithm",
+        "authors": "Erfaun Noorani, Christos N. Mavridis, John S. Baras",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156626"
+    },
+    {
+        "id": 16063,
+        "title": "Prologue",
+        "authors": "",
+        "published": "2020-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108677431.001"
+    },
+    {
+        "id": 16064,
+        "title": "Recursive least-squares temporal difference learning for adaptive traffic signal control at intersection",
+        "authors": "Biao Yin, Mahjoub Dridi, Abdellah El Moudni",
+        "published": "2019-2",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00521-017-3066-9"
+    },
+    {
+        "id": 16065,
+        "title": "Blended learning en la Educación Superior: Biología",
+        "authors": "Carol Galindo Ponce",
+        "published": "2022-7-28",
+        "citations": 0,
+        "abstract": "En el presente estudio revisó la literatura de los últimos seis años referente al Blended Learning (BL) aplicado en la enseñanza de la Biología en educación superior, con especial atención en los tiempos de emergencias sanitarias como la pandemia por SARS-CoV-2. Se siguió el método de búsqueda en metabuscadores utilizando el algoritmo (Blended learning) AND (biology) AND (higher education) para obtener literatura del año 2016 hasta el año 2022. La información obtenida se analizó empleando el método narrativo, donde se contrastaron distintas experiencias reportadas por los estudiantes, los profesores y las escuelas involucradas. Además de compilar los hallazgos de cada investigación, desde el tipo de investigación del que se trató, el país donde se llevó a cabo, sus objetivos planteados, el tamaño de muestra, las asignaturas donde se aplicó y los resultados que reportaron, y las ventajas y desventajas que este modelo representa al aplicarse en la enseñanza de la Biología. Se concluyó que el modelo sigue en desarrollo a nivel mundial y es aplicable como método pedagógico. Puede ser empleado para la enseñanza de cualquier asignatura en la carrera de Biología, siempre que se cuente con un buen manejo de TIC por parte del profesor y los alumnos. Además, las investigaciones al respecto son escasas para la región de América Latina.",
+        "link": "http://dx.doi.org/10.56162/transdigital120"
+    },
+    {
+        "id": 16066,
+        "title": "CTD: Cascaded Temporal Difference Learning for the Mean-Standard Deviation Shortest Path Problem",
+        "authors": "Hongliang Guo, Xuejie Hou, Qihang Peng",
+        "published": "2022-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tits.2021.3096829"
+    },
+    {
+        "id": 16067,
+        "title": "Multi-Agent Reinforcement Learning via Adaptive Kalman Temporal Difference and Successor Representation",
+        "authors": "Mohammad Salimibeni, Arash Mohammadi, Parvin Malekzadeh, Konstantinos N. Plataniotis",
+        "published": "2022-2-11",
+        "citations": 3,
+        "abstract": "Development of distributed Multi-Agent Reinforcement Learning (MARL) algorithms has attracted an increasing surge of interest lately. Generally speaking, conventional Model-Based (MB) or Model-Free (MF) RL algorithms are not directly applicable to the MARL problems due to utilization of a fixed reward model for learning the underlying value function. While Deep Neural Network (DNN)-based solutions perform well, they are still prone to overfitting, high sensitivity to parameter selection, and sample inefficiency. In this paper, an adaptive Kalman Filter (KF)-based framework is introduced as an efficient alternative to address the aforementioned problems by capitalizing on unique characteristics of KF such as uncertainty modeling and online second order learning. More specifically, the paper proposes the Multi-Agent Adaptive Kalman Temporal Difference (MAK-TD) framework and its Successor Representation-based variant, referred to as the MAK-SR. The proposed MAK-TD/SR frameworks consider the continuous nature of the action-space that is associated with high dimensional multi-agent environments and exploit Kalman Temporal Difference (KTD) to address the parameter uncertainty. The proposed MAK-TD/SR frameworks are evaluated via several experiments, which are implemented through the OpenAI Gym MARL benchmarks. In these experiments, different number of agents in cooperative, competitive, and mixed (cooperative-competitive) scenarios are utilized. The experimental results illustrate superior performance of the proposed MAK-TD/SR frameworks compared to their state-of-the-art counterparts.",
+        "link": "http://dx.doi.org/10.3390/s22041393"
+    },
+    {
+        "id": 16068,
+        "title": "Gradient temporal-difference learning for off-policy evaluation using emphatic weightings",
+        "authors": "Jiaqing Cao, Quan Liu, Fei Zhu, Qiming Fu, Shan Zhong",
+        "published": "2021-11",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ins.2021.08.082"
+    },
+    {
+        "id": 16069,
+        "title": "Provable distributed adaptive temporal-difference learning over time-varying networks",
+        "authors": "Junlong Zhu, Bing Li, Lin Wang, Mingchuan Zhang, Ling Xing, Jiangtao Xi, Qingtao Wu",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120406"
+    },
+    {
+        "id": 16070,
+        "title": "Two Time-Scale Stochastic Approximation with Controlled Markov Noise and Off-Policy Temporal-Difference Learning",
+        "authors": "Prasenjit Karmakar, Shalabh Bhatnagar",
+        "published": "2018-2",
+        "citations": 11,
+        "abstract": " We present for the first time an asymptotic convergence analysis of two time-scale stochastic approximation driven by “controlled” Markov noise. In particular, the faster and slower recursions have nonadditive controlled Markov noise components in addition to martingale difference noise. We analyze the asymptotic behavior of our framework by relating it to limiting differential inclusions in both time scales that are defined in terms of the ergodic occupation measures associated with the controlled Markov processes. Finally, we present a solution to the off-policy convergence problem for temporal-difference learning with linear function approximation, using our results. ",
+        "link": "http://dx.doi.org/10.1287/moor.2017.0855"
+    }
+]

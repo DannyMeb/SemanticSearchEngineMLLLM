@@ -1,0 +1,902 @@
+[
+    {
+        "id": 9560,
+        "title": "Speech Emotion Recognition Using ANFIS and PSO-optimization With Word2Vec",
+        "authors": "",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "Speech Emotion Recognition (SER) plays a vital role in human-computer interaction as an important branch of affective computing. Due to inconsistencies in the data and challenging signal extraction, in this paper, we propose a novel emotion recognition method based on the combination of Adaptive Neuro-Fuzzy Inference System (ANFIS) and Particle Swarm Optimization (PSO) with Word to Vector (Word2Vec) models. To begin, the inputs have been pre-processed, which comprise audio and text data. Second, the features were extracted using the Word2vec behind spectral and prosodic approaches. Finally, the features are selected using the Sequential Backward Floating Selection (SBFS) approach. In the end, the ANFIS-PSO model has been used to recognize speech emotion. A performance evaluation of the proposed algorithm is carried out on Sharif Emotional Speech Database (ShEMO). The experimental results show that the proposed algorithm has advantages in accuracy, reaching 0.873 and 0.752 in males and females, respectively, in comparison with the CNNs and SVM, MLP, RF models.",
+        "link": "http://dx.doi.org/10.33140/jns.01.01.06"
+    },
+    {
+        "id": 9561,
+        "title": "Ромашко Д.А., Медведев А.Ю. Применение word2vec в задаче кластеризации оперонов",
+        "authors": "",
+        "published": "2018-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7256/2454-0714.2018.1.25297"
+    },
+    {
+        "id": 9562,
+        "title": "Turkish News Articles Categorization Using Convolutional Neural Networks and Word2Vec",
+        "authors": "Çiğdem ACI, Adem ÇIRAK",
+        "published": "2019-7-31",
+        "citations": 24,
+        "abstract": "Bu çalışmada, Konvolüsyonel Sinir Ağları (KSA) ve Word2Vec metodu\nkullanılarak Turkish Text Classification 3600 (TTC-3600) veri kümesi üzerinde\nmetin sınıflandırma çalışması yapılmış ve aynı veri kümesi kullanılarak yapılan\nönceki çalışma ile kıyaslanmıştır. Çalışmada TTC-3600’ün ham ve Zemberek\nyazılımıyla gövdelenmiş halleri üzerinde iki farklı KSA eğitilmiş ve test\nedilmiştir. KSA ve Word2Vec metodu, klasik istatistiksel ve makine öğrenmesine\ndayalı sınıflandırma algoritmalarından daha iyi bir performans (%93,3 doğruluk)\ngöstermiştir. Türkçe doğal dil işleme çalışmalarının azlığı ve bu alandaki\nözellik çıkarma yöntemlerinin limitli olması sebebiyle, kelimelerin semantik\ndeğerlerinin önceden eğitilmiş Word2Vec ağı ile sınıflandırmaya katılabilmesi\nKSA modellerinin doğruluk değerlerini arttırmıştır.",
+        "link": "http://dx.doi.org/10.17671/gazibtd.457917"
+    },
+    {
+        "id": 9563,
+        "title": "A Method for Visual Interpretation of Word2Vec Static Vector Space",
+        "authors": "Eduard Stanislavovich Klyshinsky, V.A. Ganeeva",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "Starting its creation, static vector word models was able solving the task of finding word analogies. This task finds a vector of parallel transition that reflects a word into another one changing a property of a former word. Since the task of finding word analogies lacks of precision, researchers are trying to investigate peculiarities of vector models and corresponding semantic spaces. In this paper, we introduce a new method of visual interpretation of such models. Our method uses thematic word collections, separation of semantic space into word groups using LSA method, and visualization of results using heatmap. We found out that vector semantic space can be interpreted not only on a local level, but on the global one as well. In the former case, the resulting grouping of words depends on the text collection used for the model training. Our method is applicable for finding several top layers because of exponential decreasing of the size of a group.",
+        "link": "http://dx.doi.org/10.20948/graphicon-2022-297-303"
+    },
+    {
+        "id": 9564,
+        "title": "Algorithm for processing text data for an automatic classification problem using the word2vec method",
+        "authors": "E.N. Pavlicheva, V.P. Meshalkin, N.S. CHikunov",
+        "published": "2021-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12731/ofernio.2021.24759"
+    },
+    {
+        "id": 9565,
+        "title": "Yapay Zeka Algoritmalarindan Word2vec ile Müşteri Bildirimlerinin Kategorilendirilmesi : Categorizing Customer Notifications with an Artificial Intelligence Method Word2vec",
+        "authors": "Ali Tunc, Adem Alpaslan Altun, Sakir Tasdemir",
+        "published": "2020-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ubmk50275.2020.9219465"
+    },
+    {
+        "id": 9566,
+        "title": "Analyzing Semantic Relations of Word Vectors trained by The Word2vec Model",
+        "authors": "Hyungsuc Kang, Janghoon Yang",
+        "published": "2019-10-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5626/jok.2019.46.10.1088"
+    },
+    {
+        "id": 9567,
+        "title": "Inferring Protein Domain Semantic Roles Using word2vec",
+        "authors": "Daniel Buchan, David Jones",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, using word2vec, we demonstrate that proteins domains may have semantic “meaning” in the context of multi-domain proteins. Word2vec is a group of models which can be used to produce semantically meaningful embeddings of words or tokens in a vector space. In this work we treat multi-domain proteins as “sentences” where domain identifiers are tokens which may be considered as “words”. Using all Interpro (Finn, Attwood et al. 2017) eukaryotic proteins as a corpus of “sentences” we demonstrate that Word2vec creates functionally meaningful embeddings of protein domains. We additionally show how this can be applied to identifying the putative functional roles for Pfam (Finn, Coggill et al. 2016) Domains of Unknown Function.",
+        "link": "http://dx.doi.org/10.1101/617647"
+    },
+    {
+        "id": 9568,
+        "title": "Research and Analysis of Textual Emotion Based on Word2Vec",
+        "authors": "光花 尹",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/csa.2017.710107"
+    },
+    {
+        "id": 9569,
+        "title": "Word2vec",
+        "authors": "V Kishore Ayyadevara",
+        "published": "2018",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4842-3564-5_8"
+    },
+    {
+        "id": 9570,
+        "title": "Conversion of Standard Japanese into Young People's Words Using word2vec",
+        "authors": "Eishi Takeshita, Hiromi Takahama, Kenji Matsui",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12792/icisip2017.044"
+    },
+    {
+        "id": 9571,
+        "title": "Context-aware Sentiment Analysis on Refined Word Embeddings Word2Vec Model",
+        "authors": "Dr. Archana Sharma",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "<p>This paper proposes a model for the refining of word vectors that does not require a labelled corpus and may be applied to any pre-trained word vectors. The suggested technique employs a sentiment intensity lexicon that may offer realvalued sentiment data to rank a collection of semantically and emotionally related nearest neighbors for each word. The ranking nearest neighbors is then utilized to control the direction and distance of the refinement technique, which iteratively enhances the word vector representation of each word. Experiments using SST demonstrate that the suggested strategy outperformed conventional word embeddings and sentiment embeddings for both coarse-grained and binary sentiment categorization. In addition, the performance of several models of deep neural networks has been enhanced. In future study, the suggested approach will be evaluated on more datasets. Additionally, additional experiments will be undertaken to offer a more comprehensive study. </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.20278077.v1"
+    },
+    {
+        "id": 9572,
+        "title": "Sentiment Analysis of Short Russian Texts Using BERT and Word2Vec Embeddings",
+        "authors": "Ekaterina Popova, Vladimir Spitsyn",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "This article is devoted to modern approaches for sentiment analysis of short Russian texts from social networks using deep neural networks. Sentiment analysis is the process of detecting, extracting, and classifying opinions, sentiments, and attitudes concerning different topics expressed in texts. The importance of this topic is linked to the growth and popularity of social networks, online recommendation services, news portals, and blogs, all of which contain a significant number of people's opinions on a variety of topics. In this paper, we propose machine-learning techniques with BERT and Word2Vec embeddings for tweets sentiment analysis. Two approaches were explored: (a) a method, of word embeddings extraction and using the DNN classifier; (b) refinement of the pre-trained BERT model. As a result, the fine- tuning BERT outperformed the functional method to solving the problem.",
+        "link": "http://dx.doi.org/10.20948/graphicon-2021-3027-1011-1016"
+    },
+    {
+        "id": 9573,
+        "title": "Context-aware Sentiment Analysis on Refined Word Embeddings Word2Vec Model",
+        "authors": "Dr. Archana Sharma",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "<p>This paper proposes a model for the refining of word vectors that does not require a labelled corpus and may be applied to any pre-trained word vectors. The suggested technique employs a sentiment intensity lexicon that may offer realvalued sentiment data to rank a collection of semantically and emotionally related nearest neighbors for each word. The ranking nearest neighbors is then utilized to control the direction and distance of the refinement technique, which iteratively enhances the word vector representation of each word. Experiments using SST demonstrate that the suggested strategy outperformed conventional word embeddings and sentiment embeddings for both coarse-grained and binary sentiment categorization. In addition, the performance of several models of deep neural networks has been enhanced. In future study, the suggested approach will be evaluated on more datasets. Additionally, additional experiments will be undertaken to offer a more comprehensive study. </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.20278077"
+    },
+    {
+        "id": 9574,
+        "title": "Context-aware Music Recommendation Based on Word2Vec",
+        "authors": "",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.33969/eecs.v2.012"
+    },
+    {
+        "id": 9575,
+        "title": "Comparison of Templates with Word2vec in Finding Semantic Relations Between Words",
+        "authors": "Kaan Ant, Ugur Sogukpinar, Mehmet Fatif Amasyali",
+        "published": "2018-5-2",
+        "citations": 0,
+        "abstract": "The use of databases those containing semantic relationships between words is becoming increasingly widespread in order to make natural language processing work more effective. Instead of the word-bag approach, the suggested semantic spaces give the distances between words, but they do not express the relation types. In this study, it is shown how semantic spaces can be used to find the type of relationship and it is compared with the template method. According to the results obtained on a very large scale, while is_a and opposite are more successful for semantic spaces for relations, the approach of templates is more successful in the relation types at_location, made_of and non relational.",
+        "link": "http://dx.doi.org/10.54856/jiswa.201805007"
+    },
+    {
+        "id": 9576,
+        "title": "A Study on the Trend of Logistics Automation Based on Patent IPC Network Analysis and Word2Vec",
+        "authors": "HyeonChul Hwang, SangHwa Song",
+        "published": "2019-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.46251/innos.2019.11.14.4.235"
+    },
+    {
+        "id": 9577,
+        "title": "Augmenting word2vec with latent",
+        "authors": "Akshay Budhkar, Frank Rudzicz",
+        "published": "2019",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/n19-1414"
+    },
+    {
+        "id": 9578,
+        "title": "Performance Comparison of Word2vec and fastText Embedding Models",
+        "authors": "Hyungsuc Kang, Janghoon Yang",
+        "published": "2020-7-31",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.9728/dcs.2020.21.7.1335"
+    },
+    {
+        "id": 9579,
+        "title": "Spam Tespitinde Word2Vec ve TF-IDF Yöntemlerinin Karşılaştırılması ve Başarı Oranının Artırılması Üzerine Bir Çalışma",
+        "authors": "Burak EKİCİ, Hidayet TAKCI",
+        "published": "2021-12-31",
+        "citations": 1,
+        "abstract": "Elektronik posta, internet üzerinden gönderilen bir tür dijital mektuptur. Elektronik postalar aracılığı ile belge, resim, video, müzik gibi her türlü dosya gönderilip alınabilmektedir. Düşük maliyeti nedeniyle sıklıkla tercih edilmektedir. Elektronik postalar zaman ve para tasarrufu sağladığı için etkili bir iletişim yoludur. Düşük maliyetinden ve kullanımının kolaylığından dolayı reklam yapmak isteyenler tarafından etkin bir şekilde kullanılmaktadır. Bunun yanında siber saldırganlar da kurbanlarına bu tür elektronik postalar göndererek onlara zarar verebilmektedirler. Bu durumların önüne geçebilmek için, günümüzde makine öğrenmesi algoritmalarıyla spam elektronik postaları sınıflayan modeller tasarlanmaktadır. Bu çalışmanın amacı da spam tespiti konusunda literatürde sıklıkla yer alan Word2Vec ve Term Frequency – Inverse Document Frequency(TF-IDF) yöntemlerinin karşılaştırılmasını Türkçe bir veri seti üzerinde yapmak ve daha önce bahsedilen veri seti üzerinde yapılan çalışmalara göre başarı oranını artırmaktır. Bu amaç doğrultusunda, daha önce yapılan çalışmalar incelendiğinde, çalışmaların genellikle İngilizce veri setleri üzerinde yoğunlaştığı görülmektedir. Bu konudaki eksiği gidermek adına, Türkçe veri seti üzerinde yapılan bu çalışmada bahsedilen özellik çıkarma yöntemlerinin karşılaştırılması yapılarak iki farklı model oluşturulmuştur. Bu modellerde farklı sınıflayıcılar da kullanılarak en etkili yöntemin öne çıkarılması hedeflenmiştir.",
+        "link": "http://dx.doi.org/10.35193/bseufbd.935247"
+    },
+    {
+        "id": 9580,
+        "title": "Research on Personalized Recommendation of Ancient Poetry Based on Word2vec Model",
+        "authors": "宗亮 刘",
+        "published": "2018",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/csa.2018.88139"
+    },
+    {
+        "id": 9581,
+        "title": "Word2Vec Based Item Vector Learning from Purchase Data",
+        "authors": "Natsuko NADOYAMA, Kazushi OKAMOTO",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3156/jsoft.29.3_579"
+    },
+    {
+        "id": 9582,
+        "title": "Long Term-short Memory Neural Networks and Word2vec for Self-admitted Technical Debt Detection",
+        "authors": "Rafael Santos, Israel Santos, Methanias Rodrigues Júnior, Manoel Neto",
+        "published": "2020",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0009796001570165"
+    },
+    {
+        "id": 9583,
+        "title": "Optimization of Word2vec Models for Korean Word Embeddings",
+        "authors": "Hyungsuc Kang, Janghoon Yang",
+        "published": "2019-4-30",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.9728/dcs.2019.20.4.825"
+    },
+    {
+        "id": 9584,
+        "title": "Clustering and Centrality of Keywords related to Solo Travel at Social Media : Using Word2Vec and Social Network Analysis",
+        "authors": "InBeom Heo,  , HeeJeong Yun",
+        "published": "2020-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18604/tmro.2020.24.2.37"
+    },
+    {
+        "id": 9585,
+        "title": "WORD2VEC- AND SEMANTIC GRAPH MODELING OF EMOTICONS AND EMOJI USE IN INTERNET COMMUNICATION TEXTS",
+        "authors": "K.I. Belousov,  , I.A. Obukhova, I.A. Labutin,  ,  ",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "The article deals with emoticons and emoji use in textual computer-mediated communication. The research material is based on comments left by users of the social networking service VK. Using machine learning methods (Word2Vec), we build a model of contextual proximity of emoji use in the comments. This model reveals a closer contextual relationship of negative-tone emoji of different types with each other. The influence of personality’s psychological parameters on the use of icons of different tonality in similar communicative situations is considered as a hypothesis that explains the greater variability in the choice of negative-tone emoji when writing similar contexts. This hypothesis was tested by using a tagged corpus of texts left by users that had passed the psychological test to determine the BFI degree. We collected automatically and analysed the comments in the information system “Semograph”. It was found that variability in the use of negative-tone types of emoticons and emoji (namely the icons with the semantics of sadness, fear, apathy and bewilderment) in the same context is more characteristic of different psychological types of personality. Conversely, positive-toned icons (namely the icons with the semantics of joy, love, thankfulness and approval) are less variable in the same context.",
+        "link": "http://dx.doi.org/10.20916/1812-3228-2023-2-47-62"
+    },
+    {
+        "id": 9586,
+        "title": "Guided Topic Modeling with Word2Vec: A Technical Note",
+        "authors": "Thomas Dangl, Stefan Salbrechter",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4575985"
+    },
+    {
+        "id": 9587,
+        "title": "GraphTar: applying word2vec and graph neural networks to miRNA target prediction",
+        "authors": "Jan Przybyszewski, Maciej Malawski, Sabina Lichołai",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBackground: MicroRNAs (miRNAs) are short, non-coding RNA molecules that regulate gene expression by binding to specific mRNAs, inhibiting their translation. They play a critical role in regulating various biological processes and are implicated in many diseases, including cardiovascular, oncological, gastrointestinal diseases, and viral infections. Computational methods that can identify potential miRNA-mRNA interactions from raw data use one-dimensional miRNA-mRNA duplex representations and simple sequence encoding techniques, which may limit their performance. \nResults: We have developed GraphTar, a new target prediction method that uses a novel graph-based representation to reflect the spatial structure of the miRNA-mRNA duplex. Unlike existing approaches, we use the word2vec method to accurately encode RNA sequence information. In conjunction with a novel, word2vec-based encoding method, we use a graph neural network classifier that can accurately predict miRNA-mRNA interactions based on graph representation learning. As part of a comparative study, we evaluate three different node embedding approaches within the GraphTar framework and compare them with other state-of-the-art target prediction methods. The results show that the proposed method achieves similar performance to the best methods in the field and outperforms them on one of the datasets. \nConclusions: In this study, a novel miRNA target prediction approach called GraphTar is introduced. Results show that GraphTar is as effective as existing methods and even outperforms them in some cases, opening new avenues for further research. However, the expansion of available datasets is critical for advancing the field towards real-world applications.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3173492/v1"
+    },
+    {
+        "id": 9588,
+        "title": "RE Data Challenge: Requirements Identification with Word2Vec and TensorFlow",
+        "authors": "Alex Dekhtyar, Vivian Fong",
+        "published": "2017-9",
+        "citations": 24,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/re.2017.26"
+    },
+    {
+        "id": 9589,
+        "title": "Classification Turkish SMS with deep learning tool Word2Vec",
+        "authors": "Onur Karasoy, Serkan Ballı",
+        "published": "2017-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ubmk.2017.8093392"
+    },
+    {
+        "id": 9590,
+        "title": "Turkish document classification based on Word2Vec and SVM classifier",
+        "authors": "Gurkan SahIn",
+        "published": "2017-5",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/siu.2017.7960552"
+    },
+    {
+        "id": 9591,
+        "title": "Word2vec Algorithm Applied to Identify Gender-Related Vocabulary Appeared in News Articles",
+        "authors": "Eun Jin Han, Hyejin Chae, Hyewon Woo, So Young Sohn",
+        "published": "2018-8-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7232/jkiie.2018.44.4.272"
+    },
+    {
+        "id": 9592,
+        "title": "Automatic synonym extraction using Word2Vec and spectral clustering",
+        "authors": "Li Zhang, Jun Li, Chao Wang",
+        "published": "2017-7",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/chicc.2017.8028251"
+    },
+    {
+        "id": 9593,
+        "title": "Interpretation of Hindi Compound Nouns Using Word2Vec Embeddings",
+        "authors": "Vandana Dwivedi, Sanjukta Ghosh",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4121850"
+    },
+    {
+        "id": 9594,
+        "title": "Word2vec semantic model and human language processing",
+        "authors": "M. Naymushin",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.58633/2305-8129_2021_1-2_47"
+    },
+    {
+        "id": 9595,
+        "title": "Indonesian Twitter Sentiment Analysis Using Word2Vec",
+        "authors": "Farhan Wahyu Kurniawan, Warih Maharani",
+        "published": "2020-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icodsa50139.2020.9212906"
+    },
+    {
+        "id": 9596,
+        "title": "Complaint Classification using Word2Vec Model",
+        "authors": "Mohit Rathore, Dikshant Gupta, Dinabandhu Bhandari",
+        "published": "2018-9-22",
+        "citations": 4,
+        "abstract": "Attempt has been made to develop a versatile, universal complaint grievance segregator by classifying orally acknowledged grievancesinto one of the predefined categories. The oral complaints are first converted to text and then each word is represented by a vector usingword2vec. Each grievance is represented by a single vector using Gated Recurrent Unit (GRU) that implements the hidden state of Recurrent Neural Network (RNN) model. The popular Multi-Layer Perceptron (MLP) has been used as the classifier to identify the categories. ",
+        "link": "http://dx.doi.org/10.14419/ijet.v7i4.5.20192"
+    },
+    {
+        "id": 9597,
+        "title": "Document Similarity Detection Using Indonesian Language Word2vec Model",
+        "authors": "Nahda Rosa Ramadhanti, Siti Mariyah",
+        "published": "2019-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icicos48119.2019.8982432"
+    },
+    {
+        "id": 9598,
+        "title": "Sentiment Analysis using Word2vec-CNN-BiLSTM Classification",
+        "authors": "Wang Yue, Lei Li",
+        "published": "2020-12-14",
+        "citations": 29,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/snams52053.2020.9336549"
+    },
+    {
+        "id": 9599,
+        "title": "Word2vec and Clustering based Twitter Sentiment Analysis",
+        "authors": "Onder Coban, Gulsah Tumuklu Ozyer",
+        "published": "2018-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/idap.2018.8620757"
+    },
+    {
+        "id": 9600,
+        "title": "Learning about Word Vector Representations and Deep Learning through Implementing Word2vec",
+        "authors": "David Jurgens",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.teachingnlp-1.19"
+    },
+    {
+        "id": 9601,
+        "title": "Sarcasm detection with glove and Word2Vec models",
+        "authors": "",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "In subtle communication, such as sarcasm, the speaker expresses the antithesis of what is indicated. The ambiguity of sarcasm is one of the biggest obstacles to its detection. Satirical language is not specifically defined. The increasing number of languages is a significant problem as well. On these websites, a large number of new slang phrases are developed each day. Therefore, it's possible that sarcasm cannot be accurately detected using the current corpus of positive and negative feelings. Additionally, users are now able to employ a variety of emoticons with text thanks to recent improvements in online social networks. The sentence could become sarcastic by using these emoticons, which can flip its polarity. Sentiment analysis' accuracy can be increased by carefully analysing and comprehending sarcastic statements. Sentiment analysis is the process of determining how people feel or what they think about a certain situation or issue and detection of sarcasm has become a part of it. A two-phase structure is used for the study article. Following the implementation of two models, GloVe and Word2Vec, we came to the conclusion as to which model is more effective at detecting sarcasm and may be used in real-time applications. The first step of the algorithm gathers features linked to moods and punctuation. In the first technique, the Word2Vec model achieves accuracy of 79.38%, and in the second way, the GloVe model achieves accuracy of 82.33%.",
+        "link": "http://dx.doi.org/10.59018/0523154"
+    },
+    {
+        "id": 9602,
+        "title": "Research on Semantic Consistency Problem Based on Word2vec",
+        "authors": "Hongman Wang, Shaoshun Kang",
+        "published": "2019-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iicspi48186.2019.9096015"
+    },
+    {
+        "id": 9603,
+        "title": "Sentiment Analysis On YouTube Comments Using Word2Vec and Random Forest",
+        "authors": "Siti Khomsah",
+        "published": "2021-3-16",
+        "citations": 5,
+        "abstract": "Purpose: This study aims to determine the accuracy of sentiment classification using the Random-Forest, and Word2Vec Skip-gram used for features extraction. Word2Vec is one of the effective methods that represent aspects of word meaning and, it helps to improve sentiment classification accuracy.Methodology: The research data consists of 31947 comments downloaded from the YouTube channel for the 2019 presidential election debate. The dataset consists of 23612 positive comments and 8335 negative comments. To avoid bias, we balance the amount of positive and negative data using oversampling. We use Skip-gram to extract features word. The Skip-gram will produce several features around the word the context (input word). Each of these features contains a weight. The feature weight of each comment is calculated by an average-based approach. Random Forest is used to building a sentiment classification model. Experiments were carried out several times with different epoch and window parameters. The performance of each model experiment was measured by cross-validation.Result: Experiments using epochs 1, 5, and 20 and window sizes of 3, 5, and 10, obtain the average accuracy of the model is 90.1% to 91%. However, the results of testing reach an accuracy between 88.77% and 89.05%. But accuracy of the model little bit lower than the accuracy model also was not significant. In the next experiment, it recommended using the number of epochs and the window size greater than twenty epochs and ten windows, so that accuracy increasing significantly.Value: The number of epoch and window sizes on the Skip-Gram affect accuracy. More and more epoch and window sizes affect increasing the accuracy.",
+        "link": "http://dx.doi.org/10.31315/telematika.v18i1.4493"
+    },
+    {
+        "id": 9604,
+        "title": "Studi Ekstraksi Fitur Data Teks Rencana  Pelaksanaan Pembelajaran Memanfaatkan Model  Word2Vec",
+        "authors": "Daniel Eliazar Latumaerissa",
+        "published": "2021-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26418/jlk.v4i2.54"
+    },
+    {
+        "id": 9605,
+        "title": "Tweet recommendation using Clustered Bert and Word2vec Models",
+        "authors": "Surbhi Kakar, Deepali Dhaka, Monica Mehrotra",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/smartnets58706.2023.10215867"
+    },
+    {
+        "id": 9606,
+        "title": "Keyword Extraction Based on word Synonyms Using WORD2VEC",
+        "authors": "Iskender Ulgen Ogul, Caner Ozcan, Ozlem Hakdagli",
+        "published": "2019-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/siu.2019.8806496"
+    },
+    {
+        "id": 9607,
+        "title": "The Classification of the Documents Based on Word2Vec and 2-Layer Self Organizing Maps",
+        "authors": "Koki Yoshioka,  , Hiroshi Dozono",
+        "published": "2018-6",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18178/ijmlc.2018.8.3.695"
+    },
+    {
+        "id": 9608,
+        "title": "Improvement Method for Topic-Based Path Model by Using Word2vec",
+        "authors": "Ryosuke Saga, Shoji Nohara",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-10-7488-2_24"
+    },
+    {
+        "id": 9609,
+        "title": "Mongolian Information Retrieval Method Based on Word2vec and Topic Model",
+        "authors": " Siriguleng",
+        "published": "2019-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iaeac47372.2019.8997588"
+    },
+    {
+        "id": 9610,
+        "title": "Using Word2Vec Recommendation for Improved Purchase Prediction",
+        "authors": "Ramazan Esmeli, Mohamed Bader-El-Den, Hassana Abdullahi",
+        "published": "2020-7",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9206871"
+    },
+    {
+        "id": 9611,
+        "title": "Clustering of banned food additives based on Word2vec",
+        "authors": "Yipeng Zhang, Xiaoli Li, Kang Wang, Yang Li",
+        "published": "2020-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ccdc49329.2020.9164430"
+    },
+    {
+        "id": 9612,
+        "title": "Text classification model based on Word2vec and SF-HAN",
+        "authors": "Zhien Li, Zhuyi Rao",
+        "published": "2020-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itoec49072.2020.9141865"
+    },
+    {
+        "id": 9613,
+        "title": "A Method of Feature Selection Based on Word2Vec in Text Categorization",
+        "authors": "Wenfeng Tian, Jun Li, Hongguang Li",
+        "published": "2018-7",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/chicc.2018.8483345"
+    },
+    {
+        "id": 9614,
+        "title": "Research paper classification based on Word2vec and community discovery",
+        "authors": "Esra Gundogan, Mehmet Kaya",
+        "published": "2020-11-8",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dasa51403.2020.9317101"
+    },
+    {
+        "id": 9615,
+        "title": "WORD2VEC AND BERT LANGUAGE MODELS USED FOR A SENTIMENT ANALYSIS OF TEXT POSTS IN SOCIAL NETWORKS",
+        "authors": "Nadezhda G. Yarushkina,  , Vadim S. Moshkin, Andrei A. Konstantinov,  ,  ",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "The paper proposes an original algorithm for the formation of a training sample for a neural network that provides a sentiment analysis of text posts in social networks. A feature of the algorithm is the use of the extended Russian-language semantic thesaurus WordNetAffect and the expert dictionary of author’s symbols for expressing emotions. In addition, the paper describes the application of a neural network based on the LSTM architecture to determine the emotional coloring of text messages on a social network using two text vectorization algorithms “word2vec” and “BERT”. As a result of the experiments, an indicator of the accuracy of determining the emotional coloring of messages of 87% was achieved using lemmatization as a text preprocessing algorithm and the BERT algorithm when converting it into a vector.",
+        "link": "http://dx.doi.org/10.35752/1991-2927-2020-3-61-60-69"
+    },
+    {
+        "id": 9616,
+        "title": "Sentence Similarity Calculating Method Based on Word2Vec and Clustering",
+        "authors": "WAN-LI SONG",
+        "published": "2020-1-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12783/dtetr/amee2019/33485"
+    },
+    {
+        "id": 9617,
+        "title": "LSTM-PHV: Prediction of human-virus protein-protein interactions by LSTM with word2vec",
+        "authors": "Sho Tsukiyama, Md Mehedi Hasan, Satoshi Fujii, Hiroyuki Kurata",
+        "published": "No Date",
+        "citations": 3,
+        "abstract": "AbstractViral infection involves a large number of protein-protein interactions (PPIs) between human and virus. The PPIs range from the initial binding of viral coat proteins to host membrane receptors to the hijacking of host transcription machinery. However, few interspecies PPIs have been identified, because experimental methods including mass spectrometry are time-consuming and expensive, and molecular dynamic simulation is limited only to the proteins whose 3D structures are solved. Sequence-based machine learning methods are expected to overcome these problems. We have first developed the LSTM model with word2vec to predict PPIs between human and virus, named LSTM-PHV, by using amino acid sequences alone. The LSTM-PHV effectively learnt the training data with a highly imbalanced ratio of positive to negative samples and achieved an AUC of 0.976 with an accuracy of 98.4% using 5-fold cross-validation. By using independent test dataset, we compared the LSTM-PHV with existing state-of-the-art PPI predictors including DeepViral. In predicting PPIs between human and unknown or new virus, the LSTM-PHV presented higher performance than the existing predictors when they were trained by multiple host protein-including datasets. LSTM-PHV learnt multiple host protein sequence contexts more efficiently than the DeepViral. Interestingly, learning of only sequence contexts as words presented remarkably high performances. Use of uniform manifold approximation and projection demonstrated that the LSTM-PHV clearly distinguished the positive PPI samples from the negative ones. We presented the LSTM-PHV online web server that is freely available at http://kurata35.bio.kyutech.ac.jp/.",
+        "link": "http://dx.doi.org/10.1101/2021.02.26.432975"
+    },
+    {
+        "id": 9618,
+        "title": "Word Semantic Similarity Calculation Based on Word2vec",
+        "authors": "Xiaolin Jin, Shuwu Zhang, Jie Liu",
+        "published": "2018-10",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccais.2018.8570612"
+    },
+    {
+        "id": 9619,
+        "title": "Context encoders as a simple but powerful extension of word2vec",
+        "authors": "Franziska Horn",
+        "published": "2017",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w17-2602"
+    },
+    {
+        "id": 9620,
+        "title": "Movie Recommendation Using Metadata Based Word2Vec Algorithm",
+        "authors": "Yeo Chan Yoon, Jun Woo Lee",
+        "published": "2018-1",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/platcon.2018.8472729"
+    },
+    {
+        "id": 9621,
+        "title": "A Personal Conversation Assistant Based on Seq2seq with Word2vec Cognitive Map",
+        "authors": "Maoyuan Shen, Runhe Huang",
+        "published": "2018-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iiai-aai.2018.00136"
+    },
+    {
+        "id": 9622,
+        "title": "A calculation cost reduction method for a log-likelihood maximization in word2vec",
+        "authors": "Sakuya Nakamura, Masaomi Kimura",
+        "published": "2019-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/iconac.2019.8895214"
+    },
+    {
+        "id": 9623,
+        "title": "Intertextuality detection in literary texts using Word2Vec models",
+        "authors": "Miruna-Stefania Barbu, Stefan Trausan-Matu",
+        "published": "2017-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icstcc.2017.8107044"
+    },
+    {
+        "id": 9624,
+        "title": "Arabic Text Keywords Extraction using Word2vec",
+        "authors": "Dima Suleiman, Arafat A. Awajan, Wael al Etaiwi",
+        "published": "2019-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictcs.2019.8923034"
+    },
+    {
+        "id": 9625,
+        "title": "Word2Vec Embeddings for Categorical Values in Synthetic Tabular Generation",
+        "authors": "Hahn Waldemar, Sedlmayr Martin, Wolfien Markus",
+        "published": "2022-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/csci58124.2022.00114"
+    },
+    {
+        "id": 9626,
+        "title": "Extracting Topics Based on Word2Vec and Improved Jaccard Similarity Coefficient",
+        "authors": "Chunzi Wu, Bai Wang",
+        "published": "2017-6",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dsc.2017.70"
+    },
+    {
+        "id": 9627,
+        "title": "Word2Vec Duplicate Bug Records Identification Prediction Using Tensorflow",
+        "authors": "Hussain Mahfoodh, Mustafa Hammad",
+        "published": "2020-12-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/3ict51146.2020.9311954"
+    },
+    {
+        "id": 9628,
+        "title": "An Analysis on the Structural Relationship Between Destination Personality and Traveler Rating with Word2Vec Technique based on Online Review Big Data",
+        "authors": "Young-Seok Sim, Hong-Bum Kim,  ",
+        "published": "2018-9-30",
+        "citations": 0,
+        "abstract": "The current study examines destination personality in a contextual semantic approach by utilizing word embedding with deep learning via Word2Vec, a neural network language model using collected online review data from Tripadvisor.com. This study tested the relationship between destination personality and traveler rating. The results show that the traits of destination personality reflect expressed affective emotion after travelers' experience, unlike existing brand personality scales that measure tangible product. Furthermore, sophistication, which is one of the dimensions of destination personality, had the most significant positive impact on the traveler rating, but ruggedness, another dimension of destination personality, appeared to have a negative effect on the traveler rating. Finally, comparing the result of the WLS regression to the OLS regression, R-squared for WLS was found to be substantially superior to that of OLS when estimating relationship by quantifying textual data.",
+        "link": "http://dx.doi.org/10.17086/jts.2018.42.8.165.189"
+    },
+    {
+        "id": 9629,
+        "title": "Research on Short Text Classification Based on Word2Vec Microblog",
+        "authors": "Zhang Rui, Han Yutai",
+        "published": "2020-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccsmt51754.2020.00042"
+    },
+    {
+        "id": 9630,
+        "title": "Sentiment Analysis for Preventing HIV Policy Comments Using Word2Vec",
+        "authors": "Patipan Rattanawin, Somkiat Kosolsombat",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccia59741.2023.00026"
+    },
+    {
+        "id": 9631,
+        "title": "Word Semantic Similarity Based on CiLin and Word2vec",
+        "authors": "Yushang Mao, Guixuan Zhang, Shuwu Zhang",
+        "published": "2020-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccst50977.2020.00065"
+    },
+    {
+        "id": 9632,
+        "title": "Encrypted Malicious Traffic Detection Based on Word2Vec",
+        "authors": "Andrey Ferriyan, Achmad Husni Thamrin, Keiji Takeda, Jun Murai",
+        "published": "2022-2-23",
+        "citations": 10,
+        "abstract": "Network-based intrusion detections become more difficult as Internet traffic is mostly encrypted. This paper introduces a method to detect encrypted malicious traffic based on the Transport Layer Security handshake and payload features without waiting for the traffic session to finish while preserving privacy. Our method, called TLS2Vec, creates words from the extracted features and uses Long Short-Term Memory (LSTM) for inference. We evaluated our method using traffic from three malicious applications and a benign application that we obtained from two publicly available datasets. Our results showed that TLS2Vec is promising as a tool to detect such malicious traffic.",
+        "link": "http://dx.doi.org/10.3390/electronics11050679"
+    },
+    {
+        "id": 9633,
+        "title": "Analisis Sentimen pada Twitter menggunakan Word Embedding dengan Pendekatan Word2Vec",
+        "authors": "Hastari Utama, Ahlihi Masruro",
+        "published": "2022-8-31",
+        "citations": 1,
+        "abstract": "In this day and age, the use of social media is familiar to some circles. The existence of social media can be analyzed for certain interests. This analysis can also be carried out for the benefit of knowing the opinions or sentiments that contain it. Therefore, a sentiment analysis is needed to get a classification of existing opinions. The use of sentiment analysis cannot be separated from the document or text representation stage. This usually takes the form of the bag of word (BOW). However, BOW has a weakness, namely it produces a lot of features so that the classification accuracy results are less than optimal. Therefore we need the Word Embedding method to represent documents in vector form. The use of this method results in fewer features so that data training time can be shorter. Apart from that, the syntax and semantics of the words that compose the tweet are also considered. So, Word Embedding produces meaningful vectors.",
+        "link": "http://dx.doi.org/10.37396/jsc.v5i2.242"
+    },
+    {
+        "id": 9634,
+        "title": "Construction Method of Sentiment Lexicon Based on Word2vec",
+        "authors": "Zhengwu Yuan, Lian Duan",
+        "published": "2019-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itaic.2019.8785471"
+    },
+    {
+        "id": 9635,
+        "title": "DroidVecDeep: Android Malware Detection Based on Word2Vec and Deep Belief Network",
+        "authors": "",
+        "published": "2019-4-30",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3837/tiis.2019.04.025"
+    },
+    {
+        "id": 9636,
+        "title": "Speech Emotion Recognition Using ANFIS and PSO-optimization With Word2Vec",
+        "authors": "vahid rezaie, Amir Parnianifard, Demostenes Zegarra Rodriguez, Shahid Mumtaz, Lunchakorn Wuttisittikulkij",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nSpeech Emotion Recognition (SER) plays a vital role in human-computer interaction as an important branch of affective computing. Due to inconsistencies in the data and challenging signal extraction, in this paper, we propose a novel emotion recognition method based on the combination of Adaptive Neuro-Fuzzy Inference System (ANFIS) and Particle Swarm Optimization (PSO) with Word to Vector (Word2Vec) models. To begin, the inputs have been pre-processed, which comprise audio and text data. Second, the features were extracted using the Word2vec behind spectral and prosodic approaches. Finally, the features are selected using the Sequential Backward Floating Selection (SBFS) approach. In the end, the ANFIS-PSO model has been used to recognize speech emotion. A performance evaluation of the proposed algorithm is carried out on Sharif Emotional Speech Database (ShEMO). The experimental results show that the proposed algorithm has advantages in accuracy, reaching 0.873 and 0.752 in males and females, respectively, in comparison with the CNNs and SVM, MLP, RF models.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1237929/v1"
+    },
+    {
+        "id": 9637,
+        "title": "Sentiment Lexicon Expansion using Word2vec and fastText for Sentiment Prediction in Tamil texts",
+        "authors": "Sajeetha Thavareesan, Sinnathamby Mahesan",
+        "published": "2020-7",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mercon50084.2020.9185369"
+    },
+    {
+        "id": 9638,
+        "title": "Evaluation of rule-based, CountVectorizer, and Word2Vec machine learning models for tweet analysis to improve disaster relief",
+        "authors": "Radhika Goyal",
+        "published": "2021-10-19",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ghtc53159.2021.9612486"
+    },
+    {
+        "id": 9639,
+        "title": "Prediction of New Drug-Side Effect Relation using Word2Vec Model-based Word Similarity",
+        "authors": "Seungsoo Lim, Hayon Lee, Youngmi Yoon",
+        "published": "2020-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.14801/jkiit.2020.18.11.25"
+    },
+    {
+        "id": 9640,
+        "title": "BlazingText",
+        "authors": "Saurabh Gupta, Vineet Khare",
+        "published": "2017-11-12",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3146347.3146354"
+    },
+    {
+        "id": 9641,
+        "title": "Semi-supervised Turkish Text Categorization with Word2Vec, Doc2Vec and FastText Algorithms",
+        "authors": "Hakkı Yağız Erdinҫ, Aysun Güran",
+        "published": "2019-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/siu.2019.8806539"
+    },
+    {
+        "id": 9642,
+        "title": "Multi-label Chinese question classification based on word2vec",
+        "authors": "Zhengyu Fan, Lei Su, Xi Liu, Shuaiyang Wang",
+        "published": "2017-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsai.2017.8248351"
+    },
+    {
+        "id": 9643,
+        "title": "An approach to detect abusive content incorporating Word2Vec and Multilayer Perceptron",
+        "authors": "Sayani Ghosal, Amita Jain, Devendra Kumar Tayal",
+        "published": "2022-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ibssc56953.2022.10037274"
+    },
+    {
+        "id": 9644,
+        "title": "A Word2vec Model for Sentiment Analysis of Weibo",
+        "authors": "Bowen Shi, Jichang Zhao, Ke Xu",
+        "published": "2019-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsssm.2019.8887652"
+    },
+    {
+        "id": 9645,
+        "title": "Efficient and accurate Word2Vec implementations in GPU and shared-memory multicore architectures",
+        "authors": "Trevor M. Simonton, Gita Alaghband",
+        "published": "2017-9",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/hpec.2017.8091076"
+    },
+    {
+        "id": 9646,
+        "title": "Issues in Visualizing Intercultural Dialogue Using Word2Vec and t-SNE",
+        "authors": "Heeryon Cho, Sang Min Yoon",
+        "published": "2017-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/culture.and.computing.2017.9"
+    },
+    {
+        "id": 9647,
+        "title": "Rekomendasi Kendaraan Roda 4 Berdasarkan Tweet Customer Menggunakan Word2Vec",
+        "authors": "Iwan Syarif, Rengga Asmara, Bagas Dewangkara",
+        "published": "2020-6-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.35314/isi.v5i1.1096"
+    },
+    {
+        "id": 9648,
+        "title": "Improving Search Result Clustering by Enriching Snippets with Word2Vec Model",
+        "authors": "Yang Nan, Li Yaping, Liu Qing",
+        "published": "2017-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wisa.2017.6"
+    },
+    {
+        "id": 9649,
+        "title": "Short text classification based on word2vec and improved TDFIDF merge weighting",
+        "authors": "Zhen Chen",
+        "published": "2019-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eitce47263.2019.9094788"
+    },
+    {
+        "id": 9650,
+        "title": "Sentiment Analyzing from Tweet Data’s Using Bag of Words and Word2Vec",
+        "authors": "Yıldız AYDIN",
+        "published": "2023-6-27",
+        "citations": 0,
+        "abstract": "Twitter sentiment classification is an artificial approach for examining textual information and figuring out what people's publicly tweets from a variety of industries are experiencing or thinking. For instance, a large number of tweets containing hashtags are posted online every minute from one user to some other user in the commercial and politics fields. It can be challenging for scientists to correctly comprehend the context in which specific tweet terms are used, necessitating a challenge in determining what is actually a positive or negative comment from the vast database of twitter data. The system's authenticity is violated by this issue and user dependability may be significantly diminished. In this study, twitter data sent to interpret movies were classified using various classifier and feature methods. In this context, the IMDB database consisting of 50000 movie reviews was used. For the purpose of anticipating the sentimental tweets for categorization, a huge proportion of twitter data is analyzed. In the proposed method, bag of words and word2vec methods are given by combining them instead of giving them separately to the classifier. With both the suggested technique, the system's effectiveness is increased and the data that are empirically obtained from the real world situation may be distinguished well. With experimental efficiency of 90%, the suggested approach algorithms' output attempts to assess the reviews tweets as well as be able to recognize movie reviews.",
+        "link": "http://dx.doi.org/10.17798/bitlisfen.1229868"
+    },
+    {
+        "id": 9651,
+        "title": "Multilingual Approach to Word Sense Disambiguation Using word2vec and Sense Embedding With Semantic Cloud",
+        "authors": "Shreya Patankar, Satish Devane",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3527381"
+    },
+    {
+        "id": 9652,
+        "title": "Classification Bullying Tweet Using Convolutional Neural Network with Word2vec",
+        "authors": " Ricko, Priyo Sidik Sasongko",
+        "published": "2021-11-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icicos53627.2021.9651842"
+    },
+    {
+        "id": 9653,
+        "title": "Analisis Sentimen Movie Review menggunakan Word2Vec dan metode LSTM Deep Learning",
+        "authors": "Widi Widayat",
+        "published": "2021-7-31",
+        "citations": 2,
+        "abstract": "The increasing number of internet users is directly in line with the increasing number of data on the internet that is available for analysis, especially data in text form. The availability of this text data encourages a lot of sentiment analysis research. However, it turns out that the availability of abundant text data is also one of the challenges in sentiment analysis research. Datasets that consist of long and complex text documents require a different approach. In this study, LSTM was chosen to be used as a sentiment classification method. This research uses a movie review dataset that consists of 25,000 review documents, with an average length per review is 233 words. The research uses CBOW and Skip-Gram methods on word2vec to form a vector representation of each word (word vector) in the corpus data. Several dimensions of the word vector was used in this research, there are 50, 60, 100, 150, 200, and 500, this tuning parameter is used to determine their effect on the resulting accuracy. The best accuracy around 88.17% is obtained at the word vector 100 dimension and the lowest accuracy is 85.86% at the word vector 500 dimension.",
+        "link": "http://dx.doi.org/10.30865/mib.v5i3.3111"
+    },
+    {
+        "id": 9654,
+        "title": "Stock Price Prediction Using BERT and Word2Vec Sentiment Analysis",
+        "authors": "",
+        "published": "2020-9-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.30534/ijeter/2020/85892020"
+    },
+    {
+        "id": 9655,
+        "title": "Malware detection using machine learning based on word2vec embeddings of machine code instructions",
+        "authors": "Igor Popov",
+        "published": "2017-4",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ssdse.2017.8071952"
+    },
+    {
+        "id": 9656,
+        "title": "Inverse Document Frequency-Weighted Word2Vec Model to Recommend Apparels",
+        "authors": "Priyanka Meel, Agniva Goswami",
+        "published": "2019-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/spin.2019.8711722"
+    },
+    {
+        "id": 9657,
+        "title": "Word2vec Word Similarities on IBM's TrueNorth Neurosynaptic System",
+        "authors": "Daniel R. Mendat, Andrew S. Cassidy, Guido Zarrella, Andreas G. Andreou",
+        "published": "2018-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/biocas.2018.8584807"
+    },
+    {
+        "id": 9658,
+        "title": "Critical Dimension of Word2Vec",
+        "authors": "Shuvayanti Das, Sohan Ghosh, Shubham Bhattacharya, Rajat Varma, Dinabandhu Bhandari",
+        "published": "2019-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iespc.2019.8902427"
+    },
+    {
+        "id": 9659,
+        "title": "A Hybrid Model of Query Expansion using Word2Vec",
+        "authors": "Abhishek Kumar Shukla, Sujoy Das",
+        "published": "2021-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tribes52498.2021.9751673"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "id": 10871,
+        "title": "Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER",
+        "authors": "Qingkai Zeng, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang",
+        "published": "2020",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.findings-emnlp.429"
+    },
+    {
+        "id": 10872,
+        "title": "Pre-Training and Fine-Tuning Attention Based Encoder Decoder Improves Sea Surface Height Multi-Variate Inpainting",
+        "authors": "Théo Archambault, Arthur Filoche, Anastase Charantonis, Dominique Béréziat",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0012357400003660"
+    },
+    {
+        "id": 10873,
+        "title": "Investigation of improving the pre-training and fine-tuning of BERT model for biomedical relation extraction",
+        "authors": "Peng Su, K. Vijay-Shanker",
+        "published": "2022-12",
+        "citations": 11,
+        "abstract": "AbstractBackgroundRecently, automatically extracting biomedical relations has been a significant subject in biomedical research due to the rapid growth of biomedical literature. Since the adaptation to the biomedical domain, the transformer-based BERT models have produced leading results on many biomedical natural language processing tasks. In this work, we will explore the approaches to improve the BERT model for relation extraction tasks in both the pre-training and fine-tuning stages of its applications. In the pre-training stage, we add another level of BERT adaptation on sub-domain data to bridge the gap between domain knowledge and task-specific knowledge. Also, we propose methods to incorporate the ignored knowledge in the last layer of BERT to improve its fine-tuning.ResultsThe experiment results demonstrate that our approaches for pre-training and fine-tuning can improve the BERT model performance. After combining the two proposed techniques, our approach outperforms the original BERT models with averaged F1 score improvement of 2.1% on relation extraction tasks. Moreover, our approach achieves state-of-the-art performance on three relation extraction benchmark datasets.ConclusionsThe extra pre-training step on sub-domain data can help the BERT model generalization on specific tasks, and our proposed fine-tuning mechanism could utilize the knowledge in the last layer of BERT to boost the model performance. Furthermore, the combination of these two approaches further improves the performance of BERT model on the relation extraction tasks.",
+        "link": "http://dx.doi.org/10.1186/s12859-022-04642-w"
+    },
+    {
+        "id": 10874,
+        "title": "Investigation of Improving The Pre-Training And Fine-Tuning of BERT Model For Biomedical Relation Extraction",
+        "authors": "Peng Su, K. Vijay-Shanker",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBackground: Recently, automatically extracting biomedical relations has been a significant subject in biomedical research due to the rapid growth of biomedical literature. Since the adaptation to the biomedical domain, the transformer-based BERT models have produced leading results on many biomedical natural language processing tasks. In this work, we will explore the approaches to improve the BERT model for relation extraction tasks in both the pre-training and fine-tuning stages of its applications. In the pre-training stage, we add another level of BERT adaptation on sub-domain data to bridge the gap between domain knowledge and task-specific knowledge. Also, we propose methods to incorporate the ignored knowledge in the last layer of BERT to improve its fine-tuning. Results: The experiment results demonstrate that our approaches for pre-training and fine-tuning can improve the BERT model performance. After combining the two proposed techniques, our approach outperforms the original BERT models with averaged F1 score improvement of 2.1% on relation extraction tasks. Moreover, our approach achieves state-of-the-art performance on three relation extraction benchmark datasets. Conclusions: The extra pre-training step on sub-domain data can help the BERT model generalization on specific tasks, and our proposed fine-tuning mechanism could utilize the knowledge in the last layer of BERT to boost the model performance. Furthermore, the combination of these two approaches further improves the performance of BERT model on the relation extraction tasks.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-640112/v1"
+    },
+    {
+        "id": 10875,
+        "title": "Style Attuned Pre-Training and Parameter Efficient Fine-Tuning for Spoken Language Understanding",
+        "authors": "Jin Cao, Jun Wang, Wael Hamza, Kelly Vanee, Shang-Wen Li",
+        "published": "2020-10-25",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2020-2907"
+    },
+    {
+        "id": 10876,
+        "title": "Robust Face Tracking Using Siamese-VGG with Pre-training and Fine-tuning",
+        "authors": "Shuo Yuan, Xinguo Yu, Abdul Majid",
+        "published": "2019-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccre.2019.8724212"
+    },
+    {
+        "id": 10877,
+        "title": "Scellseg: a style-aware cell instance segmentation tool with pre-training and contrastive fine-tuning",
+        "authors": "Dejin Xun, Deheng Chen, Yitian Zhou, Volker M. Lauschke, Rui Wang, Yi Wang",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractDeep learning-based cell segmentation is increasingly utilized in cell biology and molecular pathology, due to massive accumulation of diverse large-scale datasets and excellent progress in cell representation. However, the development of specialized algorithms has long been hampered by a paucity of annotated training data, whereas the performance of generalist algorithm was limited without experiment-specific calibration. Here, we present a deep learning-based tool called Scellseg consisted of novel pre-trained network architecture and contrastive fine-tuning strategy. In comparison to four commonly used algorithms, Scellseg outperformed others in average precision and Aggregated Jaccard Index on three disparate datasets. Interestingly, we found that eight images are sufficient for model tuning to achieve satisfied performance based on a shot data scale experiment. We also developed a graphical user interface integrated with functions of annotation, fine-tuning and inference, that allows biologists to easily specialize their self-adaptive segmentation model for analyzing images at the single-cell level.",
+        "link": "http://dx.doi.org/10.1101/2021.12.19.473392"
+    },
+    {
+        "id": 10878,
+        "title": "Output Layer Go First: Better Fine-tuning by Bridging the Gap with Pre-training",
+        "authors": "Tianxiong Xiao, Yuan Dong, Bin Dong",
+        "published": "2021-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icnlp52887.2021.00030"
+    },
+    {
+        "id": 10879,
+        "title": "Training Deep Spiking Convolutional Neural Networks With STDP-Based Unsupervised Pre-training Followed by Supervised Fine-Tuning",
+        "authors": "Chankyu Lee, Priyadarshini Panda, Gopalakrishnan Srinivasan, Kaushik Roy",
+        "published": "2018-8-3",
+        "citations": 117,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3389/fnins.2018.00435"
+    },
+    {
+        "id": 10880,
+        "title": "‘Pre-training+Fine-tuning’ Model-based 1/2 Folded Image Restoration",
+        "authors": "Huijia Song, Jiacheng Wei, Xiaozhu Lin, Huainian Zhang",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isceic59030.2023.10271228"
+    },
+    {
+        "id": 10881,
+        "title": "Matching Pre-Trained Language Models with Specific Tasks: Fine-Tuning and Prompt-Tuning Strategies",
+        "authors": "Ahmad Pouramini, Hesham Faili",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4702919"
+    },
+    {
+        "id": 10882,
+        "title": "Fine-tuning and multilingual pre-training for abstractive summarization task for the Arabic language",
+        "authors": "Mram Kahla, Attila Novák, Zijian Győző Yang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.33039/ami.2022.11.002"
+    },
+    {
+        "id": 10883,
+        "title": "NICT-5’s Submission To WAT 2021: MBART Pre-training And In-Domain Fine Tuning For Indic Languages",
+        "authors": "Raj Dabre, Abhisek Chakrabarty",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.wat-1.23"
+    },
+    {
+        "id": 10884,
+        "title": "Pre-Training and Fine-Tuning",
+        "authors": "Jindong Wang, Yiqiang Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-7584-4_8"
+    },
+    {
+        "id": 10885,
+        "title": "nanoT5: Fast &amp; Simple Pre-training and Fine-tuning of T5 Models with Limited Resources",
+        "authors": "Piotr Nawrot",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.nlposs-1.11"
+    },
+    {
+        "id": 10886,
+        "title": "Enhancing Fine-Tuning in Low Data Regime by Increasing Representation Entropy During Pre-Training Phase",
+        "authors": "Jaeill Kim, Jungwook Shin, Wonjong Rhee",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictc58733.2023.10391861"
+    },
+    {
+        "id": 10887,
+        "title": "A Modeling Method of Pre-training and Fine-tuning for Non-uniform Indoor Environment",
+        "authors": "Gang Jing, Huan Wang, Xianting Li, Chenguang Ning",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241942"
+    },
+    {
+        "id": 10888,
+        "title": "Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning",
+        "authors": "Tianlong Chen, Sijia Liu, Shiyu Chang, Yu Cheng, Lisa Amini, Zhangyang Wang",
+        "published": "2020-6",
+        "citations": 64,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr42600.2020.00078"
+    },
+    {
+        "id": 10889,
+        "title": "Pre-training Fine-tuning data Enhancement method based on active learning",
+        "authors": "Deqi Cao, Zhaoyun Ding, Fei Wang, Haoyang Ma",
+        "published": "2022-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/trustcom56396.2022.00205"
+    },
+    {
+        "id": 10890,
+        "title": "Bridging the Gap between Pre-Training and Fine-Tuning for Commonsense Generation",
+        "authors": "Haoran Yang, Yan Wang, Piji Li, Wei Bi, Wai Lam, Chen Xu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-eacl.28"
+    },
+    {
+        "id": 10891,
+        "title": "FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization",
+        "authors": "David Wan, Mohit Bansal",
+        "published": "2022",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.naacl-main.74"
+    },
+    {
+        "id": 10892,
+        "title": "Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition",
+        "authors": "Zihan Wang, Kewen Zhao, Zilong Wang, Jingbo Shang",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.findings-emnlp.232"
+    },
+    {
+        "id": 10893,
+        "title": "Russian News Similarity Detection with SBERT: pre-training and fine-tuning",
+        "authors": "A. S. Vatolin,  , E. Y Smirnova, S. S. Shkarin,  ",
+        "published": "2021-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.28995/2075-7182-2021-20-692-697"
+    },
+    {
+        "id": 10894,
+        "title": "Fine-Tuning Fine-Tuning",
+        "authors": "Yoaav Isaacs",
+        "published": "2018-3-22",
+        "citations": 10,
+        "abstract": "This chapter argues that the fine-tuning argument for the existence of God is a straightforwardly legitimate argument. The fine-tuning argument takes certain features of fundamental physics to confirm the existence of God because these features of fundamental physics are more likely given the existence of God than they are given the non-existence of God. And any such argument is straightforwardly legitimate, as such arguments follow a canonically legitimate form of empirical argumentation. The chapter explores various objections to the fine-tuning argument: that it requires an ill-defined notion of small changes in the laws of physics, that it over-generalizes, that it requires implausible presuppositions about divine intentions, and that it is debunked by anthropic reasoning. In each case it finds either that the putatively objectionable feature of the fine-tuning argument is inessential to it or that the putatively objectionable feature of the fine-tuning argument is not actually objectionable.",
+        "link": "http://dx.doi.org/10.1093/oso/9780198798705.003.0008"
+    },
+    {
+        "id": 10895,
+        "title": "Auto-conversion from Natural Language to Structured Query Language using Neural Networks Embedded with Pre-training and Fine-tuning Mechanism",
+        "authors": "Jian Liu, Qian Cui, Hongwei Cao, Tianyuan Shi, Min Zhou",
+        "published": "2020-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac51589.2020.9326898"
+    },
+    {
+        "id": 10896,
+        "title": "Revisit Few-shot Intent Classification with PLMs: Direct Fine-tuning vs. Continual Pre-training",
+        "authors": "Haode Zhang, Haowen Liang, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.706"
+    },
+    {
+        "id": 10897,
+        "title": "Improving Pre-Training and Fine-Tuning for Few-Shot SAR Automatic Target Recognition",
+        "authors": "Chao Zhang, Hongbin Dong, Baosong Deng",
+        "published": "2023-3-22",
+        "citations": 1,
+        "abstract": "SAR-ATR (synthetic aperture radar-automatic target recognition) is a hot topic in remote sensing. This work suggests a few-shot target recognition approach (FTL) based on the concept of transfer learning to accomplish accurate target recognition of SAR images in a few-shot scenario since the classic SAR ATR method has significant data reliance. At the same time, the strategy introduces a model distillation method to improve the model’s performance further. This method is composed of three parts. First, the data engine, which uses the style conversion model and optical image data to generate image data similar to SAR style and realize cross-domain conversion, can effectively solve the problem of insufficient training data of the SAR image classification model. Second is model training, which uses SAR image data sets to pre-train the model. Here, we introduce the deep Brownian distance covariance (Deep BDC) pooling layer to optimize the image feature representation so that the model can learn the image representation by measuring the difference between the joint feature function of the embedded feature and the edge product. Third, model fine-tuning, which freezes the model structure, except the classifier, and fine-tunes it by using a small amount of novel data. The knowledge distillation approach is also introduced simultaneously to train the model repeatedly, sharpen the knowledge, and enhance model performance. According to experimental results on the MSTAR benchmark dataset, the proposed method is demonstrably better than the SOTA method in the few-shot SAR ATR issue. The recognition accuracy is about 80% in the case of 10-way 10-shot.",
+        "link": "http://dx.doi.org/10.3390/rs15061709"
+    },
+    {
+        "id": 10898,
+        "title": "PRE-TRAINING AND FINE-TUNING ELECTRA MODELS FOR VARIOUS VIETNAMESE NATURAL LANGUAGE PROCESSING TASKS",
+        "authors": "Nguyen Minh Vu, Huynh Chi Tuan, Luong An Vinh",
+        "published": "2021-12-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15625/vap.2021.0089"
+    },
+    {
+        "id": 10899,
+        "title": "Editorial for Special Issue on Large-scale Pre-training: Data, Models, and Fine-tuning",
+        "authors": "Ji-Rong Wen, Zi Huang, Hanwang Zhang",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11633-023-1431-y"
+    },
+    {
+        "id": 10900,
+        "title": "Evaluation of pre-training impact on fine-tuning for remote sensing scene classification",
+        "authors": "Man Yuan, Zhi Liu, Fan Wang",
+        "published": "2019-1-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/2150704x.2018.1526423"
+    },
+    {
+        "id": 10901,
+        "title": "APF-GAN: Exploring asymmetric pre-training and fine-tuning strategy for conditional generative adversarial network",
+        "authors": "Yuxuan Li, Lingfeng Yang, Xiang Li",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s41095-023-0357-1"
+    },
+    {
+        "id": 10902,
+        "title": "AlignDet: Aligning Pre-training and Fine-tuning in Object Detection",
+        "authors": "Ming Li, Jie Wu, Xionghui Wang, Chen Chen, Jie Qin, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan",
+        "published": "2023-10-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00632"
+    },
+    {
+        "id": 10903,
+        "title": "Bank Credit Risk Analysis Based on Network Data Mining and Pre-training-fine-tuning ANN",
+        "authors": "Yong Hu, Menghan Fu, Jie Su, Ling Zhou",
+        "published": "2022-9-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3558819.3565214"
+    },
+    {
+        "id": 10904,
+        "title": "Transfer Learning Pre-training Dataset and Fine-tuning Effect Analysis on Cancer Histopathology Images",
+        "authors": "Koushik Howlader, Lu Liu",
+        "published": "2022-12-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bibm55620.2022.9995076"
+    },
+    {
+        "id": 10905,
+        "title": "Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning",
+        "authors": "Hongyi Yuan, Zheng Yuan, Sheng Yu",
+        "published": "2022",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.naacl-main.296"
+    },
+    {
+        "id": 10906,
+        "title": "Robust Lane Detection Through Self Pre-Training With Masked Sequential Autoencoders and Fine-Tuning With Customized PolyLoss",
+        "authors": "Ruohan Li, Yongqi Dong",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tits.2023.3305015"
+    },
+    {
+        "id": 10907,
+        "title": "FactGen: Faithful Text Generation by Factuality-aware Pre-training and Contrastive Ranking Fine-tuning",
+        "authors": "ZhiBin Lan, Wei Li, Jinsong Su, Xinyan Xiao, Jiachen Liu, Wenhao Wu, Yajuan Lyu",
+        "published": "2023-4-27",
+        "citations": 2,
+        "abstract": "Conditional text generation is supposed to generate a fluent and coherent target text that is faithful to the source text. Although pre-trained models have achieved promising results, they still suffer from the crucial factuality problem. To deal with this issue, we propose a factuality-aware pretraining-finetuning framework named FactGen, which fully considers factuality during two training stages. Specifically, at the pre-training stage, we utilize a natural language inference model to construct target texts that are entailed by the source texts, resulting in a more factually consistent pre-training objective. Then, during the fine-tuning stage, we further introduce a contrastive ranking loss to encourage the model to generate factually consistent text with higher probability. Extensive experiments on three conditional text generation tasks demonstrate the effectiveness and generality of our training framework.",
+        "link": "http://dx.doi.org/10.1613/jair.1.14267"
+    },
+    {
+        "id": 10908,
+        "title": "SAR-HUB: Pre-Training, Fine-Tuning, and Explaining",
+        "authors": "Haodong Yang, Xinyue Kang, Long Liu, Yujiang Liu, Zhongling Huang",
+        "published": "2023-11-28",
+        "citations": 1,
+        "abstract": "Since the current remote sensing pre-trained models trained on optical images are not as effective when applied to SAR image tasks, it is crucial to create sensor-specific SAR models with generalized feature representations and to demonstrate with evidence the limitations of optical pre-trained models in downstream SAR tasks. The following aspects are the focus of this study: pre-training, fine-tuning, and explaining. First, we collect the current large-scale open-source SAR scene image classification datasets to pre-train a series of deep neural networks, including convolutional neural networks (CNNs) and vision transformers (ViT). A novel dynamic range adaptive enhancement method and a mini-batch class-balanced loss are proposed to tackle the challenges in SAR scene image classification. Second, the pre-trained models are transferred to various SAR downstream tasks compared with optical ones. Lastly, we propose a novel knowledge point interpretation method to reveal the benefits of the SAR pre-trained model with comprehensive and quantifiable explanations. This study is reproducible using open-source code and datasets, demonstrates generalization through extensive experiments on a variety of tasks, and is interpretable through qualitative and quantitative analyses. The codes and models are open source.",
+        "link": "http://dx.doi.org/10.3390/rs15235534"
+    },
+    {
+        "id": 10909,
+        "title": "Knowledge Distillation from Bert in Pre-Training and Fine-Tuning for Polyphone Disambiguation",
+        "authors": "Hao Sun, Xu Tan, Jun-Wei Gan, Sheng Zhao, Dongxu Han, Hongzhi Liu, Tao Qin, Tie-Yan Liu",
+        "published": "2019-12",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asru46091.2019.9003918"
+    },
+    {
+        "id": 10910,
+        "title": "Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning",
+        "authors": "Jianguo Zhang, Trung Bui, Seunghyun Yoon, Xiang Chen, Zhiwei Liu, Congying Xia, Quan Hung Tran, Walter Chang, Philip Yu",
+        "published": "2021",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.emnlp-main.144"
+    },
+    {
+        "id": 10911,
+        "title": "On-Device Constrained Self-Supervised Learning for Keyword Spotting via Quantization Aware Pre-Training and Fine-Tuning",
+        "authors": "Gene-Ping Yang, Yue Gu, Sashank Macha, Qingming Tang, Yuzong Liu",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447258"
+    },
+    {
+        "id": 10912,
+        "title": "Fine-tuning of pre-processing filters enables scalp-EEG based training of subcutaneous EEG models",
+        "authors": "Lukas Lechner, Asbjoern Wulff Helge, Esben Ahrens, Martin Bachler, Bernhard Hametner, Gerhard Gritsch, Tilmann Kluge, Manfred Hartmann",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bsn58485.2023.10331106"
+    },
+    {
+        "id": 10913,
+        "title": "ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation",
+        "authors": "Dongling Xiao, Han Zhang, Yukun Li, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang",
+        "published": "2020-7",
+        "citations": 39,
+        "abstract": "Current pre-training works in natural language generation pay little attention to the problem of exposure bias on downstream tasks. To address this issue, we propose an enhanced multi-flow sequence to sequence pre-training and fine-tuning framework named ERNIE-GEN, which bridges the discrepancy between training and inference with an infilling generation mechanism and a noise-aware generation method. To make generation closer to human writing patterns, this framework introduces a span-by-span generation flow that trains the model to predict semantically-complete spans consecutively rather than predicting word by word. Unlike existing pre-training methods, ERNIE-GEN incorporates multi-granularity target sampling to construct pre-training data, which enhances the correlation between encoder and decoder. Experimental results demonstrate that ERNIE-GEN achieves state-of-the-art results with a much smaller amount of pre-training data and parameters on a range of language generation tasks, including abstractive summarization (Gigaword and CNN/DailyMail), question generation (SQuAD), dialogue generation (Persona-Chat) and generative question answering (CoQA). The source codes and pre-trained models have been released at https://github.com/PaddlePaddle/ERNIE/ernie-gen.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2020/553"
+    },
+    {
+        "id": 10914,
+        "title": "Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation",
+        "authors": "Chengyi Wang, Yu Wu, Shujie Liu, Zhenglu Yang, Ming Zhou",
+        "published": "2020-4-3",
+        "citations": 13,
+        "abstract": "End-to-end speech translation, a hot topic in recent years, aims to translate a segment of audio into a specific language with an end-to-end model. Conventional approaches employ multi-task learning and pre-training methods for this task, but they suffer from the huge gap between pre-training and fine-tuning. To address these issues, we propose a Tandem Connectionist Encoding Network (TCEN) which bridges the gap by reusing all subnets in fine-tuning, keeping the roles of subnets consistent, and pre-training the attention module. Furthermore, we propose two simple but effective methods to guarantee the speech encoder outputs and the MT encoder inputs are consistent in terms of semantic representation and sequence length. Experimental results show that our model leads to significant improvements in En-De and En-Fr translation irrespective of the backbones.",
+        "link": "http://dx.doi.org/10.1609/aaai.v34i05.6452"
+    },
+    {
+        "id": 10915,
+        "title": "Pre-training using Pseudo Images and Fine-tuning using Real Images for Nighttime Traffic Sign Detection",
+        "authors": "Masaya Yamamoto, Gosuke Ohashi",
+        "published": "2021-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1541/ieejeiss.141.969"
+    },
+    {
+        "id": 10916,
+        "title": "Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization",
+        "authors": "Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Lam",
+        "published": "2022",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.naacl-main.39"
+    },
+    {
+        "id": 10917,
+        "title": "Multi-party Goal Tracking with LLMs: Comparing Pre-training, Fine-tuning, and Prompt Engineering",
+        "authors": "Angus Addlesee, Weronika Sieińska, Nancie Gunson, Daniel Hernandez Garcia, Christian Dondrup, Oliver Lemon",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.sigdial-1.22"
+    },
+    {
+        "id": 10918,
+        "title": "Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models",
+        "authors": "Somayeh Ghanbarzadeh, Yan Huang, Hamid Palangi, Radames Cruz Moreno, Hamed Khanpour",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.336"
+    },
+    {
+        "id": 10919,
+        "title": "Enhancing Recognition and Interpretation of Functional Phenotypic Sequences through Fine-Tuning Pre-Trained Genomic Models",
+        "authors": "Duo Du, Fan Zhong, Lei Liu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractDecoding high-quality human genomic sequences requires comprehensive analysis of DNA sequence functionality. Through computational and experimental approaches, researchers study the genotype-phenotype relationship and generate important datasets that help unravel complicated genetic blueprints. This study explores the use of deep learning, particularly pre-trained models like DNA_bert_6 and human_gpt2-v1, in interpreting and representing human genome sequences. We meticulously construct multiple datasets linking genotypes and phenotypes to fine-tune pre-trained models for precise DNA sequence classification. Furthermore, we specifically focused on the human endogenous retrovirus (HERV) dataset with commendable classification performance (both binary and multi-classification accuracy and F1 values above 0.935 and 0.888, respectively). We evaluate the influence of sequence length on classification results and analyze the impact of feature extraction in the model’s hidden layers using the HERV dataset. To further understand the phenotype-specific patterns learned by the model, we perform enrichment, pathogenicity and conservation analyzes of specific motifs in the HERV sequence with high average local representation weight (LRAW) scores. Overall, the generated datasets further provide numerous additional genotype-phenotype datasets for evaluating the performance of genomic models. The findings highlight the potential of large models in learning DNA sequence representations, particularly when utilizing the HERV dataset, and provide valuable insights for future research. This work represents an innovative strategy that combines pre-trained model representations with classical omics methods for analyzing the functionality of genome sequences, fostering cross-fertilization between genomics and advanced AI. The source code and data are available athttps://github.com/GeorgeBGM/Genome_Fine-Tuning.",
+        "link": "http://dx.doi.org/10.1101/2023.12.05.570173"
+    },
+    {
+        "id": 10920,
+        "title": "A Self-Supervised Pre-Training Method for Fine-Grained Image Retrieval",
+        "authors": "Xiaoqing Li, Ya Wang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4726551"
+    },
+    {
+        "id": 10921,
+        "title": "Confounder Balancing in Adversarial Domain Adaptation for Pre-Trained Large Models Fine-Tuning",
+        "authors": "Shuoran Jiang, Qingcai Chen, Yang Xiang, Youcheng Pan, Xiangping Wu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>The excellent generalization, contextual learning, and emergence abilities in the pre-trained large models (PLMs) handle specific tasks without direct training data, making them the better foundation models in the adversarial domain adaptation (ADA) methods to transfer knowledge learned from the source domain to target domains. However, existing ADA methods fail to account for the confounder properly, which is the root cause of the source data distribution that differs from the target domains. This study proposes an adversarial domain adaptation with confounder balancing for PLMs fine-tuning (ADA-CBF). The ADA-CBF includes a PLM as the foundation model for a feature extractor, a domain classifier and a confounder classifier, and they are jointly trained with an adversarial loss. This loss is designed to improve the domain-invariant representation learning by diluting the discrimination in the domain classifier. At the same time, the adversarial loss also balances the confounder distribution among source and unmeasured domains in training. Compared to existing ADA methods, ADA-CBF can correctly identify confounders in domain-invariant features, thereby eliminating the confounder biases in the extracted features from PLMs. The confounder classifier in ADA-CBF is designed as a plug-and-play and can be applied in the confounder measurable, unmeasurable, or partially measurable environments. Empirical results on natural language processing and computer vision downstream tasks show that ADA-CBF outperforms the newest GPT-4, LLaMA2, ViT and ADA methods.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.24432997.v1"
+    },
+    {
+        "id": 10922,
+        "title": "Fine-Tuning Pre-Trained Voice Conversion Model for Adding New Target Speakers with Limited Data",
+        "authors": "Takeshi Koshizuka, Hidefumi Ohmura, Kouichi Katsurada",
+        "published": "2021-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2021-244"
+    },
+    {
+        "id": 10923,
+        "title": "Span Fine-tuning for Pre-trained Language Models",
+        "authors": "Rongzhou Bao, Zhuosheng Zhang, Hai Zhao",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.findings-emnlp.169"
+    },
+    {
+        "id": 10924,
+        "title": "Confounder Balancing in Adversarial Domain Adaptation for Pre-Trained Large Models Fine-Tuning",
+        "authors": "Shuoran Jiang, Qingcai Chen, Yang Xiang, Youcheng Pan, Xiangping Wu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>The excellent generalization, contextual learning, and emergence abilities in the pre-trained large models (PLMs) handle specific tasks without direct training data, making them the better foundation models in the adversarial domain adaptation (ADA) methods to transfer knowledge learned from the source domain to target domains. However, existing ADA methods fail to account for the confounder properly, which is the root cause of the source data distribution that differs from the target domains. This study proposes an adversarial domain adaptation with confounder balancing for PLMs fine-tuning (ADA-CBF). The ADA-CBF includes a PLM as the foundation model for a feature extractor, a domain classifier and a confounder classifier, and they are jointly trained with an adversarial loss. This loss is designed to improve the domain-invariant representation learning by diluting the discrimination in the domain classifier. At the same time, the adversarial loss also balances the confounder distribution among source and unmeasured domains in training. Compared to existing ADA methods, ADA-CBF can correctly identify confounders in domain-invariant features, thereby eliminating the confounder biases in the extracted features from PLMs. The confounder classifier in ADA-CBF is designed as a plug-and-play and can be applied in the confounder measurable, unmeasurable, or partially measurable environments. Empirical results on natural language processing and computer vision downstream tasks show that ADA-CBF outperforms the newest GPT-4, LLaMA2, ViT and ADA methods.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.24432997"
+    },
+    {
+        "id": 10925,
+        "title": "ACCURACY IMPROVING OF PRE-TRAINED NEURAL NETWORKS BY FINE TUNING",
+        "authors": "D. Кonarev, А. Gulamov",
+        "published": "2021-2-15",
+        "citations": 0,
+        "abstract": "Methods of accuracy improving of pre-trained networks are discussed. Images of ships are input data for the networks. Networks are built and trained using Keras and TensorFlow machine learning libraries. Fine tuning of previously trained convoluted artificial neural networks for pattern recognition tasks is described. Fine tuning of VGG16 and VGG19 networks are done by using Keras Applications. The accuracy of VGG16 network with finetuning of the last convolution unit increased from 94.38% to 95.21%. An increase is only 0.83%. The accuracy of VGG19 network with fine-tuning of the last convolution unit increased from 92.97% to 96.39%, which is 3.42%.",
+        "link": "http://dx.doi.org/10.31618/esu.2413-9335.2021.5.82.1231"
+    },
+    {
+        "id": 10926,
+        "title": "D-NET: A Pre-Training and Fine-Tuning Framework for Improving the Generalization of Machine Reading Comprehension",
+        "authors": "Hongyu Li, Xiyuan Zhang, Yibing Liu, Yiming Zhang, Quan Wang, Xiangyang Zhou, Jing Liu, Hua Wu, Haifeng Wang",
+        "published": "2019",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-5828"
+    },
+    {
+        "id": 10927,
+        "title": "Pre-training and Fine-tuning Neural Topic Model: A Simple yet Effective Approach to Incorporating External Knowledge",
+        "authors": "Linhai Zhang, Xuemeng Hu, Boyu Wang, Deyu Zhou, Qian-Wen Zhang, Yunbo Cao",
+        "published": "2022",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.acl-long.413"
+    },
+    {
+        "id": 10928,
+        "title": "CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning",
+        "authors": "Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.naacl-industry.2"
+    },
+    {
+        "id": 10929,
+        "title": "Non-invasive blood pressure estimation combining deep neural networks with pre-training and partial fine-tuning",
+        "authors": "Ziyan Meng, Xuezhi Yang, Xuenan Liu, Dingliang Wang, Xuesong Han",
+        "published": "2022-11-30",
+        "citations": 3,
+        "abstract": "Abstract\n\nObjective. Daily blood pressure (BP) monitoring is essential since BP levels can reflect the functions of heart pumping and vasoconstriction. Although various neural network-based BP estimate approaches have been proposed, they have certain practical shortcomings, such as low estimation accuracy and poor model generalization. Based on the strategy of pre-training and partial fine-tuning, this work proposes a non-invasive method for BP estimation using the photoplethysmography (PPG) signal. Approach. To learn the PPG-BP relationship, the deep convolutional bidirectional recurrent neural network (DC-Bi-RNN) was pre-trained with data from the public medical information mark for intensive care (MIMIC III) database. A tiny quantity of data from the target subject was used to fine-tune the specific layers of the pre-trained model to learn more individual-specific information to achieve highly accurate BP estimation. Main results. The mean absolute error and the Pearson correlation coefficient (r) of the proposed algorithm are 3.21 mmHg and 0.919 for systolic BP, and 1.80 mmHg and 0.898 for diastolic BP (DBP). The experimental results show that our method outperforms other methods and meets the requirements of the Association for the Advancement of Medical Instrumentation standard, and received an A grade according to the British Hypertension Society standard. Significance. The proposed method applies the strategy of pre-training and partial fine-tuning to BP estimation and verifies its effectiveness in improving the accuracy of non-invasive BP estimation.",
+        "link": "http://dx.doi.org/10.1088/1361-6579/ac9d7f"
+    },
+    {
+        "id": 10930,
+        "title": "Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach",
+        "authors": "Yue Yu, Simiao Zuo, Haoming Jiang, Wendi Ren, Tuo Zhao, Chao Zhang",
+        "published": "2021",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.naacl-main.84"
+    },
+    {
+        "id": 10931,
+        "title": "Fine-Tuning Pre-trained Transformers into Decaying Fast Weights",
+        "authors": "Huanru Henry Mao",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.697"
+    },
+    {
+        "id": 10932,
+        "title": "Rhythmic lyrics translation: Customizing a pre-trained language model using stacked fine-tuning",
+        "authors": "Jiwon Chong, Jaehyok Chong",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Neural machine translation (NMT) is a software that uses neural network techniques to translate text from one language to another. As NMT models are on the rise, the focus is on translating everyday mundane sentences. However, it is also necessary to start paying attention to the translation of domain-specific text, such as lyrics or poetry. For example, even one of the most famous NMT models—Google Translate—failed to give an accurate English translation of a famous Korean nursery rhyme, \"Airplane\" (비행기). To teach the model to retain specific information other than semantics, we need specific data which contains the exact information that we are attempting to teach. In the case of rhythmically accurate lyrics translation—translated lyrics that can be used to sing along to the original melody—we need corresponding data, containing lyrical and rhythmical properties, all the while being semantically accurate. However, as there is not enough data that fits our criteria, we propose a novel method we call 'stacked fine-tuning'. We fine-tuned a pre-trained model first with a dataset from the lyrics domain, and then with a smaller dataset containing the rhythmical properties, to teach the model to translate rhythmically accurate lyrics. To evaluate the effectiveness of our approach, we translated two famous Korean nursery rhymes to English and matched them to the original melody. Our stacked fine-tuning method resulted in an NMT model that could maintain the rhythmical characteristics of lyrics during translation while single fine-tuned models failed to do so.",
+        "link": "http://dx.doi.org/10.59720/22-177"
+    },
+    {
+        "id": 10933,
+        "title": "Towards Effective and Generalizable Fine-tuning for Pre-trained Molecular Graph Models",
+        "authors": "Jun Xia, Jiangbin Zheng, Cheng Tan, Ge Wang, Stan Z. Li",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "AbstractGraph Neural Networks (GNNs) and Transformer have emerged as dominant tools for AI-driven drug discovery. Many state-of-the-art methods first pre-train GNNs or the hybrid of GNNs and Transformer on a large molecular database and then fine-tune on downstream tasks. However, different from other domains such as computer vision (CV) or natural language processing (NLP), getting labels for molecular data of downstream tasks often requires resource-intensive wet-lab experiments. Besides, the pre-trained models are often of extremely high complexity with huge parameters. These often cause the fine-tuned model to over-fit the training data of downstream tasks and significantly deteriorate the performance. To alleviate these critical yet under-explored issues, we propose two straightforward yet effective strategies to attain better generalization performance: 1. MolAug, which enriches the molecular datasets of down-stream tasks with chemical homologies and enantiomers; 2. WordReg, which controls the complexity of the pre-trained models with a smoothness-inducing regularization built on dropout. Extensive experiments demonstrate that our proposed strategies achieve notable and consistent improvements over vanilla fine-tuning and yield multiple state-of-the-art results. Also, these strategies are model-agnostic and readily pluggable into fine-tuning of various pre-trained molecular graph models. We will release the code and the fine-tuned models.",
+        "link": "http://dx.doi.org/10.1101/2022.02.03.479055"
+    },
+    {
+        "id": 10934,
+        "title": "Fine Tuning Grafting: Positioning; Sequences; Training; Rates of Work",
+        "authors": "Brian E. Humphrey",
+        "published": "2019-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781315171463-4"
+    },
+    {
+        "id": 10935,
+        "title": "Fine-Tuning: From Star to Galaxies Formation",
+        "authors": "",
+        "published": "2020-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108614023.010"
+    },
+    {
+        "id": 10936,
+        "title": "PAC-tuning: Fine-tuning Pre-trained Language Models with PAC-driven Perturbed Gradient Descent",
+        "authors": "Guangliang Liu, Zhiyu Xue, Xitong Zhang, Kristen Johnson, Rongrong Wang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.748"
+    },
+    {
+        "id": 10937,
+        "title": "Naturalness, Fine-tuning, and Observer Selection in Cosmology",
+        "authors": "",
+        "published": "2020-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108614023.003"
+    },
+    {
+        "id": 10938,
+        "title": "Fine-Tuning, Complexity, and Life in the Multiverse",
+        "authors": "",
+        "published": "2020-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108614023.001"
+    },
+    {
+        "id": 10939,
+        "title": "Idealism and Fine-Tuning",
+        "authors": "Jacob Ross",
+        "published": "2018-1-18",
+        "citations": 0,
+        "abstract": "This chapter argues that, given certain background assumptions, a kind of idealism follows from a version of the fine-tuning thesis. The kind of idealism in question ascribes explanatory priority, not ontological priority, to the mental. The version of the fine-tuning thesis in question is the strong fine-tuning for consciousness thesis, according to which (i) the values of the fundamental physical parameters are fine-tuned for consciousness and (ii) this fine-tuning for consciousness is not the inevitable by-product of fine-tuning for something more basic than consciousness, such as life. The chapter argues that, assuming a particular account of the nature of explanation—namely, the unificationist account—the strong fine-tuning for consciousness thesis entails that consciousness plays a fundamental explanatory role in nature, and so this thesis entails explanatory idealism. The chapter concludes by arguing that similar reasoning leads to the conclusion that consciousness is the final cause of the universe.",
+        "link": "http://dx.doi.org/10.1093/oso/9780198746973.003.0015"
+    },
+    {
+        "id": 10940,
+        "title": "Pre-Training and Fine-Tuning with Next Sentence Prediction for Multimodal Entity Linking",
+        "authors": "Lu Li, Qipeng Wang, Baohua Zhao, Xinwei Li, Aihua Zhou, Hanqian Wu",
+        "published": "2022-7-7",
+        "citations": 1,
+        "abstract": "As an emerging research field, more and more researchers are turning their attention to multimodal entity linking (MEL). However, previous works always focus on obtaining joint representations of mentions and entities and then determining the relationship between mentions and entities by these representations. This means that their models are often very complex and will result in ignoring the relationship between different modal information from different corpus. To solve the above problems, we proposed a paradigm of pre-training and fine-tuning for MEL. We designed three different categories of NSP tasks for pre-training, i.e., mixed-modal, text-only and multimodal and doubled the amount of data for pre-training by swapping the roles of sentences in NSP. Our experimental results show that our model outperforms other baseline models and our pre-training strategies all contribute to the improvement of the results. In addition, our pre-training gives the final model a strong generalization capability that performs well even on smaller amounts of data.",
+        "link": "http://dx.doi.org/10.3390/electronics11142134"
+    },
+    {
+        "id": 10941,
+        "title": "CODE: Contrastive Pre-training with Adversarial Fine-Tuning for Zero-Shot Expert Linking",
+        "authors": "Bo Chen, Jing Zhang, Xiaokang Zhang, Xiaobin Tang, Lingfan Cai, Hong Chen, Cuiping Li, Peng Zhang, Jie Tang",
+        "published": "2022-6-28",
+        "citations": 2,
+        "abstract": "Expert finding, a popular service provided by many online websites such as Expertise Finder, LinkedIn, and AMiner, is beneficial to seeking candidate qualifications, consultants, and collaborators. However, its quality is suffered from lack of ample sources of expert information. This paper employs AMiner as the basis with an aim at linking any external experts to the counterparts on AMiner. As it is infeasible to acquire sufficient linkages from arbitrary external sources, we explore the problem of zero-shot expert linking. In this paper, we propose CODE, which first pre-trains an expert linking model by contrastive learning on AMiner such that it can capture the representation and matching patterns of experts without supervised signals, then it is fine-tuned between AMinerand external sources to enhance the model’s transferability in an adversarial manner. For evaluation, we first design two intrinsic tasks, author identification and paper clustering, to validate the representation and matching capability endowed by contrastive learning. Then the final external expert linking performance on two genres of external sources also implies the superiority of adversarial fine-tuning method. Additionally, we show the online deployment of CODE, and continuously improve its online performance via active learning.",
+        "link": "http://dx.doi.org/10.1609/aaai.v36i11.21441"
+    },
+    {
+        "id": 10942,
+        "title": "Transfer Learning for Small and Different Datasets: Fine-Tuning A Pre-Trained Model Affects Performance",
+        "authors": "Ananya Gupta, Meghna Gupta",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "Machine learning and deep learning algorithms are rapidly becoming integrated into everyday life. Whether it is in your face-ID to unlock your phone or the detection of deadly diseases like melanoma, neural networks have been traditionally designed to work in isolation to achieve amazing tasks once thought impossible by computers. However, these algorithms are trained to be able to solve extremely specific tasks. Models have to be rebuilt from scratch once the source and target domains change and the required task changes. Transfer learning is defined as a field that leverages learnings and weights from one task for related tasks. This process is quite smooth if one has enough data and the task is similar to the previous, already learnt task. However, research on when these two conditions are not met is scarce. The purpose of this research is to investigate how fine-tuning a pre-trained image classification model will affect accuracy for a binary image classification task. Image classification is widely used, and when only a small dataset is available, transfer learning becomes an important asset. Convolutional neural networks and the VGG-16 model trained on Imagenet will be used. Through this study, I am investigating whether there are specific trends in how fine-tuning affects accuracy when used for a small dataset which is dissimilar from Imagenet. This will allow for the beginning of investigating quantifiable methods to train a model when using Transfer Learning techniques.",
+        "link": "http://dx.doi.org/10.59720/20-130"
+    },
+    {
+        "id": 10943,
+        "title": "Dog Breed Identification with Fine tuning of Pre-trained models",
+        "authors": "",
+        "published": "2019-11-2",
+        "citations": 3,
+        "abstract": "Dog Breed identification is a specific application of Convolutional Neural Networks. Though the classification of Images by Convolutional Neural Network serves to be efficient method, still it has few drawbacks. Convolutional Neural Networks requires a large amount of images as training data and basic time for training the data and to achieve higher accuracy on the classification. To overcome this substantial time we use Transfer Learning. In computer vision, transfer learning refers to the use of a pre-trained models to train the CNN. By Transfer learning, a pre-trained model is trained to provide solution to classification problem which is similar to the classification problem we have. In this project we are using various pre-trained models like VGG16, Xception, InceptionV3 to train over 1400 images covering 120 breeds out of which 16 breeds of dogs were used as classes for training and obtain bottleneck features from these pre-trained models. Finally, Logistic Regression a multiclass classifier is used to identify the breed of the dog from the images and obtained 91%, 94%,95% validation accuracy for these different pre-trained models VGG16, Xception, InceptionV3.",
+        "link": "http://dx.doi.org/10.35940/ijrte.b1464.0982s1119"
+    },
+    {
+        "id": 10944,
+        "title": "Confounder Balancing in Adversarial Domain Adaptation for Pre-Trained Large Models Fine-Tuning",
+        "authors": "Shuoran Jiang, Qingcai Chen, Yang Xiang, Youcheng Pan, Xiangping Wu, Yukang Lin",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4634734"
+    },
+    {
+        "id": 10945,
+        "title": "Fine-Tuning of Pre-Trained Deep Learning Models with Extreme Learning Machine",
+        "authors": "Tagrid Alshalali, Darsana Josyula",
+        "published": "2018-12",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/csci46756.2018.00096"
+    },
+    {
+        "id": 10946,
+        "title": "Fine-Grained Sentiment Analysis with a Fine-Tuned BERT and an Improved Pre-Training BERT",
+        "authors": "Jiaxi Li",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icipca59209.2023.10257673"
+    },
+    {
+        "id": 10947,
+        "title": "Multiple-hypothesis RNN-T Loss for Unsupervised Fine-tuning and Self-training of Neural Transducer",
+        "authors": "Cong-Thanh Do, Mohan Li, Rama Doddipatla",
+        "published": "2022-9-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2022-10330"
+    },
+    {
+        "id": 10948,
+        "title": "A study on training fine-tuning of convolutional neural networks",
+        "authors": "Zhicheng Cai, Chenglei Peng",
+        "published": "2021-1-21",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/kst51265.2021.9415793"
+    },
+    {
+        "id": 10949,
+        "title": "Layer-wise Fine-tuning Based Pre-trained Language Model Syntactic Knowledge Injection Methodology",
+        "authors": "Hye-Lynn Kim, Sanghyun Cho, Hyuk-Chul Kwon",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.6109/jkiice.2023.27.12.1473"
+    },
+    {
+        "id": 10950,
+        "title": "Privacy-Preserving Fine-Tuning of Artificial Intelligence (AI) Foundation Models with Federated Learning, Differential Privacy, Offsite Tuning, and Parameter-Efficient Fine-Tuning (PEFT)",
+        "authors": "Jun Zhao",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Artificial Intelligence (AI) Foundation Models (FMs), pre-trained on massive datasets, have recently emerged as a pivotal asset in a wide array of tasks. Examples of FMs include Large Language Models (LLMs), Large Vision Models (LVMs), and Large Multimodal Models (LMMs). The adaptability of FMs, achieved through finetuning, enables these models to perform exceptionally across diverse domains. However, the fine-tuning process often entails data centralization, which raises privacy concerns. For instance, in healthcare, hospitals might want to fine-tune an AI model on patient records. Sending this data to a central server for fine-tuning can raise privacy concerns. To mitigate the privacy challenges, this research seeks to employ privacy-preserving technologies such as federated learning (FL), differential privacy (DP), and emulator-based tuning (i.e., offsite tuning) in combination with parameter-efficient fine-tuning (PEFT) techniques to refine FMs without compromising data privacy.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.24191886"
+    },
+    {
+        "id": 10951,
+        "title": "Privacy-Preserving Fine-Tuning of Artificial Intelligence (AI) Foundation Models with Federated Learning, Differential Privacy, Offsite Tuning, and Parameter-Efficient Fine-Tuning (PEFT)",
+        "authors": "Jun Zhao",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Artificial Intelligence (AI) Foundation Models (FMs), pre-trained on massive datasets, have recently emerged as a pivotal asset in a wide array of tasks. Examples of FMs include Large Language Models (LLMs), Large Vision Models (LVMs), and Large Multimodal Models (LMMs). The adaptability of FMs, achieved through finetuning, enables these models to perform exceptionally across diverse domains. However, the fine-tuning process often entails data centralization, which raises privacy concerns. For instance, in healthcare, hospitals might want to fine-tune an AI model on patient records. Sending this data to a central server for fine-tuning can raise privacy concerns. To mitigate the privacy challenges, this research seeks to employ privacy-preserving technologies such as federated learning (FL), differential privacy (DP), and emulator-based tuning (i.e., offsite tuning) in combination with parameter-efficient fine-tuning (PEFT) techniques to refine FMs without compromising data privacy.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.24191886.v1"
+    },
+    {
+        "id": 10952,
+        "title": "Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction",
+        "authors": "Paul Prasse, Pascal Iversen, Matthias Lienhard, Kristina Thedinga, Ralf Herwig, Tobias Scheffer",
+        "published": "2022-8-16",
+        "citations": 3,
+        "abstract": "Large-scale databases that report the inhibitory capacities of many combinations of candidate drug compounds and cultivated cancer cell lines have driven the development of preclinical drug-sensitivity models based on machine learning. However, cultivated cell lines have devolved from human cancer cells over years or even decades under selective pressure in culture conditions. Moreover, models that have been trained on in vitro data cannot account for interactions with other types of cells. Drug-response data that are based on patient-derived cell cultures, xenografts, and organoids, on the other hand, are not available in the quantities that are needed to train high-capacity machine-learning models. We found that pre-training deep neural network models of drug sensitivity on in vitro drug-sensitivity databases before fine-tuning the model parameters on patient-derived data improves the models’ accuracy and improves the biological plausibility of the features, compared to training only on patient-derived data. From our experiments, we can conclude that pre-trained models outperform models that have been trained on the target domains in the vast majority of cases.",
+        "link": "http://dx.doi.org/10.3390/cancers14163950"
+    },
+    {
+        "id": 10953,
+        "title": "Trajectory‐BERT: Pre‐training and fine‐tuning bidirectional transformers for crowd trajectory enhancement",
+        "authors": "Lingyu Li, Tianyu Huang, Yihao Li, Peng Li",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "AbstractTo address the issue of trajectory fragments and ID switches caused by occlusion in dense crowds, we propose a space‐time trajectory encoding method and a point‐line‐group division method to construct Trajectory‐BERT in this paper. Leveraging the spatiotemporal context‐dependent features of trajectories, we introduce pre‐training and fine‐tuning Trajectory‐BERT tasks to repair occluded trajectories. Experimental results show that data augmented with Trajectory‐BERT outperforms raw annotated data on the MOTA metric and reduces ID switches in raw labeled data, demonstrating the feasibility of our method.",
+        "link": "http://dx.doi.org/10.1002/cav.2190"
+    },
+    {
+        "id": 10954,
+        "title": "Math Function Recognition with Fine-Tuning Pre-Trained Models",
+        "authors": "Fatimah Alshamari, Abdou Youssef",
+        "published": "2023-3-11",
+        "citations": 0,
+        "abstract": "A Mathematical Function Recognition (MFR) is an important research direction for efficient downstream math tasks such as information retrieval, knowledge extraction, and question answering. The aim of this task is to identify and classify mathematical function into a predefined set of function. However, the lack of annotated data is the bottleneck in the development of an MFR automated model. We begin this paper by describing our approach to creating a labelled dataset for MFR. Then, to identify five categories of mathematical functions, we fine-tuned a set of common pre-trained models: BERT base-cased, BERT baseuncased, DistilBERT-cased, and DistilBERT-uncased. As a result, our contributions in this paper include: (1) an annotated MFR dataset that future researchers can use; and (2) SOTA results obtained by finetuning pre-trained models for the MFR task. Our experiments demonstrate that the proposed approach achieved a high-quality recognition, with an F1 score of 96.80% on a held-out test set provided by DistilBERT-cased model.",
+        "link": "http://dx.doi.org/10.5121/ijci.2023.120204"
+    },
+    {
+        "id": 10955,
+        "title": "Protected Health Information Recognition by Fine-Tuning a Pre-training Transformer Model",
+        "authors": "Seo Hyun Oh, Min Kang, Youngho Lee",
+        "published": "2022-1-31",
+        "citations": 8,
+        "abstract": "Objectives: De-identifying protected health information (PHI) in medical documents is important, and a prerequisite to deidentification is the identification of PHI entity names in clinical documents. This study aimed to compare the performance of three pre-training models that have recently attracted significant attention and to determine which model is more suitable for PHI recognition. Methods: We compared the PHI recognition performance of deep learning models using the i2b2 2014 dataset. We used the three pre-training models—namely, bidirectional encoder representations from transformers (BERT), robustly optimized BERT pre-training approach (RoBERTa), and XLNet (model built based on Transformer-XL)—to detect PHI. After the dataset was tokenized, it was processed using an inside-outside-beginning tagging scheme and WordPiecetokenized to place it into these models. Further, the PHI recognition performance was investigated using BERT, RoBERTa, and XLNet. Results: Comparing the PHI recognition performance of the three models, it was confirmed that XLNet had a superior F1-score of 96.29%. In addition, when checking PHI entity performance evaluation, RoBERTa and XLNet showed a 30% improvement in performance compared to BERT. Conclusions: Among the pre-training models used in this study, XLNet exhibited superior performance because word embedding was well constructed using the two-stream self-attention method. In addition, compared to BERT, RoBERTa and XLNet showed superior performance, indicating that they were more effective in grasping the context.",
+        "link": "http://dx.doi.org/10.4258/hir.2022.28.1.16"
+    },
+    {
+        "id": 10956,
+        "title": "Disfluencies and Fine-Tuning Pre-Trained Language Models for Detection of Alzheimer’s Disease",
+        "authors": "Jiahong Yuan, Yuchen Bian, Xingyu Cai, Jiaji Huang, Zheng Ye, Kenneth Church",
+        "published": "2020-10-25",
+        "citations": 41,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2020-2516"
+    },
+    {
+        "id": 10957,
+        "title": "Climbing Up the Theories of Nature: Fine-Tuning and Biological Molecules",
+        "authors": "",
+        "published": "2020-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108614023.013"
+    },
+    {
+        "id": 10958,
+        "title": "An Investigation of Fine-tuning Pre-trained Model for MR-to-Text Generation",
+        "authors": "Ting Hu, Christoph Meinel",
+        "published": "2020-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla51294.2020.00163"
+    },
+    {
+        "id": 10959,
+        "title": "Adapter Based Fine-Tuning of Pre-Trained Multilingual Language Models for Code-Mixed and Code-Switched Text Classification",
+        "authors": "Himashi Rathnayake, Janani Sumanapala, Raveesha Rukshani, Surangika Ranathunga",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nCode-mixing and code-switching (CMCS) are frequent features in online conversations. Classification of such text is challenging if one of the languages is low-resourced. Fine-tuning pre-trained multilingual language models (PMLMs) is a promising avenue for code-mixed text classification. In this paper, we explore adapter-based fine-tuning of PMLMs for CMCS text classification. We introduce sequential and parallel stacking of adapters, continuous fine-tuning of adapters, and training adapters without freezing the original model as novel techniques with respect to single-task CMCS text classification. We also present a newly annotated dataset for the classification of Sinhala-English code-mixed and code-switched text data, where Sinhala is a low-resourced language. Our dataset of 10000 user comments has been manually annotated for five classification tasks: sentiment analysis, humor detection, hate speech detection, language identification, and aspects identification, thus making it the first publicly available Sinhala-English CMCS dataset with the largest number of annotation types. In addition to this dataset, we also carried out experiments on our proposed techniques with Kannada-English and Hindi-English datasets. These experiments confirm that our adapter-based PMLM fine-tuning techniques outperform, or are on par with the basic fine-tuning of PMLM models.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1564359/v2"
+    },
+    {
+        "id": 10960,
+        "title": "Machine-Learning Seismic Processing Tasks by Fine Tuning a Pre-Trained Attention-Based Neural Network: Storseismic",
+        "authors": "T. Alkhalifah, R. Harsuko",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202211018"
+    },
+    {
+        "id": 10961,
+        "title": "Detecting Non-literal Translations by Fine-tuning Cross-lingual Pre-trained Language Models",
+        "authors": "Yuming Zhai, Gabriel Illouz, Anne Vilnat",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.coling-main.522"
+    },
+    {
+        "id": 10962,
+        "title": "Adapter Based Fine-Tuning of Pre-Trained Multilingual Language Models for Code-Mixed and Code-Switched Text Classification",
+        "authors": "Himashi Rathnayake, Janani Sumanapala, Raveesha Rukshani, Surangika Ranathunga",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Abstract\nCode-mixing and code-switching (CMCS) are frequent features in online conversations. Classification of such text is challenging if one of the languages is low-resourced. Fine-tuning pre-trained multilingual language models (PMLMs) is a promising avenue for code-mixed text classification. In this paper, we explore adapter-based fine-tuning of PMLMs for CMCS text classification. We introduce sequential and parallel stacking of adapters, continuous fine-tuning of adapters, and training adapters without freezing the original model as novel techniques with respect to single-task CMCS text classification. We also present a newly annotated dataset for the classification of Sinhala-English code-mixed and code-switched text data, where Sinhala is a low-resourced language. Our dataset of 10000 user comments has been manually annotated for five classification tasks: sentiment analysis, humor detection, hate speech detection, language identification, and aspects identification, thus making it the first publicly available Sinhala-English CMCS dataset with the largest number of annotation types. In addition to this dataset, we also carried out experiments on our proposed techniques with Kannada-English and Hindi-English datasets. These experiments confirm that our adapter-based PMLM fine-tuning techniques outperform, or are on par with the basic fine-tuning of PMLM models.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1564359/v1"
+    },
+    {
+        "id": 10963,
+        "title": "Debiasing Pre-Trained Language Models via Efficient Fine-Tuning",
+        "authors": "Michael Gira, Ruisu Zhang, Kangwook Lee",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.ltedi-1.8"
+    },
+    {
+        "id": 10964,
+        "title": "Our Fine-Tuned Universe?",
+        "authors": "Jason Waller",
+        "published": "2019-9-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4324/9781315182537-3"
+    },
+    {
+        "id": 10965,
+        "title": "Trajectory Prediction with Contrastive Pre-training and Social Rank Fine-Tuning",
+        "authors": "Chenyou Fan, Haiqi Jiang, Aimin Huang, Junjie Hu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-99-8141-0_40"
+    },
+    {
+        "id": 10966,
+        "title": "Our Fine-Tuned Actual World?",
+        "authors": "Jason Waller",
+        "published": "2019-9-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4324/9781315182537-6"
+    },
+    {
+        "id": 10967,
+        "title": "A Pre-Trained Vs Fine-Tuning Methodology in Transfer Learning",
+        "authors": "Neeraj Gupta",
+        "published": "2021-6-1",
+        "citations": 2,
+        "abstract": "Abstract\nTransfer learning from a pre-trained and fine-tuning methodology has been utilized for the image classification. In this paper, we classify images of cats and dogs. It is much faster and easier than training from scratch using a pre-trained network with transfer learning. This saved network was trained previously on a huge dataset and known as a pre-trained model. The pre-trained model can be used in two ways, either it is used in the same way or it utilizes transfer learning approach to adapt this pre-trained network to a specific goal. Since the idea for image classification using transfer learning is that it is trained on the general and large dataset and further this model will be efficiently worked on the visual perception task of the real world. In fine-tuning, instead of tuning with the weights of generic feature map of based model, it is tuned accordingly to the dataset. In this paper, we take benefit of these learned feature maps deprived of having to start from scratch by utilizing a deep learning technique on a huge dataset and analyze the various methodology. The experimental results show that fine-tuning methodology outperformed over the pre-trained with feature extraction on accuracy.",
+        "link": "http://dx.doi.org/10.1088/1742-6596/1947/1/012028"
+    },
+    {
+        "id": 10968,
+        "title": "Comparing The Fine-Tuning and Performance of Whisper Pre-Trained Models for Turkish Speech Recognition Task",
+        "authors": "Saadin Oyucu",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ismsit58785.2023.10304891"
+    },
+    {
+        "id": 10969,
+        "title": "Prompting and Fine-tuning Pre-trained Generative Language Models",
+        "authors": "Johny Moreira, Altigran da Silva, Luciano Barbosa",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "There has been an explosion of available pre-trained and fine-tuned Generative Language Models (LM). They vary in the number of parameters, architecture, training strategy, and training set size. Aligned with it, alternative strategies exist to exploit these models, such as Fine-tuning and Prompt Engineering. However, many questions may arise throughout this process: Which model to apply for a given task? Which strategies to use? Will Prompt Engineering solve all tasks? What are the computational and financial costs involved? This tutorial will introduce and explore typical modern LM architectures with a hands-on approach to the available strategies.",
+        "link": "http://dx.doi.org/10.5753/sbbd_estendido.2023.25636"
+    },
+    {
+        "id": 10970,
+        "title": "On Enhancing Fine-Tuning for Pre-trained Language Models",
+        "authors": "Abir Betka, Zeyd Ferhat, Riyadh Barka, Selma Boutiba, Zineddine Kahhoul, Tiar Lakhdar, Ahmed Abdelali, Habiba Dahmani",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.33"
+    }
+]

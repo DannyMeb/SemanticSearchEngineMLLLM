@@ -1,0 +1,902 @@
+[
+    {
+        "id": 14071,
+        "title": "Simultaneous Localization and Mapping (SLAM)",
+        "authors": "",
+        "published": "2022",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-10-6946-8_300725"
+    },
+    {
+        "id": 14072,
+        "title": "Indoor mapping and positioning applications of hand-held LiDAR Simultaneous localization and mapping (SLAM) systems",
+        "authors": "Mustafa ZEYBEK",
+        "published": "2021-5-14",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.51946/melid.927004"
+    },
+    {
+        "id": 14073,
+        "title": "Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Kshitij Tiwari, Nak Young Chong",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/b978-0-12-817607-8.00016-2"
+    },
+    {
+        "id": 14074,
+        "title": "Exploration: Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Samunda Perera, Nick Barnes, Alexander Zelinsky",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-63416-2_280"
+    },
+    {
+        "id": 14075,
+        "title": "Simultaneous Localization and Mapping (SLAM) and Data Fusion in Unmanned Aerial Vehicles: Recent Advances and Challenges",
+        "authors": "Abhishek Gupta, Xavier Fernando",
+        "published": "No Date",
+        "citations": 11,
+        "abstract": "<p>This article presents a survey of simultaneous localization and mapping (SLAM) and data fusion techniques for object detection and environmental scene perception in unmanned aerial vehicles (UAVs). We critically evaluate some current SLAM implementations in robotics and autonomous vehicles and their applicability and scalability to UAVs. SLAM is envisioned as a potential technique for object detection and scene perception to enable UAV navigation through continuous state estimation. In this article, we bridge the gap between SLAM and data fusion in UAVs while also comprehensively surveying related object detection techniques such as visual odometry and aerial photogrammetry. We begin with an introduction to applications where UAV localization is necessary, followed by an analysis of multimodal sensor data fusion to fuse the information gathered from different sensors mounted on UAVs. We then discuss SLAM techniques such as Kalman filters and extended Kalman filters to address scene perception, mapping, and localization in UAVs. The findings are summarized to correlate prevalent and futuristic SLAM and data fusion for UAV navigation, and some avenues for further research are discussed.</p>",
+        "link": "http://dx.doi.org/10.32920/21476628"
+    },
+    {
+        "id": 14076,
+        "title": "Simultaneous Localization and Mapping (SLAM) and Data Fusion in Unmanned Aerial Vehicles: Recent Advances and Challenges",
+        "authors": "Abhishek Gupta, Xavier Fernando",
+        "published": "No Date",
+        "citations": 11,
+        "abstract": "<p>This article presents a survey of simultaneous localization and mapping (SLAM) and data fusion techniques for object detection and environmental scene perception in unmanned aerial vehicles (UAVs). We critically evaluate some current SLAM implementations in robotics and autonomous vehicles and their applicability and scalability to UAVs. SLAM is envisioned as a potential technique for object detection and scene perception to enable UAV navigation through continuous state estimation. In this article, we bridge the gap between SLAM and data fusion in UAVs while also comprehensively surveying related object detection techniques such as visual odometry and aerial photogrammetry. We begin with an introduction to applications where UAV localization is necessary, followed by an analysis of multimodal sensor data fusion to fuse the information gathered from different sensors mounted on UAVs. We then discuss SLAM techniques such as Kalman filters and extended Kalman filters to address scene perception, mapping, and localization in UAVs. The findings are summarized to correlate prevalent and futuristic SLAM and data fusion for UAV navigation, and some avenues for further research are discussed.</p>",
+        "link": "http://dx.doi.org/10.32920/21476628.v1"
+    },
+    {
+        "id": 14077,
+        "title": "Radar Simultaneous Localization and Mapping (SLAM) for Stochastic Spread Targets",
+        "authors": "Xiong Liu, Dongying Li, Wenxian Yu",
+        "published": "2018-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/apmc.2018.8617182"
+    },
+    {
+        "id": 14078,
+        "title": "Hector SLAM 2D Mapping for Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Shahrizal Saat, AN.MF. Airini, Muhammad Salihin Saealal, A.R. Wan Norhisyam, M.S. Farees Ezwan",
+        "published": "2019-11-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.36478/jeasci.2019.5610.5615"
+    },
+    {
+        "id": 14079,
+        "title": "RAFT-SLAM: Deep Optical-Flow Assisted Simultaneous Localization and Mapping",
+        "authors": "Chenhao Zhao, Shiyang Meng, Yin Dai, Ye Liu",
+        "published": "2021-10-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac53003.2021.9727736"
+    },
+    {
+        "id": 14080,
+        "title": "ISVD-Based Advanced Simultaneous Localization and Mapping (SLAM) Algorithm for Mobile Robots",
+        "authors": "László Somlyai, Zoltán Vámossy",
+        "published": "2022-6-27",
+        "citations": 3,
+        "abstract": "In the case of simultaneous localization and mapping, route planning and navigation are based on data captured by multiple sensors, including built-in cameras. Nowadays, mobile devices frequently have more than one camera with overlapping fields of view, leading to solutions where depth information can also be gathered along with ordinary RGB color data. Using these RGB-D sensors, two- and three-dimensional point clouds can be recorded from the mobile devices, which provide additional information for localization and mapping. The method of matching point clouds during the movement of the device is essential: reducing noise while having an acceptable processing time is crucial for a real-life application. In this paper, we present a novel ISVD-based method for displacement estimation, using key points detected by SURF and ORB feature detectors. The ISVD algorithm is a fitting procedure based on SVD resolution, which removes outliers from the point clouds to be fitted in several steps. The developed method removes these outlying points in several steps, in each iteration examining the relative error of the point pairs and then progressively reducing the maximum error for the next matching step. An advantage over relevant methods is that this method always gives the same result, as no random steps are included.",
+        "link": "http://dx.doi.org/10.3390/machines10070519"
+    },
+    {
+        "id": 14081,
+        "title": "GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping",
+        "authors": "Punarjay Chakravarty, Praveen Narayanan, Tom Roussel",
+        "published": "2019-5",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra.2019.8793530"
+    },
+    {
+        "id": 14082,
+        "title": "Building Large-Scale SLAM",
+        "authors": "Janusz Będkowski",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-1972-5_11"
+    },
+    {
+        "id": 14083,
+        "title": "The Simultaneous Localization and Mapping (SLAM)-An Overview",
+        "authors": "Bashar Alsadik, Samer Karam",
+        "published": "2021-11-18",
+        "citations": 4,
+        "abstract": "Positioning is a need for many applications related to mapping and navigation either in civilian or military domains. The significant developments in satellite-based techniques, sensors, telecommunications, computer hardware and software, image processing, etc. positively influenced to solve the positioning problem efficiently and instantaneously. Accordingly, the mentioned development empowered the applications and advancement of autonomous navigation. One of the most interesting developed positioning techniques is what is called in robotics as the Simultaneous Localization and Mapping SLAM. The SLAM problem solution has witnessed a quick improvement in the last decades either using active sensors like the RAdio Detection And Ranging (Radar) and Light Detection and Ranging (LiDAR) or passive sensors like cameras. Definitely, positioning and mapping is one of the main tasks for Geomatics engineers, and therefore it's of high importance for them to understand the SLAM topic which is not easy because of the huge documentation and algorithms available and the various SLAM solutions in terms of the mathematical models, complexity, the sensors used, and the type of applications. In this paper, a clear and simplified explanation is introduced about SLAM from a Geomatical viewpoint avoiding going into the complicated algorithmic details behind the presented techniques. In this way, a general overview of SLAM is presented showing the relationship between its different components and stages like the core part of the front-end and back-end and their relation to the SLAM paradigm. Furthermore, we explain the major mathematical techniques of filtering and pose graph optimization either using visual or LiDAR SLAM and introduce a summary of the deep learning efficient contribution to the SLAM problem. Finally, we address examples of some existing practical applications of SLAM in our reality.",
+        "link": "http://dx.doi.org/10.38094/sgej1027"
+    },
+    {
+        "id": 14084,
+        "title": "Sliding Mode SLAM for Robust Simultaneous Localization and Mapping",
+        "authors": "Salvador Ortiz, Wen Yu, Erik Zamora",
+        "published": "2018-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iecon.2018.8591121"
+    },
+    {
+        "id": 14085,
+        "title": "The Simultaneous Localization and Mapping (SLAM)-An Overview",
+        "authors": "Bashar Alsadik, Samer Karam",
+        "published": "2021-11-2",
+        "citations": 5,
+        "abstract": "Positioning is needed for many applications related to mapping and navigation, either in civilian or military domains. The significant developments in satellite-based techniques, sensors, telecommunications, computer hardware and software, image processing, etc. positively influenced solving the positioning problem efficiently and instantaneously. Accordingly, the mentioned development empowered the applications and advancement of autonomous navigation. One of the most interestingly developed positioning techniques is what is called in robotics Simultaneous Localization and Mapping (SLAM). The SLAM problem solution has witnessed a quick improvement in the last decades, either using active sensors like the RAdio Detection and Ranging (Radar) and Light Detection and Ranging (LiDAR) or passive sensors like cameras. Definitely, positioning and mapping is one of the main tasks for geomatics engineers, and therefore it's of high importance for them to understand the SLAM topic, which is not easy because of the huge documentation and algorithms available and the various SLAM solutions in terms of the mathematical models, complexity, the sensors used, and the type of applications. In this paper, a clear and simplified explanation of SLAM from a geometrical viewpoint is introduced, avoiding going into the complicated algorithmic details behind the presented techniques. In this way, a general overview of SLAM is presented, showing the relationship between its different components and stages, like the core part of the front-end and back-end, and their relation to the SLAM paradigm. Furthermore, we explain the major mathematical techniques of filtering and pose graph optimization, either using visual or LiDAR SLAM, and introduce a summary of the efficient contribution of deep learning to the SLAM problem. Finally, we address examples of some existing practical applications of SLAM in our reality.",
+        "link": "http://dx.doi.org/10.38094/jastt204117"
+    },
+    {
+        "id": 14086,
+        "title": "Simultaneous localization and mapping (SLAM) robotics techniques: a possible application in surgery",
+        "authors": "David Scaradozzi, Silvia Zingaretti, Arianna Ferrari",
+        "published": "2018",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21037/shc.2018.01.01"
+    },
+    {
+        "id": 14087,
+        "title": "MonoRGBD-SLAM: Simultaneous localization and mapping using both monocular and RGBD cameras",
+        "authors": "Khalid Yousif, Yuichi Taguchi, Srikumar Ramalingam",
+        "published": "2017-5",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra.2017.7989521"
+    },
+    {
+        "id": 14088,
+        "title": "β-SLAM: Simultaneous localization and grid mapping with beta distributions",
+        "authors": "Joachim Clemens, Tobias Kluth, Thomas Reineking",
+        "published": "2019-12",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.inffus.2018.11.005"
+    },
+    {
+        "id": 14089,
+        "title": "A Robust Back-End for SLAM",
+        "authors": "Niko Sünderhauf",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-24017-1_5"
+    },
+    {
+        "id": 14090,
+        "title": "MAPPING AND POSITIONING SYSTEM ON OMNIDIRECTIONAL ROBOT USING SIMULTANEOUS LOCALIZATION AND MAPPING (SLAM) METHOD BASED ON LIDAR",
+        "authors": "Achmad Akmal Fikri, Lilik Anifah",
+        "published": "2021-9-21",
+        "citations": 1,
+        "abstract": "The main problem from autonomous robot for navigation is how the robot able to recognize the surrounding environment and know this position. These problems make this research weakness and become a challenge for further research. Therefore, this research focuses on designing a mapping and positioning system using Simultaneous Localization and Mapping (SLAM) method which is implemented on an omnidirectional robot using a LiDAR sensor. The proposes of this research  are mapping system using the google cartographer algorithm combined with the eulerdometry method, eulerdometry is a combination of odometry and euler orientation from IMU sensor, while the positioning system uses the Adaptive Monte Carlo Localization (AMCL) method combined with the eulerdometry method. Testing is carried out by testing the system five times from each system, besides that testing is also carried out at each stage, testing on each sensor used such as the IMU and LiDAR sensors, and testing on system integration, including the eulerdometry method, mapping system and positioning system. The results on the mapping system showed optimal results, even though there was still noise in the results of the maps created, while the positioning system test got an average RMSE value from each map created of 278.55 mm on the x-axis, 207.37 mm on the y-axis, and 4.28o on the orientation robot.",
+        "link": "http://dx.doi.org/10.11113/jurnalteknologi.v83.16918"
+    },
+    {
+        "id": 14091,
+        "title": "Simultaneous Localization and Mapping (SLAM) and Data Fusion in Unmanned Aerial Vehicles: Recent Advances and Challenges",
+        "authors": "Abhishek Gupta, Xavier Fernando",
+        "published": "2022-3-28",
+        "citations": 25,
+        "abstract": "This article presents a survey of simultaneous localization and mapping (SLAM) and data fusion techniques for object detection and environmental scene perception in unmanned aerial vehicles (UAVs). We critically evaluate some current SLAM implementations in robotics and autonomous vehicles and their applicability and scalability to UAVs. SLAM is envisioned as a potential technique for object detection and scene perception to enable UAV navigation through continuous state estimation. In this article, we bridge the gap between SLAM and data fusion in UAVs while also comprehensively surveying related object detection techniques such as visual odometry and aerial photogrammetry. We begin with an introduction to applications where UAV localization is necessary, followed by an analysis of multimodal sensor data fusion to fuse the information gathered from different sensors mounted on UAVs. We then discuss SLAM techniques such as Kalman filters and extended Kalman filters to address scene perception, mapping, and localization in UAVs. The findings are summarized to correlate prevalent and futuristic SLAM and data fusion for UAV navigation, and some avenues for further research are discussed.",
+        "link": "http://dx.doi.org/10.3390/drones6040085"
+    },
+    {
+        "id": 14092,
+        "title": "HECTORSLAM 2D MAPPING FOR SIMULTANEOUS LOCALIZATION AND MAPPING (SLAM)",
+        "authors": "Shahrizal Saat, WN Abd Rashid, MZM Tumari, MS Saealal",
+        "published": "2020-4-1",
+        "citations": 14,
+        "abstract": "Abstract\nThis paper presents an application of LiDAR sensor for 2D mapping construction in an unkwown environments and capability to localize its own location based on landmark detected. Previously, there are various research actively conducted by others researchers for SLAM application. In general, it can be categorized based on three different type of sensor measurement and technique such as Vision based SLAM, RGB-D based SLAM and also Laser based SLAM. The main focus in this project is to present an experiment result conducted of a Simultaneous Localization and Mapping (SLAM) application based on laser sensor which is LiDAR in term of capability of mapping construction and localization it self. LiDAR sensor is put on the vehicle that will operate in real-world environments and computational processing done by using Robotic Operating System (ROS). This project is tested and verified in a curtain room with several parameter by using Robot Operating System (ROS). SLAM was implemented to provide localization estimates in environments, where there are static landmarks that are only rarely recognized by the vehicle or robot. This project also consider the features that enter and leave the environment as temporary landmarks that can be used in combination with the rarely seen static landmarks. As conclusion, performance of SLAM by using LiDAR sensor can be apply for several robotic system such as flight control, obstacle avoidance, navigation and other function in the future application.",
+        "link": "http://dx.doi.org/10.1088/1742-6596/1529/4/042032"
+    },
+    {
+        "id": 14093,
+        "title": "Feasibility of Tracking Human Kinematics with Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Sepehr Laal, Paul Vasilyev, Sean Pearson, Mateo Aboy, James McNames",
+        "published": "2022-12-1",
+        "citations": 1,
+        "abstract": "We evaluated a new wearable technology that fuses inertial sensors and cameras for tracking human kinematics. These devices use on-board simultaneous localization and mapping (SLAM) algorithms to localize the camera within the environment. Significance of this technology is in its potential to overcome many of the limitations of the other dominant technologies. Our results demonstrate this system often attains an estimated orientation error of less than 1° and a position error of less than 4 cm as compared to a robotic arm. This demonstrates that SLAM’s accuracy is adequate for many practical applications for tracking human kinematics.",
+        "link": "http://dx.doi.org/10.3390/s22239378"
+    },
+    {
+        "id": 14094,
+        "title": "GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios",
+        "authors": "Chih-Yuan Chiu, David Fridovich-Keil",
+        "published": "2022-12-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cdc51059.2022.9992656"
+    },
+    {
+        "id": 14095,
+        "title": "Parameter Tuning of G-mapping SLAM (Simultaneous Localization and Mapping) on Mobile Robot with Laser-Range Finder 360° Sensor",
+        "authors": "Irham Arfakhsadz Putra, Prawito Prajitno",
+        "published": "2019-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isriti48646.2019.9034573"
+    },
+    {
+        "id": 14096,
+        "title": "SD-VIS: A Fast and Accurate Semi-Direct Monocular Visual-Inertial Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Quanpan Liu, Zhengjie Wang, Huan Wang",
+        "published": "2020-3-9",
+        "citations": 8,
+        "abstract": "In practical applications, how to achieve a perfect balance between high accuracy and computational efficiency can be the main challenge for simultaneous localization and mapping (SLAM). To solve this challenge, we propose SD-VIS, a novel fast and accurate semi-direct visual-inertial SLAM framework, which can estimate camera motion and structure of surrounding sparse scenes. In the initialization procedure, we align the pre-integrated IMU measurements and visual images and calibrate out the metric scale, initial velocity, gravity vector, and gyroscope bias by using multiple view geometry (MVG) theory based on the feature-based method. At the front-end, keyframes are tracked by feature-based method and used for back-end optimization and loop closure detection, while non-keyframes are utilized for fast-tracking by direct method. This strategy makes the system not only have the better real-time performance of direct method, but also have high accuracy and loop closing detection ability based on feature-based method. At the back-end, we propose a sliding window-based tightly-coupled optimization framework, which can get more accurate state estimation by minimizing the visual and IMU measurement errors. In order to limit the computational complexity, we adopt the marginalization strategy to fix the number of keyframes in the sliding window. Experimental evaluation on EuRoC dataset demonstrates the feasibility and superior real-time performance of SD-VIS. Compared with state-of-the-art SLAM systems, we can achieve a better balance between accuracy and speed.",
+        "link": "http://dx.doi.org/10.3390/s20051511"
+    },
+    {
+        "id": 14097,
+        "title": "MCBM-SLAM: An Improved Mask-Region-Convolutional Neural Network-Based Simultaneous Localization and Mapping System for Dynamic Environments",
+        "authors": "Xiankun Wang, Xinguang Zhang",
+        "published": "2023-8-25",
+        "citations": 2,
+        "abstract": "Current research on SLAM can be divided into two parts according to the research scenario: SLAM research in dynamic scenarios and SLAM research in static scenarios. Research is now relatively well established for static environments. However, in dynamic environments, the impact of moving objects leads to inaccurate positioning accuracy and poor robustness of SLAM systems. To address the shortcomings of SLAM systems in dynamic environments, this paper develops a series of solutions to address these problems. First, an attention-based Mask R-CNN network is used to ensure the reliability of dynamic object extraction in dynamic environments. Dynamic feature points are then rejected based on the mask identified by the Mask R-CNN network, and a preliminary estimate of the camera pose is made. Secondly, in order to enhance the picture matching quality and efficiently reject the mismatched points, this paper proposes an image mismatching algorithm incorporating adaptive edge distance with grid motion statistics. Finally, static feature points on dynamic objects are re-added using motion constraints and chi-square tests, and the camera’s pose is re-estimated. The SLAM algorithm of this paper was run on the KITTI and TUM-RGBD datasets, respectively, and the results show that the SLAM algorithm of this paper outperforms the ORB-SLAM2 algorithm for sequences containing more dynamic objects in the KITTI dataset. On the TUM-RGBD dataset, the Dyna-SLAM algorithm increased localization accuracy by an average of 71.94% when compared to the ORB-SLAM2 method, while the SLAM algorithm in this study increased localization accuracy by an average of 78.18% when compared to the ORB-SLAM2 algorithm. When compared to the Dyna-SLAM technique, the SLAM algorithm in this work increased average positioning accuracy by 6.24%, proving that it is superior to Dyna-SLAM.",
+        "link": "http://dx.doi.org/10.3390/electronics12173596"
+    },
+    {
+        "id": 14098,
+        "title": "Review of simultaneous localization and mapping (SLAM) for construction robotics applications",
+        "authors": "Andrew Yarovoi, Yong Kwon Cho",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.autcon.2024.105344"
+    },
+    {
+        "id": 14099,
+        "title": "LMVI-SLAM: Robust Low-Light Monocular Visual-Inertial Simultaneous Localization and Mapping",
+        "authors": "Luoying Hao, Hongjian Li, Qieshi Zhang, Xiping Hu, Jun Cheng",
+        "published": "2019-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/robio49542.2019.8961635"
+    },
+    {
+        "id": 14100,
+        "title": "Applications Beyond SLAM—Multipath Mitigation in GNSS-Based Localization Problems Using the Robust Back-End",
+        "authors": "Niko Sünderhauf",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-24017-1_8"
+    },
+    {
+        "id": 14101,
+        "title": "A Comprehensive Study on Simultaneous Localization and Mapping (SLAM): Types, Challenges and Applications",
+        "authors": "Aneesh Khole, Atharva Thakar, Shreyas Shende, Varad Karajkhede",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icscss57650.2023.10169695"
+    },
+    {
+        "id": 14102,
+        "title": "Comparing EKF and SPKF Algorithms for Simultaneous Localization and Mapping (SLAM)",
+        "authors": "Zolghadr Javad, Yuanli Cai, Yekkehfallah Majid",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2991/jrnal.2017.3.4.2"
+    },
+    {
+        "id": 14103,
+        "title": "PCE-SLAM: A real-time simultaneous localization and mapping using LiDAR data",
+        "authors": "Pragya Agrawal, Asif Iqbal, Brittney Russell, Mehrnaz Kh. Hazrati, Vinay Kashyap, Farshad Akhbari",
+        "published": "2017-6",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ivs.2017.7995960"
+    },
+    {
+        "id": 14104,
+        "title": "Fruit mapping mobile robot on simulated agricultural area in Gazebo simulator using simultaneous localization and mapping (SLAM)",
+        "authors": "Novian Habibie, Aditya Murda Nugraha, Ahmad Zaki Anshori, M. Anwar Ma'sum, Wisnu Jatmiko",
+        "published": "2017-12",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mhs.2017.8305235"
+    },
+    {
+        "id": 14105,
+        "title": "SLAM-OR: Simultaneous Localization, Mapping and Object Recognition Using Video Sensors Data in Open Environments from the Sparse Points Cloud",
+        "authors": "Patryk Mazurek, Tomasz Hachaj",
+        "published": "2021-7-11",
+        "citations": 8,
+        "abstract": "In this paper, we propose a novel approach that enables simultaneous localization, mapping (SLAM) and objects recognition using visual sensors data in open environments that is capable to work on sparse data point clouds. In the proposed algorithm the ORB-SLAM uses the current and previous monocular visual sensors video frame to determine observer position and to determine a cloud of points that represent objects in the environment, while the deep neural network uses the current frame to detect and recognize objects (OR). In the next step, the sparse point cloud returned from the SLAM algorithm is compared with the area recognized by the OR network. Because each point from the 3D map has its counterpart in the current frame, therefore the filtration of points matching the area recognized by the OR algorithm is performed. The clustering algorithm determines areas in which points are densely distributed in order to detect spatial positions of objects detected by OR. Then by using principal component analysis (PCA)—based heuristic we estimate bounding boxes of detected objects. The image processing pipeline that uses sparse point clouds generated by SLAM in order to determine positions of objects recognized by deep neural network and mentioned PCA heuristic are main novelties of our solution. In contrary to state-of-the-art approaches, our algorithm does not require any additional calculations like generation of dense point clouds for objects positioning, which highly simplifies the task. We have evaluated our research on large benchmark dataset using various state-of-the-art OR architectures (YOLO, MobileNet, RetinaNet) and clustering algorithms (DBSCAN and OPTICS) obtaining promising results. Both our source codes and evaluation data sets are available for download, so our results can be easily reproduced.",
+        "link": "http://dx.doi.org/10.3390/s21144734"
+    },
+    {
+        "id": 14106,
+        "title": "Three main paradigms of simultaneous localization and mapping (SLAM) problem",
+        "authors": "Pekka Toivanen, Vandad Imani, Keijo Haataja",
+        "published": "2018-4-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.2310094"
+    },
+    {
+        "id": 14107,
+        "title": "Lidar guided stereo simultaneous localization and mapping (SLAM) for indoor Three-dimensional reconstruction",
+        "authors": "Xuan He, Wei Wang, Rui Song, Xinli Wang, Yibin Li",
+        "published": "2020-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac51589.2020.9327448"
+    },
+    {
+        "id": 14108,
+        "title": "A New Visual Inertial Simultaneous Localization and Mapping (SLAM) Algorithm Based on Point and Line Features",
+        "authors": "Tong Zhang, Chunjiang Liu, Jiaqi Li, Minghui Pang, Mingang Wang",
+        "published": "2022-1-13",
+        "citations": 11,
+        "abstract": "In view of traditional point-line feature visual inertial simultaneous localization and mapping (SLAM) system, which has weak performance in accuracy so that it cannot be processed in real time under the condition of weak indoor texture and light and shade change, this paper proposes an inertial SLAM method based on point-line vision for indoor weak texture and illumination. Firstly, based on Bilateral Filtering, we apply the Speeded Up Robust Features (SURF) point feature extraction and Fast Nearest neighbor (FLANN) algorithms to improve the robustness of point feature extraction result. Secondly, we establish a minimum density threshold and length suppression parameter selection strategy of line feature, and take the geometric constraint line feature matching into consideration to improve the efficiency of processing line feature. And the parameters and biases of visual inertia are initialized based on maximum posterior estimation method. Finally, the simulation experiments are compared with the traditional tightly-coupled monocular visual–inertial odometry using point and line features (PL-VIO) algorithm. The simulation results demonstrate that the proposed an inertial SLAM method based on point-line vision for indoor weak texture and illumination can be effectively operated in real time, and its positioning accuracy is 22% higher on average and 40% higher in the scenario that illumination changes and blurred image.",
+        "link": "http://dx.doi.org/10.3390/drones6010023"
+    },
+    {
+        "id": 14109,
+        "title": "Simultaneous Localization and Mapping [SLAM] of Robotic Operating System for Mobile Robots",
+        "authors": "S. Gobhinath, K. Anandapoorani, K. Anitha, D. Dhivya Sri, R. DivyaDharshini",
+        "published": "2021-3-19",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaccs51430.2021.9441758"
+    },
+    {
+        "id": 14110,
+        "title": "Generalized Simultaneous Localization and Mapping (G-SLAM) as unification framework for natural and artificial intelligences: towards reverse engineering the hippocampal/entorhinal system and principles of high-level cognition",
+        "authors": "Adam Safron, Ozan Çatal, Tim Verbelen",
+        "published": "No Date",
+        "citations": 8,
+        "abstract": "Simultaneous localization and mapping (SLAM) represents a fundamental problem for autonomous embodied systems, for which the hippocampal/entorhinal system (H/E-S) has been optimized over the course of evolution. We have developed a biologically-inspired SLAM architecture based on latent variable generative modeling within the Free Energy Principle and Active Inference (FEP-AI) framework, which affords flexible navigation and planning in mobile robots. We have primarily focused on attempting to reverse engineer H/E-S ‘design’ properties, but here we consider ways in which SLAM principles from robotics may help us better understand nervous systems and emergent minds. After reviewing LatentSLAM and notable features of this control architecture, we consider how the H/E-S may realize these functional properties not only for physical navigation, but also with respect to high-level cognition understood as generalized simultaneous localization and mapping (G-SLAM). We focus on loop-closure, graph-relaxation, and node duplication as particularly impactful architectural features, suggesting these computational phenomena may contribute to understanding cognitive insight (as proto-causal-inference), accommodation (as integration into existing schemas), and assimilation (as category formation). All these operations can similarly be describable in terms of structure/category learning on multiple levels of abstraction. However, here we adopt an ecological rationality perspective, framing H/E-S functions as orchestrating SLAM processes within both concrete and abstract hypothesis spaces. In this navigation/search process, adaptive cognitive equilibration between assimilation and accommodation involves balancing tradeoffs between exploration and exploitation; this dynamic equilibrium may be near optimally realized in FEP-AI, wherein control systems governed by expected free energy objective functions naturally balance model simplicity and accuracy. With respect to structure learning, such a balance would involve constructing models and categories that are neither too inclusive nor exclusive. We propose these (generalized) SLAM phenomena may represent some of the most impactful sources of variation in cognition both within and between individuals, suggesting that modulators of H/E-S functioning may potentially illuminate their adaptive significances as fundamental cybernetic control parameters. Finally, we discuss how understanding H/E-S contributions to G-SLAM may provide a unifying framework for high-level cognition and its potential realization in artificial intelligences.",
+        "link": "http://dx.doi.org/10.31234/osf.io/tdw82"
+    },
+    {
+        "id": 14111,
+        "title": "Applying the Robust Back-End in a Complete SLAM System on A Real-World Dataset",
+        "authors": "Niko Sünderhauf",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-24017-1_7"
+    },
+    {
+        "id": 14112,
+        "title": "Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping Through Continual Learning",
+        "authors": "Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada",
+        "published": "2023",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-25555-7_3"
+    },
+    {
+        "id": 14113,
+        "title": "Forest Inventory with Long Range and High-Speed Personal Laser Scanning (PLS) and Simultaneous Localization and Mapping (SLAM) Technology",
+        "authors": "Christoph Gollob, Tim Ritter, Arne Nothdurft",
+        "published": "2020-5-9",
+        "citations": 69,
+        "abstract": "The use of new and modern sensors in forest inventory has become increasingly efficient. Nevertheless, the majority of forest inventory data are still collected manually, as part of field surveys. The reason for this is the sometimes time-consuming and incomplete data acquisition with static terrestrial laser scanning (TLS). The use of personal laser scanning (PLS) can reduce these disadvantages. In this study, we assess a new personal laser scanner and compare it with a TLS approach for the estimation of tree position and diameter in a wide range of forest types and structures. Traditionally collected forest inventory data are used as reference. A new density-based algorithm for position finding and diameter estimation is developed. In addition, several methods for diameter fitting are compared. For circular sample plots with a maximum radius of 20 m and lower diameter at breast height (dbh) threshold of 5 cm, tree mapping showed a detection of 96% for PLS and 78.5% for TLS. Using plot radii of 20 m, 15 m, and 10 m, as well as a lower dbh threshold of 10 cm, the respective detection rates for PLS were 98.76%, 98.95%, and 99.48%, while those for TLS were considerably lower (86.32%, 93.81%, and 98.35%, respectively), especially for larger sample plots. The root mean square error (RMSE) of the best dbh measurement was 2.32 cm (12.01%) for PLS and 2.55 cm (13.19%) for TLS. The highest precision of PLS and TLS, in terms of bias, were 0.21 cm (1.09%) and −0.74 cm (−3.83%), respectively. The data acquisition time for PLS took approximately 10.96 min per sample plot, 4.7 times faster than that for TLS. We conclude that the proposed PLS method is capable of efficient data capture and can detect the largest number of trees with a sufficient dbh accuracy.",
+        "link": "http://dx.doi.org/10.3390/rs12091509"
+    },
+    {
+        "id": 14114,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "Janusz Będkowski",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-19-1972-5_4"
+    },
+    {
+        "id": 14115,
+        "title": "Design and implementation of Autonomous navigation system for localization and mapping using SLAM technique",
+        "authors": "",
+        "published": "2018-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23883/ijrter.2018.4264.lk8sj"
+    },
+    {
+        "id": 14116,
+        "title": "Simultaneous Localization and Mapping (SLAM) for Synthetic Aperture Radar (SAR) Processing in the Field of Autonomous Driving",
+        "authors": "Timo Grebner, Ron Riekenbrauck, Christian Waldschmidt",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/trs.2023.3347734"
+    },
+    {
+        "id": 14117,
+        "title": "Simultaneous Localization and Mapping (SLAM) for Autonomous Driving: Concept and Analysis",
+        "authors": "Shuran Zheng, Jinling Wang, Chris Rizos, Weidong Ding, Ahmed El-Mowafy",
+        "published": "2023-2-20",
+        "citations": 16,
+        "abstract": "The Simultaneous Localization and Mapping (SLAM) technique has achieved astonishing progress over the last few decades and has generated considerable interest in the autonomous driving community. With its conceptual roots in navigation and mapping, SLAM outperforms some traditional positioning and localization techniques since it can support more reliable and robust localization, planning, and controlling to meet some key criteria for autonomous driving. In this study the authors first give an overview of the different SLAM implementation approaches and then discuss the applications of SLAM for autonomous driving with respect to different driving scenarios, vehicle system components and the characteristics of the SLAM approaches. The authors then discuss some challenging issues and current solutions when applying SLAM for autonomous driving. Some quantitative quality analysis means to evaluate the characteristics and performance of SLAM systems and to monitor the risk in SLAM estimation are reviewed. In addition, this study describes a real-world road test to demonstrate a multi-sensor-based modernized SLAM procedure for autonomous driving. The numerical results show that a high-precision 3D point cloud map can be generated by the SLAM procedure with the integration of Lidar and GNSS/INS. Online four–five cm accuracy localization solution can be achieved based on this pre-generated map and online Lidar scan matching with a tightly fused inertial system.",
+        "link": "http://dx.doi.org/10.3390/rs15041156"
+    },
+    {
+        "id": 14118,
+        "title": "RU-SLAM: A Robust Deep-Learning Visual Simultaneous Localization and Mapping (SLAM) System for Weakly Textured Underwater Environments",
+        "authors": "Zhuo Wang, Qin Cheng, Xiaokai Mu",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "Accurate and robust simultaneous localization and mapping (SLAM) systems are crucial for autonomous underwater vehicles (AUVs) to perform missions in unknown environments. However, directly applying deep learning-based SLAM methods to underwater environments poses challenges due to weak textures, image degradation, and the inability to accurately annotate keypoints. In this paper, a robust deep-learning visual SLAM system is proposed. First, a feature generator named UWNet is designed to address weak texture and image degradation problems and extract more accurate keypoint features and their descriptors. Further, the idea of knowledge distillation is introduced based on an improved underwater imaging physical model to train the network in a self-supervised manner. Finally, UWNet is integrated into the ORB-SLAM3 to replace the traditional feature extractor. The extracted local and global features are respectively utilized in the feature tracking and closed-loop detection modules. Experimental results on public datasets and self-collected pool datasets verify that the proposed system maintains high accuracy and robustness in complex scenarios.",
+        "link": "http://dx.doi.org/10.3390/s24061937"
+    },
+    {
+        "id": 14119,
+        "title": "Simultaneous Localization and Mapping (SLAM) in Swarm Robots for Map-Merging and Uniform Map Generation Using ROS",
+        "authors": "Abhishek Salunke, Chinmay Patil, Ram Mude, Radhika D. Joshi",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccae56788.2023.10111365"
+    },
+    {
+        "id": 14120,
+        "title": "Crane Collision Prevention Through the Use of Simultaneous Localization and Mapping (SLAM) Based on Feature Extraction",
+        "authors": "Jae-Yeol Song, Yun-Ho Ko",
+        "published": "2022-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5302/j.icros.2022.21.0215"
+    },
+    {
+        "id": 14121,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "Niko Sünderhauf",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-24017-1_2"
+    },
+    {
+        "id": 14122,
+        "title": "Localization, Mapping and SLAM in Marine and Underwater Environments",
+        "authors": "",
+        "published": "2022-10-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3390/books978-3-0365-5498-3"
+    },
+    {
+        "id": 14123,
+        "title": "SPM-SLAM: Simultaneous localization and mapping with squared planar markers",
+        "authors": "Rafael Muñoz-Salinas, Manuel J. Marín-Jimenez, R. Medina-Carnicer",
+        "published": "2019-2",
+        "citations": 56,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2018.09.003"
+    },
+    {
+        "id": 14124,
+        "title": "C2VIR-SLAM: Centralized Collaborative Visual-Inertial-Range Simultaneous Localization and Mapping",
+        "authors": "Jia Xie, Xiaofeng He, Jun Mao, Lilian Zhang, Xiaoping Hu",
+        "published": "2022-10-23",
+        "citations": 3,
+        "abstract": "Collaborative simultaneous localization and mapping have a great impact on various applications such as search-and-rescue and agriculture. For each agent, the key to performing collaboration is to measure the motion relative to other participants or external anchors; currently, this is mainly accompanied by (1) matching to the shared maps from other agents or (2) measuring the range to anchors with UWB devices. While requiring multiple agents to visit the same area can decrease the task efficiency and anchors demand a distribution process, this paper proposes to use a monocular camera, an inertial measurement unit (IMU), and a UWB device as the onboard sensors on each agent to build an accurate and efficient centralized collaborative SLAM system. For each participant, visual-inertial odometry is adopted to estimate the motion parameters and build a local map of the explored areas. The agent-to-agent range is measured by the onboard UWB and is published to the central server together with the estimated motion parameters and the reconstructed maps. We designed a global optimization algorithm to make use of the cross-agent map match information detected by a visual place technique, and the agent-to-agent range information to optimize the motion parameter of all the participants and merge the local maps into a global map. Compared with existing collaborative SLAM systems, the proposed system can perform collaboration with onboard UWB measurements only, vision only, and a combination of these; this greatly improves the adaptiveness and robustness of the collaborative system. We also present an in-depth analysis of C2VIR-SLAM in multiple UAV real-flight datasets.",
+        "link": "http://dx.doi.org/10.3390/drones6110312"
+    },
+    {
+        "id": 14125,
+        "title": "Accurate Visual Simultaneous Localization and Mapping (SLAM) against Around View Monitor (AVM) Distortion Error Using Weighted Generalized Iterative Closest Point (GICP)",
+        "authors": "Yangwoo Lee, Minsoo Kim, Joonwoo Ahn, Jaeheung Park",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "Accurately estimating the pose of a vehicle is important for autonomous parking. The study of around view monitor (AVM)-based visual Simultaneous Localization and Mapping (SLAM) has gained attention due to its affordability, commercial availability, and suitability for parking scenarios characterized by rapid rotations and back-and-forth movements of the vehicle. In real-world environments, however, the performance of AVM-based visual SLAM is degraded by AVM distortion errors resulting from an inaccurate camera calibration. Therefore, this paper presents an AVM-based visual SLAM for autonomous parking which is robust against AVM distortion errors. A deep learning network is employed to assign weights to parking line features based on the extent of the AVM distortion error. To obtain training data while minimizing human effort, three-dimensional (3D) Light Detection and Ranging (LiDAR) data and official parking lot guidelines are utilized. The output of the trained network model is incorporated into weighted Generalized Iterative Closest Point (GICP) for vehicle localization under distortion error conditions. The experimental results demonstrate that the proposed method reduces localization errors by an average of 39% compared with previous AVM-based visual SLAM approaches.",
+        "link": "http://dx.doi.org/10.3390/s23187947"
+    },
+    {
+        "id": 14126,
+        "title": "Drift analysis and sectional post-processing of indoor simultaneous localization and mapping (SLAM)-based laser scanning data",
+        "authors": "Aino Keitaanniemi, Petri Rönnholm, Antero Kukko, Matti T. Vaaja",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.autcon.2022.104700"
+    },
+    {
+        "id": 14127,
+        "title": "The Accuracy Comparison of Three Simultaneous Localization and Mapping (SLAM)-Based Indoor Mapping Technologies",
+        "authors": "Yuwei Chen, Jian Tang, Changhui Jiang, Lingli Zhu, Matti Lehtomäki, Harri Kaartinen, Risto Kaijaluoto, Yiwu Wang, Juha Hyyppä, Hannu Hyyppä, Hui Zhou, Ling Pei, Ruizhi Chen",
+        "published": "2018-9-25",
+        "citations": 64,
+        "abstract": "The growing interest and the market for indoor Location Based Service (LBS) have been drivers for a huge demand for building data and reconstructing and updating of indoor maps in recent years. The traditional static surveying and mapping methods can’t meet the requirements for accuracy, efficiency and productivity in a complicated indoor environment. Utilizing a Simultaneous Localization and Mapping (SLAM)-based mapping system with ranging and/or camera sensors providing point cloud data for the maps is an auspicious alternative to solve such challenges. There are various kinds of implementations with different sensors, for instance LiDAR, depth cameras, event cameras, etc. Due to the different budgets, the hardware investments and the accuracy requirements of indoor maps are diverse. However, limited studies on evaluation of these mapping systems are available to offer a guideline of appropriate hardware selection. In this paper we try to characterize them and provide some extensive references for SLAM or mapping system selection for different applications. Two different indoor scenes (a L shaped corridor and an open style library) were selected to review and compare three different mapping systems, namely: (1) a commercial Matterport system equipped with depth cameras; (2) SLAMMER: a high accuracy small footprint LiDAR with a fusion of hector-slam and graph-slam approaches; and (3) NAVIS: a low-cost large footprint LiDAR with Improved Maximum Likelihood Estimation (IMLE) algorithm developed by the Finnish Geospatial Research Institute (FGI). Firstly, an L shaped corridor (2nd floor of FGI) with approximately 80 m length was selected as the testing field for Matterport testing. Due to the lack of quantitative evaluation of Matterport indoor mapping performance, we attempted to characterize the pros and cons of the system by carrying out six field tests with different settings. The results showed that the mapping trajectory would influence the final mapping results and therefore, there was optimal Matterport configuration for better indoor mapping results. Secondly, a medium-size indoor environment (the FGI open library) was selected for evaluation of the mapping accuracy of these three indoor mapping technologies: SLAMMER, NAVIS and Matterport. Indoor referenced maps were collected with a small footprint Terrestrial Laser Scanner (TLS) and using spherical registration targets. The 2D indoor maps generated by these three mapping technologies were assessed by comparing them with the reference 2D map for accuracy evaluation; two feature selection methods were also utilized for the evaluation: interactive selection and minimum bounding rectangles (MBRs) selection. The mapping RMS errors of SLAMMER, NAVIS and Matterport were 2.0 cm, 3.9 cm and 4.4 cm, respectively, for the interactively selected features, and the corresponding values using MBR features were 1.7 cm, 3.2 cm and 4.7 cm. The corresponding detection rates for the feature points were 100%, 98.9%, 92.3% for the interactive selected features and 100%, 97.3% and 94.7% for the automated processing. The results indicated that the accuracy of all the evaluated systems could generate indoor map at centimeter-level, but also variation of the density and quality of collected point clouds determined the applicability of a system into a specific LBS.",
+        "link": "http://dx.doi.org/10.3390/s18103228"
+    },
+    {
+        "id": 14128,
+        "title": "Edge-SLAM",
+        "authors": "Ali J. Ben Ali, Zakieh Sadat Hashemifar, Karthik Dantu",
+        "published": "2020-9-21",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3372224.3417326"
+    },
+    {
+        "id": 14129,
+        "title": "Edge-SLAM",
+        "authors": "Ali J. Ben Ali, Zakieh Sadat Hashemifar, Karthik Dantu",
+        "published": "2020-6-15",
+        "citations": 26,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3386901.3389033"
+    },
+    {
+        "id": 14130,
+        "title": "Automatic Identification System (AIS) Dynamic Data Integrity Monitoring and Trajectory Tracking Based on the Simultaneous Localization and Mapping (SLAM) Process Model",
+        "authors": "Krzysztof Jaskólski, Łukasz Marchel, Andrzej Felski, Marcin Jaskólski, Mariusz Specht",
+        "published": "2021-12-17",
+        "citations": 7,
+        "abstract": "To enhance the safety of marine navigation, one needs to consider the involvement of the automatic identification system (AIS), an existing system designed for ship-to-ship and ship-to-shore communication. Previous research on the quality of AIS parameters revealed problems that the system experiences with sensor data exchange. In coastal areas, littoral AIS does not meet the expectations of operational continuity and system availability, and there are areas not covered by the system. Therefore, in this study, process models were designed to simulate the tracking of vessel trajectories, enabling system failure detection based on integrity monitoring. Three methods for system integrity monitoring, through hypotheses testing with regard to differences between model output and actual simulated vessel positions, were implemented, i.e., a Global Positioning System (GPS) ship position model, Dead Reckoning and RADAR Extended Kalman Filter (EKF)—Simultaneous localization and mapping (SLAM) based on distance and bearing to navigational aid. The designed process models were validated on simulated AIS dynamic data, i.e., in a simulated experiment in the area of Gdańsk Bay. The integrity of AIS information was determined using stochastic methods based on Markov chains. The research outcomes confirmed the usefulness of the proposed methods. The results of the research prove the high level (~99%) of integrity of the dynamic information of the AIS system for Dead Reckoning and the GPS process model, while the level of accuracy and integrity of the position varied depending on the distance to the navigation aid for the RADAR EKF-SLAM process model.",
+        "link": "http://dx.doi.org/10.3390/s21248430"
+    },
+    {
+        "id": 14131,
+        "title": "SOFT‐SLAM: Computationally efficient stereo visual simultaneous localization and mapping for autonomous unmanned aerial vehicles",
+        "authors": "Igor Cvišić, Josip Ćesić, Ivan Marković, Ivan Petrović",
+        "published": "2018-6",
+        "citations": 81,
+        "abstract": "AbstractAutonomous navigation of unmanned aerial vehicles (UAVs) in GPS‐denied environments is a challenging problem, especially for small‐scale UAVs characterized by a small payload and limited battery autonomy. A possible solution to the aforementioned problem is vision‐based simultaneous localization and mapping (SLAM), since cameras, due to their dimensions, low weight, availability, and large information bandwidth, circumvent all the constraints of UAVs. In this paper, we propose a stereo vision SLAM yielding very accurate localization and a dense map of the environment developed with the aim to compete in the European Robotics Challenges (EuRoC) targeting airborne inspection of industrial facilities with small‐scale UAVs. The proposed approach consists of a novel stereo odometry algorithm relying on feature tracking (SOFT), which currently ranks first among all stereo methods on the KITTI dataset. Relying on SOFT for pose estimation, we build a feature‐based pose graph SLAM solution, which we dub SOFT‐SLAM. SOFT‐SLAM has a completely separate odometry and mapping threads supporting large loop‐closing and global consistency. It also achieves a constant‐time execution rate of 20 Hz with deterministic results using only two threads of an onboard computer used in the challenge. The UAV running our SLAM algorithm obtained the highest localization score in the EuRoC Challenge 3, Stage IIa–Benchmarking, Task 2. Furthermore, we also present an exhaustive evaluation of SOFT‐SLAM on two popular public datasets, and we compare it to other state‐of‐the‐art approaches, namely ORB‐SLAM2 and LSD‐SLAM. The results show that SOFT‐SLAM obtains better localization accuracy on the majority of datasets sequences, while also having a lower runtime.",
+        "link": "http://dx.doi.org/10.1002/rob.21762"
+    },
+    {
+        "id": 14132,
+        "title": "Review: Issues and Challenges of Simultaneous Localization and Mapping (SLAM) Technology in Autonomous Robot",
+        "authors": "Muhammad Umar Diginsa, Noraimi Shafie, Nazir Yusuf, Sabi’U Usman Suleiman",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "To aid in robot navigation and environment analysis, visual SLAM systems process visual data. Things like AMRs (autonomous mobile robots) and AGVs (autonomous guided vehicles) have been gaining popularity in recent years. These robots depend significantly on simultaneous localization and mapping (SLAM) technology to keep the factory floor free of accidents. vSLAM employs a technique for estimating the precise positioning and orientation of a sensor relative to its environment as well as the navigation of the region around it. SLAM algorithms can be used in various applications, including self-driving vehicles, mobile robots, drones, etc. Visual SLAM does not refer to a particular set of methods or software. This paper proposes to review some of the issues and challenges facing SLAM technology in autonomous robot applications and draw a conclusion.",
+        "link": "http://dx.doi.org/10.11113/ijic.v13n2.408"
+    },
+    {
+        "id": 14133,
+        "title": "Feature-Based SLAM: Why Simultaneous Localisation and Mapping?",
+        "authors": "Liang Zhao, Zhehua Mao, Shoudong Huang",
+        "published": "2021-7-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15607/rss.2021.xvii.009"
+    },
+    {
+        "id": 14134,
+        "title": "Mobile augmented reality for furniture visualization using Simultaneous Localization and Mapping (SLAM)",
+        "authors": "W Ramadhan, B Arifitama, S D H Permana",
+        "published": "2021-3-1",
+        "citations": 1,
+        "abstract": "Abstract\nThe purpose of this research is to visualize furniture objects from a catalogue using a markerless augmented reality tracking. Augmented reality is applied to help customers to envision an augmented object for learning the product knowledge of the furniture chosen. The markerless tracking method used in this research is a Simultaneous Localization and Mapping (SLAM), where a targeted surface of the floor for an augmented object can be determined in certain areas in the real world without using a marker. Testing was performed with parameters such as with a minimum of lighting intensity from without lighting, low lighting and bright lighting, a minimum of distance from 50 cm, 100 cm, and 150 cm, a minimum of height from 60 cm,120 cm,160 cm, and a minimum of angle from 30,50 and 70 degree of detection from the surface of the floor. The result of this research is the Simultaneous Localization and Mapping method is confirmed to be adequate for visualizing the 3D furniture model on targeted the surface of the floor without markers.",
+        "link": "http://dx.doi.org/10.1088/1757-899x/1098/6/062008"
+    },
+    {
+        "id": 14135,
+        "title": "EMS-SLAM: Edge-Assisted Multi-Agent System Simultaneous Localization and Mapping",
+        "authors": "Kai Hu, Lei Zhan, Longhao Zou, Zuozhou Chen, Gabriel-Miro Muntean",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/vtc2023-spring57618.2023.10201031"
+    },
+    {
+        "id": 14136,
+        "title": "Semantic visual simultaneous localization and mapping (SLAM) using deep learning for dynamic scenes",
+        "authors": "Xiao Ya Zhang, Abdul Hadi Abd Rahman, Faizan Qamar",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "Simultaneous localization and mapping (SLAM) is a fundamental problem in robotics and computer vision. It involves the task of a robot or an autonomous system navigating an unknown environment, simultaneously creating a map of the surroundings, and accurately estimating its position within that map. While significant progress has been made in SLAM over the years, challenges still need to be addressed. One prominent issue is robustness and accuracy in dynamic environments, which can cause uncertainties and errors in the estimation process. Traditional methods using temporal information to differentiate static and dynamic objects have limitations in accuracy and applicability. Nowadays, many research trends have leaned towards utilizing deep learning-based methods which leverage the capabilities to handle dynamic objects, semantic segmentation, and motion estimation, aiming to improve accuracy and adaptability in complex scenes. This article proposed an approach to enhance monocular visual odometry’s robustness and precision in dynamic environments. An enhanced algorithm using the semantic segmentation algorithm DeeplabV3+ is used to identify dynamic objects in the image and then apply the motion consistency check to remove feature points belonging to dynamic objects. The remaining static feature points are then used for feature matching and pose estimation based on ORB-SLAM2 using the Technical University of Munich (TUM) dataset. Experimental results show that our method outperforms traditional visual odometry methods in accuracy and robustness, especially in dynamic environments. By eliminating the influence of moving objects, our method improves the accuracy and robustness of visual odometry in dynamic environments. Compared to the traditional ORB-SLAM2, the results show that the system significantly reduces the absolute trajectory error and the relative pose error in dynamic scenes. Our approach has significantly improved the accuracy and robustness of the SLAM system’s pose estimation.",
+        "link": "http://dx.doi.org/10.7717/peerj-cs.1628"
+    },
+    {
+        "id": 14137,
+        "title": "Special issue on recent advancements in simultaneous localization and mapping (SLAM) and its applications",
+        "authors": "Seonghun Hong, Soon‐Yong Park, Sejin Lee, Junho Kim, Jong‐Il Park",
+        "published": "2021-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4218/etr2.12398"
+    },
+    {
+        "id": 14138,
+        "title": "Underwater Simultaneous Localization and Mapping Based on 2D-SLAM Framework",
+        "authors": "Zihao Xu, Haiyang Qiu, Miao Dong, Hui Wang, Chao Wang",
+        "published": "2022-10-28",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icus55513.2022.9986921"
+    },
+    {
+        "id": 14139,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-17885-1_101198"
+    },
+    {
+        "id": 14140,
+        "title": "Fault-Tolerant Mapping and Localization for Quadrotor UAVs",
+        "authors": "",
+        "published": "2020-1-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2021-1812.vid"
+    },
+    {
+        "id": 14141,
+        "title": "ROPY-SLAM: a Heterogeneous CPU-FPGA System for Simultaneous Localization and Mapping",
+        "authors": "Weiyi Zhang, Liting Niu, Chaoyang Ding, Yiyang Wang, Fasih Ud Din Farrukh, Chun Zhang",
+        "published": "2022-10-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icta56932.2022.9963112"
+    },
+    {
+        "id": 14142,
+        "title": "Robotic Vision: Simultaneous Localization And Mapping (SLAM) and Object Recognition",
+        "authors": "Soham Pendkar, Pratibha Shingare",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-99-5088-1_9"
+    },
+    {
+        "id": 14143,
+        "title": "Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems",
+        "authors": "Pierre-Yves Lajoie, Giovanni Beltrame",
+        "published": "2024-1",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3333742"
+    },
+    {
+        "id": 14144,
+        "title": "A Multi-Sensorial Simultaneous Localization and Mapping (SLAM) System for Low-Cost Micro Aerial Vehicles in GPS-Denied Environments",
+        "authors": "Elena López, Sergio García, Rafael Barea, Luis Bergasa, Eduardo Molinos, Roberto Arroyo, Eduardo Romera, Samuel Pardo",
+        "published": "2017-4-8",
+        "citations": 62,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3390/s17040802"
+    },
+    {
+        "id": 14145,
+        "title": "Robust non-Gaussian semantic simultaneous localization and mapping",
+        "authors": "Kevin J. Doherty",
+        "published": "2019",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1575/1912/24859"
+    },
+    {
+        "id": 14146,
+        "title": "An Application of the Simultaneous Localization and Mapping (SLAM) Method Based on the Unscented Kalman Filter (UKF) to a Reconfigurable Quadruped Robot with Crawling Locomotion",
+        "authors": "Takuma Nemoto, Keichi Onodera, Rajesh Elara Mohan, Masami Iwase, Kristin Wood",
+        "published": "2018-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/remar.2018.8449851"
+    },
+    {
+        "id": 14147,
+        "title": "Adoption of Big Data Streaming Techniques for Simultaneous Localization and Mapping (SLAM) in IoT-Aided Robotics Devices",
+        "authors": "Nyasha Fadzai Thusabantu, G. Vadivu",
+        "published": "2019",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-13-0617-4_31"
+    },
+    {
+        "id": 14148,
+        "title": "CCM‐SLAM: Robust and efficient centralized collaborative monocular simultaneous localization and mapping for robotic teams",
+        "authors": "Patrik Schmuck, Margarita Chli",
+        "published": "2019-6",
+        "citations": 125,
+        "abstract": "AbstractRobotic collaboration promises increased robustness and efficiency of missions with great potential in applications, such as search‐and‐rescue and agriculture. Multiagent collaborative simultaneous localization and mapping (SLAM) is right at the core of enabling collaboration, such that each agent can colocalize in and build a map of the workspace. The key challenges at the heart of this problem, however, lie with robust communication, efficient data management, and effective sharing of information among the agents. To this end, here we present CCM‐SLAM, a centralized collaborative SLAM framework for robotic agents, each equipped with a monocular camera, a communication unit, and a small processing board. With each agent able to run visual odometry onboard, CCM‐SLAM ensures their autonomy as individuals, while a central server with potentially bigger computational capacity enables their collaboration by collecting all their experiences, merging and optimizing their maps, or disseminating information back to them, where appropriate. An in‐depth analysis on benchmarking datasets addresses the scalability and the robustness of CCM‐SLAM to information loss and communication delays commonly occurring during real missions. This reveals that in the worst case of communication loss, collaboration is affected, but not the autonomy of the agents. Finally, the practicality of the proposed framework is demonstrated with real flights of three small aircraft equipped with different sensors and computational capabilities onboard and a standard laptop as the server, collaboratively estimating their poses and the scene on the fly.",
+        "link": "http://dx.doi.org/10.1002/rob.21854"
+    },
+    {
+        "id": 14149,
+        "title": "GAN-SLAM: GAN based Monocular Visual-Inertial Simultaneous Localization and Mapping in Dark Environments",
+        "authors": "Qieshi Zhang, Luoying Hao, Hongjian Li, Ziliang Ren, Jun Cheng",
+        "published": "2022-4-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isas55863.2022.9757267"
+    },
+    {
+        "id": 14150,
+        "title": "Robotics Meets<scp>RFID</scp>for Simultaneous Localization (of Robots and Objects) and Mapping (<scp>SLAM</scp>) – A Joined Problem",
+        "authors": "Antonis G. Dimitriou, Stavroula Siachalou, Emmanouil Tsardoulias, Loukas Petrou",
+        "published": "2020-3-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/9781119578598.ch7"
+    },
+    {
+        "id": 14151,
+        "title": "RTOB SLAM: Real-Time Onboard Laser-Based Localization and Mapping",
+        "authors": "Leonard Bauersfeld, Guillaume Ducard",
+        "published": "2021-11-16",
+        "citations": 1,
+        "abstract": "RTOB-SLAM is a new low-computation framework for real-time onboard simultaneous localization and mapping (SLAM) and obstacle avoidance for autonomous vehicles. A low-resolution 2D laser scanner is used and a small form-factor computer perform all computations onboard. The SLAM process is based on laser scan matching with the iterative closest point technique to estimate the vehicle’s current position by aligning the new scan with the map. This paper describes a new method which uses only a small subsample of the global map for scan matching, which improves the performance and allows for a map to adapt to a dynamic environment by partly forgetting the past. A detailed comparison between this method and current state-of-the-art SLAM frameworks is given, together with a methodology to choose the parameters of the RTOB-SLAM. The RTOB-SLAM has been implemented in ROS and perform well in various simulations and real experiments.",
+        "link": "http://dx.doi.org/10.3390/vehicles3040046"
+    },
+    {
+        "id": 14152,
+        "title": "EMoVI-SLAM: Embedded Monocular Visual Inertial SLAM with Scale Update for Large Scale Mapping and Localization",
+        "authors": "Sami Ullah, Bowen Song, Weidong Chen",
+        "published": "2018-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/roman.2018.8525794"
+    },
+    {
+        "id": 14153,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "Changhui Song",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-10-6946-8_298"
+    },
+    {
+        "id": 14154,
+        "title": "The Alization of Real-Time Semi-Dense 3D Reconstruction and Simultaneous Localization and Mapping of Smart Phone Based on Orb-Slam",
+        "authors": "鹏飞 卢",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/csa.2020.1011224"
+    },
+    {
+        "id": 14155,
+        "title": "A State of the Art in Simultaneous Localization and Mapping (SLAM) for Unmanned Ariel Vehicle (UAV): A Review",
+        "authors": "Abdul Rauf, Muhammad Jehanzeb Irshad, Muhammad Wasif, Zubair Mehmood, Tayybah Kiren, Nazam Siddique",
+        "published": "2022-6-1",
+        "citations": 1,
+        "abstract": "Abstract\nFor the past decade, the main problem that has attracted researchers’ attention in aerial robotics is the position estimation or Simultaneous Localization and Mapping (SLAM) of Unmanned Aerial Vehicles (UAVs) where the GPS signal is poor or denied. This article reviews the strengths and weaknesses of existing methods in the field of aerial robotics. There are many different techniques and algorithms that are used to overcome the localization and mapping problem of these UAVs. These techniques and algorithms use different sensors, such as Red Green Blue-Depth (RGB_D), Light Detecting and Ranging (LIDAR), and Ultra-wideband (UWB). The most common technique is used, i.e., probability-based SLAM, which uses two algorithms: Linear Kalman Filter (LKF) and Extended Kalman Filter (EKF). LKF consists of five phases and this algorithm is just used for linear system problems. However, the EKF algorithm is used for non-linear systems. Aerial robots are used to perform many tasks, such as rescue, transportation, search, control, monitoring, and different military operations because of their vast top view. These properties are increasing their demand as compared to human service. In this paper, different techniques for the localization of aerial vehicles are discussed in terms of advantages and disadvantages, practicality and efficiency. This paper enables future researchers to find the suitable SLAM solution based on their problems; either the researcher is dealing with a linear problem or a non-linear problem.",
+        "link": "http://dx.doi.org/10.2478/ecce-2022-0007"
+    },
+    {
+        "id": 14156,
+        "title": "A Generalized Odometry for Implementation of Simultaneous Localization and Mapping for Mobile Robots",
+        "authors": "Kethavath Raj Kumar",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0007922603950400"
+    },
+    {
+        "id": 14157,
+        "title": "Real-Time Monocular SLAM: Accurate Localization and Mapping Using Point Map and Search-by-Projection Approach",
+        "authors": "Aneesh Khole, Atharva Thakar, Shreyas Shende, Varad Karajkhede",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>This paper presents a real-time monocular SLAM system that utilizes a point map and search-by-projection approach for accurate localization and mapping. The system maintains a map of 3D points observed in multiple frames and extracts keypoints and descriptors from each frame. It establishes correspondences between frames and map points using search-by-projection, recording observations based on proximity and feature similarity. Pose optimization is employed to refine camera poses and improve trajectory estimation. Experimental results demonstrate robust localization and mapping in real-time, even in challenging environments with dynamic scenes and significant camera motion. The proposed system offers efficiency for immediate feedback and response in various applications. </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.22819913"
+    },
+    {
+        "id": 14158,
+        "title": "Generalized Simultaneous Localization and Mapping (G-SLAM) as unification framework for natural and artificial intelligences: towards reverse engineering the hippocampal/entorhinal system and principles of high-level cognition",
+        "authors": "Adam Safron, Ozan Çatal, Tim Verbelen",
+        "published": "2022-9-30",
+        "citations": 7,
+        "abstract": "Simultaneous localization and mapping (SLAM) represents a fundamental problem for autonomous embodied systems, for which the hippocampal/entorhinal system (H/E-S) has been optimized over the course of evolution. We have developed a biologically-inspired SLAM architecture based on latent variable generative modeling within the Free Energy Principle and Active Inference (FEP-AI) framework, which affords flexible navigation and planning in mobile robots. We have primarily focused on attempting to reverse engineer H/E-S “design” properties, but here we consider ways in which SLAM principles from robotics may help us better understand nervous systems and emergent minds. After reviewing LatentSLAM and notable features of this control architecture, we consider how the H/E-S may realize these functional properties not only for physical navigation, but also with respect to high-level cognition understood as generalized simultaneous localization and mapping (G-SLAM). We focus on loop-closure, graph-relaxation, and node duplication as particularly impactful architectural features, suggesting these computational phenomena may contribute to understanding cognitive insight (as proto-causal-inference), accommodation (as integration into existing schemas), and assimilation (as category formation). All these operations can similarly be describable in terms of structure/category learning on multiple levels of abstraction. However, here we adopt an ecological rationality perspective, framing H/E-S functions as orchestrating SLAM processes within both concrete and abstract hypothesis spaces. In this navigation/search process, adaptive cognitive equilibration between assimilation and accommodation involves balancing tradeoffs between exploration and exploitation; this dynamic equilibrium may be near optimally realized in FEP-AI, wherein control systems governed by expected free energy objective functions naturally balance model simplicity and accuracy. With respect to structure learning, such a balance would involve constructing models and categories that are neither too inclusive nor exclusive. We propose these (generalized) SLAM phenomena may represent some of the most impactful sources of variation in cognition both within and between individuals, suggesting that modulators of H/E-S functioning may potentially illuminate their adaptive significances as fundamental cybernetic control parameters. Finally, we discuss how understanding H/E-S contributions to G-SLAM may provide a unifying framework for high-level cognition and its potential realization in artificial intelligences.",
+        "link": "http://dx.doi.org/10.3389/fnsys.2022.787659"
+    },
+    {
+        "id": 14159,
+        "title": "Real-Time Monocular SLAM: Accurate Localization and Mapping Using Point Map and Search-by-Projection Approach",
+        "authors": "Aneesh Khole, Atharva Thakar, Shreyas Shende, Varad Karajkhede",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>This paper presents a real-time monocular SLAM system that utilizes a point map and search-by-projection approach for accurate localization and mapping. The system maintains a map of 3D points observed in multiple frames and extracts keypoints and descriptors from each frame. It establishes correspondences between frames and map points using search-by-projection, recording observations based on proximity and feature similarity. Pose optimization is employed to refine camera poses and improve trajectory estimation. Experimental results demonstrate robust localization and mapping in real-time, even in challenging environments with dynamic scenes and significant camera motion. The proposed system offers efficiency for immediate feedback and response in various applications. </p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.22819913.v1"
+    },
+    {
+        "id": 14160,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "Cyrill Stachniss",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-662-47094-7_49"
+    },
+    {
+        "id": 14161,
+        "title": "Scalable Algorithms for Simultaneous Mapping and Localization of Mobile Robot Swarms",
+        "authors": "Anton Filatov, Kirill Krinkin",
+        "published": "2023-5-10",
+        "citations": 0,
+        "abstract": "The chapter is devoted to the development of scalable algorithms for multi-agent solution of the SLAM problem. These algorithms are applicable to robots with limited computational resources, having limited computational power and memory, small spatial size, and power from a portable battery. To simplify the description, only robots equipped with LIDAR are considered. The main focus is as follows: a scalable multi-agent SLAM algorithm based on Dempster-Shafer theory; an algorithm for filtering two-dimensional laser scans to free up computational resources; evaluation of the accuracy of the map and trajectory constructed by the multi-agent algorithm; performance evaluation on resource-limited computing devices.",
+        "link": "http://dx.doi.org/10.5772/intechopen.108315"
+    },
+    {
+        "id": 14162,
+        "title": "Visual Simultaneous Localization and Mapping",
+        "authors": "Margarita Chli",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-642-41610-1_72-1"
+    },
+    {
+        "id": 14163,
+        "title": "Simultaneous Localization and Mapping",
+        "authors": "Changhui Song",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-10-6963-5_298-1"
+    },
+    {
+        "id": 14164,
+        "title": "SLAM-share",
+        "authors": "Aditya Dhakal, Xukan Ran, Yunshu Wang, Jiasi Chen, K. K. Ramakrishnan",
+        "published": "2022-11-30",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3555050.3569142"
+    },
+    {
+        "id": 14165,
+        "title": "Principal Component Analysis (PCA) and Hough Transform as Tool for Simultaneous Localization and Mapping (SLAM) with Sparse and Noisy Sensors",
+        "authors": "Stephanie Kamarry Sousa, Raimundo Carlos Freire, Elyson Adan Carvalho, Lucas Molina, Eduardo Oliveira Freire",
+        "published": "2020-12-3",
+        "citations": 0,
+        "abstract": "This work proposes a method of handling the difficulties generated by sparse and noisy sensorial output from a small quantity of ultrasonic sensors in order to develop a low cost SLAM system. A pre processing step of detecting faulty sensors was implemented by applying PCA on the available data in order to extract more reliable baseline features through the Hough Transform. Furthermore, we analyze the influence of odometry errors and failures in the localization of a differential driven mobile robot. This method is suitable for indoor and orthogonal shaped environments, especially for medium and short term tasks, such as exploration, rescue and inspection. The experimental results demonstrate the accuracy and robustness to noise and sensorial failures.",
+        "link": "http://dx.doi.org/10.29292/jics.v15i3.162"
+    },
+    {
+        "id": 14166,
+        "title": "Comparison of Visual and LiDAR SLAM Algorithms using NASA Flight Test Data",
+        "authors": "",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2023-2679.vid"
+    },
+    {
+        "id": 14167,
+        "title": "I2-SLAM: Fusing Infrared Camera and IMU for Simultaneous Localization and Mapping",
+        "authors": "Tong Hua, Ling Pei, Tao Li, Qi Wu, Ruochen Wang, Wenxian Yu",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-16-9492-9_278"
+    },
+    {
+        "id": 14168,
+        "title": "Parallelized Slam: Enhancing Mapping and Localization Through Concurrent Processing",
+        "authors": "Francisco J. Romero-Ramirez, Miguel Cazorla, Manuel J. Marin-Jimenez, Rafael Medina-Carnicer, Rafael Muñoz-Salinas",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4635953"
+    },
+    {
+        "id": 14169,
+        "title": "InfoLa-SLAM: Efficient Lidar-Based Lightweight Simultaneous Localization and Mapping with Information-Based Keyframe Selection and Landmarks Assisted Relocalization",
+        "authors": "Yuan Lin, Haiqing Dong, Wentao Ye, Xue Dong, Shuogui Xu",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "This work reports an information-based landmarks assisted simultaneous localization and mapping (InfoLa-SLAM) in large-scale scenes using single-line lidar. The solution employed two novel designs. The first design was a keyframe selection method based on Fisher information, which reduced the computational cost of the nonlinear optimization for the back-end of SLAM by selecting a relatively small number of keyframes while ensuring the accuracy of mapping. The Fisher information was acquired from the point cloud registration between the current frame and the previous keyframe. The second design was an efficient global descriptor for place recognition, which was achieved by designing a unique graphical feature ID to effectively match the local map with the global one. The results showed that compared with traditional keyframe selection strategies (e.g., based on time, angle, or distance), the proposed method allowed for a 35.16% reduction in the number of keyframes in a warehouse with an area of about 10,000 m2. The relocalization module demonstrated a high probability (96%) of correction even under high levels of measurement noise (0.05 m), while the time consumption for relocalization was below 28 ms. The proposed InfoLa-SLAM was also compared with Cartographer under the same dataset. The results showed that InfoLa-SLAM achieved very similar mapping accuracy to Cartographer but excelled in lightweight performance, achieving a 9.11% reduction in the CPU load and a significant 56.67% decrease in the memory consumption.",
+        "link": "http://dx.doi.org/10.3390/rs15184627"
+    },
+    {
+        "id": 14170,
+        "title": "Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping",
+        "authors": "Ali J. Ben Ali, Marziye Kouroshli, Sofiya Semenova, Zakieh Sadat Hashemifar, Steven Y. Ko, Karthik Dantu",
+        "published": "2023-1-31",
+        "citations": 16,
+        "abstract": "Localization in urban environments is becoming increasingly important and used in tools such as ARCore [18], ARKit [34] and others. One popular mechanism to achieve accurate indoor localization and a map of the space is using Visual Simultaneous Localization and Mapping (Visual-SLAM). However, Visual-SLAM is known to be resource-intensive in memory and processing time. Furthermore, some of the operations grow in complexity over time, making it challenging to run on mobile devices continuously. Edge computing provides additional compute and memory resources to mobile devices to allow offloading tasks without the large latencies seen when offloading to the cloud.In this article, we present Edge-SLAM, a system that uses edge computing resources to offload parts of Visual-SLAM. We use ORB-SLAM2 [50] as a prototypical Visual-SLAM system and modify it to a split architecture between the edge and the mobile device. We keep the tracking computation on the mobile device and move the rest of the computation, i.e., local mapping and loop closing, to the edge. We describe the design choices in this effort and implement them in our prototype. Our results show that our split architecture can allow the functioning of the Visual-SLAM system long-term with limited resources without affecting the accuracy of operation. It also keeps the computation and memory cost on the mobile device constant, which would allow for the deployment of other end applications that use Visual-SLAM. We perform a detailed performance and resources use (CPU, memory, network, and power) analysis to fully understand the effect of our proposed split architecture.",
+        "link": "http://dx.doi.org/10.1145/3561972"
+    }
+]

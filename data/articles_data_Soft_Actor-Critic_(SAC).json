@@ -1,0 +1,902 @@
+[
+    {
+        "id": 16971,
+        "title": "A Path Planning for Unmanned Aerial Vehicles Using SAC (Soft Actor Critic) Algorithm",
+        "authors": "Soo-Jong Hyeon, Tae-Young Kang, Chang-Kyung Ryoo",
+        "published": "2022-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5302/j.icros.2022.21.0220"
+    },
+    {
+        "id": 16972,
+        "title": "SAC-AP: Soft Actor Critic based Deep Reinforcement Learning for Alert Prioritization",
+        "authors": "Lalitha Chavali, Tanay Gupta, Paresh Saxena",
+        "published": "2022-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cec55065.2022.9870423"
+    },
+    {
+        "id": 16973,
+        "title": "Soft Actor Critic (SAC) based Automatic Policy Generation and Effective Framework for Dynamic Trust Management for Securing SDN",
+        "authors": "Sahana D S, Brahmananda S H",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThe Software Define Network (SDN) integrated with Internet of Things (IoT) reduces the scalability of IoT devices by managing the network, however the SDN are easily vulnerable to attacks as they used centralized controller for managing the network which can be easily manipulate by the attackers. The existing approaches focused on secure access control to the SDN controller but limits with controller scalability and trust management. By leveraging the problems in existing works, we propose SDMAC-Secure DynaMic Access Control framework which improves the security and provide efficient services to entities. Initially, all the users and applications are registered with attributes based on the registration, the authentication is performed to ensure the legitimacy. The policies are generated for the legitimate users by using Soft Actor Critic (SAC) which considers attributes, actions permitted, and temporal features to enhance network security, the conflicts between the policies are reduced by validating and storing the policies to database by the administrator. The proposed work is validated using iFog Sim tool and the performance comparisons between proposed and existing works are validated with several metrics. The simulation result shows that the proposed model work outperforms better than existing works.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2385922/v1"
+    },
+    {
+        "id": 16974,
+        "title": "SAC-ABR: Soft Actor-Critic based deep reinforcement learning for Adaptive BitRate streaming",
+        "authors": "Mandan Naresh, Nandiraju Gireesh, Paresh Saxena, Manik Gupta",
+        "published": "2022-1-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/comsnets53615.2022.9668424"
+    },
+    {
+        "id": 16975,
+        "title": "Soft Actor-Critic With Integer Actions",
+        "authors": "Ting-Han Fan, Yubo Wang",
+        "published": "2022-6-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/acc53348.2022.9867395"
+    },
+    {
+        "id": 16976,
+        "title": "Soft Actor-Criticの改良による出力抑制と頑健化",
+        "authors": "Taisuke KOBAYASHI",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1299/jsmermd.2023.2a2-e14"
+    },
+    {
+        "id": 16977,
+        "title": "Robust Soft Actor Critic Tracking Network",
+        "authors": "Kexin Chen, Baojie Fan, Yang Ding, Zhiquan Wang",
+        "published": "2022-11-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac57257.2022.10055621"
+    },
+    {
+        "id": 16978,
+        "title": "Transformer Model Based Soft Actor-Critic Learning for HEMS",
+        "authors": "Ulrich Ludolfinger, Vedran S. Peric, Thomas Hamacher, Sascha Hauke, Maren Martens",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>The transition to weather dependent renewable energy generators requires the electric loads to be adjusted to generation. This is made possible by demand response programs and home energy management systems. However, practically easy to use rule-based control systems often miss many optimization potentials. Self-learning alternatives employing reinforcement learning often ignore the partial observability of the building control problem and consequently neglect the importance of the observation history. Adaptive control systems that do consider that history often rely on policies that suffer from catastrophic forgetting, which makes them unable to fully grasp long histories.</p>\n<p>As an alternative, we present a new reinforcement learning method for autonomous building energy management control based on the soft actor-critic method and the transformer deep neural network architecture. For the control of a heat pump and an the inlet port of a thermal storage, under consideration of photovoltaic generations and dynamic electricity prices, we formulate the problem as partially observable and use the history of observations to determine the control signals. We show, based on a validated building simulation, that our method outperforms rule-based as well as reinforcement learning methods that use multi layer perceptrons or recurrent neural networks as policy.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.23264429"
+    },
+    {
+        "id": 16979,
+        "title": "Regularized Soft Actor-Critic for Behavior Transfer Learning",
+        "authors": "Mingxi Tan, Andong Tian, Ludovic Denoyer",
+        "published": "2022-8-21",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cog51982.2022.9893655"
+    },
+    {
+        "id": 16980,
+        "title": "Geom-SAC: Geometric multi-discrete soft actor critic with applications in de novo drug design",
+        "authors": "Amgad Abdallah, Nada Adel, Am El Kerdawy, Shihori Tanabe, Frédéric Andrès, Andreas Pester, Hesham H. Ali",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/access.2024.3377289"
+    },
+    {
+        "id": 16981,
+        "title": "Soft Actor Critic Swing Up of a Real Inverted Pendulum on a Cart",
+        "authors": "Raniero Humberto Calderon",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The inverted pendulum, is a classical experiment widely used as a benchmark for research in control systems, due to its challenging dynamics. In this paper, Deep Reinforcement Learning is used to control a real inverted pendulum on a cart. The Soft Actor Critic algorithm with automatic entropy tuning is used to train an agent capable of acting as a controller. The agent is trained on real data collected on an episodic basis and learns to carry out the swing up control task successfully.",
+        "link": "http://dx.doi.org/10.53375/icmame.2023.403"
+    },
+    {
+        "id": 16982,
+        "title": "Transformer Model Based Soft Actor-Critic Learning for HEMS",
+        "authors": "Ulrich Ludolfinger, Vedran S. Peric, Thomas Hamacher, Sascha Hauke, Maren Martens",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>The transition to weather dependent renewable energy generators requires the electric loads to be adjusted to generation. This is made possible by demand response programs and home energy management systems. However, practically easy to use rule-based control systems often miss many optimization potentials. Self-learning alternatives employing reinforcement learning often ignore the partial observability of the building control problem and consequently neglect the importance of the observation history. Adaptive control systems that do consider that history often rely on policies that suffer from catastrophic forgetting, which makes them unable to fully grasp long histories.</p>\n<p>As an alternative, we present a new reinforcement learning method for autonomous building energy management control based on the soft actor-critic method and the transformer deep neural network architecture. For the control of a heat pump and an the inlet port of a thermal storage, under consideration of photovoltaic generations and dynamic electricity prices, we formulate the problem as partially observable and use the history of observations to determine the control signals. We show, based on a validated building simulation, that our method outperforms rule-based as well as reinforcement learning methods that use multi layer perceptrons or recurrent neural networks as policy.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.23264429.v1"
+    },
+    {
+        "id": 16983,
+        "title": "When Visible Light Communication Meets RIS: A Soft Actor-Critic Approach",
+        "authors": "Long Zhang, Xingliang Jia, Choong Seon Hong, Zhu Han",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.36227/techrxiv.170326666.65516785/v1"
+    },
+    {
+        "id": 16984,
+        "title": "Optimization of High-Speed Train Operation Control Based on Soft Actor-Critic Deep Reinforcement Learning Algorithm",
+        "authors": "Huiqin Pei, Zhuyuan Lan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4573607"
+    },
+    {
+        "id": 16985,
+        "title": "SAC-FACT: Soft Actor-Critic Reinforcement Learning for Counterfactual Explanations",
+        "authors": "Fatima Ezzeddine, Omran Ayoub, Davide Andreoletti, Silvia Giordano",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-44064-9_12"
+    },
+    {
+        "id": 16986,
+        "title": "Actor–critic learning based PID control for robotic manipulators",
+        "authors": "Hamed Rahimi Nohooji, Abolfazl Zaraki, Holger Voos",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.111153"
+    },
+    {
+        "id": 16987,
+        "title": "Latent Context Based Soft Actor-Critic",
+        "authors": "Yuan Pu, Shaochen Wang, Xin Yao, Bin Li",
+        "published": "2020-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9207008"
+    },
+    {
+        "id": 16988,
+        "title": "Autonomous Decision-Making Generation of UAV based on Soft Actor-Critic Algorithm",
+        "authors": "Yan Cheng, Yong Song",
+        "published": "2020-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/ccc50068.2020.9188886"
+    },
+    {
+        "id": 16989,
+        "title": "Online Virtual Training in Soft Actor-Critic for Autonomous Driving",
+        "authors": "Maryam Savari, Yoonsuck Choe",
+        "published": "2021-7-18",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9533791"
+    },
+    {
+        "id": 16990,
+        "title": "When Visible Light Communication Meets RIS: A Soft Actor-Critic Approach",
+        "authors": "Long Zhang, Xingliang Jia, Ni Tian, Choong Seon Hong, Zhu Han",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "This letter considers a reconfigurable intelligent surface (RIS)-aided\nindoor visible light communication system, where a mirror array-based\nRIS is deployed to assist the communication from a light-emitting diode\n(LED) to multiple user terminals (UTs). We aim to maximize the sum-rate\nin an entire serving period by jointly optimizing the orientation of the\nRIS reflecting unit, the time fraction for the UT, and the transmit\npower at the LED, subject to the communication and illumination\nintensity requirements. To solve this high-dimensional non-convex\nproblem, we transform it as a constrained Markov decision process. Then,\na soft actor-critic (SAC)-based deep reinforcement learning algorithm is\nproposed with the goal of maximizing both the average reward and the\nexpected policy entropy. Simulation results prove the effectiveness of\nthe proposed SAC-based joint optimization design in improving the\nsum-rate and long-term average reward.",
+        "link": "http://dx.doi.org/10.36227/techrxiv.170326666.65516785/v2"
+    },
+    {
+        "id": 16991,
+        "title": "Discriminator Soft Actor Critic without Extrinsic Rewards",
+        "authors": "Daichi Nishio, Toi Tsuneda, Daiki Kuyoshi, Satoshi Yamane",
+        "published": "2020-10-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/gcce50665.2020.9292009"
+    },
+    {
+        "id": 16992,
+        "title": "Soft Actor Critic Based Volt-VAR Co-optimization in Active Distribution Grids",
+        "authors": "Rakib Hossain, Mukesh Gautam, Mohammad MansourLakouraj, Hanif Livani, Mohammed Ben-Idris, Yahia Baghzouz",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Modern distribution networks are undergoing several technical challenges, such as voltage fluctuations, because of high penetration of distributed energy resources (DERs). This paper proposes a deep reinforcement learning (DRL)-based Volt- VAR co-optimization technique for reducing voltage fluctuations as well as power loss under high penetration of DERs. In addition, the proposed approach minimizes the operational cost of the grid. A stochastic policy optimization based soft actor critic (SAC) agent is proposed to configure the optimal set-points of the reactive power outputs of the inverters. The performance of the proposed model is verified on the modified IEEE 34- and 123-bus systems and compared with a base case scenario with no reactive supply by inverters, and a local droop control approach. The results demonstrate that the proposed framework outperforms the conventional droop control method in improving the voltage profile, minimizing the network power loss, and reducing grid operational cost.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.21114094.v1"
+    },
+    {
+        "id": 16993,
+        "title": "Soft Actor Critic Based Volt-VAR Co-optimization in Active Distribution Grids",
+        "authors": "Rakib Hossain, Mukesh Gautam, Mohammad MansourLakouraj, Hanif Livani, Mohammed Ben-Idris, Yahia Baghzouz",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p>Modern distribution networks are undergoing several technical challenges, such as voltage fluctuations, because of high penetration of distributed energy resources (DERs). This paper proposes a deep reinforcement learning (DRL)-based Volt- VAR co-optimization technique for reducing voltage fluctuations as well as power loss under high penetration of DERs. In addition, the proposed approach minimizes the operational cost of the grid. A stochastic policy optimization based soft actor critic (SAC) agent is proposed to configure the optimal set-points of the reactive power outputs of the inverters. The performance of the proposed model is verified on the modified IEEE 34- and 123-bus systems and compared with a base case scenario with no reactive supply by inverters, and a local droop control approach. The results demonstrate that the proposed framework outperforms the conventional droop control method in improving the voltage profile, minimizing the network power loss, and reducing grid operational cost.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.21114094"
+    },
+    {
+        "id": 16994,
+        "title": "A Strategy-Oriented Bayesian Soft Actor-Critic Model",
+        "authors": "Qin Yang, Ramviyas Parasuraman",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.03.071"
+    },
+    {
+        "id": 16995,
+        "title": "Noisy Importance Sampling Actor-Critic: An Off-Policy Actor-Critic With Experience Replay",
+        "authors": "Norman Tasfi, Miriam Capretz",
+        "published": "2020-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn48605.2020.9207681"
+    },
+    {
+        "id": 16996,
+        "title": "Development of Advanced Control Strategy Based on Soft Actor-Critic Algorithm",
+        "authors": "Michal Hlavatý, Alena Kozáková",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/comsci59259.2023.10315824"
+    },
+    {
+        "id": 16997,
+        "title": "Soft Actor-Critic-Based Service Migration in Multiuser MEC Systems",
+        "authors": "Xinyu Zhang, Shuang Ren",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eiecc60864.2023.10456675"
+    },
+    {
+        "id": 16998,
+        "title": "Real-Time Bidding with Soft Actor-Critic Reinforcement Learning in Display Advertising",
+        "authors": "Daria Yakovleva, Artem Popov, Andrey Filchenkov",
+        "published": "2019-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/fruct48121.2019.8981496"
+    },
+    {
+        "id": 16999,
+        "title": "Optimal Scheduling Strategy of Electricity and Thermal Energy Storage Based on Soft Actor-Critic Reinforcement Learning Approach",
+        "authors": "Yingying Zheng, hui wang, Kailei Guo, Yuanrui sang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4648773"
+    },
+    {
+        "id": 17000,
+        "title": "Autonomous Navigation Decision-Making Method for Smart Marine Surface Vessel Based on Improved Soft Actor-Critic Algorithm",
+        "authors": "Wei Guan, Zhewen CUI, Xianku Zhang, Cheng ZHANG",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4398275"
+    },
+    {
+        "id": 17001,
+        "title": "Actor-Critic Models and the A3C",
+        "authors": "Mohit Sewak",
+        "published": "2019",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-13-8285-7_11"
+    },
+    {
+        "id": 17002,
+        "title": "Soft Actor-Critic Deep Reinforcement Learning for Fault Tolerant Flight Control",
+        "authors": "Killian Dally, Erik-Jan Van Kampen",
+        "published": "2022-1-3",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2022-2078"
+    },
+    {
+        "id": 17003,
+        "title": "Recurrent Soft Actor Critic Reinforcement Learning for Demand Response Problems",
+        "authors": "Ulrich Ludolfinger, Daniel Zinsmeister, Vedran S. Perić, Thomas Hamacher, Sascha Hauke, Maren Martens",
+        "published": "2023-6-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/powertech55446.2023.10202844"
+    },
+    {
+        "id": 17004,
+        "title": "Soft Actor Critic Framework for Resource Allocation in Backscatter-NOMA Networks",
+        "authors": "Abdullah Alajmi, Muhammad Fayaz, Waleed Ahsan, Arumugam Nallanathan",
+        "published": "2022-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/latincom56090.2022.10000455"
+    },
+    {
+        "id": 17005,
+        "title": "A Hierarchical Hvac Optimal Control Method for Improving Energy Efficiency and Indoor Air Quality Incorporating Soft Actor-Critic and Hybrid Search Optimization",
+        "authors": "Can Cui, Yuntao Liu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4545920"
+    },
+    {
+        "id": 17006,
+        "title": "Man-in-the-Middle attack Explainer for Fog computing using Soft Actor Critic Q-Learning Approach",
+        "authors": "Bhargavi K, Sajjan G Shiva",
+        "published": "2022-6-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aiiot54504.2022.9817151"
+    },
+    {
+        "id": 17007,
+        "title": "Decentralized Multi-Agent Advantage Actor-Critic",
+        "authors": "Scott Barnes",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<div>We present a decentralized advantage actor-critic algorithm that utilizes learning agents in parallel environments with synchronous gradient descent. This approach decorrelates agents’ experiences, stabilizing observations and eliminating the need for a replay buffer, requires no knowledge of the other agents’ internal state during training or execution, and runs on a single multi-core CPU.</div>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.19166384.v1"
+    },
+    {
+        "id": 17008,
+        "title": "Application of Soft Actor-Critic Reinforcement Learning to a Search and Rescue Task for Humanoid Robots",
+        "authors": "Hongxuan Ji, Chenkun Yin",
+        "published": "2022-11-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac57257.2022.10056003"
+    },
+    {
+        "id": 17009,
+        "title": "Transformer Model Based Soft Actor-Critic Learning for HEMS",
+        "authors": "Ulrich Ludolfinger, Vedran S. Perić, Thomas Hamacher, Sascha Hauke, Maren Martens",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/powercon58120.2023.10331287"
+    },
+    {
+        "id": 17010,
+        "title": "Selector-Actor-Critic and Tuner-Actor-Critic Algorithms for Reinforcement Learning",
+        "authors": "Ala'eddin Masadeh, Zhengdao Wang, Ahmed E. Kamal",
+        "published": "2019-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wcsp.2019.8928124"
+    },
+    {
+        "id": 17011,
+        "title": "Decentralized Multi-Agent Advantage Actor-Critic",
+        "authors": "Scott Barnes",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<div>We present a decentralized advantage actor-critic algorithm that utilizes learning agents in parallel environments with synchronous gradient descent. This approach decorrelates agents’ experiences, stabilizing observations and eliminating the need for a replay buffer, requires no knowledge of the other agents’ internal state during training or execution, and runs on a single multi-core CPU.</div>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.19166384"
+    },
+    {
+        "id": 17012,
+        "title": "Research on the Thermal Management Control Strategy of Electric Vehicles Based on the Soft Actor-Critic Algorithm",
+        "authors": "Xiaohong Yuan, Zhuosong Sun, Xun Liu, Chu-qi Su, Yiping Wang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4677473"
+    },
+    {
+        "id": 17013,
+        "title": "Cache allocation Algorithm of 5G Core Network Slicing Based on Soft Migration Actor Critic*",
+        "authors": "Chenglin Xu, Guohui Zhu, Qianwen Yang",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icnlp58431.2023.00070"
+    },
+    {
+        "id": 17014,
+        "title": "Improved 1vs1 Air Combat Model With Self-Play Soft Actor-Critic and Sparse Rewards",
+        "authors": "HoSeong Jung, Yong-Duk Kim",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/iccas59377.2023.10316918"
+    },
+    {
+        "id": 17015,
+        "title": "Residential Demand Response Considered Strategic Bidding for Load Aggregators with Soft Actor-Critic Algorithm",
+        "authors": "Zhenyuan Zhang, Zihan Chen, Wei-Jen Lee",
+        "published": "2021-10-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ias48185.2021.9677133"
+    },
+    {
+        "id": 17016,
+        "title": "Soft Actor-Critic-Based Grid Dispatching with Distributed Training",
+        "authors": "Long Zhao, Fei Li, Yuan Zhou, Wenbin Fan",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/miccis58901.2023.00007"
+    },
+    {
+        "id": 17017,
+        "title": "Guided Soft Actor Critic: A Guided Deep Reinforcement Learning Approach for Partially Observable Markov Decision Processes",
+        "authors": "Mehmet Haklidir, Hakan Temeltas",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/access.2021.3131772"
+    },
+    {
+        "id": 17018,
+        "title": "Research on the Thermal Management Control Strategy of Electric Vehicles Based on the Soft Actor-Critic Algorithm",
+        "authors": "Xiaohong Yuan, Zhuosong Sun, Xun Liu, Yiping Wang, Chu-qi Su",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4683827"
+    },
+    {
+        "id": 17019,
+        "title": "Combining Soft-Actor Critic with Cross-Entropy Method for Policy Search in Continuous Control",
+        "authors": "Hieu Trung Nguyen, Khang Tran, Ngoc Hoang Luong",
+        "published": "2022-7-18",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cec55065.2022.9870209"
+    },
+    {
+        "id": 17020,
+        "title": "A Hierarchical Reinforcement Learning Framework based on Soft Actor-Critic for Quadruped Gait Generation",
+        "authors": "Yu Wang, Wenchuan Jia, Yi Sun",
+        "published": "2022-12-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/robio55434.2022.10011919"
+    },
+    {
+        "id": 17021,
+        "title": "RAC-SAC: An improved Actor-Critic algorithm for Continuous Multi-task manipulation on Robot Arm Control",
+        "authors": "Phuc Dang Thi, Chinh Nguyen Truong, Hieu Dau Sy",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3628797.3628939"
+    },
+    {
+        "id": 17022,
+        "title": "A Human in the Loop Based Robotic System by Using Soft Actor Critic with Discrete Actions",
+        "authors": "Balasubramaniyan Chandrasekaran, Manasa Mainampati",
+        "published": "2021-10-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmra53481.2021.9675564"
+    },
+    {
+        "id": 17023,
+        "title": "Bayesian Strategy Networks Based Soft Actor-Critic Learning",
+        "authors": "Qin Yang, Ramviyas Parasuraman",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "A strategy refers to the rules that the agent chooses the available actions to achieve goals. Adopting reasonable strategies is challenging but crucial for an intelligent agent with limited resources working in hazardous, unstructured, and dynamic environments to improve the system’s utility, decrease the overall cost, and increase mission success probability. This paper proposes a novel hierarchical strategy decomposition approach based on Bayesian chaining to separate an intricate policy into several simple sub-policies and organize their relationships as Bayesian strategy networks (BSN). We integrate this approach into the state-of-the-art DRL method – soft actor-critic (SAC), and build the corresponding Bayesian soft actor-critic (BSAC) model by organizing several sub-policies as a joint policy. Our method achieves the state-of-the-art performance on the standard continuous control benchmarks in the OpenAI Gym environment. The results demonstrate that the promising potential of the BSAC method significantly improves training efficiency. Furthermore, we extend the topic to the Multi-Agent systems (MAS), discussing the potential research fields and directions.",
+        "link": "http://dx.doi.org/10.1145/3643862"
+    },
+    {
+        "id": 17024,
+        "title": "Soft Actor-Critic Reinforcement Learning-Based Optimization for Analog Circuit Sizing",
+        "authors": "Sejin Park, Youngchang Choi, Seokhyeong Kang",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isocc59558.2023.10396499"
+    },
+    {
+        "id": 17025,
+        "title": "Multi-Microgrid Collaborative Optimization Scheduling Using an Improved Multi-Agent Soft Actor-Critic Algorithm",
+        "authors": "Jiankai Gao, Yang Li, Bin Wang, Haibo Wu",
+        "published": "2023-4-5",
+        "citations": 2,
+        "abstract": "The implementation of a multi-microgrid (MMG) system with multiple renewable energy sources enables the facilitation of electricity trading. To tackle the energy management problem of an MMG system, which consists of multiple renewable energy microgrids belonging to different operating entities, this paper proposes an MMG collaborative optimization scheduling model based on a multi-agent centralized training distributed execution framework. To enhance the generalization ability of dealing with various uncertainties, we also propose an improved multi-agent soft actor-critic (MASAC) algorithm, which facilitates energy transactions between multi-agents in MMG, and employs automated machine learning (AutoML) to optimize the MASAC hyperparameters to further improve the generalization of deep reinforcement learning (DRL). The test results demonstrate that the proposed method successfully achieves power complementarity between different entities and reduces the MMG system’s operating cost. Additionally, the proposal significantly outperforms other state-of-the-art reinforcement learning algorithms with better economy and higher calculation efficiency.",
+        "link": "http://dx.doi.org/10.3390/en16073248"
+    },
+    {
+        "id": 17026,
+        "title": "Control of Space Flexible Manipulator Using Soft Actor-Critic and Random Network Distillation",
+        "authors": "Chen Yang, Jun Yang, Xueqian Wang, Bin Liang",
+        "published": "2019-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/robio49542.2019.8961852"
+    },
+    {
+        "id": 17027,
+        "title": "Soft Actor-Critic Based Power Control Algorithm for Anti-jamming in D2D Communication",
+        "authors": "Keyu Jia, Dianjun Chen, Xuebin Sun",
+        "published": "2023-4-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccect57938.2023.10140869"
+    },
+    {
+        "id": 17028,
+        "title": "Hybrid Soft Actor-Critic and Incremental Dual Heuristic Programming Reinforcement Learning for Fault-Tolerant Flight Control",
+        "authors": "Casper Teirlinck, Erik-Jan Van Kampen",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2024-2406"
+    },
+    {
+        "id": 17029,
+        "title": "Multi-Alpha Soft Actor-Critic: Overcoming Stochastic Biases in Maximum Entropy Reinforcement Learning",
+        "authors": "Conor Igoe, Swapnil Pande, Siddarth Venkatraman, Jeff Schneider",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161395"
+    },
+    {
+        "id": 17030,
+        "title": "A novel trajectory tracking algorithm based on soft actor-critic-ResNet model",
+        "authors": "Haohua Li, Jie Qi",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.3011759"
+    },
+    {
+        "id": 17031,
+        "title": "MARLIN: Soft Actor-Critic based Reinforcement Learning for Congestion Control in Real Networks",
+        "authors": "Raffaele Galliera, Alessandro Morelli, Roberto Fronteddu, Niranjan Suri",
+        "published": "2023-5-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/noms56928.2023.10154210"
+    },
+    {
+        "id": 17032,
+        "title": "Soft Actor-Critic Learning-Based Joint Computing, Pushing, and Caching Framework in MEC Networks",
+        "authors": "Xiangyu Gao, Yaping Sun, Hao Chen, Xiaodong Xu, Shuguang Cui",
+        "published": "2023-12-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10437459"
+    },
+    {
+        "id": 17033,
+        "title": "Training a Robot to Attend a Person at Specific Locations using Soft Actor-Critic under Simulated Environment",
+        "authors": "Chandra Kusuma Dewa, Jun Miura",
+        "published": "2021-1-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ieeeconf49454.2021.9382716"
+    },
+    {
+        "id": 17034,
+        "title": "Risk-Conditioned Distributional Soft Actor-Critic for Risk-Sensitive Navigation",
+        "authors": "Jinyoung Choi, Christopher Dance, Jung-Eun Kim, Seulbin Hwang, Kyung-Sik Park",
+        "published": "2021-5-30",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra48506.2021.9560962"
+    },
+    {
+        "id": 17035,
+        "title": "Robot Skill Adaptation via Soft Actor-Critic Gaussian Mixture Models",
+        "authors": "Iman Nematollahi, Erick Rosete-Beas, Adrian Rpfer, Tim Welschehold, Abhinav Valada, Wolfram Burgard",
+        "published": "2022-5-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icra46639.2022.9811770"
+    },
+    {
+        "id": 17036,
+        "title": "Research on Regulation Characteristic Analysis Method of Temperature-controlled Load Cluster Based on Soft Actor-Critic Algorithm",
+        "authors": "Wenbo Mao, Feng Li, Yaping Li",
+        "published": "2022-9-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ciced56215.2022.9928849"
+    },
+    {
+        "id": 17037,
+        "title": "Controlled Sensing and Anomaly Detection Via Soft Actor-Critic Reinforcement Learning",
+        "authors": "Chen Zhong, M. Cenk Gursoy, Senem Velipasalar",
+        "published": "2022-5-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp43922.2022.9747436"
+    },
+    {
+        "id": 17038,
+        "title": "Adaptive Control for Virtual Synchronous Generator Parameters Based on Soft Actor Critic",
+        "authors": "Chuang Lu, Xiangtao Zhuan",
+        "published": "2024-3-22",
+        "citations": 0,
+        "abstract": "This paper introduces a model-free optimization method based on reinforcement learning (RL) aimed at resolving the issues of active power and frequency oscillations present in a traditional virtual synchronous generator (VSG). The RL agent utilizes the active power and frequency response of the VSG as state information inputs and generates actions to adjust the virtual inertia and damping coefficients for an optimal response. Distinctively, this study incorporates a setting-time term into the reward function design, alongside power and frequency deviations, to avoid prolonged system transients due to over-optimization. The soft actor critic (SAC) algorithm is utilized to determine the optimal strategy. SAC, being model-free with fast convergence, avoids policy overestimation bias, thus achieving superior convergence results. Finally, the proposed method is validated through MATLAB/Simulink simulation. Compared to other approaches, this method more effectively suppresses oscillations in active power and frequency and significantly reduces the setting time.",
+        "link": "http://dx.doi.org/10.3390/s24072035"
+    },
+    {
+        "id": 17039,
+        "title": "Computation Offloading Service in UAV-Assisted Mobile Edge Computing: A Soft Actor-Critic Approach",
+        "authors": "You Zhang, Zhengchong Mao",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ucom59132.2023.10257660"
+    },
+    {
+        "id": 17040,
+        "title": "Wind Farm Maintenance Scheduling Using Soft Actor-Critic Deep Reinforcement Learning",
+        "authors": "Fang Jian Zhao, Yifan Zhou",
+        "published": "2022-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/phm-yantai55411.2022.9942116"
+    },
+    {
+        "id": 17041,
+        "title": "Improved Soft Actor-Critic: Reducing Bias and Estimation Error for Fast Learning",
+        "authors": "Manas Shil, G. N. Pillai, M. K. Gupta",
+        "published": "2023-2-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/sceecs57921.2023.10063058"
+    },
+    {
+        "id": 17042,
+        "title": "Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic",
+        "authors": "Yangang Ren, Jingliang Duan, Shengbo Eben Li, Yang Guan, Qi Sun",
+        "published": "2020-9-20",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itsc45102.2020.9294300"
+    },
+    {
+        "id": 17043,
+        "title": "Simultaneous Control and Guidance of an AUV Based on Soft Actor–Critic",
+        "authors": "Yoann Sola, Gilles Le Chenadec, Benoit Clement",
+        "published": "2022-8-14",
+        "citations": 6,
+        "abstract": "The marine environment is a hostile setting for robotics. It is strongly unstructured, uncertain, and includes many external disturbances that cannot be easily predicted or modeled. In this work, we attempt to control an autonomous underwater vehicle (AUV) to perform a waypoint tracking task, using a machine learning-based controller. There has been great progress in machine learning (in many different domains) in recent years; in the subfield of deep reinforcement learning, several algorithms suitable for the continuous control of dynamical systems have been designed. We implemented the soft actor–critic (SAC) algorithm, an entropy-regularized deep reinforcement learning algorithm that allows fulfilling a learning task and encourages the exploration of the environment simultaneously. We compared a SAC-based controller with a proportional integral derivative (PID) controller on a waypoint tracking task using specific performance metrics. All tests were simulated via the UUV simulator. We applied these two controllers to the RexROV 2, a six degrees of freedom cube-shaped remotely operated underwater Vehicle (ROV) converted in an AUV. We propose several interesting contributions as a result of these tests, such as making the SAC control and guiding the AUV simultaneously, outperforming the PID controller in terms of energy saving, and reducing the amount of information needed by the SAC algorithm inputs. Moreover, our implementation of this controller allows facilitating the transfer towards real-world robots. The code corresponding to this work is available on GitHub.",
+        "link": "http://dx.doi.org/10.3390/s22166072"
+    },
+    {
+        "id": 17044,
+        "title": "Comparative Study for Deep Deterministic Policy Gradient and Soft Actor Critic Using an Inverted Pendulum System",
+        "authors": "Aditya Shelke, Devang Vyas, Abhishek Srivastava",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/elexcom58812.2023.10370289"
+    },
+    {
+        "id": 17045,
+        "title": "Soft Actor-Critic Deep Reinforcement Learning Based Interference Resource Allocation",
+        "authors": "Ning Rao, Hua Xu, Balin Song, Yunhao Shi",
+        "published": "2021-4-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3467707.3467766"
+    },
+    {
+        "id": 17046,
+        "title": "Resource Allocation for Cognitive Radio Inspired Non-Orthogonal Multiple Access Networks: A Quantum Soft Actor-Critic Method",
+        "authors": "Chao Huang, Ying He, Fei Yu, Peigen Zeng",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10437345"
+    },
+    {
+        "id": 17047,
+        "title": "A Novel Actor—Critic Motor Reinforcement Learning for Continuum Soft Robots",
+        "authors": "Luis Pantoja-Garcia, Vicente Parra-Vega, Rodolfo Garcia-Rodriguez, Carlos Ernesto Vázquez-García",
+        "published": "2023-10-9",
+        "citations": 1,
+        "abstract": "Reinforcement learning (RL) is explored for motor control of a novel pneumatic-driven soft robot modeled after continuum media with a varying density. This model complies with closed-form Lagrangian dynamics, which fulfills the fundamental structural property of passivity, among others. Then, the question arises of how to synthesize a passivity-based RL model to control the unknown continuum soft robot dynamics to exploit its input–output energy properties advantageously throughout a reward-based neural network controller. Thus, we propose a continuous-time Actor–Critic scheme for tracking tasks of the continuum 3D soft robot subject to Lipschitz disturbances. A reward-based temporal difference leads to learning with a novel discontinuous adaptive mechanism of Critic neural weights. Finally, the reward and integral of the Bellman error approximation reinforce the adaptive mechanism of Actor neural weights. Closed-loop stability is guaranteed in the sense of Lyapunov, which leads to local exponential convergence of tracking errors based on integral sliding modes. Notably, it is assumed that dynamics are unknown, yet the control is continuous and robust. A representative simulation study shows the effectiveness of our proposal for tracking tasks.",
+        "link": "http://dx.doi.org/10.3390/robotics12050141"
+    },
+    {
+        "id": 17048,
+        "title": "Trajectory Planning of a CableBased Parallel Robot using Reinforcement Learning and Soft Actor-Critic",
+        "authors": "Dinh-Son Vu, Ahmad Alsmadi",
+        "published": "2020-12-9",
+        "citations": 1,
+        "abstract": "Industry 4.0 introduces the use of modular stations and better communication between agents to improve manufacturing efficiency and to lower the downtime between the customer and its final product. Among novel mechanisms that have a high potential in this new industrial paradigm are cable­suspended parallel robot (CSPR): their payload­to­mass ratio is high compared to their serial robot counterpart and their setup is quick compared to other types of parallel robots such as Gantry system, popular in the automotive industry but difficult to set up and to adapt while the production line changes. A CSPR can cover the workspace of a manufacturing hall and providing assistance to operators before they arrive at their workstation. One challenge is to generate the desired trajectories, so that the CSPR could move to the desired area. Reinforcement Learning (RL) is a branch of Artificial Intelligence where the agent interacts with an environment to maximize a reward function. This paper proposes the use of a RL algorithm called Soft Actor­Critic (SAC) to train a two degrees­of­freedom (DOFs) CSPR to perform pick­and­place trajectory. Even though the pick­and­place trajectory based on artificial intelligence has been an active research with serial robots, this technique has yet to be applied to parallel robots.",
+        "link": "http://dx.doi.org/10.37394/232011.2020.15.19"
+    },
+    {
+        "id": 17049,
+        "title": "Soft-Actor-Attention-Critic Based on Unknown Agent Action Prediction for Multi-Agent Collaborative Confrontation",
+        "authors": "Ziwei Liu, Changzhen Qiu, Zhiyong Zhang",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/nnice58320.2023.10105797"
+    },
+    {
+        "id": 17050,
+        "title": "Research on load frequency control of multi-microgrids in an isolated system based on the multi-agent soft actor-critic algorithm",
+        "authors": "LiLong Xie, Yonghui Li, Peixiao Fan, Li Wan, Kanjun Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nDue to the limited capacity of a single microgrid, multiple sub-microgrids form interconnected multi-microgrids. However, load variation, distributed power output uncertainty and multi-microgrids network complexity have brought great difficulties to the frequency stability of the whole microgrid. To address this problem, this paper uses a multi-agent deep reinforcement learning（DRL）algorithm to design the controllers to control the frequency of the multi-microgrids. Firstly, a Load Frequency Control (LFC) model for multi-microgrids was built for a single microgrid. Secondly, based on the Centralized Training and Decentralized execution (CTDE) multi-agent reinforcement learning (RL) framework, the Multi-Agent Soft Actor-Critic (MASAC) algorithm was designed and applied to the multi-microgrids model. The state space and action space of multi-agent were established according to the frequency deviation of every sub-microgrid and the output of each distributed power source. The reward function was then established according to the frequency deviation, and the frequency control problem was transformed into the reward maximization problem. The appropriate neural network and training parameters were selected to generate the interconnected microgrid controllers through multiple training of pre-learning. Finally, the simulation study shows that the MASAC controller proposed in this paper can quickly maintain frequency stability when the system is disturbed. The MASAC controller has strong adaptability and robustness under complex operating conditions whence the wind turbine is incapable of frequency regulation and the distribution network of the isolated system changes.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2182061/v1"
+    },
+    {
+        "id": 17051,
+        "title": "Constant Force Grinding Controller for Robots Based on Soft-Actor-Critic Optimal Parameter Finding Algorithm",
+        "authors": "Chosei Rei, Qichao Wang, Linlin Chen, Xinhua Yan, Peng Zhang, Liwei Fu, Chong Wang, Xinghui Liu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nSince conventional PID (Proportional-Integral-Derivative) controllers hardly control the robot to stabilize for constant force grinding under changing environmental conditions, it is necessary to add a compensation term to conventional PID controllers. An optimal parameter finding algorithm based on SAC(Soft-Actor-Critic) is proposed to solve the problem that the compensation term parameters are difficult to obtain, including training state action and normalization preprocessing, reward function design, and targeted deep neural network design. The algorithm is used to find the optimal controller compensation term parameters and applied to the PID controller to complete the compensation through the inverse kinematics of the robot to achieve constant force grinding control. To verify the algorithm's feasibility, a simulation model of a grinding robot with sensible force information is established, and the simulation results show that the controller trained with the algorithm can achieve constant force grinding of the robot. Finally, the robot constant force grinding experimental system platform is built for testing, which verifies the control effect of the optimal parameter finding algorithm on the robot constant force grinding and has specific environmental adaptability.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3985379/v1"
+    },
+    {
+        "id": 17052,
+        "title": "Soft Actor Critic Based Volt-VAR Co-optimization in Active Distribution Grids",
+        "authors": "Rakib Hossain, Mukesh Gautam, Mohammad MansourLakouraj, Hanif Livani, Mohammed Benidris, Yahia Baghzouz",
+        "published": "2022-7-17",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pesgm48719.2022.9916976"
+    },
+    {
+        "id": 17053,
+        "title": "Actor-Critic Reinforcement Learning with Neural Networks in Continuous Games",
+        "authors": "Gabriel Leuenberger, Marco A. Wiering",
+        "published": "2018",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0006556500530060"
+    },
+    {
+        "id": 17054,
+        "title": "Learning Stall Recovery Policies using a Soft Actor-Critic Algorithm with Smooth Reward Functions",
+        "authors": "Junqiu Wang, Jianmei Tan, Peng Lin, Chenguang Xing, Bo Liu",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354940"
+    },
+    {
+        "id": 17055,
+        "title": "Soft Actor-Critic with Inhibitory Networks for Retraining UAV Controllers Faster",
+        "authors": "Minkyu Choi, Max Filter, Kevin Alcedo, Thayne T. Walker, David Rosenbluth, Jaime S. Ide",
+        "published": "2022-6-21",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icuas54217.2022.9836052"
+    },
+    {
+        "id": 17056,
+        "title": "Spatial Transform Soft Actor-Critic for Robot Grasping Skill Learning",
+        "authors": "Zihao Sun, Xianfeng Yuan, Yong Song, Xiaolong Xu, Bao Pang, Qingyang Xu",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451703"
+    },
+    {
+        "id": 17057,
+        "title": "Load frequency control of isolated microgrid based on soft actor-critic algorithm",
+        "authors": "Li Wan, Lingling Liu, Defu Cai, Rusi Chen, Yvze Rao, Haiguang Liu, Lilong Xie",
+        "published": "2022-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/psgec54663.2022.9880974"
+    },
+    {
+        "id": 17058,
+        "title": "An Adaptive Device-Edge Co-Inference Framework Based on Soft Actor-Critic",
+        "authors": "Tao Niu, Yinglei Teng, Zhu Han, Panpan Zou",
+        "published": "2022-4-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wcnc51071.2022.9771550"
+    },
+    {
+        "id": 17059,
+        "title": "Autonomous Vehicle Drift With a Soft Actor-critic Reinforcement Learning Agent",
+        "authors": "Szilard Hunor Toth, Zsolt Janos Viharos, Adam Bardos",
+        "published": "2022-3-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/sami54271.2022.9780803"
+    },
+    {
+        "id": 17060,
+        "title": "An improved Soft Actor-Critic strategy for optimal energy management",
+        "authors": "Bruno Boato, Carolina Saavedra Sueldo, Luis Avila, Mariano De Paula",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tla.2023.10251801"
+    },
+    {
+        "id": 17061,
+        "title": "Applications of Distributional Soft Actor-Critic in Real-world Autonomous Driving",
+        "authors": "Jingliang Duan, Fawang Zhang, Shengbo Eben Li, Yangang Ren, Bo Cheng, Zhe Xin",
+        "published": "2022-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icccr54399.2022.9790288"
+    },
+    {
+        "id": 17062,
+        "title": "Intelligent Energy Management for Fuel Cell Bus Based on Enhanced Soft Actor-Critic Algorithm",
+        "authors": "Ruchen Huang, Zegong Niu, Qicong Su, Hongwen He, Zheng Zhou, Zhiqiang Zhou",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/vppc60535.2023.10403274"
+    },
+    {
+        "id": 17063,
+        "title": "SOFT ACTOR-CRITIC REINFORCEMENT LEARNING FOR ROBOTIC MANIPULATOR WITH HINDSIGHT EXPERIENCE REPLAY",
+        "authors": "Tao Yan, Wenan Zhang, Simon X. Yang, Li Yu",
+        "published": "2019",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2316/j.2019.206-0216"
+    },
+    {
+        "id": 17064,
+        "title": "Local demand management of charging stations using vehicle-to-vehicle service: A welfare maximization-based soft actor-critic model",
+        "authors": "Akhtar Hussain, Van-Hai Bui, Petr Musilek",
+        "published": "2023-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.etran.2023.100280"
+    },
+    {
+        "id": 17065,
+        "title": "Enhancing Robotic Grasping of Free-Floating Targets with Soft Actor-Critic Algorithm and Tactile Sensors: a Focus on the Pre-Grasp Stage",
+        "authors": "Bahador Beigomi, Zheng Hong Zhu",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2024-2419"
+    },
+    {
+        "id": 17066,
+        "title": "Enabling intelligent transferable energy management of series hybrid electric tracked vehicle across motion dimensions via soft actor-critic algorithm",
+        "authors": "Hongwen He, Qicong Su, Ruchen Huang, Zegong Niu",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.energy.2024.130933"
+    },
+    {
+        "id": 17067,
+        "title": "Quantum Advantage Actor-Critic for Reinforcement Learning",
+        "authors": "Michael Kölle, Mohamad Hgog, Fabian Ritz, Philipp Altmann, Maximilian Zorn, Jonas Stein, Claudia Linnhoff-Popien",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0012383900003636"
+    },
+    {
+        "id": 17068,
+        "title": "An Intelligent PID Controller for Ships Based on Soft Actor Critic Algorithm",
+        "authors": "Zhaoyong Xi, Wei Guan, Zhewen Cui, Shuhui Hao",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icus58632.2023.10318457"
+    },
+    {
+        "id": 17069,
+        "title": "Exploring Highway Overtaking and Lane Changing Based on Soft Actor Critic for Discrete Algorithm",
+        "authors": "Xinyu Peng, Qingling Wang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450553"
+    },
+    {
+        "id": 17070,
+        "title": "Collaborative Learning of Human and Computer: Supervised Actor-Critic based Collaboration Scheme",
+        "authors": "Ashwin Devanga, Koichiro Yamauchi",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0007568407940801"
+    }
+]

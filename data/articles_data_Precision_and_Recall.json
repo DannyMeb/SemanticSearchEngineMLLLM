@@ -1,0 +1,902 @@
+[
+    {
+        "id": 6201,
+        "title": "Where to draw the line? Precision and recall",
+        "authors": "Adam Day",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "The Papermill Alarm draws a line between papers which have the characteristics of papermill-products and those that don’t. Given data like that shown below, where red dots represent papermill-products and green dots represent normal papers, where should we draw that line?Some dummy data to illustrate the point. Interesting aside: we actually use dummy data like this all the time as we develop processes at Clear Skies. This prevents the sensitive data that we work with being used or seen...",
+        "link": "http://dx.doi.org/10.59350/1p610-c2879"
+    },
+    {
+        "id": 6202,
+        "title": "Precision and Recall",
+        "authors": "Ben Carterette",
+        "published": "2018",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4614-8265-9_5050"
+    },
+    {
+        "id": 6203,
+        "title": "Eleven Point Precision-Recall Curve",
+        "authors": "Ethan Zhang, Yi Zhang",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4614-8265-9_481"
+    },
+    {
+        "id": 6204,
+        "title": "Precision and Recall [ELIS Classic]",
+        "authors": "",
+        "published": "2017-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1081/e-elis4-120009003"
+    },
+    {
+        "id": 6205,
+        "title": "Precision and Recall",
+        "authors": "Kai Ming Ting",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_659"
+    },
+    {
+        "id": 6206,
+        "title": "Statistical Precision – Recall curves for object detection quality assessment",
+        "authors": "Anna A. Kuznetsova,  ",
+        "published": "2020-12-29",
+        "citations": 1,
+        "abstract": "Average precision (AP) as the area under the Precision – Recall curve is the de facto standard for comparing the quality of algorithms for classification, information retrieval, object detection, etc. However, traditional Precision – Recall curves usually have a zigzag shape, which makes it difficult to calculate the average precision and to compare algorithms. This paper proposes a statistical approach to the construction of Precision – Recall curves when assessing the quality of algorithms for object detection in images. This approach is based on calculating Statistical Precision and Statistical Recall. Instead of the traditional confidence level, a statistical confidence level is calculated for each image as a percentage of objects detected. For each threshold value of the statistical confidence level, the total number of correctly detected objects (Integral TP) and the total number of background objects mistakenly assigned by the algorithm to one of the classes (Integral FP) are calculated for each image. Next, the values of Precision and Recall are calculated. Precision – Recall statistical curves, unlike traditional curves, are guaranteed to be monotonically non-increasing. At the same time, the Statistical Average Precision of object detection algorithms on small test datasets turns out to be less than the traditional Average Precision. On relatively large test image datasets, these differences are smoothed out. The comparison of the use of conventional and statistical Precision – Recall curves is given on a specific example.",
+        "link": "http://dx.doi.org/10.37791/2687-0649-2020-15-6-42-57"
+    },
+    {
+        "id": 6207,
+        "title": "Plotting receiver operating characteristic and precision-recall curves from presence and background data",
+        "authors": "Wenkai Li, Qinghua Guo",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "1. The receiver operating characteristic (ROC) and precision-recall (PR)\nplots have been widely used to evaluate the performances of species\ndistribution models. Plotting ROC/PR curves requires a traditional test\nset with both presence and absence data (namely PA approach), but\nspecies absence data are usually not available in reality. Plotting\nROC/PR curves from presence-only data while treating background data as\npseudo absence data (namely PO approach) may provide misleading results.\n2. In this study we propose a new approach to calibrate the ROC/PR\ncurves from presence and background data with user-provided information\non a constant c, namely PB approach. An estimate of c can also be\nderived from the PB-based ROC/PR plots given that a model with good\nability of discrimination is available. We used three virtual species\nand a real aerial photography to test the effectiveness of the proposed\nPB-based ROC/PR plots. Different models (or classifiers) were trained\nfrom presence and background data with various samples sizes. The ROC/PR\ncurves plotted by PA approach were used to benchmark the curves plotted\nby PO and PB approaches. 3. Experimental results show that the curves\nand areas under curves by PB approach are more similar to that by PA\napproach as compared with PO approach. The PB-based ROC/PR plots also\nprovide highly accurate estimations of c in our experiment. 4. We\nconclude that the proposed PB-based ROC/PR plots can provide valuable\ncomplements to existing model assessment methods, and they also provide\nan additional way to estimate the constant c (or species prevalence)\nfrom presence and background data.",
+        "link": "http://dx.doi.org/10.22541/au.161648888.85984872/v1"
+    },
+    {
+        "id": 6208,
+        "title": "When to Consult Precision-Recall Curves",
+        "authors": "Jonathan Aaron Cook, Vikram Ramadas",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3350582"
+    },
+    {
+        "id": 6209,
+        "title": "Pneumonia Diagnosis from Chest X-Ray Images Using a Neural Network, Evaluating Precision, Accuracy and Recall",
+        "authors": "Anika Mahesh",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.47611/harp.63"
+    },
+    {
+        "id": 6210,
+        "title": "Soft precision and recall",
+        "authors": "Pasi Fränti, Radu Mariescu-Istodor",
+        "published": "2023-3",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.02.005"
+    },
+    {
+        "id": 6211,
+        "title": "Tree-Pattern-Based Clone Detection with High Precision and Recall",
+        "authors": "",
+        "published": "2018-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3837/tiis.2018.05.002"
+    },
+    {
+        "id": 6212,
+        "title": "Probabilistic Precision and Recall Towards Reliable Evaluation of Generative Models",
+        "authors": "Dogyun Park, Suhyun Kim",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01839"
+    },
+    {
+        "id": 6213,
+        "title": "The Effect of Class Imbalance on Precision-Recall Curves",
+        "authors": "Christopher K. I. Williams",
+        "published": "2021-4-1",
+        "citations": 21,
+        "abstract": "In this note, I study how the precision of a binary classifier depends on the ratio r of positive to negative cases in the test set, as well as the classifier's true and false-positive rates. This relationship allows prediction of how the precision-recall curve will change with r, which seems not to be well known. It also allows prediction of how Fβ and the precision gain and recall gain measures of Flach and Kull (2015) vary with r.",
+        "link": "http://dx.doi.org/10.1162/neco_a_01362"
+    },
+    {
+        "id": 6214,
+        "title": "Distributed networks for auditory memory differentially contribute to recall precision",
+        "authors": "Sung-Joo Lim, Christiane Thiel, Bernhard Sehm, Lorenz Deserno, Jöran Lepsien, Jonas Obleser",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractRe-directing attention to objects in working memory can enhance their representational fidelity. However, how this attentional enhancement of memory representations is implemented across distinct, sensory and cognitive-control brain network is unspecified. The present fMRI experiment leverages psychophysical modelling and multivariate auditory- pattern decoding as behavioral and neural proxies of mnemonic fidelity. Listeners performed an auditory syllable pitch-discrimination task and received retro-active cues to selectively attend to a to-be-probed syllable in memory. Accompanied by increased neural activation in fronto-parietal and cingulo-opercular networks, valid retro-cues yielded faster and more perceptually sensitive responses in recalling acoustic detail of memorized syllables. Information about the cued auditory object was decodable from hemodynamic response patterns in superior temporal sulcus (STS), fronto-parietal, and sensorimotor regions. However, among these regions retaining auditory memory objects, neural fidelity in the left STS and its enhancement through attention-to-memory best predicted individuals’ gain in auditory memory recall precision. Our results demonstrate how functionally discrete brain regions differentially contribute to the attentional enhancement of memory representations.",
+        "link": "http://dx.doi.org/10.1101/2021.01.18.427143"
+    },
+    {
+        "id": 6215,
+        "title": "Precision–recall curve (PRC) classification trees",
+        "authors": "Jiaju Miao, Wei Zhu",
+        "published": "2022-9",
+        "citations": 49,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s12065-021-00565-2"
+    },
+    {
+        "id": 6216,
+        "title": "Recall and Precision of PhylDiag, i-ADHoRe 3.0 and Cyntenator for the detection of conserved segments v1",
+        "authors": "Joseph MEX Lucas, not provided Hugues Roest Crollius",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "This protocol was used to compute figures 7 and 8 in the manuscript : 'High precision detection of conserved segments from synteny blocks' submitted at Plos ONE. ",
+        "link": "http://dx.doi.org/10.17504/protocols.io.h9vb966"
+    },
+    {
+        "id": 6217,
+        "title": "Threshold optimization for F measure of macro-averaged precision and recall",
+        "authors": "Anna Berger, Sergey Guda",
+        "published": "2020-6",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2020.107250"
+    },
+    {
+        "id": 6218,
+        "title": "Immunotherapy Recall: Chemoradiation-Induced Reactivation of Immune Checkpoint Inhibitor Nephritis",
+        "authors": "Julius Weng, Jaffer A. Ajani, Mariela Blum Murphy, Brian D. Badgwell, Amanda S. Tchakarov, Omar Mamlouk, Prajnan Das",
+        "published": "2022-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1200/po.22.00049"
+    },
+    {
+        "id": 6219,
+        "title": "Efektivitas Sistem Temu Kembali Informasi Perpustakaan Digital Institut Seni Indonesia (ISI) Yogyakarta dalam Tinjauan Recall dan Precision",
+        "authors": "Thoriq Tri Prabowo",
+        "published": "2021-4-27",
+        "citations": 1,
+        "abstract": "Today's digital library is a necessity. A system that provides all-digital information and services requires that all aspects of it should be accessed effectively. In the context of information retrieval in digital libraries, the information retrieval systems are important instruments. The system becomes a link between relevant information and its users. Evaluation of the information retrieval system to determine its effectiveness is important to ensure that users receive good retrieval services. Recall and precision are approaches to measure the effectiveness of information retrieval systems that are widely used. This study aims to determine the effectiveness of the ISI Yogyakarta digital library retrieval system based on recall and precision approaches. This study will provide benefits for librarians in knowing the effectiveness of the information retrieval system and the extent of their accuracy in indexing. This research uses an experimental method with a quantitative approach. The researcher chose a sample of the searching keywords purposively and then tested them by searching on the portal http://digilib.isi.ac.id/. The data obtained were analyzed using the formula recall and precision. In this study the subjects tested were interior design subjects. The precision measurement of 10 keywords on the subject of interior design gets 92.37% results while the recall measurement gets 80.79% results. The result stated that precision is higher than recall, it showed that the information retrieval system of ISI Yogyakarta’s digital library is quite effective.",
+        "link": "http://dx.doi.org/10.37014/medpus.v28i1.1087"
+    },
+    {
+        "id": 6220,
+        "title": "Spatial precision and recall indices to assess the performance of instance segmentation algorithms",
+        "authors": "Mattis Brummel, Patrick Müller, Alexander Braun",
+        "published": "2022-1-16",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2352/ei.2022.34.16.avm-101"
+    },
+    {
+        "id": 6221,
+        "title": "Suicide Forecast System Over Linear Regression, Decision Tree, Naïve Bayesian Networks and Precision Recall",
+        "authors": "Pragya Prashar, Tanupriya Choudhury",
+        "published": "2018-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/confluence.2018.8442658"
+    },
+    {
+        "id": 6222,
+        "title": "iPRIns: A Tool with the Improved Precision and Recall for Insertion Detection in the Human Genome",
+        "authors": "Sakkayaphab Piwluang, Duangdao Wichadakul",
+        "published": "2021-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icbcb52223.2021.9459220"
+    },
+    {
+        "id": 6223,
+        "title": "Methods of Improving the Recall and Precision of Sci-tech Novelty Search",
+        "authors": "Wang Li, Liu Wen",
+        "published": "2017-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26480/icemi.01.2017.46.48"
+    },
+    {
+        "id": 6224,
+        "title": "Evaluating Performance of Software Defect Prediction Models Using Area Under Precision-Recall Curve (AUC-PR)",
+        "authors": "Shahzad Ali Khan, Zeeshan Ali Rana",
+        "published": "2019-2",
+        "citations": 19,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/icacs.2019.8689135"
+    },
+    {
+        "id": 6225,
+        "title": "Probabilistic Extension of Precision, Recall, and F1 Score for More Thorough Evaluation of Classification Models",
+        "authors": "Reda Yacouby, Dustin Axman",
+        "published": "2020",
+        "citations": 109,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.eval4nlp-1.9"
+    },
+    {
+        "id": 6226,
+        "title": "Evaluation of Alignment: Precision, Recall, Weighting and Limitations",
+        "authors": "Joseph A. Cottam, Natalie C. Heller, Christopher L. Ebsch, Rahul Deshmukh, Patrick Mackey, George Chin",
+        "published": "2020-12-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bigdata50022.2020.9378064"
+    },
+    {
+        "id": 6227,
+        "title": "MeSH and text-word search strategies: precision, recall, and their implications for library instruction",
+        "authors": "Michelle M. DeMars, Carol Perruso",
+        "published": "2022-2-11",
+        "citations": 10,
+        "abstract": "Objective: This study compared the recall and precision of MeSH-term versus text-word searching to better understand psychosocial MeSH terms and to provide guidance on whether to include both strategies in an information literacy session or how much time should be spent on teaching each search strategy.\nMethods: Using the relevant recall method, a total of 3,162 resources were considered and evaluated to form a gold standard set of 1,521 relevant resources. We compared resources discussing psychosocial aspects of children and adolescents living with type 1 diabetes using two search strategies: text-word strategy versus MeSH-term strategy. The frequency of MeSH terms, the MeSH hierarchy, and elements of each search strategy were also examined.\nResults: Using the 1,521 relevant articles, we found that the text-word search strategy had 54% recall, while the MeSH-term strategy had 75% recall. Also, the precision of the text-word strategy was 34.4%, while the precision of the MeSH-term strategy was 47.7%. Therefore, the MeSH-term search strategy yielded both greater recall and greater precision. The MeSH strategy was also more complicated in design and usage than the text-word strategy.\nConclusions: This study demonstrates the effectiveness of text-word and MeSH search strategies on precision and recall. The combination of text-word and MeSH strategies is recommended to achieve the most comprehensive results. These results support the idea that MeSH or a similar controlled vocabulary should be taught to experienced and knowledgeable students and practitioners who require a myriad of resources for their literature searches.",
+        "link": "http://dx.doi.org/10.5195/jmla.2022.1283"
+    },
+    {
+        "id": 6228,
+        "title": "Robust and Accurate Doublet Detection of Single-Cell Sequencing Data via Maximizing Area Under Precision-Recall Curve",
+        "authors": "Yanshuo Chen, Xidong Wu, Ke Ni, Haoran Hu, Molin Yue, Wei Chen, Heng Huang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractSingle-cell sequencing has revolutionized our understanding of cellular heterogeneity by offering detailed profiles of individual cells within diverse specimens. However, due to the limitations of sequencing technology, two or more cells may be captured in the same droplet and share the same barcode. These incidents, termed doublets or multiplets, can lead to artifacts in single-cell data analysis. While explicit experimental design can mitigate these issues with the help of auxiliary cell markers, computationally annotating doublets has a broad impact on analyzing the existing public single-cell data and reduces potential experimental costs. Considering that doublets form only a minor fraction of the total dataset, we argue that current doublet detection methods, primarily focused on optimizing classification accuracy, might be inefficient in performing well on the inherently imbalanced data in the area under the precision-recall curve (AUPRC) metric. To address this, we introduce RADO (Robust and Accurate DOublet detection) - an algorithm designed to annotate doublets by maximizing the AUPRC, effectively tackling the imbalance challenge. Benchmarked on 18 public datasets, RADO outperforms other methods in terms of doublet score and achieves similar performance to the current best methods in doublet calling. Furthermore, beyond its application in single-cell RNA-seq data, we demonstrate RADO’s adaptability to single-cell assays for transposase-accessible chromatin sequencing (scATAC-seq) data, where it outperforms other scATAC-seq doublet detection methods. RADO’s open-source implementation is available at:https://github.com/poseidonchan/RADO.",
+        "link": "http://dx.doi.org/10.1101/2023.10.30.564840"
+    },
+    {
+        "id": 6229,
+        "title": "Bayes Test of Precision, Recall, and F1 Measure for Comparison of Two Natural Language Processing Models",
+        "authors": "Ruibo Wang, Jihong Li",
+        "published": "2019",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/p19-1405"
+    },
+    {
+        "id": 6230,
+        "title": "PRE: A Precision-Recall-Effort Optimization Framework for Query Simulation",
+        "authors": "Sahiti Labhishetty, ChengXiang Zhai",
+        "published": "2022-8-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3539813.3545136"
+    },
+    {
+        "id": 6231,
+        "title": "High precision but variable recall – comparing the performance of five deduplication tools",
+        "authors": "Heidrun Janka, Maria-Inti Metzendorf",
+        "published": "2024-3-17",
+        "citations": 0,
+        "abstract": "Deduplication methods for multiple database searches conducted for evidence syntheses differ in terms of time invested, accuracy, and comprehensiveness of identified duplicates. Deduplication tools can significantly contribute to a more efficient conduct of the search task in evidence syntheses. Widely-used tools for deduplication include reference management software (e.g. EndNote), built-in deduplication features in systematic review software (e.g. Covidence, Rayyan), and automated deduplication tools (e.g. Deduklick, SRA Deduplicator). Newer tools leverage machine learning algorithms crafted by information specialists, that encompass natural language normalization and rule-based approaches. We investigated five frequently used automated and semi-automated deduplication tools regarding their performance, core features and time efficiency in comparison to manual deduplication in EndNote using six datasets.",
+        "link": "http://dx.doi.org/10.32384/jeahil20607"
+    },
+    {
+        "id": 6232,
+        "title": "Genotype-Based Recall Studies in Complex Cardiometabolic Traits",
+        "authors": "Paul W. Franks, Nicholas J. Timpson",
+        "published": "2018-8",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1161/circgen.118.001947"
+    },
+    {
+        "id": 6233,
+        "title": "When to consult precision-recall curves",
+        "authors": "Jonathan Cook, Vikram Ramadas",
+        "published": "2020-3",
+        "citations": 51,
+        "abstract": " Receiver operating characteristic (ROC) curves are commonly used to evaluate predictions of binary outcomes. When there is a small percentage of items of interest (as would be the case with fraud detection, for example), ROC curves can provide an inflated view of performance. This can cause challenges in determining which set of predictions is better. In this article, we discuss the conditions under which precision-recall curves may be preferable to ROC curves. As an illustrative example, we compare two commonly used fraud predictors (Beneish’s [1999, Financial Analysts Journal 55: 24–36] M score and Dechow et al.’s [2011, Contemporary Accounting Research 28: 17–82] F score) using both ROC and precision-recall curves. To aid the reader with using precision-recall curves, we also introduce the command prcurve to plot them. ",
+        "link": "http://dx.doi.org/10.1177/1536867x20909693"
+    },
+    {
+        "id": 6234,
+        "title": "Challenges in the real world use of classification accuracy metrics: From recall and precision to the Matthews correlation coefficient",
+        "authors": "Giles M. Foody",
+        "published": "2023-10-4",
+        "citations": 5,
+        "abstract": "The accuracy of a classification is fundamental to its interpretation, use and ultimately decision making. Unfortunately, the apparent accuracy assessed can differ greatly from the true accuracy. Mis-estimation of classification accuracy metrics and associated mis-interpretations are often due to variations in prevalence and the use of an imperfect reference standard. The fundamental issues underlying the problems associated with variations in prevalence and reference standard quality are revisited here for binary classifications with particular attention focused on the use of the Matthews correlation coefficient (MCC). A key attribute claimed of the MCC is that a high value can only be attained when the classification performed well on both classes in a binary classification. However, it is shown here that the apparent magnitude of a set of popular accuracy metrics used in fields such as computer science medicine and environmental science (Recall, Precision, Specificity, Negative Predictive Value, J, F1, likelihood ratios and MCC) and one key attribute (prevalence) were all influenced greatly by variations in prevalence and use of an imperfect reference standard. Simulations using realistic values for data quality in applications such as remote sensing showed each metric varied over the range of possible prevalence and at differing levels of reference standard quality. The direction and magnitude of accuracy metric mis-estimation were a function of prevalence and the size and nature of the imperfections in the reference standard. It was evident that the apparent MCC could be substantially under- or over-estimated. Additionally, a high apparent MCC arose from an unquestionably poor classification. As with some other metrics of accuracy, the utility of the MCC may be overstated and apparent values need to be interpreted with caution. Apparent accuracy and prevalence values can be mis-leading and calls for the issues to be recognised and addressed should be heeded.",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0291908"
+    },
+    {
+        "id": 6235,
+        "title": "Detection of forest fire using support vector machine in comparison with random forest to measure accuracy, precision and recall",
+        "authors": "Inturi Susmitha, Roseline J Femila, Vinay Sivasamy",
+        "published": "2022-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccr56254.2022.9995895"
+    },
+    {
+        "id": 6236,
+        "title": "Evaluation of Vehicle Quality Performance using Random forest in Comparison with KNN to measure the Accuracy, Recall, and Precision",
+        "authors": "V. Ramya, Kirupa Ganapathy",
+        "published": "2022-4-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciem54221.2022.9853143"
+    },
+    {
+        "id": 6237,
+        "title": "Precision-Recall versus Accuracy and the Role of Large Data Sets",
+        "authors": "Brendan Juba, Hai S. Le",
+        "published": "2019-7-17",
+        "citations": 97,
+        "abstract": "Practitioners of data mining and machine learning have long observed that the imbalance of classes in a data set negatively impacts the quality of classifiers trained on that data. Numerous techniques for coping with such imbalances have been proposed, but nearly all lack any theoretical grounding. By contrast, the standard theoretical analysis of machine learning admits no dependence on the imbalance of classes at all. The basic theorems of statistical learning establish the number of examples needed to estimate the accuracy of a classifier as a function of its complexity (VC-dimension) and the confidence desired; the class imbalance does not enter these formulas anywhere. In this work, we consider the measures of classifier performance in terms of precision and recall, a measure that is widely suggested as more appropriate to the classification of imbalanced data. We observe that whenever the precision is moderately large, the worse of the precision and recall is within a small constant factor of the accuracy weighted by the class imbalance. A corollary of this observation is that a larger number of examples is necessary and sufficient to address class imbalance, a finding we also illustrate empirically.",
+        "link": "http://dx.doi.org/10.1609/aaai.v33i01.33014039"
+    },
+    {
+        "id": 6238,
+        "title": "Detection of cardiovascular disease using KNN in comparison with naive bayes to measure precision, recall and f-score",
+        "authors": "S. Sravani, P. R. Karthikeyan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0177014"
+    },
+    {
+        "id": 6239,
+        "title": "Estimating Precision and Recall for Deterministic and Probabilistic Record Linkage",
+        "authors": "James Chipperfield, Noel Hansen, Peter Rossiter",
+        "published": "2018-8",
+        "citations": 5,
+        "abstract": "SummaryLinking administrative, survey and census files to enhance dimensions such as time and breadth or depth of detail is now common. Because a unique person identifier is often not available, records belonging to two different units (e.g. people) may be incorrectly linked. Estimating the proportion of links that are correct, called Precision, is difficult because, even after clerical review, there will remain uncertainty about whether a link is in fact correct or incorrect. Measures of Precision are useful when deciding whether or not it is worthwhile linking two files, when comparing alternative linking strategies and as a quality measure for estimates based on the linked file. This paper proposes an estimator of Precision for a linked file that has been created by either deterministic (or rules‐based) or probabilistic (where evidence for a link being a match is weighted against the evidence that it is not a match) linkage, both of which are widely used in practice. This paper shows that the proposed estimators perform well.",
+        "link": "http://dx.doi.org/10.1111/insr.12246"
+    },
+    {
+        "id": 6240,
+        "title": "Precision and recall oncology: combining multiple gene mutations for improved identification of drug-sensitive tumours",
+        "authors": "Stefan Naulaerts, Cuong C. Dang, Pedro J. Ballester",
+        "published": "2017-11-14",
+        "citations": 28,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18632/oncotarget.20923"
+    },
+    {
+        "id": 6241,
+        "title": "Stochastic-aware precision and recall measures for conformance checking in process mining",
+        "authors": "Sander J.J. Leemans, Artem Polyvyanyy",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.is.2023.102197"
+    },
+    {
+        "id": 6242,
+        "title": "Brain tumor detection using decision tree algorithm in comparison with artificial neural network algorithm to measure accuracy, precision and recall",
+        "authors": "M. Sandeep, A. Deepak",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0158398"
+    },
+    {
+        "id": 6243,
+        "title": "Statistical Precision-Recall Curves for Object Detection Algorithms Performance Measurement",
+        "authors": "Anna A. Kuznetsova",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-66077-2_27"
+    },
+    {
+        "id": 6244,
+        "title": "Student Dropout Prediction for University with High Precision and Recall",
+        "authors": "Sangyun Kim, Euteum Choi, Yong-Kee Jun, Seongjin Lee",
+        "published": "2023-5-20",
+        "citations": 5,
+        "abstract": "Since a high dropout rate for university students is a significant risk to local communities and countries, a dropout prediction model using machine learning is an active research domain to prevent students from dropping out. However, it is challenging to fulfill the needs of consulting institutes and the office of academic affairs. To the consulting institute, the accuracy in the prediction is of the utmost importance; to the offices of academic affairs and other offices, the reason for dropping out is essential. This paper proposes a Student Dropout Prediction (SDP) system, a hybrid model to predict the students who are about to drop out of the university. The model tries to increase the dropout precision and the dropout recall rate in predicting the dropouts. We then analyzed the reason for dropping out by compressing the feature set with PCA and applying K-means clustering to the compressed feature set. The SDP system showed a precision value of 0.963, which is 0.093 higher than the highest-precision model of the existing works. The dropout recall and F1 scores, 0.766 and 0.808, respectively, were also better than those of gradient boosting by 0.117 and 0.011, making them the highest among the existing works; Then, we classified the reasons for dropping out into four categories: “Employed”, “Did Not Register”, “Personal Issue”, and “Admitted to Other University.” The dropout precision of “Admitted to Other University” was the highest, at 0.672. In post-verification, the SDP system increased counseling efficiency by accurately predicting dropouts with high dropout precision in the “High-Risk” group while including more dropouts in total dropouts. In addition, by predicting the reasons for dropouts and presenting guidelines to each department, the students could receive personalized counseling.",
+        "link": "http://dx.doi.org/10.3390/app13106275"
+    },
+    {
+        "id": 6245,
+        "title": "Adjusting the Precision-Recall Trade-Off with Align-and-Predict Decoding for Grammatical Error Correction",
+        "authors": "Xin Sun, Houfeng Wang",
+        "published": "2022",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.acl-short.77"
+    },
+    {
+        "id": 6246,
+        "title": "Brain tumor detection using random forest algorithm in comparison with k-nearest neighbors algorithm to measure the accuracy, precision and recall",
+        "authors": "M. Sandeep, A. Deepak",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0158397"
+    },
+    {
+        "id": 6247,
+        "title": "Approximate Pattern Matching in Massive Graphs with Precision and Recall Guarantees",
+        "authors": "Tashin Reza, Matei Ripeanu, Geoffrey Sanders, Roger Pearce",
+        "published": "2020-6-11",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3318464.3380566"
+    },
+    {
+        "id": 6248,
+        "title": "Evaluation of vehicle quality performance using ANN in comparison with decision tree using accuracy, recall and precision",
+        "authors": "V. Ramya, Kirupa Ganapathy",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0179020"
+    },
+    {
+        "id": 6249,
+        "title": "Faculty Opinions recommendation of The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets.",
+        "authors": "Michael Barnes, David Watson",
+        "published": "2017-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3410/f.725375858.793530299"
+    },
+    {
+        "id": 6250,
+        "title": "Panel: Context-Dependent Evaluation of Tools for NL RE Tasks: Recall vs. Precision, and Beyond",
+        "authors": "Daniel M. Berry, Jane Cleland-Huang, Alessio Ferrari, Walid Maalej, John Mylopoulos, Didar Zowghi",
+        "published": "2017-9",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/re.2017.64"
+    },
+    {
+        "id": 6251,
+        "title": "Integration of Feature Vectors from Raw Laboratory, Medication and Procedure Names Improves the Precision and Recall of Models to Predict Postoperative Mortality and Acute Kidney Injury",
+        "authors": "Ira S. Hofer, Marina Kupina, Lori Laddaran, Eran Halperin",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nIntroduction:\n\nManuscripts that have successfully used machine learning (ML) to predict a variety of perioperative outcomes often use only a limited number of features selected by a clinician. We hypothesized that techniques leveraging a broad set of features for patient laboratory results, medications, and the surgical procedure name would improve performance as compared to a more limited set of features chosen by clinicians.\nMethods\n\nFeature vectors for laboratory results included 702 features total derived from 39 laboratory tests, medications consisted of a binary flag for 126 commonly used medications, procedure name used the Word2Vec package for create a vector of length 100. Nine models were trained: Baseline Features, one for each of the three types of data Baseline+Each data type (, all features, and then all features with feature reduction algorithm.\nResults\n\nAcross both outcomes the models that contained all features (model 8) (Mortality ROC-AUC 94.42, PR-AUC 31.0; AKI ROC-AUC 92.47, PR-AUC 76.73) was superior to models with only subsets of features\nConclusion\n\nFeaturization techniques leveraging a broad away of clinical data can improve performance of perioperative prediction models.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1193437/v1"
+    },
+    {
+        "id": 6252,
+        "title": "Algorithms for Active Classifier Selection",
+        "authors": "Paul N. Bennett, David M. Chickering, Christopher Meek, Xiaojin Zhu",
+        "published": "2017-2-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3018661.3018730"
+    },
+    {
+        "id": 6253,
+        "title": "Novel spam comment detection system using countvectorizer techniques with SVM for online youtube comments for improving the recall and precision value over Naive Bayes",
+        "authors": "Vijay Bhaskar, Udhayakumar Shanmugam",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0134440"
+    },
+    {
+        "id": 6254,
+        "title": "Evaluation of Vehicle Quality Performance using Logistic Regression in Comparison with RBF SVM to measure the Accuracy, Recall and Precision",
+        "authors": "V. Ramya, Karthikeyan. P. R",
+        "published": "2022-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icac3n56670.2022.10074487"
+    },
+    {
+        "id": 6255,
+        "title": "Detecting third-party libraries in Android applications with high precision and recall",
+        "authors": "Yuan Zhang, Jiarun Dai, Xiaohan Zhang, Sirong Huang, Zhemin Yang, Min Yang, Hao Chen",
+        "published": "2018-3",
+        "citations": 40,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/saner.2018.8330204"
+    },
+    {
+        "id": 6256,
+        "title": "Beyond Precision and Recall",
+        "authors": "Fabio Pagani, Matteo Dell'Amico, Davide Balzarotti",
+        "published": "2018-3-13",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3176258.3176306"
+    },
+    {
+        "id": 6257,
+        "title": "Looking back at 30 years of ReCALL",
+        "authors": "Françoise Blin",
+        "published": "2019-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344018000204"
+    },
+    {
+        "id": 6258,
+        "title": "A Novel Approach to Estimation Precision and Recall for Star Rating Online Customers Based on Negative Hotel Reviews using Multinomial Naive Bayes over Multischeme Classifier",
+        "authors": "S. Shajahan, T. Poovizhi",
+        "published": "2022-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icbats54253.2022.9759081"
+    },
+    {
+        "id": 6259,
+        "title": "Detection of Forest Fire Using Support Vector Machine in Comparison with Random Forest to Measure Accuracy, Precision and Recall",
+        "authors": "Inturi Susmitha, Femila Roseline J, Vinay Sivasamy",
+        "published": "2022-11-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/macs56771.2022.10022546"
+    },
+    {
+        "id": 6260,
+        "title": "Recall, Precision, and F-Measure for Evaluating Information Retrieval System in Electronic Document Management Systems (EDMS)",
+        "authors": "Annisa Fajriyati Sadeli, Ike Iswary Lawanda",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "The Legal Division of PT. ABC has implemented EDMS using the Integrated Legal Document Management Application, Centralized Legal Administration System (CLAS), to make the management of documents more accessible. The urgency is the system's accuracy in retrieving data or document input. The study employed a quantitative method with an experimental approach. Data collection techniques were observation, application search tests, documentation, and literature. Data analysis regarding the recall, precision, and F-measure calculation formulas will be compared with the standard information retrieval system effectiveness. The calculation results show that the average recall value for the search equals 1 or 100%. For the precision value that uses quotation marks, it is equal to 0.9713, while for searching without quotation marks, it is equal to 0.3920. From these results, the precision value is lower than the recall value. The precision value of 0.9713 is in the range of 0.68–1.00, which is placed as high precision, meaning that information retrieval is effective. The F-measure value is 0.98, close to 1, so the tracing system is sound. CLAS is quite effective in retrieving information according to user needs.",
+        "link": "http://dx.doi.org/10.24252/kah.v11i2a8"
+    },
+    {
+        "id": 6261,
+        "title": "Retraction Note: A Sly Salvage of Semantic Web Content with Insistence of Low Precision and Low Recall",
+        "authors": "R. Bhavani, V. Prakash, K. Chitra",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11277-022-10122-4"
+    },
+    {
+        "id": 6262,
+        "title": "Recall dan Precision pada Online Public Access Catalog (OPAC) Dinas Arsip dan Perpustakaan Kota Bandung",
+        "authors": "Didik Prata Wijaya, Letizia Dwi Murti, Mochamad Reinnal Rachman",
+        "published": "2022-7-22",
+        "citations": 0,
+        "abstract": "Disarpus Bandung is a technical institution that has the task and function of developing the habit of reading fondness through library empowerment. The role of the Online Public Access Catalog (OPAC) as an information retrieval system is very supportive as a means or facilities to improve services to the community, especially in the field of libraries in the city of Bandung. This study aims to determine (1) How is recall and precision in the OPAC of the Disarpus Bandung. (2) effectiveness of OPAC as an information retrieval system in the city of Bandung. The data collection method used is by conducting keyword searches on the OPAC of the Disarpus Bandung through the website page http://layanan.dispusip.bandung.go.id/inlislite3/opac/. These 10 keywords were the most searched or searched by library users in March 2022 in Disarpus Bandung. Every keyword used in the search process, the result is a number of catalog data. The catalog data obtained is then analyzed and determined which data are relevant and irrelevant to the information needs sought based on the title, the subject of the book, and the availability of the collection. Then the recall and precision calculations will be carried out to determine the effectiveness of the INLISLite application retrieval. Based on the results of testing on the OPAC of the Disarpus Bandung with 10 keywords most frequently searched by users during March 2022, it can be concluded that the information retrieval system has been effective. This can be seen from the average recall value of 0.96 or 95.79% and the average precision value of 0.92 or 92.31%. Of the 10 keywords, namely nursing, human resources, communication, research methods, accounting, taxation, information systems, skills, parenting, and psychology, the keywords with the highest recall and precision values are research methods and parenting keywords, namely the recall value of 1 or 100% and a precision value of 1 or 100%. Meanwhile, the lowest recall and precision values are communication keywords, with a recall value of 0.90 or 90.34% and a precision value of 0.88 or 88.33%. Overall, the OPAC at the Disarpus Bandung has been effective as an information retrieval system.",
+        "link": "http://dx.doi.org/10.37014/visipustaka.v24i1.2915"
+    },
+    {
+        "id": 6263,
+        "title": "Cervical Cancer Classification: Optimizing Accuracy, Precision, and Recall using SMOTE Preprocessing and t-SNE Feature Extraction",
+        "authors": "B. Hemalatha, B. Karthik, C.V. Krishna Reddy, D. Gokulakrishnan",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10467682"
+    },
+    {
+        "id": 6264,
+        "title": "RETRACTED ARTICLE: A Sly Salvage of Semantic Web Content with Insistence of Low Precision and Low Recall",
+        "authors": "R. Bhavani, V. Prakash, K. Chitra",
+        "published": "2021-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11277-020-07046-2"
+    },
+    {
+        "id": 6265,
+        "title": "Detection of forest fire using support vector machine in comparison with k - nearest neighbour to measure the accuracy, precision and recall",
+        "authors": "Inturi Susmitha, Femila Roseline J",
+        "published": "2022-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icac3n56670.2022.10074520"
+    },
+    {
+        "id": 6266,
+        "title": "<i>ReCALL</i> editorial September 2023 issue",
+        "authors": "Ana Gimeno-Sanz",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344023000174"
+    },
+    {
+        "id": 6267,
+        "title": "Antineoplastics",
+        "authors": "",
+        "published": "2022-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s40278-022-24348-0"
+    },
+    {
+        "id": 6268,
+        "title": "On the Influence of Entropy within a Class on the Precision and Recall of Classification",
+        "authors": "P.R. Akimova, V.V. Matsulevich, N.M. Zamuriy, M.O. Ukraintsev, S.A. Barinova, A.B. Dubov, V.V. Anikanova, F.R. Zanchenko, F.I. Ivanov",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.53921/18195822_2021_21_3_149"
+    },
+    {
+        "id": 6269,
+        "title": "Plotting receiver operating characteristic and precision–recall curves from presence and background data",
+        "authors": "Wenkai Li, Qinghua Guo",
+        "published": "2021-8",
+        "citations": 8,
+        "abstract": "Abstract\n\nThe receiver operating characteristic (ROC) and precision–recall (PR) plots have been widely used to evaluate the performance of species distribution models. Plotting the ROC/PR curves requires a traditional test set with both presence and absence data (namely PA approach), but species absence data are usually not available in reality. Plotting the ROC/PR curves from presence‐only data while treating background data as pseudo absence data (namely PO approach) may provide misleading results.\nIn this study, we propose a new approach to calibrate the ROC/PR curves from presence and background data with user‐provided information on a constant c, namely PB approach. Here, c defines the probability that species occurrence is detected (labeled), and an estimate of c can also be derived from the PB‐based ROC/PR plots given that a model with good ability of discrimination is available. We used five virtual species and a real aerial photography to test the effectiveness of the proposed PB‐based ROC/PR plots. Different models (or classifiers) were trained from presence and background data with various sample sizes. The ROC/PR curves plotted by PA approach were used to benchmark the curves plotted by PO and PB approaches.\nExperimental results show that the curves and areas under curves by PB approach are more similar to that by PA approach as compared with PO approach. The PB‐based ROC/PR plots also provide highly accurate estimations of c in our experiment.\nWe conclude that the proposed PB‐based ROC/PR plots can provide valuable complements to the existing model assessment methods, and they also provide an additional way to estimate the constant c (or species prevalence) from presence and background data.\n\n",
+        "link": "http://dx.doi.org/10.1002/ece3.7826"
+    },
+    {
+        "id": 6270,
+        "title": "Recall dan Precision Pada Sistem Temu Kembali Informasi Online Public Access Catalogue (OPAC) di Perpustakaan",
+        "authors": "Martin Martin, Lala Nilawati",
+        "published": "2019-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31294/p.v21i1.5064"
+    },
+    {
+        "id": 6271,
+        "title": "A novel approach for precision and recall estimation for star rating online customers based on positive movie reviews using naive bayes algorithm over K-nearest neighbour algorithm",
+        "authors": "Shajahan Syeds, Poovizhi Thirupathy",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/5.0134731"
+    },
+    {
+        "id": 6272,
+        "title": "Classification of Fire and Smoke Images using Decision Tree Algorithm in Comparison with Logistic Regression to Measure Accuracy, Precision, Recall, F-score",
+        "authors": "B. Haranadh Reddy, Karthikeyan P R",
+        "published": "2022-11-12",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/macs56771.2022.10022449"
+    },
+    {
+        "id": 6273,
+        "title": "Gamma oscillations modulate working memory recall precision",
+        "authors": "Lyall Thompson, Janine Khuc, Maria Silvia Saccani, Nahid Zokaei, Marinella Cappelletti",
+        "published": "2021-9",
+        "citations": 18,
+        "abstract": "AbstractWorking memory (WM)—the ability to keep information in mind for short periods of time—is linked to attention and inhibitory abilities, i.e., the capacity to ignore task-irrelevant information. These abilities have been associated with brain oscillations, especially parietal gamma and alpha bands, but it is yet unknown whether these oscillations also modulate attention and inhibitory abilities. To test this, we compared parietal gamma-transcranial alternating current stimulation (tACS) to alpha-tACS and to a non-stimulation condition (Sham) in 51 young participants. Stimulation was coupled with a WM task probing memory-based attention and inhibitory abilities by means of probabilistic retrospective cues, including informative (valid), uninformative (invalid) and neutral. Our results show that relative to alpha and sham stimulation, parietal gamma-tACS significantly increased working memory recall precision. Additional post hoc analyses also revealed strong individual variability before and following stimulation; low-baseline performers showed no significant changes in performance following both gamma and alpha-tACS relative to sham. In contrast, in high-baseline performers gamma- (but not alpha) tACS selectively and significantly improved misbinding-feature errors as well as memory precision, particularly in uninformative (invalid) cues which rely more strongly on attentional abilities. We concluded that parietal gamma oscillations, therefore, modulate working memory recall processes, although baseline performance may further influence the effect of stimulation.",
+        "link": "http://dx.doi.org/10.1007/s00221-021-06051-6"
+    },
+    {
+        "id": 6274,
+        "title": "Binormal Precision–Recall Curves for Optimal Classification of Imbalanced Data",
+        "authors": "Zhongkai Liu, Howard D. Bondell",
+        "published": "2019-4",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s12561-019-09231-9"
+    },
+    {
+        "id": 6275,
+        "title": "Testing the primary and convergent retrieval model of recall: Recall practice produces faster recall success but also faster recall failure",
+        "authors": "William J. Hopper, David E. Huber",
+        "published": "2019-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3758/s13421-019-00903-x"
+    },
+    {
+        "id": 6276,
+        "title": "Effectiveness of computer-assisted argument mapping for comprehension, recall, and retention",
+        "authors": "Maryam Eftekhari, Elaheh Sotoudehnama",
+        "published": "2018-9",
+        "citations": 10,
+        "abstract": "AbstractCompared to traditional pen-and-paper presentation of information, computer-assisted argument mapping seems to be more efficient in developing lower order thinking skills such as memory and comprehension. The present study investigated the impact of argument map construction and reading via computer versus pen and paper on English as a foreign language (EFL) majors’ comprehension, recall, and retention of argumentative texts. To this end, 120 Iranian EFL undergraduates were divided into low and high proficiency levels after taking a language proficiency test. Next, they were randomly assigned to two experimental groups; each group received 12 sessions of argument mapping instruction, one via computer and the other via pen and paper. At the end of the term, participants randomly received two argument map sizes (small vs. large) and were given 15 minutes to read the maps. Then tests of recall and comprehension relevant to the maps were administered, followed by a test of retention within a two-week interval. The results revealed that after controlling for spatial and verbal covariates, the type of treatment had a significant effect on recall, retention, and comprehension, with the software group outperforming the pen-and-paper group; however, proficiency level and argument size did not show any significant effect.",
+        "link": "http://dx.doi.org/10.1017/s0958344017000337"
+    },
+    {
+        "id": 6277,
+        "title": "A retrieved context model of serial recall and free recall",
+        "authors": "Lynn J. Lohnas",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "A full characterization of memory must include how participants use exogenous and endogenous cues to guide retrieval. In free recall, in which endogenous cues play a large role, retrieved context theories have emerged as a leading explanation of data on the dynamics of memory search (Lohnas &amp; Healey, 2021). More recently, Logan and colleagues have advanced a retrieved context model to explain data on serial recall and motor production (Logan, 2021; Logan &amp; Cox, 2021; Logan, 2018; Logan &amp; Cox, 2023). Comparisons of recall transitions have further highlighted similarities among these tasks (e.g., Bhatarah et al., 2008; Golomb et al., 2008). Here I evaluate retrieved context theory’s ability to simultaneously account for data from these classic recall procedures. I show how a serial version of the context maintenance and retrieval model (termed sCMR) can account for dissociations between serial position curves and temporal clustering effects. I also show how sCMR can account for grouping effects in serial recall, extending the assumptions of grouping from free recall (Lohnas et al., 2023). The sCMR model provides a common theoretical framework to harmonize the disparate phenomena studied using these classic memory procedures, but also reveals the distinctions between serial and free recall through their relative dependence on different model-based mechanisms.",
+        "link": "http://dx.doi.org/10.31234/osf.io/9t4y6"
+    },
+    {
+        "id": 6278,
+        "title": "SISTEM TEMU KEMBALI DENGAN KEYWORD (DESKRIPTIF MENGGUNAKAN RECALL DAN PRECISION PADA JUDUL, SUBJEK OPAC PERPUSTAKAAN UNIVERSITAS GADJAH MADA)",
+        "authors": "Dwiyantoro Dwiyantoro,  ",
+        "published": "2017-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.24252/kah.v5i2a4"
+    },
+    {
+        "id": 6279,
+        "title": "Whole-genome long-read sequencing downsampling and its effect on variant calling precision and recall",
+        "authors": "William T. Harvey, Peter Ebert, Jana Ebler, Peter A. Audano, Katherine M. Munson, Kendra Hoekzema, David Porubsky, Christine R. Beck, Tobias Marschall, Kiran Garimella, Evan E. Eichler",
+        "published": "No Date",
+        "citations": 6,
+        "abstract": "ABSTRACTAdvances in long-read sequencing (LRS) technology continue to make whole-genome sequencing more complete, affordable, and accurate. LRS provides significant advantages over short-read sequencing approaches, including phasedde novogenome assembly, access to previously excluded genomic regions, and discovery of more complex structural variants (SVs) associated with disease. Limitations remain with respect to cost, scalability, and platform-dependent read accuracy and the tradeoffs between sequence coverage and sensitivity of variant discovery are important experimental considerations for the application of LRS. We compare the genetic variant calling precision and recall of Oxford Nanopore Technologies (ONT) and PacBio HiFi platforms over a range of sequence coverages. For read-based applications, LRS sensitivity begins to plateau around 12-fold coverage with a majority of variants called with reasonable accuracy (F1 score above 0.5), and both platforms perform well for SV detection. Genome assembly increases variant calling precision and recall of SVs and indels in HiFi datasets with HiFi outperforming ONT in quality as measured by the F1 score of assembly-based variant callsets. While both technologies continue to evolve, our work offers guidance to design cost-effective experimental strategies that do not compromise on discovering novel biology.",
+        "link": "http://dx.doi.org/10.1101/2023.05.04.539448"
+    },
+    {
+        "id": 6280,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2019-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s095834401900003x"
+    },
+    {
+        "id": 6281,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2020-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344020000063"
+    },
+    {
+        "id": 6282,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344022000258"
+    },
+    {
+        "id": 6283,
+        "title": "Editorial",
+        "authors": "Shona Whyte",
+        "published": "2022-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344022000040"
+    },
+    {
+        "id": 6284,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2020-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s095834401900020x"
+    },
+    {
+        "id": 6285,
+        "title": "Precision and Recall of Search Strategies for Identifying Studies on Work-Related Psychosocial Risk Factors in PubMed",
+        "authors": "Jean-Francois Gehanno, Isabelle Thaon, Carole Pelissier, Laetitia Rollin",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10926-023-10110-w"
+    },
+    {
+        "id": 6286,
+        "title": "A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation",
+        "authors": "Yingrui Yang, Christopher Miller, Peng Jiang, Azadeh Moghtaderi",
+        "published": "2020-7-25",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3397271.3401315"
+    },
+    {
+        "id": 6287,
+        "title": "BPR-Net: Balancing Precision and Recall for Infrared Small Target Detection",
+        "authors": "Shuaiyuan Du, Kewei Wang, Zhiguo Cao",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tgrs.2023.3296102"
+    },
+    {
+        "id": 6288,
+        "title": "Tuning model parameters in class‐imbalanced learning with precision‐recall curve",
+        "authors": "Guang‐Hui Fu, Lun‐Zhao Yi, Jianxin Pan",
+        "published": "2019-5",
+        "citations": 37,
+        "abstract": "AbstractAn issue for class‐imbalanced learning is what assessment metric should be employed. So far, precision‐recall curve (PRC) as a metric is rarely used in practice as compared with its alternative of receiver operating characteristic (ROC). This study investigates the performance of PRC as the evaluating criterion to address the class‐imbalanced data and focuses on the comparison of PRC with ROC. The advantages of PRC over ROC on assessing class‐imbalanced data are also investigated and tested on our proposed algorithm by tuning the whole model parameters in simulation studies and real data examples. The result shows that PRC is competitive with ROC as performance measurement for handling class‐imbalanced data in tuning the model parameters. PRC can be considered as an alternative but effective assessment for preprocessing (such as variable selection) skewed data and building a classifier in class‐imbalanced learning.",
+        "link": "http://dx.doi.org/10.1002/bimj.201800148"
+    },
+    {
+        "id": 6289,
+        "title": "Distributed networks for auditory memory differentially contribute to recall precision",
+        "authors": "Sung-Joo Lim, Christiane Thiel, Bernhard Sehm, Lorenz Deserno, Jöran Lepsien, Jonas Obleser",
+        "published": "2022-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.neuroimage.2022.119227"
+    },
+    {
+        "id": 6290,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2017-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344017000052"
+    },
+    {
+        "id": 6291,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2019-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344018000216"
+    },
+    {
+        "id": 6292,
+        "title": "Editorial",
+        "authors": "Cornelia Tschichold",
+        "published": "2021-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344021000227"
+    },
+    {
+        "id": 6293,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2017-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344017000180"
+    },
+    {
+        "id": 6294,
+        "title": "Precision/Recall Trade-Off Analysis in Abnormal/Normal Heart Sound Classification",
+        "authors": "Jeevith Bopaiah, Ramakanth Kavuluru",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-72413-3_12"
+    },
+    {
+        "id": 6295,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2018-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344017000283"
+    },
+    {
+        "id": 6296,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2021-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344020000233"
+    },
+    {
+        "id": 6297,
+        "title": "Editorial",
+        "authors": "David Barr",
+        "published": "2020-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344020000166"
+    },
+    {
+        "id": 6298,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s095834402300023x"
+    },
+    {
+        "id": 6299,
+        "title": "Editorial",
+        "authors": "Alex Boulton",
+        "published": "2018-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/s0958344018000113"
+    },
+    {
+        "id": 6300,
+        "title": "Variability across subjects in free recall versus cued recall",
+        "authors": "Eric Mah, D. Stephen Lindsay",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Memory scientists usually compare mean performance on some measure(s) (accuracy, confidence, latency) as a function of experimental condition. Some researchers have made within-subject variability in task performance a focal outcome measure (e.g., Yao et al., 2016). Here we explored between-subject variability in accuracy as a function of experimental conditions. This work was inspired by an incidental finding in a previous study in which we observed greater variability in accuracy of memory performance on cued recall (CR) versus free recall (FR) of English animal/object nouns (Mah et al., 2023). Here we report experiments designed to assess the reliability of that pattern and to explore its causes (e.g., differential interpretation of instructions, (un)relatedness of CR word pairs, encoding time). In Experiment 1 (N = 120 undergraduates), we replicated the CR:FR variability difference with a more representative set of English nouns. In Experiments 2A (N = 117 Prolific participants) and 2B (N = 127 undergraduates), we found that the CR:FR variability difference persisted in a forced-recall procedure. In Experiment 3 (N = 260 Prolific participants), we used meaningfully related word pairs and still found greater variability in CR than FR performance. In Experiment 4 (N = 360 Prolific participants), we equated CR and FR study phases by having all participants study pairs and again observed greater variability in CR than FR. The same was true in Experiment 5 (N = 120 undergraduates), in which study time was self-paced. Comparisons of variability across subjects can yield insights into the mechanisms underlying task performance.",
+        "link": "http://dx.doi.org/10.31234/osf.io/k4va2"
+    }
+]

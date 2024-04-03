@@ -1,0 +1,902 @@
+[
+    {
+        "id": 7301,
+        "title": "Research on Credit Risk of P2P Lending Based on CatBoost Algorithm",
+        "authors": "鸿祥 李",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/fin.2019.93015"
+    },
+    {
+        "id": 7302,
+        "title": "An Application of XGBoost, LightGBM, CatBoost Algorithms on House Price Appraisal System",
+        "authors": "Jengei Hong",
+        "published": "2020-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.52344/hfr.2021.4.0.33"
+    },
+    {
+        "id": 7303,
+        "title": "An Application of XGBoost, LightGBM, CatBoost Algorithms on House Price Appraisal System",
+        "authors": "Jengei Hong",
+        "published": "2020-12",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.52344/hfr.2020.4.0.33"
+    },
+    {
+        "id": 7304,
+        "title": "CatBoost for Big Data: an Interdisciplinary Review",
+        "authors": "John Hancock, Taghi M Khoshgoftaar",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "Abstract\nGradient Boosted Decision Trees (GBDT’s) are a powerful tool for classiﬁcation and regression tasks in Big Data. Researchers should be familiar with the strengths and weaknesses of current implementations of GBDT’s in order to use them eﬀectively and make successful contributions. CatBoost is a member of the family of GBDT machine learning ensemble techniques. Since its debut in late 2018, researchers have successfully used CatBoost for machine learning studies involving Big Data. We take this opportunity to review recent research on CatBoost as it relates to Big Data, and learn best practices from studies that cast CatBoost in a positive light, as well as studies where CatBoost does not outshine other techniques, since we can learn lessons from both types of scenarios. Furthermore, as a Decision Tree based algorithm, CatBoost is well-suited to machine learning tasks involving categorical, heterogeneous data. Recent work across multiple disciplines illustrates CatBoost’s eﬀectiveness and shortcomings in classiﬁcation and regression tasks. Another important issue we expose in literature on CatBoost is its sensitivity to hyper-parameters and the importance of hyper-parameter tuning. One contribution we make is to take an interdisciplinary approach to cover studies related to CatBoost in a single work. This provides researchers an in-depth understanding to help clarify proper application of CatBoost in solving problems. To the best of our knowledge, this is the ﬁrst survey that studies all works related to CatBoost in a single publication.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-54646/v2"
+    },
+    {
+        "id": 7305,
+        "title": "CatBoost for Big Data: an Interdisciplinary Review",
+        "authors": "John Hancock, Taghi M Khoshgoftaar",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Abstract\nGradient Boosted Decision Trees (GBDT's) are a powerful tool for classification and regression tasks in Big Data, Researchers should be familiar with the strengths and weaknesses of current implementations of GBDT's in order to use them effectively and make successful contributions. CatBoost is a member of the family of GBDT machine learning ensemble techniques. Since its debut in late 2018, researchers have ellCcessfully used CatBoost for machine learning studies involving Big Data. We take this opportunity to review recent research on CatBoost as it relates to Big Data, and learn best practices from studies that .55 CatBoost in a positive light, as well as studies where CatBoost does not outshine other techniques, since we can learn lessons from both types of scenarios. Furthermore, as a Decision Tree based algorithm, CatBoost is well-suited to machine learning tasks involving categorical, heterogeneous data. Recent work across multiple disciplines illustrates CatBoost's effectiveness and shortcomings in classification and regression tasks. Another important issue we expose in literature on CatBoost is its sensitivity to hyper-parameters and the importance of hyper-parameter tuning. One contribution we make is to take an interdisciplinary approach to cover studies related to CatBoost in a single work. This provides researchers an in-depth understanding to help clarify proper application of CatBoost in solving problems. To the best of our knowledge, this is the first survey that studies all works related to CatBoost in a single publication.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-54646/v1"
+    },
+    {
+        "id": 7306,
+        "title": "A robust epilepsy diagnosis method based on SDAE and CatBoost",
+        "authors": "Houchi Li",
+        "published": "2022-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/wac55640.2022.9934480"
+    },
+    {
+        "id": 7307,
+        "title": "Credit Risk Assessment Based on Lasso and CatBoost Fusion Model",
+        "authors": "丽 牛",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/aam.2021.106229"
+    },
+    {
+        "id": 7308,
+        "title": "Financial Distress Prediction of Listed Companies Based on CatBoost Model",
+        "authors": "朋燕 张",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12677/aam.2021.109306"
+    },
+    {
+        "id": 7309,
+        "title": "Anticancer drug synergy prediction based on CatBoost",
+        "authors": "Changheng Li, Nana Guan, Hongyi Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\n The research of cancer treatments has always been a hot topic in medical field. Cancer monotherapy as a common therapy has been proven to have many disadvantages such as toxicity and drug resistance. With the development of network pharmacology, multi-targeted combination drugs have become an ideal option for cancer treatment. Since the number of potential drug combinations is very huge, it is not feasible to use clinical experience or high-throughput screening to identify the complete combinatorial space. Methods such as machine learning models offer the possibility to explore the combinatorial space effectively.\nResults\n In this work, we proposed a machine learning method based on CatBoost to predict the synergy scores of anticancer drug combinations on cancer cell lines, which utilized oblivious trees and Ordered Boosting technique to avoid overfitting and bias. The model was trained and tested using the data screened from NCI-ALMANAC dataset. The drugs were characterized with morgan fingerprints, drug target information, monotherapy information, and the cell lines were described with gene expression profiles. In the stratified five-fold cross-validation, our method obtained excellent results and performed significantly better than three other advanced models. Additionally, when using SHAP to interpret the biological significance of the prediction results, we found that those genes with some associations with cancer occurrence played an important role in the prediction effect.\nConclusions\n The model based on CatBoost has good quality for predicting drug synergy and could be considered as an optional method for anticancer drug combination research.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3652163/v1"
+    },
+    {
+        "id": 7310,
+        "title": "CatBoost-Based Network Intrusion Detection on Imbalanced CIC-IDS-2018 Dataset",
+        "authors": "Alikhanov Jumabek, SeungSam Yang, YoungTae Noh",
+        "published": "2021-12-31",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7840/kics.2021.46.12.2191"
+    },
+    {
+        "id": 7311,
+        "title": "Accurate and Generalizable Soil Liquefaction Prediction Model Based on the CatBoost Algorithm",
+        "authors": "Jiazhi He, Xianda Feng,  Lu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nAccurate prediction of soil liquefaction is important for preventing geological disasters. Soil liquefaction prediction models based on machine learning algorithms are efficient and accurate; however, the generalizability of some models is weak and they fail to achieve highly precise soil liquefaction predictions in certain areas, which limits the applicability of these models. Thus, a soil liquefaction prediction model was constructed using the CatBoost (CB) algorithm to support categorical features. The model was trained using standard liquefaction datasets from domestic and foreign sources and was optimized with Optuna hyperparameters. Additionally, the model was evaluated using five evaluation metrics and its performance was compared to that of other models that use multi-layer perceptron and support vector machine algorithms. Finally, the prediction capability of the model was verified by a case study. The experimental results demonstrated that the CB-based model generated more accurate soil liquefaction predictions than other comparison models and maintained their performance. Hence, the proposed model accurately predicts soil liquefaction and offers strong generalizability, demonstrating potential to contribute toward the prevention and control of soil liquefaction in engineering projects, and toward ensuring the safety and stability of structures built on or near liquefiable soils.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2767016/v1"
+    },
+    {
+        "id": 7312,
+        "title": "Classification of Hijaiyah Letters Using Hybrid CNN-CatBoost",
+        "authors": "Dimmas Mulya",
+        "published": "2023-8-16",
+        "citations": 0,
+        "abstract": "In this digital era, character recognition technology and letter classification are topics that are increasingly attracting attention, especially in the context of developing applications for learning Arabic, text processing, and artificial intelligence systems. There have been many previous studies examining this topic. However, there are still many opportunities to develop models for classifying hijaiyah letters to help many people learn to write hijaiyah letters.\r\nIn this study, building a hijaiyah letter classification model using Hybrid-CNN and CatBoost, where CNN is used as a feature extractor and CatBoost as a classifier. CNN will be trained first to become a feature extractor and the results of the CNN model will be used as a feature extractor to create feature representation for training and testing CatBoost model. The AHDC dataset was used in this study and succeeded in achieving an accuracy value of 96.07%. Although it has not been able to compete with previous research, the Hybrid-CNN model with CatBoost has good potential in the future.",
+        "link": "http://dx.doi.org/10.25105/itm.v3i2.17521"
+    },
+    {
+        "id": 7313,
+        "title": "Phishing Website Detection using XGBoost and Catboost Classifiers",
+        "authors": "Kishwar Sadaf",
+        "published": "2023-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsca57840.2023.10087829"
+    },
+    {
+        "id": 7314,
+        "title": "Estimating Sea Surface pCO2 in the North Atlantic based on CatBoost",
+        "authors": "Hongwei Sun, Yihui Chen, Lin Li, Yihui Chen",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Sea surface partial pressure of CO2 (pCO2) is a critical parameter in the quantification of air-sea CO2 flux, which plays an important role in calculating the global carbon budget and ocean acidification. In this study, we use chlorophyll-a concentration (Chla), sea surface temperature (SST), absorption due to dissolved and particulate detrital matter (Adg), diffuse attenuation coefficient of downwelling irradiance at 490nm (Kd) and mixed layer depth (MLD) as input data for retrieving the sea surface pCO2 in the North Atlantic based on a remote sensing empirical approach with the Categorical Boosting (CatBoost) algorithm. The results show that the root mean square error (RMSE) is 8.25&mu;atm, the mean bias error (MAE) is 4.92&mu;atm and the coefficient of determination (R2) can reach 0.946 in the validation set, which mean that the CatBoost model makes an improvement compared to other models in the published studies. In the further analysis of the spatial and temporal distribution of the sea surface pCO2 in the North Atlantic, it can be found that the North Atlantic sea surface pCO2 has a clear trend with latitude variations and have strong seasonal changes. Furthermore, the sea surface pCO2 in this area is mainly affected by sea temperature and salinity, and influenced by biological activities in some sub-regions.",
+        "link": "http://dx.doi.org/10.20944/preprints202104.0065.v1"
+    },
+    {
+        "id": 7315,
+        "title": "CatBoost for Haptic Modeling of Homogeneous Viscoelastic Deformable Objects",
+        "authors": "Gautam Kumar, Shashi Prakash, Amit Bhardwaj",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/whc56415.2023.10224477"
+    },
+    {
+        "id": 7316,
+        "title": "Anomaly Detection in IOT Site Using CatBoost",
+        "authors": "Rahul Kushwah, Ritu Garg",
+        "published": "2023-8-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asiancon58793.2023.10269881"
+    },
+    {
+        "id": 7317,
+        "title": "Daily Streamflow Forecasting in Mountainous Catchment Using XGBoost, LightGBM and CatBoost",
+        "authors": "Robert Szczepanek",
+        "published": "2022-12-13",
+        "citations": 20,
+        "abstract": "Streamflow forecasting in mountainous catchments is and will continue to be one of the important hydrological tasks. In recent years machine learning models are increasingly used for such forecasts. A direct comparison of the use of the three gradient boosting models (XGBoost, LightGBM and CatBoost) to forecast daily streamflow in mountainous catchment is our main contribution. As predictors we use daily precipitation, runoff at upstream gauge station and two-day preceding observations. All three algorithms are simple to implement in Python, fast and robust. Compared to deep machine learning models (like LSTM), they allow for easy interpretation of the significance of predictors. All tested models achieved Nash-Sutcliffe model efficiency (NSE) in the range of 0.85–0.89 and RMSE in the range of 6.8–7.8 m3s−1. A minimum of 12 years of training data series is required for such a result. The XGBoost did not turn out to be the best model for the daily streamflow forecast, although it is the most popular model. Using default model parameters, the best results were obtained with CatBoost. By optimizing the hyperparameters, the best forecast results were obtained by LightGBM. The differences between the model results are much smaller than the differences within the models themselves when suboptimal hyperparameters are used.",
+        "link": "http://dx.doi.org/10.3390/hydrology9120226"
+    },
+    {
+        "id": 7318,
+        "title": "G-Cocktail: An Algorithm to Address Cocktail Party Problem of Gujarati Language using CatBoost",
+        "authors": "Monika Gupta, R K Singh, Sachin Singh",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThe pandemic caused due to COVID-19, has seen things going online. People tired   of typing prefer to give voice commands. Most of the voice based applications and devices are  not prepared to handle the native languages. Moreover, in a party environment it is difficult to identify a voice command as there are many speakers. The proposed work addresses the Cocktail party problem of Indian language, Gujarati. The voice response systems like, Siri, Alexa, Google Assistant as of now work on single voice command. The proposed algorithm G- Cocktail would help these applications to identify command given in Gujarati even from a mixed voice signal. Benchmark Dataset is taken from Microsoft and Linguistic Data Consortium for Indian Languages(LDC-IL) comprising single words and phrases. G-Cocktail utilizes the power  of CatBoost algorithm to classify and identify the voice. Voice print of the entire sound files is created using Pitch, and Mel Frequency Cepstral Coefficients (MFCC). Seventy percent of the voice prints are used to train the network and thirty percent for testing. The proposed work is tested and compared with K-means, Naïve Bayes, and LightGBM.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-305722/v1"
+    },
+    {
+        "id": 7319,
+        "title": "On Factors Selection in CatBoost Models Construction",
+        "authors": "Anton Sysoev",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/summa60232.2023.10349492"
+    },
+    {
+        "id": 7320,
+        "title": "Discrimination of Excessive Exhaust Emissions of Vehicles based on Catboost Algorithm",
+        "authors": "Xihong Fei, Yi Fang, Qiang Ling",
+        "published": "2020-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ccdc49329.2020.9164224"
+    },
+    {
+        "id": 7321,
+        "title": "Sales Forecasting Based on CatBoost",
+        "authors": "Jingyi Ding, Ziqing Chen, Li Xiaolong, Baoxin Lai",
+        "published": "2020-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itca52113.2020.00138"
+    },
+    {
+        "id": 7322,
+        "title": "Edible Oil Adulteration Detection using CatBoost Regression Model",
+        "authors": "V. Surya, A. Senthilselvi",
+        "published": "2023-7-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icecaa58104.2023.10212383"
+    },
+    {
+        "id": 7323,
+        "title": "Performance of CatBoost and XGBoost in Medicare Fraud Detection",
+        "authors": "John Hancock, Taghi M. Khoshgoftaar",
+        "published": "2020-12",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla51294.2020.00095"
+    },
+    {
+        "id": 7324,
+        "title": "Catboost Algorithm for Transmission Line Faults Detection and Classification",
+        "authors": "Tanbir Rahman, Talab Hasan, Arif Ahammad",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4312648"
+    },
+    {
+        "id": 7325,
+        "title": "CatBoost for Fraud Detection in Financial Transactions",
+        "authors": "Yeming Chen, Xinyuan Han",
+        "published": "2021-1-15",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccece51280.2021.9342475"
+    },
+    {
+        "id": 7326,
+        "title": "Bearing Vibration Signal Fault Diagnosis Based on LSTM-Cascade CatBoost",
+        "authors": "Miaomiao Yang Miaomiao Yang, Weizhi Liu Miaomiao Yang, Wenxuan Zhang Weizhi Liu, Mei Wang Wenxuan Zhang, Xia Fang Mei Wang",
+        "published": "2022-9",
+        "citations": 3,
+        "abstract": "\n                        <p>Bearing is one of the most concerned parts in the field of fault diagnosis. At present, there are numerous excellent algorithms applied to bearing fault detection. This paper proposes a new fault bearings diagnosis model named LSTM-Cascade CatBoost, which can directly classify bearing vibration signals in the case of multiple granularity and high dimensions without signal processing. The model is based on gcForest, whose complexity can be adjusted automatically to the size of data set and it uses LSTM to extract features of time series signals instead of multi-grained scanning for improving the model&rsquo;s feature extraction ability. CatBoost is used as the base classifier of cascade forest to improve the classification accuracy of the model. Experimental results show the fact that this model is highly accurate in CWRU and XJTU-SY datasets. Besides, it not only proves that the feature extraction ability of LSTM is significantly better than that of multi-grained scanning, but CatBoost as a base classifier can further improve the accuracy of cascade forest.</p>\n<p>&nbsp;</p>\n                    ",
+        "link": "http://dx.doi.org/10.53106/160792642022092305024"
+    },
+    {
+        "id": 7327,
+        "title": "CatBoost based Jane Street Market Forecast Model",
+        "authors": "Yubing He, Ouyang Jingze,  Kikko, Maoyuan Li",
+        "published": "2021-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aiid51893.2021.9456586"
+    },
+    {
+        "id": 7328,
+        "title": "A Price Prediction Method Based on CatBoost",
+        "authors": "Tie Wang, Yutian Wang, Mingzhe Liu",
+        "published": "2021-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccst53801.2021.00090"
+    },
+    {
+        "id": 7329,
+        "title": "Online Transaction Detection Method Using Catboost Model",
+        "authors": "Yunlong Li, Yingan Mai, Zijian Lin, Shufen Liang",
+        "published": "2020-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cisce50729.2020.00053"
+    },
+    {
+        "id": 7330,
+        "title": "An Interpretable Catboost Model to Predict the Power of Combined Cycle Power Plants",
+        "authors": "Rafat Ashraf Joy",
+        "published": "2021-7-14",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icit52682.2021.9491700"
+    },
+    {
+        "id": 7331,
+        "title": "Short-term Weather Forecast Based on Wavelet Denoising and Catboost",
+        "authors": "Li Diao, Dan Niu, Zengliang Zang, Chen Chen",
+        "published": "2019-7",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/chicc.2019.8865324"
+    },
+    {
+        "id": 7332,
+        "title": "Application of the Catboost Gradient Boosting Method in Forecasting Solar Electricity",
+        "authors": "D. Vasina, A. Gorshenin",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dynamics60586.2023.10349541"
+    },
+    {
+        "id": 7333,
+        "title": "Predicting Animal Shelter Pet Adoption Times and Feature Importance Analysis using CatBoost",
+        "authors": "Cem Sazara, Xin Gao",
+        "published": "2022-10-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/is57118.2022.10019608"
+    },
+    {
+        "id": 7334,
+        "title": "Teknik Weighting untuk Mengatasi Ketidakseimbangan Kelas Pada Prediksi Churn Menggunakan XGBoost, LightGBM, dan CatBoost",
+        "authors": "Wahyu Nugraha, Muhamad Syarif",
+        "published": "2023-2-23",
+        "citations": 0,
+        "abstract": "Churn merupakan kondisi dimana seseorang berpindah dari satu layanan ke layanan yang lain. Churn pelanggan menjadi masalah yang meningkat cukup signifikan dan menjadi tantangan utama yang harus dihadapi banyak perusahaan perbankan karena memiki peran penting terhadap laba perusahaan.  Oleh sebab itu, diperlukan cara untuk memprediksi perilaku churn tepat waktu agar bisa menerapkan retensi pelanggan. Namun, Permasalahan yang dihadapi oleh model prediksi churn adalah ketidakseimbangan kelas sehingga membuat model klasifikasi menghasilkan kinerja yang buruk. Solusi yang paling sering digunakan untuk mengatasi masalah ketidakseimbangan kelas terbagi menjadi tiga pendekatan yaitu pendekatan level data, level algoritma dan  ensemble. Setiap pendekatan  mengalami beberapa masalah yang sulit diprediksi ketika digunakan untuk menangani masalah ketidakseimbangan kelas. Pada penelitian ini, peneliti melakukan eksperimen menggunakan metode ensemble berbasis boosting untuk melakukan prediksi churn pelanggan dan mencoba meningkatkan kinerjanya pada dataset yang tidak seimbang dengan parameter tuning menggunakan scale pos weight. Algoritma klasifikasi yang digunakan yaitu XGBoost (extreme gradient boosting), LightGBM (light gradient boosting machine) dan CatBoost. Hasil eksperimen akan membandingkan kinerja dari ketiga algoritma berbasis boosting tersebut dengan menyesuaikan bobot parameternya sebanyak tiga kali. Dari hasil pengujian, model CatBoost memperoleh nilai recall tertinggi sebesar 0.79. Sedangkan untuk nilai recall terendah adalah model CatBoost default dengan nilai 0.47. Bedasarkan hasil ekperimen dapat disimpulan bahwa model bekerja dengan cukup baik pada data yang tidak seimbang dengan memberikan mekanisme hyperparameter scale pos weightsehingga model dapat lebih fokus pada kelas minoritas yang sulit dideteksi.  ",
+        "link": "http://dx.doi.org/10.33633/tc.v22i1.7191"
+    },
+    {
+        "id": 7335,
+        "title": "Transaction fraud detection by CatBoost model with feature engineering",
+        "authors": "Jiahan Shi",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "In the digital era, the ubiquitous nature of online transactions has placed a spotlight on the imperative for robust fraud detection systems. This research tackles this pressing issue, with a particular emphasis on the nuanced process of feature engineering tailored for the IEEE-CIS dataset, a representative sample of contemporary transactional behaviors. The enhancement of data attributes, through meticulous feature engineering, acts as the bedrock for the application of the CatBoost model - a gradient-boosting technique revered for its precision. The paper dedicates significant attention to both these pivotal stages, showcasing the synergistic effect they have when applied in tandem. With this refined data and sophisticated modeling, the proposed method manifests exceptional performance, establishing a new benchmark when juxtaposed with other gradient-boosting methodologies. Conclusively, this study offers valuable insights for enhancing online transaction security and sets the stage for further innovation in fraud detection within the machine learning community.",
+        "link": "http://dx.doi.org/10.54254/2755-2721/48/20241485"
+    },
+    {
+        "id": 7336,
+        "title": "A CatBoost-Based Approach for High-Accuracy Botnet Detection",
+        "authors": "Abdulkader Hajjouz, Elena Avksentieva",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "The rising prevalence of network botnet attacks poses a significant threat to online security. Compromised networks controlled by malicious entities can perpetrate harm, including distributed denial of service attacks and data theft. In this study, we introduce a method to detect these botnets using the CatBoostClassifier. By analyzing network traffic for suspicious patterns, our system efficiently identifies potential botnet activities. Utilizing the CTU-13 dataset, we achieved an impressive 99.8699% accuracy, underscoring the efficacy of our approach. This research offers valuable insights into botnet attack detection and presents a robust solution for enhancing network security.\n",
+        "link": "http://dx.doi.org/10.47577/technium.v15i.9635"
+    },
+    {
+        "id": 7337,
+        "title": "HCB: A Hybrid CatBoost Enabled Chronic Kidney Disease Detection System",
+        "authors": "S. Mohammed Imran, S. Shahar Banu",
+        "published": "2022-8-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icesc54411.2022.9885415"
+    },
+    {
+        "id": 7338,
+        "title": "Fault diagnosis of permanent magnet synchronous motor based on IEWT and CatBoost",
+        "authors": "Lidan Zhou, Shufang Dai, Gang Yao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1587/elex.21.20240123"
+    },
+    {
+        "id": 7339,
+        "title": "Understanding the Influence Factors for CAV Crash Severity Based on CatBoost and SHAP Analysis",
+        "authors": "Pei Liu, Yanyong Guo, Mengmeng Zhang, Yueying Huo",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1061/9780784484869.115"
+    },
+    {
+        "id": 7340,
+        "title": "Medicare Fraud Detection using CatBoost",
+        "authors": "John Hancock, Taghi M. Khoshgoftaar",
+        "published": "2020-8",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iri49571.2020.00022"
+    },
+    {
+        "id": 7341,
+        "title": "Hybrid CatBoost Regression model based Intrusion Detection System in IoT-Enabled Networks",
+        "authors": "R Latha, R.M. Bommi",
+        "published": "2023-3-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icees57979.2023.10110148"
+    },
+    {
+        "id": 7342,
+        "title": "Voice Features Based Early Diagnosis of Parkinson Neurodegenerative Disorder Using Catboost and Light Gbm Algorithms",
+        "authors": "ANISHA C.D, Arulanand N",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4060654"
+    },
+    {
+        "id": 7343,
+        "title": "Research on Investment Strategy Based on Catboost Model and Bollinger Band Channel",
+        "authors": "Jiewen Zhong",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "As the economy continues to grow, more and more people tend to increase their income through asset investment. This paper devised a trading strategy and evaluated the value of an investment of $1,000 after five years. The Catboost regression model was built to predict the price of gold and bitcoin with an accuracy rate of up to 99%. It showed that the model can effectively make predictions about gold and bitcoin prices. Trading signals for gold and bitcoin were established based on the Bollinger Bands channel theory. Simulated trading of assets began on September 11, 2016, and the total assets after five years were $4,430,859.83. Then this paper conducted sensitivity analysis on the established trading model. Finally, the parameters of the established trading model are optimized to determine an optimal model parameter.",
+        "link": "http://dx.doi.org/10.54097/hbem.v17i.11349"
+    },
+    {
+        "id": 7344,
+        "title": "Scammer identification using CatBoost in smart contract for enhancing security in blockchain network",
+        "authors": "S. Porkodi, D. Kesavaraja",
+        "published": "2023-11-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11276-023-03552-w"
+    },
+    {
+        "id": 7345,
+        "title": "A Hybrid Short-Term Load Forecasting Model Based on CatBoost and LSTM",
+        "authors": "Xianjin Yang, Zhonghua Chen",
+        "published": "2021-4-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsp51882.2021.9408768"
+    },
+    {
+        "id": 7346,
+        "title": "Research on Short-Term Load Forecasting Using K-means Clustering and CatBoost Integrating Time Series Features",
+        "authors": "Chenrui Zhang, Zhonghua Chen, Jing Zhou",
+        "published": "2020-7",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/ccc50068.2020.9188856"
+    },
+    {
+        "id": 7347,
+        "title": "ScottishFold: CatBoost-Enabled Lightweight Autonomous Smart Home Device Classification",
+        "authors": "Tawan Hohum, Kalika Suksomboon, Aimaschana Niruntasukrat, Sophon Mongkolluksamee, Natapon Tansangworn",
+        "published": "2021-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/gcwkshps52748.2021.9681958"
+    },
+    {
+        "id": 7348,
+        "title": "Using CatBoost and Other Supervised Machine Learning Algorithms to Predict Alzheimer's Disease",
+        "authors": "Jessica An",
+        "published": "2022-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla55696.2022.00265"
+    },
+    {
+        "id": 7349,
+        "title": "TEXT CLASSIFICATION METHOD OF DONGBA CLASSICS BASED ON CATBOOST ALGORITHM",
+        "authors": "X. Zhang, G. X. Wu",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/icp.2021.1336"
+    },
+    {
+        "id": 7350,
+        "title": "Rainfall Prediction Using Catboost Machine Learning Algorithm",
+        "authors": "Vempaty Prashanthi, Srinivas Kanakala, Deepika Borgaonkar, D. Suresh Babu",
+        "published": "2023-9-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276336"
+    },
+    {
+        "id": 7351,
+        "title": "Building Gender-Specific Sexually Transmitted Infection Risk Prediction Models Using CatBoost Algorithm and NHANES Data",
+        "authors": "Mengjie Hu, Han Peng, Xuan Zhang, Lefeng Wang, Jingjing Ren",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nAims\n Sexually transmitted infections (STIs) are a significant global public health challenge due to their high incidence rate and potential for severe consequences when early intervention is neglected. Research shows an upward trend in absolute cases and DALY numbers of STIs, with syphilis, chlamydia, trichomoniasis, and genital herpes exhibiting an increasing trend in age-standardized rate (ASR) from 2010 to 2019. Machine learning (ML) presents significant advantages in disease prediction, with several studies exploring its potential for STI prediction. The objective of this study is to build males-based and females-based STI risk prediction models based on the CatBoost algorithm using data from the National Health and Nutrition Examination Survey (NHANES) for training and validation, with sub-group analysis performed on each STI. The female sub-group also includes human papilloma virus (HPV) infection.\nMethods\n The study utilized data from the National Health and Nutrition Examination Survey (NHANES) program to build males-based and females-based STI risk prediction models using the CatBoost algorithm. Data was collected from 12,053 participants aged 18 to 59 years old, with general demographic characteristics and sexual behavior questionnaire responses included as features. The SMOTE algorithm was used to address data imbalance, and 15 machine learning algorithms were evaluated before ultimately selecting the CatBoost algorithm. The SHAP method was employed to enhance interpretability by identifying feature importance in the model's STIs risk prediction.\nResults\n The CatBoost classifier achieved AUC values of 0.7891, 0.6558, 0.6607, 0.6118 and 0.6932 for predicting chlamydia, genital herpes, genital warts, gonorrhea, and overall STIs infections among males.The CatBoost classifier achieved AUC values of 0.7082, 0.647, 0.6767, 0.8459, 0.6929 and 0.7005 for predicting chlamydia, genital herpes, genital warts, gonorrhea, HPV and overall STIs infections among females.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3020338/v1"
+    },
+    {
+        "id": 7352,
+        "title": "An Improved CatBoost Algorithm for Red Fox Optimization in the Field of Anomaly Detection",
+        "authors": "Hongwei Chen, Tao Wu",
+        "published": "2022-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ccsb58128.2022.00034"
+    },
+    {
+        "id": 7353,
+        "title": "Game Theory-Infused Hybrid CatBoost- Extreme Learning Machine model for Reliable Identification of Rice Leaf Diseases for Advancing Agricultural Surveillance",
+        "authors": "V. Krishna Pratap, N. Suresh Kumar",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nThe global economy greatly relies on rice cultivation, yet the agricultural sector is primarily challenged by the prevalence of rice leaf diseases. This research introduces a novel Game Theory-Infused Hybrid CatBoost-Extreme Learning Machine (GT-CBELM) model tailored for the accurate and dependable detection of rice leaf diseases, thereby advancing agricultural surveillance practices. The proposed methodology harnesses cutting-edge image pre-processing methods, Contrast-Limited Adaptive Histogram Equalization (CLAHE), to enhance image quality and reveal critical disease-related details. The Grab Cut algorithm, achieves refined segmentation of disease-affected regions, leading to focused feature extraction and a substantial improvement in disease classification accuracy. Texture-specific features are extracted using the Grey Level Cooccurrence Matrix (GLCM) technique, effectively capturing essential structural information from affected areas. A groundbreaking contribution lies in the integration of game theory-based feature selection, empowered by the Banzhaf power index, which adeptly identifies relevant features while accounting for their inherent interdependencies, mitigating overfitting concerns and enhancing generalization capabilities. By seamlessly merging Game Theory with CatBoost algorithm’s robust categorical feature handling and ELM's pattern recognition process, the hybrid model excels in classifying three distinct rice leaf diseases brown spot, bacterial leaf blight, and leaf smut with remarkable precision and reliability. This innovative approach holds great promise for revolutionizing agricultural management strategies by enabling immediate and accurate disease identification, thereby contributing to enhanced crop health and agricultural productivity.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3996107/v1"
+    },
+    {
+        "id": 7354,
+        "title": "Transmission Line Fault Classification of Multi-Dataset Using CatBoost Classifier",
+        "authors": "Vincent Nsed Ogar, Sajjad Hussain, Kelum A. A. Gamage",
+        "published": "2022-7-5",
+        "citations": 6,
+        "abstract": "Transmission line fault classification forms the basis of fault protection management in power systems. Because faults have adverse effects on transmission lines, adequate measures must be implemented to avoid power outages. This paper focuses on using the categorical boosting (CatBoost) algorithm classifier to analyse and train multiple voltage and current data from a 330 kV and 500 km-long simulated faulty transmission line model designed using Matlab/Simulink. From it, 93,340 fault data sizes were extracted. The CatBoost classifier was employed to classify the faults after different machine learning algorithms were used to train the same data with different parameters. The trainer achieved the best accuracy of 99.54%, with an error of 0.46% for 748 iterations out of 1000. The algorithm was selected for its high performance in classifying faults based on accuracy, precision and speed. In addition, it is easy to use and handles multiple data-sets. In contrast, a support vector machine and an artificial neural network each has a longer training time than the proposed method’s 58.5 s. Proper fault classification techniques assist in the effective fault management and planning of power system control thereby preventing energy waste and providing high performance.",
+        "link": "http://dx.doi.org/10.3390/signals3030027"
+    },
+    {
+        "id": 7355,
+        "title": "Credit Risk Prediction of Listed Companies Based on Smote-RF-Catboost",
+        "authors": "Aohan Wang, Ziyi Li, Yan Zhuang",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "The credit risk of listed companies is the focus of attention in the field of financial risk, and accurate identification and prediction of credit risk is of great significance to the healthy development of China's financial market and the smooth operation of the financial system. In this paper, a Smote-RF-Catboost method is proposed to study A-share listed companies in China, which selects 23 indicators that can comprehensively reflect the financial situation of enterprises to build an index system, combines Smote (Synthetic Minority Over-Sampling Technique) over-sampling to achieve sample equilibrium, and uses Random Forest feature importance to select features. Finally, the Catboost algorithm is used to predict the credit risk. The empirical results show that the prediction accuracy and AUC value of the test set are above 0.95, and the prediction performance is high, which provides a new way for financial institutions and related practitioners to analyze and predict credit risk.",
+        "link": "http://dx.doi.org/10.54097/hbem.v7i.6963"
+    },
+    {
+        "id": 7356,
+        "title": "<i>AlzGenPred</i>: A CatBoost based method using network features to classify the Alzheimer’s Disease associated genes from the high throughput sequencing data",
+        "authors": "Rohit Shukla, Tiratha Raj Singh",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractBackground and ObjectiveAD is a progressive neurodegenerative disorder characterized by memory loss. Due to the advancement in next-generation sequencing technologies, an enormous amount of AD-associated genomics data is available. However, the information about the involvement of these genes in AD association is still a research topic because all these algorithms are based on statistical techniques. Therefore, AlzGenPred is developed to identify the AD-associated genes from a large set of data.MethodsTo develop the AlzGenPred, we have compiled a benchmark dataset consisting of 1086 AD and non-AD genes and used them as positive and negative datasets. We have generated several features including the fused features and evaluated them through machine learning methods. Then hyperparameter tuning approach was also applied and the final model was selected. The proposed method was validated by using the AlzGene and transcriptomics datasets and proposed as a standalone tool.ResultsTotal 13504 features belonging to eight different encoding schemes of these sequences were generated and evaluated by using 16 ML algorithms. It reveals that network-based features can classify AD genes while sequence-based features are not able to classify them. Then we generated 24 different fused features (6020 D) using sequence-based features and fed them into a two-step lightGBM-based recursive feature selection method. It increased up to 5-7% accuracy. After that selected eight fused features with CKSAAP were used for the hyperparameter tuning. They showed <70% accuracy. Therefore, network-based features were used to generate the CatBoost-based ML method called AlzGenPred with 96.55% accuracy and 98.99% AUROC. The developed method is tested on the AlzGene dataset where it showed 96.43% accuracy. Then the model is validated using the transcriptomics dataset also.ConclusionThe validation of AlzGenPred using the AlzGene dataset and transcriptomics dataset obtained from Human, mouse, and ES-derived neural cells revealed that it can classify the omics data and can sort the AD-associated genes. These predicted genes can be directly used in the wet lab for further testing which will reduce labor cost and time expenses. The AlzGenPred is developed as a standalone package and is available for users athttps://www.bioinfoindia.org/alzgenpred/andhttps://github.com/shuklarohit815/AlzGenPred.",
+        "link": "http://dx.doi.org/10.1101/2023.11.04.565636"
+    },
+    {
+        "id": 7357,
+        "title": "Ensemble Approach: XGBoost, CATBoost, and LightGBM for Diabetes Mellitus Risk Prediction",
+        "authors": "Sushma Jaiswal, Priyanka Gupta",
+        "published": "2022-9-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccsea54677.2022.9936130"
+    },
+    {
+        "id": 7358,
+        "title": "Research on Credit Scoring Based on Transformer-CatBoost Network Structure",
+        "authors": "Zhengyuan Zhang, Zhanquan Wang",
+        "published": "2022-7-15",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iceiec54567.2022.9835063"
+    },
+    {
+        "id": 7359,
+        "title": "CatBoost for big data: an interdisciplinary review",
+        "authors": "John T. Hancock, Taghi M. Khoshgoftaar",
+        "published": "2020-12",
+        "citations": 364,
+        "abstract": "AbstractGradient Boosted Decision Trees (GBDT’s) are a powerful tool for classification and regression tasks in Big Data. Researchers should be familiar with the strengths and weaknesses of current implementations of GBDT’s in order to use them effectively and make successful contributions. CatBoost is a member of the family of GBDT machine learning ensemble techniques. Since its debut in late 2018, researchers have successfully used CatBoost for machine learning studies involving Big Data. We take this opportunity to review recent research on CatBoost as it relates to Big Data, and learn best practices from studies that cast CatBoost in a positive light, as well as studies where CatBoost does not outshine other techniques, since we can learn lessons from both types of scenarios. Furthermore, as a Decision Tree based algorithm, CatBoost is well-suited to machine learning tasks involving categorical, heterogeneous data. Recent work across multiple disciplines illustrates CatBoost’s effectiveness and shortcomings in classification and regression tasks. Another important issue we expose in literature on CatBoost is its sensitivity to hyper-parameters and the importance of hyper-parameter tuning. One contribution we make is to take an interdisciplinary approach to cover studies related to CatBoost in a single work. This provides researchers an in-depth understanding to help clarify proper application of CatBoost in solving problems. To the best of our knowledge, this is the first survey that studies all works related to CatBoost in a single publication.",
+        "link": "http://dx.doi.org/10.1186/s40537-020-00369-8"
+    },
+    {
+        "id": 7360,
+        "title": "Short-term Load Forecasting of Power Model Based on CS-Catboost Algorithm",
+        "authors": "Weixuan Zhang",
+        "published": "2022-6-17",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itaic54216.2022.9836483"
+    },
+    {
+        "id": 7361,
+        "title": "Template LDoS Algorithm System Based on Improved CatBoost Detection",
+        "authors": "Quan Wang, Yi Tian, Likun Huang, Tai Shen, Jiao Chen, Jiuning Jiao",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240411"
+    },
+    {
+        "id": 7362,
+        "title": "Predictive Analysis of Polycystic Ovarian Syndrome using CatBoost Algorithm",
+        "authors": "Yash Rathod, Aryan Komare, Ruchita Ajgaonkar, Shruti Chindarkar, Gajanan Nagare, Neelam Punjabi, Yogesh Karpate",
+        "published": "2022-7-1",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tensymp54529.2022.9864439"
+    },
+    {
+        "id": 7363,
+        "title": "Success Prediction using Random Forest, CatBoost, XGBoost and AdaBoost for Kickstarter Campaigns",
+        "authors": "Siddharth Jhaveri, Ishan Khedkar, Yash Kantharia, Shree Jaswal",
+        "published": "2019-3",
+        "citations": 41,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccmc.2019.8819828"
+    },
+    {
+        "id": 7364,
+        "title": "CatBoost Ridge Regression Based Sailboat Price Forecasting",
+        "authors": "Taoran Fu, Junyou Luo, Keyu Chen, Nanguo Du, Xinyue Gong, Jiancheng Wang",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsece58870.2023.10263515"
+    },
+    {
+        "id": 7365,
+        "title": "Short Term Electricity Spot Price Forecasting Using CatBoost and Bidirectional Long Short Term Memory Neural Network",
+        "authors": "Fan Zhang, Hasan Fleyeh",
+        "published": "2019-9",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eem.2019.8916412"
+    },
+    {
+        "id": 7366,
+        "title": "Application of the CatBoost Model for Stirred Reactor State Monitoring Based on Vibration Signals",
+        "authors": "Xukai Ren, Huanwei Yu, Xianfeng Chen, Mingyao Shou, Yantong Tang, Guobiao Wang, Xiyong Du",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nStirred reactor is a key equipment in the production process, and will result in large economic losses and safety issues when unpredictable failures occur. Therefore, it is necessary to monitor their health state. With this goal, firstly, this study presets five states of the stirred reactor: normal, shaft bending, blade eccentricity, bearing wear, and bolt looseness. x, y, z axes vibration signals are collected and analyzed in time and frequency domain. Secondly, 93 statistical features are extracted evaluated by Relieff, MIC and XGBoost. The above evaluation results are then fused by D-S evidence theory to obtain the final 16 features that are most relevant to the state of the stirred reactor. Finally, CatBoost algorithm is introduced to establish the health state monitoring model of the stirred reactor.The validation results show that accuracy of the proposed model is 100% for state recognition and 98% for fault diagnosis.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3026742/v1"
+    },
+    {
+        "id": 7367,
+        "title": "Diabetes Classification Problem with CatBoost Method and Optuna Gradient Boosting Optimization",
+        "authors": "Safar Dwi Kurniawan, Purwono Purwono, Alfian Ma’Arif, Iswanto Suwarno",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icoiact59844.2023.10455940"
+    },
+    {
+        "id": 7368,
+        "title": "OccupancySense: Context-based indoor occupancy detection &amp; prediction using CatBoost model",
+        "authors": "Joy Dutta, Sarbani Roy",
+        "published": "2022-4",
+        "citations": 24,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2022.108536"
+    },
+    {
+        "id": 7369,
+        "title": "Prediction of fluctuation loads based on GARCH family-CatBoost-CNNLSTM",
+        "authors": "Huibin Zeng, Bilin Shao, Hongbin Dai, Yichuan Yan, Ning Tian",
+        "published": "2023-1",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.energy.2022.126125"
+    },
+    {
+        "id": 7370,
+        "title": "Hybrid Catboost-Cnn-Lstm Model for Biogas Feedstock Analysis and System Performance Forecasting: Industrial-Scale Biogas Planet Application",
+        "authors": "Noori M. Cata Saady, Kamran Niroomand, Carlos Bazan, Sohrab Zendehboudi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4523744"
+    },
+    {
+        "id": 7371,
+        "title": "Detection of Compromised Accounts using Machine Learning Based Boosting Algorithms- AdaBoost, XGBoost, and CatBoost",
+        "authors": "Arti Pandey, Arti Jain",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10307557"
+    },
+    {
+        "id": 7372,
+        "title": "A TWO STAGE MODEL FOR DAY-AHEAD ELECTRICITY PRICE FORECASTING: INTEGRATING EMPIRICAL MODE DECOMPOSITION AND CATBOOST ALGORITHM",
+        "authors": "Ceyhun YILDIZ",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Electricity price forecasting is crucial for the secure and cost-effective operation of electrical power systems. However, the uncertain and volatile nature of electricity prices makes the electricity price forecasting process more challenging. In this study, a two-stage forecasting model was proposed in order to accurately predict day-ahead electricity prices. Historical natural gas prices, electricity load forecasts, and historical electricity price values were used as the forecasting model inputs. The historical electricity and natural gas price data were decomposed in the first stage to extract more deep features. The empirical mode decomposition (EMD) algorithm was employed for the efficient decomposition process. In the second stage, the categorical boosting (CatBoost) algorithm was proposed to forecast day-ahead electricity prices accurately. To validate the effectiveness of the proposed forecasting model, a case study was conducted using the dataset from the Turkish electricity market. The proposed model results were compared with benchmark machine learning algorithms. The results of this study indicated that the proposed model outperformed the benchmark models with the lowest root mean squared error (RMSE), mean absolute error (MAE), mean absolute percentage error (MAPE), and correlation coefficient (R) values of 8.3282%, 5.2210%, 6.9675%, and 86.2256%, respectively.",
+        "link": "http://dx.doi.org/10.36306/konjes.1290652"
+    },
+    {
+        "id": 7373,
+        "title": "GA-CatBoost-Weight Algorithm for Predicting Casualties in Terrorist Attacks: Addressing Data Imbalance and Enhancing Performance",
+        "authors": "Yuxiang He, Baisong Yang, Chiawei Chu",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "Terrorism poses a significant threat to international peace and stability. The ability to predict potential casualties resulting from terrorist attacks, based on specific attack characteristics, is vital for protecting the safety of innocent civilians. However, conventional data sampling methods struggle to effectively address the challenge of data imbalance in textual features. To tackle this issue, we introduce a novel algorithm, GA-CatBoost-Weight, designed for predicting whether terrorist attacks will lead to casualties among innocent civilians. Our approach begins with feature selection using the RF-RFE method, followed by leveraging the CatBoost algorithm to handle diverse modal features comprehensively and to mitigate data imbalance. Additionally, we employ Genetic Algorithm (GA) to finetune hyperparameters. Experimental validation has demonstrated the superior performance of our method, achieving a sensitivity of 92.68% and an F1 score of 90.99% with fewer iterations. To the best of our knowledge, our study is the pioneering research that applies CatBoost to address the prediction of terrorist attack outcomes.",
+        "link": "http://dx.doi.org/10.3390/math12060818"
+    },
+    {
+        "id": 7374,
+        "title": "URL Based Phishing Website Detection by Using Gradient and Catboost Algorithms",
+        "authors": "B. Deekshitha",
+        "published": "2022-6-30",
+        "citations": 2,
+        "abstract": "Abstract: Phishing is one of the most common and most dangerous attacks among cybercrimes. The aim of these attacks is to steal the information used by individuals and organizations to conduct transactions. Phishing websites contain various hints among their contents and web browser-based information. In existing system the Random forest algorithm is used. In our proposed system, we are using different classification algorithm like bagging and boosting algorithms that are Gradient Boosting, Cat boosting to increase accuracy. The features extracted based on the features of websites in UC Irvine Machine Learning Repository. Here, we have performed the performance analysis between the boosting algorithms like Gradient boost, Cat boost and the random forest. From the performance analysis we can determine the best suitable algorithm to detect the phishing website .This study is considered to be an applicable design in automated systems with high performing classification against the phishing activity of websites.",
+        "link": "http://dx.doi.org/10.22214/ijraset.2022.43986"
+    },
+    {
+        "id": 7375,
+        "title": "Improved CNN-based CatBoost model for license plate remote sensing image classification",
+        "authors": "Songhua Zhang, Xiuling Lu, Zhangjie Lu",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.109196"
+    },
+    {
+        "id": 7376,
+        "title": "Prediction of 3D Cluster Energy Based on CatBoost Regression Model and Genetic Algorithm",
+        "authors": "Zixuan Li, Zexuan Li, Jiuqiang Zhang, Jiazhuang Yao",
+        "published": "2022-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icapc57304.2022.00009"
+    },
+    {
+        "id": 7377,
+        "title": "A Hybrid Approach of CNN and LSTM to Detect Intrusion in Edge IoT Devices using CatBoost",
+        "authors": "Md. Al Shahriar, Ashim Dey",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccit60459.2023.10441595"
+    },
+    {
+        "id": 7378,
+        "title": "PREDIKSI CURAH HUJAN MENGGUNAKAN METODE CATEGORICAL BOOSTING (CATBOOST)",
+        "authors": "Andrian Febriansyah Istianto, Asep Id Hadiana, Fajri Rakhmat Umbara",
+        "published": "2024-1-6",
+        "citations": 0,
+        "abstract": "Curah hujan memiliki peran krusial dalam banyak aspek kehidupan manusia dan lingkungan. Curah hujan memiliki dampak sosial dan ekonomi yang besar, termasuk kerusakan infrastruktur, banjir, dan gangguan transportasi. Banjir dan peristiwa ekstrem serupa dapat mengakibatkan kerugian jiwa dan kerusakan properti yang parah setiap tahun, dan ini dihubungkan dengan perubahan iklim yang diperkirakan akan semakin sering dan merusak di masa yang akan datang. Dalam upaya untuk memantau, mengantisipasi dan memproyeksikan terjadinya hujan, maka penelitian ini berfokus dalam memprediksi curah hujan dengan menggunakan data mining. Dalam penelitian ini, berfokus dalam penerapan metode Categorical Boosting (CatBoost) yang dapat mengelola data kategorikal secara efisien yang merupakan pengembangan dari Gradient Boosting Decision Tree (GBDT). Berdasarkan data yang diperoleh dari kaggle yang terdiri dari 23 atribut, penelitian ini akan memprediksi curah hujan. Pra-pemrosesan data melibatkan langkah-langkah seperti pembersihan data, penyeimbangan kelas, pemilihan fitur, dan pengkodean data. Pengujian menggunakan metode Categorical Boosting menghasilkan tingkat akurasi prediksi curah hujan sebesar 94,22% berdasarkan evaluasi Confusion Matrix. Penelitian ini bertujuan untuk memprediksi curah hujan dengan menggunakan metode Categorical Boosting (CatBoost).",
+        "link": "http://dx.doi.org/10.36040/jati.v7i4.7304"
+    },
+    {
+        "id": 7379,
+        "title": "An optimized intrusion detection model for wireless sensor networks based on MLP-CatBoost algorithm",
+        "authors": "Geo Francis E, Sheeja S",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11042-023-18034-6"
+    },
+    {
+        "id": 7380,
+        "title": "Ensemble Machine Learning of Gradient Boosting(XGboost, LightGBM, CatBoost) And Attention-Based CNN-LSTM for Harmful Algal Blooms Forecasting",
+        "authors": "Jung Min Ahn, Jungwook Kim, Hongtae Kim, Kyunghyun Kim",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4434784"
+    },
+    {
+        "id": 7381,
+        "title": "Classification prediction model of indoor PM2.5 concentration using CatBoost algorithm",
+        "authors": "Zhenwei Guo, Xinyu Wang, Liang Ge",
+        "published": "2023-7-31",
+        "citations": 2,
+        "abstract": "It is increasingly important to create a healthier indoor environment for office buildings. Accurate and reliable prediction of PM2.5 concentration can effectively alleviate the delay problem of indoor air quality control system. The rapid development of machine learning has provided a research basis for the indoor air quality system to control the PM2.5 concentration. One approach is to introduce the CatBoost algorithm based on rank lifting training into the classification and prediction of indoor PM2.5 concentration. Using actual monitoring data from office building, we consider previous indoor PM2.5 concentration, indoor temperature, relative humidity, CO2 concentration, and illumination as input variables, with the output indicating whether indoor PM2.5 concentration exceeds 25 μg/m3. Based on the CatBoost algorithm, we construct an intelligent classification prediction model for indoor PM2.5 concentration. The model is evaluated using actual data and compared with the multilayer perceptron (MLP), gradientboosting decision tree (GBDT), logistic regression (LR), decision tree (DT), and k-nearest neighbors (KNN) models. The CatBoost algorithm demonstrates outstanding predictive performance, achieving an impressive area under the ROC curve (AUC) of 0.949 after hyperparameters optimition. Furthermore, when considering the five input variables, the feature importance is ranked as follows: previous indoor PM2.5 concentration, relative humidity, CO2, indoor temperature, and illuminance. Through verification, the prediction model based on CatBoost algorithm can accurately predict the indoor PM2.5 concentration level. The model can be used to predict whether the indoor concentration of PM2.5 exceeds the standard in advance and guide the air quality control system to regulate.",
+        "link": "http://dx.doi.org/10.3389/fbuil.2023.1207193"
+    },
+    {
+        "id": 7382,
+        "title": "Classifying collisions in road accidents using XGBOOST, CATBOOST and SALP SWARM based optimization algorithms",
+        "authors": "Insha Altaf, Ajay Kaul",
+        "published": "2023-10-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16969-4"
+    },
+    {
+        "id": 7383,
+        "title": "A novel SSA-CatBoost machine learning model for credit rating",
+        "authors": "Ruicheng Yang, Pucong Wang, Ji Qi",
+        "published": "2023-1-30",
+        "citations": 4,
+        "abstract": "Categorical Boost (CatBoost) is a new approach in credit rating. In the process of classification and prediction using CatBoost, parameter tuning and feature selection are two crucial parts, which affect the classification accuracy of CatBoost significantly. This paper proposes a novel SSA-CatBoost model, which mixes Sparrow Search Algorithm (SSA) and CatBoost to improve classification and prediction accuracy for credit rating. In terms of parameter tuning, the SSA-CatBoost optimization obtains the most optimal parameters by iterating and updating the sparrow’s position, and utilize the optimal parameter to improve the accuracy of classification and prediction. In terms of feature selection, a novel wrapping method called Recursive Feature Elimination algorithm is adopted to reduce the adverse impact of noise data on the results, and further improves calculation efficiency. To evaluate the performance of the proposed SSA-CatBoost model, P2P lending datasets are employed to assess the prediction results, then the interpretable Shap package is used to explain the reason why the proposed model considers a sample as good or bad. Consequently, the experimental results show that the SSA-CatBoost model has an ideal accuracy in classification and prediction for credit rating by comparing the SSA-CatBoost model with the CatBoost model and other well-known machine learning models.",
+        "link": "http://dx.doi.org/10.3233/jifs-221652"
+    },
+    {
+        "id": 7384,
+        "title": "Attribute-Based Access Control Policy Generation Approach from Access Logs Based on the CatBoost",
+        "authors": "Shan Quan, Yongdan Zhao, Nurmamat Helil",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31577/cai_2023_3_615"
+    },
+    {
+        "id": 7385,
+        "title": "Strategies for Estimating Used Ship Prices by PSO-Lightgbm-Catboost",
+        "authors": "Zhengchen Li, Tianye Lei, Donghan Li",
+        "published": "2023-7-2",
+        "citations": 0,
+        "abstract": "With the growing popularity of water sports, the consumer market for sailing and surfing, a core sport in water sports, has attracted attention in recent years. In this study, the relationship between the conventional factors affecting the price of used sailing boats and the market price of used sailing boats is mathematically modeled and predicted. After outlier and missing value processing and visualization analysis of the collected and retrieved data, nine core indicators including sailboat performance, age of sailboat use, and the level of comprehensive regional development were selected to have a critical impact on the prices of both monohull and catamaran used sailboats. Using a series of algorithms such as LightGBM, PSO, and Catboost, a unique PSO-LightGBM-Catboost weighted fusion model was established to explore the role and influence of each factor on the prices of the two used sailboats. With this weighted fusion model, the R2 values of the multi-factor fit were as high as expected, and the R2 values of the predicted results were also at the expected level. Finally, it was found that the price of used sailboats is more significantly influenced by factors related to the age of the sailboat, the performance of the sailboat itself, and the economic level of the region.",
+        "link": "http://dx.doi.org/10.54097/ehss.v16i.9500"
+    },
+    {
+        "id": 7386,
+        "title": "WITHDRAWN: Multicollinear gradient catboost classification for enhance the preterm neonatal apnea level classification in medical data",
+        "authors": "R. Renuga Devi, V. Vishwa Priya",
+        "published": "2021-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2020.12.1043"
+    },
+    {
+        "id": 7387,
+        "title": "IoT Botnet Attack Detection Model Based on DBO-Catboost",
+        "authors": "Changjin Yang, Weili Guan, Zhijie Fang",
+        "published": "2023-6-15",
+        "citations": 2,
+        "abstract": "With the widespread adoption of Internet of Things (IoT) technology, the increasing number of IoT devices has led to a rise in serious network security issues. Botnets, a major threat in network security, have garnered significant attention over the past decade. However, detecting these rapidly evolving botnets remains a challenge, with current detection accuracy being relatively low. Therefore, this study focuses on designing efficient botnet detection models to enhance detection performance. This paper improves the initial population generation strategy of the Dung Beetle Optimizer (DBO) by using the centroid opposition-based learning strategy instead of the original random generation strategy. The improved DBO is applied to optimize Catboost parameters and is employed in the field of IoT botnet detection. Performance comparison experiments are conducted using real-world IoT traffic datasets. The experimental results demonstrate that the proposed method outperforms other models in terms of accuracy and F1 score, indicating the effectiveness of the proposed approach in this field.",
+        "link": "http://dx.doi.org/10.3390/app13127169"
+    },
+    {
+        "id": 7388,
+        "title": "Estimating the Heavy Metal Contents in Entisols from a Mining Area Based on Improved Spectral Indices and Catboost",
+        "authors": "Pingjie Fu, Jiawei Zhang, Zhaoxian Yuan, Jianfei Feng, Yuxuan Zhang, Fei Meng, Shubin Zhou",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4351061"
+    },
+    {
+        "id": 7389,
+        "title": "Gradient Boosting Approach for Traffic Flow Prediction Using CatBoost",
+        "authors": "Rajeev Singh, Gaurav Gaonkar, Vedant Bandre, Nishant Sarang, Sachin Deshpande",
+        "published": "2021-12-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icac353642.2021.9697133"
+    },
+    {
+        "id": 7390,
+        "title": "Enhancing Financial Risk Prediction for Listed Companies: A Catboost-Based Ensemble Learning Approach",
+        "authors": "Haitao Lu, Xiaofeng Hu",
+        "published": "2023-11-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s13132-023-01601-5"
+    },
+    {
+        "id": 7391,
+        "title": "A Proposed Model for Card Fraud Detection Based on CatBoost and Deep Neural Network",
+        "authors": "Nghia Nguyen, Truc Duong, Tram Chau, Van-Ho Nguyen, Trang Trinh, Duy Tran, Thanh Ho",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nRapid development of technology has digitized customers' payment behavior towards a cashless society. To some extent, this has created a feast for miscreants committing fraud. According to Nilson’s Report (2020), the global fraud loss is projected to reach over $35 billion in 2025. Thus, the need for a novel method to prevent this menace is undisputed. Studies in fraud detection in cards abound with various machine learning-based techniques. However, many of them were conducted on modest-sized sample with a few familiar features and mainly focused on transaction-based approach to detect fraud. These models fail to satisfy low false alarm rates when being fed with large-scale data streams. In this paper, an innovative model was proposed to improve classification accuracy based on the idea of user separation, in which we divided users into old and new people before applying CatBoost and Deep Neural Network on each category, respectively. The experimental result shows that our model achieved better as we obtained AUC score of 0.97 (CatBoost) and 0.84 (Deep Neural Network).",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1560840/v1"
+    },
+    {
+        "id": 7392,
+        "title": "CatBoost and Genetic Algorithm Implementations for University Recommendation Systems",
+        "authors": "M. G. Christopher, Jiby Maria Jose, Muhammed Nihal. K. V, Tijo Thomas,  Rumaise, Shajulin Benedict",
+        "published": "2022-7-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icict54344.2022.9850798"
+    },
+    {
+        "id": 7393,
+        "title": "Performance Analysis of CatBoost Algorithm and XGBoost Algorithm for Prediction of CO<sub>2</sub>Emission Rating",
+        "authors": "G Sandeep Kumar, R Dhanalakshmi",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ic3i59117.2023.10398160"
+    },
+    {
+        "id": 7394,
+        "title": "A Crypto Market Forecasting Method Based on Catboost Model and Bigdata",
+        "authors": "Xiaoxiao Ye, Yirui Li, Xu Feng, Chen Heng",
+        "published": "2022-4-15",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsp54964.2022.9778789"
+    },
+    {
+        "id": 7395,
+        "title": "Swindle: Predicting the Probability of Loan Defaults using CatBoost Algorithm",
+        "authors": "Sujoy Barua, Divya Gavandi, Pooja Sangle, Leena Shinde, Jyoti Ramteke",
+        "published": "2021-4-8",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccmc51019.2021.9418277"
+    },
+    {
+        "id": 7396,
+        "title": "Remaining Useful Life Prediction and State of Health Diagnosis of Lithium-Ion Batteries with Multiscale Health Features Based on Optimized Catboost Algorithm",
+        "authors": "yifei zhou, Shunli Wang, Yanxin Xie, Jiawei Zeng, Carlos Fernandez",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4735527"
+    },
+    {
+        "id": 7397,
+        "title": "Hierarchical Osteoporosis Screening Model for Middle and Elderly Women: Integrating Genetic Feature Generation with Catboost-Tabnet",
+        "authors": "Yingfei Wu, Jinming Li, Yijie Chen, Yichao Zhang, Zhenming Yuan, Xiaoyan Sun, Kai Yu, Zhifen Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4665553"
+    },
+    {
+        "id": 7398,
+        "title": "Remaining Useful Life Prediction and State of Health Diagnosis Of Lithium-Ion Batteries with Multiscale Health Features Based on Optimized Catboost Algorithm",
+        "authors": "yifei zhou, Shunli Wang, Jiawei Zeng, Yanxin Xie, Carlos Fernandez",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4699549"
+    },
+    {
+        "id": 7399,
+        "title": "Gear faults identification based on big data analysis and CatBoost model",
+        "authors": "Yongsheng Qi, Xiaoda Zhang, Jianxin Zhang",
+        "published": "2022",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1504/ijmic.2022.128312"
+    },
+    {
+        "id": 7400,
+        "title": "A Catboost-based Model for Intensity Detection of Tropical Cyclones over the Western North Pacific Based on Satellite Cloud Images",
+        "authors": "Wei Zhong, Hongrang He, Shilin Wang, Yuan Sun, Yao Yao",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "A Catboost-based intelligent tropical cyclone (TC) intensity-detecting model is built to quantify the intensity of TCs over the Western North Pacific (WNP) with the cloud-top brightness temperature (CTBT) data of Fengyun-2F (FY-2F) and Fengyun-2G (FY-2G) and the best-track data of the China Meteorological Administration (CMA-BST) in recent years (2015-2018). Catboost-based model is featured with the greedy strategy of combination, the ordering principle in optimizing the possible gradient bias and prediction shift problems, and the oblivious tree in fast scoring. Compared with the previous studies based on the pure convolutional neural network (CNN) models, the Catboost-based model exhibits better skills in detecting TC intensity with the root mean square error (RMSE) of 3.74 m s-1. Besides of the three mentioned model features, there are also two reasons on model design. On one hand, the Catboost-based model uses the method of introducing prior physical factors (e.g., the structure and shape of the cloud, deep convections and background fields) into its training process, on the other hand, the Catboost-based model expands the dataset size from 2342 to 13471 samples by hourly interpolation of the original dataset. Furthermore, this paper investigates the errors of the model in detecting different categories of TC intensity. The results show that the deep learning-based TC intensity-detecting model proposed in this paper has systematic biases, namely, overestimation (underestimation) of intensities in TC which are weaker (stronger) than typhoon level, and the errors of the model in detecting weaker (stronger) TCs are smaller (larger). This implies that more factors than the CTBT should be included to further reduce the errors in detecting strong TCs.",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu24-1277"
+    }
+]

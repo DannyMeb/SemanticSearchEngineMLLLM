@@ -1,0 +1,902 @@
+[
+    {
+        "id": 6601,
+        "title": "The Bias-Variance Tradeoff: How Data Science Can Inform Educational Debates",
+        "authors": "Shayan Doroudi",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "In addition to providing a set of techniques to analyze educational data, I claim that data science as a field can provide broader insights to education research. In particular, I show how the bias-variance tradeoff from machine learning can be formally generalized to be applicable to several prominent educational debates, including debates around learning theories (cognitivist vs. situativist and constructivist theories) and pedagogy (direct instruction vs. discovery learning). We then look to see how various data science techniques that have been proposed to navigate the bias-variance tradeoff can yield insights for productively navigating these educational debates going forward.",
+        "link": "http://dx.doi.org/10.35542/osf.io/n2akr"
+    },
+    {
+        "id": 6602,
+        "title": "Prefrontal solution to the bias-variance tradeoff during reinforcement learning",
+        "authors": "Dongjae Kim, Jaeseung Jeong, Sang Wan Lee",
+        "published": "2021-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.celrep.2021.110185"
+    },
+    {
+        "id": 6603,
+        "title": "Prefrontal solution to the bias-variance tradeoff during reinforcement learning",
+        "authors": "Dongjae Kim, Jaeseung Jeong, Sang Wan Lee",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractThe goal of learning is to maximize future rewards by minimizing prediction errors. Evidence have shown that the brain achieves this by combining model-based and model-free learning. However, the prediction error minimization is challenged by a bias-variance tradeoff, which imposes constraints on each strategy’s performance. We provide new theoretical insight into how this tradeoff can be resolved through the adaptive control of model-based and model-free learning. The theory predicts the baseline correction for prediction error reduces the lower bound of the bias–variance error by factoring out irreducible noise. Using a Markov decision task with context changes, we showed behavioral evidence of adaptive control. Model-based behavioral analyses show that the prediction error baseline signals context changes to improve adaptability. Critically, the neural results support this view, demonstrating multiplexed representations of prediction error baseline within the ventrolateral and ventromedial prefrontal cortex, key brain regions known to guide model-based and model-free learning.One sentence summaryA theoretical, behavioral, computational, and neural account of how the brain resolves the bias-variance tradeoff during reinforcement learning is described.",
+        "link": "http://dx.doi.org/10.1101/2020.12.23.424258"
+    },
+    {
+        "id": 6604,
+        "title": "Bias-Variance Tradeoff",
+        "authors": "Yigit Aydede",
+        "published": "2023-8-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003381501-4"
+    },
+    {
+        "id": 6605,
+        "title": "ACHIEVING OPTIMAL BIAS-VARIANCE TRADEOFF IN ONLINE DERIVATIVE ESTIMATION",
+        "authors": "Thibault Duplay, Henry Lam, Xinyu Zhang",
+        "published": "2018-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wsc.2018.8632325"
+    },
+    {
+        "id": 6606,
+        "title": "8 Model Assessment – Bias-Variance Tradeoff",
+        "authors": "",
+        "published": "2022-3-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1515/9781501505737-008"
+    },
+    {
+        "id": 6607,
+        "title": "Ill-posedness and the bias-variance tradeoff in residual stress measurement inverse solutions",
+        "authors": "Marco Beghini, Tommaso Grossi, Michael B. Prime, Ciro Santus",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "<p><strong>Background:</strong> Relaxation methods determine residual stresses by measuring the deformations produced by incremental removal of a subdomain of the specimen.</p>\n<p>Measured strains at any given increment, determined by the cumulative effect of the relieved stresses, appear as an integral equation, which must be inverted to obtain residual stresses. In practice, stress distributions are discretized by a finite-dimensional basis, to transform the integral equations into a linear system of equations, which is often ill-conditioned.</p>\n<p><strong>Objective:</strong> This article demonstrates that the problem is actually ill-posed and comes with an inherent bias-variance tradeoff.</p>\n<p><strong>Methods:</strong> The hole drilling method is used as an example application, and the practical effects of ill-posedness are illustrated.</p>\n<p><strong>Results:</strong> Traditional regularization of the solution by limiting the resolution of the discretization reduces solution variance (noise) at the expense of increased bias</p>\n<p>and often results in the ultimately harmful practice of taking fewer data points. A careful analysis including the alternate Tikhonov regularization approach shows</p>\n<p>that the highest number of measurements should always be taken to reduce the variance for a given regularization scheme. Unfortunately, the variability of a regularized solution cannot be used to build a valid confidence interval, since an unknown bias term is always present in the true overall error.</p>\n<p><strong>Conclusions:</strong> The mathematical theory of ill-posed problems provides tools to manage the bias-variance tradeoff on a reasonable statistical basis, especially</p>\n<p>when the statistical properties of measurement errors are known. In the long run, physical arguments that provide constraints on the true solution would be of utmost importance, as they could regularize the problem</p>\n<p>without introducing an otherwise unknown bias. Constraining the minimum length scale to some physically meaningful value is one promising possibility.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.22309225"
+    },
+    {
+        "id": 6608,
+        "title": "Ill-posedness and the bias-variance tradeoff in residual stress measurement inverse solutions",
+        "authors": "Marco Beghini, Tommaso Grossi, Michael B. Prime, Ciro Santus",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "<p><strong>Background:</strong> Relaxation methods determine residual stresses by measuring the deformations produced by incremental removal of a subdomain of the specimen.</p>\n<p>Measured strains at any given increment, determined by the cumulative effect of the relieved stresses, appear as an integral equation, which must be inverted to obtain residual stresses. In practice, stress distributions are discretized by a finite-dimensional basis, to transform the integral equations into a linear system of equations, which is often ill-conditioned.</p>\n<p><strong>Objective:</strong> This article demonstrates that the problem is actually ill-posed and comes with an inherent bias-variance tradeoff.</p>\n<p><strong>Methods:</strong> The hole drilling method is used as an example application, and the practical effects of ill-posedness are illustrated.</p>\n<p><strong>Results:</strong> Traditional regularization of the solution by limiting the resolution of the discretization reduces solution variance (noise) at the expense of increased bias</p>\n<p>and often results in the ultimately harmful practice of taking fewer data points. A careful analysis including the alternate Tikhonov regularization approach shows</p>\n<p>that the highest number of measurements should always be taken to reduce the variance for a given regularization scheme. Unfortunately, the variability of a regularized solution cannot be used to build a valid confidence interval, since an unknown bias term is always present in the true overall error.</p>\n<p><strong>Conclusions:</strong> The mathematical theory of ill-posed problems provides tools to manage the bias-variance tradeoff on a reasonable statistical basis, especially</p>\n<p>when the statistical properties of measurement errors are known. In the long run, physical arguments that provide constraints on the true solution would be of utmost importance, as they could regularize the problem</p>\n<p>without introducing an otherwise unknown bias. Constraining the minimum length scale to some physically meaningful value is one promising possibility.</p>",
+        "link": "http://dx.doi.org/10.36227/techrxiv.22309225.v1"
+    },
+    {
+        "id": 6609,
+        "title": "Prefrontal Solution to the Bias-Variance Tradeoff During Reinforcement Learning",
+        "authors": "Dongjae Kim, Jaeseung Jeong, Sang Wan Lee",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3811830"
+    },
+    {
+        "id": 6610,
+        "title": "Controlling the Bias-Variance Tradeoff via Coherent Risk for Robust Learning with Kernels",
+        "authors": "Alec Koppel, Amrit S. Bedi, Ketan Rajawat",
+        "published": "2019-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/acc.2019.8814879"
+    },
+    {
+        "id": 6611,
+        "title": "Statistical methods for estimating the forced component of historical SST and precipitation changes: A bias-variance tradeoff",
+        "authors": "Maren Höver, Robert Jnglin Wills, Nora Fahrenbach",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Distinguishing the influences of externally forced responses and internal variability on the observed climate is critical for attributing historical climate change and for evaluating the forced responses simulated by climate models. Statistical methods such as optimal fingerprinting, low-frequency component analysis (LFCA), and dynamical adjustment have proven useful for this application. The skill of such statistical methods can be evaluated using climate model large ensembles, where the forced response is estimated by averaging over many realizations. Our study uses large ensemble simulations from five different climate models to evaluate the performance of three statistical methods for this application: (1) low-frequency component analysis, (2) signal-to-noise maximizing pattern optimal fingerprinting (SNMP-OF), which uses the patterns from an ensemble-based signal-to-noise maximizing pattern (SNMP) analysis for optimal fingerprinting, and (3) a novel method based on SNMP analysis called fingerprint maximizing patterns (FMP), which finds patterns within observed variability that have the maximum fingerprint of the model-based forced response.&#160;\nWe investigate how the root mean square error (RMSE) of these three methods varies across the choices of hyperparameters and show that all methods have a similar maximum skill. However, the contribution to the RMSE from the mean bias in the forced response estimate varies across the methods, with SNMP-OF and FMP showing a larger mean bias than LFCA. This demonstrates that methods that largely rely on the model forced response to obtain the observed forced response may give biased estimates and underestimate the uncertainty in these estimates due to the bias-variance tradeoff.&#160;\nAdditionally, we apply these methods to observed Sahel precipitation, which is extensively debated in terms of its forced component, and closely related North Atlantic sea surface temperatures (SSTs). We show that while the methods give a robust estimate of the forced response in North Atlantic SSTs from 1950 to 2022, their estimates of the forced response in Sahel precipitation over the same period differ in sign. The fact that these estimates of the Sahel precipitation response differ substantially, despite all methods performing similarly well for large ensembles, suggests substantial epistemic uncertainty in estimates of the forced precipitation response in this region.",
+        "link": "http://dx.doi.org/10.5194/egusphere-egu24-16870"
+    },
+    {
+        "id": 6612,
+        "title": "The Bias–Variance Tradeoff in Cognitive Science",
+        "authors": "Shayan Doroudi, Seyed Ali Rastegar",
+        "published": "2023-1",
+        "citations": 2,
+        "abstract": "AbstractThe bias–variance tradeoff is a theoretical concept that suggests machine learning algorithms are susceptible to two kinds of error, with some algorithms tending to suffer from one more than the other. In this letter, we claim that the bias–variance tradeoff is a general concept that can be applied to human cognition as well, and we discuss implications for research in cognitive science. In particular, we show how various strands of research in cognitive science can be interpreted in light of the bias–variance tradeoff, giving insight into individual differences in learning, the nature of cognitive processes, and debates in cognitive science research.",
+        "link": "http://dx.doi.org/10.1111/cogs.13241"
+    },
+    {
+        "id": 6613,
+        "title": "The Bias-Variance Tradeoff: How Data Science Can Inform Educational Debates",
+        "authors": "Shayan Doroudi",
+        "published": "2020-7",
+        "citations": 20,
+        "abstract": "In addition to providing a set of techniques to analyze educational data, I claim that data science as a field can provide broader insights to education research. In particular, I show how the bias-variance tradeoff from machine learning can be formally generalized to be applicable to several prominent educational debates, including debates around learning theories (cognitivist vs. situativist and constructivist theories) and pedagogy (direct instruction vs. discovery learning). I then look to see how various data science techniques that have been proposed to navigate the bias-variance tradeoff can yield insights for productively navigating these educational debates going forward.",
+        "link": "http://dx.doi.org/10.1177/2332858420977208"
+    },
+    {
+        "id": 6614,
+        "title": "Bias-Variance Tradeoff of Graph Laplacian Regularizer",
+        "authors": "Pin-Yu Chen, Sijia Liu",
+        "published": "2017-8",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/lsp.2017.2712141"
+    },
+    {
+        "id": 6615,
+        "title": "Bayesian Imputation with Optimal Look-Ahead-Bias and Variance Tradeoff",
+        "authors": "Jose Blanchet, Fernando Hernandez, Viet-Anh Nguyen, Markus Pelger, Xuhui Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4024810"
+    },
+    {
+        "id": 6616,
+        "title": "Proposing a global model to overcome the bias-variance tradeoff in the context of hedonic house price models",
+        "authors": "Stefan Lang, Wolfgang Brunauer, Julian Granna",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15396/eres2022_186"
+    },
+    {
+        "id": 6617,
+        "title": "Bias-variance tradeoff in machine learning: Theoretical formulation and implications to structural engineering applications",
+        "authors": "Xingquan Guan, Henry Burton",
+        "published": "2022-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2022.10.004"
+    },
+    {
+        "id": 6618,
+        "title": "Bias–variance tradeoff in anticorrelated noise reduction for spectral CT",
+        "authors": "Mats Persson, Fredrik Grönberg",
+        "published": "2017-9",
+        "citations": 6,
+        "abstract": "PurposeIn spectral CT, basis material decomposition is commonly used to generate a set of basis images showing the material composition at each point in the field of view. The noise in these images typically contains anticorrelations between the different basis images, which leads to increased noise in each basis image. These anticorrelations can be removed by changing the basis functions used in the material decomposition, but the resulting basis images can then no longer be used for quantitative measurements. Recent studies have demonstrated that reconstruction methods which take the anticorrelations into account give reduced noise in the reconstructed image. The purpose of this work is to analyze an analytically solvable denoising model problem and investigate its effect on the noise level and bias in the image as a function of spatial frequency.MethodA denoising problem with a quadratic regularization term is studied as a mathematically tractable model for such a reconstruction method. An analytic formula for the resulting image in the spatial frequency domain is presented, and this formula is applied to a simple mathematical phantom consisting of an iodinated contrast agent insert embedded in soft tissue. We study the effect of the denoising on the image in terms of its transfer function and the visual appearance, the noise power spectrum and the Fourier component correlation coefficient of the resulting image, and compare the result to a denoising problem which does not model the anticorrelations in the image.ResultsIncluding the anticorrelations in the noise model of the denoising method gives 3–40% lower noise standard deviation in the soft‐tissue image while leaving the iodine standard deviation nearly unchanged (0–1% difference). It also gives a sharper edge‐spread function. The studied denoising method preserves the noise level and the anticorrelated structure at low spatial frequencies but suppresses the noise and removes the anticorrelations at higher spatial frequencies. Cross‐talk between images gives rise to artifacts at high spatial frequencies.ConclusionsModeling anticorrelations in a denoising problem can decrease the noise level in the basis images by removing anticorrelations at high spatial frequencies while leaving low spatial frequencies unchanged. In this way, basis image cross‐talk does not lead to low spatial frequency bias but it may cause artifacts at edges in the image. This theoretical insight will be useful for researchers analyzing and designing reconstruction algorithms for spectral CT.",
+        "link": "http://dx.doi.org/10.1002/mp.12322"
+    },
+    {
+        "id": 6619,
+        "title": "Transfer Importance Sampling - How Testing Automated Vehicles in Multiple Test Setups Helps With the Bias-Variance Tradeoff",
+        "authors": "Max Winkelmann, Constantin Vasconi, Steffen Muller",
+        "published": "2022-10-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/itsc55140.2022.9922091"
+    },
+    {
+        "id": 6620,
+        "title": "Managing the Bias-Variance Tradeoff in the Context of House Price Prediction and Hedonic Indices - An Application for German Housing Data",
+        "authors": "Stefan Lang, Wolfgang Brunauer, Julian Granna",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15396/eres2021_175"
+    },
+    {
+        "id": 6621,
+        "title": "Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective",
+        "authors": "Henry Lam, Xinyu Zhang, Xuhui Zhang",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " In “Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective”, the authors study a framework to construct new classes of stochastic estimators that can consistently beat existing benchmarks regardless of key model parameter values. Oftentimes biased estimators, such as finite-difference estimators in black box stochastic gradient estimation, require selection of tuning parameters to balance bias and variance and ultimately minimize overall errors. Unfortunately, this relies on model knowledge that is unknown a priori and thus leads to ad hoc choices in practice. The authors introduce a new notion called asymptotic minimax risk ratio, which is designed to compare new estimators against existing benchmarks, whose values less than one imply that the new estimators could asymptotically outperform the benchmarks regardless of the model parameter value. Based on this, the authors study an outperforming weighting scheme by explicitly analyzing the asymptotic minimax risk ratio via a tractable reformulation of a nonconvex optimization problem. ",
+        "link": "http://dx.doi.org/10.1287/opre.2022.2319"
+    },
+    {
+        "id": 6622,
+        "title": "Ill-Posedness and the Bias-Variance Tradeoff in Residual Stress Measurement Inverse Solutions",
+        "authors": "M. Beghini, T. Grossi, M.B. Prime, C. Santus",
+        "published": "2023-3",
+        "citations": 5,
+        "abstract": "Abstract\nBackground\nRelaxation methods determine residual stresses by measuring the deformations produced by incremental removal of a subdomain of the specimen. Measured strains at any given increment, determined by the cumulative effect of the relieved stresses, appear as an integral equation, which must be inverted to obtain residual stresses. In practice, stress distributions are discretized by a finite-dimensional basis, to transform the integral equations into a linear system of equations, which is often ill-conditioned.\n\nObjective\nThis article demonstrates that the problem is actually ill-posed and comes with an inherent bias-variance tradeoff.\n\nMethods\nThe hole drilling method is used as an example application, and the practical effects of ill-posedness are illustrated.\n\nResults\nTraditional regularization of the solution by limiting the resolution of the discretization reduces solution variance (noise) at the expense of increased bias and often results in the ultimately harmful practice of taking fewer data points. A careful analysis including the alternate Tikhonov regularization approach shows that the highest number of measurements should always be taken to reduce the variance for a given regularization scheme. Unfortunately, the variability of a regularized solution cannot be used to build a valid confidence interval, since an unknown bias term is always present in the true overall error.\n\nConclusions\nThe mathematical theory of ill-posed problems provides tools to manage the bias-variance tradeoff on a reasonable statistical basis, especially when the statistical properties of measurement errors are known. In the long run, physical arguments that provide constraints on the true solution would be of utmost importance, as they could regularize the problem without introducing an otherwise unknown bias. Constraining the minimum length scale to some physically meaningful value is one promising possibility.\n",
+        "link": "http://dx.doi.org/10.1007/s11340-022-00928-5"
+    },
+    {
+        "id": 6623,
+        "title": "Robust multi-layer extreme learning machine using bias-variance tradeoff",
+        "authors": "Tian-jun Yu, Xue-feng Yan",
+        "published": "2020-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11771-020-4574-9"
+    },
+    {
+        "id": 6624,
+        "title": "Treating random effects as observed versus latent predictors: The bias–variance tradeoff in small samples",
+        "authors": "Siwei Liu, Mijke Rhemtulla",
+        "published": "2022-2",
+        "citations": 2,
+        "abstract": "Random effects in longitudinal multilevel models represent individuals’ deviations from population means and are indicators of individual differences. Researchers are often interested in examining how these random effects predict outcome variables that vary across individuals. This can be done via a two‐step approach in which empirical Bayes (EB) estimates of the random effects are extracted and then treated as observed predictor variables in follow‐up regression analyses. This approach ignores the unreliability of EB estimates, leading to underestimation of regression coefficients. As such, previous studies have recommended a multilevel structural equation modeling (ML‐SEM) approach that treats random effects as latent variables. The current study uses simulation and empirical data to show that a bias–variance tradeoff exists when selecting between the two approaches. ML‐SEM produces generally unbiased regression coefficient estimates but also larger standard errors, which can lead to lower power than the two‐step approach. Implications of the results for model selection and alternative solutions are discussed.",
+        "link": "http://dx.doi.org/10.1111/bmsp.12253"
+    },
+    {
+        "id": 6625,
+        "title": "Visualization tool of variable selection in bias–variance tradeoff for inverse probability weights",
+        "authors": "Ya-Hui Yu, Kristian B. Filion, Lisa M. Bodnar, Maria M. Brooks, Robert W. Platt, Katherine P. Himes, Ashley I. Naimi",
+        "published": "2020-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.annepidem.2019.12.006"
+    },
+    {
+        "id": 6626,
+        "title": "Forensic Prediction using Bias-Variance Tradeoff and Random Forest Algorithms",
+        "authors": "S Shanthini*,  , S Vinu,  ",
+        "published": "2019-12-30",
+        "citations": 0,
+        "abstract": "Every individual host after death has its own altered micro biome configuration. After death, postmortem microorganism communities change to represent the attributes of death. The micro biome act as a many roles in human health, usually done by the exclusive lens of clinical interest. By scouring 5 anatomical areas throughout regular demise exploration from 188 case to predict the Postmortem Interval (PMI), location of death and manner of death, the postmortem micro biomes were collected. The micro biome sequencing are not easy to analyze and interpret because it produces large multidimensional dataset. To overcome the analytical challenge Machine learning method can be used. The two supervised machine learning methods employed here are Random Forest and Bias-Variance Tradeoff. In training datasets, Random forest algorithm is applied. This algorithm makes predictions by choosing the most voted node from each decision tree as the output. The output is checked for any bias variance error, by the Bias-Variance Tradeoff algorithm in order to help the supervised learning algorithm to perform generalization beyond the training datasets. To obtain a prediction that is best fitted and accurate, these two algorithms are chosen for learning.",
+        "link": "http://dx.doi.org/10.35940/ijitee.b6564.129219"
+    },
+    {
+        "id": 6627,
+        "title": "Lead ASR Models to Generalize Better Using Approximated Bias-Variance Tradeoff",
+        "authors": "Fangyuan Wang, Ming Hao, Yuhai Shi, Bo Xu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-99-8126-7_14"
+    },
+    {
+        "id": 6628,
+        "title": "Android malware dataset construction methodology to minimize bias–variance​ tradeoff",
+        "authors": "Shinho Lee, Wookhyun Jung, Wonrak Lee, Hyung Geun Oh, Eui Tak Kim",
+        "published": "2022-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.icte.2021.10.001"
+    },
+    {
+        "id": 6629,
+        "title": "A Multi-resolution Theory for Approximating Infinite-<i>p</i>-Zero-<i>n</i>: Transitional Inference, Individualized Predictions, and a World Without Bias-Variance Tradeoff",
+        "authors": "Xinran Li, Xiao-Li Meng",
+        "published": "2021-1-2",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/01621459.2020.1844210"
+    },
+    {
+        "id": 6630,
+        "title": "Bias correction for inverse variance weighting Mendelian randomization",
+        "authors": "Ninon Mounier, Zoltán Kutalik",
+        "published": "No Date",
+        "citations": 28,
+        "abstract": "AbstractInverse-variance weighted two-sample Mendelian randomization (IVW-MR) is the most widely used approach that utilizes genome-wide association studies (GWAS) summary statistics to infer the existence and the strength of the causal effect between an exposure and an outcome. Estimates from this approach can be subject to different biases due to the use of weak instruments and winner’s curse, which can change as a function of the overlap between the exposure and outcome samples.We developed a method (MRlap) that simultaneously considers weak instrument bias and winner’s curse, while accounting for potential sample overlap. Assuming spike-and-slab genomic architecture and leveraging LD-score regression and other techniques, we could analytically derive, reliably estimate, and hence correct for the bias of IVW-MR using association summary statistics only.We tested our approach using simulated data for a wide range of realistic settings. In all the explored scenarios, our correction reduced the bias, in some situations by as much as 30 folds. Additionally, our results are consistent with the fact that the strength of the biases will decrease as the sample size increases and we also showed that the overall bias is also dependent on the genetic architecture of the exposure, and traits with low heritability and/or high polygenicity are more strongly affected. Applying MRlap to obesity-related exposures revealed significant differences between IVW-based and corrected effects, both for non-overlapping and fully overlapping samples.Our method not only reduces bias in causal effect estimation but also enables the use of much larger GWAS sample sizes, by allowing for potentially overlapping samples.",
+        "link": "http://dx.doi.org/10.1101/2021.03.26.437168"
+    },
+    {
+        "id": 6631,
+        "title": "Bias Variance Decomposition",
+        "authors": "",
+        "published": "2017",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_74"
+    },
+    {
+        "id": 6632,
+        "title": "Bias-Variance-Covariance Decomposition",
+        "authors": "",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_932"
+    },
+    {
+        "id": 6633,
+        "title": "Bias-variance trade-off in continuous test norming",
+        "authors": "Lieke Voncken, Casper J Albers, Marieke Timmerman",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "In continuous test norming, the test score distribution is estimated as a continuous function of predictor(s). A flexible approach for norm estimation is the use of generalized additive models for location, scale, and shape (GAMLSS). It is unknown how sensitive their estimates are to model flexibility and sample size. Generally, a flexible model that fits at the population level has smaller bias than its restricted non-fitting version, yet it has larger sampling variability. We investigated how model flexibility relates to bias, variance, and total variability in estimates of normalized z scores under empirically relevant conditions, involving the skew Student t and normal distributions as population distributions. We considered both transversal and longitudinal assumption violations. We found that models with too strict distributional assumptions yield biased estimates, whereas too flexible models yield increased variance. The skew Student t distribution, unlike the BCPE distribution, appeared problematic to estimate for normally distributed data. Recommendations for empirical norming practice are provided.",
+        "link": "http://dx.doi.org/10.31234/osf.io/cz8k3"
+    },
+    {
+        "id": 6634,
+        "title": "Genomic Heritability: A Ragged Diagonal Between Bias and Variance",
+        "authors": "Mitchell J. Feldmann, Hans-Peter Piepho, Steven J. Knapp",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "ABSTRACTMany important traits in plants, animals, and microbes are polygenic and are therefore difficult to improve through traditional marker-assisted selection. Genomic prediction addresses this by enabling the inclusion of all genetic data in a mixed model framework. The main method for predicting breeding values is genomic best linear unbiased prediction (GBLUP), which uses the realized genomic relationship or kinship matrix (K) to connect genotype to phenotype. The use of relationship matrices allows information to be shared for estimating the genetic values for observed entries and predicting genetic values for unobserved entries. One of the key parameters of such models is genomic heritability, or the variance of a trait associated with a genome-wide sample of DNA polymorphisms. Here we discuss the relationship between several common methods for calculating the genomic relationship matrix and propose a new matrix based on the average semivariance that yields accurate estimates of genomic variance in the observed population regardless of the focal population quality as well as accurate breeding value predictions in unobserved samples. Notably, our proposed method is highly similar to the approach presented by Legarra (2016) despite different mathematical derivations and statistical perspectives and only deviates from the classic approach presented in VanRaden (2008) by a scaling factor. With current approaches, we found that the genomic heritability tends to be either over- or underestimated depending on the scaling and centering applied to the marker matrix (Z), the value of the average diagonal element ofK, and the assortment of alleles and heterozygosity (H) in the observed population and that, unlike its predecessors, our newly proposed kinship matrixKASVyields accurate estimates ofin the observed population, generalizes to larger populations, and produces BLUPs equivalent to common methods in plants and animals.",
+        "link": "http://dx.doi.org/10.1101/2021.09.19.460999"
+    },
+    {
+        "id": 6635,
+        "title": "Project Similarity Bias and Variance Neglect in Forecast Metric Evaluation",
+        "authors": "Shir Dekel, Micah Goldwater, Dan Lovallo, Bruce Burns",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Business executives often have to allocate resources across very dissimilar projects. They use financial measures, such as Net Present Value (NPV) that simplify this difficult comparison because they aim to be equally applicable to any kind of project, but these measures vary in their reliability. Psychological research suggests that comparing alignable objects will be easier than comparing non-alignable objects (Markman &amp; Gentner, 1993; Markman &amp; Medin, 1995). However, it is unclear how alignment might moderate people’s use of financial measure such as NPV. We found that laypeople accommodate their use of a financial measure (NPV) based on its reliability (as explicitly described in the introduction to the task) when allocating resources to a set of alignable projects, but use it regardless of reliability when allocating to a set of non-alignable projects. However, when NPV reliability information was presented numerically using ranges, participants’ allocation did not depend on the ranges—participants used NPV even when they had an opportunity to use the intrinsic features of the project. Overall, however, participants relied on NPV more when projects were low in alignment than when they were high in alignment. The result with numerical reliability was replicated with Masters of Management students. Our results demonstrate that considering dissimilar choices may hinder people’s ability to evaluate their importance, and that people might not be using useful variance information in their decisions.",
+        "link": "http://dx.doi.org/10.31234/osf.io/edzna"
+    },
+    {
+        "id": 6636,
+        "title": "Asymptotic Bias of the L2-Regularized Error Variance Estimator",
+        "authors": "Semin Choi, Gunwoong Park",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4094257"
+    },
+    {
+        "id": 6637,
+        "title": "Bias-Variance Trade-Offs: Novel Applications",
+        "authors": "Dev Rajnarayan, David Wolpert",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4899-7687-1_28"
+    },
+    {
+        "id": 6638,
+        "title": "Performance of generalized estimating equations using bias-corrected sandwich variance estimators with count outcomes",
+        "authors": "Taweesak Channgam",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1063/1.5012232"
+    },
+    {
+        "id": 6639,
+        "title": "Getting Your Bias Variance Right and Regularization",
+        "authors": "Divisha Bera",
+        "published": "2018-8-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5120/ijca2018917579"
+    },
+    {
+        "id": 6640,
+        "title": "Group Bias and the Complexity/Accuracy Tradeoff in Machine Learning-Based Trauma Triage Models",
+        "authors": "Katherine Phillips, Katherine Brown, Steve Talbert, Doug Talbert",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "Trauma triage occurs in suboptimal environments for making consequential decisions. Published triage studies demonstrate the extremes of the complexity/accuracy tradeoff, either studying simple models with poor accuracy or very complex models with accuracies nearing published goals. Using a Level I Trauma Center’s registry cases (n=50,644), this study describes, uses, and derives observations from a methodology to more thoroughly examine this tradeoff. This or similar methods can provide the insight needed for practitioners to balance understandability with accuracy. Additionally, this study incorporates an evaluation of group-based fairness into this tradeoff analysis to provide an additional dimension of insight into model selection. The experiments allow us to draw several conclusions regarding the machine learning models in the domain of trauma triage and demonstrate the value of our tradeoff analysis to provide insight into choices regarding model complexity, model accuracy, and model fairness.",
+        "link": "http://dx.doi.org/10.32473/flairs.36.133358"
+    },
+    {
+        "id": 6641,
+        "title": "Polynomial Least Squares Multiple-Model Estimator Optimized by Variance/Bias-Squared Trade-Off",
+        "authors": "Jeff Bell",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3319537"
+    },
+    {
+        "id": 6642,
+        "title": "Non-Parametric Uncertainty Bias and Variance Estimation via Nested Bootstrapping and Influence Functions",
+        "authors": "Kimia Vahdat, Sara Shashaani",
+        "published": "2021-12-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wsc52266.2021.9715420"
+    },
+    {
+        "id": 6643,
+        "title": "Three Machine Learning Solutions to the Bias-Variance Dilemma (Seminar Slides)",
+        "authors": "Marcos López de Prado",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3588594"
+    },
+    {
+        "id": 6644,
+        "title": "Noise Variance Estimation in 5G NR Receivers: Bias Analysis and Compensation",
+        "authors": "Federico Penna, Hyukjoon Kwon, Dongwoon Bai",
+        "published": "2021-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/globecom46510.2021.9685289"
+    },
+    {
+        "id": 6645,
+        "title": "Bulletproof Bias? Considering the Type of Data in Common Proportion of Variance Effect Sizes",
+        "authors": "Erin Michelle Buchanan, John E. Scofield",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "As effect sizes gain ground as important indicators of practical significance and as a meta-analytic tool, we must critically understand their limitations and biases. This project expands on research by @Okada2013, which highlighted the positive bias of eta squared and suggested the use of omega squared or epsilon for their lack of bias. These variance overlap measures were examined for potential bias in different data scenarios (i.e. truncated and Likert type data) to elucidate differences in bias from previous research. We found that data precision and truncation affected effect size bias, often lowering the bias in eta squared. This work expands our understanding of bias on variance overlap measures and allows researchers to make an informed choice about the type of effect to report given their research study. Implications for sample size planning and power are also discussed.",
+        "link": "http://dx.doi.org/10.31219/osf.io/cs4vy"
+    },
+    {
+        "id": 6646,
+        "title": "Asymptotic Bias and Variance of Kernel Ridge Regression",
+        "authors": "Victor Solo",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096774"
+    },
+    {
+        "id": 6647,
+        "title": "A novel approach to the bias-variance problem in bump hunting",
+        "authors": "M. Williams",
+        "published": "2017-9-28",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1088/1748-0221/12/09/p09034"
+    },
+    {
+        "id": 6648,
+        "title": "On lower bounds for the bias-variance trade-off",
+        "authors": "Alexis Derumigny, Johannes Schmidt-Hieber",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1214/23-aos2279"
+    },
+    {
+        "id": 6649,
+        "title": "Multilevel Meta-Analysis of Standardized Single-Case Experimental Data: Bias Corrections in Estimating Variance Components",
+        "authors": "Laleh Jamshidi",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3102/1434758"
+    },
+    {
+        "id": 6650,
+        "title": "The Bias-variance Decomposition in Profiled Attacks Based on Deep Learning",
+        "authors": "Kai Wang, Yingjian Yan",
+        "published": "2020-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccsmt51754.2020.00011"
+    },
+    {
+        "id": 6651,
+        "title": "Variance in Identity Among Adolescents of African Descent and Perceptions of In-School Bias on Climate",
+        "authors": "Shelby Cooley",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3102/1582653"
+    },
+    {
+        "id": 6652,
+        "title": "Evidence of a Bias-Variance Trade Off When Correcting for Bias in Sentinel 2 Forest Lai Retrievals Using Radiative Transfer Models",
+        "authors": "Richard Fernandes, Najib Djamai, Kate Harvey, Gang Hong, Camryn MacDougall, Hemit Shah, Lixin Sun",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4723337"
+    },
+    {
+        "id": 6653,
+        "title": "Suboptimal human inference inverts the bias-variance trade-off for decisions with asymmetric evidence",
+        "authors": "Tahra L Eissa, Joshua I Gold, Krešimir Josić, Zachary P Kilpatrick",
+        "published": "No Date",
+        "citations": 2,
+        "abstract": "AbstractSolutions to challenging inference problems are often subject to a fundamental trade-off between bias (being systematically wrong) that is minimized with complex inference strategies and variance (being oversensitive to uncertain observations) that is minimized with simple inference strategies. However, this trade-off is based on the assumption that the strategies being considered are optimal for their given complexity and thus has unclear relevance to the frequently suboptimal inference strategies used by humans. We examined inference problems involving rare, asymmetrically available evidence, which a large population of human subjects solved using a diverse set of strategies that were suboptimal relative to the Bayesian ideal observer. These suboptimal strategies reflected an inversion of the classic bias-variance trade-off: subjects who used more complex, but imperfect, Bayesian-like strategies tended to have lower variance but high bias because of incorrect tuning to latent task features, whereas subjects who used simpler heuristic strategies tended to have higher variance because they operated more directly on the observed samples but displayed weaker, near-normative bias. Our results yield new insights into the principles that govern individual differences in behavior that depends on rare-event inference, and, more generally, about the information-processing trade-offs that are sensitive to not just the complexity, but also the optimality of the inference process.",
+        "link": "http://dx.doi.org/10.1101/2020.12.06.413591"
+    },
+    {
+        "id": 6654,
+        "title": "Firth bias correction for estimating variance components of logistics linear mixed model using penalized quasi likelihood method",
+        "authors": "",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.28919/cmbn/4955"
+    },
+    {
+        "id": 6655,
+        "title": "Dealing With Common Method Variance and Bias in Business and Management Research: The Impact of Basketball Coaches’ Cross-Cultural Communication Competence",
+        "authors": "Robin Bell",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4135/9781526467119"
+    },
+    {
+        "id": 6656,
+        "title": "Measurement Variance",
+        "authors": "Thomas A. Stetz",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-89925-7_4"
+    },
+    {
+        "id": 6657,
+        "title": "Reducing bias and variance for CTF estimation in single particle cryo-EM",
+        "authors": "Ayelet Heimowitz, Joakim Andén, Amit Singer",
+        "published": "2020-5",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ultramic.2020.112950"
+    },
+    {
+        "id": 6658,
+        "title": "An Evaluation of Common Method Variance-Bias in Psychology",
+        "authors": "Leila Karimi, Denny Meyer",
+        "published": "2019-8-30",
+        "citations": 5,
+        "abstract": "This study demonstrated a novel procedure for assessing the significance of common method bias (CMB) using SEM. It appears that CMB has a marked effect on the reliability of the measurement models. A new procedure using covariate-based reliability was proposed for assessing the effects of CMB on the reliability of a model. Further SEM analysis using marker variable procedure supports the presence of CMB in this study. This seems to be an interesting area to be explored in further research.",
+        "link": "http://dx.doi.org/10.5539/ijps.v11n3p83"
+    },
+    {
+        "id": 6659,
+        "title": "Trading-off Bias and Variance in Stratified Experiments and in Staggered Adoption Designs, Under a Boundedness Condition on the Magnitude of the Treatment Effect",
+        "authors": "Clément de Chaisemartin",
+        "published": "2022-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3386/w29879"
+    },
+    {
+        "id": 6660,
+        "title": "Dataset Reduction via Bias-Variance Minimization",
+        "authors": "Georgii Novikov, Maxim Panov, Ivan Oseledets",
+        "published": "2021-9-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dcna53427.2021.9587025"
+    },
+    {
+        "id": 6661,
+        "title": "Bias-Variance Decomposition for Ranking",
+        "authors": "Pannaga Shivaswamy, Ashok Chandrashekar",
+        "published": "2021-3-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3437963.3441772"
+    },
+    {
+        "id": 6662,
+        "title": "The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government",
+        "authors": "Jennifer King, Daniel Ho, Arushi Gupta, Victor Wu, Helen Webley-Brown",
+        "published": "2023-6-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3593013.3594015"
+    },
+    {
+        "id": 6663,
+        "title": "LINEAR-OPTIMAL FEATURE BASED ON EXPECTATION-VARIANCE TRADEOFF FOR THE DETECTION OF LOW-VELOCITY ANOMALIES IN HYDROPOWER PLANTS",
+        "authors": "L. Duan, D. Wang, Z. Wen, X. Liu, C. Gong, C. Chen",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/icp.2021.2069"
+    },
+    {
+        "id": 6664,
+        "title": "Sexual dimorphism explains residual variance around the survival‐reproduction tradeoff in lizards: Implications for sexual conflict over life‐history evolution*",
+        "authors": "Aaron M. Reedy, William J. Evans, Robert M. Cox",
+        "published": "2019-11",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1111/evo.13799"
+    },
+    {
+        "id": 6665,
+        "title": "Bias correction for inverse variance weighting Mendelian randomization",
+        "authors": "Ninon Mounier, Zoltán Kutalik",
+        "published": "2023-6",
+        "citations": 45,
+        "abstract": "AbstractInverse‐variance weighted two‐sample Mendelian randomization (IVW‐MR) is the most widely used approach that utilizes genome‐wide association studies (GWAS) summary statistics to infer the existence and the strength of the causal effect between an exposure and an outcome. Estimates from this approach can be subject to different biases due to the use of weak instruments and winner's curse, which can change as a function of the overlap between the exposure and outcome samples. We developed a method (MRlap) that simultaneously considers weak instrument bias and winner's curse while accounting for potential sample overlap. Assuming spike‐and‐slab genomic architecture and leveraging linkage disequilibrium score regression and other techniques, we could analytically derive, reliably estimate, and hence correct for the bias of IVW‐MR using association summary statistics only. We tested our approach using simulated data for a wide range of realistic settings. In all the explored scenarios, our correction reduced the bias, in some situations by as much as 30‐fold. In addition, our results are consistent with the fact that the strength of the biases will decrease as the sample size increases and we also showed that the overall bias is also dependent on the genetic architecture of the exposure, and traits with low heritability and/or high polygenicity are more strongly affected. Applying MRlap to obesity‐related exposures revealed statistically significant differences between IVW‐based and corrected effects, both for nonoverlapping and fully overlapping samples. Our method not only reduces bias in causal effect estimation but also enables the use of much larger GWAS sample sizes, by allowing for potentially overlapping samples.",
+        "link": "http://dx.doi.org/10.1002/gepi.22522"
+    },
+    {
+        "id": 6666,
+        "title": "Bias-variance decomposition of absolute errors for diagnosing regression models of continuous data",
+        "authors": "Jing Gao",
+        "published": "2021-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patter.2021.100309"
+    },
+    {
+        "id": 6667,
+        "title": "Optimally adjusted last cluster for prediction based on balancing the bias and variance by bootstrapping",
+        "authors": "Jeongwoo Kim",
+        "published": "2019-11-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0223529"
+    },
+    {
+        "id": 6668,
+        "title": "Adding bias to reduce variance in psychological results: A tutorial on penalized regression",
+        "authors": "Nathaniel E. Helwig",
+        "published": "2017-1-1",
+        "citations": 24,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.20982/tqmp.13.1.p001"
+    },
+    {
+        "id": 6669,
+        "title": "Cognitive Bias for the Distribution of Ball Landing Positions in Amateur Tennis Players (Cognitive Bias for the Motor Variance in Tennis)",
+        "authors": "Hiroyuki Yamamoto, Masahiro Shinya, Kazutoshi Kudo",
+        "published": "2019-3-4",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/00222895.2018.1440523"
+    },
+    {
+        "id": 6670,
+        "title": "Applications of the bias–variance decomposition to human forecasting",
+        "authors": "Patrick Bodilly Kane, Stephen B. Broomell",
+        "published": "2020-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.jmp.2020.102417"
+    },
+    {
+        "id": 6671,
+        "title": "Are We Missing the Target? A Bias-Variance Perspective on Multi-Hazard Risk Assessment",
+        "authors": "Alexandre Dunant",
+        "published": "2021-5-31",
+        "citations": 1,
+        "abstract": "This paper presents a generalization of the bias-variance tradeoff applied to the recent trend toward natural multi-hazard risk assessment. The bias-variance dilemma, a well-known machine learning theory, is presented in the context of natural hazard modeling. It is then argued that the bias-variance statistical concept can provide an analytical framework for the necessity to direct efforts toward systemic risk assessment using multi-hazard catastrophe modeling and inform future mitigation practices.",
+        "link": "http://dx.doi.org/10.3389/feart.2021.685301"
+    },
+    {
+        "id": 6672,
+        "title": "Understanding Bias and Variance of Learning-to-Rank Algorithms: An Empirical Framework",
+        "authors": "Muhammad Ibrahim",
+        "published": "2022-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/08839514.2021.2009164"
+    },
+    {
+        "id": 6673,
+        "title": "Bias—Variance Trade‐off",
+        "authors": "",
+        "published": "2018-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/9781119439868.ch5"
+    },
+    {
+        "id": 6674,
+        "title": "Minimum-Variance State and Fault Estimation for Multi-Rate Systems with Dynamical Bias",
+        "authors": "Yuxuan Shen, Zidong Wang, Hongli Dong",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781032619507-5"
+    },
+    {
+        "id": 6675,
+        "title": "Generalization-Aware Structured Regression towards Balancing Bias and Variance",
+        "authors": "Martin Pavlovski, Fang Zhou, Nino Arsov, Ljupco Kocarev, Zoran Obradovic",
+        "published": "2018-7",
+        "citations": 3,
+        "abstract": "Attaining the proper balance between underfitting and overfitting is one of the central challenges in machine learning. It has been approached mostly by deriving bounds on generalization risks of learning algorithms. Such bounds are, however, rarely controllable. In this study, a novel bias-variance balancing objective function is introduced in order to improve generalization performance. By utilizing distance correlation, this objective function is able to indirectly control a stability-based upper bound on a model's expected true risk. In addition, the Generalization-Aware Collaborative Ensemble Regressor (GLACER) is developed, a model that bags a crowd of structured regression models, while allowing them to collaborate in a fashion that minimizes the proposed objective function. The experimental results on both synthetic and real-world data indicate that such an objective enhances the overall model's predictive performance. When compared against a broad range of both traditional and structured regression models GLACER was ~10-56% and ~49-99% more accurate for the task of predicting housing prices and hospital readmissions, respectively.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2018/363"
+    },
+    {
+        "id": 6676,
+        "title": "A unified explanation of variability and bias in human probability judgments: How computational noise explains the mean-variance signature",
+        "authors": "Joakim Sundh, Jian-Qiao Zhu, Nick Chater, Adam N Sanborn",
+        "published": "No Date",
+        "citations": 3,
+        "abstract": "Human probability judgments are both variable and subject to systematic biases. Most probability judgment models treat variability and bias separately: a deterministic model explains the origin of bias, to which a noise process is added to generate variability. But these accounts do not explain the characteristic inverse U-shaped signature linking mean and variance in probability judgments. By contrast, models based on sampling generate the mean and variance of judgments in a unified way: the variability in the response is an inevitable consequence of basing probability judgments on a small sample of remembered or simulated instances of events. We consider two recent sampling models, in which biases are explained either by the sample accumulation being further corrupted by retrieval noise (the Probability Theory + Noise account), or as a Bayesian adjustment to the uncertainty implicit in small samples (the Bayesian sampler). While the mean predictions of these accounts closely mimic one another, they differ regarding the predicted relationship between mean and variance. We show that these models can be distinguished by a novel linear regression method that analyses this crucial mean-variance signature. First, the efficacy of the method is established using model recovery, demonstrating that it more accurately recovers parameters than complex approaches. Second, the method is applied to the mean and variance of both existing and new probability judgment data, confirming that judgments are based on a small number of samples that are adjusted by a prior, as predicted by the Bayesian sampler.",
+        "link": "http://dx.doi.org/10.31234/osf.io/yuhaz"
+    },
+    {
+        "id": 6677,
+        "title": "Bias-Variance Trade-Off in Portfolio Optimization under Expected Shortfall with  &lt;sub&gt;2&lt;/sub&gt; Regularization",
+        "authors": "Gabor Papp, Fabio Caccioli",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.2899446"
+    },
+    {
+        "id": 6678,
+        "title": "Optimizing Complex Ensembles: Automatic Bias-Variance Tuning with SVM-Based Learners",
+        "authors": "Amir Hussein Ataei Monfared, Sheedeh Sharif-Bakhtiar",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aisp61396.2024.10475226"
+    },
+    {
+        "id": 6679,
+        "title": "Robust Ranking Model via Bias-Variance Optimization",
+        "authors": "Jinzhong Li, Guanjun Liu, Jiewu Xia",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-63315-2_62"
+    },
+    {
+        "id": 6680,
+        "title": "Non-stationary A/B Tests: Optimal Variance Reduction, Bias Correction, and Valid Inference",
+        "authors": "Yuhang Wu, Guangyu Zhang, Zeyu Zheng, Zuohua Zhang, Chu Wang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4077638"
+    },
+    {
+        "id": 6681,
+        "title": "Treatment group outcome variance difference after dropout as an indicator of missing-not-at-random bias in randomized clinical trials",
+        "authors": "Audinga-Dea Hazewinkel, Kate Tilling, Kaitlin H. Wade, Tom Palmer",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractRandomized controlled trials (RCTs) are considered the gold standard for assessing the causal effect of an exposure on an outcome, but are vulnerable to bias from missing data. When outcomes are missing not at random (MNAR), estimates from complete case analysis (CCA) will be biased. There is no statistical test for distinguishing between outcomes missing at random (MAR) and MNAR, and current strategies rely on comparing dropout proportions and covariate distributions, and using auxiliary information to assess the likelihood of dropout being associated with the outcome. We propose using the observed variance difference across treatment groups as a tool for assessing the risk of dropout being MNAR. In an RCT, at randomization, the distributions of all covariates should be equal in the populations randomized to the intervention and control arms. Under the assumption of homogeneous treatment effects, the variance of the outcome will also be equal in the two populations over the course of followup. We show that under MAR dropout, the observed outcome variances, conditional on the variables included in the model, are equal across groups, while MNAR dropout may result in unequal variances. Consequently, unequal observed conditional group variances are an indicator of MNAR dropout and possible bias of the estimated treatment effect. Heterogeneity of treatment effect affects the intervention group variance, and is another potential cause of observing different outcome variances. We show that, for longitudinal data, we can isolate the effect of MNAR outcome-dependent dropout by considering the variance difference at baseline in the same set of patients that are observed at final follow-up. We illustrate our method in simulation and in applications using individual-level patient data and summary data.",
+        "link": "http://dx.doi.org/10.1101/2022.04.15.22273918"
+    },
+    {
+        "id": 6682,
+        "title": "Bias and Variance in Multiparty Election Polls",
+        "authors": "Peter Selb, Sina Chen, John Körtner, Philipp Bosch",
+        "published": "2023-12-23",
+        "citations": 0,
+        "abstract": "Abstract\nRecent polling failures highlight that election polls are prone to biases that the margin of error customarily reported with polls does not capture. However, such systematic errors are difficult to assess against the background noise of sampling variance. Shirani-Mehr et al. (2018) developed a hierarchical Bayesian model to disentangle random and systematic errors in poll estimates of two-party vote shares at the election level. The method can inform realistic assessments of poll accuracy. We adapt the model to multiparty elections and improve its temporal flexibility. We then estimate bias and variance in 5,240 German national election polls, 1994–2021. Our analysis suggests that the average absolute election-day bias per party was about 1.5 percentage points, ranging from 0.9 for the Greens to 3.2 for the Christian Democrats. The estimated variance is, on average, about twice as large as that implied by usual margins of error. We find little evidence of house or mode effects. Common biases indicate industry effects due to similar methodological problems. The Supplementary Material provides additional results for 1,751 regional election polls.",
+        "link": "http://dx.doi.org/10.1093/poq/nfad046"
+    },
+    {
+        "id": 6683,
+        "title": "Theoretical Analysis of Battery SOC Estimation Errors Under Sensor Bias and Variance",
+        "authors": "Xinfan Lin",
+        "published": "2018-9",
+        "citations": 84,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tie.2018.2795521"
+    },
+    {
+        "id": 6684,
+        "title": "A variance-upscaling quantile mapping method for gridded precipitation bias correction",
+        "authors": "Jiapei Ma, Genxu Wang, Hongyi Li",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.jhydrol.2024.130959"
+    },
+    {
+        "id": 6685,
+        "title": "Evidence of a bias-variance trade off when correcting for bias in Sentinel 2 forest LAI retrievals using radiative transfer models",
+        "authors": "Richard Fernandes, Najib Djamai, Kate Harvey, Gang Hong, Camryn MacDougall, Hemit Shah, Lixin Sun",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.rse.2024.114060"
+    },
+    {
+        "id": 6686,
+        "title": "Multi-Task Bias-Variance Trade-Off Through Functional Constraints",
+        "authors": "Juan Cerviño, Juan Andrés Bazerque, Miguel Calvo-Fullana, Alejandro Ribeiro",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094811"
+    },
+    {
+        "id": 6687,
+        "title": "Stochastic zeroth-order gradient and Hessian estimators: variance reduction and refined bias bounds",
+        "authors": "Yasong Feng, Tianyu Wang",
+        "published": "2023-4-27",
+        "citations": 0,
+        "abstract": "Abstract\nWe study stochastic zeroth-order gradient and Hessian estimators for real-valued functions in $\\mathbb{R}^n$. We show that, via taking finite difference along random orthogonal directions, the variance of the stochastic finite difference estimators can be significantly reduced. In particular, we design estimators for smooth functions such that, if one uses $ \\varTheta \\left ( k \\right ) $ random directions sampled from the Stiefel manifold $ \\text{St} (n,k) $ and finite-difference granularity $\\delta $, the variance of the gradient estimator is bounded by $ \\mathscr{O} \\left ( \\left ( \\frac{n}{k} - 1 \\right ) + \\left ( \\frac{n^2}{k} - n \\right ) \\delta ^2 + \\frac{ n^2 \\delta ^4} { k } \\right ) $, and the variance of the Hessian estimator is bounded by $\\mathscr{O} \\left ( \\left ( \\frac{n^2}{k^2} - 1 \\right ) + \\left ( \\frac{n^4}{k^2} - n^2 \\right ) \\delta ^2 + \\frac{n^4 \\delta ^4 }{k^2} \\right ) $. When $k = n$, the variances become negligibly small. In addition, we provide improved bias bounds for the estimators. The bias of both gradient and Hessian estimators for smooth function $f$ is of order $\\mathscr{O} \\big( \\delta ^2 \\varGamma \\big )$, where $\\delta $ is the finite-difference granularity, and $ \\varGamma $ depends on high-order derivatives of $f$. Our results are evidenced by empirical observations.",
+        "link": "http://dx.doi.org/10.1093/imaiai/iaad014"
+    },
+    {
+        "id": 6688,
+        "title": "Bias–Variance Trade-Off and Shrinkage of Weights in Forecast Combination",
+        "authors": "Sebastian M. Blanc, Thomas Setzer",
+        "published": "2020-12",
+        "citations": 7,
+        "abstract": " Combining forecasts is an established approach for improving forecast accuracy. So-called optimal weights (OWs) estimate combination weights by minimizing errors on past forecasts. Yet the most successful and common approach ignores all training data and assigns equal weights (EWs) to forecasts. We analyze this phenomenon by relating forecast combination to statistical learning theory, which decomposes forecast errors into three components: bias, variance, and irreducible error. In this framework, EWs minimize the variance component (errors resulting from estimation uncertainty) but ignore the bias component (errors from under-sensitivity to training data). OWs, in contrast, minimize the bias and ignore the variance component. Reducing one component in general increases the other. To address this trade-off between bias and variance, we first derive the expected squared error of a combination using weights between EWs and OWs (technically, OWs shrunk toward EWs) and decompose it into the three error components. We then use the components to derive the shrinkage factor between EWs and OWs that minimizes the expected error. We evaluate the approach on forecasts from the Federal Reserve Bank of Philadelphia’s Survey of Professional Forecasters. For these forecasts, we first show that assumptions regarding the error distribution that are commonly used in theoretical analyses are likely to be violated in practice. We then demonstrate that our approach improves over EWs and OWs if the assumptions are met, for instance, as the result of using a standardization procedure for the training data.  This paper was accepted by Han Bleichrodt, decision analysis. ",
+        "link": "http://dx.doi.org/10.1287/mnsc.2019.3476"
+    },
+    {
+        "id": 6689,
+        "title": "Bias in variance component estimation in swine crossbreeding schemes using selective genotyping and phenotyping strategies",
+        "authors": "Garrett M See, Benny E Mote, Matthew L Spangler",
+        "published": "2021-10-18",
+        "citations": 0,
+        "abstract": "Abstract\nSelective genotyping of crossbred (CB) animals to include in traditionally purebred (PB) dominated genetic evaluations has been shown to provide an increase in the response to selection for CB performance. However, the inclusion of phenotypes from selectively genotyped CB animals, without the phenotypes of their non-genotyped cohorts, could cause bias in estimated variance components (VC) and subsequent estimated breeding values (EBV). The objective of the study was to determine the impact of selective CB genotyping on VC estimates and subsequent bias in EBV when non-genotyped CB animals are not included in genetic evaluations. A swine crossbreeding scheme producing 3-way CB animals was simulated to create selectively genotyped datasets. The breeding scheme consisted of three PB breeds each with 25 males and 450 females, F1 crosses with 1200 females and 12,000 CB progeny. Eighteen chromosomes each with 100 QTL and 4k SNP markers were simulated. Both PB and CB performance were considered to be moderately heritable (h2=0.4). Factors evaluated were, 1) CB phenotype and genotype inclusion of 15% (n=1800) or 35% (n=4200), 2) genetic correlation between PB and CB performance (rpc=0.1, 0.5 or 0.7) and 3) selective genotyping strategy. Genotyping strategies included: a) Random: random CB selection, b) Top: highest CB phenotype and c) Extreme: half highest and half lowest CB phenotypes. Top and Extreme selective genotyping strategies were considered by selecting animals in full-sib (FS) families or among the CB population (T). In each generation, 4320 PB selection candidates contributed phenotypic and genotypic records. Each scenario was replicated 15 times. VC were estimated for PB and CB performance utilizing bivariate models using pedigree relationships with dams of CB animals considered to be unknown. Estimated values of VC for PB performance were not statistically different from true values. Top selective genotyping strategies produced deflated estimates of phenotypic VC for CB performance compared to true values. When using estimated VC, Top_T and Extreme_T produced the most biased EBV, yet EBV of PB selection candidates for CB performance were most accurate when using Extreme_T. Results suggest that randomly selecting CB animals to genotype or selectively genotyping Top or Extreme CB animals within full-sib families can lead to accurate estimates of additive genetic VC for CB performance and unbiased EBV.",
+        "link": "http://dx.doi.org/10.1093/jas/skab293"
+    },
+    {
+        "id": 6690,
+        "title": "Gaussian Bounding Improvements and an Analysis of the Bias-sigma Tradeoff for GNSS Integrity",
+        "authors": "Juan Blanch, Xinwei Liu, Todd Walter",
+        "published": "2021-2-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.33012/2021.17861"
+    },
+    {
+        "id": 6691,
+        "title": "A 2.5-GHz Multimode Broadband Bias-Segmented Power Amplifier With Linearity-Efficiency Tradeoff",
+        "authors": "Giap Luong, Eric Kerherve, Jean-Marie Pham, Pierre Medrel",
+        "published": "2018-11",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/lmwc.2018.2869600"
+    },
+    {
+        "id": 6692,
+        "title": "Analysis of Bias-variance Trade-off in Estimators for Variational Inferencing .",
+        "authors": "Niladri Das, Thomas Catanach",
+        "published": "2022-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/2003770"
+    },
+    {
+        "id": 6693,
+        "title": "Bias and Variance of Post-processing in Differential Privacy",
+        "authors": "Keyu Zhu, Pascal Van Hentenryck, Ferdinando Fioretto",
+        "published": "2021-5-18",
+        "citations": 7,
+        "abstract": "Post-processing immunity is a fundamental property of differential\nprivacy: it enables the application of arbitrary data-independent \ntransformations to the results of differentially private outputs \nwithout affecting their privacy guarantees. \nWhen query outputs must satisfy domain constraints, post-processing \ncan be used to project them back onto the feasibility region. \nMoreover, when the feasible region is convex, a widely adopted class of post-processing steps is also guaranteed to improve accuracy. Post-processing has \nbeen applied successfully in many applications including census \ndata, energy systems, and mobility. However, its effects on the \nnoise distribution is poorly understood: It is often argued that \npost-processing may introduce bias and increase variance. This paper \ntakes a first step towards understanding the properties of \npost-processing. It considers the release of census data and \nexamines, both empirically and theoretically, the behavior of a \nwidely adopted class of post-processing functions.",
+        "link": "http://dx.doi.org/10.1609/aaai.v35i12.17333"
+    },
+    {
+        "id": 6694,
+        "title": "Understanding the potential bias of variance components estimators when using genomic models",
+        "authors": "Beatriz C. D. Cuyabano, A. Christian Sørensen, Peter Sørensen",
+        "published": "2018-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1186/s12711-018-0411-0"
+    },
+    {
+        "id": 6695,
+        "title": "Bias-Variance Games",
+        "authors": "Yiding Feng, Ronen Gradwohl, Jason Hartline, Aleck Johnsen, Denis Nekipelov",
+        "published": "2022-7-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3490486.3538248"
+    },
+    {
+        "id": 6696,
+        "title": "Physics-Constrained Bayesian Neural Network for Bias and Variance Reduction",
+        "authors": "Luka Malashkhia, Dehao Liu, Yanglong Lu, Yan Wang",
+        "published": "2023-2-1",
+        "citations": 5,
+        "abstract": "Abstract\nWhen neural networks are applied to solve complex engineering problems, the lack of training data can make the predictions of the surrogate inaccurate. Recently, physics-constrained neural networks were introduced to integrate physical models in the data-driven surrogate to improve the training efficiency with limited data. Nevertheless, the model-form and parameter uncertainty associated with the neural networks can still lead to unreliable predictions. In this article, a new physics-constrained Bayesian neural network (PCBNN) framework is proposed to quantify the uncertainty in physics-constrained neural networks. The bias and variance of predictions are considered simultaneously during the PCBNN training process. The variance and Kullback–Leibler divergence of neural network parameters are incorporated in the total loss function. The weights associated with the different losses are adjusted adaptively. The training of PCBNNs is also formulated as solving a minimax problem where the loss function for the worst-case scenario is minimized. The new PCBNN framework is demonstrated with engineering examples of heat transfer and phase transition based on both simulation data and experimental measurements. The results show that the accuracy and precision of predictions can be improved with the variance consideration in the PCBNN.",
+        "link": "http://dx.doi.org/10.1115/1.4055924"
+    },
+    {
+        "id": 6697,
+        "title": "Quantifying Bias and Variance of System Rankings",
+        "authors": "Gordon V. Cormack, Maura R. Grossman",
+        "published": "2019-7-18",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3331184.3331356"
+    },
+    {
+        "id": 6698,
+        "title": "Standardized Tests and Affirmative Action",
+        "authors": "Nikhil Garg, Hannah Li, Faidra Monachou",
+        "published": "2021-3-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3442188.3445889"
+    },
+    {
+        "id": 6699,
+        "title": "Cocoercivity, smoothness and bias in variance-reduced stochastic gradient methods",
+        "authors": "Martin Morin, Pontus Giselsson",
+        "published": "2022-10",
+        "citations": 0,
+        "abstract": "AbstractWith the purpose of examining biased updates in variance-reduced stochastic gradient methods, we introduce SVAG, a SAG/SAGA-like method with adjustable bias. SVAG is analyzed in a cocoercive root-finding setting, a setting which yields the same results as in the usual smooth convex optimization setting for the ordinary proximal-gradient method. We show that the same is not true for SVAG when biased updates are used. The step-size requirements for when the operators are gradients are significantly less restrictive compared to when they are not. This highlights the need to not rely solely on cocoercivity when analyzing variance-reduced methods meant for optimization. Our analysis either match or improve on previously known convergence conditions for SAG and SAGA. However, in the biased cases they still do not correspond well with practical experiences and we therefore examine the effect of bias numerically on a set of classification problems. The choice of bias seem to primarily affect the early stages of convergence and in most cases the differences vanish in the later stages of convergence. However, the effect of the bias choice is still significant in a couple of cases.",
+        "link": "http://dx.doi.org/10.1007/s11075-022-01280-4"
+    },
+    {
+        "id": 6700,
+        "title": "An Evaluation of Error Variance Bias in Spatial Designs",
+        "authors": "Emlyn R. Williams, Hans-Peter Piepho",
+        "published": "2018-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s13253-017-0309-2"
+    }
+]

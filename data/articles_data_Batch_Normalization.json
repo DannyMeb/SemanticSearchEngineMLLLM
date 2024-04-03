@@ -1,0 +1,902 @@
+[
+    {
+        "id": 4701,
+        "title": "Spectral Batch Normalization: Normalization in the Frequency Domain",
+        "authors": "Rinor Cakaj, Jens Mehnert, Bin Yang",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191931"
+    },
+    {
+        "id": 4702,
+        "title": "Fast Domain Adaptation in Face Recognition by Decomposed Meta Batch Normalization",
+        "authors": "",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.48047/nq.2021.19.6.nq21089"
+    },
+    {
+        "id": 4703,
+        "title": "Gradient Preserving Batch Normalization for Test-Time Adaptation",
+        "authors": "Tao Yang, Yuwang Wang, Yan Lu, Nanning Zheng",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4627328"
+    },
+    {
+        "id": 4704,
+        "title": "Batch Layer Normalization A new normalization layer for CNNs and RNNs",
+        "authors": "Amir Ziaee, Erion ÇAno",
+        "published": "2022-10-21",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3571560.3571566"
+    },
+    {
+        "id": 4705,
+        "title": "BNDNN: Batch Normalization Based Deep Neural Network for Predicting Flood in Urban Areas",
+        "authors": "Vinay Dubey, Rahul Katarya",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nDisaster is a very serious dissipation that arises for a short time period, but the impact of that disaster on human society is very dangerous and very long-lasting. Disasters are categorized into two types like natural disasters and manmade disasters. Among all disasters, of all the natural disasters, flood is the commonplace natural disaster. Flood disaster that causes huge loss of human life, diversity as well as economic loss, which is very dangerous for the developing countries and developed countries also. Nowadays during the monsoon season flood is dangerous for all the geographical areas located nearby water bodies. Much research has been done for flood detection. Machine Learning and many other recent technologies are playing a vital role in predicting the occurrence of floods. For prediction purposes, a huge amount of data is requiring collected from sensors deployed in various locations. In this paper, we used the Batch normalization with Deep Neural Network (BNDNN) technique for the classification of data in three classes as Low, Moderate, and High. The result obtained from our proposed model is compared with some other models like Decision Tree (DT), Support Vector Machine (SVM), Artificial Neural Network (ANN), and Deep Neural Network (DNN). In this our proposed BNDNN provides 89% accuracy which is higher among all existing models. Models are compared based on some parameters like Accuracy, Precision, Recall, F –Score. The compression among all the models used in this paper shows that our proposed model provides better results.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1027530/v1"
+    },
+    {
+        "id": 4706,
+        "title": "Batch Normalization Followed by Merging Is Powerful for Phenotype Prediction Integrating Multiple Heterogeneous Studies",
+        "authors": "Yilin Gao, Fengzhu Sun",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "AbstractHeterogeneity in different genomic studies compromises the performance of machine learning models in cross-study phenotype predictions. Overcoming heterogeneity when incorporating different studies in terms of phenotype prediction is a challenging and critical step for developing machine learning algorithms with reproducible prediction performance on independent datasets. We investigated the best approaches to integrate different studies of the same type of omics data under a variety of different heterogeneities. We developed a comprehensive workflow to simulate a variety of different types of heterogeneity and evaluate the performances of different integration methods together with batch normalization by using ComBat. We also demonstrated the results through realistic applications on six colorectal cancer (CRC) metagenomic studies and six tuberculosis (TB) gene expression studies, respectively. We showed that heterogeneity in different genomic studies can markedly negatively impact the machine learning classifier’s reproducibility. ComBat normalization improved the prediction performance of machine learning classifier when heterogeneous populations presented, and could successfully remove batch effects within the same population. We also showed that the machine learning classifier’s prediction accuracy can be markedly decreased as the underlying disease model became more different in training and test populations. Comparing different merging and integration methods, we found that merging and integration methods can outperform each other in different scenarios. In the realistic applications, we observed that the prediction accuracy improved when applying ComBat normalization with merging or integration methods in both CRC and TB studies. We illustrated that batch normalization is essential for mitigating both population differences of different studies and batch effects. We also showed that both merging strategy and integration methods can achieve good performances when combined with batch normalization. In addition, we explored the potential of boosting phenotype prediction performance by rank aggregation methods and showed that rank aggregation methods had similar performance as other ensemble learning approaches.Author summaryOvercoming heterogeneity when incorporating different studies in terms of phenotype prediction is a challenging and critical step for developing machine learning algorithms with reproducible prediction performance on independent datasets. We developed a comprehensive workflow to simulate a variety of different types of heterogeneity and evaluate the performances of different integration methods together with batch normalization by using ComBat. We also demonstrated the results through realistic applications on six colorectal cancer (CRC) metagenomic studies and six tuberculosis (TB) gene expression studies, respectively. From both the simulation studies and realistic applications, we showed that batch normalization is essential for improving phenotype prediction performance by machine learning classifiers when incorporating multiple heterogeneous datasets. Combined with batch normalization, merging strategy and ensemble weighted learning methods both can boost machine learning classifier’s performance in phenotype predictions. In addition, we explored that rank aggregation methods should be considered as alternative way to boost prediction performances, given that these methods showed similar robustness as ensemble weighted learning methods.",
+        "link": "http://dx.doi.org/10.1101/2022.09.28.509843"
+    },
+    {
+        "id": 4707,
+        "title": "Regularizing Deep Neural Networks for Medical Image Analysis with Augmented Batch Normalization",
+        "authors": "Shengqian Zhu, Chengrong Yu, Junjie Hu",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4463274"
+    },
+    {
+        "id": 4708,
+        "title": "Representative Batch Normalization for Scene Text Recognition",
+        "authors": "",
+        "published": "2022-7-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3837/tiis.2022.07.015"
+    },
+    {
+        "id": 4709,
+        "title": "Multi-view convolutional neural networks using batch normalization outperform human raters during automatic white matter lesion segmentation",
+        "authors": "Martijn D. Steenwijk",
+        "published": "No Date",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26226/morressier.59a3edabd462b8028d894cd7"
+    },
+    {
+        "id": 4710,
+        "title": "EvalNorm: Estimating Batch Normalization Statistics for Evaluation",
+        "authors": "Saurabh Singh, Abhinav Shrivastava",
+        "published": "2019-10",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccv.2019.00373"
+    },
+    {
+        "id": 4711,
+        "title": "Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images",
+        "authors": "Alexander Lin, Alex X. Lu",
+        "published": "No Date",
+        "citations": 7,
+        "abstract": "AbstractData collected by high-throughput microscopy experiments are affected by batch effects, stemming from slight technical differences between experimental batches. Batch effects significantly impede machine learning efforts, as models learn spurious technical variation that do not generalize. We introducebatch effects normalization(BEN), a simple method for correcting batch effects that can be applied to any neural network with batch normalization (BN) layers. BEN aligns the concept of a “batch” in biological experiments with that of a “batch” in deep learning. During each training step, data points forming the deep learning batch are always sampled from the same experimental batch. This small tweak turns the batch normalization layers into an estimate of the shared batch effects between images, allowing for these technical effects to be standardized out during training and inference. We demonstrate that BEN results in dramatic performance boosts in both supervised and unsupervised learning, leading to state-of-the-art performance on the RxRx1-Wilds benchmark.1",
+        "link": "http://dx.doi.org/10.1101/2022.10.14.512286"
+    },
+    {
+        "id": 4712,
+        "title": "Instance Enhancement Batch Normalization: An Adaptive Regulator of Batch Noise",
+        "authors": "Senwei Liang, Zhongzhan Huang, Mingfu Liang, Haizhao Yang",
+        "published": "2020-4-3",
+        "citations": 28,
+        "abstract": "Batch Normalization (BN) (Ioffe and Szegedy 2015) normalizes the features of an input image via statistics of a batch of images and hence BN will bring the noise to the gradient of training loss. Previous works indicate that the noise is important for the optimization and generalization of deep neural networks, but too much noise will harm the performance of networks. In our paper, we offer a new point of view that the self-attention mechanism can help to regulate the noise by enhancing instance-specific information to obtain a better regularization effect. Therefore, we propose an attention-based BN called Instance Enhancement Batch Normalization (IEBN) that recalibrates the information of each channel by a simple linear transformation. IEBN has a good capacity of regulating the batch noise and stabilizing network training to improve generalization even in the presence of two kinds of noise attacks during training. Finally, IEBN outperforms BN with only a light parameter increment in image classification tasks under different network structures and benchmark datasets.",
+        "link": "http://dx.doi.org/10.1609/aaai.v34i04.5917"
+    },
+    {
+        "id": 4713,
+        "title": "Inference-Invariant Transformation of Batch Normalization for Domain Adaptation of Acoustic Models",
+        "authors": "Masayuki Suzuki, Tohru Nagano, Gakuto Kurata, Samuel Thomas",
+        "published": "2018-9-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2018-1563"
+    },
+    {
+        "id": 4714,
+        "title": "BNNAS++: Towards Unbiased Neural Architecture Search With Batch Normalization",
+        "authors": "Yichen Zhu, Xiaowei Fu",
+        "published": "2022",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/access.2022.3226692"
+    },
+    {
+        "id": 4715,
+        "title": "Filtered Batch Normalization",
+        "authors": "Andras Horvath, Jalal Al-afandi",
+        "published": "2021-1-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icpr48806.2021.9412738"
+    },
+    {
+        "id": 4716,
+        "title": "Thai Character-Word Long Short-Term Memory Network Language Models with Dropout and Batch Normalization",
+        "authors": "Nuttanit Keskomon,  , Jaturon Harnsomburana",
+        "published": "2020-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18178/ijmlc.2020.10.6.1006"
+    },
+    {
+        "id": 4717,
+        "title": "Decorrelated Batch Normalization",
+        "authors": "Lei Huangi, Lei Huangi, Dawei Yang, Bo Lang, Jia Deng",
+        "published": "2018-6",
+        "citations": 68,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2018.00089"
+    },
+    {
+        "id": 4718,
+        "title": "Batch normalization embeddings for deep domain generalization",
+        "authors": "Mattia Segu, Alessio Tonioni, Federico Tombari",
+        "published": "2023-3",
+        "citations": 41,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2022.109115"
+    },
+    {
+        "id": 4719,
+        "title": "Non-Intrusive Load Decomposition Based on Instance-Batch Normalization Networks",
+        "authors": "Mao Wang, Dandan Liu, Changzhi Li",
+        "published": "2023-3-23",
+        "citations": 0,
+        "abstract": "At present, the non-intrusive load decomposition method for low-frequency sampling data is as yet insufficient within the context of generalization performance, failing to meet the decomposition accuracy requirements when applied to novel scenarios. To address this issue, a non-intrusive load decomposition method based on instance-batch normalization network is proposed. This method uses an encoder-decoder structure with attention mechanism, in which skip connections are introduced at the corresponding layers of the encoder and decoder. In this way, the decoder can reconstruct a more accurate power sequence of the target. The proposed model was tested on two public datasets, REDD and UKDALE, and the performance was compared with mainstream algorithms. The results show that the F1 score was higher by an average of 18.4 when compared with mainstream algorithms. Additionally, the mean absolute error reduced by an average of 25%, and the root mean square error was reduced by an average of 22%.",
+        "link": "http://dx.doi.org/10.3390/en16072940"
+    },
+    {
+        "id": 4720,
+        "title": "Efficient Adversarial Defense without Adversarial Training: A Batch Normalization Approach",
+        "authors": "Yao Zhu, Xiao Wei, Yue Zhu",
+        "published": "2021-7-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9533949"
+    },
+    {
+        "id": 4721,
+        "title": "Adaptation of Convolution and Batch Normalization Layer for CNN Implementation on FPGA",
+        "authors": "Tomyslav Sledevic",
+        "published": "2019-4",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/estream.2019.8732160"
+    },
+    {
+        "id": 4722,
+        "title": "Online Batch Normalization Adaptation for Automatic Speech Recognition",
+        "authors": "Franco Mana, Felix Weninger, Roberto Gemello, Puming Zhan",
+        "published": "2019-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asru46091.2019.9003883"
+    },
+    {
+        "id": 4723,
+        "title": "FLEC: Federated Learning for Cloud/Edge-Based Smart Industry via Batch Normalization",
+        "authors": "Vidushi Agarwal, Sujata Pal",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccworkshops57953.2023.10283541"
+    },
+    {
+        "id": 4724,
+        "title": "Emotion Recognition Based on Facial Expression by Exploring Batch Normalization Convolutional Neural Network",
+        "authors": "Rochimatus Sadiyah, Arna Fariza, Entin Martiana Kusumaningtyas",
+        "published": "2022-8-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ies55876.2022.9888512"
+    },
+    {
+        "id": 4725,
+        "title": "Cross-Iteration Batch Normalization",
+        "authors": "Zhuliang Yao, Yue Cao, Shuxin Zheng, Gao Huang, Stephen Lin",
+        "published": "2021-6",
+        "citations": 38,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr46437.2021.01215"
+    },
+    {
+        "id": 4726,
+        "title": "Creating the Effective Customer Review Analysis System Using the Batch Normalization with ABC Collaborative Recommendation System",
+        "authors": "Selva Sheela Krishnasamy, Ariyur Mahadevan Abirami, Abdulkhader Askarunisa",
+        "published": "2021-6-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7546/crabs.2021.05.14"
+    },
+    {
+        "id": 4727,
+        "title": "VGG-C Transform Model with Batch Normalization to Predict Alzheimer’s Disease through MRI Dataset",
+        "authors": "Batzaya Tuvshinjargal, Heejoung Hwang",
+        "published": "2022-8-19",
+        "citations": 3,
+        "abstract": "Alzheimer’s disease is the most common cause of dementia and is a generic term for memory and other cognitive abilities that are severe enough to interfere with daily life. In this paper, we propose an improved prediction method for Alzheimer’s disease using a quantization method that transforms the MRI data set using a VGG-C Transform model and a convolutional neural network (CNN) consisting of batch normalization. MRI image data of Alzheimer’s disease are not fully disclosed to general research because it is data from real patients. So, we had to find a solution that could maximize the core functionality in a limited image. In other words, since it is necessary to adjust the interval, which is an important feature of MRI color information, rather than expressing the brain shape, the brain texture dataset was modified in the quantized pixel intensity method. We also use the VGG family, where the VGG-C Transform model with bundle normalization added to the VGG-C model performed the best with a test accuracy of about 0.9800. However, since MRI images are 208 × 176 pixels, conversion to 224 × 224 pixels may result in distortion and loss of pixel information. To address this, the proposed VGG model-based architecture can be trained while maintaining the original MRI size. As a result, we were able to obtain a prediction accuracy of 98% and the AUC score increased by up to 1.19%, compared to the normal MRI image data set. It is expected that our study will be helpful in predicting Alzheimer’s disease using the MRI dataset.",
+        "link": "http://dx.doi.org/10.3390/electronics11162601"
+    },
+    {
+        "id": 4728,
+        "title": "Unsupervised Batch Normalization",
+        "authors": "Mustafa Taha Kocyigit, Laura Sevilla-Lara, Timothy M. Hospedales, Hakan Bilen",
+        "published": "2020-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvprw50498.2020.00467"
+    },
+    {
+        "id": 4729,
+        "title": "Transformation, Normalization, and Batch Effect Removal",
+        "authors": "Lei Yu, Han Qu, Qiong Jia, Xuesong Wang, Zhenyu Jia",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21769/bioprotoc.4462"
+    },
+    {
+        "id": 4730,
+        "title": "Improving Batch Normalization with Skewness Reduction for Deep Neural Networks",
+        "authors": "Pak Lun Kevin Ding, Sarah Martin, Baoxin Li",
+        "published": "2021-1-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icpr48806.2021.9412949"
+    },
+    {
+        "id": 4731,
+        "title": "Comparing Normalization Methods for Limited Batch Size Segmentation Neural Networks",
+        "authors": "Martin Kolarik, Radim Burget, Kamil Riha",
+        "published": "2020-7",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tsp49548.2020.9163397"
+    },
+    {
+        "id": 4732,
+        "title": "Revisiting Batch Normalization for Improving Corruption Robustness",
+        "authors": "Philipp Benz, Chaoning Zhang, Adil Karjauv, In So Kweon",
+        "published": "2021-1",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wacv48630.2021.00054"
+    },
+    {
+        "id": 4733,
+        "title": "Effect of Batch Normalization and Stacked LSTMs on Video Captioning",
+        "authors": "Vishwanath Sarathi, Ajit Mujumdar, Dinesh Naik",
+        "published": "2021-4-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccmc51019.2021.9418036"
+    },
+    {
+        "id": 4734,
+        "title": "Why batch normalization works? a buckling perspective",
+        "authors": "Li Chen, Hongxiao Fei, Yanru Xiao, Jiabao He, Haifeng Li",
+        "published": "2017-7",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icinfa.2017.8079081"
+    },
+    {
+        "id": 4735,
+        "title": "Stochastic Whitening Batch Normalization",
+        "authors": "Shengdong Zhang, Ehsan Nezhadarya, Homa Fashandi, Jiayi Liu, Darin Graham, Mohak Shah",
+        "published": "2021-6",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr46437.2021.01083"
+    },
+    {
+        "id": 4736,
+        "title": "Batch Normalization based Unsupervised Speaker Adaptation for Acoustic Models",
+        "authors": "Jiangyan Yi, Jianhua Tao",
+        "published": "2019-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/apsipaasc47483.2019.9023185"
+    },
+    {
+        "id": 4737,
+        "title": "Diminishing Batch Normalization",
+        "authors": "Yintai Ma, Diego Klabjan",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3210840"
+    },
+    {
+        "id": 4738,
+        "title": "Feature Selection Using Batch-Wise Attenuation and Feature Mask Normalization",
+        "authors": "Yiwen Liao, Raphael Latty, Bin Yang",
+        "published": "2021-7-18",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9533531"
+    },
+    {
+        "id": 4739,
+        "title": "Facial Expression Recognition Method Based on Sparse Batch Normalization CNN",
+        "authors": "Jun Cai, Ouan Chang, Xian-Lun Tang, Can Xue, Chang Wei",
+        "published": "2018-7",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/chicc.2018.8483567"
+    },
+    {
+        "id": 4740,
+        "title": "Facial expression recognition using switch instance-batch normalization",
+        "authors": "Wenhao Tang",
+        "published": "2021-3-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.2586281"
+    },
+    {
+        "id": 4741,
+        "title": "Malware Detection Using 1d Convolution with Batch Normalization and L2 Regularization for Android",
+        "authors": "Sushil Buriya, Neelam Sharma",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icscan58655.2023.10395472"
+    },
+    {
+        "id": 4742,
+        "title": "Epileptic Seizure Classification using Deep Batch Normalization Neural Network",
+        "authors": "Adenuar Purnomo, Handayani Tjandrasa",
+        "published": "2020-12-22",
+        "citations": 6,
+        "abstract": "Epilepsy is a chronic noncommunicable brain disease. Manual inspection of long-term Electroencephalogram (EEG) records for detecting epileptic seizures or other diseases that lasted several days or weeks is a time-consuming task. Therefore, this research proposes a novel epileptic seizure classification architecture called the Deep Batch Normalization Neural Network (Deep BN3), a BN3 architecture with a deeper layer to classify big epileptic seizure data accurately. The raw EEG signals are first to cut into pieces and passed through the bandpass filter. The dataset is very imbalanced, so an undersampling technique was used to produce a balanced sample of data for the training and testing dataset. Furthermore, the balanced data is used to train the Deep BN3 architecture. The resulting model classifies the EEG signal as an epileptic seizure or non-seizure. The classification of epileptic seizures using Deep BN3 obtained pretty good results compared to other architectures used in this research, with an accuracy of 53.61%.",
+        "link": "http://dx.doi.org/10.24843/lkjiti.2020.v11.i03.p01"
+    },
+    {
+        "id": 4743,
+        "title": "Convolutional Neural Network with PCA and Batch Normalization for Hyperspectral Image Classification",
+        "authors": "Aamir Naveed Abbasi, Mingyi He",
+        "published": "2019-7",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/igarss.2019.8899329"
+    },
+    {
+        "id": 4744,
+        "title": "Adaptive Batch Normalization for Training Data with Heterogeneous Features",
+        "authors": "Wael Alsobhi, Tarik Alafif, Weiwei Zong, Alaa E. Abdel-Hakim",
+        "published": "2023-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icsca57840.2023.10087711"
+    },
+    {
+        "id": 4745,
+        "title": "IMPROVED DEEP LEARNING ARCHITECTURE WITH BATCH NORMALIZATION FOR EEG SIGNAL PROCESSING",
+        "authors": "Adenuar Purnomo, Handayani Tjandrasa",
+        "published": "2021-1-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12962/j24068535.v19i1.a1023"
+    },
+    {
+        "id": 4746,
+        "title": "Leveraging Batch Normalization for Vision Transformers",
+        "authors": "Zhuliang Yao, Yue Cao, Yutong Lin, Ze Liu, Zheng Zhang, Han Hu",
+        "published": "2021-10",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccvw54120.2021.00050"
+    },
+    {
+        "id": 4747,
+        "title": "Investigation on the Combination of Batch Normalization and Dropout in BLSTM-based Acoustic Modeling for ASR",
+        "authors": "Li Wenjie, Gaofeng Cheng, Fengpei Ge, Pengyuan Zhang, Yonghong Yan",
+        "published": "2018-9-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21437/interspeech.2018-1597"
+    },
+    {
+        "id": 4748,
+        "title": "Finet: Using Fine-grained Batch Normalization to Train Light-weight Neural Networks",
+        "authors": "Chunjie Luo, Jianfeng Zhan, Lei Wang, Wanling Gao",
+        "published": "2021-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn52387.2021.9534380"
+    },
+    {
+        "id": 4749,
+        "title": "Investigating batch normalization in spoken language understanding",
+        "authors": "Sheetal jagdale, Milind shah",
+        "published": "2021-2-1",
+        "citations": 0,
+        "abstract": "Abstract\nSpoken Language Understanding (SLU) is an important component of the Spoken Dialogue System (SDS). SLU plays a very important role in understanding the user goal. SLU represents user utterance into a semantic representation which helps to understand user intension. SLU performs this task by using learning models from machine learning. These machine learning models suffer from changes in the distribution of input to each layer of the deep learning network. This reduces the speed of training and affects model performance. Thus, the performance of SLU incorporating the deep learning model is affected. In machine learning, techniques such as batch normalization are proposed to reduce the variation in distribution at each layer of the deep model. In this work, an investigation carried on SLU by incorporating batch normalization is reported. The evaluation parameters used for experimentation are F-score and balanced accuracy. The F-score and balanced accuracy for the belief tracker is 0.971 and 0.93. Thus, there is a 3.7 % improvement in F-score and 0.7 % improvement in balanced accuracy than the model without batch normalization which will aid in understanding user goals. Thus, the performance of SLU is improved.",
+        "link": "http://dx.doi.org/10.1088/1742-6596/1812/1/012022"
+    },
+    {
+        "id": 4750,
+        "title": "Factorized CRF with Batch Normalization Based on the Entire Training Data",
+        "authors": "Eran Goldman, Jacob Goldberger",
+        "published": "2021-6-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icassp39728.2021.9414188"
+    },
+    {
+        "id": 4751,
+        "title": "Revisiting Batch Normalization for Training Low-Latency Deep Spiking Neural Networks From Scratch",
+        "authors": "Youngeun Kim, Priyadarshini Panda",
+        "published": "2021-12-9",
+        "citations": 47,
+        "abstract": "Spiking Neural Networks (SNNs) have recently emerged as an alternative to deep learning owing to sparse, asynchronous and binary event (or spike) driven processing, that can yield huge energy efficiency benefits on neuromorphic hardware. However, SNNs convey temporally-varying spike activation through time that is likely to induce a large variation of forward activation and backward gradients, resulting in unstable training. To address this training issue in SNNs, we revisit Batch Normalization (BN) and propose a temporal Batch Normalization Through Time (BNTT) technique. Different from previous BN techniques with SNNs, we find that varying the BN parameters at every time-step allows the model to learn the time-varying input distribution better. Specifically, our proposed BNTT decouples the parameters in a BNTT layer along the time axis to capture the temporal dynamics of spikes. We demonstrate BNTT on CIFAR-10, CIFAR-100, Tiny-ImageNet, event-driven DVS-CIFAR10 datasets, and Sequential MNIST and show near state-of-the-art performance. We conduct comprehensive analysis on the temporal characteristic of BNTT and showcase interesting benefits toward robustness against random and adversarial noise. Further, by monitoring the learnt parameters of BNTT, we find that we can do temporal early exit. That is, we can reduce the inference latency by ~5 − 20 time-steps from the original training latency. The code has been released at https://github.com/Intelligent-Computing-Lab-Yale/BNTT-Batch-Normalization-Through-Time.",
+        "link": "http://dx.doi.org/10.3389/fnins.2021.773954"
+    },
+    {
+        "id": 4752,
+        "title": "Crowd Counting via Joint SASNet and a Guided Batch Normalization Network",
+        "authors": "Cengizhan Haldız, Sarmad F. Ismael, Hasari Çelebi, Erchan Aptoula",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223901"
+    },
+    {
+        "id": 4753,
+        "title": "Batch Normalization Processor Design for Convolution Neural Network Training and Inference",
+        "authors": "Yu-Sheng Ting, Yu-Fan Teng, Tzi-Dar Chiueh",
+        "published": "2021-5",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iscas51556.2021.9401434"
+    },
+    {
+        "id": 4754,
+        "title": "A Lip Reading Model Using CNN with Batch Normalization",
+        "authors": "Saquib NadeemHashmi, Harsh Gupta, Dhruv Mittal, Kaushtubh Kumar, Aparajita Nanda, Sarishty Gupta",
+        "published": "2018-8",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ic3.2018.8530509"
+    },
+    {
+        "id": 4755,
+        "title": "Batch Normalization Based Convolutional Neural Network for Segmentation and Classification of Brain Tumor MRI Images",
+        "authors": "",
+        "published": "2024-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.22266/ijies2024.0430.04"
+    },
+    {
+        "id": 4756,
+        "title": "BVU-Net: A U-Net Modification by VGG-Batch Normalization for Retinal Blood  Vessel Segmentation",
+        "authors": "",
+        "published": "2022-12-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.22266/ijies2022.1231.29"
+    },
+    {
+        "id": 4757,
+        "title": "Impact of L<sub>1</sub> Batch Normalization on Analog Noise Resistant Property of Deep Learning Models",
+        "authors": "Omobayode Fagbohungbe, Lijun Qian",
+        "published": "2022-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ijcnn55064.2022.9892222"
+    },
+    {
+        "id": 4758,
+        "title": "An Empirical Study on Position of the Batch Normalization Layer in Convolutional Neural Networks",
+        "authors": "Moein Hasani, Hassan Khotanlou",
+        "published": "2019-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icspis48872.2019.9066113"
+    },
+    {
+        "id": 4759,
+        "title": "Cross-view Self-supervised Learning via Momentum Statistics in Batch Normalization",
+        "authors": "Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama",
+        "published": "2021-9-15",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icce-tw52618.2021.9603107"
+    },
+    {
+        "id": 4760,
+        "title": "Optimizing Hyperspectral Imaging Classification Performance with CNN and Batch Normalization",
+        "authors": "Guyang Zhang, Waleed Abdulla",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": " Background: Hyperspectral imaging systems face numerous challenges in acquiring accurate spatial-spectral hypercubes due to sample surface heterogeneity, environmental instability, and instrumental noise. Preprocessing strategies such as outlier detection, calibration, smoothing, and normalization are typically employed to address these issues, selecting appropriate techniques based on prediction performance evaluation. However, the risk of misusing inappropriate preprocessing methods remains a concern. Methods: In this study, we evaluate the impact of five normalization methods on the classification performance of six different classifiers using honey hyperspectral images. Our results show that different classifiers have varying compatible normalization techniques and that using Batch Normalization with Convolutional Neural Networks (CNN) can significantly improve classification performance and diminish the variations among other normalization techniques. The CNN with Batch Normalization can achieve a macro average F1 score of ≥0.99 with four different normalization methods and ≥0.97 without normalization. Furthermore, we analyze kernel weights' distribution in the CNN models' final convolutional layers using statistical measurements and kernel density estimation (KDE) graphs. Results: We find that the performance improvements resulting from adding BatchNorm layers are associated with kernel weight range, kurtosis, and density around 0. However, the differences among normalization methods do not show a strong correlation with kernel weight distribution. In conclusion, our findings demonstrate that the CNN with Batch Normalization layers can achieve better prediction results and avoid the risk of inappropriate normalization. ",
+        "link": "http://dx.doi.org/10.1177/27551857231204622"
+    },
+    {
+        "id": 4761,
+        "title": "Heuristic normalization procedure for batch effect correction",
+        "authors": "Arthur Yosef, Eli Shnaider, Moti Schneider, Michael Gurevich",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08049-4"
+    },
+    {
+        "id": 4762,
+        "title": "Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks",
+        "authors": "Saurabh Singh, Shankar Krishnan",
+        "published": "2020-6",
+        "citations": 51,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr42600.2020.01125"
+    },
+    {
+        "id": 4763,
+        "title": "A Batch Normalization Autoencoder Model for Breast Cancer Multidimensional Follow-up Data",
+        "authors": "Xuan Liu, Zhiguo Shi, Xue Zhang, Chun Yang",
+        "published": "2018-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/smartiot.2018.00040"
+    },
+    {
+        "id": 4764,
+        "title": "Improving Classification Performance of Softmax Loss Function Based on Scalable Batch-Normalization",
+        "authors": "Qiuyu Zhu, Zikuang He, Tao Zhang, Wennan Cui",
+        "published": "2020-4-24",
+        "citations": 27,
+        "abstract": "Convolutional neural networks (CNNs) have made great achievements on computer vision tasks, especially the image classification. With the improvement of network structure and loss functions, the performance of image classification is getting higher and higher. The classic Softmax + cross-entropy loss has been the norm for training neural networks for years, which is calculated from the output probability of the ground-truth class. Then the network’s weight is updated by gradient calculation of the loss. However, after several epochs of training, the back-propagation errors usually become almost negligible. For the above considerations, we proposed that batch normalization with adjustable scale could be added after network output to alleviate the problem of vanishing gradient problem in deep learning. The experimental results show that our method can significantly improve the final classification accuracy on different network structures, and is also better than many other improved classification Loss.",
+        "link": "http://dx.doi.org/10.3390/app10082950"
+    },
+    {
+        "id": 4765,
+        "title": "FEDBS: Learning on Non-IID Data in Federated Learning using Batch Normalization",
+        "authors": "Meryem Janati Idrissi, Ismail Berrada, Guevara Noubir",
+        "published": "2021-11",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ictai52525.2021.00138"
+    },
+    {
+        "id": 4766,
+        "title": "Batch Normalization in Convolutional Neural Networks — A comparative study with CIFAR-10 data",
+        "authors": "Vignesh Thakkar, Suman Tewary, Chandan Chakraborty",
+        "published": "2018-1",
+        "citations": 62,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eait.2018.8470438"
+    },
+    {
+        "id": 4767,
+        "title": "Meta Batch-Instance Normalization for Generalizable Person Re-Identification",
+        "authors": "Seokeon Choi, Taekyung Kim, Minki Jeong, Hyoungseob Park, Changick Kim",
+        "published": "2021-6",
+        "citations": 72,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr46437.2021.00343"
+    },
+    {
+        "id": 4768,
+        "title": "Domain-Specific Batch Normalization for Unsupervised Domain Adaptation",
+        "authors": "Woong-Gi Chang, Tackgeun You, Seonguk Seo, Suha Kwak, Bohyung Han",
+        "published": "2019-6",
+        "citations": 216,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2019.00753"
+    },
+    {
+        "id": 4769,
+        "title": "Batch Normalization Preconditioning for Stochastic Gradient Langevin Dynamics",
+        "authors": "Susanna Lange, Wei Deng, Qiang Ye, Guang Lin",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4208/jml.220726a"
+    },
+    {
+        "id": 4770,
+        "title": "Artificial Neural Network with Dropout and Batch Normalization Applied on Diabetic Patient Data",
+        "authors": "Alejandro Malla, Pallav Kumar Bera",
+        "published": "2023-7-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iceccme57830.2023.10252319"
+    },
+    {
+        "id": 4771,
+        "title": "A novel enhanced normalization technique for a mandible bones segmentation using deep learning: batch normalization with the dropout",
+        "authors": "Nazish Talat, Abeer Alsadoon, P. W. C. Prasad, Ahmed Dawoud, Tarik A. Rashid, Sami Haddad",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11042-022-13399-6"
+    },
+    {
+        "id": 4772,
+        "title": "Microservice Container Load Trend Prediction based on Informer and Batch Normalization",
+        "authors": "Dequan Gao, Meng Yang, Bing Zhang, Bao Feng",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aees59800.2023.10469263"
+    },
+    {
+        "id": 4773,
+        "title": "Batch-Normalization-based Soft Filter Pruning for Deep Convolutional Neural Networks",
+        "authors": "Xiaozhou Xu, Qiming Chen, Lei Xie, Hongye Su",
+        "published": "2020-12-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icarcv50220.2020.9305319"
+    },
+    {
+        "id": 4774,
+        "title": "Cross-Subject EEG Linear Domain Adaption Based on Batch Normalization and Depthwise Convolutional Neural Network",
+        "authors": "Guofa Li, Delin Ouyang, Liu Yang, Qingkun Li, Kai Tian, Baiheng Wu, Gang Guo",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4420267"
+    },
+    {
+        "id": 4775,
+        "title": "Improved Topic-bound Caption Generation with VGG-19, Batch Normalization, and Subword-based Tokenization",
+        "authors": "Hidekazu Yanagimoto, Kiyota Hashimoto",
+        "published": "2022-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iiai-aai-winter58034.2022.00020"
+    },
+    {
+        "id": 4776,
+        "title": "Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift",
+        "authors": "Xiang Li, Shuo Chen, Xiaolin Hu, Jian Yang",
+        "published": "2019-6",
+        "citations": 140,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cvpr.2019.00279"
+    },
+    {
+        "id": 4777,
+        "title": "Sandwich Batch Normalization: A Drop-In Replacement for Feature Distribution Heterogeneity",
+        "authors": "Xinyu Gong, Wuyang Chen, Tianlong Chen, Zhangyang Wang",
+        "published": "2022-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wacv51458.2022.00301"
+    },
+    {
+        "id": 4778,
+        "title": "Batch Normalization Increases Adversarial Vulnerability and Decreases Adversarial Transferability: A Non-Robust Feature Perspective",
+        "authors": "Philipp Benz, Chaoning Zhang, In So Kweon",
+        "published": "2021-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccv48922.2021.00772"
+    },
+    {
+        "id": 4779,
+        "title": "Data Matrix Normalization and Merging Strategies Minimize Batch-specific Systemic Variation in scRNA-Seq Data",
+        "authors": "Benjamin R. Babcock, Astrid Kosters, Junkai Yang, Mackenzie L. White, Eliver E. B. Ghosn",
+        "published": "No Date",
+        "citations": 3,
+        "abstract": "AbstractSingle-cell RNA sequencing (scRNA-seq) can reveal accurate and sensitive RNA abundance in a single sample, but robust integration of multiple samples remains challenging. Large-scale scRNA-seq data generated by different workflows or laboratories can contain batch-specific systemic variation. Such variation challenges data integration by confounding sample-specific biology with undesirable batch-specific systemic effects. Therefore, there is a need for guidance in selecting computational and experimental approaches to minimize batch-specific impacts on data interpretation and a need to empirically evaluate the sources of systemic variation in a given dataset. To uncover the contributions of experimental variables to systemic variation, we intentionally perturb four potential sources of batch-effect in five human peripheral blood samples. We investigate sequencing replicate, sequencing depth, sample replicate, and the effects of pooling libraries for concurrent sequencing. To quantify the downstream effects of these variables on data interpretation, we introduced a new scoring metric, the Cell Misclassification Statistic (CMS), which identifies losses to cell type fidelity that occur when merging datasets of different batches. CMS reveals an undesirable overcorrection by popular batch-effect correction and data integration methods. We show that optimizing gene expression matrix normalization and merging can reduce the need for batch-effect correction and minimize the risk of overcorrecting true biological differences between samples.",
+        "link": "http://dx.doi.org/10.1101/2021.08.18.456898"
+    },
+    {
+        "id": 4780,
+        "title": "An Attention-Based CNN with Batch Normalization Model for Network Intrusion Detection",
+        "authors": "Lin Li, Jieru Mu, Hua He, Cong Liu",
+        "published": "2021-10-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac53003.2021.9727384"
+    },
+    {
+        "id": 4781,
+        "title": "Adaptation of a Multi-Site Network to a New Clinical Site Via Batch-Normalization Similarity",
+        "authors": "Shira Kasten Serlin, Jacob Goldberger, Hayit Greenspan",
+        "published": "2022-3-28",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/isbi52829.2022.9761487"
+    },
+    {
+        "id": 4782,
+        "title": "Enhancing sentence semantic matching with isotropic batch normalization and generalized pooling operator",
+        "authors": "Yingjie Shuai",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.3026682"
+    },
+    {
+        "id": 4783,
+        "title": "On-Chip Memory Based Binarized Convolutional Deep Neural Network Applying Batch Normalization Free Technique on an FPGA",
+        "authors": "Haruyoshi Yonekawa, Hiroki Nakahara",
+        "published": "2017-5",
+        "citations": 66,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ipdpsw.2017.95"
+    },
+    {
+        "id": 4784,
+        "title": "Attention Mechanism and Representative Batch Normalization Model for Scene Text Recognition",
+        "authors": "Ling Wang, Kexin Luo, Peng Wang, Yane Bai",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eiecs59936.2023.10435519"
+    },
+    {
+        "id": 4785,
+        "title": "The Speed Improvement by Merging Batch Normalization into Previously Linear Layer in CNN",
+        "authors": "Jie Duan, RuiXin Zhang, Jiahu Huang, Qiuyu Zhu",
+        "published": "2018-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icalip.2018.8455587"
+    },
+    {
+        "id": 4786,
+        "title": "Deep Neural Networks with Batch Speaker Normalization for Intoxicated Speech Detection",
+        "authors": "Weiqing Wang, Haiwei Wu, Ming Li",
+        "published": "2019-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/apsipaasc47483.2019.9023074"
+    },
+    {
+        "id": 4787,
+        "title": "Improving the lenet with batch normalization and online hard example mining for digits recognition",
+        "authors": "Yiliang Xie, Hongyuan Jin, Eric C.C. Tsang",
+        "published": "2017-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icwapr.2017.8076680"
+    },
+    {
+        "id": 4788,
+        "title": "Tooth and Supporting Tissue Anomalies Detection from Panoramic Radiography Using Integrating Convolution Neural Network with Batch Normalization",
+        "authors": "",
+        "published": "2024-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.22266/ijies2024.0430.19"
+    },
+    {
+        "id": 4789,
+        "title": "Influence of Batch Normalization on Convolutional Neural Networks in HRRP Target Recognition",
+        "authors": "Zhequan Fu, Shangsheng Li, Xiangping Li, Bo Dan, Xukun Wang",
+        "published": "2019-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/aces48530.2019.9060588"
+    },
+    {
+        "id": 4790,
+        "title": "Theoretical analysis of skip connections and batch normalization from generalization and optimization perspectives",
+        "authors": "Yasutaka Furusho, Kazushi Ikeda",
+        "published": "2020",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/atsip.2020.7"
+    },
+    {
+        "id": 4791,
+        "title": "Improving Gated Recurrent Unit Based Acoustic Modeling with Batch Normalization and Enlarged Context",
+        "authors": "Jie Li, Yahui Shan, Xiaorui Wang, Yan Li",
+        "published": "2018-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iscslp.2018.8706567"
+    },
+    {
+        "id": 4792,
+        "title": "The Effect of Normalization and Batch Normalization Layers in CNNs Models: Application to Plant Disease Classifications",
+        "authors": "Saloua Lagnaoui, Zakariae En-Naimani, Khalid Haddouch",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-28387-1_22"
+    },
+    {
+        "id": 4793,
+        "title": "Momentum Batch Normalization for Deep Learning with Small Batch Size",
+        "authors": "Hongwei Yong, Jianqiang Huang, Deyu Meng, Xiansheng Hua, Lei Zhang",
+        "published": "2020",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-58610-2_14"
+    },
+    {
+        "id": 4794,
+        "title": "IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization",
+        "authors": "Wenxuan Zhou, Bill Yuchen Lin, Xiang Ren",
+        "published": "2021-5-18",
+        "citations": 8,
+        "abstract": "Fine-tuning pre-trained language models (PTLMs), such as BERT and its better variant RoBERTa, has been a common practice for advancing performance in natural language understanding (NLU) tasks. Recent advance in representation learning shows that isotropic (i.e., unit-variance and uncorrelated) embeddings can significantly improve performance on downstream tasks with faster convergence and better generalization. The isotropy of the pre-trained embeddings in PTLMs, however, is relatively under-explored. In this paper, we analyze the isotropy of the pre-trained [CLS] embeddings of PTLMs with straightforward visualization, and point out two major issues: high variance in their standard deviation, and high correlation between different dimensions. We also propose a new network regularization method, isotropic batch normalization (IsoBN) to address the issues, towards learning more isotropic representations in fine-tuning by dynamically penalizing dominating principal components. This simple yet effective fine-tuning method yields about 1.0 absolute increment on the average of seven NLU tasks.",
+        "link": "http://dx.doi.org/10.1609/aaai.v35i16.17718"
+    },
+    {
+        "id": 4795,
+        "title": "Double Forward Propagation for Memorized Batch Normalization",
+        "authors": "Yong Guo, Qingyao Wu, Chaorui Deng, Jian Chen, Mingkui Tan",
+        "published": "2018-4-29",
+        "citations": 9,
+        "abstract": "\n      \n        Batch Normalization (BN) has been a standard component in designing deep neural networks (DNNs). Although the standard BN can significantly accelerate the training of DNNs and improve the generalization performance, it has several underlying limitations which may hamper the performance in both training and inference. In the training stage, BN relies on estimating the mean and variance of data using a single mini-batch. Consequently, BN can be unstable when the batch size is very small or the data is poorly sampled. In the inference stage, BN often uses the so called moving mean and moving variance instead of batch statistics, i.e., the training and inference rules in BN are not consistent. Regarding these issues, we propose a memorized batch normalization (MBN), which considers multiple recent batches to obtain more accurate and robust statistics. Note that after the SGD update for each batch, the model parameters will change, and the features will change accordingly, leading to the Distribution Shift before and after the update for the considered batch. To alleviate this issue, we present a simple Double-Forward scheme in MBN which can further improve the performance. Compared to related methods, the proposed MBN exhibits consistent behaviors in both training and inference. Empirical results show that the MBN based models trained with the Double-Forward scheme greatly reduce the sensitivity of data and significantly improve the generalization performance.\n      \n    ",
+        "link": "http://dx.doi.org/10.1609/aaai.v32i1.11717"
+    },
+    {
+        "id": 4796,
+        "title": "Separating the Effects of Batch Normalization on CNN Training Speed and Stability Using Classical Adaptive Filter Theory",
+        "authors": "Elaina Chai, Mert Pilanci, Boris Murmann",
+        "published": "2020-11-1",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ieeeconf51394.2020.9443275"
+    },
+    {
+        "id": 4797,
+        "title": "BNReLU: Combine Batch Normalization and Rectified Linear Unit to Reduce Hardware Overhead",
+        "authors": "Jiexian Ge, Xiaoxin Cui, Kanglin Xiao, Chenglong Zou, YiHsiang Chen, Rongshan Wei",
+        "published": "2019-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asicon47005.2019.8983577"
+    },
+    {
+        "id": 4798,
+        "title": "Compound Batch Normalization for Long-tailed Image Classification",
+        "authors": "Lechao Cheng, Chaowei Fang, Dingwen Zhang, Guanbin Li, Gang Huang",
+        "published": "2022-10-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3503161.3547805"
+    },
+    {
+        "id": 4799,
+        "title": "A New Approach for Fault Diagnosis of Rolling Bearings Based on Adaptive Batch Normalization and Attention Mechanism",
+        "authors": "Jingwen Hu, Yashun Wang, Xun Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3850/978-981-18-8071-1_p718-cd"
+    },
+    {
+        "id": 4800,
+        "title": "An Effective Recurrent Neural Network For Image Denoising With Long Short-Term Memory Founded Batch Normalization",
+        "authors": "Girish Kalele",
+        "published": "2023-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ihcsp56702.2023.10127178"
+    }
+]

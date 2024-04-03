@@ -1,0 +1,902 @@
+[
+    {
+        "id": 21871,
+        "title": "What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons",
+        "authors": "Ji Xin, Jimmy Lin, Yaoliang Yu",
+        "published": "2019",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1591"
+    },
+    {
+        "id": 21872,
+        "title": "AMR Parsing using Stack-LSTMs",
+        "authors": "Miguel Ballesteros, Yaser Al-Onaizan",
+        "published": "2017",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d17-1130"
+    },
+    {
+        "id": 21873,
+        "title": "Certified Robustness to Programmable Transformations in LSTMs",
+        "authors": "Yuhao Zhang, Aws Albarghouthi, Loris D’Antoni",
+        "published": "2021",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.emnlp-main.82"
+    },
+    {
+        "id": 21874,
+        "title": "Fundamentals for Robotic Natural Language Understanding",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-3"
+    },
+    {
+        "id": 21875,
+        "title": "Transition-Based Disfluency Detection using LSTMs",
+        "authors": "Shaolei Wang, Wanxiang Che, Yue Zhang, Meishan Zhang, Ting Liu",
+        "published": "2017",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d17-1296"
+    },
+    {
+        "id": 21876,
+        "title": "State-of-the-art Chinese Word Segmentation with Bi-LSTMs",
+        "authors": "Ji Ma, Kuzman Ganchev, David Weiss",
+        "published": "2018",
+        "citations": 34,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-1529"
+    },
+    {
+        "id": 21877,
+        "title": "Computational Model of Japanese for Natural Language Understanding",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-13"
+    },
+    {
+        "id": 21878,
+        "title": "Do LSTMs really work so well for PoS tagging? – A replication study",
+        "authors": "Tobias Horsmann, Torsten Zesch",
+        "published": "2017",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d17-1076"
+    },
+    {
+        "id": 21879,
+        "title": "Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs",
+        "authors": "Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier",
+        "published": "2018",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-1221"
+    },
+    {
+        "id": 21880,
+        "title": "Human Language Understanding by Robots",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-10"
+    },
+    {
+        "id": 21881,
+        "title": "4D Language Understanding for Cognitive Robotics",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-11"
+    },
+    {
+        "id": 21882,
+        "title": "Jointly learning sentence embeddings and syntax with unsupervised Tree-LSTMs",
+        "authors": "Jean Maillard, Stephen Clark, Dani Yogatama",
+        "published": "2019-7",
+        "citations": 10,
+        "abstract": "AbstractWe present two studies on neural network architectures that learn to represent sentences by composing their words according to automatically induced binary trees, without ever being shown a correct parse tree. We use Tree-Long Short-Term Memories (LSTMs) as our composition function, applied along a tree structure found by a differentiable natural language chart parser. The models simultaneously optimise both the composition function and the parser, thus eliminating the need for externally provided parse trees, which are normally required for Tree-LSTMs. They can therefore be seen as tree-based recurrent neural networks that are unsupervised with respect to the parse trees. Due to being fully differentiable, the models are easily trained with an off-the-shelf gradient descent method and backpropagation.In the first part of this paper, we introduce a model based on the CKY chart parser, and evaluate its downstream performance on a natural language inference task and a reverse dictionary task. Further, we show how its performance can be improved with an attention mechanism which fully exploits the parse chart, by attending over all possible subspans of the sentence. We find that our approach is competitive against similar models of comparable size and outperforms Tree-LSTMs that use trees produced by a parser.Finally, we present an alternative architecture based on a shift-reduce parser. We perform an analysis of the trees induced by both our models, to investigate whether they are consistent with each other and across re-runs, and whether they resemble the trees produced by a standard parser.",
+        "link": "http://dx.doi.org/10.1017/s1351324919000184"
+    },
+    {
+        "id": 21883,
+        "title": "Interpretable Emoji Prediction via Label-Wise Attention LSTMs",
+        "authors": "Francesco Barbieri, Luis Espinosa-Anke, Jose Camacho-Collados, Steven Schockaert, Horacio Saggion",
+        "published": "2018",
+        "citations": 25,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-1508"
+    },
+    {
+        "id": 21884,
+        "title": "Robotic Imitation Guidedby Natural Language",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-15"
+    },
+    {
+        "id": 21885,
+        "title": "Natural Language Processing Viewed from Semantics",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-2"
+    },
+    {
+        "id": 21886,
+        "title": "Natural Language Understanding",
+        "authors": "",
+        "published": "2021-9-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7551/mitpress/12761.003.0007"
+    },
+    {
+        "id": 21887,
+        "title": "Massively Multilingual Natural Language Understanding 2022 (MMNLU-22) Workshop and Competition",
+        "authors": "Jack FitzGerald, Christopher Hench, Charith Peris, Kay Rottmann",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.mmnlu-1.9"
+    },
+    {
+        "id": 21888,
+        "title": "World Knowledge for Reading Comprehension: Rare Entity Prediction\n            with Hierarchical LSTMs Using External Descriptions",
+        "authors": "Teng Long, Emmanuel Bengio, Ryan Lowe, Jackie Chi Kit Cheung, Doina Precup",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d17-1086"
+    },
+    {
+        "id": 21889,
+        "title": "BERT-hLSTMs: BERT and hierarchical LSTMs for visual storytelling",
+        "authors": "Jing Su, Qingyun Dai, Frank Guerin, Mian Zhou",
+        "published": "2021-5",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.csl.2020.101169"
+    },
+    {
+        "id": 21890,
+        "title": "Natural Language Understanding and Cognitive Robotics",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391"
+    },
+    {
+        "id": 21891,
+        "title": "Simplified LSTMS for Speech Recognition",
+        "authors": "George Saon, Zoltan Tuske, Kartik Audhkhasi, Brian Kingsbury, Michael Picheny, Samuel Thomas",
+        "published": "2019-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/asru46091.2019.9003898"
+    },
+    {
+        "id": 21892,
+        "title": "A Joint Model based on CNN-LSTMs in Dialogue Understanding",
+        "authors": "Xinlu Zhao, E Haihong, Meina Song",
+        "published": "2018-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciscae.2018.8666842"
+    },
+    {
+        "id": 21893,
+        "title": "Implementation of Mental-Image Based Understanding",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-14"
+    },
+    {
+        "id": 21894,
+        "title": "Understanding Natural Language Beyond Surface by LLMs",
+        "authors": "Yong Yang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.22541/essoar.170689204.48921663/v1"
+    },
+    {
+        "id": 21895,
+        "title": "Temperature Prediction at FAST using LSTMs",
+        "authors": "Silvia Peiro, Jinhao Ruan",
+        "published": "2022-7-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/1879659"
+    },
+    {
+        "id": 21896,
+        "title": "Multilingual Operation via Mental Image Description Language",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-12"
+    },
+    {
+        "id": 21897,
+        "title": "Introduction",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-1"
+    },
+    {
+        "id": 21898,
+        "title": "Proceedings of the Massively Multilingual Natural Language Understanding Workshop (MMNLU-22)",
+        "authors": "",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.mmnlu-1"
+    },
+    {
+        "id": 21899,
+        "title": "II. Natural Language Understanding, Processing, and Generation: Investment Applications",
+        "authors": "Larry Cao",
+        "published": "2023-3-27",
+        "citations": 0,
+        "abstract": "Executives from AllianceBernstein, Two Centuries Investments, Applied AI, and Off-Script Systems share a litany of foundational and state-of-the-art natural language processing. Learn best practices for open-source models and proprietary fine tuning.",
+        "link": "http://dx.doi.org/10.56227/23.1.8"
+    },
+    {
+        "id": 21900,
+        "title": "Generating Textual Entailment Using Residual LSTMs",
+        "authors": "Maosheng Guo, Yu Zhang, Dezhi Zhao, Ting Liu",
+        "published": "2017",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-69005-6_22"
+    },
+    {
+        "id": 21901,
+        "title": "Semi-Supervised Neural Text Generation by Joint Learning of Natural Language Generation and Natural Language Understanding Models",
+        "authors": "Raheel Qader, François Portet, Cyril Labbé",
+        "published": "2019",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-8669"
+    },
+    {
+        "id": 21902,
+        "title": "Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models",
+        "authors": "Taichi Iki, Akiko Aizawa",
+        "published": "2021",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.emnlp-main.167"
+    },
+    {
+        "id": 21903,
+        "title": "Accelerating Natural Language Understanding in Task-Oriented Dialog",
+        "authors": "Ojas Ahuja, Shrey Desai",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.nlp4convai-1.6"
+    },
+    {
+        "id": 21904,
+        "title": "Formal System",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-6"
+    },
+    {
+        "id": 21905,
+        "title": "Child-Sum (N2e2n)Tree-Lstms: An Interactive Child-Sum Tree-Lstms to Extract Biomedical Event",
+        "authors": "Lei Wang, Han Cao, Liu Yuan",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4610636"
+    },
+    {
+        "id": 21906,
+        "title": "Human-Specific Semantics of 4D Language as Mental Images",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-8"
+    },
+    {
+        "id": 21907,
+        "title": "Using Natural Language Understanding",
+        "authors": "Nishith Pathak",
+        "published": "2017",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4842-2949-1_4"
+    },
+    {
+        "id": 21908,
+        "title": "Learning to Embed Semantic Correspondence for Natural Language Understanding",
+        "authors": "Sangkeun Jung, Jinsik Lee, Jiwon Kim",
+        "published": "2018",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/k18-1013"
+    },
+    {
+        "id": 21909,
+        "title": "FastFormers: Highly Efficient Transformer Models for Natural Language Understanding",
+        "authors": "Young Jin Kim, Hany Hassan",
+        "published": "2020",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.sustainlp-1.20"
+    },
+    {
+        "id": 21910,
+        "title": "JGLUE: Japanese General Language Understanding Evaluation",
+        "authors": "Kentaro Kurihara, Daisuke Kawahara, Tomohide Shibata",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5715/jnlp.30.63"
+    },
+    {
+        "id": 21911,
+        "title": "JGLUE: Japanese General Language Understanding Evaluation",
+        "authors": "Kentaro Kurihara, Daisuke Kawahara, Tomohide Shibata",
+        "published": "2022",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5715/jnlp.29.711"
+    },
+    {
+        "id": 21912,
+        "title": "Semantic vector learning for natural language understanding",
+        "authors": "Sangkeun Jung",
+        "published": "2019-7",
+        "citations": 31,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.csl.2018.12.008"
+    },
+    {
+        "id": 21913,
+        "title": "RTFM: Towards Understanding Source Code using Natural Language Processing",
+        "authors": "Maximilian Galanis, Vincent Dietrich, Bernd Kast, Michael Fiegert",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0009826604300437"
+    },
+    {
+        "id": 21914,
+        "title": "Understanding Natural Language (and Jeopardy! Questions)",
+        "authors": "",
+        "published": "2018-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7551/mitpress/11440.003.0015"
+    },
+    {
+        "id": 21915,
+        "title": "Debiasing Methods in Natural Language Understanding Make Bias More Accessible",
+        "authors": "Michael Mendelson, Yonatan Belinkov",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.emnlp-main.116"
+    },
+    {
+        "id": 21916,
+        "title": "MeDAL: Medical Abbreviation Disambiguation Dataset for Natural Language Understanding Pretraining",
+        "authors": "Zhi Wen, Xing Han Lu, Siva Reddy",
+        "published": "2020",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.clinicalnlp-1.15"
+    },
+    {
+        "id": 21917,
+        "title": "Leveraging Affirmative Interpretations from Negation Improves Natural Language Understanding",
+        "authors": "Md Mosharaf Hossain, Eduardo Blanco",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.393"
+    },
+    {
+        "id": 21918,
+        "title": "Understanding understanding and ambiguity in natural language",
+        "authors": "Philip Jackson",
+        "published": "2020",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.procs.2020.02.138"
+    },
+    {
+        "id": 21919,
+        "title": "Towards Natural Language Story Understanding with Rich Logical Schemas",
+        "authors": "Gene Louis Kim, Lane Lawley, Lenhart Schubert",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-1102"
+    },
+    {
+        "id": 21920,
+        "title": "Underspecification in Natural Language Understanding for Dialog Automation",
+        "authors": "John Chen,  , Srinivas Bangalore",
+        "published": "2017-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.26615/978-954-452-049-6_023"
+    },
+    {
+        "id": 21921,
+        "title": "Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding",
+        "authors": "Shuwen Deng, Paul Prasse, David Reich, Tobias Scheffer, Lena Jäger",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.400"
+    },
+    {
+        "id": 21922,
+        "title": "Deep Natural Language Understanding of News Text",
+        "authors": "Jaya Shree, Emily Liu, Andrew Gordon, Jerry Hobbs",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w19-2403"
+    },
+    {
+        "id": 21923,
+        "title": "Occam’s Adaptation: A Comparison of Interpolation of Bases Adaptation Methods for Multi-Dialect Acoustic Modeling with LSTMS",
+        "authors": "Mikaela Grace, Meysam Bastani, Eugene Weinstein",
+        "published": "2018-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/slt.2018.8639654"
+    },
+    {
+        "id": 21924,
+        "title": "The Relationship Between Language and Speech: Formal Understanding of Natural Symbology",
+        "authors": "邹 晓辉, 邹 顺鹏",
+        "published": "2022-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.57237/j.cll.2022.01.003"
+    },
+    {
+        "id": 21925,
+        "title": "Pushing the boundaries of audiovisual word recognition using Residual Networks and LSTMs",
+        "authors": "Themos Stafylakis, Muhammad Haris Khan, Georgios Tzimiropoulos",
+        "published": "2018-11",
+        "citations": 35,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.cviu.2018.10.003"
+    },
+    {
+        "id": 21926,
+        "title": "Computational Model of Mental Image",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-5"
+    },
+    {
+        "id": 21927,
+        "title": "Child_Sum EATree-LSTMs: Enhanced Attentive Child_Sum Tree-LSTMs for Biomedical Event Extraction",
+        "authors": "Lei Wang, Han Cao, Liu Yuan, Xiaoxu Guo, Yachao Cui",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\n The tree-structured neural network can deeply extract lexical representations of sentence syntactic structure. Some studies have utilized Recursive Neural Network to detect event triggers.\nMethods\n We incorporate the attention mechanism into Child-Sum Tree-LSTMs for the task of biomedical event triggers. Based on the previous research, we incorporated attention mechanism into Child-Sum Tree-LSTMs to assign an attention weight for the adjacent nodes to detect the biomedical event trigger words. The existing shallow syntactic dependencies in Child-Sum Tree-LSTMs ignore the deep syntactic dependencies. To enhance the effect of attention mechanism, we integrate the enhanced attention mechanism into the Child-Sum Tree-LSTMs model using the deep syntactic dependencies.\nResults\n Our proposed model integrating an enhanced the attention mechanism in Tree-LSTM on MLEE and BioNLP’09 both show best performance. The model also achieves the better performance on almost all of the complex event categories on the test set of BioNLP’09/11/13.\nConclusion\n We evaluate the model performance on the MLEE and BioNLP datasets, and the experimental results demonstrate the advantage of enhanced attention to detect biomedical event trigger words.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2572039/v1"
+    },
+    {
+        "id": 21928,
+        "title": "Natural language understanding",
+        "authors": "Janet Finlay, Alan Dix",
+        "published": "2020-10-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003072485-7"
+    },
+    {
+        "id": 21929,
+        "title": "Understanding Natural Language",
+        "authors": "Morton Wagman",
+        "published": "2018-5-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4324/9781351062909-5"
+    },
+    {
+        "id": 21930,
+        "title": "Challenges in natural language processing and natural language understanding by considering both technical and natural domains",
+        "authors": "Pouya Ardehkhani, Amir Vahedi, Hossein Aghababa",
+        "published": "2023-2-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ipria59240.2023.10147185"
+    },
+    {
+        "id": 21931,
+        "title": "Using Alternate Representations of Text for Natural Language Understanding",
+        "authors": "Venkat Varada, Charith Peris, Yangsook Park, Christopher Dipersio",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.nlp4convai-1.1"
+    },
+    {
+        "id": 21932,
+        "title": "HIT-SCIR at MMNLU-22: Consistency Regularization for Multilingual Spoken Language Understanding",
+        "authors": "Bo Zheng, Zhouyang Li, Fuxuan Wei, Qiguang Chen, Libo Qin, Wanxiang Che",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.mmnlu-1.4"
+    },
+    {
+        "id": 21933,
+        "title": "Improving Natural Language Understanding by Reverse Mapping Bytepair Encoding",
+        "authors": "Chaodong Tong, Huailiang Peng, Qiong Dai, Lei Jiang, Jianghua Huang",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/k19-1016"
+    },
+    {
+        "id": 21934,
+        "title": "Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks",
+        "authors": "Zi-Yi Dou, Keyi Yu, Antonios Anastasopoulos",
+        "published": "2019",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1112"
+    },
+    {
+        "id": 21935,
+        "title": "AI Natural Language Understanding And LexGLUE Benchmarking",
+        "authors": "Lance Eliot",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3969476"
+    },
+    {
+        "id": 21936,
+        "title": "Learning to Read Maps: Understanding Natural Language Instructions from Unseen Maps",
+        "authors": "Miltiadis Marios Katsakioris, Ioannis Konstas, Pierre Yves Mignotte, Helen Hastie",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.splurobonlp-1.2"
+    },
+    {
+        "id": 21937,
+        "title": "Natural Language Understanding",
+        "authors": "",
+        "published": "2021-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1142/9789811223723_0011"
+    },
+    {
+        "id": 21938,
+        "title": "Using LSTMs to Model the Java Programming Language",
+        "authors": "Brendon Boldt",
+        "published": "2017",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-68612-7_31"
+    },
+    {
+        "id": 21939,
+        "title": "Reconstruction Attack on Instance Encoding for Language Understanding",
+        "authors": "Shangyu Xie, Yuan Hong",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2021.emnlp-main.154"
+    },
+    {
+        "id": 21940,
+        "title": "Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding",
+        "authors": "Jianing Wang, Wenkang Huang, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Xiang Li, Ming Gao",
+        "published": "2022",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.207"
+    },
+    {
+        "id": 21941,
+        "title": "Do Language Models Understand Anything? On the Ability of LSTMs to Understand Negative Polarity Items",
+        "authors": "Jaap Jumelet, Dieuwke Hupkes",
+        "published": "2018",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/w18-5424"
+    },
+    {
+        "id": 21942,
+        "title": "Vector-Quantized Input-Contextualized Soft Prompts for Natural Language Understanding",
+        "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
+        "published": "2022",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.455"
+    },
+    {
+        "id": 21943,
+        "title": "Modeling Spaced Repetition with LSTMs",
+        "authors": "Jakub Pokrywka, Marcin Biedalak, Filip Graliński, Krzysztof Biedalak",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0011724000003470"
+    },
+    {
+        "id": 21944,
+        "title": "GeoLM: Empowering Language Models for Geospatially Grounded Language Understanding",
+        "authors": "Zekun Li, Wenxuan Zhou, Yao-Yi Chiang, Muhao Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.317"
+    },
+    {
+        "id": 21945,
+        "title": "Graph-Based Semi-Supervised Learning for Natural Language Understanding",
+        "authors": "Zimeng Qiu, Eunah Cho, Xiaochun Ma, William Campbell",
+        "published": "2019",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-5318"
+    },
+    {
+        "id": 21946,
+        "title": "Natural Language Understanding: Methodological Conceptualization",
+        "authors": "Vitalii Shymko",
+        "published": "2019-4-18",
+        "citations": 2,
+        "abstract": "This article contains the results of a theoretical analysis of the phenomenon of natural language understanding (NLU), as a methodological problem. The combination of structural-ontological and informational-psychological approaches provided an opportunity to describe the subject matter field of NLU, as a composite function of the mind, which systemically combines the verbal and discursive structural layers. In particular, the idea of NLU is presented, on the one hand, as the relation between the discourse of a specific speech message and the meta-discourse of a language, in turn, activated by the need-motivational factors. On the other hand, it is conceptualized as a process with a specific structure of information metabolism, the study of which implies the necessity to differentiate the affective (emotional) and need-motivational influences on the NLU, as well as to take into account their interaction. At the same time, the hypothesis about the influence of needs on NLU under the scenario similar to the pattern of Yerkes-Dodson is argued. And the theoretical conclusion that emotions fulfill the function of the operator of the structural features of the information metabolism of NLU is substantiated. Thus, depending on the modality of emotions in the process of NLU, it was proposed to distinguish two scenarios for the implementation of information metabolism - reduction and synthetic. The argument in favor of the conclusion about the productive and constitutive role of emotions in the process of NLU is also given.",
+        "link": "http://dx.doi.org/10.31470/2309-1797-2019-25-1-431-443"
+    },
+    {
+        "id": 21947,
+        "title": "Problem Finding and Solving in Formal System",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-9"
+    },
+    {
+        "id": 21948,
+        "title": "Data Augmentation with Atomic Templates for Spoken Language Understanding",
+        "authors": "Zijian Zhao, Su Zhu, Kai Yu",
+        "published": "2019",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1375"
+    },
+    {
+        "id": 21949,
+        "title": "Interventional Training for Out-Of-Distribution Natural Language Understanding",
+        "authors": "Sicheng Yu, Jing Jiang, Hao Zhang, Yulei Niu, Qianru Sun, Lidong Bing",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.799"
+    },
+    {
+        "id": 21950,
+        "title": "Will Repeated Reading Benefit Natural Language Understanding?",
+        "authors": "Lei Sha, Feng Qian, Zhifang Sui",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-73618-1_31"
+    },
+    {
+        "id": 21951,
+        "title": "Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision",
+        "authors": "Hao Tan, Mohit Bansal",
+        "published": "2020",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.162"
+    },
+    {
+        "id": 21952,
+        "title": "Cascaded LSTMs Based Deep Reinforcement Learning for Goal-Driven Dialogue",
+        "authors": "Yue Ma, Xiaojie Wang, Zhenjiang Dong, Hong Chen",
+        "published": "2018",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-73618-1_3"
+    },
+    {
+        "id": 21953,
+        "title": "ToddlerBERTa: Exploiting BabyBERTa for Grammar Learning and Language Understanding",
+        "authors": "Ömer Veysel Çağatan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.conll-babylm.14"
+    },
+    {
+        "id": 21954,
+        "title": "Cross-lingual transfer for low-resource Arabic language understanding",
+        "authors": "Khadige Abboud, Olga Golovneva, Christopher DiPersio",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.wanlp-1.21"
+    },
+    {
+        "id": 21955,
+        "title": "CASA-NLU: Context-Aware Self-Attentive Natural Language Understanding for Task-Oriented Chatbots",
+        "authors": "Arshit Gupta, Peng Zhang, Garima Lalwani, Mona Diab",
+        "published": "2019",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1127"
+    },
+    {
+        "id": 21956,
+        "title": "CogCompTime: A Tool for Understanding Time in Natural Language",
+        "authors": "Qiang Ning, Ben Zhou, Zhili Feng, Haoruo Peng, Dan Roth",
+        "published": "2018",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d18-2013"
+    },
+    {
+        "id": 21957,
+        "title": "Child-Sum (N2E2N)Tree-LSTMs: An Interactive Child-Sum Tree-LSTMs to Extract Biomedical Event",
+        "authors": "Lei Wang, Han Cao, Liu Yuan, Yachao Cui, Hongli Yu, Pengfei Sun",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\n LSTM has been presented to overcome the problem of the gradient explosion and explosion. Tree-LSTM could improve the parallel speed of LSTM, and incorporate relevant information from dependency or syntax trees. Tree-LSTM can update gate and memory vectors from multiple sub-units. Learning edge features can strengthen the expression ability of graph neural networks. However, the original Child-Sum Tree-LSTMs ignores edge features during aggregating the sub-nodes hidden states.\nMethods\n we propose an interaction mechanism that can alternately updating nodes and edges vectors, thus the model can learn the richer nodes vectors. The interaction mechanism attaches the node embedding to its connected link at the first stage. Next, it superimposes the updated edge into the parent node once more. Repeat the above steps from bottom to top. We present five strategies during the alternant renewal process. Meanwhile, we adopt two constituent parsers and two dependency parser to produce the diversified formats, and compare their performances in the experiment result.\nResults\n The proposed model obtains the best performance compared with other methods on the BioNLP’09 and MLEE corpuses.\nConclusion\n The experimental results confirm the effectiveness of the interactive mechanism. The parsing results have little impact on the final model performance, but different parsing formats have different results. CoNLL’2008 Dependencies show competitive and superior performance for each parser.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3293933/v1"
+    },
+    {
+        "id": 21958,
+        "title": "Fundamental Postulates and Inference Rules for Deductive System",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-7"
+    },
+    {
+        "id": 21959,
+        "title": "Cognitive Essentials for Mental Image Directed Semantic Theory",
+        "authors": "Masao Yokota",
+        "published": "2019-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429343391-4"
+    },
+    {
+        "id": 21960,
+        "title": "A Brief Overview of Natural Language Understanding by LEIAs",
+        "authors": "",
+        "published": "2021-3-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7551/mitpress/13618.003.0004"
+    },
+    {
+        "id": 21961,
+        "title": "Cross-lingual Transfer Learning with Data Selection for Large-Scale Spoken Language Understanding",
+        "authors": "Quynh Do, Judith Gaspers",
+        "published": "2019",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1153"
+    },
+    {
+        "id": 21962,
+        "title": "Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding",
+        "authors": "Taolin Zhang, Ruyao Xu, Chengyu Wang, Zhongjie Duan, Cen Chen, Minghui Qiu, Dawei Cheng, Xiaofeng He, Weining Qian",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.969"
+    },
+    {
+        "id": 21963,
+        "title": "Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding",
+        "authors": "Caoyun Fan, Jidong Tian, Yitian Li, Wenqing Chen, Hao He, Yaohui Jin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.913"
+    },
+    {
+        "id": 21964,
+        "title": "TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue",
+        "authors": "Chien-Sheng Wu, Steven C.H. Hoi, Richard Socher, Caiming Xiong",
+        "published": "2020",
+        "citations": 53,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2020.emnlp-main.66"
+    },
+    {
+        "id": 21965,
+        "title": "FLUTE: Figurative Language Understanding through Textual Explanations",
+        "authors": "Tuhin Chakrabarty, Arkadiy Saakyan, Debanjan Ghosh, Smaranda Muresan",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2022.emnlp-main.481"
+    },
+    {
+        "id": 21966,
+        "title": "Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets",
+        "authors": "Mor Geva, Yoav Goldberg, Jonathan Berant",
+        "published": "2019",
+        "citations": 46,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/d19-1107"
+    },
+    {
+        "id": 21967,
+        "title": "Understanding Job Requirements Using Natural Language Processing",
+        "authors": "Luka Aničin, Miloš Stojmenović",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.15308/sinteza-2022-457-463"
+    },
+    {
+        "id": 21968,
+        "title": "Improving Bias Mitigation through Bias Experts in Natural Language Understanding",
+        "authors": "Eojin Jeon, Mingyu Lee, Juhyeong Park, Yeachan Kim, Wing-Lam Mok, SangKeun Lee",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.681"
+    },
+    {
+        "id": 21969,
+        "title": "Understanding Motivation for Enrolling in Postdoc Academy: Succeeding as a Postdoc Using Natural Language Processing",
+        "authors": "Ting Sun",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3102/ip.23.2010720"
+    },
+    {
+        "id": 21970,
+        "title": "Natural Language Understanding and Generation",
+        "authors": "Marjorie McShane, Sergei Nirenburg",
+        "published": "2023-5-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1017/9781108755610.033"
+    }
+]

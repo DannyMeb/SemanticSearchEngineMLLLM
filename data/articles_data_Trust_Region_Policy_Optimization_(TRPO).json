@@ -1,0 +1,902 @@
+[
+    {
+        "id": 16571,
+        "title": "Exploring PID Control Constants Using Trust Region Policy Optimization (TRPO) and Proximal Policy Optimization (PPO)",
+        "authors": "Dong-Kyu Lee, Hyeun-Jun Moon",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21086/ksles.2023.12.30.6.642"
+    },
+    {
+        "id": 16572,
+        "title": "Multiagent Simulation On Hide and Seek Games Using Policy Gradient Trust Region Policy Optimization",
+        "authors": "Hani'ah Wafa, Judhi Santoso",
+        "published": "2020-9-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaicta49861.2020.9429052"
+    },
+    {
+        "id": 16573,
+        "title": "Research on Complex Robot Manipulation Tasks Based on Hindsight Trust Region Policy Optimization",
+        "authors": "Deyu Yang, Hanbo Zhang, Xuguang Lan",
+        "published": "2020-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac51589.2020.9327251"
+    },
+    {
+        "id": 16574,
+        "title": "XSS Filter detection using Trust Region Policy Optimization",
+        "authors": "Biswajit Mondal, Abhijit Banerjee, Subir Gupta",
+        "published": "2023-1-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icaisc56366.2023.10085076"
+    },
+    {
+        "id": 16575,
+        "title": "Hindsight Trust Region Policy Optimization",
+        "authors": "Hanbo Zhang, Site Bai, Xuguang Lan, David Hsu, Nanning Zheng",
+        "published": "2021-8",
+        "citations": 1,
+        "abstract": "Reinforcement Learning (RL) with sparse rewards is a major challenge. We pro-\n\npose Hindsight Trust Region Policy Optimization (HTRPO), a new RL algorithm\n\nthat extends the highly successful TRPO algorithm with hindsight to tackle the\n\nchallenge of sparse rewards. Hindsight refers to the algorithm’s ability to learn\n\nfrom information across goals, including past goals not intended for the current\n\ntask. We derive the hindsight form of TRPO, together with QKL, a quadratic\n\napproximation to the KL divergence constraint on the trust region. QKL reduces\n\nvariance in KL divergence estimation and improves stability in policy updates. We\n\nshow that HTRPO has similar convergence property as TRPO. We also present\n\nHindsight Goal Filtering (HGF), which further improves the learning performance\n\nfor suitable tasks. HTRPO has been evaluated on various sparse-reward tasks,\n\nincluding Atari games and simulated robot control. Experimental results show that\n\nHTRPO consistently outperforms TRPO, as well as HPG, a state-of-the-art policy\n\n14 gradient algorithm for RL with sparse rewards.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2021/459"
+    },
+    {
+        "id": 16576,
+        "title": "Matrix Low-Rank Trust Region Policy Optimization",
+        "authors": "Sergio Rozada, Antonio G. Marques",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/camsap58249.2023.10403480"
+    },
+    {
+        "id": 16577,
+        "title": "Consumer-Centric Home Energy Management System Using Trust Region Policy Optimization- Based Multi-Agent Deep Reinforcement Learning",
+        "authors": "Kuthsav Thattai, Jayashri Ravishankar, Chaojie Li",
+        "published": "2023-6-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/powertech55446.2023.10202803"
+    },
+    {
+        "id": 16578,
+        "title": "A Stochastic Trust-Region Framework for Policy Optimization",
+        "authors": "Mingming Zhao, Yongfeng Li, Zaiwen Wen",
+        "published": "2022-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4208/jcm.2104-m2021-0007"
+    },
+    {
+        "id": 16579,
+        "title": "Autonomous Soaring Policy Initialization Through Value Iteration",
+        "authors": "",
+        "published": "2020-1-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2514/6.2021-2012.vid"
+    },
+    {
+        "id": 16580,
+        "title": "Trust region policy optimization-based secondary frequency regulation for isolated microgrid with voltage constraint",
+        "authors": "S. Zeng, C. Huang, F. Wang, X. Li, M. Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/icp.2023.2315"
+    },
+    {
+        "id": 16581,
+        "title": "An accelerated nonmonotone trust region method with adaptive trust region for unconstrained optimization",
+        "authors": "Jianjun Liu, Xiangmin Xu, Xuehui Cui",
+        "published": "2018-1",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10589-017-9941-6"
+    },
+    {
+        "id": 16582,
+        "title": "Unconstrained Optimization Methods: Conjugate Gradient Methods and Trust-Region Methods",
+        "authors": "Snezana S. Djordjevic",
+        "published": "2019-9-25",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5772/intechopen.84374"
+    },
+    {
+        "id": 16583,
+        "title": "Uncertainty-Aware Policy Optimization: A Robust, Adaptive Trust Region Approach",
+        "authors": "James Queeney, Ioannis Ch. Paschalidis, Christos G. Cassandras",
+        "published": "2021-5-18",
+        "citations": 2,
+        "abstract": "In order for reinforcement learning techniques to be useful in real-world decision making processes, they must be able to produce robust performance from limited data. Deep policy optimization methods have achieved impressive results on complex tasks, but their real-world adoption remains limited because they often require significant amounts of data to succeed. When combined with small sample sizes, these methods can result in unstable learning due to their reliance on high-dimensional sample-based estimates. In this work, we develop techniques to control the uncertainty introduced by these estimates. We leverage these techniques to propose a deep policy optimization approach designed to produce stable performance even when data is scarce. The resulting algorithm, Uncertainty-Aware Trust Region Policy Optimization, generates robust policy updates that adapt to the level of uncertainty present throughout the learning process.",
+        "link": "http://dx.doi.org/10.1609/aaai.v35i11.17130"
+    },
+    {
+        "id": 16584,
+        "title": "Multiagent Trust Region Policy Optimization",
+        "authors": "Hepeng Li, Haibo He",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3265358"
+    },
+    {
+        "id": 16585,
+        "title": "A new trust region method for nonsmooth nonconvex optimization",
+        "authors": "N. Hoseini, S. Nobakhtian",
+        "published": "2018-8-3",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/02331934.2018.1470175"
+    },
+    {
+        "id": 16586,
+        "title": "Adaptive Trust Region Policy Optimization: Global Convergence and Faster Rates for Regularized MDPs",
+        "authors": "Lior Shani, Yonathan Efroni, Shie Mannor",
+        "published": "2020-4-3",
+        "citations": 19,
+        "abstract": "Trust region policy optimization (TRPO) is a popular and empirically successful policy search algorithm in Reinforcement Learning (RL) in which a surrogate problem, that restricts consecutive policies to be ‘close’ to one another, is iteratively solved. Nevertheless, TRPO has been considered a heuristic algorithm inspired by Conservative Policy Iteration (CPI). We show that the adaptive scaling mechanism used in TRPO is in fact the natural “RL version” of traditional trust-region methods from convex analysis. We first analyze TRPO in the planning setting, in which we have access to the model and the entire state space. Then, we consider sample-based TRPO and establish Õ(1/√N) convergence rate to the global optimum. Importantly, the adaptive scaling mechanism allows us to analyze TRPO in regularized MDPs for which we prove fast rates of Õ(1/N), much like results in convex optimization. This is the first result in RL of better rates when regularizing the instantaneous cost or reward.",
+        "link": "http://dx.doi.org/10.1609/aaai.v34i04.6021"
+    },
+    {
+        "id": 16587,
+        "title": "Trust Region and Derivative-Free Methods",
+        "authors": "Vladislav Bukshtynov",
+        "published": "2022-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003275169-7"
+    },
+    {
+        "id": 16588,
+        "title": "Two adaptive nonmonotone trust-region algorithms for solving multiobjective optimization problems",
+        "authors": "Nasim Ghalavand, Esmaile Khorram, Vahid Morovati",
+        "published": "2023-7-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2234920"
+    },
+    {
+        "id": 16589,
+        "title": "A Trust Region Based Local Bayesian Optimization without Exhausted Optimization of Acquisition Function",
+        "authors": "Qingxia Li, Anbing Fu, Wenhong Wei, Yuhui Zhang",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nBayesian optimization (BO) is an effective optimization technique for solving expensive black-box problems. Even though BO has remarkable success, its drawbacks are also obvious. First, the time complexity of the Gaussian process inference is higher than O(n3), where n is the number of samples. Consequently, the running time of BO increases rapidly with the problem size. Second, due to the non-convexity and multimodality of the acquisition function, it costs a lot to achieve good results. To address the above problems, we develop a local Bayesian optimization algorithm based on the trust region idea (TRLBO). In TRLBO, two trust regions with dynamically changing sizes are used to enhance the algorithm’s exploitation ability, while at the same time retaining the exploration ability. Specifically, one trust region is used to reduce the number of samples in the Gaussian process. The other is used to restrict the solution space of the candidates. Furthermore, some theoretical results were provided to enlighten the efficiency of the proposed algorithm. Experimental results on both benchmark functions and real-world problems show that TRLBO compares favorably with the state-of-the-art algorithms.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-1429011/v1"
+    },
+    {
+        "id": 16590,
+        "title": "Trust-region optimization",
+        "authors": "Ismail Ben Ayed",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/b978-0-12-805320-1.00013-0"
+    },
+    {
+        "id": 16591,
+        "title": "3.4 Trust region",
+        "authors": "",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1051/978-2-7598-3164-7.c027"
+    },
+    {
+        "id": 16592,
+        "title": "The Trust-Region Method",
+        "authors": "Neculai Andrei",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-08720-2_8"
+    },
+    {
+        "id": 16593,
+        "title": "A trust region method for solving linearly constrained locally Lipschitz optimization problems",
+        "authors": "Z. Akbari, R. Yousefpour",
+        "published": "2017-9-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/02331934.2017.1339702"
+    },
+    {
+        "id": 16594,
+        "title": "Search Space Partitioning, Mcts and Trust-Region Bayesian Optimization for Joint Optimization of Well Placement and Control",
+        "authors": "A. Kumar",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202210145"
+    },
+    {
+        "id": 16595,
+        "title": "Chapter 4. Trust Region Methods",
+        "authors": "",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1051/978-2-7598-3175-3.c005"
+    },
+    {
+        "id": 16596,
+        "title": "Stochastic Trust Region Inexact Newton Method",
+        "authors": "Vinod Kumar Chauhan",
+        "published": "2021-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003240167-10"
+    },
+    {
+        "id": 16597,
+        "title": "Faded-Experience Trust Region Policy Optimization for Model-Free Power Allocation in Interference Channel",
+        "authors": "Mohammad G. Khoshkholgh, Halim Yanikomeroglu",
+        "published": "2021-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/lwc.2020.3045005"
+    },
+    {
+        "id": 16598,
+        "title": "Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms",
+        "authors": "Logan Mathesen, Giulia Pedrielli, Szu Hui Ng",
+        "published": "2017-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wsc.2017.8247943"
+    },
+    {
+        "id": 16599,
+        "title": "Adaptive trust-region algorithms for unconstrained optimization",
+        "authors": "Mostafa Rezapour, Thomas J. Asaki",
+        "published": "2021-9-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2019.1698578"
+    },
+    {
+        "id": 16600,
+        "title": "Fides: Reliable Trust-Region Optimization for Parameter Estimation of Ordinary Differential Equation Models",
+        "authors": "Fabian Fröhlich, Peter K. Sorger",
+        "published": "No Date",
+        "citations": 3,
+        "abstract": "Ordinary differential equation (ODE) models are widely used to describe biochemical processes, since they effectively represent mass action kinetics. Optimization-based calibration of ODE models on experimental data can be challenging, even for low-dimensional problems. However, reliable model calibration is a prerequisite for uncertainty analysis, model comparison, and biological interpretation. Multiple hypotheses have been advanced to explain why optimization based calibration of biochemical models is challenging, but there are few comprehensive studies that test these hypotheses, likely because tools for performing such studies are also lacking.We implemented an established trust-region method as a modular Python framework (fides) to enable systematic comparison of different approaches to ODE model calibration involving various Hessian approximation schemes. We evaluatedfideson a set of benchmark problems for which real experimental data are available. Unexpectedly, we observed high variability in optimizer performance among different implementations of the same algorithm. Overall,fidesperformed most reliably and efficiently. Our investigation of possible sources of poor optimizer performance identified drawbacks in the widely used Gauss-Newton, BFGS and SR1 Hessian approximations. We address these drawbacks by proposing a novel hybrid Hessian approximation scheme that enhances optimizer performance and outperforms existing hybrid approaches. We expectfidesto be broadly useful for ODE constrained optimization problems and to enable future methods development.Availabilityfidesis published under the permissive BSD-3-Clause license with source code publicly available athttps://github.com/fides-dev/fides. Citeable releases are archived on Zenodo. Code to reproduce results presented in this manuscript is available athttps://github.com/fides-dev/fides-benchmark.",
+        "link": "http://dx.doi.org/10.1101/2021.05.20.445065"
+    },
+    {
+        "id": 16601,
+        "title": "Solving Two-Trust-Region Subproblems Using Semidefinite Optimization with Eigenvector Branching",
+        "authors": "Kurt M. Anstreicher",
+        "published": "2022-6-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10957-022-02064-5"
+    },
+    {
+        "id": 16602,
+        "title": "The Convergence of the Generalized Lanczos Trust-Region Method for the Trust-Region Subproblem",
+        "authors": "Zhongxiao Jia, Fa Wang",
+        "published": "2021-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/19m1279691"
+    },
+    {
+        "id": 16603,
+        "title": "An inexact trust-region algorithm for nonsmooth nonconvex optimization.",
+        "authors": "Drew Kouri",
+        "published": "2022-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/2004205"
+    },
+    {
+        "id": 16604,
+        "title": "A Derivative-Free Trust-Region Algorithm for Well Control Optimization",
+        "authors": "T. Silva, M. Bellout, C. Giuliani, E. Camponogara, A. Pavlov",
+        "published": "2020",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202035086"
+    },
+    {
+        "id": 16605,
+        "title": "Trust Region Based Moving Asymptotes Method: A Stabilized Optimizer for Stress-Constrained Topology Optimization",
+        "authors": "Xueyan Hu, Erik Lund, Zonghao Li, Weiqiu Chen",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4716136"
+    },
+    {
+        "id": 16606,
+        "title": "A Quasi-Newton Trust-Region Method for Optimization Under Uncertainty Using Stochastic Simplex Approximate Gradients",
+        "authors": "E. Eltahan, F.O. Alpak, K. Sepehrnoori",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202244053"
+    },
+    {
+        "id": 16607,
+        "title": "Trust Region Methods",
+        "authors": "Luigi Grippo, Marco Sciandrone",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-031-26790-1_14"
+    },
+    {
+        "id": 16608,
+        "title": "An Adjoint Inexact Trust Region Method for Nonlinear Constraint Production Optimization",
+        "authors": "Chithra Chakra, Mohammed Al Kobaisi",
+        "published": "2019-9-17",
+        "citations": 1,
+        "abstract": "Abstract\nProduction optimization is the method for seeking the best possible well control and schedule plans in order to enhance reservoir performance under a given state and economic constraints. Determining the optimal injection and production control strategies through adjoint gradient-based optimization is a well-known practice in today’s modern reservoir management. However, apt handling of nonlinear control inputs, state and output constraints can be quite tedious with effects on the computational efficiency of the optimization algorithms used in practical production optimal control problems. In this paper, we develop an adjoint based interior-point inexact trust filter sequential quadratic programming (IITRF-SQP) method for solving constrained production optimization problems. Inexact trust-region is an extension of a filter trust region approach, which is used when the control input constraints Jacobians are of high dimension and are expensive to compute. The output constraints are handled using an interior-point method called- modified barrier-augmented Lagrangian, in which inequality constraints are treated by a modified barrier term and equality constraints with augmented Lagrangian terms. The algorithm we present uses the approximate information of Jacobians achieved through composite-step computation, which eliminates the cost of direct calculation of Jacobians and Hessians (gradients). The gradient information that provides criticality measure of the objective function is calculated using the adjoint method. Two numerical experiments on optimal water-flooding are presented. Performance comparisons of the proposed IITRF-SQP method with Lagrangian barrier method and sequential linear quadratic programming (SLQP) for solving production optimization problem are carried out. Results indicate that the gradient-based adjoint coupled with IITRF-SQP was able to improve net present value (NPV) through optimal production profiles with better computational efficacy via reduced convergence time and number of gradient and objective function evaluations.",
+        "link": "http://dx.doi.org/10.2118/196666-ms"
+    },
+    {
+        "id": 16609,
+        "title": "Some Global Optimization Strategies of Feasible Trust-Region Method for Extreme Z-Eigenvalues of Symmetric Tensors",
+        "authors": "Li Xiao, Hao Chunlin, Gao Junyu, Li Zuping",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.61208/pjo-2023-024"
+    },
+    {
+        "id": 16610,
+        "title": "An Inexact Trust-Region Newton Method for Large-Scale Convex-Constrained Optimization.",
+        "authors": "Drew Kouri",
+        "published": "2021-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2172/1878281"
+    },
+    {
+        "id": 16611,
+        "title": "Cohesion Policy and European identity building: Trust as a mediating element",
+        "authors": "Roberta Capello, Giovanni Perucca",
+        "published": "2019-10",
+        "citations": 5,
+        "abstract": "AbstractThe understanding of the role of Cohesion Policy on the processes of European identity building is becoming more and more important in a period or resurgence of nationalisms and Euroscepticism. However, empirical evidence on this is still extremely scarce, due to both conceptual issues and data limitations. The present study tackles these limits and presents an empirical analysis of the way in which satisfaction with Cohesion Policy affected identification with Europe in EU regions between 2014 and 2017. Results show that this relationship is highly dependent on the intensity of funding spent, capturing the intensity of the European policy, and on the recent economic trend occurred at the regional level. This effect is boosted by a positive attitude towards EU institutions.",
+        "link": "http://dx.doi.org/10.1111/rsp3.12229"
+    },
+    {
+        "id": 16612,
+        "title": "Accelerated Optimization of Input Characteristics of Wideband Antennas Using Improved Trust-Region Gradient Search",
+        "authors": "S. Koziel",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/cp.2018.1477"
+    },
+    {
+        "id": 16613,
+        "title": "A Globally Convergent Composite-Step Trust-Region Framework for Real-Time Optimization with Plant-Model Mismatch",
+        "authors": "Duo Zhang, Xiang Li, Kexin Wang, Zhijiang Shao",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Inaccurate models limit the performance of model-based real-time\noptimization (RTO) and even cause system instability. Therefore, a RTO\nframework that can guarantee global convergence with the presence of\nplant-model mismatch is desired. In this regard, the trust-region\nframework is simple to implement and guarantees globally convergent for\nunconstrained problems. However, it remains to be seen if the\ntrust-region strategy can handle inequality constraints directly with\nthe common model adaptation method. This paper addresses this issue and\nproposes a novel composite-step trust-region framework that guarantees\nglobal convergence for constrained RTO problems. The trial step is\ndecomposed into a normal step that improves feasibility and a tangential\nstep that reduces the cost function. In each iteration, the model\noptimization problem with relaxed constraints is solved. The proof of\nthe global convergence property under structural plant-model mismatch is\ngiven.",
+        "link": "http://dx.doi.org/10.22541/au.168659468.89589899/v1"
+    },
+    {
+        "id": 16614,
+        "title": "A New Filter Nonmonotone Adaptive Trust Region Method for Unconstrained Optimization",
+        "authors": "Xinyi Wang, Xianfeng Ding, Quan Qu",
+        "published": "2020-2-2",
+        "citations": 4,
+        "abstract": "In this paper, a new filter nonmonotone adaptive trust region with fixed step length for unconstrained optimization is proposed. The trust region radius adopts a new adaptive strategy to overcome additional computational costs at each iteration. A new nonmonotone trust region ratio is introduced. When a trial step is not successful, a multidimensional filter is employed to increase the possibility of the trial step being accepted. If the trial step is still not accepted by the filter set, it is possible to find a new iteration point along the trial step and the step length is computed by a fixed formula. The positive definite symmetric matrix of the approximate Hessian matrix is updated using the MBFGS method. The global convergence and superlinear convergence of the proposed algorithm is proven by some classical assumptions. The efficiency of the algorithm is tested by numerical results.",
+        "link": "http://dx.doi.org/10.3390/sym12020208"
+    },
+    {
+        "id": 16615,
+        "title": "A Trust-Region Algorithm for Heterogeneous Multiobjective Optimization",
+        "authors": "Jana Thomann, Gabriele Eichfelder",
+        "published": "2019-1",
+        "citations": 25,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/18m1173277"
+    },
+    {
+        "id": 16616,
+        "title": "Expedited Design Optimization of Antenna Input Characteristics Using Trust-Region Search with Adaptive Jacobian Updates",
+        "authors": "Anna Pietrenko-Dabrowska, Slawomir Koziel",
+        "published": "2019-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/nemo.2019.8853789"
+    },
+    {
+        "id": 16617,
+        "title": "Inexact Trust-Region Methods for PDE-Constrained Optimization",
+        "authors": "Drew P. Kouri, Denis Ridzal",
+        "published": "2018",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4939-8636-1_3"
+    },
+    {
+        "id": 16618,
+        "title": "A matrix-free trust-region newton algorithm for convex-constrained optimization",
+        "authors": "D. P. Kouri",
+        "published": "2022-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11590-021-01794-1"
+    },
+    {
+        "id": 16619,
+        "title": "Optimization Strategy for Dynamic Metamodel Integrating Minimize Lower Confidence Bound and Trust Region",
+        "authors": "Feng ZENG",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3901/jme.2017.13.170"
+    },
+    {
+        "id": 16620,
+        "title": "Gauss-Newton Trust Region Search Optimization Method for Least Squares Problems with Singular Hessian",
+        "authors": "G. Gao, F. Saaf, J. Vink, M. Krymskaya, T. Wells",
+        "published": "2020",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202035136"
+    },
+    {
+        "id": 16621,
+        "title": "Improved Complexity Of Trust-Region Optimization For Zeroth-Order Stochastic Oracles with Adaptive Sampling",
+        "authors": "Yunsoo Ha, Sara Shashaani, Quoc Tran-Dinh",
+        "published": "2021-12-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/wsc52266.2021.9715529"
+    },
+    {
+        "id": 16622,
+        "title": "A Trust Region Method for Finding Second-Order Stationarity in Linearly Constrained Nonconvex Optimization",
+        "authors": "Maher Nouiehed, Meisam Razaviyayn",
+        "published": "2020-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/19m1256415"
+    },
+    {
+        "id": 16623,
+        "title": "A Filter and Nonmonotone Adaptive Trust Region Line Search Method for Unconstrained Optimization",
+        "authors": "Quan Qu, Xianfeng Ding, Xinyi Wang",
+        "published": "2020-4-21",
+        "citations": 1,
+        "abstract": "In this paper, a new nonmonotone adaptive trust region algorithm is proposed for unconstrained optimization by combining a multidimensional filter and the Goldstein-type line search technique. A modified trust region ratio is presented which results in more reasonable consistency between the accurate model and the approximate model. When a trial step is rejected, we use a multidimensional filter to increase the likelihood that the trial step is accepted. If the trial step is still not successful with the filter, a nonmonotone Goldstein-type line search is used in the direction of the rejected trial step. The approximation of the Hessian matrix is updated by the modified Quasi-Newton formula (CBFGS). Under appropriate conditions, the proposed algorithm is globally convergent and superlinearly convergent. The new algorithm shows better performance in terms of the Dolan–Moré performance profile. Numerical results demonstrate the efficiency and robustness of the proposed algorithm for solving unconstrained optimization problems.",
+        "link": "http://dx.doi.org/10.3390/sym12040656"
+    },
+    {
+        "id": 16624,
+        "title": "Customised pearlmutter propagation: A hardware architecture for trust region policy optimisation",
+        "authors": "Shengjia Shao, Wayne Luk",
+        "published": "2017-9",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/fpl.2017.8056789"
+    },
+    {
+        "id": 16625,
+        "title": "A Stochastic Trust Region Algorithm Based on Careful Step Normalization",
+        "authors": "Frank E. Curtis, Katya Scheinberg, Rui Shi",
+        "published": "2019-7",
+        "citations": 18,
+        "abstract": " An algorithm is proposed for solving stochastic and finite-sum minimization problems. Based on a trust region methodology, the algorithm employs normalized steps, at least as long as the norms of the stochastic gradient estimates are within a specified interval. The complete algorithm—which dynamically chooses whether to employ normalized steps—is proved to have convergence guarantees that are similar to those possessed by a traditional stochastic gradient approach under various sets of conditions related to the accuracy of the stochastic gradient estimates and choice of step size sequence. The results of numerical experiments where the method is employed to minimize convex and nonconvex machine learning test problems are presented. These results illustrate that the method can outperform a traditional stochastic gradient approach. ",
+        "link": "http://dx.doi.org/10.1287/ijoo.2018.0010"
+    },
+    {
+        "id": 16626,
+        "title": "TREGO: a trust-region framework for efficient global optimization",
+        "authors": "Youssef Diouane, Victor Picheny, Rodolophe Le Riche, Alexandre Scotto Di Perrotolo",
+        "published": "2023-5",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10898-022-01245-w"
+    },
+    {
+        "id": 16627,
+        "title": "A penalty trust region method for nonnegative matrix factorization",
+        "authors": "Chaofeng Ye, Tao Yan, Kai Wang",
+        "published": "2020",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.12988/ijco.2020.9825"
+    },
+    {
+        "id": 16628,
+        "title": "Convex Method for Ascent Trajectory Optimization Using Iterative Narrowing Trust Region",
+        "authors": "Sun Zhengxiang, Chao Tao, Wang Songyan, Yang Ming",
+        "published": "2018-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/gncc42960.2018.9019086"
+    },
+    {
+        "id": 16629,
+        "title": "Solving trust region subproblems using Riemannian optimization",
+        "authors": "Uria Mor, Boris Shustin, Haim Avron",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s00211-023-01360-0"
+    },
+    {
+        "id": 16630,
+        "title": "Adaptive multilevel trust-region methods for time-dependent PDE-constrained optimization",
+        "authors": "Stefan Ulbrich, Jan Carsten Ziems",
+        "published": "2017-5-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4171/pm/1992"
+    },
+    {
+        "id": 16631,
+        "title": "Gradient change monitoring for accelerated design optimization of antennas using trust-region search with numerical derivatives",
+        "authors": "A. Pietrenko-Dabrowska, S. Koziel",
+        "published": "2019",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1049/cp.2019.0711"
+    },
+    {
+        "id": 16632,
+        "title": "A trust region approach with multivariate Padé model for optimal circuit design",
+        "authors": "Hany L. Abdel-Malek, Shaimaa E.K. Ebid, Ahmed S.A. Mohamed",
+        "published": "2017-11-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/0305215x.2017.1282728"
+    },
+    {
+        "id": 16633,
+        "title": "A progressive barrier derivative-free trust-region algorithm for constrained optimization",
+        "authors": "Charles Audet, Andrew R. Conn, Sébastien Le Digabel, Mathilde Peyrega",
+        "published": "2018-11",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10589-018-0020-4"
+    },
+    {
+        "id": 16634,
+        "title": "Solución del modelo de un generador fotovoltaico utilizando los algoritmos de optimización Trust Region Dogleg y PSO",
+        "authors": "Luis Miguel Pérez-Archila, Juan David Bastidas Rodriguez, Rodrigo Correa1",
+        "published": "2020-1-1",
+        "citations": 1,
+        "abstract": "El modelo matemático de un generador fotovoltaico en conexión Serie-Paralelo representado mediante el modelo de diodo simple, tiene asociado a él un sistema de ecuaciones no lineales. En este trabajo se propone la solución de estos sistemas empleando los métodos de optimización Trust Region Dogleg y Optimización por Enjambre de Partículas, para resolver el modelo de un generador fotovoltaico operando en condiciones homogéneas y no homogéneas, variando el  número  de  submódulos  y  el  patrón  de  sombreado  que  incide  sobre  el  generador.  Se  realizó  la  simulación  de  los modelos para generadores compuestos por 3 y 15 submódulos en serie, bajo diferentes condiciones de sombreado. De los métodos implementados, Trust Region Doglegmostró un mejor desempeño con tiempos de cómputo 2 y 14 veces menores que el método de referencia y Optimización por Enjambre de Partículas, respectivamente. Y un error medio cuadrático igual o un 50% inferior a los otros métodos",
+        "link": "http://dx.doi.org/10.18273/revuin.v19n1-2020003"
+    },
+    {
+        "id": 16635,
+        "title": "Concise complexity analyses for trust region methods",
+        "authors": "Frank E. Curtis, Zachary Lubberts, Daniel P. Robinson",
+        "published": "2018-12",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s11590-018-1286-2"
+    },
+    {
+        "id": 16636,
+        "title": "Robotic Writing based on Trust Region Optimization and Imitation Learning",
+        "authors": "Min-Gyu Yang, Kuk-Hyun Ahn, Jae-Bok Song",
+        "published": "2020-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/iccas50221.2020.9268403"
+    },
+    {
+        "id": 16637,
+        "title": "A Trust-region Method for Nonsmooth Nonconvex Optimization",
+        "authors": "Ziang Chen, Andre Milzarek null, Zaiwen Wen",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.4208/jcm.2110-m2020-0317"
+    },
+    {
+        "id": 16638,
+        "title": "A Trust-Region Based Real-Time Optimization Scheme for Modular High-Temperature Gas-Cooled Reactor Nuclear Power Plant",
+        "authors": "Yao Tong, Wentao He, Zhijiang Shao",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451513"
+    },
+    {
+        "id": 16639,
+        "title": "Trust–Region Nonlinear Optimization Algorithm for Orientation Estimator and Visual Measurement of Inertial–Magnetic Sensor",
+        "authors": "Nan Jia, Zongkang Wei, Bangyu Li",
+        "published": "2023-5-27",
+        "citations": 0,
+        "abstract": "This paper proposes a novel robust orientation estimator to enhance the accuracy and robustness of orientation estimation for inertial–magnetic sensors of the small consumer–grade drones. The proposed estimator utilizes a trust–region strategy within a nonlinear optimization framework, transforming the orientation fusion problem into a nonlinear optimization problem based on the maximum likelihood principle. The proposed estimator employs a trust–region Dogleg gradient descent strategy to optimize orientation precision and incorporates a Huber robust kernel to minimize interference caused by acceleration during the maneuvering process of the drone. In addition, a novel method for evaluating the performance of orientation estimators is also presented based on visuals. The proposed method consists of two parts: offline calibration of the basic cube using Augmented Reality University of Cordoba (ArUco) markers and online orientation measurement of the sensor carrier using a nonlinear optimization solver. The proposed measurement method’s accuracy and the proposed estimator’s performance are evaluated under low–dynamic (rotation) and high–dynamic (shake) conditions in the experiment. The experimental findings indicate that the proposed measurement method obtains an average re–projection error of less than 0.1 pixels. The proposed estimator has the lowest average orientation error compared to conventional orientation estimation algorithms. Despite the time–consuming nature of the proposed estimator, it exhibits greater robustness and precision, particularly in highly dynamic environments.",
+        "link": "http://dx.doi.org/10.3390/drones7060351"
+    },
+    {
+        "id": 16640,
+        "title": "An adaptive nonmonotone trust region algorithm",
+        "authors": "Saeed Rezaee, Saman Babaie-Kafaki",
+        "published": "2019-3-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2017.1364738"
+    },
+    {
+        "id": 16641,
+        "title": "A Trust Region Method for Solving Multicriteria Optimization Problems on Riemannian Manifolds",
+        "authors": "N. Eslami, B. Najafi, S. M. Vaezpour",
+        "published": "2023-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10957-022-02142-8"
+    },
+    {
+        "id": 16642,
+        "title": "Nonmonotone trust region algorithm for solving the unconstrained multiobjective optimization problems",
+        "authors": "V. A. Ramirez, G. N. Sottosanto",
+        "published": "2022-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10589-021-00346-8"
+    },
+    {
+        "id": 16643,
+        "title": "Convergence Rate Analysis of a Stochastic Trust-Region Method via Supermartingales",
+        "authors": "Jose Blanchet, Coralia Cartis, Matt Menickelly, Katya Scheinberg",
+        "published": "2019-4",
+        "citations": 42,
+        "abstract": " We propose a novel framework for analyzing convergence rates of stochastic optimization algorithms with adaptive step sizes. This framework is based on analyzing properties of an underlying generic stochastic process; in particular, we derive a bound on the expected stopping time of this process. We utilize this framework to analyze the expected global convergence rates of a stochastic variant of a traditional trust-region method. Although traditional trust-region methods rely on exact computations of the gradient, Hessian, and values of the objective function, this method assumes that these values are available only up to some dynamically adjusted accuracy. Moreover, this accuracy is assumed to hold only with some sufficiently large—but fixed—probability without any additional restrictions on the variance of the errors. This setting applies, for example, to standard stochastic optimization and machine learning formulations. Improving upon prior analysis, we show that the stochastic process defined by the trust-region method satisfies the assumptions of our proposed general framework. The stopping time in this setting is defined by an iterate satisfying a first-order accuracy condition. We demonstrate the first global complexity bound for a stochastic trust-region method under the assumption of sufficiently accurate stochastic gradients. Finally, we apply the same framework to derive second-order complexity bounds under additional assumptions. ",
+        "link": "http://dx.doi.org/10.1287/ijoo.2019.0016"
+    },
+    {
+        "id": 16644,
+        "title": "Graph-Attention-Based Casual Discovery With Trust Region-Navigated Clipping Policy Optimization",
+        "authors": "Shixuan Liu, Yanghe Feng, Keyu Wu, Guangquan Cheng, Jincai Huang, Zhong Liu",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tcyb.2021.3116762"
+    },
+    {
+        "id": 16645,
+        "title": "Shape-changing trust-region methods using multipoint symmetric secant matrices",
+        "authors": "J. J. Brust, J. B. Erway, R. F. Marcia",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2296441"
+    },
+    {
+        "id": 16646,
+        "title": "ASTRO-DF: A Class of Adaptive Sampling Trust-Region Algorithms for Derivative-Free Stochastic Optimization",
+        "authors": "Sara Shashaani, Fatemeh S. Hashemi, Raghu Pasupathy",
+        "published": "2018-1",
+        "citations": 36,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1137/15m1042425"
+    },
+    {
+        "id": 16647,
+        "title": "A class of nonmonotone trust region algorithm for solving unconstrained nonlinear optimization problems",
+        "authors": "Fulan Ye, Yang You, Zhen Chen, Baoguo Chen",
+        "published": "2018",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2306/scienceasia1513-1874.2018.44.027"
+    },
+    {
+        "id": 16648,
+        "title": "A new nonmonotone adaptive trust region line search method for unconstrained optimization",
+        "authors": "Xinyi Wang, Xianfeng Ding, Quan Qu",
+        "published": "2020-12",
+        "citations": 0,
+        "abstract": "AbstractThis paper proposes a new nonmonotone adaptive trust region line search method for solving unconstrained optimization problems, and presents a modified trust region ratio, which obtained more reasonable consistency between the accurate model and the approximate model. The approximation of Hessian matrix is updated by the modified BFGS formula. Trust region radius adopts a new adaptive strategy to overcome additional computational costs at each iteration. The global convergence and superlinear convergence of the method are preserved under suitable conditions. Finally, the numerical results show that the proposed method is very efficient.",
+        "link": "http://dx.doi.org/10.1186/s13362-020-00080-6"
+    },
+    {
+        "id": 16649,
+        "title": "Risk-Averse Trust Region Optimization for Reward-Volatility Reduction",
+        "authors": "Lorenzo Bisi, Luca Sabbioni, Edoardo Vittori, Matteo Papini, Marcello Restelli",
+        "published": "2020-7",
+        "citations": 9,
+        "abstract": "The use of reinforcement learning in algorithmic trading is of growing interest, since it offers the opportunity of making profit through the development of autonomous artificial traders, that do not depend on hard-coded rules. In such a framework, keeping uncertainty under control is as important as maximizing expected returns. Risk aversion has been addressed in reinforcement learning through measures related to the distribution of returns. However, in trading it is essential to keep under control the risk of portfolio positions in the intermediate steps. In this paper, we define a novel measure of risk, which we call reward volatility, consisting of the variance of the rewards under the state-occupancy measure. This new risk measure is shown to bound the return variance so that reducing the former also constrains the latter. We derive a policy gradient theorem with a new objective function that exploits the mean-volatility relationship. Furthermore, we adapt TRPO, the well-known policy gradient algorithm with monotonic improvement guarantees, in a risk-averse manner. Finally, we test the proposed approach in two financial environments using real market data.",
+        "link": "http://dx.doi.org/10.24963/ijcai.2020/632"
+    },
+    {
+        "id": 16650,
+        "title": "Second-Order Trust-Region Optimization for Data-Limited Inference",
+        "authors": "Aditya Ranganath, Omar DeGuchy, Mukesh Singhal, Roummel F. Marcia",
+        "published": "2021-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/eusipco54536.2021.9616149"
+    },
+    {
+        "id": 16651,
+        "title": "A Derivative-free Trust-region Method for Optimization on the Ellipsoid",
+        "authors": "Pengcheng Xie",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "Abstract\nOptimization methods play a crucial role in various fields and applications. In some optimization problems, the derivative information of the objective function is unavailable. Such black-box optimization problems need to be solved by derivative-free optimization methods. At the same time, optimization problems with ellipsoidal constraints are important and have widespread applications in various fields as well. Following the development of the late professor M. J. D. Powell’s efficient derivative-free trust-region optimization methods, this paper considers solving derivative-free optimization problems on the ellipsoid. Our new optimization solver EC-NEWUOA for problems on the ellipsoid in ℜ\nn\n\n is designed based on Powell’s derivative-free software NEWUOA for unconstrained optimization problems. The proposed techniques for our new method mainly include using the Courant penalty function, the augmented Lagrangian method, and the projection technique. Details about the method and theoretical analysis are included in this paper. We also compare our new method with other algorithms by solving test problems and then show the numerical advantages of our new method.",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2620/1/012007"
+    },
+    {
+        "id": 16652,
+        "title": "An Active-Set Fischer–Burmeister Trust-Region Algorithm to Solve a Nonlinear Bilevel Optimization Problem",
+        "authors": "Bothina Elsobky, Gehan Ashry",
+        "published": "2022-7-27",
+        "citations": 2,
+        "abstract": "In this paper, the Fischer–Burmeister active-set trust-region (FBACTR) algorithm is introduced to solve the nonlinear bilevel programming problems. In FBACTR algorithm, a Karush–Kuhn–Tucker (KKT) condition is used with the Fischer–Burmeister function to transform a nonlinear bilevel programming (NBLP) problem into an equivalent smooth single objective nonlinear programming problem. To ensure global convergence for the FBACTR algorithm, an active-set strategy is used with a trust-region globalization strategy. The theory of global convergence for the FBACTR algorithm is presented. To clarify the effectiveness of the proposed FBACTR algorithm, applications of mathematical programs with equilibrium constraints are tested.",
+        "link": "http://dx.doi.org/10.3390/fractalfract6080412"
+    },
+    {
+        "id": 16653,
+        "title": "Model-Based Trust Region",
+        "authors": "Charles Audet, Warren Hare",
+        "published": "2017",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-319-68913-5_11"
+    },
+    {
+        "id": 16654,
+        "title": "Non-linear data assimilation via trust region optimization",
+        "authors": "Elias David Nino-Ruiz",
+        "published": "2019-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s40314-019-0901-x"
+    },
+    {
+        "id": 16655,
+        "title": "A Rectangular Trust-Region Approach for Unconstrained and Box-Constrained Optimization Problems",
+        "authors": "C. Voglis, I.E. Lagaris",
+        "published": "2019-4-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9780429081385-138"
+    },
+    {
+        "id": 16656,
+        "title": "An Off-Policy Trust Region Policy Optimization Method With Monotonic Improvement Guarantee for Deep Reinforcement Learning",
+        "authors": "Wenjia Meng, Qian Zheng, Yue Shi, Gang Pan",
+        "published": "2022-5",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tnnls.2020.3044196"
+    },
+    {
+        "id": 16657,
+        "title": "Simultaneous iterative solutions for the trust-region and minimum eigenvalue subproblem",
+        "authors": "I. G. Akrotirianakis, M. Gratton, J. D. Griffin, S. Yektamaram, W. Zhou",
+        "published": "2022-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2020.1827254"
+    },
+    {
+        "id": 16658,
+        "title": "Convergence to a second-order critical point by a primal-dual interior point trust-region method for nonlinear semidefinite programming",
+        "authors": "Hiroshi Yamashita",
+        "published": "2022-11-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2022.2060973"
+    },
+    {
+        "id": 16659,
+        "title": "The solution of euclidean norm trust region SQP subproblems via second-order cone programs: an overview and elementary introduction",
+        "authors": "Florian Jarre, Felix Lieder",
+        "published": "2018-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1080/10556788.2016.1270279"
+    },
+    {
+        "id": 16660,
+        "title": "A computational study of global optimization solvers on two trust region subproblems",
+        "authors": "Tiago Montanher, Arnold Neumaier, Ferenc Domes",
+        "published": "2018-8",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/s10898-018-0649-7"
+    },
+    {
+        "id": 16661,
+        "title": "PANTR: A Proximal Algorithm With Trust-Region Updates for Nonconvex Constrained Optimization",
+        "authors": "Alexander Bodard, Pieter Pas, Panagiotis Patrinos",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3286331"
+    },
+    {
+        "id": 16662,
+        "title": "Characteristics Mode-Guided Trust-Region-Based Optimization for Dual-band Metantenna Design",
+        "authors": "Yu Kuang, Qingsha S. Cheng, Zhi Ning Chen",
+        "published": "2023-11-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/apcap59480.2023.10470072"
+    },
+    {
+        "id": 16663,
+        "title": "Response Surface-Assisted Trust-Region Method for Optimization of Electromagnetic Devices",
+        "authors": "Amarkumar Kushwaha, B. G. Fernandes",
+        "published": "2021-5",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/tmag.2021.3063124"
+    },
+    {
+        "id": 16664,
+        "title": "Nonmonotone conic trust region method with line search technique for bound constrained optimization",
+        "authors": "Lijuan Zhao",
+        "published": "2019-7",
+        "citations": 0,
+        "abstract": "In this paper, we propose a nonmonotone trust region method for bound constrained optimization problems, where the bounds are dealt with by affine scaling technique. Differing from the traditional trust region methods, the subproblem in our algorithm is based on a conic model. Moreover, when the trial point isn’t acceptable by the usual trust region criterion, a line search technique is used to find an acceptable point. This procedure avoids resolving the trust region subproblem, which may reduce the total computational cost. The global convergence andQ-superlinear convergence of the algorithm are established under some mild conditions. Numerical results on a series of standard test problems are reported to show the effectiveness of the new method.",
+        "link": "http://dx.doi.org/10.1051/ro/2017054"
+    },
+    {
+        "id": 16665,
+        "title": "Trust-Region RB Methods for PDE-Constrained Optimization and Optimal Input Design",
+        "authors": "Andrea Petrocchi, Matthias K. Scharrer, Stefan Volkwein",
+        "published": "2022",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2022.10.392"
+    },
+    {
+        "id": 16666,
+        "title": "On Convergence of Binary Trust-Region Steepest Descent",
+        "authors": "Paul Manns, Mirko Hahn, Christian Kirches, Sven Leyffer, Sebastian Sager",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "Binary trust-region steepest descent (BTR) and combinatorial integral\napproximation (CIA) are two recently investigated approaches for the solution\nof optimization problems with distributed binary-/discrete-valued variables\n(control functions). We show improved convergence results for BTR by imposing a\ncompactness assumption that is similar to the convergence theory of CIA. As a\ncorollary we conclude that BTR also constitutes a descent algorithm on the\ncontinuous relaxation and its iterates converge weakly-$^*$ to stationary\npoints of the latter. We provide computational results that validate our\nfindings. In addition, we observe a regularizing effect of BTR, which we\nexplore by means of a hybridization of CIA and BTR.",
+        "link": "http://dx.doi.org/10.46298/jnsao-2023-10164"
+    },
+    {
+        "id": 16667,
+        "title": "Supercapacitor Parameter Identification Using Grey Wolf Optimization and Its Comparison to Conventional Trust Region Reflection Optimization",
+        "authors": "Ravneel Prasad, Utkal Mehta, Kajal Kothari, Maurizio Cirrincione, Ali Mohammadi",
+        "published": "2019-8",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/acemp-optim44294.2019.9007158"
+    },
+    {
+        "id": 16668,
+        "title": "A modified trust-region assisted variable-fidelity optimization framework for computationally expensive problems",
+        "authors": "Chengshan Li, Huachao Dong",
+        "published": "2022-7-5",
+        "citations": 0,
+        "abstract": "PurposeVariable-fidelity optimization (VFO) frameworks generally aim at taking full advantage of high-fidelity (HF) and low-fidelity (LF) models to solve computationally expensive problems. The purpose of this paper is to develop a novel modified trust-region assisted variable-fidelity optimization (MTR-VFO) framework that can improve the optimization efficiency for computationally expensive engineering design problems.Design/methodology/approachThough the LF model is rough and inaccurate, it probably contains the gradient information and trend of the computationally expensive HF model. In the proposed framework, the extreme locations of the LF kriging model are firstly utilized to enhance the HF kriging model, and then a modified trust-region (MTR) method is presented for efficient local search. The proposed MTR-VFO framework is verified through comparison with three typical methods on some benchmark problems, and it is also applied to optimize the configuration of underwater tandem wings.FindingsThe results indicate that the proposed MTR-VFO framework is more effective than some existing typical methods and it has the potential of solving computationally expensive problems more efficiently.Originality/valueThe extreme locations of LF models are utilized to improve the accuracy of HF models and a MTR method is first proposed for local search without utilizing HF gradient. Besides, a novel MTR-VFO framework is presented which is verified to be more effective than some existing typical methods and shows great potential of solving computationally expensive problems effectively.",
+        "link": "http://dx.doi.org/10.1108/ec-08-2021-0456"
+    },
+    {
+        "id": 16669,
+        "title": "Well Control Optimization with Output Constraint Handling by Means of a Derivative-Free Trust Region Algorithm",
+        "authors": "M. Hannanu, T. L. Silva, E. Camponogara, M. Hovd",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "Abstract\nThe Derivative-Free Trust-Region (DFTR) optimization is well-suited for reservoir engineering problems where gradient information is often unavailable, unreliable, or unacceptably costly to obtain by numerical means. As opposed to direct search methods, the DFTR method is known to exhibit early convergence due to its capability to capture function curvatures with approximation models, which is important for simulations with long run-time. In this paper, we propose a new DFTR optimization algorithm which is capable of handling output constraints in well control problems.\nThe method relies on building polynomials using interpolation points generated from the simulation runs to model the objective function and constraints that are valid within the region around an incumbent solution. The models are subject to improvement when appropriate to ensure good geometry and accuracy of the approximation. The algorithm utilizes the models to find the next optimum iterate and introduces safeguards to ensure improvement in both the objective function and the constraints violation.\nThe algorithm is open source and has a clear interface with capability for integration to different reservoir simulators. The method is tested on the SPE10 benchmark model for reservoir simulation with realistic output constraint scenarios. The result of this study shows that the DFTR algorithm can achieve optimal operating points that improve the objective function in well control optimization problems while still honoring the constraints within a reasonable number of iterations. A comparison study is also conducted with two other derivative-free methods: NOMAD and COBYLA, where it is shown in the case studies that the proposed DFTR algorithm performs better in terms of the objective function value, number of function evaluation, and the feasibility of the solutions.\nThis paper addresses the handling of output-constraints by introducing an algorithm called Derivative-Free Trust-Region Filter Sequential Quadratic Programming (DFTR-FSQP) that can handle black-box type of simulators. This allows a non-intrusive optimization routine that can be naturally added into any reservoir modeling frameworks in order to handle practical operational limitations typical of field operations that can be expressed as constraints on acceptable solutions, such as water production and topside capacity. Further, using this method, one may express constraints independently from the simulators if the information is available. While reservoir simulators may be able to impose such restrictions internally, it introduces discontinuities in the cost function by control-variables switching and therefore could jeopardize the consistency of the dynamics and therefore the optimality of the solution.",
+        "link": "http://dx.doi.org/10.2118/216962-ms"
+    },
+    {
+        "id": 16670,
+        "title": "A trust region method based on the fractional model for unconstrained optimization",
+        "authors": "Zhu Honglan, Ni Qin, Dang Changyin, Zhang Hao",
+        "published": "2018-4-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1360/scm-2016-0115"
+    }
+]

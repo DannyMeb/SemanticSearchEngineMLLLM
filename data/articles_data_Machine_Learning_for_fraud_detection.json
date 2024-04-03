@@ -1,0 +1,902 @@
+[
+    {
+        "id": 24371,
+        "title": "Optimizing Insurance Fraud Claim Detection through Machine Learning: A Comprehensive Approach for Improved Fraud Detection",
+        "authors": "Aayush .",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nInsurance fraud is a growing concern, prompting proactive measures through advanced machine learning techniques. This research focuses on constructing a predictive model for distinguishing genuine and fraudulent auto insurance claims. The dataset, comprising 1,000 instances and 40 attributes, covers customer demographics, policy details, incidents, and financial data. Early fraud detection is crucial for financial loss mitigation and maintaining insurance system integrity. The study employs data preprocessing to handle missing values and features XGBoost importance, variance thresholding, and correlation analysis for enhanced model interpretability. The machine learning model integrates nine algorithms, with a hard-voting ensemble of Logistic Regression and XGBoost demonstrating competitive accuracy, reaching 83.0%. Results highlight Linear Discriminant Analysis as the leading classifier, achieving 84% accuracy. The ensemble approach achieves 83.0% accuracy with a notable precision of 91%, showcasing the strength of combining diverse models. The study emphasizes the significance of preprocessing, feature selection, and ensemble learning for fraud detection optimization. The refined model achieves a minimal Brier loss of 0.00054, indicating minimal discrepancies in predicted probabilities and actual outcomes in binary classification. Exploration of principal component analysis (PCA) with multiple linear regression reveals a trade-off between model simplicity and performance. Retaining 32 components preserves 95% of variance, achieving a balance at 0.7967, while keeping 35 components reaches the highest value of 0.9991, showcasing dimensionality reduction's potential to capture nearly all the data variance.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-4109015/v1"
+    },
+    {
+        "id": 24372,
+        "title": "Fraud Detection using Machine Learning",
+        "authors": "Akinbusola Olushola, Joseph Mart",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "The winding path of this research into fraud detection using traditional machine learning (ML) led us through landscapes of both impressive strides and thought-provoking hurdles. As we retrace our steps, revisiting key findings and peering into the technology's potential, a nuanced understanding of its effectiveness comes into focus. Our primary contribution lies in demonstrating the surprising efficacy of traditional ML algorithms in combating fraudulent activities. By meticulously dissecting the Credit Card Fraud dataset and employing a rigorous methodological approach, we established that these algorithms can achieve commendable accuracy in identifying suspicious transactions. This not only reaffirms the viability of ML in fraud detection but also offers a valuable roadmap for future research and practical implementation. Our journey unveiled a fascinating tapestry of insights. We observed that different ML algorithms excel in specific domains. While Random Forest and Gradient Boosting proved to be overall champions, Logistic Regression [19] displayed exceptional talent in pinpointing certain types of fraudulent behavior. This underscores the importance of wielding a diverse arsenal of algorithms to achieve comprehensive fraud detection. Furthermore, we discovered that feature engineering is not merely a parlor trick, but a crucial stage in the dance with fraud. By crafting tailored features from the raw data, we were able to significantly enhance the accuracy of our models. This highlights the critical role of domain expertise in understanding the subtle nuances of fraudulent transactions and translating them into actionable features for ML algorithms. However, the ever-shifting sands of fraud necessitate constant vigilance and adaptation. Our research emphasizes the paramount importance of real-time monitoring and model updates to stay ahead of evolving fraudster tactics. This agility will be the key to unlocking the full potential of ML in this dynamic arena. Yet, our exploration would be remiss if it failed to acknowledge the limitations that linger within traditional ML. The \"black box\" nature of some algorithms can hinder interpretability and raise concerns about bias. Additionally, their reliance on historical data can render them vulnerable to novel fraud schemes that haven't yet graced the training dataset. However, these challenges should not overshadow the immense potential of traditional ML. Its ability to handle large datasets, learn from experience, and adapt to changing patterns remains invaluable in the fight against fraud. By combining traditional ML with other approaches, such as explainable AI and deep learning, we can unlock even greater capabilities and build robust, interpretable fraud detection systems that are not only effective, but also transparent and accountable. This research journey into traditional ML for fraud detection has illuminated both its strengths and weaknesses, paving the way for future advancements. By embracing its potential and addressing its limitations, we can leverage this powerful technology to create a safer and more secure digital landscape for everyone. The path forward lies in harnessing the diverse power of ML, while remaining mindful of its limitations, to build a future where fraudsters find themselves perpetually outwitted and outmaneuvered.",
+        "link": "http://dx.doi.org/10.14293/pr2199.000647.v1"
+    },
+    {
+        "id": 24373,
+        "title": "Credit Card Fraud Detection Using Machine Learning Algorithms",
+        "authors": "Jai Gupta",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21275/sr231123121203"
+    },
+    {
+        "id": 24374,
+        "title": "Survey Paper on Fraud Detection in Medicare Using Machine Learning",
+        "authors": "Muthulakshmi S.",
+        "published": "2020-4-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.37200/ijpr/v24i5/pr2020130"
+    },
+    {
+        "id": 24375,
+        "title": "Healthcare Fraud Detection Using Machine Learning",
+        "authors": "Idowu  Thomas Aruleba, Yanxia Sun",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4631193"
+    },
+    {
+        "id": 24376,
+        "title": "Credit Card Fraud Detection Using Machine Learning",
+        "authors": "Vishal Vishal Kumar",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "To make life better, many mechanisms in modern environment are carried out via the Internet. The economy is expanding yet on the other side, there is a lot of illegal and unauthorised activity carried throughout the country that is seriously hampering that progress. Scam instances, which mislead individuals while also causing economic losses, are just one of them. In realistic conditions, fraud involving credit cards surveillance is the main emphasis of this research. Contrary to earlier eras, the number of credit card scammers is drastically increasing right now. Criminals use various forms of innovation, fake documents, and deception to con others and take their cash. Therefore, it is extremely crucial to discover a solution to these frauds. As technology advances, it becomes harder to keep up with the behaviour and trends of illegal activities. Ai technology, machine learning, as well as other relevant data technology fields have advanced to the point that it is currently feasible to expedite this process and reduce the volume of labour-intensive effort needed in recognizing credit card scams. The user-submitted utilization of credit cards database might be collected initially, then using machine learning approach; it would be split into databases for testing and training purposes. This methodical technique could be utilized by researchers once they have evaluated both the larger information collection and the user-provided available data collection. Enhance the accuracy of the outcome statistics after that. Depending on its exactness and precision, a technology's efficiency is assessed. The results show that XG-Boost and Random Forest techniques have the greatest performance.",
+        "link": "http://dx.doi.org/10.36647/ciml/04.01.a009"
+    },
+    {
+        "id": 24377,
+        "title": "Credit Card Fraud Detection - A Machine Learning Perspective",
+        "authors": "Shahana Fathima, Leena C Sekhar, Jaseena K U",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.21275/sr231128212352"
+    },
+    {
+        "id": 24378,
+        "title": "Fraud and Anomaly Detection",
+        "authors": "Maris Sekar",
+        "published": "2022",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-1-4842-8051-5_21"
+    },
+    {
+        "id": 24379,
+        "title": "It’s Fraud! Application of Machine Learning Techniques for Detection of Fraudulent Digital Advertising",
+        "authors": "Snigdha Mathur, Sunita Daniel",
+        "published": "2022-1-20",
+        "citations": 0,
+        "abstract": "Due to the on-going COVID-19 pandemic, industries are heavily reliant on online meeting platforms. The pandemic has forced most MNCs to rely on online platforms such as Zoom or Microsoft Teams to hold daily business meetings and even conferences and other corporate events. Schools and other educational institutions have also been forced to conduct classes and all other events through these platforms. This increased unavoidable dependence on online platforms has resulted in an exponential increase in advertising fraud. Advertising fraud is the application of any method or technology that hampers the proper delivery of advertisements to the proper audience or the proper place, or forcefully inserts advertisements at undesirable times or locations. This could take multiple forms and has become far more widespread with increased use of online platforms. Some common methods used for digital fraud can be the pay-per-click (PPC) model, domain spoofing or in the form of bots, but the main objective is to gain financial advantages from advertising transactions. The primary objective of this study is to identify and understand the factors lying behind the presence of fraudulent activities on any online medium and to analyse the probability of downloading an application after coming across the online advertisement, and watching it. The study also aims to highlight how marketing agencies tend to float fraud advertisement just to gain more revenue from their end.",
+        "link": "http://dx.doi.org/10.14704/web/v19i1/web19166"
+    },
+    {
+        "id": 24380,
+        "title": "Combing machine learning and elemental profiling for geographical authentication of Chinese Geographical Indication (GI) rice",
+        "authors": "Fei Xu, Fanzhou Kong, Hong Peng, Shuofei Dong, Weiyu Gao, Guangtao Zhang",
+        "published": "2021-7-8",
+        "citations": 10,
+        "abstract": "AbstractIdentification of geographical origin is of great importance for protecting the authenticity of valuable agri-food products with designated origins. In this study, a robust and accurate analytical method that could authenticate the geographical origin of Geographical Indication (GI) products was developed. The method was based on elemental profiling using inductively coupled plasma mass spectrometry (ICP-MS) in combination with machine learning techniques for model building and feature selection. The method successfully predicted and classified six varieties of Chinese GI rice. The elemental profiles of 131 rice samples were determined, and two machine learning algorithms were implemented, support vector machines (SVM) and random forest (RF), together with the feature selection algorithm Relief. Prediction accuracy of 100% was achieved by both Relief-SVM and Relief-RF models, using only four elements (Al, B, Rb, and Na). The methodology and knowledge from this study could be used to develop reliable methods for tracing geographical origins and controlling fraudulent labeling of diverse high-value agri-food products.",
+        "link": "http://dx.doi.org/10.1038/s41538-021-00100-8"
+    },
+    {
+        "id": 24381,
+        "title": "Medicare Fraud Detection Using Machine Learning Methods",
+        "authors": "Richard A. Bauder, Taghi M. Khoshgoftaar",
+        "published": "2017-12",
+        "citations": 54,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla.2017.00-48"
+    },
+    {
+        "id": 24382,
+        "title": "A Review: Credit Card Fraud Detection in Banks using Machine Learning Algorithms",
+        "authors": "Muhammad Hazeel Ahmed",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "A fraud Detection System",
+        "link": "http://dx.doi.org/10.14293/s2199-1006.1.sor-.ppfi7p0.v2"
+    },
+    {
+        "id": 24383,
+        "title": "Fraud Detection in Fintech Leveraging Machine Learning and Behavioral Analytics",
+        "authors": "Hari Prasad Josyula",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nFraud detection in the fintech sector is a critical area of concern as financial transactions increasingly shift to digital platforms. This paper presents a comprehensive analysis of enhancing fraud detection in fintech by combining machine learning techniques, leveraging behavioral analytics, and adopting RegTech solutions. The objective is to develop a holistic approach that strengthens fraud prevention strategies, ensures regulatory compliance, and safeguards the interests of customers and financial institutions. The paper begins with an introduction that sets the context by highlighting the growing importance of fraud detection in the digital financial landscape. It outlines the research objectives, scope, and structure of the paper. Subsequently, the methodology section details the data collection process, the selection and comparative analysis of machine learning models, the integration of behavioral analytics, and the implementation of RegTech solutions. The paper concludes with a summary of findings and contributions, emphasizing the significance of adopting a holistic approach to fraud detection in the fintech industry. It underscores the need for financial institutions to embrace advanced technologies, comply with data privacy regulations, and collaborate within the industry to combat financial crimes effectively.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3548343/v1"
+    },
+    {
+        "id": 24384,
+        "title": "Fraud Detection System based on Artificial Immune System",
+        "authors": "Vitaly Krokhalev",
+        "published": "2022-4-23",
+        "citations": 0,
+        "abstract": "Nowadays, one of the most important problems for financial companies is fraud related to online transactions. It is becoming increasingly sophisticated and advanced, leading to financial losses on the part of both customers and companies. Based on this, my company was tasked with creating a fraud detection system that is scalable and adaptable to change. This research aims to create a solution that can be used to identify differences in customer behavior patterns and detect fraud. The artificial immune system model proposed in this article, combined with certain informative features, is simple to implement and can describe customer behavior patterns.",
+        "link": "http://dx.doi.org/10.5121/csit.2022.120707"
+    },
+    {
+        "id": 24385,
+        "title": "Unsupervised Machine Learning for Explainable Health Care Fraud Detection",
+        "authors": "Shubhranshu Shekhar, Jetson Leder-Luis, Leman Akoglu",
+        "published": "2023-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.3386/w30946"
+    },
+    {
+        "id": 24386,
+        "title": "Fraud Governance and Good Practices Against Fraud",
+        "authors": "Antonios Zairis",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "Corporate governance standards allow corporate actions to be in accordance with law. In recent years, allegations of corporate misconduct have raised questions about the prevailing norm of conformity. This chapter discusses the effect of law on corporate activity by comparing the provisions of law with the actual conduct of business in the market. In particular, it explores how such legislation causes a greater commitment of corporate entities to legal enforcement than others. The inference drawn is that the existing rule—an ambiguous common law or statutory requirement—usually has to do with corporate conduct that evades the requirement or underlying intent of the law or ignores it. In its fraud policy and fraud response plan, the strategy of a company to deal with fraud should be explicitly defined. ",
+        "link": "http://dx.doi.org/10.4018/978-1-7998-4805-9.ch004"
+    },
+    {
+        "id": 24387,
+        "title": "Leveraging Machine Learning Techniques for Enhanced Detection of Insurance Fraud Claims: An Empirical Study",
+        "authors": "Abdelrahim Aqqad",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.4552815"
+    },
+    {
+        "id": 24388,
+        "title": "Unbalanced Data Processing and Machine Learning in Credit Card Fraud Detection",
+        "authors": "Haili Peng, Jing Wang",
+        "published": "No Date",
+        "citations": 1,
+        "abstract": "Abstract\nImbalanced data often performs poorly in the model and can prevent the model from capturing a few classes of samples, so it is crucial to process imbalanced data. This paper is a credit card fraud detection based on imbalanced data, comparing different processing methods for imbalanced data and using machine learning to detect credit card fraud, and finally arriving at optimal results. Since credit card fraud data is mostly a dichotomous problem and highly imbalanced, it means that the machine learning model favors the majority of the samples and treats the fraudulent transactions in the credit card fraud data as correct transactions. The treatment of imbalanced data is crucial because of the low percentage of fraudulent data. We used different methods for imbalanced data such as oversampling, undersampling, combined sampling and using class weights to improve the class imbalance and applied these methods to credit card fraud detection and calculated Accuracy, Precision, Recall, F1 score and AUC. Because of the severe imbalance in the data, the model is biased towards majority of the samples, so the accuracy of the model will be high. Because we focus more on the probability that a minority class of the sample is correctly classified, to check the performance of the model, we will use the F1 score, the Area Under the Precision-Recall Curve (AUPRC). and recall as measures instead of accuracy. The results demonstrate that the model achieves the best performance by resampling the credit card fraud data, and finding the optimal weights for different category samples by grid search when setting the category weights leads to a significant improvement in the performance of the logistic regression model, and the random forest outperforms all the machine learning models that are compared.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-2004320/v1"
+    },
+    {
+        "id": 24389,
+        "title": "FRAUD DETECTION USING MACHINE LEARNING AND DEEP LEARNING",
+        "authors": "",
+        "published": "2023-5-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets39476"
+    },
+    {
+        "id": 24390,
+        "title": "Credit Card Fraud Detection Using Machine Learning Techniques",
+        "authors": "Nermin Samy,  , Shimaa mohamed mohamed,  ",
+        "published": "2022-6-1",
+        "citations": 1,
+        "abstract": "This is a systematic literature review to reflect the previous studies that dealt with credit card fraud detection and highlight the different machine learning techniques to deal with this problem. Credit cards are now widely utilized daily. The globe has just begun to shift toward financial inclusion, with marginalized people being introduced to the financial sector. As a result of the high volume of e-commerce, there has been a significant increase in credit card fraud. One of the most important parts of today's banking sector is fraud detection. Fraud is one of the most serious concerns in terms of monetary losses, not just for financial institutions but also for individuals. as technology and usage patterns evolve, making credit card fraud detection a particularly difficult task. Traditional statistical approaches for identifying credit card fraud take much more time, and the result accuracy cannot be guaranteed. Machine learning algorithms have been widely employed in the detection of credit card fraud. The main goal of this review intends to present the previous research studies accomplished on Credit Card Fraud Detection (CCFD), and how they dealt with this problem by using different machine learning techniques.",
+        "link": "http://dx.doi.org/10.54623/fue.fcij.7.1.2"
+    },
+    {
+        "id": 24391,
+        "title": "Fraud Claims Detection in Insurance Using Machine Learning",
+        "authors": "",
+        "published": "2022-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.47750/pnr.2022.13.s03.053"
+    },
+    {
+        "id": 24392,
+        "title": "Detection and Prevention of Fraud in the Digital Era",
+        "authors": "Evrim Vildan Altuk",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "It is essential for businesses to keep up with the technological advances. Today nearly all the businesses depend on computer technologies and the Internet to operate as technological developments have introduced many practical methods for businesses. Yet, transformation of businesses technologically also presents new means for the criminals, which has led to new types of fraud. It is crucial for businesses to take measures to prevent fraud. Traditional methods to prevent or to detect fraud seems to be ineffective for new types of fraud in the digital era. Therefore, new methods have been used to prevent and detect fraud. This chapter reviews fraud as a form of cybercrime in the digital era and aims to introduce the methods that have been used to detect and prevent it. ",
+        "link": "http://dx.doi.org/10.4018/978-1-7998-4805-9.ch009"
+    },
+    {
+        "id": 24393,
+        "title": "Credit Card Fraud Detection Using Adversarial Learning",
+        "authors": "Jitong Geng, Bin Zhang",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424872"
+    },
+    {
+        "id": 24394,
+        "title": "A Study on Various Applications of Data Mining and Supervised Learning Techniques in Business Fraud Detection",
+        "authors": "Amit Majumder, Ira Nath",
+        "published": "2021",
+        "citations": 0,
+        "abstract": "Data mining technique helps us to extract useful data from a large dataset of any raw data. It is used to analyse and identify data patterns and to find anomalies and correlations within dataset to predict outcomes. Using a broad range of techniques, we can use this information to improve customer relationships and reduce risks. Data mining and supervised learning have applications in multiple fields of science and research. Machine learning looks at patterns of data and helps to predict future behaviour by learning from the patterns. Data mining is normally used as a source of information on which machine learning can be applied to solve some of problems in our daily life. Supervised learning is one type of machine learning method which uses labelled data consisting of input along with the label of inputs and generates one learned model (or classifier for classification type work) which can be used to label unknown data. Financial accounting fraud detection has become an emerging topic in the field of academic, research and industries. ",
+        "link": "http://dx.doi.org/10.4018/978-1-7998-4805-9.ch008"
+    },
+    {
+        "id": 24395,
+        "title": "Machine Learning Techniques for SIM Box Fraud Detection",
+        "authors": "Mhair Kashir, Sajid Bashir",
+        "published": "2019-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/comtech.2019.8737828"
+    },
+    {
+        "id": 24396,
+        "title": "Credit Card Fraud Detection Using Machine Learning",
+        "authors": "Sanjay Bharadwaj",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/dese60595.2023.10469583"
+    },
+    {
+        "id": 24397,
+        "title": "Fraud Detection using Machine Learning and Deep Learning",
+        "authors": "Pradheepan Raghavan, Neamat El Gayar",
+        "published": "2019-12",
+        "citations": 49,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccike47802.2019.9004231"
+    },
+    {
+        "id": 24398,
+        "title": "Use Case—Fraud Detection Using Machine Learning Techniques",
+        "authors": "Philipp Enzinger, Sangmeng Li",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-3-030-78829-2_3"
+    },
+    {
+        "id": 24399,
+        "title": "Analysis and Comparison of Credit Card Fraud Detection Using Machine Learning",
+        "authors": " Saloni, Minakhi Rout",
+        "published": "2021-9-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003125129-5"
+    },
+    {
+        "id": 24400,
+        "title": "Fraud Detection by Machine Learning",
+        "authors": "Yiheng Wei, Yu Qi, Qianyu Ma, Zhangchi Liu, Chengyang Shen, Chen Fang",
+        "published": "2020-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mlbdbi51377.2020.00025"
+    },
+    {
+        "id": 24401,
+        "title": "Research and implementation of Android fraud software detection technology based on machine learning",
+        "authors": "Yuguo Shen",
+        "published": "2023-5-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1117/12.2673536"
+    },
+    {
+        "id": 24402,
+        "title": "Design of a Model in Machine Learning For Credit Card Fraud Detection",
+        "authors": "",
+        "published": "2022-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7176/ceis/13-2-06"
+    },
+    {
+        "id": 24403,
+        "title": "Credit Card Fraud Detection Using Machine learning and Deep learning Techniques",
+        "authors": "",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets45225"
+    },
+    {
+        "id": 24404,
+        "title": "A STEP FORWARD IN FRAUD DETECTION SYSTEM USING MACHINE LEARNING",
+        "authors": "",
+        "published": "2020-6-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31838/jcr.07.12.76"
+    },
+    {
+        "id": 24405,
+        "title": "Machine learning based credit card fraud detection",
+        "authors": "Shakti Kinger, Varsha Powar",
+        "published": "2023-4-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003370628-71"
+    },
+    {
+        "id": 24406,
+        "title": "Credit Card Fraud Detection using Machine Learning and Deep Learning Techniques",
+        "authors": "Mohammed Azhan, Shazli Meraj",
+        "published": "2020-12-3",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iciss49785.2020.9316002"
+    },
+    {
+        "id": 24407,
+        "title": "credit card fraud detection using machine learning",
+        "authors": "",
+        "published": "2023-5-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.58257/ijprems31179"
+    },
+    {
+        "id": 24408,
+        "title": "A STEP FORWARD IN FRAUD DETECTION SYSTEM USING MACHINE LEARNING",
+        "authors": "",
+        "published": "2020-7-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.31838/jcr.07.14.174"
+    },
+    {
+        "id": 24409,
+        "title": "CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING",
+        "authors": "",
+        "published": "2023-1-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets-ncascte202220"
+    },
+    {
+        "id": 24410,
+        "title": "Analysis of Machine Learning Techniques for Credit Card Fraud Detection",
+        "authors": "Abrar Hayat Nadim, Ibrahim Mohammad Sayem, Aapan Mutsuddy, Mohammad Sanaullah Chowdhury",
+        "published": "2019-12",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmlde49015.2019.00019"
+    },
+    {
+        "id": 24411,
+        "title": "Fraud Credit Card Detection using Machine Learning",
+        "authors": "",
+        "published": "2024-1-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets48693"
+    },
+    {
+        "id": 24412,
+        "title": "Medical Insurance Fraud Detection Using Machine Learning",
+        "authors": "P.P. Shenoy, P. K. Vidhate, S. C. Gund3",
+        "published": "2023-12-25",
+        "citations": 0,
+        "abstract": "Medical insurance fraud poses significant challenges to the healthcare industry, impacting financial resources and patient care. This research explores the application of machine learning methodologies to detect fraudulent activities within healthcare insurance claims. Medical insurance fraud detection is crucial to help insurance companies save money. Machine learning is a powerful tool that can be used to detect fraudulent activities in the healthcare industry. Fraud can be spread broadly and extremely costly to the therapeutic protection framework. Protection can be made unscrupulous and be a case designed to hide or alter such information meant for social insurance benefits. Cheats might be numerous and submitted by the protection guarantor or the safeguarded. The unscrupulous social insurance providers are the reason for extortion in the well-being segment.   This research approach is to apply machine learning to find incidents of medical insurance fraud automatically. In conclusion, machine learning is a promising tool for detecting medical insurance fraud. It can help insurers detect fraudulent activities in real time, saving money on bogus claims.",
+        "link": "http://dx.doi.org/10.53555/jaz.v44is8.3496"
+    },
+    {
+        "id": 24413,
+        "title": "Fraud Detection Techniques in the Big Data Era",
+        "authors": "Hanae Abbassi, Imane El Alaoui, Youssef Gahi",
+        "published": "2021",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.5220/0010730300003101"
+    },
+    {
+        "id": 24414,
+        "title": "Multiple Machine Learning Models on Credit Card Fraud Detection",
+        "authors": "Minjun Dai",
+        "published": "2023-4-27",
+        "citations": 0,
+        "abstract": "Nowadays, there is a huge increase in digital financial fraud as a result of the widespread usage of credit cards for online purchases. Therefore, a credit card fraud detection method with high accuracy, minimizing the risk of losing money when the transaction occurs, becomes imperative. The study first processed a synthetic data set, discarding useless features, using one hot encoding to convey categorical information to numerical ones and separating the training and testing datasets. Based on the new formed datasets, the study built three Machine Learning (ML) models for fraud detection, which are the Support Vector Machine (SVM) model, the logistic regression model and the decision tree model, respectively. Next, the study implemented on training these three models by fitting the model on training datasets and predicting the test data in testing datasets. Lastly, the heatmap named confusion matrix was provided to visualize the outcomes, indicating the accuracy of each model. Also, the study uses another four performance measurement scores which are Area under the Receiver Operating Characteristic Curve (ROC AUC score), accuracy classification score, balanced F1 score and precision score for evaluating models. Comparing these three models based on the confusion matrix and the four accuracy scores, the study explored that the decision tree model can achieve the best performance compared to other models in predicting fraud.",
+        "link": "http://dx.doi.org/10.54691/bcpbm.v44i.4839"
+    },
+    {
+        "id": 24415,
+        "title": "Peer Review #4 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.2)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.2/reviews/4"
+    },
+    {
+        "id": 24416,
+        "title": "Peer Review #1 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.1)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.1/reviews/1"
+    },
+    {
+        "id": 24417,
+        "title": "Peer Review #2 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.2)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.2/reviews/2"
+    },
+    {
+        "id": 24418,
+        "title": "Fraud Detection in Healthcare Insurance Claims Using Machine Learning",
+        "authors": "Eman Nabrawi, Abdullah Alanazi",
+        "published": "2023-9-5",
+        "citations": 3,
+        "abstract": "Healthcare fraud is intentionally submitting false claims or producing misinterpretation of facts to obtain entitlement payments. Thus, it wastes healthcare financial resources and increases healthcare costs. Subsequently, fraud poses a substantial financial challenge. Therefore, supervised machine and deep learning analytics such as random forest, logistic regression, and artificial neural networks are successfully used to detect healthcare insurance fraud. This study aims to develop a health model that automatically detects fraud from health insurance claims in Saudi Arabia. The model indicates the greatest contributing factor to fraud with optimal accuracy. The labeled imbalanced dataset used three supervised deep and machine learning methods. The dataset was obtained from three healthcare providers in Saudi Arabia. The applied models were random forest, logistic regression, and artificial neural networks. The SMOT technique was used to balance the dataset. Boruta object feature selection was applied to exclude insignificant features. Validation metrics were accuracy, precision, recall, specificity, F1 score, and area under the curve (AUC). Random forest classifiers indicated policy type, education, and age as the most significant features with an accuracy of 98.21%, 98.08% precision, 100% recall, an F1 score of 99.03%, specificity of 80%, and an AUC of 90.00%. Logistic regression resulted in an accuracy of 80.36%, 97.62% precision, 80.39% recall, an F1 score of 88.17%, specificity of 80%, and an AUC of 80.20%. ANN revealed an accuracy of 94.64%, 98.00% precision, 96.08% recall, an F1 score of 97.03%, a specificity of 80%, and an AUC of 88.04%. This predictive analytics study applied three successful models, each of which yielded acceptable accuracy and validation metrics; however, further research on a larger dataset is advised.",
+        "link": "http://dx.doi.org/10.3390/risks11090160"
+    },
+    {
+        "id": 24419,
+        "title": "CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING",
+        "authors": "",
+        "published": "2023-2-24",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets33662"
+    },
+    {
+        "id": 24420,
+        "title": "Peer Review #3 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.1)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.1/reviews/3"
+    },
+    {
+        "id": 24421,
+        "title": "Peer Review #1 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.2)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.2/reviews/1"
+    },
+    {
+        "id": 24422,
+        "title": "Towards Privacy Preserving Financial Fraud Detection",
+        "authors": "Stephanie Abanilla, Moitrayee Chatterjee, Shuvalaxmi Dass",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00261"
+    },
+    {
+        "id": 24423,
+        "title": "A Memory-Enhanced Framework for Financial Fraud Detection",
+        "authors": "Yang Kunlin",
+        "published": "2018-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icmla.2018.00140"
+    },
+    {
+        "id": 24424,
+        "title": "Peer Review #3 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.2)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.2/reviews/3"
+    },
+    {
+        "id": 24425,
+        "title": "An Analysis of the Supervised Learning Approach for Online Fraud Detection",
+        "authors": "Dhoma Harshavardhan Reddy",
+        "published": "2022-10-14",
+        "citations": 0,
+        "abstract": "Illegal online financial transactions are now more sophisticated and global in scope, which costs both parties—customers and businesses. For fraud prevention and detection in the online setting, many different strategies have been proposed. While all of these techniques aim to detect and stop fraudulent online transactions, they differ in terms of their features, advantages, and disadvantages. This study assesses the current fraud detection research in this area to detect the employed algorithms and assessing in accordance with predetermined standards. The systematic quantitative literature review methodology was used to assess the research studies in the subject of online fraud detection. A hierarchical typology is created based on the supervised learning methods in scientific articles and their properties. Therefore, by integrating three selection criteria—accuracy, coverage, and costs—our research presents the best methods for identifying fraud in a novel approach.  Index Terms : Detection, Online fraud, Online transaction, Supervised Learning Algorithm.",
+        "link": "http://dx.doi.org/10.36647/ciml/03.02.a007"
+    },
+    {
+        "id": 24426,
+        "title": "Peer Review #2 of \"A systematic review of literature on credit card cyber fraud detection using machine and deep learning (v0.1)\"",
+        "authors": "",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.7287/peerj-cs.1278v0.1/reviews/2"
+    },
+    {
+        "id": 24427,
+        "title": "HYBRID MACHINE LEARNING ALGORITHM FOR CREDIT CARD FRAUD DETECTION",
+        "authors": "",
+        "published": "2022-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets29605"
+    },
+    {
+        "id": 24428,
+        "title": "Insurance Fraud Detection using Machine Learning",
+        "authors": "Machinya Tongesai, Godfrey Mbizo, Kudakwashe Zvarevashe",
+        "published": "2022-11-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/zcict55726.2022.10046034"
+    },
+    {
+        "id": 24429,
+        "title": "CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING",
+        "authors": "Sanmati Marabad",
+        "published": "2021-8-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.33130/ajct.2021v07i02.023"
+    },
+    {
+        "id": 24430,
+        "title": "Credit Card Fraud Detection Using Machine Learning &amp; Python",
+        "authors": "",
+        "published": "2023-6-16",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets42136"
+    },
+    {
+        "id": 24431,
+        "title": "Machine Learning Methods for Credit Card Fraud Detection",
+        "authors": "Yihong He",
+        "published": "2022-12-3",
+        "citations": 0,
+        "abstract": "Machine learning is an innovative and efficient tool to prevent credit card fraud, however, given the variety of machine learning models, which model is the most suitable for fraudulent transaction predictions becomes a tough question to answer. In this research, a comprehensive evaluation method is borrowed to compare performances between different machine learning models. More precisely, this research uses the Area under the ROC Curve (AUC) metric to evaluate and compare performances between four different machine learning models with the same transaction information dataset. The four models are K Nearest Neighbor, Logistic Regression, Random Forest, and Support Vector Machine. In this research, a dataset that contains over one million credit card transaction data is processed and divided into training data and testing data. After preprocessing, the same training data are fitted into four different models and being test against the same testing data. After a series of hyperparameter tuning, the AUC score of each model is obtained and compared. The comparison result indicates that Random Forest makes the most accurate and consistent predictions on fraudulent transactions in this dataset, and thus can be recommended as the primary machine learning algorithm to prevent credit card fraudulent transactions.",
+        "link": "http://dx.doi.org/10.54097/hset.v23i.3204"
+    },
+    {
+        "id": 24432,
+        "title": "Credit Card Fraud Detection Using a Hybrid Machine Learning Algorithm",
+        "authors": "Shubham Singh, Harshita Nimje, Ajinkya Fulpatile, Rahul Neware",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "The use of credit cards and online banking is expanding exponentially. As more individuals use debit cards, credit cards, and internet banking, the likelihood of falling victim to various forms of fraud also rises. Due to ignorance, credit card company customers have provided their card details, personal information, and one-time password to an unknown bogus caller on several occasions in the recent past. One of the biggest issues facing financial institutions and customers alike is credit card theft. It may result in large financial losses and harm to the financial institution's image. While there are several ways to identify credit card fraud, one of the best is machine learning.By using past data, machine learning algorithms may be trained to recognize trends and abnormalities that point to fraud. The state-of-the-art in machine learning for credit card fraud detection is reviewed in this study. Numerous research on the same subject have been conducted in the past with a variety of well-known machine-learning techniques. However, with a grasp of the notion of hybrid machine learning, we will now examine how well hybrid machine learning performs on the same problem statement. ",
+        "link": "http://dx.doi.org/10.20944/preprints202402.1206.v1"
+    },
+    {
+        "id": 24433,
+        "title": "Financial Fraud Detection using Machine Learning : Credit Card Fraud",
+        "authors": "Odeajo Israel, Akinmoluwa Oluseye, Sharon Ojo, Otesanya Temitope Deborah",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.14445/23497157/ijres-v10i3p104"
+    },
+    {
+        "id": 24434,
+        "title": "Machine Learning Algorithms in Fraud Detection: Case Study on Retail Consumer Financing Company",
+        "authors": "Nadya Intan Mustika, Bagus Nenda, Dona Ramadhan",
+        "published": "2021-12-30",
+        "citations": 3,
+        "abstract": "This study aims to implement a machine learning algorithm in detecting fraud based on historical data set in a retail consumer financing company. The outcome of machine learning is used as samples for the fraud detection team. Data analysis is performed through data processing, feature selection, hold-on methods, and accuracy testing. There are five machine learning methods applied in this study: Logistic Regression, K-Nearest Neighbor (KNN), Decision Tree, Random Forest, and Support Vector Machine (SVM). Historical data are divided into two groups: training data and test data. The results show that the Random Forest algorithm has the highest accuracy with a training score of 0.994999 and a test score of 0.745437. This means that the Random Forest algorithm is the most accurate method for detecting fraud. Further research is suggested to add more predictor variables to increase the accuracy value and apply this method to different financial institutions and different industries.",
+        "link": "http://dx.doi.org/10.21532/apfjournal.v6i2.216"
+    },
+    {
+        "id": 24435,
+        "title": "Critical Analysis of Machine Learning Based Approaches for Fraud Detection in Financial Transactions",
+        "authors": "Thushara Amarasinghe, Achala Aponso, Naomi Krishnarajah",
+        "published": "2018-5-19",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1145/3231884.3231894"
+    },
+    {
+        "id": 24436,
+        "title": "Fraud Detection in Financial Domain using Machine Learning",
+        "authors": "Nilotpal Pathak, Swasti Singhal",
+        "published": "2023-1-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aisc56616.2023.10085181"
+    },
+    {
+        "id": 24437,
+        "title": "Machine Learning Applied to Rotating Check Fraud Detection",
+        "authors": "Christine Hines, Abdou Youssef",
+        "published": "2018-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icdis.2018.00012"
+    },
+    {
+        "id": 24438,
+        "title": "Explainable Machine Learning Models for Medicare Fraud Detection",
+        "authors": "John Thomas III Hancock, Richard A Bauder, Huanjing Wang, Taghi M Khoshgoftaar",
+        "published": "No Date",
+        "citations": 0,
+        "abstract": "Abstract\nAs a means of building explainable machine learning models for Big Data, we apply a novel ensemble supervised feature selection technique. The technique is applied to publicly available insurance claims data from the United States public health insurance program, Medicare. We approach Medicare insurance fraud detection as a supervised machine learning task of anomaly detection through the classification of highly imbalanced Big Data. Our objectives for feature selection are to increase efficiency in model training, and to develop more explainable machine learning models for fraud detection. Using two Big Data datasets derived from two different sources of insurance claims data, we demonstrate how our feature selection technique reduces the dimensionality of the datasets by approximately 87.5% without compromising performance. Moreover, the reduction in dimensionality results in machine learning models that are easier to explain, and less prone to overfitting. Therefore, our primary contribution of the exposition of our novel feature selection technique leads to a further contribution to the application domain of automated Medicare insurance fraud detection. We utilize our feature selection technique to provide an explanation of our fraud detection models in terms of the definitions of the selected features. The ensemble supervised feature selection technique we present is flexible in that any collection of machine learning algorithms that maintain a list of feature importance values may be used. Therefore, researchers may easily employ variations of the technique we present.",
+        "link": "http://dx.doi.org/10.21203/rs.3.rs-3076353/v1"
+    },
+    {
+        "id": 24439,
+        "title": "Analysis of Credit card fraud detection techniques using Machine Learning*",
+        "authors": "Divya Sharma, Sandeep Singh Kang",
+        "published": "2022-11-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/incoft55651.2022.10094485"
+    },
+    {
+        "id": 24440,
+        "title": "Theoretical Analysis of Creative Accounting",
+        "authors": "Christianna Chimonaki",
+        "published": "2021",
+        "citations": 1,
+        "abstract": "This chapter begins with the definitions of creative accounting, fraud and financial statement fraud and explains the relationship between them. Next, it presents the classical theories on the determinants of financial statement fraud. Section 1.4 presents the profile of accounting scandals. Section 1.5 presents the components of financial report fraud as well as the parties involved in in creative accounting. Section 1.6 presents the reasons and motivations for creative accounting. Specifically, the authors analyse manipulation practices, the methods and the opportunities for creative accounting and address why financial frauds occur. Finally, they offer conclusions in Section 1.7. ",
+        "link": "http://dx.doi.org/10.4018/978-1-7998-4805-9.ch005"
+    },
+    {
+        "id": 24441,
+        "title": "Developing an Intelligent Credit Card Fraud Detection System with Machine Learning",
+        "authors": "Omkar Dabade, Aditya Admane, Deepak Shitole, Vitthal Kamble",
+        "published": "2022-1-30",
+        "citations": 2,
+        "abstract": "Credit card fraud is a significant issue in the economic services sector. Each year, billions of rupees are lost due to credit card fraud. Due to confidentiality concerns, there are an absence of studies examining actual credit card records. In this paper, machine learning algorithms are employed to detect credit card fraud. First, standard models are utilized. Then, hybrid techniques consisting of Random Forest, AdaBoost, XGBoost, and majority voting are implemented. To evaluate the effectiveness of the version, a set of publicly accessible credit card records is utilized. Then, credit card records from a real-world economic institution are analyzed. The experimental results suggest that Random Forest and majority voting accomplish precise accuracy estimates for detecting credit card fraud instances.",
+        "link": "http://dx.doi.org/10.55529/jaimlnn.21.45.53"
+    },
+    {
+        "id": 24442,
+        "title": "Credit Card Fraud Detection Using Machine Learning Techniques",
+        "authors": "Indrani Vejalla, Sai Preethi Battula, Kartheek Kalluri, Hemantha Kumar Kalluri",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pcems58491.2023.10136040"
+    },
+    {
+        "id": 24443,
+        "title": "Credit Card Fraud Intelligent Detection Based on Machine Learning",
+        "authors": "Duojiao Mu",
+        "published": "2022-2-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eebda53927.2022.9744875"
+    },
+    {
+        "id": 24444,
+        "title": "Credit card fraud detection system using machine learning technique",
+        "authors": "Ayushi Maurya, Arun Kumar",
+        "published": "2022-6-16",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/cyberneticscom55287.2022.9865466"
+    },
+    {
+        "id": 24445,
+        "title": "Fraud Detection Using Optimized Machine Learning Tools Under Imbalance Classes",
+        "authors": "Mary Isangediok, Kelum Gajamannage",
+        "published": "2022-12-17",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/bigdata55660.2022.10020723"
+    },
+    {
+        "id": 24446,
+        "title": "Applications of Machine Learning in Fintech Credit Card Fraud Detection",
+        "authors": "Francisco Lacruz, Jafar Saniie",
+        "published": "2021-5-14",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/eit51626.2021.9491903"
+    },
+    {
+        "id": 24447,
+        "title": "Attack on Fraud Detection Systems in Online Banking Using Generative Adversarial Networks",
+        "authors": "Jerzy Surma, Krzysztof Jagiełło",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1201/9781003187158-21"
+    },
+    {
+        "id": 24448,
+        "title": "Telecom Fraud Detection with Machine Learning on Imbalanced Dataset",
+        "authors": "Ivan Krasic, Stipe Celar",
+        "published": "2022-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.23919/softcom55329.2022.9911518"
+    },
+    {
+        "id": 24449,
+        "title": "Case Study: TalkingData AdTracking Fraud Detection Challenge",
+        "authors": "Wang He, Peng Liu, Qian Qian",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1007/978-981-99-3723-3_14"
+    },
+    {
+        "id": 24450,
+        "title": "Multiple Inputs Neural Networks for Fraud Detection",
+        "authors": "Mansour Zoubeirou A Mayaki, Michel Riveill",
+        "published": "2022-10",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/mlcr57210.2022.00011"
+    },
+    {
+        "id": 24451,
+        "title": "Pendugaan Fraud Detection pada kartu kredit dengan Machine Learning",
+        "authors": "Arief Kurniawan, Yulianingsih Yulianingsih",
+        "published": "2021-10-25",
+        "citations": 0,
+        "abstract": "Meningkatnya volume dan potensi kerugian akibat tindak pidana penipuan kartu kredit memerlukan solusi yang memungkinkan pihak penyelenggara layanan kartu kredit dapat melakukan analisis pada setiap transaksi secara cepat dan akurat. Hal ini hampir mustahil dilakukan secara manual oleh manusia. Dalam penelitian ini kami coba melakukan implementasi metode Random Forest untuk menemukan solusi terbaik melakukan prediksi pada permasalahan dan diperoleh hasil sebesar 0,85 yang menunjukan bahwa model yang dikembangkan memilik akurasi yang baik.\r\n \r\nKata kunci: penipuan kartu kredit, random forest, machine learning",
+        "link": "http://dx.doi.org/10.33322/kilat.v10i2.1482"
+    },
+    {
+        "id": 24452,
+        "title": "CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING ALGORITHMS",
+        "authors": " K.Kowsalya,  Mrs.Vasumathi,  Dr.S.Selvakani",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "The Credit card frauds represent facile and amiable targets, particularly as the proliferation of e-commerce and various online platforms has led to a commensurate expansion in online payment modalities, thereby augmenting the susceptibility to online fraudulent activities. In response to the escalating rates of fraudulent incidents, researchers have undertaken the utilization of diverse machine learning methodologies to ascertain and scrutinize frauds within the realm of online transactions.\nThe primary objective of this scholarly endeavor is to formulate and advance an innovative fraud detection modus operandi tailored for Streaming Transaction Data. The overarching goal is to meticulously scrutinize the historical transaction particulars of patrons and distill discernible behavioral patterns. This involves the clustering of cardholders into disparate cohorts predicated upon their transactional magnitudes. Subsequently, a sliding window strategy is employed to amalgamate transactions conducted by cardholders across distinct groups, facilitating the extraction of their respective behavioral patterns.\nConsecutively, diverse classifiers trained on these distinct groups, and the classifier exhibiting superior rating scores is earmarked as one of the preeminent methods for prognosticating fraudulent activities. This is succeeded by the implementation of a feedback mechanism aimed at mitigating the challenges posed by the phenomenon of concept drift. The empirical investigation detailed in this paper is grounded in the analysis of a European credit card fraud dataset.\nIt is imperative for credit card companies to adeptly discern instances of fraudulent credit card transactions to preclude customers from incurring charges for items they did not legitimately acquire. The resolution to such quandaries lies in the realm of Data Science, a discipline whose significance, when coupled with Machine Learning, is of paramount importance. This undertaking endeavors to elucidate the construction of a model utilizing machine learning techniques for Credit Card Fraud Detection.\nThe Credit Card Fraud Detection Problem entails the modeling of historical credit card transactions, incorporating data from those that transpired as fraudulent. Subsequently, this model is employed to ascertain the veracity of new transactions, distinguishing between fraudulent and non-fraudulent activities. The primary aim is the meticulous detection of 100% of fraudulent transactions, while concurrently minimizing instances of erroneous classifications of non-fraudulent transactions. Credit Card Fraud Detection serves as a quintessential exemplar of classification challenges.\nIn the course of this endeavor, significant emphasis has been placed on the analysis and pre-processing of datasets. Furthermore, a diverse array of anomaly detection algorithms, including the Local Outlier Factor and Isolation Forest algorithm, have been deployed on Principal Component Analysis (PCA) transformed Credit Card Transaction data. \nKEYWORDS: Card-Not-Present frauds, Card-Present-Frauds, Concept Drift,,Credit card fraud, applications of machine  \nlearning, data science.",
+        "link": "http://dx.doi.org/10.36713/epra16045"
+    },
+    {
+        "id": 24453,
+        "title": "Enhanced Credit Card Fraud Detection Model Using Machine Learning",
+        "authors": "Noor Saleh Alfaiz, Suliman Mohamed Fati",
+        "published": "2022-2-21",
+        "citations": 43,
+        "abstract": "The COVID-19 pandemic has limited people’s mobility to a certain extent, making it difficult to purchase goods and services offline, which has led the creation of a culture of increased dependence on online services. One of the crucial issues with using credit cards is fraud, which is a serious challenge in the realm of online transactions. Consequently, there is a huge need to develop the best approach possible to using machine learning in order to prevent almost all fraudulent credit card transactions. This paper studies a total of 66 machine learning models based on two stages of evaluation. A real-world credit card fraud detection dataset of European cardholders is used in each model along with stratified K-fold cross-validation. In the first stage, nine machine learning algorithms are tested to detect fraudulent transactions. The best three algorithms are nominated to be used again in the second stage, with 19 resampling techniques used with each one of the best three algorithms. Out of 330 evaluation metric values that took nearly one month to obtain, the All K-Nearest Neighbors (AllKNN) undersampling technique along with CatBoost (AllKNN-CatBoost) is considered to be the best proposed model. Accordingly, the AllKNN-CatBoost model is compared with related works. The results indicate that the proposed model outperforms previous models with an AUC value of 97.94%, a Recall value of 95.91%, and an F1-Score value of 87.40%.",
+        "link": "http://dx.doi.org/10.3390/electronics11040662"
+    },
+    {
+        "id": 24454,
+        "title": "Combining Control Rules, Machine Learning Models, and Community Detection Algorithms for Effective Fraud Detection",
+        "authors": "Tinsae Tadesse",
+        "published": "2022-11-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ict4da56482.2022.9971235"
+    },
+    {
+        "id": 24455,
+        "title": "Comparative analysis of credit card fraud detection in Simulated Annealing trained Artificial Neural Network and Hierarchical Temporal Memory",
+        "authors": "E.N. Osegi, E.F. Jumbo",
+        "published": "2021-12",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2021.100080"
+    },
+    {
+        "id": 24456,
+        "title": "COMPARATIVE ANALYSIS OF MACHINE LEARNING MODELS FOR AUTO INSURANCE FRAUD DETECTION",
+        "authors": "",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.56726/irjmets47811"
+    },
+    {
+        "id": 24457,
+        "title": "Machine Learning Approach for Credit Card Fraud Detection (KNN &amp;amp; Naïve Bayes)",
+        "authors": "Darshan Kaur, Shubhpreet kaur",
+        "published": "No Date",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.2139/ssrn.3564040"
+    },
+    {
+        "id": 24458,
+        "title": "Credit card transaction fraud detection based on machine learning",
+        "authors": "Yuxin Jiang",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "The rise of e-commerce payment systems has been swift due to our society's rapid advancement. However, the transparency and vulnerability of the internet have opened new avenues for illicit access, resulting in a significant surge in financial fraud cases, particularly credit card transaction fraud. Detecting and mitigating such incidents has become crucial. One branch of artificial intelligence, machine learning, offers a potent solution. It operates by utilizing various algorithms and models that rely on established patterns and reasoning without explicit instructions. By processing vast amounts of historical data, machine learning models can identify underlying data relationships, allowing them to make accurate predictions based on input data. Therefore, it emerges as a highly effective method for credit card transaction fraud detection. This paper reviews the research methods for credit card fraud, introduces credit card transaction fraud detection data sets, and outlines machine learning algorithms and models related to credit card fraud detection. It also considers the future prospects for machine learning development and possible challenges.",
+        "link": "http://dx.doi.org/10.54254/2755-2721/51/20241172"
+    },
+    {
+        "id": 24459,
+        "title": "Credit Card Fraud Detection - Machine Learning methods",
+        "authors": "Dejan Varmedja, Mirjana Karanovic, Srdjan Sladojevic, Marko Arsenovic, Andras Anderla",
+        "published": "2019-3",
+        "citations": 125,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/infoteh.2019.8717766"
+    },
+    {
+        "id": 24460,
+        "title": "Fraud Detection on Bank Payments Using Machine Learning",
+        "authors": "Pinku Ranjan, Kammari Santhosh, Arun Kumar, Somesh Kumar",
+        "published": "2022-1-21",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iconat53423.2022.9726104"
+    },
+    {
+        "id": 24461,
+        "title": "Credit Card Fraud Detection Using Machine Learning",
+        "authors": "Shalini Avinashbhai Naik, Dr. Nitin Pise",
+        "published": "2022-8-16",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.46254/in02.20220170"
+    },
+    {
+        "id": 24462,
+        "title": "Application of Machine Learning Algorithms With Balancing Techniques for Credit Card Fraud Detection: A Comparative Analysis",
+        "authors": " Shiksha",
+        "published": "2022-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1002/9781119821908.ch12"
+    },
+    {
+        "id": 24463,
+        "title": "Fraud Detection and Prevention Using Machine Learning Algorithms: A Review",
+        "authors": "G. Jaculine Priya, S. Saradha",
+        "published": "2021-2-11",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/icees51510.2021.9383631"
+    },
+    {
+        "id": 24464,
+        "title": "Fraud Detection in E-Commerce Using Machine Learning",
+        "authors": "",
+        "published": "2021-6-16",
+        "citations": 3,
+        "abstract": "Customers  rely  heavily  on  decisions  to  purchase  products either  on  commerce  sites  or  in  online  retail  outlets.  Since these reviews are the game changers for success or failure in product marketing, reviews are used for positive or negative ideas.  Improper  reviews  may  also  be  referred  to  as  false  / fraudulent  reviews  or  spam  comments  or  false  reviews.  To downgrade  or  advance  the  item,  resentful  audits  or  phony surveys,  which  are  tricky,  are  posted  in  the  web-based business  site.  This  outcome  will  prompt  possible  monetary misfortunes  or  bigger  measure  of  development  in  business.So, the proposed system is design and developed in such way that  it  will  detect  fake,  false  and  spam  reviews  for  fraud detection using machine learning approaches like Sentiment Analysis,  Support  Vector  Machine  (SVM),  Decision  Tree algorithm, and N-gram model",
+        "link": "http://dx.doi.org/10.30534/ijatcse/2021/1011032021"
+    },
+    {
+        "id": 24465,
+        "title": "Combining GAN with Other Machine Learning Techniques for Improving Customs Fraud Detection",
+        "authors": "Asif Ganbayev",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/pci60110.2023.10325960"
+    },
+    {
+        "id": 24466,
+        "title": "Design and Development of Financial Fraud Detection using Machine Learning",
+        "authors": "",
+        "published": "2020-9-15",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.30534/ijeter/2020/152892020"
+    },
+    {
+        "id": 24467,
+        "title": "Credit Card Fraud Detection with Machine Learning Methods",
+        "authors": "Gokhan Goy, Cengiz Gezer, Vehbi Cagri Gungor",
+        "published": "2019-9",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/ubmk.2019.8906995"
+    },
+    {
+        "id": 24468,
+        "title": "Detection of Credit Card Fraud using Machine Learning Algorithms",
+        "authors": "Akhilesh Kumar Singh",
+        "published": "2022-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/smart55829.2022.10047099"
+    },
+    {
+        "id": 24469,
+        "title": "Machine Learning Technique for Credit Card Fraud Detection",
+        "authors": "Mahmoud Ghanem, Saleh Mesbah Elkaffas, Magda Madbouly",
+        "published": "2022-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/iccta58027.2022.10206291"
+    },
+    {
+        "id": 24470,
+        "title": "Machine Learning and Advanced Analytics in Tax Fraud Detection",
+        "authors": "Abzetdin Z. Adamov",
+        "published": "2019-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "link": "http://dx.doi.org/10.1109/aict47866.2019.8981758"
+    }
+]
