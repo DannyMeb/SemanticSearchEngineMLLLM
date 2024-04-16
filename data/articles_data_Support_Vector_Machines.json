@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1601,
+        "title": "Towards Poisoning of Federated Support Vector Machines with Data Poisoning Attacks",
+        "authors": "Israt Mouri, Muhammad Ridowan, Muhammad Adnan",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011825800003488"
+    },
+    {
+        "id": 1602,
+        "title": "Fault Detection in Aircraft Flight Control Actuators Using Support Vector Machines",
+        "authors": "Julianne Grehan, Dmitry Ignatyev, Argyrios Zolotas",
+        "published": "2023-2-2",
+        "citations": 2,
+        "abstract": "Future generations of flight control systems, such as those for unmanned autonomous vehicles (UAVs), are likely to be more adaptive and intelligent to cope with the extra safety and reliability requirements due to pilotless operations. An efficient fault detection and isolation (FDI) system is paramount and should be capable of monitoring the health status of an aircraft. Historically, hardware redundancy techniques have been used to detect faults. However, duplicating the actuators in an UAV is not ideal due to the high cost and large mass of additional components. Fortunately, aircraft actuator faults can also be detected using analytical redundancy techniques. In this study, a data-driven algorithm using Support Vector Machine (SVM) is designed. The aircraft actuator fault investigated is the loss-of-effectiveness (LOE) fault. The aim of the fault detection algorithm is to classify the feature vector data into a nominal or faulty class based on the health of the actuator. The results show that the SVM algorithm detects the LOE fault almost instantly, with an average accuracy of 99%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11020211"
+    },
+    {
+        "id": 1603,
+        "title": "Predicting Coronary Artery Disease Utilizing Support Vector Machines: Optimizing Predictive Model",
+        "authors": "",
+        "published": "2023-3-25",
+        "citations": 0,
+        "abstract": "In the medical field, specialists aspire through the use of artificial intelligence to obtain accuracy in the results and details of patients. Such as automatic detection and prediction of diseases and obtaining medical results by applying artificial intelligence techniques such as machine learning algorithms to clinical data. Therefore, because coronary artery disease (CAD) is one of the most prevalent types of diseases in the world and with the highest rate of injuries, one of the machine learning algorithms will be used in this research to diagnose this disease through artificial intelligence. Patient clinical factors were used, a data set of 303 people. The Support Vector Machine (SVM) algorithm is used and applied to the clinical factors of patients, which are 56 variables, as they are considered one of the most important clinical factors that can be used to detect CAD. This algorithm is considered to have good predictive ability in medical clinical characteristics. The Support Vector Machine algorithm model, which was used in this research, provided the highest prediction accuracy of (96.7%), with an AUC value of (71.5%). This indicates the effectiveness of the SVM algorithm in classifying the clinical patient data set that was adopted in this research. After applying it to the research data set, the SVM algorithm showed its ability to classify and predict well. The accuracy of the algorithm model was (96.7%). This indicates that this algorithm can help cardiologists in different ways during their daily practices to predict coronary artery disease, which is one of the most common heart diseases.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58496/mjaih/2023/004"
+    },
+    {
+        "id": 1604,
+        "title": "Least Squares Minimum Class Variance Support Vector Machines",
+        "authors": "Michalis Panayides, Andreas Artemiou",
+        "published": "2024-1-26",
+        "citations": 0,
+        "abstract": "In this paper, we propose a Support Vector Machine (SVM)-type algorithm, which is statistically faster among other common algorithms in the family of SVM algorithms. The new algorithm uses distributional information of each class and, therefore, combines the benefits of using the class variance in the optimization with the least squares approach, which gives an analytic solution to the minimization problem and, therefore, is computationally efficient. We demonstrate an important property of the algorithm which allows us to address the inversion of a singular matrix in the solution. We also demonstrate through real data experiments that we improve on the computational time without losing any of the accuracy when compared to previously proposed algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/computers13020034"
+    },
+    {
+        "id": 1605,
+        "title": "Adiabatic Quantum Support Vector Machines",
+        "authors": "Dong Jun Woun, Prasanna Date",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qce57702.2023.10250"
+    },
+    {
+        "id": 1606,
+        "title": "Support Vector Machines for Evaluating the Impact of the Forward Osmosis Membrane Characteristics on the Rejection of the Organic Molecules",
+        "authors": "Fouad Kratbi, Yamina Ammi, Salah Hanini",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15255/kui.2022.081"
+    },
+    {
+        "id": 1607,
+        "title": "The complexity of quantum support vector machines",
+        "authors": "Gian Gentinetta, Arne Thomsen, David Sutter, Stefan Woerner",
+        "published": "2024-1-11",
+        "citations": 4,
+        "abstract": "Quantum support vector machines employ quantum circuits to define the kernel function. It has been shown that this approach offers a provable exponential speedup compared to any known classical algorithm for certain data sets. The training of such models corresponds to solving a convex optimization problem either via its primal or dual formulation. Due to the probabilistic nature of quantum mechanics, the training algorithms are affected by statistical uncertainty, which has a major impact on their complexity. We show that the dual problem can be solved in O(M4.67/&#x03B5;2) quantum circuit evaluations, where M denotes the size of the data set and &#x03B5; the solution accuracy compared to the ideal result from exact expectation values, which is only obtainable in theory. We prove under an empirically motivated assumption that the kernelized primal problem can alternatively be solved in O(min{M2/&#x03B5;6,1/&#x03B5;10}) evaluations by employing a generalization of a known classical algorithm called Pegasos. Accompanying empirical results demonstrate these analytical complexities to be essentially tight. In addition, we investigate a variational approximation to quantum support vector machines and show that their heuristic training achieves considerably better scaling in our experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22331/q-2024-01-11-1225"
+    },
+    {
+        "id": 1608,
+        "title": "Wear Parameter Diagnostics of Industrial Milling Machine with Support Vector Regression",
+        "authors": "Teemu Mäkiaho, Henri Vainio, Kari T. Koskinen",
+        "published": "2023-3-17",
+        "citations": 3,
+        "abstract": "Modern industrial machine applications often contain data collection functions through automation systems or external sensors. Yet, while the different data collection mechanisms might be effortless to construct, it is advised to have a well-balanced consideration of the possible data inputs based on the machine characteristics, usage, and operational environment. Prior consideration of the collected data parameters reduces the risk of excessive data, yet another challenge remains to distinguish meaningful features significant for the purpose. This research illustrates a peripheral milling machine data collection and data pre-processing approach to diagnose significant machine parameters relevant to milling blade wear. The experiences gained from this research encourage conducting pre-categorisation of data significant for the purpose, those being manual setup data, programmable logic controller (PLC) automation system data, calculated parameters, and measured parameters under this study. Further, the results from the raw data pre-processing phase performed with Pearson Correlation Coefficient and permutation feature importance methods indicate that the most dominant correlation to recognised wear characteristics in the case machine context is perceived with vibration excitation monitoring. The root mean square (RMS) vibration signal is further predicted by using the support vector regression (SVR) algorithm to test the SVR’s overall suitability for the asset’s health index (HI) approximation. It was found that the SVR algorithm has sufficient data parameter behaviour forecast capabilities to be used in the peripheral milling machine prognostic process and its development. The SVR with Gaussian radial basis function (RBF) kernel receives the highest scoring metrics; therefore, outperforming the linear and polynomial kernels compared as part of the study.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11030395"
+    },
+    {
+        "id": 1609,
+        "title": "Support subsets estimation for support vector machines retraining",
+        "authors": "Víctor Aceña, Isaac Martín de Diego, Rubén R． Fernández, Javier M． Moguerza",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2022.109117"
+    },
+    {
+        "id": 1610,
+        "title": "Efficient Image Registration Using Support Vector Machines",
+        "authors": "Sachin Goswami, Anu Sharma, Prerna Mahajan",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470766"
+    },
+    {
+        "id": 1611,
+        "title": "Support Vector Machines: Spherical Separability: Limitations of Learning",
+        "authors": "Garimella Ramamurthy, Tata Jagannadha Swamy",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci58599.2023.10331068"
+    },
+    {
+        "id": 1612,
+        "title": "EEG-based Stress Detection using DEAP Dataset and Support Vector Machines",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56452/6-3-673"
+    },
+    {
+        "id": 1613,
+        "title": "Training Minimal Complexity Support Vector Machines with Multiple Kernels",
+        "authors": "Shigeo Abe",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394217"
+    },
+    {
+        "id": 1614,
+        "title": "On neural quantum support vector machines",
+        "authors": "Lars Simon, Manuel Radons",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42484-024-00140-9"
+    },
+    {
+        "id": 1615,
+        "title": "A Review on Low Complex Blind Video Quality Predictor based on Support Vector Machines",
+        "authors": "Amitesh Kumar Singam",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4511324"
+    },
+    {
+        "id": 1616,
+        "title": "Hybrid Quantum Technologies for Quantum Support Vector Machines",
+        "authors": "Filippo Orazi, Simone Gasperini, Stefano Lodi, Claudio Sartori",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "Quantum computing has rapidly gained prominence for its unprecedented computational efficiency in solving specific problems when compared to classical computing counterparts. This surge in attention is particularly pronounced in the realm of quantum machine learning (QML) following a classical trend. Here we start with a comprehensive overview of the current state-of-the-art in Quantum Support Vector Machines (QSVMs). Subsequently, we analyze the limitations inherent in both annealing and gate-based techniques. To address these identified weaknesses, we propose a novel hybrid methodology that integrates aspects of both techniques, thereby mitigating several individual drawbacks while keeping the advantages. We provide a detailed presentation of the two components of our hybrid models, accompanied by the presentation of experimental results that corroborate the efficacy of the proposed architecture. These results pave the way for a more integrated paradigm in quantum machine learning and quantum computing at large, transcending traditional compartmentalization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info15020072"
+    },
+    {
+        "id": 1617,
+        "title": "A Wireless Sensor Networks in Localization Using Support Vector Machines",
+        "authors": "Ansh Kataria",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smartgencon60755.2023.10442265"
+    },
+    {
+        "id": 1618,
+        "title": "Gearbox Fault Diagnosis Based on Refined Time-Shift Multiscale Reverse Dispersion Entropy and Optimised Support Vector Machine",
+        "authors": "Xiang Wang, Han Jiang",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "The fault diagnosis of a gearbox is crucial to ensure its safe operation. Entropy has become a common tool for measuring the complexity of time series. However, entropy bias may occur when the data are not long enough or the scale becomes larger. This paper proposes a gearbox fault diagnosis method based on Refined Time-Shifted Multiscale Reverse Dispersion Entropy (RTSMRDE), t-distributed Stochastic Neighbour Embedding (t-SNE), and the Sparrow Search Algorithm Support Vector Machine (SSA-SVM). First, the proposed RTSMRDE was used to calculate the multiscale fault features. By incorporating the refined time-shift method into Multiscale Reverse Dispersion Entropy (MRDE), errors that arose during the processing of complex time series could be effectively reduced. Second, the t-SNE algorithm was utilized to extract sensitive features from the multiscale, high-dimensional fault features. Finally, the low-dimensional feature matrix was input into SSA-SVM for fault diagnosis. Two gearbox experiments showed that the diagnostic model proposed in this paper had an accuracy rate of 100%, and the proposed model performed better than other methods in terms of diagnostic performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11060646"
+    },
+    {
+        "id": 1619,
+        "title": "Mapping of impervious surfaces with the use of remote sensing imagery: Support Vector Machines classification and GIS-based approach",
+        "authors": "",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/ace.2023.146071"
+    },
+    {
+        "id": 1620,
+        "title": "Automated Oral Cancer Detection using Convolutional Neural Networks and Support Vector Machines",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59287/as-ijanser.582"
+    },
+    {
+        "id": 1621,
+        "title": "Enhancing handwritten numeric string recognition through incremental support vector machines",
+        "authors": "Rani Kurnia Putri, Muhammad Athoillah",
+        "published": "2024-1-19",
+        "citations": 0,
+        "abstract": "Handwritten digit recognition systems are integral to diverse applications such as postal services, banking, and document processing in our digitally-driven society. This research addresses the challenges posed by evolving datasets and dynamic scenarios in handwritten digit recognition by proposing an approach based on incremental support vector machines (ISVM). ISVM is an extension of traditional support vector machines (SVM) designed to handle scenarios where new data points become available over time. The dataset includes handwritten images (numbers “0” to “6”) and trials introducing new classes (“7”, “8”, and “9”). Evaluation utilizes k-fold cross-validation for robustness. Digital image processing involves converting images into numeric data using the histogram method. The result showed the positive outcomes of using ISVM in handwritten digit recognition, emphasizing its adaptability to incremental learning and its ability to maintain robust performance in the face of evolving datasets, which is crucial for real-world applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59400/jam.v2i1.373"
+    },
+    {
+        "id": 1622,
+        "title": "Advancing Support Vector Machines for Automated Medical Image Diagnosis",
+        "authors": "Ajay Agrawal, Rupal Gupta, N.R Solomon Jebaraj",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470696"
+    },
+    {
+        "id": 1623,
+        "title": "Shilling Attack Detection with One Class Support Vector Machines",
+        "authors": "Halil İbrahim AYAZ, Zehra KAMIŞLI ÖZTÜRK",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "Öneri sistemleri çeşitli çevrimiçi platformlarda hayati bir rol oynar ve kullanıcıların tercihlerini göz önünde bulundurarak yeni ürünler, hizmetler ve içerikler keşfetmelerine yardımcı olur. Bununla birlikte, bu sistemler, kötü niyetli kullanıcıların derecelendirmeleri yapay olarak şişirdiği veya söndürdüğü ve önyargılı önerilere yol açtığı şilin saldırıları yoluyla manipülasyona karşı savunmasızdır. Bu saldırıları araştırmanın, anlamanın ve hafifletmenin önemini vurgulamak çok önemlidir. Bu tür saldırıları tespit etmek, tavsiye sistemlerinin bütünlüğünü ve etkinliğini korumak için çok önemlidir. Literatürde, şilin saldırılarını tespit etmek için birçok çalışma sunulmuştur. En iyi bilinen kümeleme yöntemleri farklı saldırı modelleri için uyarlanmıştır. Bu makalede, şilin saldırılarını tespit etmek için gürbüz bir teknik olarak Tek Sınıflı Destek Vektör Makineleri kullanımını araştırıyoruz. Tek Sınıflı Destek Vektör Makinaları, öncelikle anomali tespiti ve aykırılık tespiti görevleri için tasarlanmış geleneksel Destek Vektör Makinelerinin özel bir çeşididir. Önerilen yöntemi doğrulamak için MovieLens100K veri kümesi kullanılmıştır. Sonuç olarak, farklı boyut ve doluluk oranlı saldırılar için hassasiyet ve geri çağırma değerleri verilmiştir.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47112/neufmbd.2023.22"
+    },
+    {
+        "id": 1624,
+        "title": "Multi-Class Support Vector Machines for Text Classification Using a Class-Incremental Learni",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56452/7-2-547"
+    },
+    {
+        "id": 1625,
+        "title": "COMPARISON OF SUPPORT VECTOR MACHINES AND CLASSIFICATION AND REGRESSION TREE CLASSIFIERS ON THE IRIS DATA SET",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The classification problem is the most applicable today; its implementations are face recognition, data grouping, and color classification. The primary objective of this study will be to address this last problem; that is to say: We will prove that it is possible to classify flowers using the well-known Iris data set made up of 150 samples with 4 attributes and 3 classes to identify. The novel idea in this study is the implementation of two different algorithms widely used for their high efficiency and simplicity: support vector machines and decision trees. This will lead us to observe how close both algorithms are from the viewpoint of the precision results that are high enough, in tune with the purpose of this study is high enough (very precise), and will be the problem to be solved, the one that finally determines the choice of the algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35741/issn.0258-2724.58.2.59"
+    },
+    {
+        "id": 1626,
+        "title": "Evaluate the performance of the support vector machines ensemble",
+        "authors": "Bowen Liu, Yihui Qiu",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2671159"
+    },
+    {
+        "id": 1627,
+        "title": "A Novel Ensemble of Support Vector Machines for Improving Medical Data Classification",
+        "authors": "Phuoc Hai Huynh, Van Hoa Nguyen",
+        "published": "2023-2-15",
+        "citations": 1,
+        "abstract": "In recent years, the increasing volume and availability of healthcare and biomedical data are opening up new opportunities for computational methods to enhance healthcare in many hospitals. Medical data classification is regarded as the challenging task to develop intelligent medical decision support systems in hospitals. In this paper, the ensemble approaches based on support vector machines are proposed for classifying medical data. This research’s key contribution is that the ensemble multiple support vector machines use the function kernel in the style of gradient boosting and bagging to produce a more accurate fusion model than the mono-modality models. Extensive experiments have been conducted on forty benchmark medical datasets from the University of California at Irvine machine learning repository. The classification results show that there is a statistically significant difference (p-values < 0.05) between the proposed approaches and the best classification models. In addition, the empirical analysis of forty medical datasets indicated that our models can predict diseases with an accuracy rate of 82.82 and 81.76 percent without feature selection in the preprocessing data stage.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4028/p-h0cef4"
+    },
+    {
+        "id": 1628,
+        "title": "Developing Support Vector Machines for Accurate Medical Image Analysis",
+        "authors": "Feon Jaison, Viiay Kumar Pandey, Ashish Bishnoi",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470551"
+    },
+    {
+        "id": 1629,
+        "title": "Research on Vegetable Incoming and Pricing Strategies Based on Support Vector Machines and Gray Prediction Models",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/infse.2023.041018"
+    },
+    {
+        "id": 1630,
+        "title": "One-class Support Vector Machines for Real-time and Unsupervised Condition Monitoring of Rotary Machines",
+        "authors": "Alexandre Henrique Pereira Tavares, Aldemir Ap Cavalini Jr, Antonio Veiga, C. Nataraj, Amirhassan Abbasi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-1929"
+    },
+    {
+        "id": 1631,
+        "title": "Optimizing Parameters of Support Vector Machines Using an Enhanced Whale Optimization Algorithm",
+        "authors": "Yang Wenzhuo, Liu Shuo",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/epce58798.2023.00034"
+    },
+    {
+        "id": 1632,
+        "title": "Research on Glass Classification and Recognition based on Support Vector Machines",
+        "authors": "Shimeng Guo, Jinwei Gan",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "Glass artefacts undergo weathering and a significant exchange of internal elements due to burial in the ground. In order to classify the glass types, Principal Component Analysis was used to transform the existing chemical indicators into a small number of principal components. Subsequently, Support Vector Machine approach was used to classify the glass types to be predicted based on the selected principal components. K-means clustering algorithm was then used to classify the two glass types into subclasses on the basis of the selected chemical components and to perform sensitivity analysis. Using this model, the glass types of the samples to be tested can be identified.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v40i.6601"
+    },
+    {
+        "id": 1633,
+        "title": "A Hybrid Approach for Medical Image Classification using Support Vector Machines and Artificial Neural Networks",
+        "authors": "Uma. N",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icosec58147.2023.10276063"
+    },
+    {
+        "id": 1634,
+        "title": "Investigating Support Vector Machines for Time Series Predictions in Wireless Networks",
+        "authors": " Haripriya, Ajay Agrawal, Pavan Kumar Singh",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470554"
+    },
+    {
+        "id": 1635,
+        "title": "Density-convoluted tensor support vector machines",
+        "authors": "Boxiang Wang, Le Zhou, Jian Yang, Qing Mai",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4310/23-sii796"
+    },
+    {
+        "id": 1636,
+        "title": "Tuning Support Vector Machines and Boosted Trees Using Optimization Algorithms",
+        "authors": "Jill F. Lundell",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Statistical learning methods have been growing in popularity in recent years. Many of these procedures have parameters that must be tuned for models to perform well. Research has been extensive in neural networks, but not for many other learning methods. We looked at the behavior of tuning parameters for support vector machines, gradient boosting machines, and adaboost in both a classification and regression setting. We used grid search to identify ranges of tuning parameters where good models can be found across many different datasets. We then explored different optimization algorithms to select a model across the tuning parameter space. Models selected by the optimization algorithm were compared to the best models obtained through grid search to select well performing algorithms. This information was used to create an R package, EZtune, that automatically tunes support vector machines and boosted trees.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.6339/23-jds1106"
+    },
+    {
+        "id": 1637,
+        "title": "Impact Performance Prediction and Optimization of a Circumferentially Corrugated Tube with Variable Wall Thickness Using Support Vector Machine",
+        "authors": "Zhixiang Li, Chengxing Yang, Shuguang Yao",
+        "published": "2023-2-2",
+        "citations": 2,
+        "abstract": "Based on the hypothesis that multi-corner and multi-cell structures can effectively improve energy absorption behavior, this paper designed a multi-cell circumferentially corrugated tube (MCCT) for energy absorption. The MCCT was designed as a variable thickness form to study the influence of the materials distribution on the cross section on energy absorption. The energy absorption performance of the MCCT was investigated under impact condition with finite element simulation validated by a drop hammer test. Support vector machine, a machine learning technique, was used to predict the energy absorption performance and was further used for optimization of the MCCT. The results show that under the same mass, the MCCT with variable decreasing wall thickness (corners thicker than other regions) shows 4.81%, 30.67% and 37.70% improvement, respectively, in PCF, SEA and CFE, compared to the MCCT with variable increasing wall thickness (corners thinner than other regions). Moreover, the optimization results show that most samples in Pareto front lie in the region of tc > tm. These results all indicate that the MCCT with variable decreasing wall thickness performs better than with increasing wall thickness with regards energy absorption. In conclusion, arranging more materials in the corner element area can effectively improve the energy absorption characteristics of the thin-walled tube. This paper highlights the importance of designing thin-walled tubes as multi-corner and variable thickness configurations for energy absorption.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11020217"
+    },
+    {
+        "id": 1638,
+        "title": "Research on Yield Prediction Technology for Aerospace Engine Production Lines Based on Convolutional Neural Networks-Improved Support Vector Regression",
+        "authors": "Hongjun Liu, Boyuan Li, Chang Liu, Mengqi Zu, Minhao Lin",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "Improving the prediction accuracy of aerospace engine production line yields is of significant importance for enhancing production efficiency and optimizing production scheduling in enterprises. To address this, a novel method called Convolutional Neural Networks-Improved Support Vector Regression (CNN-ISVR) has been proposed for predicting the production line yield of aerospace engines. The method first divides the factors influencing production line yield into production cycle and real-time status information of the production line and then analyzes the key feature factors. To solve the problem of poor prediction performance in traditional SVR models due to the subjective selection of kernel function parameters, an improved SVR model is presented. This approach combines the elite strategy genetic algorithm with the hyperparameter optimization method based on grid search and cross-validation to obtain the best penalty factor and kernel function width of the Radial Basis Function (RBF) kernel function. The extracted features of production data are then used for prediction by inputting them into the improved support vector regression model, based on a shallow CNN without dimensionality reduction. Finally, the prediction accuracy of the CNN-ISVR model is evaluated using the three commonly used evaluation metrics: Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE) and coefficient of determination (R2). The model’s prediction results are then compared to those of other models. The CNN-ISVR hybrid model is shown to outperform other models in terms of prediction accuracy and generalization ability, demonstrating the effectiveness of the proposed model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11090875"
+    },
+    {
+        "id": 1639,
+        "title": "Optimal Parameters Selection of Support Vector Machines Using Bat Algorithm",
+        "authors": "Adis Alihodzic, Eva Tuba, Milan Tuba",
+        "published": "2023-7-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceccme57830.2023.10252635"
+    },
+    {
+        "id": 1640,
+        "title": "Enhancing quantum support vector machines through variational kernel training",
+        "authors": "N. Innan, M.A.Z. Khan, B. Panda, M. Bennai",
+        "published": "2023-10-15",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11128-023-04138-3"
+    },
+    {
+        "id": 1641,
+        "title": "Intuitionistic fuzzy multi-view support vector machines with universum data",
+        "authors": "Chunling Lou, Xijiong Xie",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-023-05260-6"
+    },
+    {
+        "id": 1642,
+        "title": "Research of Forecasting Method of Lung Cancer Based on Machine Learning and Support Vector Machines",
+        "authors": "Gou Zixuan",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceace60673.2023.10442213"
+    },
+    {
+        "id": 1643,
+        "title": "Comparing Support Vector Machines and Neural Networks for Cardiac Arrest Risk Prediction",
+        "authors": "Abhishek Chaudhary, Gunjan Agrawal, Manish Saraswat, Rakesh Kumar",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt61202.2024.10489397"
+    },
+    {
+        "id": 1644,
+        "title": "Utilizing support vector machines for predictive analytics in chronic kidney diseases",
+        "authors": "A.S. Shanthakumari, R. Jayakarthik",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2021.04.309"
+    },
+    {
+        "id": 1645,
+        "title": "Optical Surface Analysis with Support Vector Machines based on Two Different Measurement Techniques",
+        "authors": "Marcin Hinz, Jannis Pietruschka, Stefan Bracke",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3850/978-981-18-8071-1_p409-cd"
+    },
+    {
+        "id": 1646,
+        "title": "Improving Computational Performance of Least Squares Multiple Birth Support Vector Machines with k-Means Clustering",
+        "authors": "Güvenç Arslan, Nisa Nur Bülbül",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36287/setsci.6.1.010"
+    },
+    {
+        "id": 1647,
+        "title": "A framework for enterprise assessment of carbon performance using support vector machines",
+        "authors": "Yijun Shou",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-09406-z"
+    },
+    {
+        "id": 1648,
+        "title": "An Error-Pursuing Adaptive Uncertainty Analysis Method Based on Bayesian Support Vector Regression",
+        "authors": "Sheng-Tong Zhou, Jian Jiang, Jian-Min Zhou, Pei-Han Chen, Qian Xiao",
+        "published": "2023-2-4",
+        "citations": 0,
+        "abstract": "The Bayesian support vector regression (BSVR) metamodel is widely used in various engineering fields to analyze the uncertainty arising from uncertain parameters. However, the accuracy of the BSVR metamodel based on the traditional one-shot sampling method fails to meet the requirements of the uncertainty analysis of complex systems. To this end, an error-pursing adaptive uncertainty analysis method based on the BSVR metamodel is presented by combining a new adaptive sampling scheme. This new sampling scheme was improved by a new error-pursuing active learning function that is named, herein, adjusted mean square error (AMSE), which guides the adaptive sampling of the BSVR metamodel’s design of experiments (DoE). During the sampling process, AMSE combines mean square error and leave-one-out cross-validation error to estimate the prediction error of the metamodel in the entire design space. Stepwise refinement of the metamodel was achieved by placing the sampled regions at locations with large prediction errors. Six benchmark analytical functions featuring different dimensions were used to validate the proposed method. The effectiveness of the method was then further illustrated by a more realistic application of an overhung rotor system.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11020228"
+    },
+    {
+        "id": 1649,
+        "title": "Support vector machines implementation over integers modulo-M and Residue Number System",
+        "authors": "Sergio Andrés Arenas-Hoyos, Álvaro Bernal-Noreña",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "In low-power hardware implementations for classification algorithms, it is often essential to use physical resources efficiently. In this sense, the use of modulo-M integer operations instead of floating-point arithmetic, can lead to better performance, especially when M represents the dynamic range of an arithmetic block of the Residue Number System (RNS) [1,2]. Following this premise, this work is aiming to provide a methodology for implementing a classifier, specifically a Support Vector Machine (SVM) [3], using modulo-M integers and proposing a method for the use of Residue Number System.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15446/dyna.v90n226.107112"
+    },
+    {
+        "id": 1650,
+        "title": "Prediction of Clients Based on Google Analytics Income Using Support Vector Machines",
+        "authors": "Erika Severeyn, Alexandra La Cruz, Mónica Huerta, Roberto Matute, Juan Estrada",
+        "published": "2023-11-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/c358072.2023.10436245"
+    },
+    {
+        "id": 1651,
+        "title": "Revolutionizing Rice Disease Diagnosis: A Fusionof Convolutional Neural Networks and Support Vector Machines",
+        "authors": "Arshleen Kaur, Vinay Kukreja, Deepak Banerjee, Dibyahash Bordoloi",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wconf58270.2023.10235197"
+    },
+    {
+        "id": 1652,
+        "title": "Prediction of Ship Maintenance Cost by Support Vector Machines Based on Bayesian Optimization",
+        "authors": "Wenjun Ye, Guoping Jiang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icftic59930.2023.10455871"
+    },
+    {
+        "id": 1653,
+        "title": "Differentiating dreaming and waking reports with automatic text analysis and Support Vector Machines",
+        "authors": "Xiaofang Zheng, Richard Schweickert",
+        "published": "2023-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.concog.2022.103439"
+    },
+    {
+        "id": 1654,
+        "title": "DIABETES PREDICTION USING SUPPORT VECTOR MACHINES",
+        "authors": " N. Srividhya,  K. Divya,  N. Sanjana,  K. Krishna Kumari,  M. Rambhupal",
+        "published": "2023-11-4",
+        "citations": 0,
+        "abstract": "One of the worst illnesses in the world is diabetes. It is also the creator of a variety of other diseases, such as urinary organ illness, blindness, and cardiac failure. The patient must go to a diagnostic facility in this situation to receive their reports following consultation. Because of this, they always have to invest both money and time. However, as machine learning techniques have improved, we now have the freedom to look for the right solution. For example, we now have sophisticated information processing systems that can predict whether a patient has polygenic disease or not. Additionally, anticipating the illness early results in giving the patients what they need before it becomes urgent.Goals of this analysis is to develop a system which predicts the diabetes risk level of patient.The experimental results shows that the prediction of diabetes done at high accuracy using support vector machines.\nKEYWORDS: Early Detection, Machine Learning, SVM(Support Vector Machines), Accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36713/epra14769"
+    },
+    {
+        "id": 1655,
+        "title": "Deep Learning Meets Support Vector Machines: An Effective Hybrid Model for Banana Leaf Wilt Disease Severity Assessment",
+        "authors": "Manish Kumar, Anuj Kumar",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt61202.2024.10489081"
+    },
+    {
+        "id": 1656,
+        "title": "K-means and Support Vector Machines for Thai Language IT News Retrieval System",
+        "authors": "Weenawadee Muangon, Sunee Pongpinigpinyo, Panyanat Aunpong",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsm60247.2023.00016"
+    },
+    {
+        "id": 1657,
+        "title": "Analysis of Sentimental on Twitter using Content Aware Support Vector Machines",
+        "authors": "B Manikandan, T. Krishna Kumar",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icses60034.2023.10465302"
+    },
+    {
+        "id": 1658,
+        "title": "Retracted: Differentially Private Singular Value Decomposition for Training Support Vector Machines",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9760375"
+    },
+    {
+        "id": 1659,
+        "title": "Optimization of Support Vector Machines for Prediction of Parkinson’s Disease",
+        "authors": "Turgut Özseven, Zübeyir Şükrü Özkorucu",
+        "published": "2023-2-1",
+        "citations": 0,
+        "abstract": "Abstract\nAs in all fields, technological developments have started to be used in the field of medical diagnosis, and computer-aided diagnosis systems have started to assist physicians in their diagnosis. The success of computer-aided diagnosis methods depends on the method used; dataset, pre-processing, post-processing, etc. differ according to the processes. In this study, parameter optimization of support vector machines was performed with four different methods currently used in the literature to assist the physician in diagnosis. The success of each method was tested on two different Parkinson’s datasets and the results were compared within themselves and with the literature. According to the results obtained, the highest accuracy rates vary depending on the dataset and optimization method. While Improved Chaotic Particle Swarm Optimization achieved high success in the first dataset, Bat Algorithm achieved higher success in the other dataset. While the successful results obtained are better than some studies in the literature, they are at a level that can compete with some studies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/msr-2023-0001"
+    },
+    {
+        "id": 1660,
+        "title": "Lung Cancer Detection: A Classification Approach Utilizing Oversampling and Support Vector Machines",
+        "authors": "Adolfo Jara-Gavilanes, Vladimir Robles-Bykbaev",
+        "published": "2023-12-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02432-6"
+    },
+    {
+        "id": 1661,
+        "title": "Development and Application of Convergence Education about a Support Vector Machines for Elementary Learners",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55463/hkjss.issn.1021-3619.60.75"
+    },
+    {
+        "id": 1662,
+        "title": "Particle Swarm Optimization Based Support Vector Machines in Motion Imagery",
+        "authors": "Hongmin Wang, Xuewen Shi, Rui Wang, Zhaoning Wang",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiim60438.2023.10441303"
+    },
+    {
+        "id": 1663,
+        "title": "Transductive Support Vector Machines (TSVM) With Hybrid Recurrent Neural Networks For Medical Image Filtering",
+        "authors": "Ravi Kumar",
+        "published": "2023-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ihcsp56702.2023.10127184"
+    },
+    {
+        "id": 1664,
+        "title": "Enhanced Text Emotion Prediction Algorithm: A Comparative Study with Support Vector Machines for Emotion Prediction in Text",
+        "authors": "",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets42842"
+    },
+    {
+        "id": 1665,
+        "title": "Improved Service Quality Assessment Through the Integration of Principal Component Analysis and Support Vector Machines",
+        "authors": "Feng Xiafei, Huang Fuli",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsece58870.2023.10263572"
+    },
+    {
+        "id": 1666,
+        "title": "Differentially Private Support Vector Machines with Knowledge Aggregation",
+        "authors": "Teng Wang, Yao Zhang, Jiangguo Liang, Shuai Wang, Shuanggen Liu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2024.048115"
+    },
+    {
+        "id": 1667,
+        "title": "Employee Engagement Prediction: A Comparative Study of Support Vector Machines and Neural Networks",
+        "authors": "Shalini S,  Venkatesh",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10468031"
+    },
+    {
+        "id": 1668,
+        "title": "Improved Support Vector Machine for Voiceprint Diagnosis of Typical Faults in Power Transformers",
+        "authors": "Jianxin Wang, Zhishan Zhao, Jun Zhu, Xin Li, Fan Dong, Shuting Wan",
+        "published": "2023-5-10",
+        "citations": 3,
+        "abstract": "The traditional power transformer diagnosis method relies on a lot of experience knowledge and a complex sampling process, which brings great difficulties to the fault diagnosis work. To solve this problem, a fault feature extraction method based on fully adaptive noise set empirical mode decomposition (CEEMDAN) is proposed, and the hunter–prey optimization (HPO) algorithm is used to optimize the support vector machine (SVM) to identify and classify the voice print faults of power transformers. Firstly, the CEEMDAN algorithm is used to decompose the voicemarks into several IMF components. IMF components containing fault information are selected according to the envelope kurtosis index and reconstructed to generate new signal sequences. PCA dimensionality reduction is performed on the reconstructed signal, and the principal components are extracted with a high cumulative contribution rate as input to SVM. Then, the HPO-SVM algorithm is used to classify and identify transformer faults. Apply the proposed method to the diagnosis of typical faults in power transformers. The results show that the accuracy of this method in identifying various fault states of power transformers can reach 98.5%, and it has better classification performance than other similar methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11050539"
+    },
+    {
+        "id": 1669,
+        "title": "Fault Diagnosis Strategy of Four-Switch Buck-Boost Converter Based on Support Vector Machines",
+        "authors": "Xueqi Liu, Xin Zhang, Kexin Hu",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241809"
+    },
+    {
+        "id": 1670,
+        "title": "Comparison of Support Vector Machines and ShuffleNet for Detection of Rice Species",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59287/icriret.1378"
+    },
+    {
+        "id": 1671,
+        "title": "Enhancing Human Expression Classification using Local Binary Patterns and Support Vector Machines with RBF Kernel in Convolutional Neural Networks",
+        "authors": "Rushil Patel, Ritesh Ajoodha",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4663400"
+    },
+    {
+        "id": 1672,
+        "title": "Predicting Stock Price Using Random Forest Algorithm and Support Vector Machines Algorithm",
+        "authors": "C.M. Shih, K. C. Yang, W.P. Chao",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieem58616.2023.10406964"
+    },
+    {
+        "id": 1673,
+        "title": "Enhancing Personalization and Privacy Management with Support Vector Machines in High Dense Cloud Networks",
+        "authors": "Ramkumar Krishnamoorthy, Swati Singh, Swati Gupta",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470492"
+    },
+    {
+        "id": 1674,
+        "title": "Hybridizing Convolutional Neural Networks and Support Vector Machines for Mango Ripeness Classification",
+        "authors": "Raj Gaurang Tiwari, Ankit Kumar Rai",
+        "published": "2024-1-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetsis61505.2024.10459360"
+    },
+    {
+        "id": 1675,
+        "title": "Musical Genre Classification Using Support Vector Machines and Convolutional Neural Networks",
+        "authors": "Tharun R Ragav, Divya B, Kavitha A",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccmla58983.2023.10346701"
+    },
+    {
+        "id": 1676,
+        "title": "Hyperparameter Tuning of Support Vector Machines for Wind Turbine Detection Using Drones",
+        "authors": "Jordan Miller, Colton Seegmiller, Mohammad A.S. Masoum, Mohammad Shekaramiz, Abdennour C. Seibi",
+        "published": "2023-5-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ietc57902.2023.10152252"
+    },
+    {
+        "id": 1677,
+        "title": "Support Vector Machines Application for Prediction of Binding Elements",
+        "authors": "Kingshuk Das Bakshi, N. Balakrishnan, Earli. Manemma, S.Janu Priya, Bhasker Pant, P.Anantha Christu Raj",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13052/rp-9788770040723.074"
+    },
+    {
+        "id": 1678,
+        "title": "Robust Detection of Chronic Lymphocytic Leukemia with Support Vector Machines and Flow Cytometry",
+        "authors": "Barış BORAL",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "Abstract\r\nAim:  Our aim is to build a precise automatic tool for the diagnosis of CLL with the help of machine learning algorithms and flow cytometry immunophenotypic data.\r\nMethods: We run experiments with two machine learning methods. First one is decision tree which was previously used in other similar works and second one is support vector machines which is considered to be a more robust classification method.\r\nResults : Among the 40 CLL patients from the test set, the model correctly predicts 38 of them and among the 20 other B-CLPD patients, the model predicts 18 of them correctly. Its sensitivity, which is the fraction of true positive predictions among all positive samples, is 95% (38/40).\r\nConclusion : The model achieves very high accuracies on our leave out test set. This model can be a useful tool for automatic CLL diagnosis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36516/jocass.1342711"
+    },
+    {
+        "id": 1679,
+        "title": "Parameter selection of Gaussian kernel for cost-sensitive support vector machines in imbalanced data classification",
+        "authors": "Yu Zhao, Nan Wang",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvidl58838.2023.10166009"
+    },
+    {
+        "id": 1680,
+        "title": "Data generation using geometrical edge probability for one-class support vector machines",
+        "authors": "Geonseok Lee, Pilwon Woo, Kichun Lee",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120387"
+    },
+    {
+        "id": 1681,
+        "title": "Non-Profiled Semi-Supervised Horizontal Attack Against Elliptic Curve Scalar Multiplication Using Support Vector Machines",
+        "authors": "Marcin Aftowicz, Ievgen Kabin, Zoya Dyka, Peter Langendörfer",
+        "published": "2023-9-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dsd60849.2023.00101"
+    },
+    {
+        "id": 1682,
+        "title": "Sentiment Analysis of Flood Disaster Management in Jakarta on Twitter Using Support Vector Machines",
+        "authors": "M Amiruddin Saddam, Erno Kurniawan Dewantara, Achmad Solichin",
+        "published": "2023-1-6",
+        "citations": 2,
+        "abstract": "Floods can cause negative impacts in various aspects, starting from economic, social, to health aspects. Even quoted from the site gis.bnpb.go.id, during 2022, there have been 1031 cases of flood disasters in Indonesia. Meanwhile in Jakarta, in 2022 there have been 14 cases of floods that caused hundreds of people to lose their homes. Several approaches can be taken to determine public opinion about flooding, one of which is text mining with an analysis of community sentiment. Sentiment analysis aims to determine public opinion regarding flood management in the capital city of Jakarta based on positive, neutral, and negative categories. To get the public sentiment, researchers carried out several stages, including the preprocessing stage. After obtaining public sentiment regarding flood management through the preprocessing stage, then classification is carried out based on public opinion so that it can be used by related parties for evaluation material in flood handling. In this study, the classification method used is the SVM method which is one of the supervised learning methods in machine learning. After classification, the next stage is the testing process using the K-Fold Cross Validation method. From the various sentiments obtained from Twitter data, it can be concluded that there are around 414 positive sentiments and 2464 negative sentiments related to flood handling in DKI Jakarta, while the results obtained from the test results show that the accuracy reaches 88.6%, the precision reaches 88.6% and recall reached 89.4%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33395/sinkron.v8i1.12063"
+    },
+    {
+        "id": 1683,
+        "title": "Retracted: Design of a Regional Economic Forecasting Model Using Optimal Nonlinear Support Vector Machines",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9763031"
+    },
+    {
+        "id": 1684,
+        "title": "A novel twin-support vector machines method for binary classification to imbalanced data",
+        "authors": "Jingyi Li, Shiwei Chao",
+        "published": "2023-4-3",
+        "citations": 0,
+        "abstract": "Most existing classifiers are better at identifying majority classes instead of ignoring minority classes, which leads to classifier degradation. Therefore, it is a challenge for binary classification to imbalanced data, to address this, this paper proposes a novel twin-support vector machine method. The thought is that majority classes and minority classes are found by two support vector machines, respectively. The new kernel is derived to promote the learning ability of the two support vector machines. Results show that the proposed method wins over competing methods in classification performance and the ability to find minority classes. Those classifiers based-twin architectures have more advantages than those classifiers based-single architecture in classification ability. We demonstrate that the complexity of imbalanced data distribution has negative effects on classification results, whereas, the advanced classification results and the desired boundaries can be gained by optimizing the kernel.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-222501"
+    },
+    {
+        "id": 1685,
+        "title": "PERBANDINGAN KINERJA METODE KLASIFIKASI  K-NEAREST NEIGHBOR DAN SUPPORT VECTOR MACHINES PADA DATASET PARKINSON",
+        "authors": "Wahyu Anwar Ridho, Triastuti Wuryandari, Arief Rachman Hakim",
+        "published": "2024-2-26",
+        "citations": 0,
+        "abstract": "The government program in the form of social assistance (bansos) is part of the effort to improve the welfare of the community and ensure basic needs and improve the standard of living of the recipients. However, there are often cases of mistargeting of social assistance programs by the government. Improper data management and Data Terpadu Kesejahteraan Sosial (DTKS) which are not used as the cause of the distribution of social assistance are not well targeted. The data can be analyzed using the classification method to determine whether or not the family accepts the ban from the government. This study classifies the SUSENAS data by comparing K-Nearest Neighbor (KNN) and Support Vector Machines (SVM). The advantage of the KNN method lies in the level of accuracy to solve problems with large data while the SVM method has better performance in various fields of application such as bioinformacs, handwriting recognition, text classification and so on. Based on training data and testing data comparison 85%:15% showed that KNN method had a better classification performance than the SVM method. The accuracy value of KNN method is 80,95% higher than the accuracy value of SVM method is 78,79%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14710/j.gauss.12.3.372-381"
+    },
+    {
+        "id": 1686,
+        "title": "Multicycle disassembly-based decomposition algorithm to train multiclass support vector machines",
+        "authors": "Tong Gao, Hao Chen",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.109479"
+    },
+    {
+        "id": 1687,
+        "title": "A study on using two-stage multiple support vector machines to forecast medium-term electricity market prices",
+        "authors": "Jiabei zhang",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3026885"
+    },
+    {
+        "id": 1688,
+        "title": "Optimizing Convolutional Neural Networks and Support Vector Machines for Spinach Disease Detection: A Hyperparameter Tuning Study",
+        "authors": "Ankita Suryavanshi, Vinay Kukreja, Ayush Dogra",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353280"
+    },
+    {
+        "id": 1689,
+        "title": "Classifying Aircraft using Velocity Data with Support Vector Machines and Likelihood Ratio Tests",
+        "authors": "Logan Dihel, Chester Dolph, Henry T. Holbrook, Sandip Roy",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-0898"
+    },
+    {
+        "id": 1690,
+        "title": "Classification of colon cancer patients into consensus molecular subtypes using support vector machines",
+        "authors": "Necla Koçhan, Baris Emre Dayanc",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55730/1300-0152.2675"
+    },
+    {
+        "id": 1691,
+        "title": "Sparse optimization via vector k-norm and DC programming with an application to feature selection for support vector machines",
+        "authors": "Manlio Gaudioso, Giovanni Giallombardo, Giovanna Miglionico",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "AbstractSparse optimization is about finding minimizers of functions characterized by a number of nonzero components as small as possible, such paradigm being of great practical relevance in Machine Learning, particularly in classification approaches based on support vector machines. By exploiting some properties of the k-norm of a vector, namely, of the sum of its k largest absolute-value components, we formulate a sparse optimization problem as a mixed-integer nonlinear program, whose continuous relaxation is equivalent to the unconstrained minimization of a difference-of-convex function. The approach is applied to Feature Selection in the support vector machine framework, and tested on a set of benchmark instances. Numerical comparisons against both the standard $$\\ell _1$$\n\nℓ\n1\n\n-based support vector machine and a simple version of the Slope method are presented, that demonstrate the effectiveness of our approach in achieving high sparsity level of the solutions without impairing test-correctness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-023-00506-y"
+    },
+    {
+        "id": 1692,
+        "title": "A distance-based kernel for classification via Support Vector Machines",
+        "authors": "Nazhir Amaya-Tejera, Margarita Gamarra, Jorge I. Vélez, Eduardo Zurek",
+        "published": "2024-2-26",
+        "citations": 0,
+        "abstract": "Support Vector Machines (SVMs) are a type of supervised machine learning algorithm widely used for classification tasks. In contrast to traditional methods that split the data into separate training and testing sets, here we propose an innovative approach where subsets of the original data are randomly selected to train the model multiple times. This iterative training process aims to identify a representative data subset, leading to improved inferences about the population. Additionally, we introduce a novel distance-based kernel specifically designed for binary-type features based on a similarity matrix that efficiently handles both binary and multi-class classification problems. Computational experiments on publicly available datasets of varying sizes demonstrate that our proposed method significantly outperforms existing approaches in terms of classification accuracy. Furthermore, the distance-based kernel achieves superior performance compared to other well-known kernels from the literature and those used in previous studies on the same datasets. These findings validate the effectiveness of our proposed classification method and distance-based kernel for SVMs. By leveraging random subset selection and a unique kernel design, we achieve notable improvements in classification accuracy. These results have significant implications for diverse classification problems in Machine Learning and data analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frai.2024.1287875"
+    },
+    {
+        "id": 1693,
+        "title": "Optimizing support vector machines and autoregressive integrated moving average methods for heart rate variability data correction",
+        "authors": "Jakob Svane, Tomasz Wiktorski, Stein Ørn, Trygve Christian Eftestøl",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mex.2023.102381"
+    },
+    {
+        "id": 1694,
+        "title": "Behaviour-constrained support vector machines for FMRI data analysis",
+        "authors": "Pardeep Kumar, J. Jegan Amarnath, K. Somasundaram,  Thilagavathy A.",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0109861"
+    },
+    {
+        "id": 1695,
+        "title": "Text Classification using Incremental Learning for many classes of Support Vector Machines",
+        "authors": "R.V. Gandhi, Seshaiah Merikapudi, Murthy S.V.N",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "This study introduces class-incremental learning (CIL). This framework improves multi-class data support vector machines (SVMs). CIL is incremental feature selection and training. Both steps update SVM classifiers as new classes are added to a system. CIL learns one binary sub-classifier and reuses classifier models for subsequent classes. Another feature selection stage follows. Testing applies the classifier to subspacerelevant vector projections. The CIL system is compatible with any binary classification approaches that are used for text analysis. According to the findings of our research, the CIL-based SVM beat the most popular batch SVM learning methods, such as divide-by-2, 1-against-1, and 1-against-rest, and trained faster. These learning methods are used to train SVMs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58599/ijsmien.2023.1205"
+    },
+    {
+        "id": 1696,
+        "title": "Nonparametric formulation of polynomial chaos expansion based on least-square support-vector machines",
+        "authors": "Paolo Manfredi, Riccardo Trinchero",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2024.108182"
+    },
+    {
+        "id": 1697,
+        "title": "Safe screening rules for multi-view support vector machines",
+        "authors": "Huiru Wang, Jiayi Zhu, Siyuan Zhang",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.021"
+    },
+    {
+        "id": 1698,
+        "title": "PERBANDINGAN ALGORITMA  SUPPORT VECTOR MACHINES (SVM) DAN NEURAL NETWORK UNTUK KLASIFIKASI PENYAKIT JANTUNG",
+        "authors": "Muhammad Dion Febrian Tino,  Herliyani Hasanah,  Tri Djoko Santosa",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "Jantung merupakan salah satu organ terpenting yang ada pada tubuh manusia. Dengan ada nya jantung, darah dapat tersalurkan keseluruh tubuh dengan baik. diperlukannya sebuah pola klasifikasi penyakit jantung. Klasifikasi yang digunakan yaitu dengan metode Support Vector Machines (SVM) dan Neural Net kinerja yang sangat baik. Pada dataset ini memiliki total 416 instance. Confusion Matrix algoritma SVM terdapat 36 + 34 prediksi yang benar dan 7 + 7 prediksi yang salah. Confusion Matrix algoritma Neural Network terdapat 164 + 180 prediksi yang benar dan 41 + 33 prediksi yang salah. Algoritma SVM memiliki tingakat accuracy lebih tinggi dibandingkan algoritma Neural Net. Yang berisi nilai pada AUC 0.833, CA 0.83, F1 0.835, Precision 0.835 dan Recall 0.835.Berdasarkan hasil penelitian pada kedua algoritma, bahwa algoritma SVM dapat menyelesaikan masalah klasifikasi penyakit jantung lebih baik dengan nilai akurasi 83% sedangkan pada algoritma Neural Net memiliki nilai akurasi 82% dalam menyelesaikan penyakit jantung.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31949/infotech.v9i1.5432"
+    },
+    {
+        "id": 1699,
+        "title": "A Graph Classification Method Based on Support Vector Machines and Locality-Sensitive Hashing",
+        "authors": "María D. Gonzalez-Lima, Carenne C. Ludeña, Gibran G. Otazo-Sanchez",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3356572"
+    },
+    {
+        "id": 1700,
+        "title": "A structural model of teachers’ teaching competencies based on multimodal affective features of support vector machines",
+        "authors": "Wenting Xiong, Xin Lai",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nBased on big data technology, this paper first proposes to study and analyze the structural model of teachers’ teaching ability based on multimodal sentiment features of support vector machines. Then the Mel inverse spectral coefficients, wavelet packet coefficients, Fourier coefficient features, dynamic features, and global features are extracted respectively, and the features are dimensionalized using linear support vector machine and Lagrangian function, and the dimensionalized feature parameters are sent to the classifier for emotion recognition. Finally, the structural model evaluation index system of teachers’ teaching ability is constructed, and the current teaching ability development of college teachers in a province is studied and analyzed from two perspectives of teachers’ self-assessment and students’ evaluation based on multimodal emotional features of support vector machine. The results showed that in terms of teaching ability dimensions, teachers had the highest expectation of their teaching ability (4.38) in each dimension, followed in order by teachers’ self-evaluation of teaching ability (4.15), students’ expectation (4.05), and students’ evaluation of teachers’ teaching ability (3.56) was the lowest. This study reveals that teachers’ perceptions of the teaching competencies they should have are biased, and their awareness of self-development is insufficient from the emotional characteristics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns.2023.2.00201"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 901,
+        "title": "Proof-of-Federated-Learning-Subchain: Free Partner Selection Subchain Based on Federated Learning",
+        "authors": "Boyang Li, Bingyu Shen, Qing Lu, Taeho Jung, Yiyu Shi",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bcca58897.2023.10338941"
+    },
+    {
+        "id": 902,
+        "title": "Federated Machine Learning for Systems Medicine",
+        "authors": "Richard Röttger",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14293/gof.23.06"
+    },
+    {
+        "id": 903,
+        "title": "CL-FedFR: Curriculum Learning for Federated Face Recognition",
+        "authors": "Devilliers Dube, Çiğdem Erdem, Ömer Korçak",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012574000003660"
+    },
+    {
+        "id": 904,
+        "title": "Data Valuation Methods for Federated Learning",
+        "authors": "Emre Ardiç, Yakup Genç",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223784"
+    },
+    {
+        "id": 905,
+        "title": "A Federated Learning System with Biometric Medical Image Authentication for Alzheimer's Diagnosis",
+        "authors": "Francesco Castro, Donato Impedovo, Giuseppe Pirlo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012550200003654"
+    },
+    {
+        "id": 906,
+        "title": "Node Selection in Federated Learning Using Sparsity Regularization and Compressive Sensing",
+        "authors": "Mohammad Munzurul Islam, Mohammed Alawad",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00199"
+    },
+    {
+        "id": 907,
+        "title": "Building a Robust Federated Learning based Intrusion Detection System in Internet of Things",
+        "authors": "Afrooz Rahmati, Afra Mashhadi, Geethapriya Thamilarasu",
+        "published": "2024-1-27",
+        "citations": 0,
+        "abstract": "The Internet of Things (IoT) has emerged as the next big technological revolution in recent years with the potential to transform every sphere of human life. As devices, applications, and communication networks become increasingly connected and integrated, security and privacy concerns in IoT are growing at an alarming rate as well. While existing research has largely focused on centralized systems to detect security attacks, these systems do not scale well with the rapid growth of IoT devices and pose a single-point of failure risk. Furthermore, since data is extensively dispersed across huge networks of connected devices, decentralized computing is critical. Federated learning (FL) systems in the recent times has gained popularity as the distributed machine learning model that enables IoT edge devices to collaboratively train models in a decentralized manner while ensuring that data on a user’s device stays private without the contents or details of that data ever leaving that device. In this paper, we propose a federated learning based intrusion detection system using LSTM Autoencoder. The proposed technique allows IoT devices to train a global model without revealing their private data, enabling the training model to grow in size while protecting each participants local data. We conduct extensive experiments using the BoT-IoT data set and demonstrate that our solution can not only effectively improve IoT security against unknown attacks but also ensure users data privacy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2024.140201"
+    },
+    {
+        "id": 908,
+        "title": "A Beginner's Guide to Federated Learning",
+        "authors": "G. Pradeep Reddy, Y. V. Pavan Kumar",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/imsa58542.2023.10217383"
+    },
+    {
+        "id": 909,
+        "title": "Byzantine Resilient Federated REINFORCE (GM-FedREINFORCE)",
+        "authors": "Ankit Pratap Singh, Ronak Tali",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00121"
+    },
+    {
+        "id": 910,
+        "title": "Δ SFL: (Decoupled Server Federated Learning) to Utilize DLG Attacks in Federated Learning by Decoupling the Server",
+        "authors": "Sudipta Paul, Vicenç Torra",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012150700003555"
+    },
+    {
+        "id": 911,
+        "title": "A decentralized data evaluation framework in federated learning",
+        "authors": "Laveen Bhatia, Saeed Samet",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bcra.2023.100152"
+    },
+    {
+        "id": 912,
+        "title": "Asynchronous Federated Learning: Methods and applications",
+        "authors": "Yifan Liu",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "Federated Learning (FL) is a distributed alternative to traditional machine learning frameworks that computes a global model on a centralized aggregation server according to the parameters of local models, which can address the privacy leakage problem caused by collecting sensitive data from local devices. However, the classic FL methods with synchronous aggregation strategies, in many cases, shall suffer from limitations in resource utilization due to the need to wait for slower devices (stragglers) to aggregate during each training epoch. In addition, the accuracy of the global model can be affected by the uneven distribution of data among unreliable devices in real-world scenarios. Therefore, many Asynchronous Federated Learning (AFL) methods have been developed on many occasions to improve communication efficiency, model performance, privacy, and security. This article elaborates on the existing research on AFL and its applications in many areas. The paper first introduces the concept and development of FL, and then discusses in detail the related work and main research directions of AFL, including dealing with stragglers, staleness, communication efficiency between devices, and privacy and scalability issues. Then, this paper also explores the application of AFL in different fields, especially in the fields of mobile device edge computing, Internet of Things devices, and medical data analysis. Finally, the article gives some outlook on future research directions and believes that it is necessary to design efficient asynchronous optimization algorithms, reduce communication overhead and computing resource usage, and explore new data privacy protection methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/39/20230588"
+    },
+    {
+        "id": 913,
+        "title": "Scaling-up medical vision-and-language representation learning with federated learning",
+        "authors": "Siyu Lu, Zheng Liu, Tianlin Liu, Wangchunshu Zhou",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.107037"
+    },
+    {
+        "id": 914,
+        "title": "Federated Learning with Trust Evaluation for Industrial Applications",
+        "authors": "Sergei Chuprov, Moinuddin Memon, Leon Reznik",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cai54212.2023.00153"
+    },
+    {
+        "id": 915,
+        "title": "An Insight into Federated Learning Based Digital Twin Applications in Smart City",
+        "authors": "Saranya M, Amutha B",
+        "published": "2023-8-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icirca57980.2023.10220792"
+    },
+    {
+        "id": 916,
+        "title": "IoT data sharing technology based on blockchain and federated learning algorithms",
+        "authors": "Zhiqiang Feng",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.iswa.2024.200359"
+    },
+    {
+        "id": 917,
+        "title": "Comparison of Federated Learning Strategies on ECG Classification",
+        "authors": "Eyüpcan Çelik, Mehmet Kemal Güllü",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asyu58738.2023.10296796"
+    },
+    {
+        "id": 918,
+        "title": "Beyond data poisoning in federated learning",
+        "authors": "Harsh Kasyap, Somanath Tripathy",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121192"
+    },
+    {
+        "id": 919,
+        "title": "Asynchronous federated learning for tactical autonomy",
+        "authors": "Earl Tankard, Desta Hagos, Danda B. Rawat",
+        "published": "2023-6-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2665404"
+    },
+    {
+        "id": 920,
+        "title": "Federated and Transfer Learning Applications",
+        "authors": "George Drosatos, Pavlos S. Efraimidis, Avi Arampatzis",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "The classic example of machine learning is based on isolated learning—a single model for each task using a single dataset [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app132111722"
+    },
+    {
+        "id": 921,
+        "title": "Federated Learning for Commercial Image Sources",
+        "authors": "Shreyansh Jain, Koteswar Rao Jerripothula",
+        "published": "2023-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00647"
+    },
+    {
+        "id": 922,
+        "title": "FReNG: Federated Optimization by Using Regularized Natural Gradient Descent",
+        "authors": "Mrinmay Sen, C Gayatri",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00286"
+    },
+    {
+        "id": 923,
+        "title": "Blockchain-based Federated Learning for Decentralized Energy Management Systems",
+        "authors": "Abdulrezzak Zekiye, Öznur Özkasap",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bcca58897.2023.10338852"
+    },
+    {
+        "id": 924,
+        "title": "Optimal Asynchronous Federated Learning for the Internet of Battlefield Things (IoBT)",
+        "authors": "Desta Haileselassie Hagos, Earl Tankard, Manish Bhurtel, Danda B. Rawat",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00234"
+    },
+    {
+        "id": 925,
+        "title": "Addressing Class Variable Imbalance in Federated Semi-Supervised Learning",
+        "authors": "Zehui Dong, Wenjing Liu, Siyuan Liu, Xingzhi Chen",
+        "published": "2023-3-18",
+        "citations": 0,
+        "abstract": "Federated Semi-supervised Learning (FSSL) combines techniques from both fields of federated and semi- supervised learning to improve the accuracy and performance of models in a distributed environment by using a small fraction of labeled data and a large amount of unlabeled data. Without the need tocentralize all data in one place for training, it collect updates of model training after devices train models at local, and thus can protect the privacy of user data. However, during the federal training process, some of the devices fail to collect enough data for local training, while new devices will be included to the group training. This leads to an unbalanced global data distribution and thus af ect the performance of the global model training. Most of the current research is focusing on class imbalance with a fixednumber of classes, while little attention is paid to data imbalance with a variable number of classes. Therefore, in this paper, we propose Federated Semi-supervised Learning for Class Variable Imbalance (FCVI) to solve class variable imbalance. The class-variable learning algorithm is used to mitigate the data imbalance due to changes of the number of classes. Our scheme is proved to be significantly better than baseline methods, while maintaining client privacy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.130522"
+    },
+    {
+        "id": 926,
+        "title": "Wireless Network Selection System Using Federated Learning Considering Applications in Use",
+        "authors": "Shuta Fukuda, Norihiko Shinomiya",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcce59613.2023.10315389"
+    },
+    {
+        "id": 927,
+        "title": "Vehicular communication using federated learning empowered chimp optimization (FLECO) algorithm",
+        "authors": "Ruchi Gupta, Tanweer Alam",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18137-8"
+    },
+    {
+        "id": 928,
+        "title": "Can Federated Learning be Responsible?",
+        "authors": "Ling Liu",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tps-isa58951.2023.00009"
+    },
+    {
+        "id": 929,
+        "title": "FedDebug: Systematic Debugging for Federated Learning Applications",
+        "authors": "Waris Gill, Ali Anwar, Muhammad Ali Gulzar",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icse48619.2023.00053"
+    },
+    {
+        "id": 930,
+        "title": "Federated Learning Applications for Breast Cancer",
+        "authors": "Luciano Caroprese, Tommaso Ruga, Eugenio Vocaturo, Ester Zumpano",
+        "published": "2023-12-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385394"
+    },
+    {
+        "id": 931,
+        "title": "Implications of Node Selection in Decentralized Federated Learning",
+        "authors": "Ahnaf Hannan Lodhi, Bariş Akgün, Öznur Özkasap",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223974"
+    },
+    {
+        "id": 932,
+        "title": "A survey on federated learning: evolution, applications and challenges",
+        "authors": "Lingyu Shi",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "Federated learning, a machine learning technique that enables collaborative model training on decentralized data, has gained significant attention in recent years due to its potential to address privacy concerns. This paper explores the evolution, applications, and challenges of federated learning. The research topic focuses on providing a comprehensive understanding of federated learning, its advantages, and limitations. The purpose of the study is to highlight the importance of federated learning in preserving data privacy and enabling collaborative model training. The study conducted a literature review by systematically analyzing relevant papers from peer-reviewed journals, conference proceedings, and reputable sources. The results reveal that federated learning offers a promising solution for collaborative machine learning while addressing concerns related to data privacy and security. The study emphasizes the need for further research in optimizing communication protocols, scalability, and privacy-preserving techniques. Overall, this paper contributes to the understanding of federated learning and its potential for secure and efficient decentralized learning paradigms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/22/20231177"
+    },
+    {
+        "id": 933,
+        "title": "Gradient Coreset for Federated Learning",
+        "authors": "Durga Sivasubramanian, Lokesh Nagalapatti, Rishabh Iyer, Ganesh Ramakrishnan",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00263"
+    },
+    {
+        "id": 934,
+        "title": "Hierarchical Federated Transfer Learning: A Multi-Cluster Approach on the Computing Continuum",
+        "authors": "Sabtain Ahmad, Atakan Aral",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00174"
+    },
+    {
+        "id": 935,
+        "title": "Data-efficient, federated learning for raw network traffic detection",
+        "authors": "Mikal Willeke, David Bierbrauer, Nathaniel D. Bastian",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663092"
+    },
+    {
+        "id": 936,
+        "title": "Federated Learning for Network Anomaly Detection in a Distributed Industrial Environment",
+        "authors": "Alireza Dehlaghi-Ghadim, Tijana Markovic, Miguel Leon, David Söderman, Per Erik Strandberg",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00038"
+    },
+    {
+        "id": 937,
+        "title": "Federated Learning based Intrusion Detection System for Satellite Communication",
+        "authors": "Ryhan Uddin, Sathish Kumar",
+        "published": "2023-6-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccaaw57883.2023.10219228"
+    },
+    {
+        "id": 938,
+        "title": "Resource Efficient Federated Learning for Deep Anomaly Detection in Industrial IoT applications",
+        "authors": "Alexandros Gkillas, Aris Lalos",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dsp58604.2023.10167873"
+    },
+    {
+        "id": 939,
+        "title": "Forecasting Vehicle Prices using Machine Learning Techniques based on Federated Learning Strategy",
+        "authors": "Mohammed A. Mahfouz, Sara M. Mosaad, Mohamed A. Belal",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5120/ijca2023922923"
+    },
+    {
+        "id": 940,
+        "title": "Advancing Infrastructure Development through a Novel Federated Learning Design for Visitor Privacy Preservation Solutions",
+        "authors": "Qiong Chen",
+        "published": "2023-6-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14733/cadaps.2023.s15.264-273"
+    },
+    {
+        "id": 941,
+        "title": "Federated Learning in Predicting Heart Disease",
+        "authors": "Burak Ülver, Rabia Arkan Yurtoğlu, Havvanur Dervişoğlu, Ruşen Halepmollası, Mehmet Haklıdır",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223935"
+    },
+    {
+        "id": 942,
+        "title": "Privacy enabled driver behavior analysis in heterogeneous IoV using federated learning",
+        "authors": "Rishu Chhabra, Saravjeet Singh, Vikas Khullar",
+        "published": "2023-4",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.105881"
+    },
+    {
+        "id": 943,
+        "title": "Privacy-preserving and Byzantine-robust Federated Learning Framework using Permissioned Blockchain",
+        "authors": "Harsh Kasyap, Somanath Tripathy",
+        "published": "2024-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122210"
+    },
+    {
+        "id": 944,
+        "title": "Federated learning: Applications, Security hazards and Defense measures",
+        "authors": "Sonam Tyagi, Ishwari Singh Rajput, Richa Pandey",
+        "published": "2023-3-17",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dicct56244.2023.10110075"
+    },
+    {
+        "id": 945,
+        "title": "Non trust detection of decentralized federated learning based on historical gradient",
+        "authors": "Yikuan Chen, Li Liang, Wei Gao",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.105888"
+    },
+    {
+        "id": 946,
+        "title": "Federated Learning for Mobility Applications",
+        "authors": "Melike Gecer, Benoit Garbinato",
+        "published": "2024-5-31",
+        "citations": 0,
+        "abstract": "\n            The increasing concern for privacy and the use of machine learning on personal data has led researchers to introduce new approaches to machine learning.\n            Federated learning\n            is one such a novel privacy-preserving machine learning approach that “brings code to data,” unlike traditional machine learning approaches that “bring data to code.” In addition to improving privacy, federated learning is beneficial for latency-sensitive mobility applications by providing local models. To the best of our knowledge, this article is the first ever to survey mobility-related federated learning solutions, such as traffic-flow prediction, next-location prediction, and point-of-interest recommendation. Our categorization is based on three main questions:\n            Why use federated learning?\n            to identify the motivation to use federated learning;\n            What problems are being addressed?\n            to examine problems that surface with federated learning and how they are solved; and\n            How is federated learning implemented?\n            to account for the solutions implemented by the authors surveyed The selected papers are peer reviewed and published in journals and conferences; they all adopt federated learning as their core approach. We introduce our conceptual model to characterize federated learning solutions and to compare them. In our conceptual model, we define three abstract roles: data generator, learner, and aggregator. We also explain how the work in the selected papers fits into our conceptual model.\n          ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3637868"
+    },
+    {
+        "id": 947,
+        "title": "Multi-Model-Based Federated Learning to Overcome Local Class Imbalance Issues",
+        "authors": "Jiefei Liu, Huiping Cao, Abu Saleh Md Tayeen, Satyajayant Misra, Pratyay Kumar, Jayashree Harikumar",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00044"
+    },
+    {
+        "id": 948,
+        "title": "Proof of Swarm Based Ensemble Learning for Federated Learning Applications",
+        "authors": "Ali Raza, Kim Phuc Tran, Ludovic Koehl, Shujun Li",
+        "published": "2023-3-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3555776.3578601"
+    },
+    {
+        "id": 949,
+        "title": "Medical Imaging Applications of Federated Learning",
+        "authors": "Sukhveer Singh Sandhu, Hamed Taheri Gorji, Pantea Tavakolian, Kouhyar Tavakolian, Alireza Akhbardeh",
+        "published": "2023-10-6",
+        "citations": 2,
+        "abstract": "Since its introduction in 2016, researchers have applied the idea of Federated Learning (FL) to several domains ranging from edge computing to banking. The technique’s inherent security benefits, privacy-preserving capabilities, ease of scalability, and ability to transcend data biases have motivated researchers to use this tool on healthcare datasets. While several reviews exist detailing FL and its applications, this review focuses solely on the different applications of FL to medical imaging datasets, grouping applications by diseases, modality, and/or part of the body. This Systematic Literature review was conducted by querying and consolidating results from ArXiv, IEEE Xplorer, and PubMed. Furthermore, we provide a detailed description of FL architecture, models, descriptions of the performance achieved by FL models, and how results compare with traditional Machine Learning (ML) models. Additionally, we discuss the security benefits, highlighting two primary forms of privacy-preserving techniques, including homomorphic encryption and differential privacy. Finally, we provide some background information and context regarding where the contributions lie. The background information is organized into the following categories: architecture/setup type, data-related topics, security, and learning types. While progress has been made within the field of FL and medical imaging, much room for improvement and understanding remains, with an emphasis on security and data issues remaining the primary concerns for researchers. Therefore, improvements are constantly pushing the field forward. Finally, we highlighted the challenges in deploying FL in medical imaging applications and provided recommendations for future directions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics13193140"
+    },
+    {
+        "id": 950,
+        "title": "A Decentralized Federated Learning Using Reputation",
+        "authors": "Olive Chakraborty, Aymen Boudguiga",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012428300003648"
+    },
+    {
+        "id": 951,
+        "title": "Federated learning based on Stackelberg game in unmanned-aerial-vehicle-enabled mobile edge computing",
+        "authors": "Chunlin Li, Mingyang Song, Youlong Luo",
+        "published": "2024-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121023"
+    },
+    {
+        "id": 952,
+        "title": "Dynamic MAC Scheduling in O-RAN using Federated Deep Reinforcement Learning",
+        "authors": "Halil Arslan, Selim Yılmaz, Sevil Sen",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smartnets58706.2023.10216125"
+    },
+    {
+        "id": 953,
+        "title": "Late to the party? On-demand unlabeled personalized federated learning",
+        "authors": "Ohad Amosy, Gal Eyal, Gal Chechik",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00218"
+    },
+    {
+        "id": 954,
+        "title": "Federated learning: a comprehensive review of recent advances and applications",
+        "authors": "Harmandeep Kaur, Veenu Rani, Munish Kumar, Monika Sachdeva, Ajay Mittal, Krishan Kumar",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17737-0"
+    },
+    {
+        "id": 955,
+        "title": "A personalized cross-domain recommendation with federated meta learning",
+        "authors": "Peng Zhao, Yuanyang Jin, Xuebin Ren, Yanan Li",
+        "published": "2024-2-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18495-3"
+    },
+    {
+        "id": 956,
+        "title": "Attack Detection in IoT-Based Healthcare Networks Using Hybrid Federated Learning",
+        "authors": "May Itani, Hanaa Basheer, Fouad Eddine",
+        "published": "2023-7-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smartnets58706.2023.10216144"
+    },
+    {
+        "id": 957,
+        "title": "FedAcc and FedAccSize: Aggregation Methods for Federated Learning Applications",
+        "authors": "Iuliana Bejenar, Lavinia Ferariu, Carlos Pascal, Constantin F. Caruntu",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/med59994.2023.10185810"
+    },
+    {
+        "id": 958,
+        "title": "Deep Federated Learning for IoT to Improve Healthcare Operations",
+        "authors": "Haya Elayan, Moayad Aloqaily, Mohsen Guizani",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/idsta58916.2023.10317828"
+    },
+    {
+        "id": 959,
+        "title": "Harnessing federated generative learning for green and sustainable Internet of Things",
+        "authors": "Yuanhang Qi, M. Shamim Hossain",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jnca.2023.103812"
+    },
+    {
+        "id": 960,
+        "title": "Empirical Analysis of Federated Learning Algorithms: A Federated Research Infrastructure Use Case",
+        "authors": "Harshit Gupta, Abhishek Verma, O. Vyas, Marco Garofalo, Giuseppe Tricomi, Francesco Longo, Giovanni Merlino, Antonio Puliafito",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012037600003488"
+    },
+    {
+        "id": 961,
+        "title": "Scalable Federated Learning Simulations Using Virtual Client Engine in Flower",
+        "authors": "Thomas Borja, Daniel Alamillo, Anass Anhari, Ilker Demirkol",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223791"
+    },
+    {
+        "id": 962,
+        "title": "Scalable Federated Learning for Clients with Different Input Image Sizes and Numbers of Output Categories",
+        "authors": "Shuhei Nitta, Taiji Suzuki, Albert Rodríguez Mulet, Atsushi Yaguchi, Ryusuke Hirai",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00111"
+    },
+    {
+        "id": 963,
+        "title": "Privacy-preserving Federated Learning Against Byzantine Attack via Top-k Indexes",
+        "authors": "Menghan Shang, Ze Tong, Teng Liu, Tao Zhang",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nana60121.2023.00108"
+    },
+    {
+        "id": 964,
+        "title": "An improved federated deep learning for plant leaf disease detection",
+        "authors": "Pragya Hari, Maheshwari Prasad Singh, Amit Kumar Singh",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18867-9"
+    },
+    {
+        "id": 965,
+        "title": "Secure federated machine learning for distributed spectrum sensing in communication networks",
+        "authors": "Richard Searle, Prabhanjan Gururaj, Shreyas Gaikwad, Kiran Kannur",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663765"
+    },
+    {
+        "id": 966,
+        "title": "QuaFedAsync: Quality-based Asynchronous Federated Learning for the Embedded Systems",
+        "authors": "Hongyi Zhang, Jan Bosch, Helena Holmström Olsson",
+        "published": "2023-9-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/seaa60479.2023.00019"
+    },
+    {
+        "id": 967,
+        "title": "A decentralized federated learning-based spatial–temporal model for freight traffic speed forecasting",
+        "authors": "Xiuyu Shen, Jingxu Chen, Siying Zhu, Ran Yan",
+        "published": "2024-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122302"
+    },
+    {
+        "id": 968,
+        "title": "Model optimization techniques in personalized federated learning: A survey",
+        "authors": "Fahad Sabah, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar",
+        "published": "2024-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122874"
+    },
+    {
+        "id": 969,
+        "title": "A novel local differential privacy federated learning under multi-privacy regimes",
+        "authors": "Chun Liu, Youliang Tian, Jinchuan Tang, Shuping Dang, Gaojie Chen",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120266"
+    },
+    {
+        "id": 970,
+        "title": "Model pruning enables localized and efficient federated learning for yield forecasting and data sharing",
+        "authors": "Andy Li, Milan Markovic, Peter Edwards, Georgios Leontidis",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122847"
+    },
+    {
+        "id": 971,
+        "title": "Privacy Protection Federated Learning Framework Based on Blockchain and Committee Consensus in IoT Devices",
+        "authors": "Shuxin Zhang, Jinghua Zhu",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/compsac57700.2023.00088"
+    },
+    {
+        "id": 972,
+        "title": "Communication-Efficient Federated Learning for Real-time Applications in Edge Networks",
+        "authors": "Neha Singh, Tanmay Tripathi, Mainak Adhikari",
+        "published": "2023-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ants59832.2023.10468696"
+    },
+    {
+        "id": 973,
+        "title": "A Multi-Agent System Empowered by Federated Learning and Genetic Programming",
+        "authors": "Luis Gomes, Bruno Ribeiro, Fernando Lezama, Zita Vale",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223778"
+    },
+    {
+        "id": 974,
+        "title": "Privacy Preserved Federated Learning for Skin Cancer Diagnosis",
+        "authors": "Yifan Li, Yuechen He, Yufei Fu, Sizhe Shan",
+        "published": "2023-1-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpeca56706.2023.10075862"
+    },
+    {
+        "id": 975,
+        "title": "Confident federated learning to tackle label flipped data poisoning attacks",
+        "authors": "Pretom Roy Ovi, Aryya Gangopadhyay, Robert F. Erbacher, Carl Busart",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663911"
+    },
+    {
+        "id": 976,
+        "title": "Split and Federated Learning with Mobility in Vehicular Edge Computing",
+        "authors": "Sungwon Moon, Yujin Lim",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sera57763.2023.10197801"
+    },
+    {
+        "id": 977,
+        "title": "Unravelling Peach Leaf Disease Severity: A Federated Learning CNN Perspective",
+        "authors": "Vikrant Sharma, Shiva Mehta, Vinay Kukreja, Manisha Aeri",
+        "published": "2023-7-19",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecaa58104.2023.10212138"
+    },
+    {
+        "id": 978,
+        "title": "Towards Privacy-Aware Federated Learning for User-Sensitive Data",
+        "authors": "Muhammad Asad, Safa Otoum",
+        "published": "2023-10-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bcca58897.2023.10338856"
+    },
+    {
+        "id": 979,
+        "title": "Bandit-based data poisoning attack against federated learning for autonomous driving models",
+        "authors": "Shuo Wang, Qianmu Li, Zhiyong Cui, Jun Hou, Chanying Huang",
+        "published": "2023-10",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120295"
+    },
+    {
+        "id": 980,
+        "title": "Quantum Federated Learning for Image Classification",
+        "authors": "Leo Sünkel, Philipp Altmann, Michael Kölle, Thomas Gabor",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012421200003636"
+    },
+    {
+        "id": 981,
+        "title": "Integrating a Neural Network Library in Embedded Federated Learning",
+        "authors": "Soufiane Aatab, Felix Freitag",
+        "published": "2023-11-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cloudtech58737.2023.10366148"
+    },
+    {
+        "id": 982,
+        "title": "Hierarchical federated learning with local model embedding",
+        "authors": "Yunlong He, Dandan Yan, Fei Chen",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106148"
+    },
+    {
+        "id": 983,
+        "title": "Learning, Tiny and Huge: Heterogeneous Model Augmentation Towards Federated Tiny Learning",
+        "authors": "Madhureeta Das, Gaurav Bagwe, Miao Pan, Xiaoyong Yuan, Lan Zhang",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00021"
+    },
+    {
+        "id": 984,
+        "title": "Federated learning approaches for fuzzy cognitive maps to support clinical decision-making in dengue",
+        "authors": "William Hoyos, Jose Aguilar, Mauricio Toro",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106371"
+    },
+    {
+        "id": 985,
+        "title": "Dual-blockchain based multi-layer grouping federated learning scheme for heterogeneous data in industrial IoT",
+        "authors": "Xin Wang, Haoji Zhang, Haoyu Wu, Hongnian Yu",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bcra.2024.100195"
+    },
+    {
+        "id": 986,
+        "title": "Federated Learning for Wireless Applications: A Prototype",
+        "authors": "Varun Laxman Muttepawar, Arjun Mehra, Zubair Shaban, Ranjitha Prasad, J. Harshan",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/comsnets59351.2024.10426910"
+    },
+    {
+        "id": 987,
+        "title": "Federated Learning for Collaborative Network Security in Decentralized Environments",
+        "authors": "",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "In decentralized network environments, collaborative efforts are crucial to bolstering network security against everevolving threats from malicious actors. Federated Learning has emerged as a promising solution, enabling multiple nodes to collectively train machine learning models while preserving data privacy. This research proposes SentinelNet, a novel Federated Learning framework specifically designed for collaborative network security. The framework emphasizes secure threat intelligence sharing, privacy-preserving techniques, and adaptive learning mechanisms. Through comprehensive evaluations and real-world case studies, SentinelNet demonstrates its efficacy in enhancing network security while maintaining data confidentiality. The research highlights the significance of collaborative approaches and advocates the adoption of Federated Learning to fortify decentralized network ecosystems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/jsndc.03.01.03"
+    },
+    {
+        "id": 988,
+        "title": "A comprehensive review on Federated Learning for Data-Sensitive Application: Open issues &amp; challenges",
+        "authors": "Manu Narula, Jasraj Meena, Dinesh Kumar Vishwakarma",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2024.108128"
+    },
+    {
+        "id": 989,
+        "title": "Federated Learning for Beginners: Types, Simulation Environments, and Open Challenges",
+        "authors": "Monalisa Panigrahi, Sourabh Bharti, Arun Sharma",
+        "published": "2023-6-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic2e357697.2023.10262769"
+    },
+    {
+        "id": 990,
+        "title": "FLAP: Federated Learning Aggregation Scheme Based on Privileged Secret Sharing",
+        "authors": "Xianyu Mu, Youliang Tian, Jinbo Xiong, Shuai Wang, Boxiang Gong",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nana60121.2023.00102"
+    },
+    {
+        "id": 991,
+        "title": "Federated Learning Support for Cybersecurity: Fundamentals, Applications, and Opportunities",
+        "authors": "Rami Mohawesh, Sumbal Maqsood, Yaser Jararweh, Haythem Bany Salameh",
+        "published": "2023-6-19",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccns58795.2023.10193279"
+    },
+    {
+        "id": 992,
+        "title": "A comprehensive review on federated learning based models for healthcare applications",
+        "authors": "Shagun Sharma, Kalpna Guleria",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.artmed.2023.102691"
+    },
+    {
+        "id": 993,
+        "title": "Optimized Paillier Homomorphic Encryption in Federated Learning for Speech Emotion Recognition",
+        "authors": "Samaneh Mohammadi, Sima Sinaei, Ali Balador, Francesco Flammini",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/compsac57700.2023.00156"
+    },
+    {
+        "id": 994,
+        "title": "FeSEC: a secure and efficient federated learning framework for medical imaging",
+        "authors": "Muhammad Asad, Yading Yuan",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3005993"
+    },
+    {
+        "id": 995,
+        "title": "Locally Differential Private Federated Learning with Controllable Perturbation Domains",
+        "authors": "Yuhua Wang, Jianming Zhu",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nana60121.2023.00110"
+    },
+    {
+        "id": 996,
+        "title": "Federated Learning Showdown: The Comparative Analysis of Federated Learning Frameworks",
+        "authors": "Sai Praneeth Karimireddy, Narasimha Raghavan Veeraragavan, Severin Elvatun, Jan F. Nygård",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fmec59375.2023.10305961"
+    },
+    {
+        "id": 997,
+        "title": "A Comprehensive Distributed Framework for Cross-silo Federated Learning using Blockchain",
+        "authors": "Prateek Durgapal, Parth Kataria, Garv Garg, Anshu S. Anand",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bcca58897.2023.10338869"
+    },
+    {
+        "id": 998,
+        "title": "Adaptive federated few-shot feature learning with prototype rectification",
+        "authors": "Mengping Yang, Xu Chu, Jingwen Zhu, Yonghui Xi, Saisai Niu, Zhe Wang",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.107125"
+    },
+    {
+        "id": 999,
+        "title": "IDS-MA: Intrusion Detection System for IoT MQTT Attacks Using Centralized and Federated Learning",
+        "authors": "Adebayo Omotosho, Yaman Qendah, Christian Hammer",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/compsac57700.2023.00093"
+    },
+    {
+        "id": 1000,
+        "title": "GAN-Based Covert Communications Against an Adversary with Uncertain Detection Threshold in Federated Learning Networks",
+        "authors": "Yu Feng, Yu'e Jiang, Yutong Wang",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nana60121.2023.00106"
+    }
+]
