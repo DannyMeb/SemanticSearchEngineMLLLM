@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 13505,
+        "title": "Self-Healing Misconfiguration of Cloud-Based IoT Systems Using Markov Decision Processes",
+        "authors": "Areeg Samir, Håvard Dagenborg",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011966700003488"
+    },
+    {
+        "id": 13506,
+        "title": "Optimal Decision Tree Policies for Markov Decision Processes",
+        "authors": "Daniël Vos, Sicco Verwer",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Interpretability of reinforcement learning policies is essential for many real-world tasks but learning such interpretable policies is a hard problem. Particularly, rule-based policies such as decision trees and rules lists are difficult to optimize due to their non-differentiability. While existing techniques can learn verifiable decision tree policies, there is no guarantee that the learners generate a policy that performs optimally. In this work, we study the optimization of size-limited decision trees for Markov Decision Processes (MPDs) and propose OMDTs: Optimal MDP Decision Trees. Given a user-defined size limit and MDP formulation, OMDT directly maximizes the expected discounted return for the decision tree using Mixed-Integer Linear Programming. By training optimal tree policies for different MDPs we empirically study the optimality gap for existing imitation learning techniques and find that they perform sub-optimally. We show that this is due to an inherent shortcoming of imitation learning, namely that complex policies cannot be represented using size-limited trees. In such cases, it is better to directly optimize the tree for expected return. While there is generally a trade-off between the performance and interpretability of machine learning models, we find that on small MDPs, depth 3 OMDTs often perform close to optimally.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/606"
+    },
+    {
+        "id": 13507,
+        "title": "Conformal Off-Policy Evaluation in Markov Decision Processes",
+        "authors": "Daniele Foffano, Alessio Russo, Alexandre Proutiere",
+        "published": "2023-12-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383469"
+    },
+    {
+        "id": 13508,
+        "title": "A Policy Gradient Approach for Finite Horizon Constrained Markov Decision Processes",
+        "authors": "Soumyajit Guin, Shalabh Bhatnagar",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383413"
+    },
+    {
+        "id": 13509,
+        "title": "Markov Decision Processes: A Gentle Tutorial",
+        "authors": "Oualid Missaoui",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4535241"
+    },
+    {
+        "id": 13510,
+        "title": "Efficient Off-Policy Algorithms for Structured Markov Decision Processes",
+        "authors": "Sourav Ganguly, Raghuram Bharadwaj Diddigi, Prabuchandran K J",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383276"
+    },
+    {
+        "id": 13511,
+        "title": "Positivity-hardness results on Markov decision processes",
+        "authors": "Jakob Piribauer, Christel Baier",
+        "published": "2024-4-8",
+        "citations": 0,
+        "abstract": "This paper investigates a series of optimization problems for one-counter\nMarkov decision processes (MDPs) and integer-weighted MDPs with finite state\nspace. Specifically, it considers problems addressing termination probabilities\nand expected termination times for one-counter MDPs, as well as satisfaction\nprobabilities of energy objectives, conditional and partial expectations,\nsatisfaction probabilities of constraints on the total accumulated weight, the\ncomputation of quantiles for the accumulated weight, and the conditional\nvalue-at-risk for accumulated weights for integer-weighted MDPs. Although\nalgorithmic results are available for some special instances, the decidability\nstatus of the decision versions of these problems is unknown in general. The\npaper demonstrates that these optimization problems are inherently\nmathematically difficult by providing polynomial-time reductions from the\nPositivity problem for linear recurrence sequences. This problem is a\nwell-known number-theoretic problem whose decidability status has been open for\ndecades and it is known that decidability of the Positivity problem would have\nfar-reaching consequences in analytic number theory. So, the reductions\npresented in the paper show that an algorithmic solution to any of the\ninvestigated problems is not possible without a major breakthrough in analytic\nnumber theory. The reductions rely on the construction of MDP-gadgets that\nencode the initial values and linear recurrence relations of linear recurrence\nsequences. These gadgets can flexibly be adjusted to prove the various\nPositivity-hardness results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46298/theoretics.24.9"
+    },
+    {
+        "id": 13512,
+        "title": "A Contracting Dynamical System Perspective toward Interval Markov Decision Processes",
+        "authors": "Saber Jafarpour, Samuel Coogan",
+        "published": "2023-12-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383575"
+    },
+    {
+        "id": 13513,
+        "title": "Oblivious Markov Decision Processes: Planning and Policy Execution",
+        "authors": "Murtadha Alsayegh, Jose Fuentes, Leonardo Bobadilla, Dylan A. Shell",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383231"
+    },
+    {
+        "id": 13514,
+        "title": "Optimal investment strategy on data analytics capabilities of startups via Markov decision analysis",
+        "authors": "Maarten Voorneveld, Maurits de Groot",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2024.100438"
+    },
+    {
+        "id": 13515,
+        "title": "Performance Analysis for a Recommending System Based on Partially Observed Markov Decision Processes",
+        "authors": "Xiaoyi Cai",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbaie59714.2023.10281325"
+    },
+    {
+        "id": 13516,
+        "title": "Optimal preventive policies for parallel systems using Markov decision process: application to an offshore power plant",
+        "authors": "Mario Marcondes Machado, Thiago Lima Silva, Eduardo Camponogara, Edilson Fernandes de Arruda, Virgílio José Martins Ferreira Filho",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100034"
+    },
+    {
+        "id": 13517,
+        "title": "Online Learning of Safety function for Markov Decision Processes",
+        "authors": "Abhijit Mazumdar, Rafal Wisniewski, Manuela L. Bujorianu",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ecc57647.2023.10178361"
+    },
+    {
+        "id": 13518,
+        "title": "An ϵ-Greedy Multiarmed Bandit Approach to Markov Decision Processes",
+        "authors": "Isa Muqattash, Jiaqiao Hu",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "We present REGA, a new adaptive-sampling-based algorithm for the control of finite-horizon Markov decision processes (MDPs) with very large state spaces and small action spaces. We apply a variant of the ϵ-greedy multiarmed bandit algorithm to each stage of the MDP in a recursive manner, thus computing an estimation of the “reward-to-go” value at each stage of the MDP. We provide a finite-time analysis of REGA. In particular, we provide a bound on the probability that the approximation error exceeds a given threshold, where the bound is given in terms of the number of samples collected at each stage of the MDP. We empirically compare REGA against another sampling-based algorithm called RASA by running simulations against the SysAdmin benchmark problem with 210 states. The results show that REGA and RASA achieved similar performance. Moreover, REGA and RASA empirically outperformed an implementation of the algorithm that uses the “original” ϵ-greedy algorithm that commonly appears in the literature.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/stats6010006"
+    },
+    {
+        "id": 13519,
+        "title": "Turnpikes in finite Markov decision processes and random walk",
+        "authors": "Alexei Borisovich Piunovskiy",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "В данной статье мы пересматриваем магистральное свойство для дисконтированных марковских процессов принятия решений, доказываем магистральную теорему для модели без дисконтирования и применяем полученные результаты для специфического случайного блуждания.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4213/tvp5528"
+    },
+    {
+        "id": 13520,
+        "title": "Agent-based social insurance modelling: Using Markov decision processes to improve the connection with data",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.dehaan"
+    },
+    {
+        "id": 13521,
+        "title": "Markov decision processes under risk sensitivity: A discount vanishing approach",
+        "authors": "Tanhao Huang, Jinwen Chen",
+        "published": "2024-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jmaa.2023.128026"
+    },
+    {
+        "id": 13522,
+        "title": "Online Markov Decision Processes Configuration with Continuous Decision Space",
+        "authors": "Davide Maran, Pierriccardo Olivieri, Francesco Emanuele Stradi, Giuseppe Urso, Nicola Gatti, Marcello Restelli",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "In this paper, we investigate the optimal online configuration of episodic Markov decision processes when the space of the possible configurations is continuous. Specifically, we study the interaction between a learner (referred to as the configurator) and an agent with a fixed, unknown policy, when the learner aims to minimize her losses by choosing transition functions in online fashion. The losses may be unrelated to the agent's rewards. This problem applies to many real-world scenarios where the learner seeks to manipulate the Markov decision process to her advantage. We study both deterministic and stochastic settings, where the losses are either fixed or sampled from an unknown probability distribution. We design two algorithms whose peculiarity is to rely on occupancy measures to explore with optimism the continuous space of transition functions, achieving constant regret in  deterministic settings and sublinear regret in stochastic settings, respectively. Moreover, we prove that the regret bound is tight with respect to any constant factor in deterministic settings. Finally, we compare the empiric performance of our algorithms with a baseline in synthetic experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i13.29344"
+    },
+    {
+        "id": 13523,
+        "title": "Markov decision processes approximation with coupled dynamics via Markov deterministic control systems",
+        "authors": "Gustavo Portillo-Ramírez, Hugo Cruz-Suárez, Ruy López-Ríos, Rubén Blancas-Rivera",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "Abstract\nThis article presents an approximation of discrete Markov decision processes with small noise on Borel spaces with an infinite horizon and an expected total discounted cost by the corresponding deterministic Markov process. In both cases, the dynamics evolve through a system consisting of two coupled difference equations. It is assumed that the difference equations of the system are perturbed by a small noise. Under our assumptions, a bound for the stability index is given, and the optimal cost convergence rate is estimated using a small perturbation parameter. Moreover, the convergence of the optimal policy on compact subsets is verified. Finally, two examples are presented to illustrate the developed theory.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/math-2023-0129"
+    },
+    {
+        "id": 13524,
+        "title": "On age of information for remote control of Markov decision processes over multiple access channels",
+        "authors": "Minha Mubarak, B. S. Vineeth",
+        "published": "2023-2-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ncc56989.2023.10068042"
+    },
+    {
+        "id": 13525,
+        "title": "Foundations of probability-raising causality in Markov decision processes",
+        "authors": "Christel Baier, Jakob Piribauer, Robin Ziemek",
+        "published": "2024-1-19",
+        "citations": 0,
+        "abstract": "This work introduces a novel cause-effect relation in Markov decision\nprocesses using the probability-raising principle. Initially, sets of states as\ncauses and effects are considered, which is subsequently extended to regular\npath properties as effects and then as causes. The paper lays the mathematical\nfoundations and analyzes the algorithmic properties of these cause-effect\nrelations. This includes algorithms for checking cause conditions given an\neffect and deciding the existence of probability-raising causes. As the\ndefinition allows for sub-optimal coverage properties, quality measures for\ncauses inspired by concepts of statistical analysis are studied. These include\nrecall, coverage ratio and f-score. The computational complexity for finding\noptimal causes with respect to these measures is analyzed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46298/lmcs-20(1:4)2024"
+    },
+    {
+        "id": 13526,
+        "title": "Off-policy evaluation in partially observed Markov decision processes under sequential ignorability",
+        "authors": "Yuchen Hu, Stefan Wager",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-aos2287"
+    },
+    {
+        "id": 13527,
+        "title": "Mean Field Markov Decision Processes",
+        "authors": "Nicole Bäuerle",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "AbstractWe consider mean-field control problems in discrete time with discounted reward, infinite time horizon and compact state and action space. The existence of optimal policies is shown and the limiting mean-field problem is derived when the number of individuals tends to infinity. Moreover, we consider the average reward problem and show that the optimal policy in this mean-field limit is $$\\varepsilon $$\nε\n-optimal for the discounted problem if the number of individuals is large and the discount factor close to one. This result is very helpful, because it turns out that in the special case when the reward does only depend on the distribution of the individuals, we obtain a very interesting subclass of problems where an average reward optimal policy can be obtained by first computing an optimal measure from a static optimization problem and then achieving it with Markov Chain Monte Carlo methods. We give two applications: Avoiding congestion an a graph and optimal positioning on a market place which we solve explicitly.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00245-023-09985-1"
+    },
+    {
+        "id": 13528,
+        "title": "Regret Analysis of Policy Gradient Algorithm for Infinite Horizon Average Reward Markov Decision Processes",
+        "authors": "Qinbo Bai, Washim Uddin Mondal, Vaneet Aggarwal",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "In this paper, we consider an infinite horizon average reward Markov Decision Process (MDP). Distinguishing itself from existing works within this context, our approach harnesses the power of the general policy gradient-based algorithm, liberating it from the constraints of assuming a linear MDP structure. We propose a vanilla policy gradient-based algorithm and show its global convergence property. We then prove that the proposed algorithm has O(T^3/4) regret. Remarkably, this paper marks a pioneering effort by presenting the first exploration into regret bound computation for the general parameterized policy gradient algorithm in the context of average reward scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i10.28973"
+    },
+    {
+        "id": 13529,
+        "title": "Editorial: Special Issue on Decision Processes in Policy Design",
+        "authors": "Dr. Irene Pluchinotta, Dr. Ine Steenmans",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100038"
+    },
+    {
+        "id": 13530,
+        "title": "Online Parameter Estimation in Partially Observed Markov Decision Processes",
+        "authors": "Sai Sumedh R. Hindupur, Vivek S. Borkar",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/allerton58177.2023.10313415"
+    },
+    {
+        "id": 13531,
+        "title": "Double-Factored Decision Theory for Markov Decision Processes with Multiple Scenarios of the Parameters",
+        "authors": "Cheng-Jun Hou",
+        "published": "2023-5-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40305-023-00457-5"
+    },
+    {
+        "id": 13532,
+        "title": "Markov decision processes with burstiness constraints",
+        "authors": "Michal Golan, Nahum Shimkin",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2023.07.045"
+    },
+    {
+        "id": 13533,
+        "title": "Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes",
+        "authors": "Andrew Bennett, Nathan Kallus",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": " In applications of offline reinforcement learning to observational data, such as in healthcare or education, a general concern is that observed actions might be affected by unobserved factors, inducing confounding and biasing estimates derived assuming a perfect Markov decision process (MDP) model. In “Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes,” A. Bennett and N. Kallus tackle this by considering off-policy evaluation in a partially observed MDP (POMDP). Specifically, they consider estimating the value of a given target policy in an unknown POMDP, given observations of trajectories generated by a different and unknown policy, which may depend on the unobserved states. They consider both when the target policy value can be identified the observed data and, given identification, how best to estimate it. Both these problems are addressed by extending the framework of proximal causal inference to POMDP settings, using sequences of so-called bridge functions. This results in a novel framework for off-policy evaluation in POMDPs that they term proximal reinforcement learning, which they validate in various empirical settings. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.0781"
+    },
+    {
+        "id": 13534,
+        "title": "Markov Decision Processes: Monotonicity of Optimal Policy in Exponential and Quasi-Hyperbolic Discounting Parameters",
+        "authors": "Hakan anon, Pelin Gülşah Canbolat, Evrim Gunes",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4479889"
+    },
+    {
+        "id": 13535,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s2193-9438(23)00016-x"
+    },
+    {
+        "id": 13536,
+        "title": "On maximizing probabilities for over-performing a target for Markov decision processes",
+        "authors": "Tanhao Huang, Yanan Dai, Jinwen Chen",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11081-023-09870-4"
+    },
+    {
+        "id": 13537,
+        "title": "Entropy Rate Maximization of Markov Decision Processes for Surveillance Tasks⋆",
+        "authors": "Yu Chen, Shaoyuan Li, Xiang Yin",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.967"
+    },
+    {
+        "id": 13538,
+        "title": "On the Complexity and Approximability of Optimal Sensor Selection for Mixed-Observable Markov Decision Processes",
+        "authors": "Jayanth Bhargav, Mahsa Ghasemi, Shreyas Sundaram",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156299"
+    },
+    {
+        "id": 13539,
+        "title": "Formally Verified Solution Methods for Markov Decision Processes",
+        "authors": "Maximilian Schäffeler, Mohammad Abdulaziz",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "We formally verify executable algorithms for solving Markov decision processes (MDPs) in the interactive theorem prover Isabelle/HOL. We build on existing formalizations of probability theory to analyze the expected total reward criterion on finite and infinite-horizon problems. Our developments formalize the Bellman equation and give conditions under which optimal policies exist. Based on this analysis, we verify dynamic programming algorithms to solve tabular MDPs. We evaluate the formally verified implementations experimentally on standard problems, compare them with state-of-the-art systems, and show that they are practical.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i12.26759"
+    },
+    {
+        "id": 13540,
+        "title": "The downside of decision delegation: When transferring decision responsibility incurs interpersonal costs",
+        "authors": "Hayley Blunden, Mary Steffel",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104251"
+    },
+    {
+        "id": 13541,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00005-5"
+    },
+    {
+        "id": 13542,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00062-6"
+    },
+    {
+        "id": 13543,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(24)00007-4"
+    },
+    {
+        "id": 13544,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00076-6"
+    },
+    {
+        "id": 13545,
+        "title": "Editorial: Feature issue on fair and explainable decision support systems",
+        "authors": "Luis Galárraga, Miguel Couceiro",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2024.100046"
+    },
+    {
+        "id": 13546,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00046-8"
+    },
+    {
+        "id": 13547,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00037-7"
+    },
+    {
+        "id": 13548,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(24)00017-7"
+    },
+    {
+        "id": 13549,
+        "title": "Robust Markov Decision Processes: Beyond Rectangularity",
+        "authors": "Vineet Goyal, Julien Grand-Clément",
+        "published": "2023-2",
+        "citations": 3,
+        "abstract": " We consider a robust approach to address uncertainty in model parameters in Markov decision processes (MDPs), which are widely used to model dynamic optimization in many applications. Most prior works consider the case in which the uncertainty on transitions related to different states is uncoupled and the adversary is allowed to select the worst possible realization for each state unrelated to others, potentially leading to highly conservative solutions. On the other hand, the case of general uncertainty sets is known to be intractable. We consider a factor model for probability transitions in which the transition probability is a linear function of a factor matrix that is uncertain and belongs to a factor matrix uncertainty set. This is a fairly general model of uncertainty in probability transitions, allowing the decision maker to model dependence between probability transitions across different states, and it is significantly less conservative than prior approaches. We show that under an underlying rectangularity assumption, we can efficiently compute an optimal robust policy under the factor matrix uncertainty model. Furthermore, we show that there is an optimal robust policy that is deterministic, which is of interest from an interpretability standpoint. We also introduce the robust counterpart of important structural results of classical MDPs, including the maximum principle and Blackwell optimality, and we provide a computational study to demonstrate the effectiveness of our approach in mitigating the conservativeness of robust policies.  Funding: V. Goyal’s research was supported in part by the National Science Foundation Division of Civil, Mechanical and Manufacturing Innovation [Grants 1351838 and 1636046] and DARPA Lagrange grants. J. Grand-Clément is supported by a grant of the French National Research Agency (ANR), “Investissements d’Avenir” (LabEx Ecodec/ANR-11-LABX-0047) and by Hi! Paris. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/moor.2022.1259"
+    },
+    {
+        "id": 13550,
+        "title": "The optimal probability of the risk for finite horizon partially observable Markov decision processes",
+        "authors": "Xian Wen, Haifeng Huo, Jinhua Cui",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>This paper investigates the optimality of the risk probability for finite horizon partially observable discrete-time Markov decision processes (POMDPs). The probability of the risk is optimized based on the criterion of total rewards not exceeding the preset goal value, which is different from the optimal problem of expected rewards. Based on the Bayes operator and the filter equations, the optimization problem of risk probability can be equivalently reformulated as filtered Markov decision processes. As an advantage of developing the value iteration technique, the optimality equation satisfied by the value function is established and the existence of the risk probability optimal policy is proven. Finally, an example is given to illustrate the effectiveness of using the value iteration algorithm to compute the value function and optimal policy.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/math.20231455"
+    },
+    {
+        "id": 13551,
+        "title": "Performance assessment of waste sorting: Component-based approach to incorporate quality into data envelopment analysis",
+        "authors": "Harald Dyckhoff, Rainer Souren, Marcel Clermont",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2024.100048"
+    },
+    {
+        "id": 13552,
+        "title": "Partially observable Markov decision processes with partially observable random discount factors",
+        "authors": "E. Everardo Martinez-Garcia, J. Adolfo Minjárez-Sosa, Oscar Vega-Amaya",
+        "published": "2023-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14736/kyb-2022-6-0960"
+    },
+    {
+        "id": 13553,
+        "title": "cpp-AIF: A multi-core C++ implementation of Active Inference for Partially Observable Markov Decision Processes",
+        "authors": "Francesco Gregoretti, Giovanni Pezzulo, Domenico Maisto",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.127065"
+    },
+    {
+        "id": 13554,
+        "title": "Partially Observable Markov Decision Processes in Robotics: A Survey",
+        "authors": "Mikko Lauri, David Hsu, Joni Pajarinen",
+        "published": "2023-2",
+        "citations": 25,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tro.2022.3200138"
+    },
+    {
+        "id": 13555,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0749-5978(23)00016-x"
+    },
+    {
+        "id": 13556,
+        "title": "Online Reinforcement Learning in Markov Decision Process Using Linear Programming",
+        "authors": "Vincent Leon, S. Rasoul Etesami",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383839"
+    },
+    {
+        "id": 13557,
+        "title": "Anderson acceleration for partially observable Markov decision processes: A maximum entropy approach",
+        "authors": "Mingyu Park, Jaeuk Shin, Insoon Yang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.automatica.2024.111557"
+    },
+    {
+        "id": 13558,
+        "title": "Hierarchical Method for Cooperative Multiagent Reinforcement Learning in Markov Decision Processes",
+        "authors": "V. E. Bolshakov, A. N. Alfimtsev",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1134/s1064562423701132"
+    },
+    {
+        "id": 13559,
+        "title": "Duality between large deviation control and risk-sensitive control for Markov decision processes",
+        "authors": "Yanan Dai, Jinwen Chen",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysconle.2023.105490"
+    },
+    {
+        "id": 13560,
+        "title": "Simulation of using of markov decision processes in restaurant robots",
+        "authors": "Shenglin Wu, Xulong Yang",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn order to make restaurant services more intelligent and complete basic services, the robot’s forward path needs to be planned. The whole restaurant could be regarded as a probabilistic model and Markov decision process (MDP) can help solve this problem. This paper proposes has a more appropriate approach - Stoical shortest path (SSP), a form of MDP. SSP can update the value of the paths iteratively and compare them to find the path with the lowest cost and could instruct the shortest way for the robot.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2580/1/012031"
+    },
+    {
+        "id": 13561,
+        "title": "Deterministic Discounted Markov Decision Processes with Fuzzy Rewards/Costs",
+        "authors": "Hugo Cruz-Suárez, Raúl Montes-de-Oca, R. Israel Ortega-Gutiérrez",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26599/fie.2023.9270020"
+    },
+    {
+        "id": 13562,
+        "title": "Optimal Scheduling Policies for Remote Estimation of Autoregressive Markov Processes Over Time-Correlated Fading Channel",
+        "authors": "Manali Dutta, Rahul Singh",
+        "published": "2023-12-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10384144"
+    },
+    {
+        "id": 13563,
+        "title": "A Rigorous Risk-aware Linear Approach to Extended Markov Ratio Decision Processes with Embedded Learning",
+        "authors": "Alexander Zadorojniy, Takayuki Osogami, Orit Davidovich",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "We consider the problem of risk-aware Markov Decision Processes (MDPs) for Safe AI. We introduce a theoretical framework, Extended Markov Ratio Decision Processes (EMRDP), that incorporates risk into MDPs and embeds environment learning into this framework. We propose an algorithm to find the optimal policy for EMRDP with theoretical guarantees. Under a certain monotonicity assumption, this algorithm runs in strongly-polynomial time both in the discounted and expected average reward models. We validate our algorithm empirically on a Grid World benchmark, evaluating its solution quality, required number of steps, and numerical stability. We find its solution quality to be stable under data noising, while its required number of steps grows with added noise. We observe its numerical stability compared to global methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/608"
+    },
+    {
+        "id": 13564,
+        "title": "Turnpikes in Finite Markov Decision Processes and Random Walk",
+        "authors": "A. B. Piunovskiy",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/s0040585x97t991325"
+    },
+    {
+        "id": 13565,
+        "title": "Markov decision processes with risk-sensitive criteria: an overview",
+        "authors": "Nicole Bäuerle, Anna Jaśkiewicz",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "AbstractThe paper provides an overview of the theory and applications of risk-sensitive Markov decision processes. The term ’risk-sensitive’ refers here to the use of the Optimized Certainty Equivalent as a means to measure expectation and risk. This comprises the well-known entropic risk measure and Conditional Value-at-Risk. We restrict our considerations to stationary problems with an infinite time horizon. Conditions are given under which optimal policies exist and solution procedures are explained. We present both the theory when the Optimized Certainty Equivalent is applied recursively as well as the case where it is applied to the cumulated reward. Discounted as well as non-discounted models are reviewed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00186-024-00857-0"
+    },
+    {
+        "id": 13566,
+        "title": "A Markov Decision Process with Awareness and Present Bias in Decision-Making",
+        "authors": "Federico Bizzarri, Chiara Mocenni, Silvia Tiezzi",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "We propose a Markov Decision Process Model that blends ideas from Psychological research and Economics to study decision-making in individuals with self-control problems. We have borrowed a dual-process of decision-making with self-awareness from Psychological research, and we introduce present bias in inter-temporal preferences, a phenomenon widely explored in Economics. We allow for both an exogenous and endogenous, state-dependent, present bias in inter-temporal decision-making and explore, by means of numerical simulations, the consequences on well-being emerging from the solution of the model. We show that, over time, self-awareness may mitigate present bias and suboptimal choice behaviour.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11112588"
+    },
+    {
+        "id": 13567,
+        "title": "A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes",
+        "authors": "Ali Yekkehkhany, Han Feng, Donghao Ying, Javad Lavaei",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3311715"
+    },
+    {
+        "id": 13568,
+        "title": "Quantitative controller synthesis for consumption Markov decision processes",
+        "authors": "Jianling Fu, Cheng-Chao Huang, Yong Li, Jingyi Mei, Ming Xu, Lijun Zhang",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ipl.2022.106342"
+    },
+    {
+        "id": 13569,
+        "title": "Service migration for mobile edge computing based on partially observable Markov decision processes",
+        "authors": "Wen Chen, Yuhu Chen, Jiawei Liu",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compeleceng.2022.108552"
+    },
+    {
+        "id": 13570,
+        "title": "A comparative analysis of preying behavior-based metaheuristic algorithms for optimization of laser beam drilling processes",
+        "authors": "Devendra Pendokhare, Shankar Chakraborty",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2024.100412"
+    },
+    {
+        "id": 13571,
+        "title": "Correction to ‘Open source map matching with Markov decision processes: A new method and a detailed benchmark with existing approaches’",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/tgis.13162"
+    },
+    {
+        "id": 13572,
+        "title": "Digital twin composition in smart manufacturing via Markov decision processes",
+        "authors": "Giuseppe De Giacomo, Marco Favorito, Francesco Leotta, Massimo Mecella, Luciana Silo",
+        "published": "2023-8",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compind.2023.103916"
+    },
+    {
+        "id": 13573,
+        "title": "Linear programming-based solution methods for constrained partially observable Markov decision processes",
+        "authors": "Robert K. Helmeczi, Can Kavaklioglu, Mucahit Cevik",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-023-04603-7"
+    },
+    {
+        "id": 13574,
+        "title": "An extended version of average Markov decision processes on discrete spaces under fuzzy environment",
+        "authors": "Hugo Cruz-Suárez, Raúl Montes-de-Oca, R. Israel Ortega-Gutiérrez",
+        "published": "2023-3-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14736/kyb-2023-1-0160"
+    },
+    {
+        "id": 13575,
+        "title": "Dual Ascent and Primal-Dual Algorithms for Infinite-Horizon Nonstationary Markov Decision Processes",
+        "authors": "Archis Ghate",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/22m149185x"
+    },
+    {
+        "id": 13576,
+        "title": "“Good people don’t need medication”: How moral character beliefs affect medical decision making",
+        "authors": "Sydney E. Scott, Justin F. Landy",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104225"
+    },
+    {
+        "id": 13577,
+        "title": "A Reinforcement Learning Method of Solving Markov Decision Processes: An Adaptive Exploration Model Based on Temporal Difference Error",
+        "authors": "Xianjia Wang, Zhipeng Yang, Guici Chen, Yanli Liu",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "Traditional backward recursion methods face a fundamental challenge in solving Markov Decision Processes (MDP), where there exists a contradiction between the need for knowledge of optimal expected payoffs and the inability to acquire such knowledge during the decision-making process. To address this challenge and strike a reasonable balance between exploration and exploitation in the decision process, this paper proposes a novel model known as Temporal Error-based Adaptive Exploration (TEAE). Leveraging reinforcement learning techniques, TEAE overcomes the limitations of traditional MDP solving methods. TEAE exhibits dynamic adjustment of exploration probabilities based on the agent’s performance, on the one hand. On the other hand, TEAE approximates the optimal expected payoff function for subprocesses after specific states and times by integrating deep convolutional neural networks to minimize the temporal difference error between the dual networks. Furthermore, the paper extends TEAE to DQN-PER and DDQN-PER methods, resulting in DQN-PER-TEAE and DDQN-PER-TEAE variants, which not only demonstrate the generality and compatibility of the TEAE model with existing reinforcement learning techniques but also validate the practicality and applicability of the proposed approach in a broader MDP reinforcement learning context. To further validate the effectiveness of TEAE, the paper conducts a comprehensive evaluation using multiple metrics, compares its performance with other MDP reinforcement learning methods, and conducts case studies. Ultimately, simulation results and case analyses consistently indicate that TEAE exhibits higher efficiency, highlighting its potential in driving advancements in the field.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12194176"
+    },
+    {
+        "id": 13578,
+        "title": "Asymptotic Optimality of Semi-Open-Loop Policies in Markov Decision Processes with Large Lead Times",
+        "authors": "Xingyu Bai, Xin Chen, Menglong Li, Alexander Stolyar",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": " A generic way to verify asymptotic optimality of semi-open-loop policies for a wide class of MDPs with large lead times.  In many real-life inventory models, order lead times can result in uncertain effects of inventory decisions. However, as the lead time grows large, one would naturally postulate that the effect of the delayed order depends weakly on the current inventory level and, thus, intuit that decoupling the delayed order with the current inventory level may provide good heuristics. Motivated by these examples, in “Asymptotic Optimality of Semi-open-Loop Policies in Markov Decision Processes with Large Lead Times,” Bai et al. consider a generic Markov decision process (MDP) with one delayed control and one immediate control. For MDPs defined on general spaces with uniformly bounded cost functions and a fast mixing property, they construct a periodic semi-open-loop policy for each lead time value and show that these policies are asymptotically optimal as the lead time goes to infinity. For MDPs defined on Euclidean spaces with linear dynamics and convex structures, they impose another set of conditions under which constant delayed-control policies are asymptotically optimal. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.088"
+    },
+    {
+        "id": 13579,
+        "title": "Stateful Posted Pricing with Vanishing Regret via Dynamic Deterministic Markov Decision Processes",
+        "authors": "Yuval Emek, Ron Lavi, Rad Niazadeh, Yangguang Shi",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": " An online problem called dynamic resource allocation with capacity constraints (DRACC) is introduced and studied in the realm of posted price mechanisms. This problem subsumes several applications of stateful pricing, including but not limited to posted prices for online job scheduling and matching over a dynamic bipartite graph. Because existing online learning techniques do not yield vanishing regret for this problem, we develop a novel online learning framework over deterministic Markov decision processes with dynamic state transition and reward functions. Following that, we prove, based on a reduction to the well-studied problem of online learning with switching costs, that if the Markov decision process admits a chasing oracle (i.e., an oracle that simulates any given policy from any initial state with bounded loss), then the online learning problem can be solved with vanishing regret. Our results for the DRACC problem and its applications are then obtained by devising (randomized and deterministic) chasing oracles that exploit the particular structure of these problems.  Funding: The work of Y. Emek was supported in part by the Israel Science Foundation [Grant 1016/17]. The work of R. Lavi was partially supported by the Israel Science Foundation [Grant 2560/17] and the National Natural Science Foundation of China [Grant 2560/17]. The work of R. Niazadeh was supported by the University of Chicago Booth School of Business. The work of Y. Shi was partially supported at the Technion by the Council for Higher Education [fellowship], and at Shandong University by the Science Fund Program of Shandong Province for Distinguished Oversea Young Scholars [Grant 2023HWYQ-006]. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/moor.2023.1375"
+    },
+    {
+        "id": 13580,
+        "title": "On a Notion of Resilience for Markov Decision Processes with Reachability Objectives",
+        "authors": "Xiaoming Duan, Nasim Baharisangari, Rui Yan, Zhe Xu, Melkior Ornik",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.318"
+    },
+    {
+        "id": 13581,
+        "title": "Tainted nudge",
+        "authors": "Despoina Alempaki, Andrea Isoni, Daniel Read",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104244"
+    },
+    {
+        "id": 13582,
+        "title": "Absorbing Markov decision processes",
+        "authors": "François Dufour, Tomás Prieto-Rumeau",
+        "published": "2024",
+        "citations": 2,
+        "abstract": "In this paper, we study discrete-time absorbing Markov Decision Processes (MDP) with measurable state space and Borel action space with a given initial distribution. For such models, solutions to the characteristic equation that are not occupation measures may exist. Several necessary and sufficient conditions are provided to guarantee that any solution to the characteristic equation is an occupation measure. Under the so-called continuity-compactness conditions, we first show that a measure is precisely an occupation measure if and only if it satisfies the characteristic equation and an additional absolute continuity condition. Secondly, it is shown that the set of occupation measures is compact in the weak-strong topology if and only if the model is uniformly absorbing. Several examples are provided to illustrate our results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/cocv/2024002"
+    },
+    {
+        "id": 13583,
+        "title": "Robust Average-Reward Markov Decision Processes",
+        "authors": "Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "In robust Markov decision processes (MDPs), the uncertainty in the transition kernel is addressed by finding a policy that optimizes the worst-case performance over an uncertainty set of MDPs. While much of the literature has focused on discounted MDPs, robust average-reward MDPs remain largely unexplored. In this paper, we focus on robust average-reward MDPs, where the goal is to find a policy that optimizes the worst-case average reward over an uncertainty set. We first take an approach that approximates average-reward MDPs using discounted MDPs. We prove that the robust discounted value function converges to the robust average-reward as the discount factor goes to 1, and moreover when it is large, any optimal policy of the robust discounted MDP is also an optimal policy of the robust average-reward. We further design a robust dynamic programming approach, and theoretically characterize its convergence to the optimum. Then, we investigate robust average-reward MDPs directly without using discounted MDPs as an intermediate step. We derive the robust Bellman equation for robust average-reward MDPs, prove that the optimal policy can be derived from its solution, and further design a robust relative value iteration algorithm that provably finds its solution, or equivalently, the optimal robust policy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i12.26775"
+    },
+    {
+        "id": 13584,
+        "title": "Markov Decision Processes with Time-Varying Geometric Discounting",
+        "authors": "Jiarui Gan, Annika Hennes, Rupak Majumdar, Debmalya Mandal, Goran Radanovic",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Canonical models of Markov decision processes (MDPs) usually consider geometric discounting based on a constant discount factor. While this standard modeling approach has led to many elegant results, some recent studies indicate the necessity of modeling time-varying discounting in certain applications. This paper studies a model of infinite-horizon MDPs with time-varying discount factors. We take a game-theoretic perspective – whereby each time step is treated as an independent decision maker with their own (fixed) discount factor – and we study the subgame perfect equilibrium (SPE) of the resulting game as well as the related algorithmic problems. We present a constructive proof of the existence of an SPE and demonstrate the EXPTIME-hardness of computing an SPE. We also turn to the approximate notion of epsilon-SPE and show that an epsilon-SPE exists under milder assumptions. An algorithm is presented to compute an epsilon-SPE, of which an upper bound of the time complexity, as a function of the convergence property of the time-varying discount factor, is provided.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i10.26413"
+    },
+    {
+        "id": 13585,
+        "title": "Fairness and explainability in automatic decision-making systems. A challenge for computer science and law",
+        "authors": "Th. Kirat, O. Tambou, V. Do, A. Tsoukiàs",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100036"
+    },
+    {
+        "id": 13586,
+        "title": "Probabilistic Safety Guarantees for Markov Decision Processes",
+        "authors": "Rafal Wisniewski, Manuela L. Bujorianu",
+        "published": "2023-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3291952"
+    },
+    {
+        "id": 13587,
+        "title": "An energy cooperation method of wireless sensor networks based on partially observable Markov decision processes",
+        "authors": "Qin Zhang, Yutang Liu",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.seta.2022.102997"
+    },
+    {
+        "id": 13588,
+        "title": "Framework for solving time-delayed Markov Decision Processes",
+        "authors": "Yorgo Sawaya, George Issa, Sarah E. Marzen",
+        "published": "2023-7-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physrevresearch.5.033034"
+    },
+    {
+        "id": 13589,
+        "title": "Data Analytics of an Information System Based on a Markov Decision  Process and a Partially Observable Markov Decision Process",
+        "authors": "Lidong Wang, Reed L. Mosher, Terril C. Falls, Patti Duett",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "Data analytics of an information system is conducted based on a Markov decision process (MDP) and a partially observable Markov decision process (POMDP) in this paper. Data analytics over a finite planning horizon and an infinite planning horizon for a discounted MDP is performed, respectively. Value iteration (VI), policy iteration (PI), and Q-learning are utilized in the data analytics for a discounted MDP over an infinite planning horizon to evaluate the validity of the MDP model. The optimal policy to minimize the total expected cost of states of the information system is obtained based on the MDP. In the analytics for a discounted POMDP over an infinite planning horizon of the information system, the effects of various parameters on the total expected cost of the information system are studied.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30564/jcsr.v5i1.5434"
+    },
+    {
+        "id": 13590,
+        "title": "On Supervised Online Rolling-Horizon Control for Infinite-Horizon Discounted Markov Decision Processes",
+        "authors": "Hyeong Soo Chang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3274791"
+    },
+    {
+        "id": 13591,
+        "title": "Risk attitudes: The central tendency bias",
+        "authors": "Karl Akbari, Markus Eigruber, Rudolf Vetschera",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100042"
+    },
+    {
+        "id": 13592,
+        "title": "Extreme Occupation Measures in Markov Decision Processes with an Absorbing State",
+        "authors": "Alexey Piunovskiy, Yi Zhang",
+        "published": "2024-2-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/23m1572398"
+    },
+    {
+        "id": 13593,
+        "title": "Predictive Modelling of a Honeypot System Based on a Markov Decision Process and a Partially Observable Markov Decision Process",
+        "authors": "Lidong Wang, Reed Mosher, Patti Duett, Terril Falls",
+        "published": "2023-1-4",
+        "citations": 0,
+        "abstract": "A honeypot is used to attract and monitor attacker activities and capture valuable information that can be used to help practice good cybersecurity. Predictive modelling of a honeypot system based on a Markov decision process (MDP) and a partially observable Markov decision process (POMDP) is performed in this paper. Analyses over a finite planning horizon and an infinite planning horizon for a discounted MDP are respectively conducted. Four methods, including value iteration (VI), policy iteration (PI), linear programming (LP), and Q-learning, are used in the analyses over an infinite planning horizon for the discounted MDP. The results of the various methods are compared to evaluate the validity of the created MDP model and the parameters in the model. The optimal policy to maximise the total expected reward of the states of the honeypot system is achieved, based on the MDP model employed. In the modelling over an infinite planning horizon for the discounted POMDP of the honeypot system, the effects of the observation probability of receiving commands, the probability of attacking the honeypot, the probability of the honeypot being disclosed, and transition rewards on the total expected reward of the honeypot system are studied.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5604/01.3001.0016.2027"
+    },
+    {
+        "id": 13594,
+        "title": "Corrigendum to “Multi-objective optimization in real-time operation of rainwater harvesting systems” [EURO Journal on Decision Processes Volume 11 (2023) 100039]",
+        "authors": "Yi Zhen, Kate Smith-Miles, Tim D. Fletcher, Matthew J. Burns, Rhys A. Coleman",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2024.100045"
+    },
+    {
+        "id": 13595,
+        "title": "Information Density in Decision Analysis",
+        "authors": "Gordon Hazen, Emanuele Borgonovo, Xuefei Lu",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": " Information value has been proposed and used as a probabilistic sensitivity measure, the idea being that uncertain parameters having higher information value are precisely those to which an optimal decision is more sensitive. In this paper, we study the notion of information density as a graphical complement to information value analysis, one that augments an information value calculation with associated directions of information gain. We formally examine mathematical details absent from its earlier presentation that guarantee information density exists and is well posed and describe its relationship to alternate measures of information value. We present its application in the context of a realistic case study and discuss the associated insights. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2022.0465"
+    },
+    {
+        "id": 13596,
+        "title": "On the Continuity of the Projection Mapping from Strategic Measures to Occupation Measures in Absorbing Markov Decision Processes",
+        "authors": "Alexey Piunovskiy, Yi Zhang",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, we prove the following assertion for an absorbing Markov decision process (MDP) with the given initial distribution, which is also assumed to be semi-continuous: the continuity of the projection mapping from the space of strategic measures to the space of occupation measures, both endowed with their weak topologies, is equivalent to the MDP model being uniformly absorbing. An example demonstrates, among other interesting scenarios, that for an absorbing (but not uniformly absorbing) semi-continuous MDP with the given initial distribution, the space of occupation measures can fail to be compact in the weak topology.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00245-024-10124-7"
+    },
+    {
+        "id": 13597,
+        "title": "Structural Estimation of Partially Observable Markov Decision Processes",
+        "authors": "Yanling Chang, Alfredo Garcia, Zhide Wang, Lu Sun",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2022.3217908"
+    },
+    {
+        "id": 13598,
+        "title": "Sketched Newton Value Iteration for Large-Scale Markov Decision Processes",
+        "authors": "Jinsong Liu, Chenghan Xie, Qi Deng, Dongdong Ge, Yinyu Ye",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Value Iteration (VI) is one of the most classic algorithms for solving Markov Decision Processes (MDPs), which lays the foundations for various more advanced reinforcement learning algorithms, such as Q-learning. VI may take a large number of iterations to converge as it is a first-order method. In this paper, we introduce the Newton Value Iteration (NVI) algorithm, which eliminates the impact of action space dimension compared to some previous second-order methods. Consequently, NVI can efficiently handle MDPs with large action spaces. Building upon NVI, we propose a novel approach called Sketched Newton Value Iteration (SNVI) to tackle MDPs with both large state and action spaces. SNVI not only inherits the stability and fast convergence advantages of second-order algorithms, but also significantly reduces computational complexity, making it highly scalable. Extensive experiments demonstrate the superiority of our algorithms over traditional VI and previously proposed second-order VI algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i12.29301"
+    },
+    {
+        "id": 13599,
+        "title": "Multi-period fuzzy portfolio optimization model subject to real constraints",
+        "authors": "Moad El Kharrim",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100041"
+    },
+    {
+        "id": 13600,
+        "title": "Solving nonstationary Markov decision processes via contextual decomposition: A military air battle management application",
+        "authors": "Joseph M. Liles, Matthew J. Robbins, Brian J. Lunday",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120949"
+    },
+    {
+        "id": 13601,
+        "title": "Markov decision processes under model uncertainty",
+        "authors": "Ariel Neufeld, Julian Sester, Mario Šikić",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "AbstractWe introduce a general framework for Markov decision problems under model uncertainty in a discrete‐time infinite horizon setting. By providing a dynamic programming principle, we obtain a local‐to‐global paradigm, namely solving a local, that is, a one time‐step robust optimization problem leads to an optimizer of the global (i.e., infinite time‐steps) robust stochastic optimal control problem, as well as to a corresponding worst‐case measure. Moreover, we apply this framework to portfolio optimization involving data of the . We present two different types of ambiguity sets; one is fully data‐driven given by a Wasserstein‐ball around the empirical measure, the second one is described by a parametric set of multivariate normal distributions, where the corresponding uncertainty sets of the parameters are estimated from the data. It turns out that in scenarios where the market is volatile or bearish, the optimal portfolio strategies from the corresponding robust optimization problem outperforms the ones without model uncertainty, showcasing the importance of taking model uncertainty into account.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/mafi.12381"
+    },
+    {
+        "id": 13602,
+        "title": "Inexact GMRES Policy Iteration for Large-Scale Markov Decision Processes",
+        "authors": "Matilde Gargiani, Dominic Liao-McPherson, Andrea Zanelli, John Lygeros",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.316"
+    },
+    {
+        "id": 13603,
+        "title": "Approximate solutions to constrained risk-sensitive Markov decision processes",
+        "authors": "Uday M Kumar, Sanjay P. Bhat, Veeraruna Kavitha, Nandyala Hemachandra",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2023.02.039"
+    },
+    {
+        "id": 13604,
+        "title": "Leadership and Neurosciences - The analysis of emotional arousal during decision-making processes with decision-makers exposed to acute stress",
+        "authors": "Joao Alexandre Lobo Marques",
+        "published": "2023-11-13",
+        "citations": 0,
+        "abstract": "Corporate leaders are constantly dealing with stress in parallel with continuous decision-making processes. The impact of acute stress on decision-making activities is a relevant area of study to evaluate the impact of the decisions made, and create tools and mechanisms to cope with the inevitable exposure to stress and better manage its impact. The intersection of leadership and neurosciences techniques is called Neuroleadership. In this work, an experiment is proposed to detect and measure the emotional arousal of two groups of business professionals, divided into two groups. The first one is the intervention/stress group, n=30, exposed to stressful conditions, and the control group, n=14, not exposed to stress. The participants are submitted to a sequence of computerized stimuli, such as watching videos, answering survey questions, and making decisions in a realistic office environment. The Galvanic Skin Response (GSR) biosensor monitors emotional arousal in real-time. The experiment design implemented stressors such as visual effects, defacement, unfairness, and time-constraint for the intervention group, followed by decision-making tasks. The results indicate that emotional arousal was statistically significantly higher for the intervention/stress group, considering Shapiro and Mann-Whitney tests. The work indicates that GSR is a reliable stress detector and may be useful to predict negative impacts on executive professionals during decision-making activities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34190/ecmlg.19.1.1950"
+    },
+    {
+        "id": 13605,
+        "title": "Accelerating Primal-Dual Methods for Regularized Markov Decision Processes",
+        "authors": "Haoya Li, Hsiang-Fu Yu, Lexing Ying, Inderjit S. Dhillon",
+        "published": "2024-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/21m1468851"
+    },
+    {
+        "id": 13606,
+        "title": "Path Optimal Control of Markov Decision Processes with Temporal Logic Specifications",
+        "authors": "Dong Tao, Xiaohui Li, Wen Wen, Qing Zhang",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241523"
+    },
+    {
+        "id": 13607,
+        "title": "The transforming power of self-forgiveness in the aftermath of wrongdoing",
+        "authors": "Madeline Ong",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104237"
+    },
+    {
+        "id": 13608,
+        "title": "Survey of convex optimization of Markov decision processes",
+        "authors": "Varvara  D Rudenko, Nikita Evgen'evich Yudin, Alexander  A Vasin",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20537/2076-7633-2023-15-2-329-353"
+    },
+    {
+        "id": 13609,
+        "title": "Decision Models for Selection of Industrial Robots—A Comprehensive Comparison of Multi-Criteria Decision Making",
+        "authors": "G. Shanmugasundar, Kanak Kalita, Robert Čep, Jasgurpreet Singh Chohan",
+        "published": "2023-6-1",
+        "citations": 8,
+        "abstract": "Due to increased demands of production capacity and higher quality requirements, industries are automating at a fast pace. Industrial robots are an important component of the industrial automation ecosystem. However, the selection of appropriate robots is a challenging task due to the sheer number of alternatives present and their varied specifications. The various characteristics or attributes of industrial robots that need due consideration before selection of an optimal robot for a given application are found to be conflicting in nature. Thus, in this paper, several multi-criteria decision-making (MCDM) methods are deployed to select an optimal robot depending on the application. Three different industrial robot selection problems are solved in this paper by using Simple Additive Weighing (SAW), the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS), the Linear Programming Technique (LINMAP), VIseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR), Elimination and Choice Translating Priority III (ELECTRE-III), and the Net Flow Method (NFM).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr11061681"
+    },
+    {
+        "id": 13610,
+        "title": "Reflections on 50 years of MCDM: Issues and future research needs",
+        "authors": "Simon French",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100030"
+    },
+    {
+        "id": 13611,
+        "title": "Promoting and supporting epiphanies in organizations: A transformational approach to employee development",
+        "authors": "Erik Dane",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104295"
+    },
+    {
+        "id": 13612,
+        "title": "Decision-dependent distributionally robust Markov decision process method in dynamic epidemic control",
+        "authors": "Jun Song, William Yang, Chaoyue Zhao",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/24725854.2023.2219281"
+    },
+    {
+        "id": 13613,
+        "title": "The divergent effects of diversity ideologies for race and gender relations",
+        "authors": "Ashley E. Martin",
+        "published": "2023-3",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104226"
+    },
+    {
+        "id": 13614,
+        "title": "A simple declarative model of the Federal Disaster Assistance Policy - modelling and measuring transparency",
+        "authors": "Mark Dukes",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100035"
+    },
+    {
+        "id": 13615,
+        "title": "The Smoothed Complexity of Policy Iteration for Markov Decision Processes",
+        "authors": "Miranda Christ, Mihalis Yannakakis",
+        "published": "2023-6-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3564246.3585220"
+    },
+    {
+        "id": 13616,
+        "title": "A Discount Vanishing Approximation for Markov Decision Processes with Risk Sensitivity",
+        "authors": "Tanhao Huang, Xiaoyang Lu, Jinwen Chen",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10883-024-09691-3"
+    },
+    {
+        "id": 13617,
+        "title": "Optimizing Local Satisfaction of Long-Run Average Objectives in Markov Decision Processes",
+        "authors": "David Klaška, Antonín Kučera, Vojtěch Kůr, Vít Musil, Vojtěch Řehák",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Long-run average optimization problems for Markov decision processes (MDPs) require constructing policies with optimal steady-state behavior, i.e., optimal limit frequency of visits to the states. However, such policies may suffer from local instability in the sense that the frequency of states visited in a bounded time horizon along a run differs significantly from the limit frequency. In this work, we propose an efficient algorithmic solution to this problem.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i18.29993"
+    },
+    {
+        "id": 13618,
+        "title": "Advantaged groups misperceive how allyship will be received",
+        "authors": "Hannah J. Birnbaum, Desman Wilson, Adam Waytz",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2024.104309"
+    },
+    {
+        "id": 13619,
+        "title": "Asymptotic Optimality of Semi-Open-Loop Policies in Markov Decision Processes with Large Lead Times",
+        "authors": "Xingyu Bai, Xin Chen, Menglong Li, Alexander Stolyar",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " A generic way to verify asymptotic optimality of semi-open-loop policies for a wide class of MDPs with large lead times.  In many real-life inventory models, order lead times can result in uncertain effects of inventory decisions. However, as the lead time grows large, one would naturally postulate that the effect of the delayed order depends weakly on the current inventory level and, thus, intuit that decoupling the delayed order with the current inventory level may provide good heuristics. Motivated by these examples, in “Asymptotic Optimality of Semi-open-Loop Policies in Markov Decision Processes with Large Lead Times,” Bai et al. consider a generic Markov decision process (MDP) with one delayed control and one immediate control. For MDPs defined on general spaces with uniformly bounded cost functions and a fast mixing property, they construct a periodic semi-open-loop policy for each lead time value and show that these policies are asymptotically optimal as the lead time goes to infinity. For MDPs defined on Euclidean spaces with linear dynamics and convex structures, they impose another set of conditions under which constant delayed-control policies are asymptotically optimal. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.0088"
+    },
+    {
+        "id": 13620,
+        "title": "Toward more diverse, generalizable organizational research: Preface to editorial by Pitesa and Gelfand",
+        "authors": "Maryam Kouchaki",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104213"
+    },
+    {
+        "id": 13621,
+        "title": "Environmentally Friendly Fertilizer Management Strategies Using Markov Decision Process",
+        "authors": "YeBon Park,  , Jae chan Lee, Jea-Hyeon Jeong",
+        "published": "2023-9-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.60032/jiit.2023.1.2.1"
+    },
+    {
+        "id": 13622,
+        "title": "From the Editors: New <i>Decision Analysis</i> Journal Submission Requirements",
+        "authors": "Vicki M. Bier, Simon French",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0475"
+    },
+    {
+        "id": 13623,
+        "title": "Policy-Based Primal-Dual Methods for Convex Constrained Markov Decision Processes",
+        "authors": "Donghao Ying, Mengzi Amy Guo, Yuhao Ding, Javad Lavaei, Zuo-Jun Shen",
+        "published": "2023-6-26",
+        "citations": 2,
+        "abstract": "We study convex Constrained Markov Decision Processes (CMDPs) in which the objective is concave and the constraints are convex in the state-action occupancy measure. We propose a policy-based primal-dual algorithm that updates the primal variable via policy gradient ascent and updates the dual variable via projected sub-gradient descent. Despite the loss of additivity structure and the nonconvex nature, we establish the global convergence of the proposed algorithm by leveraging a hidden convexity in the problem, and prove the O(T^-1/3) convergence rate in terms of both optimality gap and constraint violation. When the objective is strongly concave in the occupancy measure, we prove an improved convergence rate of O(T^-1/2). By introducing a pessimistic term to the constraint, we further show that a zero constraint violation can be achieved while preserving the same convergence rate for the optimality gap. This work is the first one in the literature that establishes non-asymptotic convergence guarantees for policy-based primal-dual methods for solving infinite-horizon discounted convex CMDPs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i9.26299"
+    },
+    {
+        "id": 13624,
+        "title": "Online reinforcement learning for condition-based group maintenance using factored Markov decision processes",
+        "authors": "Jianyu Xu, Bin Liu, Xiujie Zhao, Xiao-Lin Wang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2023.11.039"
+    },
+    {
+        "id": 13625,
+        "title": "The limits of psychological safety: Nonlinear relationships with performance",
+        "authors": "Liat Eldor, Michal Hodor, Peter Cappelli",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104255"
+    },
+    {
+        "id": 13626,
+        "title": "The entrenchment effect: Why people persist with less-preferred behaviors",
+        "authors": "Alicea Lieberman, On Amir, Ziv Carmon",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104277"
+    },
+    {
+        "id": 13627,
+        "title": "Artiruno: A free‐software tool for multi‐criteria decision‐making with verbal decision analysis",
+        "authors": "Kodi B. Arfer",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "AbstractVerbal decision analysis (VDA) is a family of methods for multi‐criteria decision analysis that require no numerical judgements from the agent. Although many such methods have been developed, they share the potential issue of asking the agent many more questions than necessary, particularly under multilevel approaches. Furthermore, whether VDA improves decisions, compared to no intervention, has yet to be investigated empirically. I introduce a new VDA method, Artiruno, with a freely licensed implementation in Python. Artiruno makes inferences mid‐interview so as to require minimal input from the agent, while using a multilevel scheme that allows it to ask complex questions when necessary. Inferences are facilitated by an axiom allowing comparisons to be partitioned across groups of criteria. Artiruno's performance in a variety of simple and complex scenarios can be verified with automated software tests. For an empirical test, I conducted an experiment in which 107 people from an Internet subject pool considered an important decision they faced in their own lives, and were randomly assigned to use Artiruno or to receive no intervention. These subjects proved mostly able to use Artiruno, and they found it helpful, but Artiruno seemed to have little influence on their decisions or outcomes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/mcda.1827"
+    },
+    {
+        "id": 13628,
+        "title": "Hot streak! Inferences and predictions about goal adherence",
+        "authors": "Jackie Silverman, Alixandra P. Barasch, Deborah A. Small",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104281"
+    },
+    {
+        "id": 13629,
+        "title": "Fairkit, fairkit, on the wall, who’s the fairest of them all? Supporting fairness-related decision-making",
+        "authors": "Brittany Johnson, Jesse Bartola, Rico Angell, Sam Witty, Stephen Giguere, Yuriy Brun",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100031"
+    },
+    {
+        "id": 13630,
+        "title": "Radar Anti-Jamming Countermeasures Intelligent Decision-Making: A Partially Observable Markov Decision Process Approach",
+        "authors": "Huaixi Xing, Qinghua Xing, Kun Wang",
+        "published": "2023-2-27",
+        "citations": 2,
+        "abstract": "Current electronic warfare jammers and radar countermeasures are characterized by dynamism and uncertainty. This paper focuses on a decision-making framework of radar anti-jamming countermeasures. The characteristics and implementation process of radar intelligent anti-jamming systems are analyzed, and a scheduling method for radar anti-jamming action based on the Partially Observable Markov Process (POMDP) is proposed. The sample-based belief distribution is used to reflect the radar’s cognition of the environment and describes the uncertainty of the recognition of jamming patterns in the belief state space. The belief state of jamming patterns is updated with Bayesian rules. The reward function is used as the evaluation criterion to select the best anti-jamming strategy, so that the radar is in a low threat state as often as possible. Numerical simulation combines the behavioral prior knowledge base of radars and jammers and obtains the behavioral confrontation benefit matrix from the past experience of experts. The radar controls the output according to the POMDP policy, and dynamically performs the best anti-jamming action according to the change of jamming state. The results show that the POMDP anti-jamming policy is better than the conventional policy. The POMDP approach improves the adaptive anti-jamming capability of the radar and can quickly realize the anti-jamming decision to jammers. This work provides some design ideas for the subsequent development of an intelligent radar.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/aerospace10030236"
+    },
+    {
+        "id": 13631,
+        "title": "Survey on fairness notions and related tensions",
+        "authors": "Guilherme Alves, Fabien Bernier, Miguel Couceiro, Karima Makhlouf, Catuscia Palamidessi, Sami Zhioua",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100033"
+    },
+    {
+        "id": 13632,
+        "title": "Online Markov decision processes with non-oblivious strategic adversary",
+        "authors": "Le Cong Dinh, David Henry Mguni, Long Tran-Thanh, Jun Wang, Yaodong Yang",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10458-023-09599-5"
+    },
+    {
+        "id": 13633,
+        "title": "A reinforcement learning approach using Markov decision processes for battery energy storage control within a smart contract framework",
+        "authors": "Mansour Selseleh Jonban, Luis Romeral, Mousa Marzband, Abdullah Abusorrah",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.est.2024.111342"
+    },
+    {
+        "id": 13634,
+        "title": "Eliciting Informative Priors by Modeling Expert Decision Making",
+        "authors": "Julia R. Falconer, Eibe Frank, Devon L. L. Polaschek, Chaitanya Joshi",
+        "published": "2023-9-15",
+        "citations": 1,
+        "abstract": " There are significant limitations to current methods for eliciting the prior beliefs of experts. To combat some of these limitations, this paper proposes an alternative approach that infers an expert’s prior beliefs about an uncertain event, A, from the expert’s past decisions. We show that an analyst can use past information on an expert’s decision-making task, contingent on an expert’s prior of A, to model the decision-making process and infer an approximation of the prior for A. This concept is illustrated by an application to recidivism. We conclude this work by highlighting important directions for future research.  Funding: J. R. Falconer’s research is funded through the University of Waikato Doctoral Scholarship. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0046"
+    },
+    {
+        "id": 13635,
+        "title": "A Decision Theoretic Foundation for Noise Traders and Correlated Speculation",
+        "authors": "Mark Schneider, Manuel Nunez",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": " Noise traders are a central idea in the modern theory of asset markets, yet there is not a standard model of such agents in contrast to the well-established representation of rational agents as expected utility maximizers. We propose the Hurwicz criterion, a classical criterion in decision analysis for choice under uncertainty, as a foundation for noise traders in asset markets. Hurwicz agents trade on optimism and pessimism and do not trade on information. A binary asset market is introduced with asymmetric information and heterogeneity both in rationality and in ambiguity attitudes. In this environment, noise trader behavior is endogenously positively correlated, the market is more efficient in low sentiment periods, and the favorite-longshot bias holds in equilibrium. The analysis demonstrates that aggregate market properties such as positive trading volume and the favorite longshot bias can be derived from the micro behavior of individual agents that have an axiomatic foundation. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0473"
+    },
+    {
+        "id": 13636,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.eb.v2001"
+    },
+    {
+        "id": 13637,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2024.eb.v2101"
+    },
+    {
+        "id": 13638,
+        "title": "An Empirical Comparison of Rank-Based Surrogate Weights in Additive Multiattribute Decision Analysis",
+        "authors": "Roger Chapman Burk, Richard M. Nehring",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": " Many methods for creating surrogate swing weights based only on the rank order of the attributes are proposed to avoid the cost and effort of eliciting weights in multiattribute decision analysis. We explore empirically how well eight different methods perform based on a large sample of real-world elicited weights. We use the Euclidean distance from the elicited weights to judge the quality of the surrogate weights as well as three other metrics. The sum reciprocal method gives results, on average, statistically closest to the elicited weights for all metrics used. The equal ratio method using a fixed ratio of 0.716 performs just as well on three of the metrics. The rank sum method, the simplest and one of the oldest methods, performs generally next best. The rank order centroid method, which does well in simulation studies, performs relatively poorly in this evaluation using real-world data. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2022.0456"
+    },
+    {
+        "id": 13639,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.eb.v2004"
+    },
+    {
+        "id": 13640,
+        "title": "Trends in Decision Analysis: A Reflection on the First 20 Years of the Journal",
+        "authors": "Vicki Bier",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "With the start of 2024, Decision Analysis has now completed 20 full years of publication.  As the current Editor-in-Chief, I wanted to take this opportunity to reflect on the themes that have occupied scholars in the field, and how they have changed over time.  I have taken as my starting point the most heavily cited articles in each year (or most heavily downloaded, for 2023, for which citation information is not yet meaningful).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2024.v21.266368279"
+    },
+    {
+        "id": 13641,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.eb.v2002"
+    },
+    {
+        "id": 13642,
+        "title": "Entropy-Regularized Partially Observed Markov Decision Processes",
+        "authors": "Timothy L. Molloy, Girish N. Nair",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3264177"
+    },
+    {
+        "id": 13643,
+        "title": "A Markov decision process for response-adaptive randomization in clinical trials",
+        "authors": "David Merrell, Thevaa Chandereng, Yeonhee Park",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.csda.2022.107599"
+    },
+    {
+        "id": 13644,
+        "title": "Minimizing the Outage Probability in a Markov Decision Process",
+        "authors": "Vincent Corlay, Jean-Christophe Sibel",
+        "published": "2023-4-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itw55543.2023.10161640"
+    },
+    {
+        "id": 13645,
+        "title": "Confidence in bargaining processes and outcomes: Empirical tests of a conceptual model",
+        "authors": "Rudolf Vetschera, Luis C. Dias",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100028"
+    },
+    {
+        "id": 13646,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.eb.v2003"
+    },
+    {
+        "id": 13647,
+        "title": "Sincere solidarity or performative pretense? Evaluations of organizational allyship",
+        "authors": "Rebecca Ponce de Leon, James T. Carter, Ashleigh Shelby Rosette",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104296"
+    },
+    {
+        "id": 13648,
+        "title": "A functional Hidden Markov Model to incorporate dynamics into Bayesian optimal stopping problems: Helping physicians manage traumatic brain injuries",
+        "authors": "Gleb Zavadskiy, Daniel Zantedeschi, Wolfgang Jank",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dss.2023.114078"
+    },
+    {
+        "id": 13649,
+        "title": "Cheating constraint decisions and discrimination against workers with lower financial standing",
+        "authors": "Grace J.H. Lim, Marko Pitesa, Abhijeet K. Vadera",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104211"
+    },
+    {
+        "id": 13650,
+        "title": "Is there an ethical operational research practice? And what this implies for our research?",
+        "authors": "O. Bellenguez, N. Brauner, A. Tsoukiàs",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100029"
+    },
+    {
+        "id": 13651,
+        "title": "Multi Criteria Decision Analysis (MCDA) to Support Decision Making in Tourism: A Bibliometric Review",
+        "authors": "Fristi Riandari, Sarjon Defit, . Yuhandri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012447700003848"
+    },
+    {
+        "id": 13652,
+        "title": "Trends in <i>Decision Analysis</i>: A Reflection on the First 20 Years of the Journal",
+        "authors": "Vicki M. Bier",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2024.editorial.v21.n1"
+    },
+    {
+        "id": 13653,
+        "title": "Dirty creativity: An inductive study of how creative workers champion new designs that are stigmatized",
+        "authors": "Spencer Huber Harrison, Samir Nurmohamed",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104224"
+    },
+    {
+        "id": 13654,
+        "title": "NHS Workforce Projections 2022: The Role of the Nurse Supply Model",
+        "authors": "Siôn Cave,  , Nihar Shembavnekar, Emma Woodham, Sandra Lewis,  ,  ,  ",
+        "published": "2023-3-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36819/sw23.023"
+    },
+    {
+        "id": 13655,
+        "title": "Reinforcing OBHDP’s mission and our commitment to helping authors produce science of the highest quality",
+        "authors": "Mike Baer, Maryam Kouchaki",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2024.104311"
+    },
+    {
+        "id": 13656,
+        "title": "Unlocking creative potential: Reappraising emotional events facilitates creativity for conventional thinkers",
+        "authors": "Lily Yuxuan Zhu, Christopher W. Bauman, Maia J Young",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104209"
+    },
+    {
+        "id": 13657,
+        "title": "It’s the journey, not just the destination: Conveying interpersonal warmth in written introductions",
+        "authors": "Kelly A. Nault, Ovul Sezer, Nadav Klein",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104253"
+    },
+    {
+        "id": 13658,
+        "title": "Going beyond Western, Educated, Industrialized, Rich, and Democratic (WEIRD) samples and problems in organizational research",
+        "authors": "Marko Pitesa, Michele J. Gelfand",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2022.104212"
+    },
+    {
+        "id": 13659,
+        "title": "Going beyond the call of duty under conditions of economic threat: Integrating life history and temporal dilemma perspectives",
+        "authors": "Nina Sirola",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104292"
+    },
+    {
+        "id": 13660,
+        "title": "Risk-sensitive discounted Markov decision processes with unbounded reward functions and Borel spaces",
+        "authors": "Xin Guo",
+        "published": "2024-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/17442508.2024.2314462"
+    },
+    {
+        "id": 13661,
+        "title": "Primal-Dual Regression Approach for Markov Decision Processes with General State and Action Spaces",
+        "authors": "Denis Belomestny, John Schoenmakers",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/22m1526010"
+    },
+    {
+        "id": 13662,
+        "title": "Interval Markov Decision Processes with Continuous Action-Spaces",
+        "authors": "Giannis Delimpaltadakis, Morteza Lahijanian, Manuel Mazo Jr., Luca Laurenti",
+        "published": "2023-5-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3575870.3587117"
+    },
+    {
+        "id": 13663,
+        "title": "UNRAVELING RISK PERCEPTIONS: A GAME-BASED APPROACH TO STRATEGIC DECISION-MAKING",
+        "authors": "Boyan Markov",
+        "published": "2023-12-12",
+        "citations": 0,
+        "abstract": "This study examines the critical domains of risk perception, risk assessment, and strategic decision-making, with insights integrated from seminal literature in these areas. The limitations of traditional risk measurement tools, such as surveys and questionnaires, in capturing the dynamic and contextually influenced nature of risk perception are underscored. Consequently, an innovative approach combining serious gaming and machine learning for a nuanced and immersive risk assessment is proposed. This methodology utilizes game-based scenarios to simulate real-world decision-making and record participants' risk-taking behaviors. Subsequently, machine learning algorithms are employed to analyze the collected data, identifying patterns and factors affecting risk propensity. The research potentially improves strategic decision-making outcomes by offering a more precise understanding of risk behavior, hence enhancing risk management practices. By merging serious gaming and machine learning in the domain of risk assessment, a valuable contribution to academic discourse is provided, and new avenues for understanding risk perception in strategic decision-making are introduced. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20460/jgsm.2024.328"
+    },
+    {
+        "id": 13664,
+        "title": "Decision Analysis to Advance Environmental Sustainability",
+        "authors": "Kelly F. Robinson, Erin Baker, Elizabeth Ewing, Victoria Hemming, Melissa A. Kenney, Michael C. Runge",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "Decision analysis provides a robust framework for complex decisions related to environmental sustainability and conservation, including for energy and water, fisheries and wildlife management, agriculture, and climate change response. The complexities of these problems stem from their large scope and scale, which leads to multiple decision makers, stakeholders, rightsholders, and other entities with potentially competing objectives. These problems often are time limited (e.g., urgent action is required to prevent species’ extinction), involve management interventions over long time scales and delayed responses to management (deep uncertainty), and are impeded by limited resources (funding, capacity, etc.). In this Special Issue on “Decision Analysis to Advance Environmental Sustainability,” we present five case studies of applications of decision analysis to complex problems in environmental sustainability and conservation. These case studies incorporate multiple objectives related to ecological and environmental sustainability, economic and social concerns, and logistics of implementation. They showcase a wide range of tools and applications to these problems. We also provide suggestions for new avenues of research and application of decision analysis to problems of environmental sustainability and conservation, including how to incorporate other decision-making tools into decision analysis processes, how to broaden the reach of decision analysis to other sustainability problems, how to incorporate more stakeholders and rightsholders into the decision process, the potential to incorporate new technology into these processes, identifying more creative alternatives, how to secure more funding, ways to move from decision to action, and how to move beyond status quo to make big transitions necessary to achieve sustainability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.intro.v20.n4"
+    },
+    {
+        "id": 13665,
+        "title": "Open source map matching with Markov decision processes: A new method and a detailed benchmark with existing approaches",
+        "authors": "Adrian Wöltche",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "AbstractMap matching is a widely used technology for mapping tracks to road networks. Typically, tracks are recorded using publicly available Global Navigation Satellite Systems, and road networks are derived from the publicly available OpenStreetMap project. The challenge lies in resolving the discrepancies between the spatial location of the tracks and the underlying road network of the map. Map matching is a combination of defined models, algorithms, and metrics for resolving these differences that result from measurement and map errors. The goal is to find routes within the road network that best represent the given tracks. These matches allow further analysis since they are freed from the noise of the original track, they accurately overlap with the road network, and they are corrected for impossible detours and gaps that were present in the original track. Given the ongoing need for map matching in mobility research, in this work, we present a novel map matching method based on Markov decision processes with Reinforcement Learning algorithms. We introduce the new Candidate Adoption feature, which allows our model to dynamically resolve outliers and noise clusters. We also incorporate an improved Trajectory Simplification preprocessing algorithm for further improving our performance. In addition, we introduce a new map matching metric that evaluates direction changes in the routes, which effectively reduces detours and round trips in the results. We provide our map matching implementation as Open Source Software (OSS) and compare our new approach with multiple existing OSS solutions on several public data sets. Our novel method is more robust to noise and outliers than existing methods and it outperforms them in terms of accuracy and computational speed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/tgis.13107"
+    },
+    {
+        "id": 13666,
+        "title": "Improving Real-Time Bidding in Online Advertising using Markov Decision Processes and Machine Learning Techniques",
+        "authors": "Parikshit Sharma,  ",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "Real-time bidding has emerged as an effective online advertising technique. With real-time bidding, advertisers can position ads per impression, enabling them to optimise ad campaigns by targeting specific audiences in real-time. This paper proposes a novel method for real-time bidding that combines deep learning and reinforcement learning techniques to enhance the efficiency and precision of the bidding process. In particular, the proposed method employs a deep neural network to predict auction details and market prices and a reinforcement learning algorithm to determine the optimal bid price. The model is trained using historical data from the i Pin You dataset and compared to cutting-edge real-time bidding algorithms. The outcomes demonstrate that the proposed method is preferable regarding cost-effectiveness and precision. In addition, the study investigates the influence of various model parameters on the performance of the proposed algorithm. It offers insights into the efficacy of the combined deep learning and reinforcement learning approach for real-time bidding. This study contributes to advancing techniques and offers a promising direction for future research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35940/ijaent.f4231.0710723"
+    },
+    {
+        "id": 13667,
+        "title": "From the Editor and Chair of the Award Committee: 2022 Clemen–Kleinmuntz<i>Decision Analysis</i>Best Paper Award",
+        "authors": "Vicki M. Bier, Gilberto Montibeller",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0476"
+    },
+    {
+        "id": 13668,
+        "title": "From the Editor: Belated Recognition for the 2021 Clemen–Kleinmuntz <i>Decision Analysis</i> Best Paper Award Winner and Finalist",
+        "authors": "Vicki M. Bier",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0477"
+    },
+    {
+        "id": 13669,
+        "title": "Closing the Gap Between Decision Analysis and Policy Analysts Before the Next Pandemic",
+        "authors": "Robin L. Dillon, Vicki M. Bier, Richard Sheffield John, Abdullah Althenayyan",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": " Decision analysis (DA) is an explicitly prescriptive discipline that separates beliefs about uncertainties from value preferences in modeling to support decision making. Researchers have been advancing DA tools for the last 60 years to support decision makers handling complex decisions requiring subjective judgments. Recently, some DA researchers and practitioners wondered whether the difficult decisions made during the COVID-19 pandemic regarding testing, masking, closing and reopening businesses, allocating ventilators, and prioritizing vaccines would have been improved with more DA involvement. With its focus on quantifying uncertainties, value trade-offs, and risk attitudes, DA should have been a valuable tool for decision makers during the pandemic. To influence decisions, DA applications require interactions with policymakers and experts to construct formal representations of the decision frame, elicit uncertainties, and assess risk tolerances and trade-offs among competing objectives. Unfortunately, such involvement of decision analysts in the process of decision making and policy setting did not occur during much of the COVID-19 pandemic. This lack of participation may have been partly because many decision makers were unaware of when DA could be valuable in helping with the challenges of the COVID-19 pandemic. In addition, decision analysts were perhaps not sufficiently adept at inserting themselves into the policy process at critical junctures when their expertise could have been helpful.  Funding: This research was partially supported by the U.S. Department of Homeland Security through the Center for Accelerating Operational Efficiency at Arizona State University. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0468"
+    },
+    {
+        "id": 13670,
+        "title": "A chorus of different tongues: Official corporate language fluency and informal influence in multinational teams",
+        "authors": "Felipe A. Guzman, B. Sebastian Reiche",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2024.104334"
+    },
+    {
+        "id": 13671,
+        "title": "Beyond allies and recipients: Exploring observers’ allyship emulation in response to leader allyship",
+        "authors": "Zhanna Lyubykh, Natalya M. Alonso, Nick Turner",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104308"
+    },
+    {
+        "id": 13672,
+        "title": "Curiosity in organizations: Addressing adverse reactions, trade-offs, and multi-level dynamics",
+        "authors": "Todd Kashdan, Spencer H. Harrison, Evan Polman, Ronit Kark",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104274"
+    },
+    {
+        "id": 13673,
+        "title": "The Discount Rate for Investment Analysis Applying Expected Utility",
+        "authors": "Manel Baucells, Samuel E. Bodily",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": " In decision analysis, expected utility of discounted cash flows is the traditional approach to incorporate risk aversion into the evaluation of a project. The choice of discount rate as well as the convergence with the beta-adjusted approach from finance have always been in question. To address this gap, we adopt a risk-sharing setup in which investors have both treasuries and the stock market as alternatives to the project. For a full utility analysis of all the investor’s capital, we provide a unique discount rate that allows setting the horizon at the termination of the project. For a traditional analyst who conducts expected utility of discounted cash flows and ignores the capital not allocated to the project, we recommend an adjusted discount rate that compensates for double-counting the systematic risk. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2022.0059"
+    },
+    {
+        "id": 13674,
+        "title": "Advances in self-narratives in, across, and beyond organizations",
+        "authors": "Julia J. Lee Cunningham, Daniel M. Cable, Gianpiero Petriglieri, David K. Sherman",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104254"
+    },
+    {
+        "id": 13675,
+        "title": "Appreciation to Referees, 2023",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": " Vicki Bier, the Editor-in-Chief of Decision Analysis, thanks the referees who generously provide expert counsel and guidance on a voluntary basis. Without them, the journal could not function. The following list acknowledges those individuals who acted as referees for papers considered during calendar year 2023. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.reviewthx.v20.n4"
+    },
+    {
+        "id": 13676,
+        "title": "Risk-sensitive Markov Decision Process and Learning under General Utility Functions",
+        "authors": "Zhengqi Wu, Renyuan Xu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4613523"
+    },
+    {
+        "id": 13677,
+        "title": "Mindfully outraged: Mindfulness increases deontic retribution for third-party injustice",
+        "authors": "Adam A. Kay, Theodore C. Masters-Waage, Jochen Reb, Pavlos A. Vlachos",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104249"
+    },
+    {
+        "id": 13678,
+        "title": "Prioritization of Species Status Assessments for Decision Support",
+        "authors": "Ashley B. C. Goode, Erin Rivenbark, Jessica A. Gilbert, Conor P. McGowan",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": " Species status assessments are used to inform U.S. Fish and Wildlife Service (USFWS) decision making for Endangered Species Act (ESA) classification decisions, recovery planning, and more. The large number of species that require assessment and uncertainty in the data available impede the process of assigning and completing the assessments, which makes creating a multiyear work plan extremely difficult. An optimized triaging system that maximizes the use of the best available information while managing the complex ESA workload and meeting deadlines is necessary. We used a structured decision-making framework to approach the problem with the goal of creating a prioritization tool that would be effective at scheduling assessments, given the best information available and priorities of the USFWS. We collected data on the species awaiting assessment and developed a value function that incorporates existing deadlines, taxonomic uncertainty, controversy of the species, and population and habitat data availability and quality. We used a constrained linear optimization algorithm to maximize the value function and ensure that workload capacity was not exceeded. A comparison of model scenarios indicates that imposed deadlines impact the model more than capacity constraints. Additionally, differential weighting of the metrics significantly affected the outcome of the model. In the future, elicitation of metric weights should be done routinely before the model is run for use in official planning to ensure alignment with current USFWS priorities. Output from this optimization can be used to inform a five-year work plan, allocate resources, and discuss workforce decisions.  History: This paper has been accepted for the Decision Analysis Special Issue on Decision Analysis to Advance Environmental Sustainability.  Funding: This work was funded via an inter-agency agreement between the USFWS and the USGS and subsequently by a Research Work Order contract between the USGS and the University of Florida [Grant G21AC00016]. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0026"
+    },
+    {
+        "id": 13679,
+        "title": "When loyalty binds: Examining the effectiveness of group versus personal loyalty calls on followers’ compliance with leaders’ unethical requests",
+        "authors": "John Angus D. Hildreth",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2024.104310"
+    },
+    {
+        "id": 13680,
+        "title": "The interplay of gender and perceived sexual orientation at the bargaining table: A social dominance and intersectionalist perspective",
+        "authors": "Sreedhari D. Desai, Brian C. Gunia",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104279"
+    },
+    {
+        "id": 13681,
+        "title": "On Exact Embedding Framework for Optimal Control of Markov Decision Processes",
+        "authors": "Sonam Kharade, Sarang Sutavani, Amol Yerudkar, Sushama Wagh, Yang Liu, Carmen Del Vecchio, N. M. Singh",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3301818"
+    },
+    {
+        "id": 13682,
+        "title": "A unified algorithm framework for mean-variance optimization in discounted Markov decision processes",
+        "authors": "Shuai Ma, Xiaoteng Ma, Li Xia",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2023.06.022"
+    },
+    {
+        "id": 13683,
+        "title": "Experimental studies of conflict: Challenges, solutions, and advice to junior scholars",
+        "authors": "Julia A. Minson, Corinne Bendersky, Carsten de Dreu, Eran Halperin, Juliana Schroeder",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104257"
+    },
+    {
+        "id": 13684,
+        "title": "When brokers don’t broker: Mitigating referral aversion in third-party help exchange",
+        "authors": "YeJin Park, Kelly Nault, Ko Kuwabara",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104294"
+    },
+    {
+        "id": 13685,
+        "title": "Determining the right time to advertise adopter numbers for a two-sided digital platform: An agent-based simulation optimization approach",
+        "authors": "Michelle D. Haurand, Christian Stummer",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2023.100032"
+    },
+    {
+        "id": 13686,
+        "title": "(Don’t) mind the gap? Information gaps compound curiosity yet also feed frustration at work",
+        "authors": "Vera M. Schweitzer, Fabiola H. Gerpott, Wladislaw Rivkin, Jakob Stollberger",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104276"
+    },
+    {
+        "id": 13687,
+        "title": "Food for thought: How curiosity externalization is fostered through organizational identity",
+        "authors": "Nicole Hinrichs, Marc Stierand, Vlad Glăveanu",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104293"
+    },
+    {
+        "id": 13688,
+        "title": "A Decision Framework for Evaluating the Rocky Mountain Area Wildfire Dispatching System in Colorado",
+        "authors": "Erin J. Belval, Matthew P. Thompson",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": " In recent years, the state of Colorado has experienced extreme wildfire events that have degraded forest and watershed health and devastated human communities. With expanding human development and a changing climate, wildfire activity is likely to increase, and wildfire management agencies will be challenged to sustain landscapes and the ecosystem services they provide. A critical element of the United States’ federal-, state-, and local-level multiagency wildfire response is the interagency dispatching system, which facilitates the ordering, mobilization, and tracking of firefighting resources to and from wildfire incidents—a role that is likely to increase in both importance and workload in the future. Given increasing demands, it is worth considering ways to improve efficiencies, capacity, and capability within the current Colorado dispatching system. With this, the Rocky Mountain Coordinating Group (RMCG) and the Rocky Mountain Area Fire Executive Council (RMA-FEC) sought to reorganize the dispatching system, beginning with exploration of changes to dispatching zone boundaries and the number and location of dispatching centers throughout the state. Here we describe a multiyear research–management partnership with the RMCG and RMA-FEC to apply a structured decision-making process to guide this reorganization effort. We highlight the steps used in a participatory process that involved local decision makers and included iteratively revising and clarifying the problem statement, developing objectives and translating them into measurable attributes, building a multiobjective optimization model to generate and compare alternatives, and communicating a recommended alternative that was ultimately adopted. To conclude, we discuss insights from our experience and highlight opportunities for similar work to support efficient wildfire management elsewhere in the United States.  History: This paper has been accepted for the Decision Analysis Special Issue on Decision Analysis to Advance Environmental Sustainability.  Funding: This research was supported by the U.S. Department of Agriculture Forest Service. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2022.0047"
+    },
+    {
+        "id": 13689,
+        "title": "Optimizing active surveillance for prostate cancer using partially observable Markov decision processes",
+        "authors": "Weiyu Li, Brian T. Denton, Todd M. Morgan",
+        "published": "2023-2",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2022.05.043"
+    },
+    {
+        "id": 13690,
+        "title": "Markov Decision Process Design for Imitation of Optimal Task Schedulers",
+        "authors": "Paul Rademacher, Kevin Wagner, Leslie Smith",
+        "published": "2023-7-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssp53291.2023.10207940"
+    },
+    {
+        "id": 13691,
+        "title": "The Impact of Anchoring Bias on Financial Decision-Making: Exploring Cognitive Biases in Decision-Making Processes",
+        "authors": "Bingqing Wang",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "This article explores the concept of anchoring bias in financial decision-making. Anchoring bias refers to the tendency for individuals to rely too heavily on an initial anchor when making judgments or decisions, even if the anchor is arbitrary or irrelevant. The article defines anchoring bias, discusses its effects on investment decisions, pricing and valuation decisions, and risk assessment and management. Strategies for recognizing and reducing the impact of anchoring bias are explored, including awareness and reflection, seeking diverse perspectives, considering multiple anchors, utilizing decision-making tools, and encouraging independent thinking. The role of education and training in minimizing anchoring bias is discussed, as well as the importance of diversification and independent analysis in decision-making. By understanding and addressing anchoring bias, individuals can make more rational and unbiased financial decisions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56397/sps.2023.09.04"
+    },
+    {
+        "id": 13692,
+        "title": "Semi-Infinitely Constrained Markov Decision Processes and Provably Efficient Reinforcement Learning",
+        "authors": "Liangyu Zhang, Yang Peng, Wenhao Yang, Zhihua Zhang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tpami.2023.3348460"
+    },
+    {
+        "id": 13693,
+        "title": "A comparative assessment of multicriteria parametric optimization methods for plasma arc cutting processes",
+        "authors": "Partha Protim Das, Shankar Chakraborty",
+        "published": "2023-3",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2023.100190"
+    },
+    {
+        "id": 13694,
+        "title": "Multiobjective combinatorial optimization with interactive evolutionary algorithms: The case of facility location problems",
+        "authors": "Maria Barbati, Salvatore Corrente, Salvatore Greco",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejdp.2024.100047"
+    },
+    {
+        "id": 13695,
+        "title": "Cost-utility analysis of treating mild stage normal tension glaucoma by surgery in China: a decision-analytic Markov model",
+        "authors": "Di Song, Liwen Wang",
+        "published": "2024-2-12",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nMany individuals suffer from normal tension glaucoma (NTG) in China. This study utilized Markov models to evaluate the cost-utility of applying many medications and surgery for mild-stage NTG when disease progression occurred at a mild stage.\n\nMethods\nA 10-year decision-analytic Markov model was developed for the cost-utility analysis of treating mild-stage NTG with surgery and increased application of medication. We hypothesized that all 100,000 samples with a mean age of 64 were in mild stages of NTG. Transitional probabilities from the mild to moderate to severe stages and the basic parameters acquired from the CNTGS were calculated. Incremental cost-utility ratios (ICUR) were calculated for treating all patients with NTG by probabilistic sensitivity analysis (PSA) and Monte Carlo simulation. One-way sensitivity analysis were conducted by adjusting the progression rate, cost of medications or trabeculectomy, cost of follow-up, and surgical acceptance rate.\n\nResults\nThe ICUR of treating mild stage NTG with medication over 10 years was $12743.93 per quality-adjusted life years (QALYs). The ICUR for treating mild stage NTG patients with a 25% and 50% surgery rate with medication were $8798.93 and $4851.93 per QALYs, respectively. In this model, the cost-utility of treating NTG was sensitive to disease progression rate, surgical treatment rate, and medication costs.\n\nConclusions\nAccording to the results of the cost-utility analysis, it was a reasonable and advantageous strategy to administer a lot of medication and surgery for NTG in the mild stages of the disease. In the model, the greater the probability of patients undergoing surgery, the strategy becomes more valuable.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12962-024-00523-6"
+    },
+    {
+        "id": 13696,
+        "title": "Real-time monitoring and diagnostics of the person’s emotional state and decision-making in extreme situations for healthcare",
+        "authors": "Tetiana Shmelova, Volodymyr Smolanka, Yuliya Sikirda, Oleksandr Sechko",
+        "published": "2024-1-12",
+        "citations": 0,
+        "abstract": "Monitoring and diagnosing the emotional state is important for varied professional groups, especially, those involve in hazardous work, risks, and high responsibility (pilots, astronauts, miners, sailors, firefighters, military personnel, law enforcement officers, etc.). These professions are definitely extreme. Moreover, the number of these professions and people engaged in them is constantly increasing. Unfortunately, disorders of the emotional state are not easily recognized by visible symptoms, so prompt remote diagnosis and monitoring of a person's emotional state is important, especially in conditions of complex geography, lack of transportation and mobility of patients, reduced financial resources, or lack of medical staff. In many cases, effective supports from various participants involved in a difficult situation that could become dangerous are required to make a timely decision. The authors, who have aviation experience in operational detection of deviations in the pilot's emotional state and decision making under risk, propose to apply the concept of mental activity, which is based on the property of the mind to slow down or speed up the flow of subjective time in relation to the real one, for the monitoring and diagnosing the emotional state of a person. For the timely detection of a hazardous emotional state of a person in an extreme situation, the phase plane method is used, the essence of which is to build phase trajectories for differential equations in the coordinate system. The identification of a person's emotional state in real time is based on the variance analysis of the models of spontaneous (optimal), emotional and rational activities. The deformity of the emotional state is determined using a priori person’s models based on the actual material of a posteriori research of the accident investigations. The Nyquist criterion is used to measure the functional stability of a person. The method of real-time diagnostics of the person’s emotional state is presented. A software “Diagnostics of the emotional state of a human-operator” is developed.\nThe problem of effective monitoring and diagnostics of a person's emotional state can be solved with the help of an Intelligent Remote Monitoring System (IRMS) built on the basis of dynamic modeling principles, when the subsystems are formalized in the form of transfer functions. A person is considered as a control object, and the monitoring and diagnostics of the emotional state are based on the analysis of the phase portrait obtained by the control device. The conceptual model and the functional diagram of medical IRMS are worked out. The algorithm for monitoring and diagnosing the person’s emotional state is presented. Mikhailov and Nyquist criteria are used to determine the IRMS stability; Mikhailov and Nyquist hodographs are built. IRMS is proposed for monitoring the emotional state of a person in medicine, sports, treatment, and for automated monitoring of persons in hazardous environments, for example, in an aeroplane (passengers), in a smart home (people), in medicine (patients), etc. Prompt monitoring and diagnosis enables timely adjustment and improvement of a person's emotional state and prevents the development of an extreme situation towards worsening.\nBased on the objective-subjective collaborative decision-making method under uncertainty, the problem of urgent delivery of medical cargo using UAV from the point of departure to the destination is solved. The optimal decision with minimum risk and maximum safety according to the Wald-Wald, Wald-Laplace, and Wald-Hurwitz criteria and with the consideration of all participants’ opinions on UAV transportation, is found. Based on the dynamic programming method, the task of finding a route with minimum cost is solved when it is necessary to urgently deliver medicines to a seriously ill patient using UAV.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55976/dma.22024121911-32"
+    },
+    {
+        "id": 13697,
+        "title": "Hide-and-Seek Game with Capacitated Locations and Imperfect Detection",
+        "authors": "Bastián Bahamondes, Mathieu Dahan",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": " We consider a variant of the hide-and-seek game in which a seeker inspects multiple hiding locations to find multiple items hidden by a hider. Each hiding location has a maximum hiding capacity and a probability of detecting its hidden items when an inspection by the seeker takes place. The objective of the seeker (respectively, hider) is to minimize (respectively, maximize) the expected number of undetected items. This model is motivated by strategic inspection problems, where a security agency is tasked with coordinating multiple inspection resources to detect and seize illegal commodities hidden by a criminal organization. To solve this large-scale zero-sum game, we leverage its structure and show that its mixed-strategy Nash equilibria can be characterized using their unidimensional marginal distributions, which are pure equilibria of a lower dimensional continuous zero-sum game. This leads to a two-step approach for efficiently solving our hide-and-seek game: First, we analytically solve the continuous game and derive closed-form expressions of the equilibrium marginal distributions. Second, we design a combinatorial algorithm to coordinate the players’ resources and compute equilibrium mixed strategies that satisfy the marginal distributions. We show that this solution approach computes a Nash equilibrium of the hide-and-seek game in quadratic time with linear support. Our analysis reveals novel equilibrium behaviors driven by a complex interplay between the game parameters, captured by our closed-form solutions.  Funding: This work was supported by the Georgia Tech Stewart Fellowship and the Georgia Tech New Faculty Start Up Grant.  Supplemental Material: The online appendix is available at https://doi.org/10.1287/deca.2023.0012 . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/deca.2023.0012"
+    },
+    {
+        "id": 13698,
+        "title": "Integrated data envelopment analysis, multi-criteria decision making, and cluster analysis methods: Trends and perspectives",
+        "authors": "Maiquiel Schmidt de Oliveira, Vilmar Steffen, Antonio Carlos de Francisco, Flavio Trojan",
+        "published": "2023-9",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2023.100271"
+    },
+    {
+        "id": 13699,
+        "title": "Benevolent friends and high integrity leaders: How preferences for benevolence and integrity change across relationships",
+        "authors": "Alexander K. Moore, Joshua Lewis, Emma E. Levine, Maurice E. Schweitzer",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104252"
+    },
+    {
+        "id": 13700,
+        "title": "Indirect cronyism and its underlying exchange logic: How managers’ particularism orientation and the third Party’s hierarchical power strengthen its existence",
+        "authors": "Xiao-Ping Chen, Han Ren",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.obhdp.2023.104234"
+    },
+    {
+        "id": 13701,
+        "title": "Policy Gradient Play Over Time-Varying Networks in Markov Potential Games",
+        "authors": "Sarper Aydin, Ceyhun Eksin",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383556"
+    },
+    {
+        "id": 13702,
+        "title": "The Impact of Artificial Intelligence on Business Strategy and Decision-Making Processes",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/eel.v13i3.386"
+    },
+    {
+        "id": 13703,
+        "title": "A fuzzy data-driven reliability analysis for risk assessment and decision making using Temporal Fault Trees",
+        "authors": "Sohag Kabir",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2023.100265"
+    },
+    {
+        "id": 13704,
+        "title": "Guessing, math, or something else? Lay people's processes for valuing annuities",
+        "authors": "Thomas Post",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractResearchers have long been trying to understand why individuals dislike annuities. Here, we investigate if the process individuals use to assess the financial value of annuities may lead them to inaccurately value annuities. In Study 1, participants were asked to assess the monthly payments associated with a specific annuity lump sum or the annuity lump sum associated with a specific monthly payment. They were then asked to describe how they arrived at their answers. We find that when making this assessment, 42% of participants report attempts at using math, with some even describing mathematical formulas. Most other participants reported guessing instead. Reporting attempts at math is more common among participants with higher financial literacy and numeracy. Reported attempts at math, financial literacy, and numeracy predict arriving at more realistic financial values for annuities, as well as incorporating assessments of life expectancy in the math. Based on this process knowledge, we then designed an experiment in Study 2 and tested the effect of presenting information about life expectancy, providing feedback about payouts or their combination. We find that we can thereby change the assessed financial value of annuities and increase participants' interest in annuities, especially among participants that reported attempts at using math. Understanding the processes individuals use to assess the value of annuities informs theory and practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/bdm.2316"
+    }
+]

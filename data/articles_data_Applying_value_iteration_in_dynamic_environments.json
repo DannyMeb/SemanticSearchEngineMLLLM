@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 13105,
+        "title": "State Aggregation for Distributed Value Iteration in Dynamic Programming",
+        "authors": "Nikolaus Vertovec, Kostas Margellos",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3285655"
+    },
+    {
+        "id": 13106,
+        "title": "Applying Dynamic U-Value Measurements for State Forecasting in Buildings",
+        "authors": "J. Telicko, A. Jakovics",
+        "published": "2023-12-1",
+        "citations": 1,
+        "abstract": "Abstract\nIn the present day, monitoring and automated control stand as pivotal factors for the energy-efficient and comfortable operation of buildings. As the demand for indoor climate control grows, building management systems have become more intricate, making their control challenging due to the increasing number of controllable elements. Replacing manual human analysis of complex systems can be achieved through the utilization of algorithms like model-based control. It is important to note that performance of this method usually relies on the accuracy of neural network-based building state forecasts. Studying the internal dynamics of climate as influenced by temperature changes necessitates a brief record of measurements, whereas evaluating structural modifications through moisture transfer demands data covering a more extended period. Neural networks such as Long Short-Term Memory have the potential to lose information within lengthy time-series data, and the intricate nature of moisture transfer further adds complexity to the task of approximating functions, ultimately leading to a reduction in energy efficiency. In order to improve the precision of indoor climate predictions, our suggestion involves not only assessing changes in temperature but also considering alterations in U-values triggered by temperature variations and moisture transfer. Our preliminary assessment of the influence of U-value, conducted through numerical simulations using WUFI6, exposes variations of up to 10 % of U-value in certain scenarios. Dealing with these computations in real time using physical models proves to be demanding due to computational requirements and limited data availability. To tackle this issue, we present an innovative preprocessing approach for on-the-fly evaluation of U-values. Empirical trials involving three years of monitoring data indicate that the suggested technique led to an approximate 8 % reduction in the average mean squared error of climate predictions based on neural network models, in specific instances.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/lpts-2023-0047"
+    },
+    {
+        "id": 13107,
+        "title": "Value-gradient iteration with quadratic approximate value functions",
+        "authors": "Alan Yang, Stephen Boyd",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.arcontrol.2023.100917"
+    },
+    {
+        "id": 13108,
+        "title": "Quantpipe: Applying Adaptive Post-Training Quantization For Distributed Transformer Pipelines In Dynamic Edge Environments",
+        "authors": "Haonan Wang, Connor Imes, Souvik Kundu, Peter A. Beerel, Stephen P. Crago, John Paul Walters",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096632"
+    },
+    {
+        "id": 13109,
+        "title": "On Some Geometric Behavior of Value Iteration on the Orthant: Switching System Perspective",
+        "authors": "Donghwan Lee",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383253"
+    },
+    {
+        "id": 13110,
+        "title": "Modified Variational Iteration Method Approach for Fuzzy Initial Value Problem",
+        "authors": "Maath S. Awad",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24237/asj.01.01.627c"
+    },
+    {
+        "id": 13111,
+        "title": "Value iteration via output feedback for LQ optimal control of SISO systems*",
+        "authors": "Corrado Possieri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.590"
+    },
+    {
+        "id": 13112,
+        "title": "Improved value iteration network for path planning",
+        "authors": "Shijia Chai",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn this study, a series of improved path planning algorithms are designed for path planning tasks in autonomous control based on deep reinforcement learning. The Value Iteration Network (VIN) is used to deal with the path planning problem. Origin VIN performs well on small size maps, but when it comes to a bigger size of map on test set, the success rate decreased. In order to solve the problem that origin VIN lacks long-distance multi-step planning ability on large maps and generalization ability is insufficient, a three-step improvement was made. First of all, in view of the inconvenient data flow and the disappearance of gradients caused by the network being too deep, the jump connection structure is used to obtain the deeper VIN, in which the accuracy of the experiment is improved. Secondly, with the purpose of solving the problem that the complexity of the model is greatly increased due to the deepening of the network, Batch normalization is used to obtain a new network with dueling architecture plus batch normalization layer, which further accelerates the convergence speed of the network. Third, to deal with the global path planning problem on the big map, the hierarchical network structure is adopted for hierarchical value iteration, and the Hierarchical Structure VIN is obtained. In Hierarchical Structure VIN, the long-term planning ability and generalization ability of the algorithm have been significantly improved, and the algorithm could figure out the large-scale and complex path planning problem.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2634/1/012033"
+    },
+    {
+        "id": 13113,
+        "title": "New matrix splitting iteration method for generalized absolute value equations",
+        "authors": "Wan-Chen Zhao, Xin-Hui Shao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>In this paper, a relaxed Newton-type matrix splitting (RNMS) iteration method is proposed for solving the generalized absolute value equations, which includes the Picard method, the modified Newton-type (MN) iteration method, the shift splitting modified Newton-type (SSMN) iteration method and the Newton-based matrix splitting (NMS) iteration method. We analyze the sufficient convergence conditions of the RNMS method. Lastly, the efficiency of the RNMS method is analyzed by numerical examples involving symmetric and non-symmetric matrices.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/math.2023536"
+    },
+    {
+        "id": 13114,
+        "title": "Dynamic iteration step when configuring gas distribution networks",
+        "authors": "Aleksey Klochko, Nikolay Tsap",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0144942"
+    },
+    {
+        "id": 13115,
+        "title": "Convergence Analysis of Value Iteration Adaptive Dynamic Programming for Continuous-Time Nonlinear Systems",
+        "authors": "Geyang Xiao, Huaguang Zhang",
+        "published": "2024-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcyb.2022.3232599"
+    },
+    {
+        "id": 13116,
+        "title": "Iteration with Bisection to Approximate the Solution of a Boundary Value Problem",
+        "authors": "Richard Avery, Douglas R. Anderson, Jeffrey Lyons",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "Due to the restrictive growth and/or monotonicity requirements inherent in their employment, classical iterative fixed-point theorems are rarely used to approximate solutions to an integral operator with Green’s function kernel whose fixed points are solutions of a boundary value problem. In this paper, we show how one can decompose a fixed-point problem into multiple fixed-point problems that one can easily iterate to approximate a solution of a differential equation satisfying one boundary condition, then apply a bisection method in an intermediate value theorem argument to meet a second boundary condition. Error estimates on the iterates are also established. The technique will be illustrated on a second-order right focal boundary value problem, with an example provided showing how to apply the results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/axioms13040222"
+    },
+    {
+        "id": 13117,
+        "title": "Efficient UAV path planning using coverage map‐based value iteration",
+        "authors": "Zhaozhou Wu, Xingqi Zhang",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "AbstractThis letter presents an efficient coverage map‐based unmanned aerial vehicle (UAV) navigation framework in cellular communication systems. Unlike previous research that focused on viewing UAV navigation as a Markov decision process in unknown continuous state space and leveraged various model‐free and deep neural network‐based reinforcement learning algorithms, a more straightforward and efficient model‐based value iteration algorithm is proposed. The algorithm leverages prior knowledge obtained through empirical channel models to develop a sampled coverage map that can be used in value iteration. A deep neural network is subsequently trained with supervised learning to approximate the optimal Q function in continuous state space. Finally, the trained neural network is applied to obtain a UAV trajectory that optimizes the objective function.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/ell2.12867"
+    },
+    {
+        "id": 13118,
+        "title": "MSR62 Applying Mixture Cure Survival Modeling to Medication Persistence Analysis",
+        "authors": "C. Cai",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.1597"
+    },
+    {
+        "id": 13119,
+        "title": "TEACHING EXPERIENCE APPLYING VUCA ENVIRONMENTS IN UNIVERSITY STUDIES",
+        "authors": "Oliver Diaz, Elisabet Segredo-Morales, Enrique González",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21125/iceri.2023.0320"
+    },
+    {
+        "id": 13120,
+        "title": "Value Iteration is Optic Composition",
+        "authors": "Jules Hedges, Riu Rodríguez Sakamoto",
+        "published": "2023-8-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4204/eptcs.380.24"
+    },
+    {
+        "id": 13121,
+        "title": "Relaxed modified Newton-based iteration method for generalized absolute value equations",
+        "authors": "Xin-Hui Shao, Wan-Chen Zhao",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "<abstract><p>Many problems in different fields may lead to solutions of absolute value equations, such as linear programming problems, linear complementarity problems, quadratic programming, mixed integer programming, the bimatrix game and so on. In this paper, by introducing a nonnegative real parameter to the modified Newton-based iteration scheme, we present a new relaxed modified Newton-based (RMN) iteration method for solving generalized absolute value equations. The famous Picard iteration method and the modified Newton-type iteration method are the exceptional cases of the RMN iteration method. The convergence property of the new method is discussed. Finally, the validity and feasibility of the RMN iteration method are verified by experimental examples.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/math.2023233"
+    },
+    {
+        "id": 13122,
+        "title": "VARIATIONAL ITERATION METHOD FOR SOLVING FUZZY BOUNDARY VALUE PROBLEMS",
+        "authors": " Mohammed Ali Ahmed",
+        "published": "2023-4-16",
+        "citations": 0,
+        "abstract": "Abstract: \r\nThis paper will find the approximate solution to the linear and nonlinear fuzzy boundary value problems using the variational iteration method. The numerical scheme is based on analyzing the fuzzy problem into two crisp sub-problems. The first is for the upper solution and the second is for the lower solution of the fuzzy solution. Also, the convergence of the obtained variational iteration formula has been proved to converge to the exact solution of the problem under consideration in each illustrative example, since there is no general formula that may be obtained for the correction functional related to the problem under consideration which is due to the variation of the general Lagrange multiplier from one problem to another.\r\nKeywords:Fuzzy boundary value problems, variational iteration method, solution of fuzzy differential equations using variational iteration method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35950/cbej.v29i118.10261"
+    },
+    {
+        "id": 13123,
+        "title": "Adaptive Optimal Flight Control for a Fixed-wing Unmanned Aerial Vehicle using Incremental Value Iteration",
+        "authors": "Yifei Li, Erik-Jan van Kampen",
+        "published": "2023-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icm54990.2023.10101984"
+    },
+    {
+        "id": 13124,
+        "title": "Stopping Criteria for Value Iteration on Stochastic Games with Quantitative Objectives",
+        "authors": "Jan Křetínský, Tobias Meggendorfer, Maximilian Weininger",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lics56636.2023.10175771"
+    },
+    {
+        "id": 13125,
+        "title": "A First-Order Approach to Accelerated Value Iteration",
+        "authors": "Vineet Goyal, Julien Grand-Clément",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": " Markov decision processes (MDPs) are used to model stochastic systems in many applications, but computing good policies becomes hard when the effective horizon become very large. In “A First-Order Approach to Accelerated Value Iteration,” Goyal and Grand-Clément present a connection between value iteration (VI) algorithms and gradient descent methods from convex optimization and use acceleration and momentum to design faster algorithms, with convergence guarantees for the computation of the value function of a fixed policy for reversible MDP instances. The authors provide a lower bound on the convergence properties of any first-order algorithm for solving MDPs, where no algorithm can converge faster than VI. Finally, the authors introduce safe accelerated value iteration (S-AVI), which alternates between accelerated updates and value iteration updates. The algorithm S-AVI is worst-case optimal and retains the theoretical convergence properties of VI while exhibiting strong empirical performances and providing significant speedups when compared with classical approaches for a large test bed of MDP instances. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2022.2269"
+    },
+    {
+        "id": 13126,
+        "title": "Adaptive optimal output regulation of unknown linear continuous-time systems by dynamic output feedback and value iteration",
+        "authors": "Kedi Xie, Yiwei Zheng, Weiyao Lan, Xiao Yu",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.conengprac.2023.105675"
+    },
+    {
+        "id": 13127,
+        "title": "A new inexact fixed point iteration method for solving tensor absolute value equation",
+        "authors": "Xin-Mei Lv, Shu-Xin Miao",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aml.2024.109109"
+    },
+    {
+        "id": 13128,
+        "title": "A new acceleration of variational iteration method for initial value problems",
+        "authors": "Mohammad Shirazian",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matcom.2023.07.002"
+    },
+    {
+        "id": 13129,
+        "title": "Certain new iteration of hybrid operators with contractive $ M $ -dynamic relations",
+        "authors": "Amjad Ali, Muhammad Arshad, Eskandar Ameer, Asim Asiri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>This article investigates Wardowski's contraction in the setting of extended distance spaces known as $ M $-metric spaces using hybrid operators based an $ M $ -dynamic iterative process. The main purpose is to observe new set-valued Chatterjea type common fixed point theorems for hybrid operators with respect to an $ M $-dynamic iterative process, i.e., $ \\check{D}(\\Psi _{1}, \\Psi _{2}, s_{0}) $. We realize an application: the existence of a solution for a multistage system and integral equation. Also, we give a graphical interpretation of our obtained theorems. The main results are explicated with the help of a relevant example. Some important corollaries are extracted from the main theorems as well.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/math.20231049"
+    },
+    {
+        "id": 13130,
+        "title": "Multiplayer Stackelberg Game for Nonlinear System with Constrained Inputs via Value Iteration",
+        "authors": "Zuokan Wen, Huaipin Zhang, Wei Zhao",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10239840"
+    },
+    {
+        "id": 13131,
+        "title": "Collaborative Computing Paradigms: A Software Systems Architecture for Dynamic IoT Environments",
+        "authors": "Prashant Joshi, Bharat Deshpande",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012473000003645"
+    },
+    {
+        "id": 13132,
+        "title": "Applying the Value-Added Tax under the conditions of public-private partnership",
+        "authors": "Corina Panus",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "This Article aims to study the main tax and accounting issues when applying the value-added tax under the conditions of public-private partnership from theoretical, conceptual and methodological viewpoints. The value-added tax is an indirect tax that draws most attention of both the State and private companies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53486/dri2022.13"
+    },
+    {
+        "id": 13133,
+        "title": "HTA96 Applying Early Health Technology Assessments to Inform Novel Health Technology Innovation",
+        "authors": "Z. Elsisi, W. Canestaro, R.N. Hansen",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.2662"
+    },
+    {
+        "id": 13134,
+        "title": "Dynamic event-triggered control for discrete-time nonlinear Markov jump systems using policy iteration-based adaptive dynamic programming",
+        "authors": "Fanghua Tang, Huanqing Wang, Xiao-Heng Chang, Liang Zhang, Khalid H. Alharbi",
+        "published": "2023-8",
+        "citations": 45,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nahs.2023.101338"
+    },
+    {
+        "id": 13135,
+        "title": "Value iteration algorithm for continuous-time linear quadratic stochastic optimal control problems",
+        "authors": "Guangchen Wang, Heng Zhang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11432-023-3820-3"
+    },
+    {
+        "id": 13136,
+        "title": "Value Iteration Algorithm for Solving Shortest Path Problems with Homology Class Constraints",
+        "authors": "Wenbo He, Yunshen Huang, Jinran Qie, Shen Zeng",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383980"
+    },
+    {
+        "id": 13137,
+        "title": "Applying Mission Information Requirements to Value of Information Middleware",
+        "authors": "James Michaelis, Alessandro Morelli",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/milcom58377.2023.10356269"
+    },
+    {
+        "id": 13138,
+        "title": "A Framework for the Estimation of Air Quality by Applying Meteorological Images: Colours-of-the-Wind (COLD)",
+        "authors": "Kenneth Chan, Paul Matthews, Kamran Munir",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "This paper presents a new framework, “colours-of-the-wind” (COLD), which is designed to estimate air quality based on images from meteorological cameras, data analytics techniques, and the application of deep learning. Existing air quality estimation systems mainly rely on physical monitoring stations, which are limited by the monitoring stations’ physical constraints. Instead of collecting data from environmental monitoring stations, COLD collects air quality data from meteorological cameras. This approach can collect data from any location where a camera could capture a reliable image, which is otherwise not collectable by the physical environmental monitoring station(s). This approach can also avoid bias due to the location of data collection. The system is evaluated by building a prototype based on the Air Quality Health Index from the Hong Kong Observatory. This is one of the unique data-analytic frameworks based on such air quality measurement. The COLD’s air quality estimation is also based on AQHI, the first machine learning-based estimation framework that generates AQHI as the proposed output. Experimental results suggest that the approach adopted by the COLD prototype is feasible and has some promising outcomes. The results also suggest possible parameters for the CNN model used for the training and analyses of the images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/environments10120218"
+    },
+    {
+        "id": 13139,
+        "title": "New generalized Gauss–Seidel iteration methods for solving absolute value equations",
+        "authors": "Rashid Ali, Kejia Pan",
+        "published": "2023-1-20",
+        "citations": 2,
+        "abstract": "The Gauss–Seidel iteration method is an effective technique for solving absolute value equations (AVEs). However, this method is often inefficient and cannot be used when the problem size increases. This study presents two generalized Gauss–Seidel iteration methods for solving AVEs to improve the performance of the Gauss–Seidel method. Convergence of the new methods is established under some appropriate conditions. Lastly, we show the effectiveness of the new methods through several numerical examples.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/mma.9062"
+    },
+    {
+        "id": 13140,
+        "title": "Radar high-speed maneuvering weak target detection based on radon dynamic path optimization and fixed point iteration",
+        "authors": "Fatao Hou",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jrs.18.014518"
+    },
+    {
+        "id": 13141,
+        "title": "MSR39 Applying Machine Learning Techniques to Identify Undiagnosed Patients with Nonalcoholic Steatohepatitis (NASH)",
+        "authors": "O. Baser, F. Mete, N. Yapar, E. Baser",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.1575"
+    },
+    {
+        "id": 13142,
+        "title": "Partner Selection Strategy in Open, Dynamic and Sociable Environments",
+        "authors": "Qin Liang, Wen Gu, Shohei Kato, Fenghui Ren, Guoxin Su, Takayuki Ito, Minjie Zhang",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011690400003393"
+    },
+    {
+        "id": 13143,
+        "title": "Value iteration for streaming data on a continuous space with gradient method in an RKHS",
+        "authors": "Jiamin Liu, Wangli Xu, Yue Wang, Heng Lian",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.036"
+    },
+    {
+        "id": 13144,
+        "title": "Policy Iteration Adaptive Dynamic Programming Based Control for Hypersonic Flight Vehicles",
+        "authors": "Yuanhang Zhang, Jingbo Fu, Chen Liang, Chenliang Wang, Jianzhong Qiao",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450781"
+    },
+    {
+        "id": 13145,
+        "title": "Applying 4IRs in education technology to science pedagogy: effects and students’ experience",
+        "authors": "Segun Michael Ojetunde, Umesh Ramnarain",
+        "published": "2023-6-27",
+        "citations": 1,
+        "abstract": "AbstractEducation, technology, and economic growth are not only linked but synchronised to achieve holistic global development. An instance is the adoption of online platforms for learning and promoting economic activities during the COVID-19 pandemic lockdown. However, the lingering question among education stakeholders in Nigeria borders on what constitutes students’ experiences and how teaching in an online platform can foster basic learning outcomes in science. The study used a mixed method of explanatory concurrent design to investigate the innovation of online platforms for learning during the COVID-19 lockdown. The idea was to compare the innovation’s effects on participant and non-participant respondents. Of the 120 students studied, sixty students were selected from schools that adopted online learning platforms. They were comparatively paired with their contemporaries that did not adopt a similar innovation for analysis of their skills in problem-solving and critical thinking. Ten students who learned via online platforms were interviewed. Fallibilities associated with teaching–learning using online platforms were observed, coupled with the fact that the efficacy of online platforms in enhancing basic learning outcomes in science does not embrace critical thinking, but problem-solving. Therefore, actionable strategies by education stakeholders to design responsive and strictly academic online learning platforms were recommended.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40561-023-00251-z"
+    },
+    {
+        "id": 13146,
+        "title": "Predictive Control with Learning-Based Terminal Costs Using Approximate Value Iteration",
+        "authors": "Francisco Moreno-Mora, Lukas Beckenbach, Stefan Streif",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.1320"
+    },
+    {
+        "id": 13147,
+        "title": "Optimal consensus of a class of discrete-time linear multi-agent systems via value iteration with guaranteed admissibility",
+        "authors": "Pingchuan Li, Wencheng Zou, Jian Guo, Zhengrong Xiang",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2022.10.032"
+    },
+    {
+        "id": 13148,
+        "title": "DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms",
+        "authors": "Junyao Zhang, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qce57702.2023.00120"
+    },
+    {
+        "id": 13149,
+        "title": "Developing a Framework for Characterizing Student-Created Diagrams in Dynamic Geometry Environments",
+        "authors": "Xiangquan Yao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/ip.23.2012797"
+    },
+    {
+        "id": 13150,
+        "title": "RWD30 Applying Transportability Methods to Real-World Data: A Scoping Review",
+        "authors": "H. Wang, N. Tikhonovsky, V.A. Gupta, A. Thompson, S. Ramagopalan, S. Duffield",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2748"
+    },
+    {
+        "id": 13151,
+        "title": "Value iteration for LQR control of unknown stochastic-parameter linear systems",
+        "authors": "Wenwu Fan, Junlin Xiong",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysconle.2024.105731"
+    },
+    {
+        "id": 13152,
+        "title": "Applying periodic and anti-periodic boundary conditions in existence results of fractional differential equations via nonlinear contractive mappings",
+        "authors": "Sumati Kumari Panda, Velusamy Vijayakumar, Kottakkaran Sooppy Nisar",
+        "published": "2023-9-13",
+        "citations": 0,
+        "abstract": "AbstractWe introduce a notion of nonlinear cyclic orbital $(\\xi -\\mathscr{F})$\n(\nξ\n−\nF\n)\n-contraction and prove related results. With these results, we address the existence and uniqueness results with periodic/anti-periodic boundary conditions for:1. The nonlinear multi-order fractional differential equation $$ \\mathcal{L}(\\mathcal{D})\\theta (\\varsigma )=\\sigma \\bigl(\\varsigma , \\theta ( \\varsigma ) \\bigr), \\quad \\varsigma \\in \\mathscr{J}=[0,\\mathscr{A}], \\mathscr{A}>0, $$\nL\n(\nD\n)\nθ\n(\nς\n)\n=\nσ\n\n(\nς\n,\nθ\n(\nς\n)\n)\n\n,\n\nς\n∈\nJ\n=\n[\n0\n,\nA\n]\n,\nA\n>\n0\n,\n where  $$\\begin{aligned} &\\mathcal{L}(\\mathcal{D})=\\gamma _{w} \\,{}^{c} \\mathcal{D}^{\\delta _{w}}+ \\gamma _{w-1} \\,{}^{c} \\mathcal{D}^{\\delta _{w-1}}+\\cdots+\\gamma _{1} \\,{}^{c} \\mathcal{D}^{\\delta _{1}}+\\gamma _{0} \\,{}^{c} \\mathcal{D}^{\\delta _{0}},\\\\ &\\gamma _{\\flat}\\in \\mathbb{R}\\quad (\\flat =0,1,2,3,\\ldots,w), \\qquad \\gamma _{w} \\neq 0, \\\\ &0\\leq \\delta _{0}< \\delta _{1}< \\delta _{2}< \\cdots< \\delta _{w-1}< \\delta _{w}< 1; \\end{aligned}$$ \n\n\n\nL\n(\nD\n)\n=\n\nγ\nw\n\n\n\n\nc\n\n\nD\n\nδ\nw\n\n\n+\n\nγ\n\nw\n−\n1\n\n\n\n\n\nc\n\n\nD\n\nδ\n\nw\n−\n1\n\n\n\n+\n⋯\n+\n\nγ\n1\n\n\n\n\nc\n\n\nD\n\nδ\n1\n\n\n+\n\nγ\n0\n\n\n\n\nc\n\n\nD\n\nδ\n0\n\n\n,\n\n\n\n\n\nγ\n♭\n\n∈\nR\n\n(\n♭\n=\n0\n,\n1\n,\n2\n,\n3\n,\n…\n,\nw\n)\n,\n\n\nγ\nw\n\n≠\n0\n,\n\n\n\n\n0\n≤\n\nδ\n0\n\n<\n\nδ\n1\n\n<\n\nδ\n2\n\n<\n⋯\n<\n\nδ\n\nw\n−\n1\n\n\n<\n\nδ\nw\n\n<\n1\n;\n\n\n\n2. The nonlinear multi-term fractional delay differential equation  $$\\begin{aligned} &\\mathcal{L}(\\mathcal{D})\\theta (\\varsigma ) =\\sigma \\bigl(\\varsigma , \\theta ( \\varsigma ),\\theta (\\varsigma -\\tau ) \\bigr), \\quad \\varsigma \\in \\mathscr{J}=[0, \\mathscr{A}], \\mathscr{A}>0; \\\\ &\\theta (\\varsigma ) =\\bar{\\sigma}(\\varsigma ),\\quad \\varsigma \\in [-\\tau ,0], \\end{aligned}$$ \n\n\n\nL\n(\nD\n)\nθ\n(\nς\n)\n=\nσ\n\n(\nς\n,\nθ\n(\nς\n)\n,\nθ\n(\nς\n−\nτ\n)\n)\n\n,\n\nς\n∈\nJ\n=\n[\n0\n,\nA\n]\n,\nA\n>\n0\n;\n\n\n\n\nθ\n(\nς\n)\n=\n\nσ\n¯\n\n(\nς\n)\n,\n\nς\n∈\n[\n−\nτ\n,\n0\n]\n,\n\n\n\n where  $$\\begin{aligned} &\\mathcal{L}(\\mathcal{D})=\\gamma _{w} \\,{}^{c} \\mathcal{D}^{\\delta _{w}}+ \\gamma _{w-1} \\,{}^{c} \\mathcal{D}^{\\delta _{w-1}}+\\cdots+\\gamma _{1} \\,{}^{c} \\mathcal{D}^{\\delta _{1}}+\\gamma _{0} \\,{}^{c} \\mathcal{D}^{\\delta _{0}},\\\\ &\\gamma _{\\flat}\\in \\mathbb{R}\\quad (\\flat =0,1,2,3,\\ldots,w), \\qquad \\gamma _{w} \\neq 0, \\\\ &0\\leq \\delta _{0}< \\delta _{1}< \\delta _{2}< \\cdots< \\delta _{w-1}< \\delta _{w}< 1; \\end{aligned}$$ \n\n\n\nL\n(\nD\n)\n=\n\nγ\nw\n\n\n\n\nc\n\n\nD\n\nδ\nw\n\n\n+\n\nγ\n\nw\n−\n1\n\n\n\n\n\nc\n\n\nD\n\nδ\n\nw\n−\n1\n\n\n\n+\n⋯\n+\n\nγ\n1\n\n\n\n\nc\n\n\nD\n\nδ\n1\n\n\n+\n\nγ\n0\n\n\n\n\nc\n\n\nD\n\nδ\n0\n\n\n,\n\n\n\n\n\nγ\n♭\n\n∈\nR\n\n(\n♭\n=\n0\n,\n1\n,\n2\n,\n3\n,\n…\n,\nw\n)\n,\n\n\nγ\nw\n\n≠\n0\n,\n\n\n\n\n0\n≤\n\nδ\n0\n\n<\n\nδ\n1\n\n<\n\nδ\n2\n\n<\n⋯\n<\n\nδ\n\nw\n−\n1\n\n\n<\n\nδ\nw\n\n<\n1\n;\n\n\n\n moreover, here ${}^{c}\\mathcal{D}^{\\delta}$\n\nD\nδ\nc\n\n is predominantly called Caputo fractional derivative of order δ.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13661-023-01778-3"
+    },
+    {
+        "id": 13153,
+        "title": "Pessimistic value iteration for multi-task data sharing in Offline Reinforcement Learning",
+        "authors": "Chenjia Bai, Lingxiao Wang, Jianye Hao, Zhuoran Yang, Bin Zhao, Zhen Wang, Xuelong Li",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.artint.2023.104048"
+    },
+    {
+        "id": 13154,
+        "title": "Optimising the material emissions of single-dwelling residential buildings using the dynamic life cycle iteration protocols",
+        "authors": "Nana Benyi Ansah, Emmanuel Adinyira, Kofi Agyekum, Isaac Aidoo",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sciaf.2023.e01803"
+    },
+    {
+        "id": 13155,
+        "title": "Applying Value-Led Participatory Design to Community Health Promotion: What should service design strive for in value co-creation?",
+        "authors": "Chia-Huei Sher, Yun-Cing Zeng, Tung-Jung Sung",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "\n\tIn collaboration with Taipei’s Public Health Service Centre,\nthis study employed a value-led participatory design approach\nto address nutritional well-being, loneliness and malnutrition\nin older adults, offering insights into policy-shaping and the\nchallenges of ageing populations.\n\n      ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30819/touchpoint.14-2.08"
+    },
+    {
+        "id": 13156,
+        "title": "Sketched Newton Value Iteration for Large-Scale Markov Decision Processes",
+        "authors": "Jinsong Liu, Chenghan Xie, Qi Deng, Dongdong Ge, Yinyu Ye",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Value Iteration (VI) is one of the most classic algorithms for solving Markov Decision Processes (MDPs), which lays the foundations for various more advanced reinforcement learning algorithms, such as Q-learning. VI may take a large number of iterations to converge as it is a first-order method. In this paper, we introduce the Newton Value Iteration (NVI) algorithm, which eliminates the impact of action space dimension compared to some previous second-order methods. Consequently, NVI can efficiently handle MDPs with large action spaces. Building upon NVI, we propose a novel approach called Sketched Newton Value Iteration (SNVI) to tackle MDPs with both large state and action spaces. SNVI not only inherits the stability and fast convergence advantages of second-order algorithms, but also significantly reduces computational complexity, making it highly scalable. Extensive experiments demonstrate the superiority of our algorithms over traditional VI and previously proposed second-order VI algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i12.29301"
+    },
+    {
+        "id": 13157,
+        "title": "APPLYING BLOCKCHAIN TECHNOLOGY FOR VALUE-ADDED TAX MANAGEMENT IN VIETNAM",
+        "authors": "Van-Sang Ha, Duyen Ly Phuong",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Value-added tax (VAT) is a key source of government revenue in Vietnam. However, issues like tax evasion, fraud, and\nrevenue leakage present major challenges. This paper explores the potential of blockchain technology to modernize and\noptimize VAT management in Vietnam. Blockchain's decentralized, immutable ledgers can enhance transparency, reduce fraud, and streamline\ntax processes. The paper reviews global blockchain case studies in Estonia, China, and the EU. It then analyzes Vietnam's VAT system and\nproposes a blockchain framework incorporating digital invoices, smart contracts, and inter-agency data sharing. A phased implementation plan is\nrecommended focusing rst on e-invoicing, followed by payment automation and advanced data analytics. Blockchain can signicantly improve\nVAT collection efciency and transparency in Vietnam. However, success requires strong institutional support, public-private collaboration,\nupdated regulations, and major investments in digital infrastructure and human capital.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36106/ijar/6309636"
+    },
+    {
+        "id": 13158,
+        "title": "An online value iteration method for linear-quadratic mean field social control with unknown dynamics",
+        "authors": "Bing-Chang Wang, Shumei Li, Ying Cao",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11432-023-3962-0"
+    },
+    {
+        "id": 13159,
+        "title": "DOR-SLAM: A Visual SLAM Based on Dynamic Object Removal for Dynamic Environments",
+        "authors": "Guangnian Liao, Feng Yin",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451728"
+    },
+    {
+        "id": 13160,
+        "title": "Decentralized Multi-Agent Motion Planning in Dynamic Environments",
+        "authors": "Josh Netter, Kyriakos G. Vamvoudakis",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156024"
+    },
+    {
+        "id": 13161,
+        "title": "Value assessment in the traditional housing design: Case studies applying a value analysis model",
+        "authors": "Zulay Giménez, Claudio Mourgues, Luis F. Alarcón, Harrison Mesa, Eugenio Pellicer",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asej.2022.102089"
+    },
+    {
+        "id": 13162,
+        "title": "On the Alternative SOR-like Iteration Method for Solving Absolute Value Equations",
+        "authors": "Yiming Zhang, Dongmei Yu, Yifei Yuan",
+        "published": "2023-2-24",
+        "citations": 2,
+        "abstract": "In this paper, by equivalently reformulating the absolute value equation (AVE) into an alternative two-by-two block nonlinear equation, we put forward an alternative SOR-like (ASOR-like) iteration method to solve the AVE. The convergence of the ASOR-like iteration method is established, subjecting to specific restrictions placed on the associated parameter. The selection of the optimal iteration parameter is investigated theoretically. Numerical experiments are given to validate the feasibility and effectiveness of the ASOR-like iteration method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/sym15030589"
+    },
+    {
+        "id": 13163,
+        "title": "Using a Chatbot to learn English via Charades: the correlates between social presence, hedonic value, perceived value, and learning outcome",
+        "authors": "Jon-Chao Hong, Chien-Hung Lin, Chin-Chieh Juh",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10494820.2023.2273485"
+    },
+    {
+        "id": 13164,
+        "title": "A Value Iteration Approach to Adaptive Optimal Control of Linear Time-Delay Systems",
+        "authors": "Leilei Cui, Bo Pang, Zhong-Ping Jiang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.524"
+    },
+    {
+        "id": 13165,
+        "title": "On Feature Removal for Explainability in Dynamic Environments",
+        "authors": "Fabian Fumagalli, Maximilian Muschalik, Eyke Hüllermeier, Barbara Hammer",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14428/esann/2023.es2023-148"
+    },
+    {
+        "id": 13166,
+        "title": "Distributed Agent-Based Control in Dynamic Environments",
+        "authors": "Sebastian Schmid",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdcs57875.2023.00104"
+    },
+    {
+        "id": 13167,
+        "title": "Chronic kidney disease and <scp>value‐based</scp> care: Lessons from innovation, iteration, and ideation in primary care",
+        "authors": "Matthew E. Berman, Joshua E. Lowentritt",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "AbstractValue‐based primary care has reduced health care costs, improved the quality of rendered care, and enhanced the patient experience. Value‐based care emphasizes prevention, outreach, follow‐up, patient engagement, and comprehensive, whole‐person health. Primary care Accountable Care Organizations have leveraged technology‐enabled workflows, practice transformation, and cutting‐edge data and analytics to achieve success. These efforts are increasingly aided by predictive modeling used in the context of patient identification and prioritization algorithms. Value‐based kidney care programs can glean salient takeaways from successful value‐based primary care methods and models. The kidney care community is experiencing unprecedented transformation as novel payer programs and financial models burgeon. The authors contend these efforts can be accelerated by the adoption of techniques honed in value‐based primary care. To optimize value‐based kidney care, though, nephrology thought leaders must transcend the archetype of value‐based primary care. To do so, the nephrology community must: (1) impel behavioral change among fee‐for‐service adherents; (2) harness emerging policy, guidelines, and quality measures; (3) adopt innovative tools, technologies, and therapies. In aggregating lessons from value‐based primary care—and leveraging novel methodologies and approaches—the kidney care community will be better equipped to achieve the quadruple aim for kidney care.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/hdi.13126"
+    },
+    {
+        "id": 13168,
+        "title": "Operator splitting based dynamic iteration for linear differential-algebraic port-Hamiltonian systems",
+        "authors": "Andreas Bartel, Michael Günther, Birgit Jacob, Timo Reis",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "AbstractA dynamic iteration scheme for linear differential-algebraic port-Hamiltonian systems based on Lions–Mercier-type operator splitting methods is developed. The dynamic iteration is monotone in the sense that the error is decreasing and no stability conditions are required. The developed iteration scheme is even new for linear port-Hamiltonian systems governed by ODEs. The obtained algorithm is applied to a multibody system and an electrical network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00211-023-01369-5"
+    },
+    {
+        "id": 13169,
+        "title": "EE133 Applying Stakeholder Engagement to Effectively Design User Interfaces for an Economic Model in Major Depressive Disorder",
+        "authors": "M.Y. Cheng, R. Xie, E. Malik, M. Mersky, R. Chapman",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.436"
+    },
+    {
+        "id": 13170,
+        "title": "Implementation effect of integrating cooperative inquiry into blended learning: analysis of students’ goal setting, task value, and well-being",
+        "authors": "Ju-Chieh Huang",
+        "published": "2023-4-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10494820.2023.2205896"
+    },
+    {
+        "id": 13171,
+        "title": "Learner-Centered Analysis in Educational Metaverse Environments: Exploring Value Exchange Systems through Natural Interaction and Text Mining",
+        "authors": "Yun-cheng TSAİ",
+        "published": "2023-12-31",
+        "citations": 1,
+        "abstract": "Amid Education 4.0 and the Fourth Industrial Revolution, we explore the integration of self-directed learning within the metaverse. This study envisions empowered learners, merging the metaverse’s immersive potential with self-directed learning. Using text mining and co-occurrence analysis for student responses prompts questions about their preference over traditional methods. Text mining extracts nuanced insights from open-ended responses, surpassing structured data. Co-occurrence analysis reveals hidden concept relationships, enhancing student engagement and understanding. Beyond XR, the metaverse encompasses avatars, virtual experiences, and value systems. Educators navigate this landscape with text mining, shaping value exchange through engaging content. Integrating real-world experiences in the metaverse merges immersion and personalized learning. Challenges include data precision and semantic intricacies in co-occurrence graphs. Future solutions involve real- time adaptability and sentiment analysis for holistic insights into learner emotions. This study envisions a synergy of self- directed learning and the metaverse, bridging digital and physical realms. Learners navigate interconnected experiences, fostering autonomy. Uncovering the metaverse’s potential contributes to education for digitally adept learners.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.57019/jmv.1302136"
+    },
+    {
+        "id": 13172,
+        "title": "Value of applying interactive micro-courses on occupational protection in operating room for nursing trainees",
+        "authors": "Cai-Xing Wang, Chao Wu",
+        "published": "2023-5-19",
+        "citations": 0,
+        "abstract": "This study aimed to investigate the application value of an interactive micro class on occupational protection in the operating room for nursing interns. Using a cluster sampling approach, 200 junior college nursing interns were selected as participants at our hospital, who were practicing from June 2020 to April 2021. They were randomly assigned to either the observation group or the control group, with 100 participants in each. Data on teaching-related evaluation indicators, including clarity of teaching objectives, learning atmosphere, rational use of learning resources, effectiveness of teaching process regulation, and degree of students’ participation in activities, were collected for both groups. Additionally, the scores of occupational protection assessment in the operating room, which encompassed physical, chemical, biological, environmental, and physiological and psychological factors, were also recorded. The comparative analysis of teaching-related evaluation indicators between the 2 groups revealed statistically significant differences. Specifically, significant differences were found between the 2 groups in the clarity of teaching objectives (P = .007), learning atmosphere (P < .001), rational use of learning resources (P < .001), effectiveness of teaching process regulation (P = .01), and degree of students’ participation in activities (P < .001). Furthermore, the scores of all items in the observation group were higher than those in the control group. Additionally, the comparison results of the scores of the occupational protection assessment in the operating room between the 2 groups showed that while there was no statistically significant difference between the 2 groups before the intervention (P > .05). However, after the intervention, statistically significant differences were found between the 2 groups in physical (P < .001), chemical (P = .001), biological (P < .001), environmental (P < .001), and physiological and psychological factors (P < .001). Additionally, the scores of all items in the observation group were higher than those in the control group. The implementation of the interactive micro class enhanced the quality of teaching related to occupational protection in the operating room for interning nurses, thus verifying its benefits in clinical teaching practices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/md.0000000000033679"
+    },
+    {
+        "id": 13173,
+        "title": "EE300 Looking Sharp! Applying Cutting-Edge Shapley Additive Explanation (SHAP) Approaches to Cost-Effectiveness Modelling in Contrast to One-Way Sensitivity Analysis",
+        "authors": "S. Perni, J. Vanderpuye-Orgle, J.E. Poirrier",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.566"
+    },
+    {
+        "id": 13174,
+        "title": "Sensor Topology Optimization in Dense IoT Environments by Applying Neural Network Configuration",
+        "authors": "George Papastergiou, Apostolos Xenakis, Costas Chaikalis, Dimitrios Kosmanos, Periklis Chatzimisios, Nicholas S. Samaras",
+        "published": "2023-6-8",
+        "citations": 0,
+        "abstract": "In dense IoT deployments of wireless sensor networks (WSNs), sensor placement, coverage, connectivity, and energy constraints determine the overall network lifetime. In large-size WSNs, it is difficult to maintain a trade-off among these conflicting constraints and, thus, scaling is difficult. In the related research literature, various solutions are proposed that attempt to address near-optimal behavior in polynomial time, the majority of which relies on heuristics. In this paper, we formulate a topology control and lifetime extension problem regarding sensor placement, under coverage and energy constraints, and solve it by applying and testing several neural network configurations. To do so, the neural network dynamically proposes and handles sensor placement coordinates in a 2D plane, having the ultimate goal to extend network lifetime. Simulation results show that our proposed algorithm improves network lifetime, while maintaining communication and energy constraints, for medium- and large-scale deployments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23125422"
+    },
+    {
+        "id": 13175,
+        "title": "Reliable deep learning in dynamic environments",
+        "authors": "Zachary C. Lipton",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2665536"
+    },
+    {
+        "id": 13176,
+        "title": "Applying a wearable MR-based mobile learning system on museum learning activities for university students",
+        "authors": "Kai-Yi Chin, Huai-Ling Chang, Ching-Sheng Wang",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10494820.2023.2228843"
+    },
+    {
+        "id": 13177,
+        "title": "An efficient transient dynamic topology optimization framework based on successive iteration of analysis and design",
+        "authors": "Yixiao Zhu, Zhan Kang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2024.116787"
+    },
+    {
+        "id": 13178,
+        "title": "INVESTIGATING VALUE CREATION AND COMPETITIVE ADVANTAGE OF DIGITAL ECOSYSTEMS: NEXT-GENERATION COLLABORATION AND BIG DATA ENVIRONMENTS",
+        "authors": "Cenk Aksoy",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Purpose- The purpose of this article is to examine the potential of digital ecosystems in creating value and providing a competitive advantage for businesses and industries. Additionally, it aims to provide an understanding of how digital ecosystems function within a big data environment.\nMethodology- This study presents a general understanding of digital ecosystems and big data by reviewing previous research and literature. Focusing on two critical advantages of digital ecosystems in creating value and providing a competitive advantage, the analysis is conducted using example companies such as Amazon, Apple, and UBER.\nFindings- Digital ecosystems emerge as complex and dynamic structures that enable value creation processes and collaboration among technology, businesses, and users. These structures significantly differ from traditional collaborative ecosystems by relying on digital technologies and platforms for value creation processes. A successful digital ecosystem is based on three main elements: platform, network effects, and market expectations. Big data is considered one of the fundamental components of digital ecosystems and has the potential to increase their effectiveness and value.\nConclusion- Digital ecosystems allow businesses and industries to increase their productivity, gain a competitive advantage, and achieve sustainable growth. In particular, big data analytics can be used to optimize the performance and decision-making processes of digital ecosystems. Examples such as Amazon, Apple, and UBER demonstrate the potential of digital ecosystems in creating value and providing a competitive advantage. Therefore, it is crucial for businesses to adopt digital transformation and innovation to benefit from the advantages offered by digital ecosystems.\n\nKeywords: Digital ecosystems, big data, value creation, competition\nJEL Codes: L86, D46, D41\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17261/pressacademia.2023.1753"
+    },
+    {
+        "id": 13179,
+        "title": "Animated Patterns: Applying Dynamic Patterns to Vector Illustrations",
+        "authors": "Joshua Kong Yang",
+        "published": "2023-4-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3544549.3583941"
+    },
+    {
+        "id": 13180,
+        "title": "HTA290 Environmental Sustainability in HTA: Are HTA Bodies Applying Environmental Criteria in Their Decision-Making?",
+        "authors": "P. Szawara, J. Chu, P. Lekhwar, L. Dimitrova, P. Wagner, A. van Engen, K. Ramachandran",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.1973"
+    },
+    {
+        "id": 13181,
+        "title": "Mobile robot’s path-planning and path-tracking in static and dynamic environments: Dynamic programming approach",
+        "authors": "Arash Marashian, Abolhassan Razminia",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104592"
+    },
+    {
+        "id": 13182,
+        "title": "Fostering Effective Learning Environments: Educator Approaches to Applying Reading, Writing, and Speaking Ethics",
+        "authors": "Ahmad Faroji, Ilzamudin Ma'mur, Anis Zohriah",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "This study examines the roles of teachers in creating a positive and supportive learning environment, with a focus on the application of ethics in reading, writing, and speaking. The research method is literature studies, and the data sources are taken from a variety of articles in relevant scientific journals and books. The research phases begin with the formulation of goals, searching and gathering relevant references, identifying and classifying various references, and, finally, analyzing the results of the research. The study's findings demonstrate the critical role that teachers play in establishing a productive learning environment, particularly when it comes to incorporating the ethics of speaking, writing, and reading into routine instruction. Teachers can support students in developing good communication skills and strong moral foundations by raising awareness of ethical ideals and helping students apply these ideas in their daily lives. According to these studies, creating a learning atmosphere that values justice, honesty, and tolerance for other viewpoints can help students learn more effectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58291/ijsecs.v3i1.215"
+    },
+    {
+        "id": 13183,
+        "title": "Developing a Framework for Characterizing Student-Created Diagrams in Dynamic Geometry Environments",
+        "authors": "Xiangquan Yao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/2012797"
+    },
+    {
+        "id": 13184,
+        "title": "New Numerical Iteration Schemes Based on Perturbation Iteration Algorithms",
+        "authors": "Mehmet Pakdemirli",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": " Perturbation–Iteration algorithms (PIA) have been developed recently to solve differential equations analytically. A continuous solution in terms of closed form functions as an approximation of the original equation can be found using the method. The method has been implemented to algebraic equations, ordinary and partial differential equations successfully. Based on the formalism developed previously, in this work, purely numerical versions of the perturbation–iteration algorithms are proposed for the first time for first-order nonlinear ordinary differential equations. The new algorithms are called as the Numerical Perturbation–Iteration Algorithms (NPIA) to distinguish them from the continuous analytical ones (PIA) and the method in general will be called the Numerical Perturbation–Iteration Method (NPIM). Iteration schemes based on one correction term in the perturbation solution and first-order derivatives in the Taylor series expansions (NPIA(1,1)), and one correction term in the perturbations and second-order derivatives in the series expansions (NPIA(1,2)) are derived. The numerical results are compared with the exact solutions and a very good match is observed. NPIA(1,2) produced slightly better results compared to NPIA(1,1) with total errors being at least [Formula: see text], [Formula: see text] being the step size for both methods. An improvement suggestion for NPIA(1,1) is proposed in the last section to eliminate unrealistic blow-up solutions which are encountered for some specific equations. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0219876223500408"
+    },
+    {
+        "id": 13185,
+        "title": "Applying the Hierarchical Analytical Process to Enterprise Governance Goals for Value Creation",
+        "authors": "Pedro Solana-González, Adolfo Alberto Vanti",
+        "published": "2023-11-9",
+        "citations": 0,
+        "abstract": "The creation of value directly depends on Corporate Governance (CG) and Governance of IT (GIT) as these present the company as transparent, secure, and sustainable to shareholders and stakeholders, thereby establishing greater compliance with the rules, reducing risks, and generating a better competitive position. This work integrates the two governances through the prioritization of the criteria of benefits, risks, and resources to create value. Using the Analytic Hierarchy Process, an important research question is answered related to the priorities in CG and GIT goals that create highest value for the company. The analyses have been generated through a Decision Support System with specific software. The results show that the criteria of optimization of risks and resources are in dispute for the maximum importance in a framework of enterprise governance and long-term sustainability relative to the criterion of benefits generation. The decision alternatives found to have the highest priority were those related to system failures, customers loss, and operational and staff productivity.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33423/jlae.v2023i20.6518"
+    },
+    {
+        "id": 13186,
+        "title": "Exploring Value Co-Creation in Sharing Platforms by Applying DART Framework",
+        "authors": "Asta Svarcaite, Agne Gadeikiene",
+        "published": "2023-7-13",
+        "citations": 2,
+        "abstract": "The spread and development of sharing platforms can be seen in many countries around the world, especially in emerging economies. However, sharing platforms face challenges in retaining users and attracting new ones. The value co-creation can be used as a tool to ensure competitiveness, develop innovation, and strengthen relationships with consumers. Thus, this study aims to explore value co-creation in sharing platforms from the perspective of platform developers by applying the DART framework. Case study analysis was applied to the empirical study. Its results indicate that the dialogue dimension unfolds through interaction; the access develops through information and tools; the risk-benefit reveals the disadvantages of sources and the possible risks of using the sharing platform; the transparency is exposed through transparency about user reliability. A new sub-dimension emerges in the dialogue dimension – ‘networking’, where platform actors can participate in value co-creation as user groups and foster innovation. Since information overload can lead to undesirable user behavior, we propose to assess the ‘navigation’ sub-dimension by analyzing the access dimension. The results of the study contribute to value co-creation scientific literature by extending and adapting the DART framework for sharing-based business models and provide useful practical insights for sharing platform developers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15388/omee.2023.14.96"
+    },
+    {
+        "id": 13187,
+        "title": "Ulam stability of first-order nonlinear impulsive dynamic equations",
+        "authors": "Pallavi Scindia, Sanket Tikare, Ahmed A. El-Deeb",
+        "published": "2023-8-28",
+        "citations": 2,
+        "abstract": "AbstractThis paper is devoted to the investigation of Ulam stability of first-order nonlinear impulsive dynamic equations on finite-time scale intervals. Our main objective is to formulate sufficient conditions under which the class of first-order nonlinear impulsive dynamic equations on time scales we consider exhibits Ulam stability. Our methods rely on the extended integral inequality on time scales for piecewise-continuous functions. We provide an example to support the validity of the results obtained.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13661-023-01752-z"
+    },
+    {
+        "id": 13188,
+        "title": "AI Assisted Dynamic Bus Lane Control in Connected Urban Environments: The Case of Intermittent Dynamic Bus Lanes",
+        "authors": "Konstantinos Katzilieris, Emmanouil Kampitakis, Eleni I. Vlahogianni",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10421810"
+    },
+    {
+        "id": 13189,
+        "title": "Dynamic stepsize iteration process for solving split common fixed point problems with applications",
+        "authors": "Ajay Kumar, Balwant Singh Thakur, Mihai Postolache",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matcom.2023.12.005"
+    },
+    {
+        "id": 13190,
+        "title": "Modulus-based block triangular splitting iteration method for solving the generalized absolute value equations",
+        "authors": "Pingfei Dai, Qingbiao Wu",
+        "published": "2023-9-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11075-023-01656-0"
+    },
+    {
+        "id": 13191,
+        "title": "Stabilizing value iteration Q-learning for online evolving control of discrete-time nonlinear systems",
+        "authors": "Mingming Zhao, Ding Wang, Junfei Qiao",
+        "published": "2024-4-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11071-024-09524-9"
+    },
+    {
+        "id": 13192,
+        "title": "Decentralized Multi-Agent Path Finding in Dynamic Warehouse Environments",
+        "authors": "Abderraouf Maoudj, Anders Lyhne Christensen",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406648"
+    },
+    {
+        "id": 13193,
+        "title": "When the Household Becomes Environmentally Friendly—Dynamic Simulation of Hybrid Energy System’s Feasibility",
+        "authors": "Erlanda Atvare, Armands Gravelsins, Edgars Kudurs, Stelios Rozakis, Dagnija Blumberga",
+        "published": "2023-9-20",
+        "citations": 1,
+        "abstract": "Decentralized electricity production at household scale, particularly by solar panels, has recently grown due to increased technology feasibility and financial support programs. Further development in this field requires the introduction and efficient use of energy storage technologies. This research aims to evaluate the benefits and economic justification of implementing energy storage systems in private households by using system dynamics modelling. Household electricity consumption is a dynamic problem; therefore, the system dynamics approach allows the development of an exploratory model that accounts for the causal relationships and feedback loops in the system. Specifically, an hourly consumption model is developed to analyze the electricity costs in four scenarios: (1) a standard grid-connected system, (2) a PV system with net metering, (3) a grid-connected system with a connected battery, and (4) a grid-connected system with a combined PV and battery storage system. The structure of the build system dynamics model is described with a Latvian context case. It is found that in Latvian climate-specific conditions, the profitability of installing PV and PV and battery systems in private households in Latvia is justified by both summer and winter conditions. The developed model can be used to analyze the real electricity profiles of specific households, determining the profitability of installing energy-efficient solutions, and is adaptable for analyzing the situations of other countries or accumulation systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/environments10090164"
+    },
+    {
+        "id": 13194,
+        "title": "A Dynamic Multiple Reaction Monitoring Analytical Method for the Determination of Fungicide Residues in Drinking Water",
+        "authors": "Aggelos Arvanitidis, George S. Adamidis, Paraskevas Parlakidis, Georgios D. Gikas, Christos Alexoudis, Zisis Vryzas",
+        "published": "2023-12-26",
+        "citations": 0,
+        "abstract": "The extensive use of fungicides causes their continuous release into the environment through spraying, soil seepage, leaching, and runoff. It has been observed that their residues can be found in foods and a variety of environmental compartments, such as wastewater, lakes, rivers, sediments, drinking water sources (groundwater and surface water), treated water, and drinking water. A sensitive GC-MS/MS, using dynamic multiple reaction monitoring, an analytical method was developed to determine 10 fungicides (azoxystrobin, boscalid, captan, cyproconazole, cyprodinil, hexaconazole, metalaxyl, myclobutanil, paclobutrazol, and prochloraz) in drinking water. A solid-phase extraction method for sample preparations and validations was performed according to SANTE 2019 guidelines. All fungicides demonstrated mild or medium matrix effects (ME) ranging from 40.1% to 11.2%. Their recoveries ranged between 60% and 110%. The limits of detection were equal to or higher than 0.01 μg/L. The method was employed on 18 drinking water samples collected from public taps in Northern Evros, Greece, distributed in six sampling sites. Azoxystrobin, boscalid, cyproconazole, cypronidil, metalaxyl, and paclobutrazol mean concentrations did not surpass the allowable limit of 0.1 μg/L set by EU in any sampling site. Hexaconazole mean concentrations were higher than 0.1 μg/L in one sampling site, while prochloraz mean concentration showed limit exceedances in all sampling sites. Captan was not detected in any sampling site, and myclobutanil mean concentrations demonstrated exceedances of the permissible limit in four sampling sites. The presence of fungicide residues in the studied area is mainly due to the occasional point-sources pollution and preferential flow. Additionally, through the use of water, the risk of pesticides to human health was assessed for two different age groups. The sum of the hazard quotient values in each of the studied drinking water was less than unity. Consequently, the acute risk assessment procedure regards the examined drinking water as safe. Nevertheless, as prochloraz carcinogenic risk values were higher than the safe limit suggested by USEPA for both age groups, the existence of prochloraz residues raises concerns about chronic toxicity.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/environments11010005"
+    },
+    {
+        "id": 13195,
+        "title": "Vision-Based SLAM for Uavs in Dynamic Environments",
+        "authors": "Pingrui Huang",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "Visual SLAM (Simultaneous Localization And Mapping) is a technique mainly used for robot navigation and positioning. It uses vision sensors to map the environment and estimate its own location. In dynamic environment, they are inevitably affected by dynamic objects, which leads to the decrease of accuracy and stability of the system. In this paper, the visual odometer in SLAM system is studied, and the semi-direct visual odometer (SVO) algorithm is improved on the basis of ORB-SLAM framework. The basic principle of the algorithm is to treat pixel matching between adjacent image frames as an optimization problem, and use direct registration method to obtain camera pose for sparse feature blocks, avoiding a lot of feature extraction and matching. When a key frame appears, ORB (Oriented FAST and Rotated BRIEF) features of the image are extracted, and feature matching is used to track local maps to obtain more mapping relationships. Moreover, camera pose and three-dimensional structure of the scene are estimated by minimizing reprojection errors, thus improving positioning accuracy and map construction quality. Finally, experiments on several public data sets show that the improved semi-direct visual odometer scheme in this paper still has good robustness to moving objects in dynamic scenes. While maintaining high accuracy, it obtains better real-time performance by tracking visual feature points.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v70i.12200"
+    },
+    {
+        "id": 13196,
+        "title": "Real-Time Emotion Recognition System for Dynamic Real-World Environments",
+        "authors": "Mayur Madnani",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dese60595.2023.10469007"
+    },
+    {
+        "id": 13197,
+        "title": "HPR2 Baseline Characteristics of Patients Applying for Reimbursment of Liraglutide (Saxenda®) for Weight Management Under a Managed Access Protocol in Ireland",
+        "authors": "C. Gorry, M. Daly, S. Doran, K. Finnigan, S. Clarke, M. Barry",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.1321"
+    },
+    {
+        "id": 13198,
+        "title": "Applying Trial-Derived Treatment Effects to Real-World Populations: Generalizing Cost-Effectiveness Estimates When Modeling Complex Hazards",
+        "authors": "Ian Koblbauer, Daniel Prieto-Alhambra, Edward Burn, Rafael Pinedo-Villanueva",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.11.007"
+    },
+    {
+        "id": 13199,
+        "title": "MSR80 A Dynamic Panel Binary Data Model for Personalized Patient Engagement Prediction",
+        "authors": "W. Sun, Y. Cai",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.1615"
+    },
+    {
+        "id": 13200,
+        "title": "Value Iteration for Continuous-Time Linear Time-Invariant Systems",
+        "authors": "Corrado Possieri, Mario Sassano",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2022.3169688"
+    },
+    {
+        "id": 13201,
+        "title": "Variational iteration algorithm for numerical solutions of sixth and seventh order boundary value problems using shifted Vieta-Lucas polynomials",
+        "authors": "Ikechukwu Jackson Otaide, Kenneth Oke Ogeh, Mark I. Modebei, Taiye Oyedepo, Matthew Olanrewaju Oluwayemi",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sciaf.2023.e01924"
+    },
+    {
+        "id": 13202,
+        "title": "MSR112 Assessing the Feasibility of Applying Natural Language Processing for Systematic Literature Reviews: A Case Study in Non-Small-Cell Lung Cancer",
+        "authors": "N. Rath, W. Harrison, E. Louvet, W. Dunlop, B. Liljas",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2171"
+    },
+    {
+        "id": 13203,
+        "title": "Value Iteration Networks With Gated Summarization Module",
+        "authors": "Jinyu Cai, Jialong Li, Mingyue Zhang, Kenji Tei",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3286729"
+    },
+    {
+        "id": 13204,
+        "title": "Towards a Value Co-Creation Process in Collaborative Environments for TVET Education",
+        "authors": "Salem Badawi, Monica Drăgoicea",
+        "published": "2023-1-17",
+        "citations": 1,
+        "abstract": "The appearance of the COVID disruption has proved the need for rapid innovations in education, with new value proposition(s) able to capture the new activities involving value co-creation in the education service systems. This paper introduces a conceptual framework for skills building in collaborative TVET online communities that integrates the Collaborative Knowledge Sharing Environment (CKSEnv), an ontology-based collaborative development of knowledge-intensive services, as a possible main driver for value co-creation amongst actors in the after-pandemic TVET education. CKSEnv’s usability and usefulness in achieving its goals is evaluated. Quantitative and qualitative data collected through interviews have revealed respondents’ interest in topics such as the sustainability, usefulness, usability, value co-creation, and technical functionality of the proposed development. Both the utility and simplicity proved to have the most significant impact on CKSEnv adoption and usage. A new service design artifact is created, the smart service model canvas in the TVET online communities, to explain the new value co-creation process, which is able to fill gaps in describing the role of ICT in supporting the TVET training cycle. This research may ground further explorations related to the development of TVET online communities, while the CKSEnv is still in the evaluation stage. The practical implications of this study express the need for new value co-creation processes with specific activities that use technology-driven innovations, able to establish such newly created value, through smart educational services.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15031792"
+    },
+    {
+        "id": 13205,
+        "title": "Retracted: Applying Dynamic Systems to Social Media by Using Controlling Stability",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9854161"
+    },
+    {
+        "id": 13206,
+        "title": "Studying Nonlinear Change in Music Therapy Applying Dynamic Systems Theory",
+        "authors": "Lorenzo Antichi, Marco Giannini, Jane Edwards",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "Abstract\nChange in music therapy is often modeled linearly. In linear analysis, change is represented as the difference between the scores recorded before and after treatment, where changes in the input are proportional to the output. However, changes in complex systems are often not linear and depend on time. We propose Dynamic Systems Theory (DST) as a means to overcome the shortcomings of linear analysis and enrich the study of change in music therapy. This article aims to introduce and critically discuss the applications of DST in music therapy, focusing on its theoretical and methodological aspects. DST offers a meta-framework to model nonlinear change in music therapy, considering time as continuous. The application of DST can further enhance the understanding of how music therapy works, the shape of the change, and how the relevant therapeutic processes within music therapy support therapeutic change. An introduction to DST theory is provided along with its history, implications, assessment methods, statistical analyses, mathematical modeling, and implementation examples in music therapy research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jmt/thad010"
+    },
+    {
+        "id": 13207,
+        "title": "Applying Improved Genetic Algorithm for Solving the Multi-row Dynamic Facility Layout Problem",
+        "authors": "Jingfa Liu, Wanhua Li",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csis-iac60628.2023.10364164"
+    },
+    {
+        "id": 13208,
+        "title": "DETERMINANTS OF VALUE OF THE FIRM IN ENERGY SECTOR COMPANIES IN INDONESIA",
+        "authors": "Metta Susanti, Dhea Zatira, Gita Ayu Arieska",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "ABSTRAKTujuan dalam penelitian ini untuk membuktikan secara empiris pengaruh Ukuran Perusahaan, Debt to Equity Ratio (DER), dan Return on Assets (ROA) terhadap Nilai Perusahaan. Populasi dalam penelitian ini menggunakan sektor energy teknik pengambilan sampel menggunakan purposive sampling. Metode analisis data menggunakan analasis regresi data panel. Hasil penelitian ini membuktikan bahwa ukuran perusahaan berpengaruh negatif terhadap nilai perusahaan, Debt to Equity Ratio (DER) tidak berpengaruh terhadap nilai perusahaan dan Return on Assets (ROA) tidak berpengaruh terhadap nilai perusahaan.ABSTRACTThe aim of this study is to empirically prove the effect of firm size, Debt to Equity Ratio (DER), and Return on Assets (ROA) on firm value. The population in this study uses the energy sector sampling technique using purposive sampling. Methods of data analysis using panel data regression analysis. The results of this study prove that company size has a negative effect on firm value, Debt to Equity Ratio (DER) does not affect firm value and Return on Assets (ROA) does not affect firm value. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31000/dmj.v7i3.9161"
+    },
+    {
+        "id": 13209,
+        "title": "The Future of Scuba Diving Tourism: Assessments of Perceived Value and Satisfaction on the Mississippi Gulf Coast",
+        "authors": "Bradley G. Winton, Ka’lon Duncanson",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "Across a range of diving locations, there is a need for greater understanding about what local divers value in their diving experiences and how this might lead to greater satisfaction with this activity in the future. In particular, the Mississippi Gulf Coast is known for its coastal\n beauty and the tourism that comes from the recreational activities associated with the water. However, scuba divers appear to be an underserved segment of the tourism industry. The coast provides opportunities for local scuba divers to take part in a range of diving activities, but there is\n minimal support for this tourism activity in Mississippi. To remedy this situation, this study argues that the functional, emotional, social, risk, and epistemic value local divers put on their diving experience leads to greater satisfaction in their diving experience. Accordingly, hypotheses\n are developed to directly link each dimension of perceived value to satisfaction with the diving experience. Results highlight a significant effect of overall perceived value on satisfaction with the diving experience. Further, the functional and social value factors were also found to have\n significant and positive relationships with diver satisfaction. Beyond providing greater understanding of what brings local divers greater fulfillment, a larger goal of this research is to discover future ways to better market scuba diving along the Mississippi Gulf Coast.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3727/154427323x16876743482148"
+    },
+    {
+        "id": 13210,
+        "title": "Path Planning in Dynamic Environments Based on Q-Learning",
+        "authors": "Xiangqi Li",
+        "published": "2023-8-8",
+        "citations": 0,
+        "abstract": "With the rapid progress of science and technology, the scope of applications for mobile robots is growing. Path planning in dynamic environment is always a challenging task for mobile robot, which shows significant impacts in the medical field and the military field. Q-learning, a model-free reinforcement learning algorithm, can recognize its surroundings and demonstrate a system making decisions for itself about how this algorithm learns to make accurate decisions about achieving optimal target. Therefore, a path planning algorithm was proposed for robots in dynamic environments based on Q-learning. This algorithm can successfully generate several viable paths in environments with both static obstacles, dynamic obstacles and target point. First, three environments with different levels of complexity were created. Afterwards, to generate several optimal paths, the path planning algorithm was conducted in multiple times in different environments. Finally, the experimental results were collected and visualized to illustrate information. The effectiveness of the proposed algorithm is validated by experiment results in solving problems of path planning in dynamic environments with required point.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v63i.10880"
+    },
+    {
+        "id": 13211,
+        "title": "How erosion shapes dynamic Quaternary mountain environments: A review",
+        "authors": "Abhik Chakraborty",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.qsa.2023.100071"
+    },
+    {
+        "id": 13212,
+        "title": "Managerial decision-making: exploration strategies in dynamic environments",
+        "authors": "Claire K. Wan, Mingchang Chih",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "PurposeWe argue that a fundamental issue regarding how to search and how to switch between different cognitive modes lies in the decision rules that influence the dynamics of learning and exploration. We examine the search logics underlying these decision rules and propose conceptual prompts that can be applied mentally or computationally to aid managers’ decision-making.Design/methodology/approachBy applying Multi-Armed Bandit (MAB) modeling to simulate agents’ interaction with dynamic environments, we compared the patterns and performance of selected MAB algorithms under different configurations of environmental conditions.FindingsWe develop three conceptual prompts. First, the simple heuristic-based exploration strategy works well in conditions of low environmental variability and few alternatives. Second, an exploration strategy that combines simple and de-biasing heuristics is suitable for most dynamic and complex decision environments. Third, the uncertainty-based exploration strategy is more applicable in the condition of high environmental unpredictability as it can more effectively recognize deviated patterns.Research limitations/implicationsThis study contributes to emerging research on using algorithms to develop novel concepts and combining heuristics and algorithmic intelligence in strategic decision-making.Practical implicationsThis study offers insights that there are different possibilities for exploration strategies for managers to apply conceptually and that the adaptability of cognitive-distant search may be underestimated in turbulent environments.Originality/valueDrawing on insights from machine learning and cognitive psychology research, we demonstrate the fitness of different exploration strategies in different dynamic environmental configurations by comparing the different search logics that underlie the three MAB algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1108/md-04-2023-0517"
+    },
+    {
+        "id": 13213,
+        "title": "Nonprofit Revenue Strategy and Downside Risk: Applying Portfolio Theory and Extreme Value Theory",
+        "authors": "Saerim Kim",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": " The risk of revenue instability is a concern for any nonprofit. Existing research leads to the well-known strategy of equalizing revenues across sources to reduce revenue volatility. This study offers several expansions to this strategy. First, rather than focusing solely on deviations from mean revenue, I incorporate extreme revenue loss, or downside risk, as it threatens organizational survival and occurs more frequently than expected. Second, while revenue equalization is indifferent to the type of revenue source, I incorporate portfolio diversification that seeks a negative correlation between sources to avoid simultaneous losses. Using 2008 to 2012 financial data, results of fixed-effects regression suggest that portfolio diversification can reduce revenue volatility and downside risk. Moreover, the relationships between financial flexibility, growth potential, and revenue risk are more nuanced compared to existing research focused solely on deviation risk. The results can help nonprofits consider incorporating downside risk in revenue portfolio management to enhance financial security. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/08997640231191792"
+    },
+    {
+        "id": 13214,
+        "title": "Applying B-value and Empirical Equivalence Hypothesis Testing to IDD EEG Data",
+        "authors": "Mozhdeh Saghalaini, Zahra Ghanbari, Mohammad Hassan Moradi",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbme61513.2023.10488628"
+    },
+    {
+        "id": 13215,
+        "title": "Retracted: Value Proposition for Enabling Construction Project Innovation by Applying Building Information Modeling",
+        "authors": "",
+        "published": "2023-7-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9753269"
+    },
+    {
+        "id": 13216,
+        "title": "DynGraspVS: Servoing Aided Grasping for Dynamic Environments",
+        "authors": "Gunjan Gupta, Vedansh Mittal, K. Madhava Krishna",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354813"
+    },
+    {
+        "id": 13217,
+        "title": "HTA296 Applying Continual Stakeholder Engagement to Develop Multi-Criteria Decision Analysis (MCDA) for Health Technology Assessment in Major Depressive Disorder (MDD)",
+        "authors": "R. Chapman, R. Xie, Y.Y.M. Cheng, C.E. Phelps, K. Marsh, P. Thokala",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.1979"
+    },
+    {
+        "id": 13218,
+        "title": "Advanced value iteration for discrete-time intelligent critic control: A survey",
+        "authors": "Mingming Zhao, Ding Wang, Junfei Qiao, Mingming Ha, Jin Ren",
+        "published": "2023-10",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10462-023-10497-1"
+    },
+    {
+        "id": 13219,
+        "title": "EFL ADOLESCENT LEARNERS’ ATTITUDES TOWARDS APPLYING DYNAMIC ASSESSMENT TO ENHANCE THEIR SPEAKING PERFORMANCE",
+        "authors": "Tran Thi Cam Nang",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "Dynamic assessment (DA) has been broadly applied in educational settings over the past few decades. It not only helps evaluate students’ learning ability but also helps predict their potential future development at the same time. This study aims to investigate EFL adolescent learners’ attitudes toward applying DA to enhance their speaking performance. The data were gathered through a questionnaire and semi-structured interviews. 14 participants who had experienced DA were invited to do a questionnaire expressing their attitudes including three aspects, namely behavioural, cognitive, and emotional. Then six of them were selected to enter semi-structured interviews. The result of the questionnaire revealed that EFL adolescent learners possessed positive attitudes in three domains- behavioural, cognitive, and emotional. The data from the interviews showed that classroom anxiety was not a big problem for students. Eagerness, concentration, confidence, and motivation were what they gained after getting used to DA. Besides, DA was reported to enhance their speaking performance in terms of accuracy and fluency.<p> </p><p><strong> Article visualizations:</strong></p><p><img src=\"/-counters-/soc/0032/a.php\" alt=\"Hit counter\" /></p>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46827/ejfl.v7i3.5006"
+    },
+    {
+        "id": 13220,
+        "title": "Mediation and Learner Reciprocity",
+        "authors": "Zhaoyu Wang, Jie Zhang",
+        "published": "2023-4-28",
+        "citations": 0,
+        "abstract": "The Oral Proficiency Interview (OPI) is an effective tool for assessing language learners’ speaking ability. While it is commonly employed in institutional contexts, the OPI has been criticized for not granting due attention to the assistance that the tester offers to the learner. Dynamic Assessment (DA), rooted in Vygotsky’s theory of the development of human higher psychological functions, believes the use of different forms of mediation, when tailored to learners’ needs, enables learners to perform beyond their current level, thus providing insights into their emerging abilities. This study explores the use of DA within the OPI framework. Through a microgenetic analysis of the mediation-learner interactions observed in a series of mock OPI sessions conducted in Mandarin Chinese, we identified the mediation and reciprocity typological moves that are significant to learner development. The analysis showed DA’s potential for not only pinpointing areas of difficulty but also identifying the learner’s Zone of Proximal Development (ZPD) and supporting their microgenetic progress. The findings indicate that DA would add an important, yet long neglected, dimension to the OPI framework.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1558/lst.22181"
+    },
+    {
+        "id": 13221,
+        "title": "Value Iteration-Based Cooperative Adaptive Optimal Control for Multi-Player Differential Games With Incomplete Information",
+        "authors": "Yun Zhang, Lulu Zhang, Yunze Cai",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jas.2023.124125"
+    },
+    {
+        "id": 13222,
+        "title": "Roles, Relationships, Resources, and Renal Exchange: Applying Social Capital Theory to Role Effects on Living Kidney Donation Behaviors",
+        "authors": "Jonathan Daw, Ashton M. Verdery",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": " Two largely separate schools of sociological theory seek to explain to whom we turn in times of need. The first argues that we turn to network members who occupy socially important roles, highlighting how support behaviors cluster in certain social roles (i.e., role effects). The second argues that we turn to network members possessing relevant resources and with whom we have strong ties. The authors unite these perspectives, examining how role effects on living kidney donation behavior are explained by role groups’ endowments of situationally relevant resources and tie strength. The authors analyze two original data sets: a sample of kidney transplantation patients reporting on their social networks ( n = 70 patients and 1,421 ties) and a separate sample surveying kidney disease patients’ family members ( n = 1,560). The authors find that role effects on living kidney donation behavior are largely explained by the conjunction of relevant resources and tie strength, which offers several key lessons for medical support-seeking research. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/23780231231171097"
+    },
+    {
+        "id": 13223,
+        "title": "Choosing Wisely: Applying Value-Based Economic Principles to Population Science Research Investment",
+        "authors": "Kevin D. Frick, Kathy J. Helzlsouer",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "Abstract\nScientific research requires a substantial investment of time, effort, and money by researchers and funders. The funding that would be needed for all meritorious proposals far exceeds available resources. Major funding organizations use a multistep process for allocating research dollars that follows and extends beyond scientific peer review with considerations including mission priority, budget, and potential duplication of past or ongoing research activities. At the level of programmatic review, the process tends to be less proscribed than scientific review, but considerations relate to and are akin to basic value-driven economic principles. We propose a framework that encompasses the elements of programmatic review and provide examples of how the economic principles of opportunity costs, diminishing marginal productivity, sunk costs, economic optimization, return on investment, and option value apply to both research planning and funding decisions. Examples use cancer control population science research, as the nature of observational and interventional research involves large population studies (large sample size, recruitment, and often long-duration follow-up costs) which demand a high level of resource utilization; the same principles can be applied throughout medical and population health research. Awareness of the aspects of programmatic review and context to focus discussion regarding funding decisions may help guide research planning, decision-making, and increase transparency of the overall review process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1158/1055-9965.epi-23-0883"
+    },
+    {
+        "id": 13224,
+        "title": "Applying the Shapley value to the tuna fishery",
+        "authors": "Gustavo Bergantiños, Carlos Groba, Antonio Sartal",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2022.12.040"
+    },
+    {
+        "id": 13225,
+        "title": "Weighted Hybrid A*-Based Trajectory Planning for Dynamic Environments",
+        "authors": "Chinnawut Nantabut, Dirk Abel",
+        "published": "2023-5-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-01811-3"
+    },
+    {
+        "id": 13226,
+        "title": "Dynamic Modeling of Nonlinear Systems in Cyber-Physical Environments",
+        "authors": "Dev Ras Pandey",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Complex behavior understanding and prediction relies on dynamic modeling of nonlinear systems in cyber-physical contexts. Critical for improving control systems, anticipating maintenance needs, and bolstering resilience, it permits accurate portrayal of complex interactions between cyber and physical components. Guaranteeing efficient and adaptable performance in networked ecosystems is made possible by this insight. Dynamic modeling of nonlinear systems (DM-NS) in cyber-physical settings has a number of challenges, such as the need to accurately depict complex interdependencies, accommodate changes in real-time, and reduce uncertainty. Advanced modeling techniques are required to capture the subtle behaviours and maintain the accuracy of the models while trying to balance the complicated interactions between physical and cyber components. A novel strategy is suggested to tackle these obstacles: Analysing Nonlinear Systems Cyber-Physical Modeling (ANSC-PM). By integrating complex mathematical models with adaptive learning algorithms, ANSC-PM is able to characterize nonlinear system behaviours, taking into account the dynamic interplay between cyber and physical components. To remain relevant as system dynamics change, the suggested method adjusts in real-time. Numerous disciplines find ANSC-PM useful, such as control system optimization, robotic predictive maintenance, and networked environment resilience enhancement. The effectiveness of ANSC-PM is determined by careful simulation analysis, which provides insight into its possible benefits in improving system performance, flexibility, and resilience in complex cyber-physical settings. Developing a thorough and flexible strategy that is adapted to the intricacies of cyber-physical systems, this research makes a substantial contribution to the progress of dynamic modeling approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/cana.v30.272"
+    },
+    {
+        "id": 13227,
+        "title": "Identification of load cells parameters under applying creep and dynamic force for dynamic force calibrations",
+        "authors": "M.M. Ammar, Magdy I. Mohamed, Gouda M. Mahmoud, Rolf Kumme, H.M. Zakaria, A.M. Gaafer",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2023.113851"
+    },
+    {
+        "id": 13228,
+        "title": "Fast Asymptotically Optimal Path Planning in Dynamic, Uncertain Environments",
+        "authors": "Lu Huang, Xingjian Jing",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341928"
+    },
+    {
+        "id": 13229,
+        "title": "Dynamic multi-objective evolutionary algorithms in noisy environments",
+        "authors": "Shaaban Sahmoud, Haluk Rahmi Topcuoglu",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.03.094"
+    },
+    {
+        "id": 13230,
+        "title": "Applying feature selection and machine learning techniques to estimate the biomass higher heating value",
+        "authors": "Seyyed Amirreza Abdollahi, Seyyed Faramarz Ranjbar, Dorsa Razeghi Jahromi",
+        "published": "2023-9-26",
+        "citations": 2,
+        "abstract": "AbstractThe biomass higher heating value (HHV) is an important thermal property that determines the amount of recoverable energy from agriculture byproducts. Precise laboratory measurement or accurate prediction of the HHV is essential for designing biomass conversion equipment. The current study combines feature selection scenarios and machine learning tools to establish a general model for estimating biomass HHV. Multiple linear regression and Pearson’s correlation coefficients justified that volatile matter, nitrogen, and oxygen content of biomass samples have a slight effect on the HHV and it is better to ignore them during the HHV modeling. Then, the prediction performance of random forest, multilayer and cascade feedforward neural networks, group method of data handling, and least-squares support vector regressor are compared to determine the intelligent estimator with the highest accuracy toward biomass HHV prediction. The ranking test shows that the multilayer perceptron neural network better predicts the HHV of 532 biomass samples than the other intelligent models. This model presents the outstanding absolute average relative error of 2.75% and 3.12% and regression coefficients of 0.9500 and 0.9418 in the learning and testing stages. The model performance is also superior to a recurrent neural network which was recently developed in the literature using the same databank.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-43496-x"
+    },
+    {
+        "id": 13231,
+        "title": "How might we do it better? Applying educational curriculum theory and practice in talent development environments",
+        "authors": "Jack J. Moran, Murray P. Craig, Dave Collins",
+        "published": "2024-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/21640629.2024.2321047"
+    },
+    {
+        "id": 13232,
+        "title": "Innovative Hybrid Intelligent Robust MPPT for PV Systems in Dynamic Environments",
+        "authors": "Hsen Abidi, Lilia Sidhom, Ines Chihi",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/irec59750.2023.10389450"
+    },
+    {
+        "id": 13233,
+        "title": "Operationalizing Dynamic Capabilities and Market Orientation: Empirical Insights for Startups in Dynamic Environments",
+        "authors": "Ana Maria Simões Ribeiro, Rogério Tadeu de Oliveira Lacerda, Michel Becker",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "In today&#39;s markets, companies operate in dynamic environments characterized by rapid changes, complexity, and uncertainty. For these companies, especially startups that are based on fast-growing, high technology, and innovative approaches to create new markets or offer superior solutions in existing markets, marketing management presents one of the most significant challenges for entrepreneurs. This study aims to address this challenge by developing a practical framework based on the theory of dynamic capabilities (DCs) and market orientation (MO). The objective is to build long-term competitive advantages for startups operating in dynamic environments. A theoretical model was built using a systematic literature review, and this was later refined through longitudinal case studies of brazilian startups. The result is a robust framework that supports both literature and entrepreneurs. It assists in the identification and exploitation of market opportunities by leveraging DCs and MO. Furthermore, it supports decision-making processes aimed at achieving sustainable competitive advantages. The framework also encourages entrepreneurs to reflect on their practices related to the dimensions of these constructs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5539/ijbm.v19n1p75"
+    },
+    {
+        "id": 13234,
+        "title": "Is It An Innovation That Contributes Value-Added Learning? A Critical Review of Literature Review on Flipped Learning Environments",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7176/jep/14-27-01"
+    },
+    {
+        "id": 13235,
+        "title": "Dynamic Hybrid Reversible Data Hiding Based on Pixel-value-ordering",
+        "authors": "Fang Ren Fang Ren, Yi-Ping Yang Fang Ren, Zhe-Lin Zhang Yi-Ping Yang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "\n                        <p>Reversible data hiding (RDH) using pixel-value-ordering (PVO) is a well-established technique for embedding data in a cover image by modifying the maximum and minimum in each block. This paper proposes a dynamic hybrid RDH method based on PVO. Specifically, a 3&times;3 block according to its complexity and two thresholds T1 and T2 is classified as three levels: extremely smooth, smooth, and rough. Different processing algorithms are used for different levels. For rough blocks, they are ignored to avoid reducing the peak signal-to-noise ratio. For smooth blocks, the proposed method employs a block subdivision algorithm that can embed up to 6 bits of data. For extremely smooth blocks, no subdivision is done and a median pixel prediction algorithm is used to predict the remaining eight pixels, which can embed up to 8 bits of data. Moreover, this paper presents a new method that computes complexity by dynamically selecting relevant pixels to enhance block classification accuracy. Extensive experiments demonstrate that the proposed method outperforms existing PVO-based methods, offering larger embedding capacity while maintaining low distortion.</p>\n<p>&nbsp;</p>\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53106/199115992023123406002"
+    },
+    {
+        "id": 13236,
+        "title": "HeterMM: applying in-DRAM index to heterogeneous memory-based key-value stores",
+        "authors": "Yunhong Ji, Wentao Huang, Xuan Zhou",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11704-024-3713-0"
+    },
+    {
+        "id": 13237,
+        "title": "Deep Reinforcement Learning-Based Path Planning for Dynamic and Heterogeneous Environments",
+        "authors": "Irene- Maria Tabakis, Minas Dasygenis",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pacet60398.2024.10496999"
+    },
+    {
+        "id": 13238,
+        "title": "Behavior Replication of Cascaded Dynamic Systems Using Machine Learning",
+        "authors": "Mohammed Abouheaf, Wail Gueaieb, Mohammad Mayyas",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rose60297.2023.10410754"
+    },
+    {
+        "id": 13239,
+        "title": "Exploring Multi-Armed Bandit algorithms: Performance analysis in dynamic environments",
+        "authors": "Litao Li",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "The Multi-armed Bandit algorithm, a proficient solver of the exploration-and-exploitation trade-off predicament, furnishes businesses with a robust tool for resource allocation that predominantly aligns with customer preferences. However, varying Multi-armed Bandit algorithm types exhibit dissimilar performance characteristics based on contextual variations. Hence, a series of experiments is imperative, involving alterations to input values across distinct algorithms. Within this study, three specific algorithms were applied, Explore-then-commit (ETC), Upper Confident Bound (UCB) and its asymptotically optimal variant, and Thompson Sampling (TS), to the extensively utilized MovieLens dataset. This application aimed to gauge their effectiveness comprehensively. The algorithms were translated into executable code, and their performance was visually depicted through multiple figures. Through cumulative regret tracking within defined conditions, algorithmic performance was scrutinized, laying the groundwork for subsequent parameter-based comparisons. A dedicated experimentation framework was devised to evaluate the robustness of each algorithm, involving deliberate parameter adjustments and tailored experiments to elucidate distinct performance nuances. The ensuing graphical depictions distinctly illustrated Thompson Sampling's persistent minimal regrets across most scenarios. UCB algorithms displayed steadfast stability. ETC manifested excellent performance with a low number of runs but escalate significantly along the number of runs growing. It also warranting constraints on exploratory phases to mitigate regrets. This investigation underscores the efficacy of Multi-armed Bandit algorithms while elucidating their nuanced behaviors within diverse contextual contingencies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/34/20230338"
+    },
+    {
+        "id": 13240,
+        "title": "Approaches for Solving a Dynamic Stacking Problem in Uncertain Environments",
+        "authors": "Sarah Boecke, Doina Logofatu",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/inista59065.2023.10310649"
+    },
+    {
+        "id": 13241,
+        "title": "EduTech Revolution: The Dynamic Role of ICT in Shaping Learning Environments",
+        "authors": "Manal Hamarsha, Erika Kopp",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3311/isnk-108"
+    },
+    {
+        "id": 13242,
+        "title": "DynaTM-SLAM: Fast filtering of dynamic feature points and object-based localization in dynamic indoor environments",
+        "authors": "Meiling Zhong, Chuyuan Hong, Zhaoqian Jia, Chunyu Wang, Zhiguo Wang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104634"
+    },
+    {
+        "id": 13243,
+        "title": "Dynamic Environments and Robust SLAM: Optimizing Sensor Fusion and Semantics for Wheeled Robots",
+        "authors": "Jaafar Mahmoud, Andrey Penkovskiy",
+        "published": "2023-5-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fruct58615.2023.10143050"
+    },
+    {
+        "id": 13244,
+        "title": "MSR31 Applying Multi-Level Network Meta-Regression (ML-NMR) to a Case Study in Triple-Class Exposed (TCE) Relapsed/Refractory Multiple Myeloma (RRMM)",
+        "authors": "D. Maciel, S. Cope, K. Towle, D. Dhanda, J. Jansen, B. Malcolm, S. Klijn",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.1567"
+    },
+    {
+        "id": 13245,
+        "title": "Recursive quantum eigenvalue and singular-value transformation: Analytic construction of matrix sign function by Newton iteration",
+        "authors": "Kaoru Mizuta, Keisuke Fujii",
+        "published": "2024-1-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physrevresearch.6.l012007"
+    },
+    {
+        "id": 13246,
+        "title": "In dynamic social environments humans adaptively switch between reducing policy and epistemic uncertainty",
+        "authors": "Amrita Lamba, Michael Frank, Oriel FeldmanHall",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1627-0"
+    },
+    {
+        "id": 13247,
+        "title": "PENGARUH DEBT TO EQUITY RATIO, EARNING PER SHARE, INTELLECTUAL CAPITAL, MANAGERIAL OWNERSHIP DAN INSTITUTIONAL OWNERSHIP TERHADAP MARKET VALUE ADDED",
+        "authors": "Januar Eky Pambudi",
+        "published": "2023-1-3",
+        "citations": 0,
+        "abstract": "Market value added merupakan selisih antara nilai pasar dari saham perusahaan dengan modal keseluruhan yang telah diinvestasikan oleh investor ke dalam  perusahaan. Penelitian ini bertujuan untuk memperoleh pengaruh Debt to Equity Ratio, Earning Per Share, Intellectual Capital, Managerial Ownership dan Institutional Ownership terhadap Market Value Added. Populasi pada penelitian ini yaitu perusahaan seor industri barang konsumsi. Teknik pengambilan sampel pada penelitian ini menggunakan nonprobability sampling dengan metode purposive sampling dengan jumlah sampel 22 perusahaan. Jenis data yang digunakan adalah data sekunder yang diperoleh dari web Bursa Efek Indonesia. Metode analisis yang digunakan adalah regresi data panel dengan menggunakan software e-views 9.0. Hasil pada penelitian ini menunjukan bahwa Debt to Equity Ratio, Managerial Ownership dan Institutional Ownership tidak memiliki pengaruh terhadap Market Value Added. Sedangkan Earning Per Share dan Intellectual Capital memiliki pengaruh positif dan signifikan terhadap Market Value Added.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31000/dmj.v7i1.7216"
+    },
+    {
+        "id": 13248,
+        "title": "Applying Generalized Type-II Hybrid Censored Samples on Generalized and q-Generalized Extreme Value Distributions under Linear Normalization",
+        "authors": "Rasha Abd El-Wahab Attwa, Taha Radwan",
+        "published": "2023-10-5",
+        "citations": 0,
+        "abstract": "The generalized extreme value (GEV) distributions have wide applications for describing a variety of random events, such as those that occur during specific survival, financial, or reliability investigations. Also, the q-analogues of GEV distributions, called (q-GEVs), are characterized by their ability to provide more flexibility for modeling, which is due to the influence of the q parameter. In this study, we estimated the parameters of generalized and q-generalized extreme value distributions under linear normalization, called GEVL and q-GEVL, respectively. These parameters were estimated using the maximum likelihood estimator method and are based on the generalized type-II hybrid censored sample (G-Type-II HCS). The confidence intervals for these parameters were evaluated. Also, Shannon entropy was estimated for GEVL and q-GEVL distributions. The accuracy of these parameters and the performance of estimators were demonstrated through a real-life example and a simulation study.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/sym15101869"
+    },
+    {
+        "id": 13249,
+        "title": "Human reaching control in dynamic environments",
+        "authors": "Hari T. Kalidindi, Frédéric Crevecoeur",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.conb.2023.102810"
+    },
+    {
+        "id": 13250,
+        "title": "Examining the Impact of Aging on Workers’ Hazard Identification Ability in Dynamic Construction Environments",
+        "authors": "Kyeongsuk Lee, Sogand Hasanzadeh",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784485293.079"
+    },
+    {
+        "id": 13251,
+        "title": "MSR87 How Many Simulations of a Dynamic Transmission Model Are Enough to Estimate Uncertainty?",
+        "authors": "S. Ahern, C. Teljeur, M. Ryan",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2146"
+    },
+    {
+        "id": 13252,
+        "title": "Applying vertical greening systems to reduce traffic noise in outdoor environments: Overview of key design parameters and research methods",
+        "authors": "Jesse Bakker, Martijn Lugten, Martin Tenpierik",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": " Vertical greening can be used to absorb and scatter sound, which may reduce noise levels in street canyons. In this paper, a literature review is presented, which combines results and methods from over 40 individual studies. The article describes the guiding principles behind the acoustic effects of vertical greening and provides an overview of the prevalent research methods. The article shows that vertical greenery is effective for the reduction of mid and high frequency noise, unless air cavities or resonators are introduced inside, or behind, the systems. The review also reflects on studies with an emphasis on the application of vertical greenery in streets and urban blocks. The aim of the article is to set out the key design parameters for noise reduction that can be achieved by vertical greening, focusing on designers and engineers. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/1351010x231171028"
+    },
+    {
+        "id": 13253,
+        "title": "Applying Human Factors and Systems Simulation Methods to Inform a Multimillion-Dollar Healthcare Decision",
+        "authors": "Mirette Dubé, Jessica Martel, Jason Kumagai, Michael Suddes, Janice Cullen, Jason Laberge",
+        "published": "2024-3-4",
+        "citations": 0,
+        "abstract": "Purpose: This article describes a case study of a collaborative human factors (HF) and systems-focused simulation (SFS) project to evaluate potential patient and staff safety risks associated with a multimillion-dollar design and construction decision. Background: The combined integration of HF and SFS methods in healthcare related to testing and informing the design of new environments and processes is underutilized. Few realize the effectiveness of this integration in healthcare to reduce risk and improve decision-making, safety, design, efficiency, patient experience, and outcomes. This project showcases how the combined use of HF and SFS methods can provide objective evidence to help inform decisions. Methods: The project was initiated by a healthcare executive team looking for an objective, user informed analysis of a current connector passageway between two existing buildings. The goal was to understand the implications of keeping the current route for simultaneous use for public and patients service flow versus building and financing a new passageway for separate flow and transport. An interprofessional team of intensive care unit professionals participated in two simulations designed to test the current connector. A failure mode and effects analysis and qualitative debrief feedback was used to evaluate risks and potential failures. Results: The evaluation resulted in data that enabled informed executive decision making for the most effective, efficient, and safest option for public, staff, and patient transport between two buildings. This evaluation resulted in the decision to go forward with building a multimillion-dollar new connector passageway to improve integrated care and transport. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/19375867241229078"
+    },
+    {
+        "id": 13254,
+        "title": "A General Inexact Fixed Point Iteration Method for Solving Absolute Value Equation",
+        "authors": "壹鑫 姜",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12677/aam.2023.127325"
+    },
+    {
+        "id": 13255,
+        "title": "Implementation of Brute-Force Value Iteration for Mobile Robot Path Planning and Obstacle Bypassing",
+        "authors": "Ryuichi Ueda, Leon Tonouchi, Tatsuhiro Ikebe, Yasuo Hayashibara",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "We applied a brute-force value iteration algorithm to mobile robot navigation. Value iteration is computationally more expensive than search methods used for navigation. However, it can perfectly calculate the expected cost-to-go from any point in a state space. From this cost data, a robot can know not only the optimal behavior at any position and orientation but also the appropriate detour path against suddenly appearing obstacles. This study implemented value iteration and investigated its properties through experiments with simulated and actual robots. Although its computational cost remained high, our implementation could operate a robot in an actual outdoor environment with 3,700 m2 free space. We also verified that our implementation calculates long detour paths toward closures composed of obstacles.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20965/jrm.2023.p1489"
+    },
+    {
+        "id": 13256,
+        "title": "Applying multi-objective ant colony optimization algorithm for dynamic facility layout problems",
+        "authors": "Jingfa Liu, Yuhang Xue",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3011761"
+    },
+    {
+        "id": 13257,
+        "title": "An inexact fixed point iteration method for solving absolute value equation",
+        "authors": "Xin-Mei Lv, Shu-Xin Miao",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13160-023-00641-3"
+    },
+    {
+        "id": 13258,
+        "title": "Vibration Attenuation Analysis in a Structural System Applying Pendulum Dynamic Absorber (DVA) with SMA Superelastic Wire and Rod",
+        "authors": "Yuri Moraes, Antonio Almeida Silva",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-0657"
+    },
+    {
+        "id": 13259,
+        "title": "Optimal parameter of the SOR-like iteration method for solving absolute value equations",
+        "authors": "Cairong Chen, Bo Huang, Dongmei Yu, Deren Han",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11075-023-01666-y"
+    },
+    {
+        "id": 13260,
+        "title": "The Value of Open AI and Chat GPT for the Current Learning Environments and the Potential Future Uses",
+        "authors": "David Mhlanga",
+        "published": "2023",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4439267"
+    },
+    {
+        "id": 13261,
+        "title": "Applying dynamic energy and exergy analysis to a building envelope",
+        "authors": "Volodymyr Voloshchuk, Dmytro Biriukov, Inna Bilous, Valerii Deshko, Nadia Buyak",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijex.2024.10061109"
+    },
+    {
+        "id": 13262,
+        "title": "Applying and dissecting LSTM neural networks and regularized learning for dynamic inferential modeling",
+        "authors": "Jicheng Li, S. Joe Qin",
+        "published": "2023-7",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compchemeng.2023.108264"
+    },
+    {
+        "id": 13263,
+        "title": "Applying 3DCNN to Recognize the weighted Time- frequency Features by Phase Locking Value for Epilepsy Prediction",
+        "authors": "Mingai Li, Ziyue Zhang",
+        "published": "2023-5-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccdc58219.2023.10326652"
+    },
+    {
+        "id": 13264,
+        "title": "Retracted: Analysis on Value of Applying Serum miR-144 and miR-221 Levels in Diagnosing Atherosclerosis",
+        "authors": "",
+        "published": "2023-1-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9864018"
+    },
+    {
+        "id": 13265,
+        "title": "Delamination of Plasticized Devices in Dynamic Service Environments",
+        "authors": "Wenchao Tian, Xuyang Chen, Guoguang Zhang, Yuanming Chen, Jijun Luo",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "With the continuous development of advanced packaging technology in heterogeneous semiconductor integration, the delamination failure problem in a dynamic service environment has gradually become a key factor limiting the reliability of packaging devices. In this paper, the delamination failure mechanism of polymer-based packaging devices is clarified by summarizing the relevant literature and the latest research solutions are proposed. The results show that, at the microscopic scale, thermal stress and moisture damage are still the two main mechanisms of two-phase interface failure of encapsulation devices. Additionally, the application of emerging technologies such as RDL structure modification and self-healing polymers can significantly improve the thermal stress state of encapsulation devices and enhance their moisture resistance, which can improve the anti-delamination reliability of polymer-based encapsulation devices. In addition, this paper provides theoretical support for subsequent research and optimization of polymer-based packages by summarizing the microscopic failure mechanism of delamination at the two-phase interface and introducing the latest solutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/mi15030376"
+    },
+    {
+        "id": 13266,
+        "title": "Comprehensive Exploration of Dynamic Resource Distribution in Cloud-Based Virtual Environments",
+        "authors": "Rizwan Khan, Mayank Patel, Ajay Kumar Shama",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/autocom60220.2024.10486098"
+    },
+    {
+        "id": 13267,
+        "title": "Machine Learning-Driven Edge and Split Computing Architectures Study in High-Mobility Dynamic Environments",
+        "authors": "Dušan Levický, Matúš Čavojský, Juraj Gazda, Gabriel Bugár",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/elmar59410.2023.10253936"
+    },
+    {
+        "id": 13268,
+        "title": "Dynamic Resource Allocation in Cloud Environments",
+        "authors": "Rohith Sunilkumar Nair",
+        "published": "2023-6-30",
+        "citations": 1,
+        "abstract": "Abstract: The provisioning and use of computing resources has been completely transformed by cloud computing, which provides previously unheard-of levels of scalability, flexibility, and cost-effectiveness. In order to maximize resource utilizatio and guarantee peak performance in cloud settings, dynamic resource allocation is essential. In order to provide a thorough grasp of the most recent developments in this subject, this survey paper offers an in-depth review of dynamic resource allocation methods in cloud computing. The survey includes a wide range of dynamic resource allocation techniques, including as cost-optimization methods, resource provisioning and scheduling techniques, and load-balancing algorithms. Each method is examined in terms of its advantages, drawbacks, and applicability to particular cloud deployment scenarios. The research also investigates evaluation approaches and performance indicators for evaluating the efficacy of dynamic resource allocation systems. It emphasizes the need for continued research and innovation to address the evolving demands of cloud computing environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2023.53668"
+    },
+    {
+        "id": 13269,
+        "title": "Optimizing Task Load Distribution in Cloud Environments via Dynamic Genetic Algorithm",
+        "authors": "Ronali Padhy, Santosh Kumar Pani",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esic60604.2024.10481574"
+    },
+    {
+        "id": 13270,
+        "title": "Applying the feminist agrifood systems theory (fast) to U.S. organic, value-added, and non-organic non-value-added farms",
+        "authors": "Katherine Dentzman, Ryanne Pilgeram, Falin Wilson",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10460-023-10413-x"
+    },
+    {
+        "id": 13271,
+        "title": "Generalized Multiagent Reinforcement Learning for Coverage Path Planning in Unknown, Dynamic, and Hazardous Environments",
+        "authors": "Andrea Henshall, Sertac Karaman",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-2762"
+    },
+    {
+        "id": 13272,
+        "title": "Real-Time Spatial Trajectory Planning for Urban Environments Using Dynamic Optimization",
+        "authors": "Jona Ruof, Max Bastian Mertens, Michael Buchholz, Klaus Dietmayer",
+        "published": "2023-6-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186535"
+    },
+    {
+        "id": 13273,
+        "title": "MSR70 Applying a Discrete Choice Experiment Methodology to Elicit Treatment Preferences for Patients with Tricuspid Regurgitation",
+        "authors": "V. Iyer, N.N. Faza, M. Pfeiffer, M. Kozak, B. Peterson, M. Wyler von Ballmoos, S. Mollenkopf, M. Mancilla, D. Latibeaudiere, M.J. Reardon",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.1605"
+    },
+    {
+        "id": 13274,
+        "title": "The quest for business value drivers: applying machine learning to performance management",
+        "authors": "Franco Visani, Anna Raffoni, Emanuele Costa",
+        "published": "2023-1-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/09537287.2022.2157776"
+    },
+    {
+        "id": 13275,
+        "title": "Dynamic Obstacle Avoidance for UAV Motion Planning in Unknown Environments Based on Probabilistic Inference",
+        "authors": "Weiming Qing, Pengzhi Jiang, Yongxin Yin",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10241207"
+    },
+    {
+        "id": 13276,
+        "title": "Enhanced Neural SLAM with Semantic Segmentation in Dynamic Environments",
+        "authors": "Zhengcheng Shen, Minzhe Mao, Linh Kästner, Jens Lambrecht",
+        "published": "2023-7-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarm58088.2023.10218889"
+    },
+    {
+        "id": 13277,
+        "title": "Multi-Person Tracking Method Robust to Dynamic Viewport Changes for AR apps",
+        "authors": "Naoya Takahashi, Tatsuya Amano, Hirozumi Yamaguchi",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ie57519.2023.10179092"
+    },
+    {
+        "id": 13278,
+        "title": "Dynamic Viewpoint-Based Obstacle Avoidance of Robotic Arms in Complex Environments",
+        "authors": "Guangjun Qu, Aijun Zhang",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isrimt59937.2023.10428640"
+    },
+    {
+        "id": 13279,
+        "title": "CaAIS: Cellular Automata-Based Artificial Immune System for Dynamic Environments",
+        "authors": "Alireza Rezvanian, S. Mehdi Vahidipour, Ali Mohammad Saghiri",
+        "published": "2023-12-30",
+        "citations": 1,
+        "abstract": "Artificial immune systems (AIS), as nature-inspired algorithms, have been developed to solve various types of problems, ranging from machine learning to optimization. This paper proposes a novel hybrid model of AIS that incorporates cellular automata (CA), known as the cellular automata-based artificial immune system (CaAIS), specifically designed for dynamic optimization problems where the environment changes over time. In the proposed model, antibodies, representing nominal solutions, are distributed across a cellular grid that corresponds to the search space. These antibodies generate hyper-mutation clones at different times by interacting with neighboring cells in parallel, thereby producing different solutions. Through local interactions between neighboring cells, near-best parameters and near-optimal solutions are propagated throughout the search space. Iteratively, in each cell and in parallel, the most effective antibodies are retained as memory. In contrast, weak antibodies are removed and replaced with new antibodies until stopping criteria are met. The CaAIS combines cellular automata computational power with AIS optimization capability. To evaluate the CaAIS performance, several experiments have been conducted on the Moving Peaks Benchmark. These experiments consider different configurations such as neighborhood size and re-randomization of antibodies. The simulation results statistically demonstrate the superiority of the CaAIS over other artificial immune system algorithms in most cases, particularly in dynamic environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010018"
+    },
+    {
+        "id": 13280,
+        "title": "Dynamic Frontier-Led Swarming: Multi-Robot Repeated Coverage in Dynamic Environments",
+        "authors": "Vu Phi Tran, Matthew A. Garratt, Kathryn Kasmarik, Sreenatha G. Anavatti",
+        "published": "2023-3",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jas.2023.123087"
+    },
+    {
+        "id": 13281,
+        "title": "Value-Based Pricing for Patent-Protected Medicines Over the Product Life Cycle: Pricing Anomalies in the “Age of Cures” and Their Implications for Dynamic Efficiency",
+        "authors": "Louis P. Garrison, Boshen Jiao, Omar Dabbous",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2022.09.010"
+    },
+    {
+        "id": 13282,
+        "title": "Joint problem-solving orientation, mutual value recognition, and performance in fluid teamwork environments",
+        "authors": "Michaela Kerrissey, Zhanna Novikov",
+        "published": "2024-2-13",
+        "citations": 1,
+        "abstract": "IntroductionJoint problem-solving orientation (JPS) has been identified as a factor that promotes performance in fluid teamwork, but research on this factor remains nascent. This study pushes the frontier of understanding about JPS in fluid teamwork environments by applying the concept to within-organization work and exploring its relationships with performance, mutual value recognition (MVR), and expertise variety (EV).MethodsThis is a longitudinal, survey-based field study within a large United States healthcare organization n = 26,319 (2019 response rate = 87%, 2021 response rate = 80%). The analytic sample represents 1,608 departmental units in both years (e.g., intensive care units and emergency departments). We focus on departmental units in distinct locations as the units within which fluid teamwork occurs in the hospital system setting. Within these units, we measure JPS in 2019 and MVR in 2021, and we capture EV by unit using a count of the number of disciplines present. For a performance measure, we draw on the industry-used measurement of perceived care quality and safety. We conduct moderated mediation analysis testing (1) the main effect of JPS on performance, (2) mediation through MVR, and (3) EV as a moderator.ResultsOur results affirm a moderated mediation model wherein JPS enhances performance, both directly and through MVR; EV serves as a moderator in the JPS-MVR relationship. JPS positively influences MVR, irrespective of whether EV is high or low. When JPS is lower, greater EV is associated with lower MVR, whereas amid high JPS, greater EV is associated with higher MVR, as compared to lower EV.DiscussionOur findings lend further evidence to the value of JPS in fluid teamwork environments for enabling performance, and we document for the first time its relevance for within-organization work. Our results suggest that one vital pathway for JPS to improve performance is through enhancing recognition of the value that others offer, especially in environments where expertise variety is high.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fpsyg.2024.1288904"
+    },
+    {
+        "id": 13283,
+        "title": "Enhancing Path Planning Capabilities of Automated Guided Vehicles in Dynamic Environments: Multi-Objective PSO and Dynamic-Window Approach",
+        "authors": "Thi-Kien Dao, Truong-Giang Ngo, Jeng-Shyang Pan, Thi-Thanh-Tan Nguyen, Trong-The Nguyen",
+        "published": "2024-1-5",
+        "citations": 1,
+        "abstract": "Automated guided vehicles (AGVs) are vital for optimizing the transport of material in modern industry. AGVs have been widely used in production, logistics, transportation, and commerce, enhancing productivity, lowering labor costs, improving energy efficiency, and ensuring safety. However, path planning for AGVs in complex and dynamic environments remains challenging due to the computation of obstacle avoidance and efficient transport. This study proposes a novel approach that combines multi-objective particle swarm optimization (MOPSO) and the dynamic-window approach (DWA) to enhance AGV path planning. Optimal AGV trajectories considering energy consumption, travel time, and collision avoidance were used to model the multi-objective functions for dealing with the outcome-feasible optimal solution. Empirical findings and results demonstrate the approach’s effectiveness and efficiency, highlighting its potential for improving AGV navigation in real-world scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/biomimetics9010035"
+    },
+    {
+        "id": 13284,
+        "title": "THE INFLUENCE OF PROFITABILITY (ROE) AND SOLVENCY (DER) ON STOCK PRICES WITH COMPANY VALUE AS A MEDIATION VARIABLE",
+        "authors": "Eriska Putri, Idham Lakoni, Sintia Safrianti",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "Tujuan dari penelitian ini adalah untuk memastikan bagaimana harga saham dipengaruhi oleh profitabilitas (ROE) dan solvabilitas (DER). Untuk melakukan ini, nilai perusahaan digunakan sebagai variabel mediasi. Dari tahun 2018 hingga 2022, studi ini melihat 46 perusahaan perbankan yang terdaftar di Bursa Efek Indonesia.Sampling purposive digunakan untuk pengambilan sampel, dan empat belas perusahaan dipilih berdasarkan kriteria khusus. Data kuantitatif dari data sekunder merupakan jenis data yang digunakan Prosedur dokumentasi digunakan dalam pengumpulan data. Analisis jalur dengan metode analisis 2 arah merupakan metodologi analisis data yang digunakan karena menghubungkan dua Profitabilitas (ROE) dan Solvabilitas (DER) adalah faktor berbeda yang mempengaruhi nilai saham.merupakan variabel dependen. SEM-PLS 4 digunakan untuk manajemen data dalam investigasi ini (1) Profitabilitas (ROE) memengaruhi nilai perusahaan secara signifikan dan positif, dan (2) Solvabilitas (DER) memengaruhi nilai perusahaan secara tidak signifikan dan positif. (3) Profitabilitas (ROE) berdampak positif dan signifikan terhadap harga saham, (4) Solavilitas (DER) berdampak positif dan tidak signifikan terhadap harga saham, dengan (5) Nilai perusahaan berdampak positif dan signifikan terhadap harga saham. (6) Dengan memediasi nilai perusahaan, profitabilitas (ROE) berdampak positif dan tidak signifikan terhadap harga saham. (7) Solvabilitas (DER) mempengaruhi harga saham secara tidak signifikan dan negatif.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31000/dmj.v7i3.8566"
+    },
+    {
+        "id": 13285,
+        "title": "Dynamic response of arch bridge structure with dynamic motion simulator testing",
+        "authors": "Widya Apriani, Hendri Rahmat, Fadrizal Lubis",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0117173"
+    },
+    {
+        "id": 13286,
+        "title": "EPH65 The Analysis of Dynamic Processes of Virus Transmission: How Could Diagnostic Tests and Vaccinations Can Stop COVID-19 Pandemic?",
+        "authors": "I. Kamae",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.947"
+    },
+    {
+        "id": 13287,
+        "title": "Applying the Financial Sustainability Standard and its Impact on the Bank’s Value: Evidence from the Iraqi Market",
+        "authors": "Dr. Hayder Jameel Ahmed Al-Gburi, Asaad Mohammed Ali Wahhab",
+        "published": "2023-10-4",
+        "citations": 0,
+        "abstract": "The objective of this study is to assess the impact of applying the sustainability standard to the financial sector (commercial banks) for a representative sample of banks listed on the Iraq Stock Exchange. The financial statements of eight commercial banks for 2015–2021 were analysed in accordance with the disclosure requirements of the financial sustainability standard for commercial banks to accomplish the study objectives. Tobin's Q scale was implemented to measure the impact and value of a company using a regression model. Statistical methods (model of linear regression and ETA coefficient) were also employed to assess the study hypotheses. According to the research, there is an effect between non-financial reporting, the sustainability standard of commercial banks, and the value of the company, and this effect is inversely negative because the level of non-financial disclosure is below the required level.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47577/sustainability.v4i.9631"
+    },
+    {
+        "id": 13288,
+        "title": "On the global convergence of relative value iteration for infinite-horizon risk-sensitive control of diffusions",
+        "authors": "Hassan Hmedi, Ari Arapostathis, Guodong Pang",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysconle.2022.105413"
+    },
+    {
+        "id": 13289,
+        "title": "Improved Dynamic Performance of Average-Value Modelled Active Front-End Rectifiers",
+        "authors": "Mohsen Ebadpour",
+        "published": "2024-1-21",
+        "citations": 1,
+        "abstract": "Active front-end (AFE) rectifiers have become widely employed in power systems to achieve unity power factor and harmonic mitigations. The typical modeling approaches applied for AFE rectifiers in the literature mostly relied on two baselines: the detailed model and the time-average model. The former approach deals with the switching element model (SEM), which leads to significant harmonics in currents with distorted waveforms. The latter approach uses the average-value model (AVM) to overcome the currents’ harmonics as well as provide fast responses. However, even the AVM baseline has shown problems during the starting stage (lack of control signals) and over the dead-time periods, which causes serious issues in the implementation process. This paper presents an improved dynamic AVM for AFE rectifiers by precisely considering the issues mentioned above, along with the practical starting procedure and desirable initialization. The studied AFE rectifier is developed using the voltage-oriented control (VOC) technique based on the different modeling methodologies, including SEM, Conventional AVM, and the proposed AVM. The performance of all models is analyzed and compared using simulation results with MATLAB/Simulink R2023a Function blocks for all the algorithm parts and SimScape elements for the electrical circuit model. The simulation results illustrate that the performance of the proposed AVM approach can closely resemble the behavior of the SEM baseline with low harmonic distortion. To evaluate the performance of the proposed model, several case studies are investigated to verify the AFE rectifier operation, regarding mostly the total harmonic distortion (THD) wherein the THD percentages are improved to 4.78 and 2.5 from 5.14 and 2.78 for low- and high-power loads, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13020445"
+    },
+    {
+        "id": 13290,
+        "title": "Agile Leadership from the Perspective of Dynamic Capabilities and Creating Value",
+        "authors": "Yeşim Kaya",
+        "published": "2023-10-25",
+        "citations": 1,
+        "abstract": "This article aims to contribute to a leadership-based theory of dynamic capabilities and creating value. As a contribution to the economic dimension of sustainability, the mediation role of dynamic capabilities in the effect of agile leadership on creating value has been examined within the framework of the developed hypotheses and the relationships and interactions among agile leadership, dynamic capabilities, and creating value have been revealed. In this context, the data were obtained from 540 participants who work as middle- and upper-level managers in medium-sized and large-sized enterprises in various cities in the northwest of Turkiye, such as Sakarya, Kocaeli, and Istanbul, which are the locomotives of the Turkish economy. Structural Equation Modeling (AMOS) was used to examine the interaction between variables. The findings of this research demonstrate that dynamic capabilities have a full intermediary effect on the impact of agile leadership on creating value.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su152115253"
+    },
+    {
+        "id": 13291,
+        "title": "Distributionally Robust Optimization with Unscented Transform for Learning-Based Motion Control in Dynamic Environments",
+        "authors": "Astghik Hakobyan, Insoon Yang",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161246"
+    },
+    {
+        "id": 13292,
+        "title": "The Reflectance Field Map: Mapping Glass and Specular Surfaces in Dynamic Environments",
+        "authors": "Paul Foster, Collin Johnson, Benjamin Kuipers",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161520"
+    },
+    {
+        "id": 13293,
+        "title": "Obstacle Avoidance in Dynamic Environments via Tunnel-Following MPC with Adaptive Guiding Vector Fields",
+        "authors": "Albin Dahlin, Yiannis Karayiannidis",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383988"
+    },
+    {
+        "id": 13294,
+        "title": "Obstacle Identification and Ellipsoidal Decomposition for Fast Motion Planning in Unknown Dynamic Environments",
+        "authors": "Mehmetcan Kaymaz, Nazım Kemal Ure",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160444"
+    },
+    {
+        "id": 13295,
+        "title": "Multi-Robot System Architecture Focusing on Plan Recovery for Dynamic Environments",
+        "authors": "Carlos Joel Tavares da Silva, Célia Ghedini Ralha",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssci52147.2023.10371972"
+    },
+    {
+        "id": 13296,
+        "title": "Robotic organism targets regional coverage capture path planning for marine aquafarm based on value iteration network",
+        "authors": "Hai Huang, Yize Sun, Zhenkun Zhang, Baida Jin, Zhaoqun Wang, Hongde Qin, Zhigang Zhang",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.114981"
+    },
+    {
+        "id": 13297,
+        "title": "i-Ntervene: applying an evidence-based learning analytics intervention to support computer programming instruction",
+        "authors": "Piriya Utamachant, Chutiporn Anutariya, Suporn Pongnumkul",
+        "published": "2023-7-25",
+        "citations": 2,
+        "abstract": "AbstractApart from good instructional design and delivery, effective intervention is another key to strengthen student academic performance. However, intervention has been recognized as a great challenge. Most instructors struggle to identify at-risk students, determine a proper intervention approach, trace and evaluate whether the intervention works. This process requires extensive effort and commitment, which is impractical especially for large classes with few instructors. This paper proposes a platform, namely i-Ntervene, that integrates Learning Management System (LMS) automatic code grader, and learning analytics features which can empower systematic learning intervention for large programming classes. The platform supports instructor-pace courses on both Virtual Learning Environment (VLE) and traditional classroom setting. The platform iteratively assesses student engagement levels through learning activity gaps. It also analyzes subject understanding from programming question practices to identify at-risk students and suggests aspects of intervention based on their lagging in these areas. Students’ post-intervention data are traced and evaluated quantitatively to determine effective intervention approaches. This evaluation method aligns with the evidence-based research design. The developed i-Ntervene prototype was tested on a Java programming course with 253 first-year university students during the Covid-19 pandemic in VLE. The result was satisfactory, as the instructors were able to perform and evaluate 12 interventions throughout a semester. For this experimental course, the platform revealed that the approach of sending extrinsic motivation emails had more impact in promoting learning behavior compared to other types of messages. It also showed that providing tutorial sessions was not an effective approach to improving students’ subject understanding in complex algorithmic topics. i-Ntervene allows instructors to flexibly trial potential interventions to discover the optimal approach for their course settings which should boost student’s learning outcomes in long term.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40561-023-00257-7"
+    },
+    {
+        "id": 13298,
+        "title": "Dynamic Controllability of Temporal Plans in Uncertain and Partially Observable Environments",
+        "authors": "Arthur Bit-Monnot, Paul Morris",
+        "published": "2023-8-8",
+        "citations": 0,
+        "abstract": "The formalism of Simple Temporal Networks (STNs) provides methods for evaluating the feasibility of temporal plans. The basic formalism deals with the consistency of quantitative temporal requirements on scheduled events. This implicitly assumes a single agent has full control over the timing of events. The extension of Simple Temporal Networks with Uncertainty (STNU) introduces uncertainty into the timing of some events. Two main approaches to the feasibility of STNUs involve (1) where a single schedule works irrespective of the duration outcomes, called Strong Controllability, and (2) whether a strategy exists to schedule future events based on the outcomes of past events, called Dynamic Controllability. Case (1) essentially assumes the timing of uncertain events cannot be observed by the agent while case (2) assumes full observability.\nThe formalism of Partially Observable Simple Temporal Networks with Uncertainty (POSTNU) provides an intermediate stance between these two extremes, where a known subset of the uncertain events can be observed when they occur. A sound and complete polynomial algorithm to determining the Dynamic Controllability of POSTNUs has not previously been known; we present one in this paper. This answers an open problem that has been posed in the literature.\nThe approach we take factors the problem into Strong Controllability micro-problems in an overall Dynamic Controllability macro-problem framework. It generalizes the notion of labeled distance graph from STNUs. The generalized labels are expressed as max/min expressions involving the observables. The paper introduces sound generalized reduction rules that act on the generalized labels. These incorporate tightenings based on observability that preserve dynamic viable strategies. It is shown that if the generalized reduction rules reach quiescence without exposing an inconsistency, then the POSTNU is Dynamically Controllable (DC). The paper also presents algorithms that apply the reduction rules in an organized way and reach quiescence in a polynomial number of steps if the POSTNU is Dynamically Controllable.\nRemarkably, the generalized perspective leads to a simpler and more uniform framework that applies also to the STNU special case. It helps illuminate the previous methods inasmuch as the max/min label representation is more semantically clear than the ad-hoc upper/lower case labels previously used.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1613/jair.1.13065"
+    },
+    {
+        "id": 13299,
+        "title": "Augmentation approaches for geodetic permanent monitoring systems in dynamic urban environments",
+        "authors": "P. Bauer, W. Lienhart",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00396265.2023.2293555"
+    },
+    {
+        "id": 13300,
+        "title": "Reliability Analysis Method for Continuous Degenerating System Affected by Zoned Shocks in Dynamic Environments",
+        "authors": "Yamei Zhang, Songzheng Zhao, Bei Wu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4354051"
+    },
+    {
+        "id": 13301,
+        "title": "Meta-Critic Reinforcement Learning for IOS-Assisted Multi-User Communications in Dynamic Environments",
+        "authors": "Qinpei Luo, Boya Di, Zhu Han",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vtc2023-spring57618.2023.10199513"
+    },
+    {
+        "id": 13302,
+        "title": "Strategic Management Practices in Dynamic Business Environments",
+        "authors": "Putri Anahera Oganda, Rizky Fredrin Terizla",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "This research delves into an exploration of strategic management practices within organizations operating in dynamically changing business environments. The primary objective is to provide insightful perspectives on how businesses adeptly navigate and adapt their strategies to not only endure but thrive amid swift and continuous changes. Employing a robust mixed-methods approach, the study integrates quantitative analysis derived from survey data with qualitative examination through case studies. The quantitative facet involves collecting and analyzing survey data from a diverse array of businesses in dynamic environments. This survey aims to quantify various strategic management practices, offering statistical insights into the prevalence and effectiveness of different strategies. Simultaneously, the qualitative component encompasses in-depth case studies conducted on select organizations. Through interviews, document scrutiny, and direct observation, this phase seeks to unravel nuanced insights into specific strategic practices responding to dynamic business conditions. Key findings from this dual-method approach shed light on the factors contributing to effective strategic management in dynamic contexts. The discussion emphasizes the significance of adaptability, innovation, and proactive planning in strategic management practices. These insights have practical implications, offering valuable guidance for practitioners engaged in strategic decision-making, helping businesses enhance their resilience and competitive positioning in dynamic environments. Furthermore, scholars can use this study as a foundation for further exploration and theoretical development in the field of strategic management. In conclusion, this research significantly contributes to understanding effective strategic management amid dynamic business environments, benefiting both practitioners and scholars.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33050/atm.v8i1.2192"
+    },
+    {
+        "id": 13303,
+        "title": "Collective Decision-Making and Change Detection with Bayesian Robots in Dynamic Environments",
+        "authors": "Kai Pfister, Heiko Hamann",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341649"
+    },
+    {
+        "id": 13304,
+        "title": "A Fall Detection System using Hybrid Inertial and Physiological Signal Classifiers for Dynamic Environments",
+        "authors": "Tamonash Bhattacharyya, Prasun Ghosal",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ises58672.2023.00022"
+    }
+]

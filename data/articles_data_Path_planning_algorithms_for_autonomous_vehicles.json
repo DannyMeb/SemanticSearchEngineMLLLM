@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 30105,
+        "title": "Dynamic Path Planning for Autonomous Vehicles Using Adaptive Reinforcement Learning",
+        "authors": "Karim Wahdan, Nourhan Ehab, Yasmin Mansy, Amr El Mougy",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012363300003636"
+    },
+    {
+        "id": 30106,
+        "title": "Dynamic Path Planning for Autonomous Vehicles: A Neuro-Symbolic Approach",
+        "authors": "Omar Elrasas, Nourhan Ehab, Yasmin Mansy, Amr El Mougy",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012374700003636"
+    },
+    {
+        "id": 30107,
+        "title": "Recovery Path Planning for Autonomous Underwater Vehicles Using Constrained Bi-RRT*-Smart Algorithms",
+        "authors": "Zhenchi Zhang, Haibo Wu, Heng Zhou, Yunxuan Song, Yimin Chen, Ke He, Jian Gao",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/oceanslimerick52467.2023.10244454"
+    },
+    {
+        "id": 30108,
+        "title": "An In-Depth Analysis of Collision Avoidance Path Planning Algorithms in\nAutonomous Vehicles",
+        "authors": "Keren Lois Daniel, Ramesh Chandra Poonia",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "\nAbstract:\nPath planning is a way to define the motion of an autonomous surface vehicle\n(ASV) in any existing obstacle environment to enable the vehicle's movement by setting directions to avoid that can react to the obstacles in the vehicle's path. A good, planned path perceives the environment to the extent of uncertainty and tries to build or adapt its change in the\npath of motion. Efficient path planning algorithms are needed to alleviate deficiencies, which\nare to be modified using the deterministic path that leads the ASV to reach a goal or a desired\nlocation while finding an optimal solution has become a challenge in the field of optimization\nalong with a collision-free path, making path planning a critical thinker. The traditional algorithms have a lot of training and computation, making it difficult in a realistic environment.\nThis review paper explores the different techniques available in path planning and collision\navoidance of ASV in a dynamic environment. The objective of good path planning and collision avoidance for a dynamic environment is compared effectively with the existing obstacle’s\nmovement of different vehicles. Different path planning technical approaches are compared\nwith their performance and collision avoidance for unmanned vehicles in marine environments\nby early researchers. This paper gives us a clear idea for developing an effective path planning\ntechnique to overcome marine accidents in the dynamic ocean environment while choosing the\nshortest, obstacle-free path for Autonomous Surface Vehicles that can reduce risk and enhance\nthe safety of unmanned vehicle movement in a harsh ocean environment.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/0126662558258394231228080539"
+    },
+    {
+        "id": 30109,
+        "title": "Improved Path Planning Algorithms for Non-Holonomic Autonomous Vehicles in Industrial Environments with Narrow Corridors: Roadmap Hybrid A* and Waypoints Hybrid A*",
+        "authors": "Alessandro Bonetti, Simone Guidetti, Lorenzo Sabattini",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecmr59166.2023.10256368"
+    },
+    {
+        "id": 30110,
+        "title": "Adaptive Path Planning for Autonomous Vehicles in Complex Traffic Scenarios",
+        "authors": "B. Durgabhavani, Vijaya Bhaskar Reddy Muvva, L.M.I. Leo Joseph, Duvvapu Mahesh Babu, Manohara H. T.",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393634"
+    },
+    {
+        "id": 30111,
+        "title": "A Review of Deep Reinforcement Learning Algorithms for Mobile Robot Path Planning",
+        "authors": "Ramanjeet Singh, Jing Ren, Xianke Lin",
+        "published": "2023-10-17",
+        "citations": 1,
+        "abstract": "Path planning is the most fundamental necessity for autonomous mobile robots. Traditionally, the path planning problem was solved using analytical methods, but these methods need perfect localization in the environment, a fully developed map to plan the path, and cannot deal with complex environments and emergencies. Recently, deep neural networks have been applied to solve this complex problem. This review paper discusses path-planning methods that use neural networks, including deep reinforcement learning, and its different types, such as model-free and model-based, Q-value function-based, policy-based, and actor-critic-based methods. Additionally, a dedicated section delves into the nuances and methods of robot interactions with pedestrians, exploring these dynamics in diverse environments such as sidewalks, road crossings, and indoor spaces, underscoring the importance of social compliance in robot navigation. In the end, the common challenges faced by these methods and applied solutions such as reward shaping, transfer learning, parallel simulations, etc. to optimize the solutions are discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/vehicles5040078"
+    },
+    {
+        "id": 30112,
+        "title": "AI Path Prediction &amp; Planning for Autonomous Vehicles",
+        "authors": "Parshva Anish Maniar",
+        "published": "2023-8-29",
+        "citations": 0,
+        "abstract": "Autonomous navigation of vehicles at various places can tremendously improve daily traversal, especially while driving in unfamiliar territory. Path-planning systems have been continuously improved to cope with increasingly difficult issues and advances in computing technology. One example is the rise of sampling-based planners, which made difficult planning issues easier to solve. As a result, problems that were previously thought difficult can now be addressed, and evendynamical constraints can be overcome. The ongoing modifications and study in path planning are aimed at achieving robotic systems' fullautonomy. By relying solely on path planning approaches, this goal has not been fully realized. The majority of path-planning algorithms work well in simulations and laboratory robots, but real- world robots operate in unknown surroundings and interact with other agents whose motion is often unpredictable and whose conduct can be uncooperative. Real robots have inherent kinematical and dynamical (kinodynamical) constraints that make autonomous collision-free motion impossible in particular circumstances. This research demonstrates the implementation, testing, and comparison of two path-planning algorithms for autonomous navigation of a vehicle/rover, namely rapidly-exploring random trees (RRT) and second probabilistic roadmap (PRM). Using random samples from the search space, an RRT generates a tree rooted at the beginning configuration. As each sample is drawn, a link is made between it and the state closest to it in the tree. This results in the adding of the new state to the tree if the link is viable (goes wholly acrossfree space and obeys all constraints). The main idea underlying PRM, on the other hand, is to pick random samples from the robot's configuration space, test them to see whether they are in the free space, and then use a local planner to connect these configurations to other adjacent configurations.The beginning and goal configurations are brought in, and the resulting graph is subjected to a graph search algorithm in order to find a path between them. To assess the performance of the recommended approaches, simulations and experiments are carried out.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55041/ijsrem25441"
+    },
+    {
+        "id": 30113,
+        "title": "Path planning algorithms in the autonomous driving system: A comprehensive review",
+        "authors": "Mohamed Reda, Ahmed Onsy, Amira Y. Haikal, Ali Ghanbari",
+        "published": "2024-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104630"
+    },
+    {
+        "id": 30114,
+        "title": "Review of Research Status of Autonomous Mobile Robot Environment Recognition and Path Planning Algorithms",
+        "authors": "",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "The convergence of Industry 4.0 and the challenges posed by the COVID-19 pandemic amplify the growth prospects and market reach of autonomous mobile robots. This paper elucidates the current research landscape and forward-looking trajectory concerning perception systems for autonomous mobile robots. It advocates a future-oriented development path grounded in the utilization of vision sensors and multi-sensor configurations to enhance environmental recognition. Addressing the imperative of bolstering environmental discernment in intricate settings remains a priority. An emerging area of interest pertains to terrain prediction algorithms. The ensuing section deliberates upon the merits and demerits intrinsic to distinct robot path planning algorithms. These algorithms can be categorized into global path planning algorithms, entrusted with charting optimal overarching courses, and local path planning algorithms, designed to navigate impediments and effect localized route refinements. Envisioning the future, the maturation of robot path planning algorithms is poised to embrace multi-algorithm collaborative applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55057/ijbtm.2023.5.3.33"
+    },
+    {
+        "id": 30115,
+        "title": "Energy efficient path planning for autonomous ground vehicles with ackermann steering",
+        "authors": "Haojie Zhang, Yudong Zhang, Chuankai Liu, Zuoyu Zhang",
+        "published": "2023-4",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104366"
+    },
+    {
+        "id": 30116,
+        "title": "Path Planning Algorithm for Long-Range Autonomous Underwater Vehicles Based on Environmental Features",
+        "authors": "Daxiong Ji, Huifang Cheng",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wrcsara60131.2023.10261855"
+    },
+    {
+        "id": 30117,
+        "title": "The fusion-based Path Planning for Near Seabed Autonomous Underwater Vehicles",
+        "authors": "Tianlong Yang, Yanhui Wei, Yongkang Hou, Tian Yu",
+        "published": "2023-8-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icma57826.2023.10216089"
+    },
+    {
+        "id": 30118,
+        "title": "Research on Multi-robot Material Picking and Autonomous Path Planning System in Industrial Environment",
+        "authors": "Zhiyao Jiang",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda56825.2023.10090823"
+    },
+    {
+        "id": 30119,
+        "title": "Dynamic Path-Planning and Charging Optimization for Autonomous Electric Vehicles in Transportation Networks",
+        "authors": "Qinghua Tang, Demin Li, Yihong Zhang, Xuemin Chen",
+        "published": "2023-4-27",
+        "citations": 2,
+        "abstract": "With the growing popularity of autonomous electric vehicles (AEVs), optimizing their path-planning and charging strategy has become a critical research area. However, the dynamic nature of transport networks presents a significant challenge when ensuring their efficient operation. The use of vehicle-to-everything (V2X) communication in vehicular ad hoc networks (VANETs) has been proposed to tackle this challenge. However, establishing efficient communication and optimizing dynamic paths with charging selection remain complex problems. In this paper, we propose a joint push–pull communication mode to obtain real-time traffic conditions and charging infrastructure information (i.e., charging stations and energy segments). We also analyze the selection of relay vehicles in multi-hop communication routing, considering factors such as link stability, vehicle distance, and reputation values. Furthermore, we formulate a dynamic optimization problem based on real-time information to minimize travel and charging costs. Our proposed algorithm enables AEVs to obtain charging services from charging stations and conduct dynamic wireless charging via energy segments. We present a dynamic real-time A* algorithm to solve the path-optimization problem and a dynamic real-time charging selection algorithm based on dynamic path optimization when the state of charge is lower than the charging threshold. Extensive simulations demonstrate that the proposed joint push-pull communication mode can provide vehicles the up-to-date information and the developed optimization algorithms effectively reduce travel and charging costs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13095476"
+    },
+    {
+        "id": 30120,
+        "title": "Optimized Path Planning and Control for Autonomous Surface Vehicles using B-Splines and Nonlinear Model Predictive Control",
+        "authors": "Shahab Shokouhi, Bingxian Mu, May-Win Thein",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/oceans52994.2023.10337066"
+    },
+    {
+        "id": 30121,
+        "title": "AUTOPILOT: An Advanced Perception, Localization and Path Planning Techniques for Autonomous Vehicles using YOLOv7 and MiDaS",
+        "authors": "Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacta58201.2023.10393218"
+    },
+    {
+        "id": 30122,
+        "title": "Comparative research on path planning algorithms for autonomous mobile robots based on ROS",
+        "authors": "Siyu Wang",
+        "published": "2024-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3014664"
+    },
+    {
+        "id": 30123,
+        "title": "IAPF-RRT*: An Efficient Iterative Optimization Path Planning Algorithm for Autonomous Vehicles",
+        "authors": "Menglun Su, Chao Wei, Jibin Hu, Qing Huang, Mengjie Zhang, Zhong Kang",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icus58632.2023.10318467"
+    },
+    {
+        "id": 30124,
+        "title": "3D Path Planning of Autonomous Underwater Vehicles Using a Rapidly-exploring Random Trees Algorithm",
+        "authors": "Ali Arifi, Julien Lepagnot, Soufiene Bouallègue, Laetitia Jourdan",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaige58321.2023.10346490"
+    },
+    {
+        "id": 30125,
+        "title": "Optimal Path Planning for Autonomous Vehicles Using Artificial Potential Field Algorithm",
+        "authors": "Giseo Park, Mooryong Choi",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12239-023-0102-x"
+    },
+    {
+        "id": 30126,
+        "title": "New advances in path planning and tracking control technology for autonomous underwater vehicles",
+        "authors": "Ning Sun",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3009278"
+    },
+    {
+        "id": 30127,
+        "title": "A Systematic Literature Review (SLR) on Autonomous Path Planning of Unmanned Aerial Vehicles",
+        "authors": "Anees ul Husnain, Norrima Mokhtar, Noraisyah Mohamed Shah, Mahidzal Dahari, Masahiro Iwahashi",
+        "published": "2023-2-8",
+        "citations": 7,
+        "abstract": "UAVs have been contributing substantially to multi-disciplinary research and around 70% of the articles have been published in just about the last five years, with an exponential increase. Primarily, while exploring the literature from the scientific databases for various aspects within the autonomous UAV path planning, such as type and configuration of UAVs, the complexity of their environments or workspaces, choices of path generating algorithms, nature of solutions and efficacy of the generated paths, necessitates an increased number of search keywords as a prerequisite. However, the addition of more and more keywords might as well curtail some conducive and worthwhile search results in the same pursuit. This article presents a Systematic Literature Review (SLR) for 20 useful parameters, organized into six distinct categories that researchers and industry practitioners usually consider. In this work, Web of Science (WOS) was selected to search the primary studies based on three keywords: “Autonomous” + “Path Planning” + “UAV” and following the exclusion and inclusion criteria defined within the SLR methodology, 90 primary studies were considered. Through literature synthesis, a unique perspective to see through the literature is established in terms of characteristic research sectors for UAVs. Moreover, open research challenges from recent studies and state-of-the-art contributions to address them were highlighted. It was also discovered that the autonomy of UAVs and the extent of their mission complexities go hand-in-hand, and the benchmark to define a fully autonomous UAV is an arbitral goal yet to be achieved. To further this quest, the study cites two key models to measure a drone’s autonomy and offers a novel complexity matrix to measure the extent of a drone’s autonomy. Additionally, since preliminary-level researchers often look for technical means to assess their ideas, the technologies used in academic research are also tabulated with references.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7020118"
+    },
+    {
+        "id": 30128,
+        "title": "Research on parallel parking path planning and tracking control of unmanned vehicles",
+        "authors": "Jianping Gao, Wenjian Chai, Yanfeng Wu",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": " Aiming at the problems of discontinuous curvature of the planned path, difficulty in finding the optimal reference path and high control accuracy requirements in tracking control for unmanned vehicles in the process of parallel parking, an optimal reference path planning method based on arc line and multi-objective optimization function and a path tracking control strategy based on nonlinear model predictive control are proposed. Firstly, the upper and lower boundaries of the exercisable area are obtained by the tangent of the arc and the straight line, and the multi-objective optimization function is designed to obtain the optimal arc-line combination, and the optimal reference path is obtained by polynomial curve fitting. Secondly, a path-following controller is designed using nonlinear model predictive control. Finally, a comparative analysis is carried out in MATLAB/Simulink and Carsim with the controller based on pure tracking design. The results show that the optimal reference path curvature obtained by the proposed method is continuous without sudden change, and the designed tracking controller has better tracking accuracy. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/17483026231164932"
+    },
+    {
+        "id": 30129,
+        "title": "Comparison of A* and D* Algorithms for 3D Path Planning of Unmanned Aerial Vehicles",
+        "authors": "Samah Chattaoui, Raja Jarray, Soufiene Bouallègue",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaige58321.2023.10346511"
+    },
+    {
+        "id": 30130,
+        "title": "Path Planning for Autonomous Driving with Curvature-considered Quadratic Optimization",
+        "authors": "Ziang Zhang, Ziyi Zou, Xiang Li, Mingyi Wang, Yixu Wang, Xiaoqing Guan, You Wang, Guang Li",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186766"
+    },
+    {
+        "id": 30131,
+        "title": "A path planning method for unmanned autonomous vehicles based on Improved A<sup>*</sup> algorithm",
+        "authors": "Gaoyang Xie, Yanan Li, Liqing Fang, Xujun Su",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmtim58873.2023.10246725"
+    },
+    {
+        "id": 30132,
+        "title": "Optimizing Path Planning for Smart Vehicles: A Comprehensive Review of Metaheuristic Algorithms",
+        "authors": "Osinachi Mbah, Qasim Zeeshan",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56578/jemse020405"
+    },
+    {
+        "id": 30133,
+        "title": "The Implementation of A* Algorithm for Global Path Planning in Autonomous Vehicles",
+        "authors": "Rida Ayu Arfianti, Bambang Lelono Widjiantoro, Katherin Indriawati, M. P. Shervind Maharani",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icamimia60881.2023.10427962"
+    },
+    {
+        "id": 30134,
+        "title": "Spline-Based Dynamic Object Handling in Autonomous Vehicles: A Model-Based Path Planning Algorithm",
+        "authors": "Aliki Stefanopoulou, Socratis Gkelios, Athanasios Ch. Kapoutsis, Elias B. Kosmatopoulos, Yiannis S. Boutalis",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/med59994.2023.10185762"
+    },
+    {
+        "id": 30135,
+        "title": "Bio-Inspired Optimization-Based Path Planning Algorithms in Unmanned Aerial Vehicles: A Survey",
+        "authors": "Sabitri Poudel, Muhammad Yeasir Arafat, Sangman Moh",
+        "published": "2023-3-12",
+        "citations": 17,
+        "abstract": "Advancements in electronics and software have enabled the rapid development of unmanned aerial vehicles (UAVs) and UAV-assisted applications. Although the mobility of UAVs allows for flexible deployment of networks, it introduces challenges regarding throughput, delay, cost, and energy. Therefore, path planning is an important aspect of UAV communications. Bio-inspired algorithms rely on the inspiration and principles of the biological evolution of nature to achieve robust survival techniques. However, the issues have many nonlinear constraints, which pose a number of problems such as time restrictions and high dimensionality. Recent trends tend to employ bio-inspired optimization algorithms, which are a potential method for handling difficult optimization problems, to address the issues associated with standard optimization algorithms. Focusing on these points, we investigate various bio-inspired algorithms for UAV path planning over the past decade. To the best of our knowledge, no survey on existing bio-inspired algorithms for UAV path planning has been reported in the literature. In this study, we investigate the prevailing bio-inspired algorithms extensively from the perspective of key features, working principles, advantages, and limitations. Subsequently, path planning algorithms are compared with each other in terms of their major features, characteristics, and performance factors. Furthermore, the challenges and future research trends in UAV path planning are summarized and discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23063051"
+    },
+    {
+        "id": 30136,
+        "title": "Innovative differential evolution algorithm with double-layer coding for autonomous underwater vehicles path planning in complex environments",
+        "authors": "Jingkun Fan, Liangdong Qu",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2024.117806"
+    },
+    {
+        "id": 30137,
+        "title": "Path Planning for Intelligent autonomous vehicles in container terminals based on dynamic traffic flow assignment",
+        "authors": "Yu Zhang, Lihua Luo",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictis60134.2023.10243942"
+    },
+    {
+        "id": 30138,
+        "title": "Unlocking the Ocean 6G: A Review of Path-Planning Techniques for Maritime Data Harvesting Assisted by Autonomous Marine Vehicles",
+        "authors": "Liang Zhao, Yong Bai",
+        "published": "2024-1-8",
+        "citations": 3,
+        "abstract": "Seamless integration of both terrestrial and non-terrestrial networks is crucial to providing full-dimensional wireless and ubiquitous coverage, particularly catering to those engaged in marine activities. Compared to terrestrial networks, wireless communications in the marine domain are still not satisfactory for ubiquitous connectivity. Featuring agile maneuverability and strong adaptive capability, autonomous marine vehicles (AMVs) play a pivotal role in enhancing communication coverage by relaying or collecting data. However, path planning for maritime data harvesting is one of the most critical issues to enhance transmission efficiency while ensuring safe sailing for AMVs; yet it has rarely been discussed under this context. This paper provides a comprehensive and holistic overview of path-planning techniques custom-tailored for the purpose of maritime data collection. Specifically, we commence with a general portrayal of fundamental models, including system architectures, problem formulations, objective functions, and associated constraints. Subsequently, we summarize the various algorithms, methodologies, platforms, tools, coding environments, and their practical implementations for addressing these models. Furthermore, we delve into the burgeoning applications of path planning in the realm of maritime data harvesting and illuminate potential avenues for upcoming research endeavors. We believe that future research may focus on developing techniques to adapt more intricate and uncertain scenarios, such as sensor failures, inaccurate state estimations, complete modeling of communication channels, ocean dynamics, and application of heterogeneous systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/jmse12010126"
+    },
+    {
+        "id": 30139,
+        "title": "Enhancing Autonomous Vehicles: An Experimental Analysis of Path Planning and Decision-Making Processes through Simulink-Based Architecture",
+        "authors": "Ângelo Morgado, Catarina Gonçalves, Nuno Pombo",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aict59525.2023.10313190"
+    },
+    {
+        "id": 30140,
+        "title": "Research on Path Planning and Path Tracking Control of Autonomous Vehicles Based on Improved APF and SMC",
+        "authors": "Yong Zhang, Kangting Liu, Feng Gao, Fengkui Zhao",
+        "published": "2023-9-15",
+        "citations": 3,
+        "abstract": "Path planning and tracking control is an essential part of autonomous vehicle research. In terms of path planning, the artificial potential field (APF) algorithm has attracted much attention due to its completeness. However, it has many limitations, such as local minima, unreachable targets, and inadequate safety. This study proposes an improved APF algorithm that addresses these issues. Firstly, a repulsion field action area is designed to consider the velocity of the nearest obstacle. Secondly, a road repulsion field is introduced to ensure the safety of the vehicle while driving. Thirdly, the distance factor between the target point and the virtual sub-target point is established to facilitate smooth driving and parking. Fourthly, a velocity repulsion field is created to avoid collisions. Finally, these repulsive fields are merged to derive a new formula, which facilitates the planning of a route that aligns with the structured road. After path planning, a cubic B-spline path optimization method is proposed to optimize the path obtained using the improved APF algorithm. In terms of path tracking, an improved sliding mode controller is designed. This controller integrates lateral and heading errors, improves the sliding mode function, and enhances the accuracy of path tracking. The MATLAB platform is used to verify the effectiveness of the improved APF algorithm. The results demonstrate that it effectively plans a path that considers car kinematics, resulting in smaller and more continuous heading angles and curvatures compared with general APF planning. In a tracking control experiment conducted on the Carsim–Simulink platform, the lateral error of the vehicle is controlled within 0.06 m at both high and low speeds, and the yaw angle error is controlled within 0.3 rad. These results validate the traceability of the improved APF method proposed in this study and the high tracking accuracy of the controller.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23187918"
+    },
+    {
+        "id": 30141,
+        "title": "A Survey on Path Planning for Autonomous Ground Vehicles in Unstructured Environments",
+        "authors": "Nan Wang, Xiang Li, Kanghua Zhang, Jixin Wang, Dongxuan Xie",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "Autonomous driving in unstructured environments is crucial for various applications, including agriculture, military, and mining. However, research in unstructured environments significantly lags behind that in structured environments, mainly due to the challenges posed by harsh environmental conditions and the intricate interactions between vehicles and terrains. This article first categorizes unstructured path planning into hierarchical and end-to-end approaches and then the special parts compared to structured path planning are emphatically reviewed, such as terrain traversability analysis, cost estimation, and terrain-dependent constraints. This article offers a comprehensive review of the relevant factors, vehicle–terrain interactions, and methods of terrain traversability analysis. The estimation methods of safety cost, energy cost, and comfort cost are also emphatically summarized. Moreover, the constraints caused by the limits of terrains and vehicles are discussed. The applications of algorithms in recent articles for path planners are reviewed. Finally, crucial areas requiring further research are analyzed in unstructured path planning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines12010031"
+    },
+    {
+        "id": 30142,
+        "title": "Path Inference based on Voronoi Graph for Unmanned Maritime Vehicles",
+        "authors": "Xin Xu",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104616"
+    },
+    {
+        "id": 30143,
+        "title": "An Efficient Surrogate Modeling Method for Reliability-Based Global Path Planning of Off-Road Autonomous Ground Vehicles",
+        "authors": "Jianhua Yin, Zhen Hu, Zissimos P. Mourelatos, David Gorsich, Amandeep Singh, Seth Tau",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "Abstract\nThe off-road autonomous ground vehicle operation is challenging because of the complex and highly uncertain working environment they operate in. This brings risks to their mission success. Physics-based global path planning combining physics-informed surrogate modeling with path planning is recently employed to address this issue by ensuring a reliability to complete the mission. However, the current two-stage methods require a relatively high computational cost to obtain the reliability map undermining the practicability for real-life applications. To decrease the computational cost, this study proposes an efficient surrogate modeling framework for physics-based path planning under uncertainty. The proposed method couples adaptive surrogate modeling with path planning sequentially through several iterations of path planning and path verification. Instead of obtaining an accurate reliability map for the whole target area in the two-stage approach, the proposed method only refines the map in the vicinity of the path identified, thereby reducing the computational cost. The final path is determined if the path verification is successful; i.e. the specified mission reliability for the path is met. The presented case study demonstrates that the proposed method can significantly reduce the number of surrogate refinement iterations and reduce the computational cost for physics-based path planning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-117348"
+    },
+    {
+        "id": 30144,
+        "title": "Enhancing Passenger Comfort and Safeness in the Local Path Planning Strategy for Autonomous Road Vehicles Operating in New Capital City of Indonesia",
+        "authors": "Muhammad Aria Rajasa Pohan, Jana Utama",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icspis59665.2023.10402743"
+    },
+    {
+        "id": 30145,
+        "title": "An Overview of Machine Learning Techniques in Local Path Planning for Autonomous Underwater Vehicles",
+        "authors": "Chinonso E. Okereke, Mohd Murtadha Mohamad, Nur Haliza Abdul Wahab, Olakunle Elijah, Abdulaziz Al-Nahari, S. Zaleha.H",
+        "published": "2023",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3249966"
+    },
+    {
+        "id": 30146,
+        "title": "Zeroth-Order Optimization Attacks on Deep Reinforcement Learning-Based Lane Changing Algorithms for Autonomous Vehicles",
+        "authors": "Dayu Zhang, Nasser Azad, Sebastian Fischmeister, Stefan Marksteiner",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012187700003543"
+    },
+    {
+        "id": 30147,
+        "title": "Mobile robot’s path-planning and path-tracking in static and dynamic environments: Dynamic programming approach",
+        "authors": "Arash Marashian, Abolhassan Razminia",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104592"
+    },
+    {
+        "id": 30148,
+        "title": "Application of 3-D Path Planning and Obstacle Avoidance Algorithms on Obstacle-Overcoming Robots",
+        "authors": "Huang Yuanhao, Huang Shi, Wang Hao, Meng Ruifeng",
+        "published": "2023-6-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecbios57802.2023.10218652"
+    },
+    {
+        "id": 30149,
+        "title": "On the Intersection of Computational Geometry Algorithms with Mobile Robot Path Planning",
+        "authors": "Ehsan Latif, Ramviyas Parasuraman",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "In the mathematical discipline of computational geometry (CG), practical algorithms for resolving geometric input and output issues are designed, analyzed, and put into practice. It is sometimes used to refer to pattern recognition and to define the solid modeling methods for manipulating curves and surfaces. CG is a rich field encompassing theories to solve complex optimization problems, such as path planning for mobile robot systems and extension to distributed multi-robot systems. This brief review discusses the fundamentals of CG and its application in solving well-known automated path-planning problems in single- and multi-robot systems. We also discuss three winning algorithms from the CG-SHOP (Computational Geometry: Solving Hard Optimization Problems) 2021 competition to evidence the practicality of CG in multi-robotic systems. We also mention some open problems at the intersection of CG and robotics. This review provides insights into the potential use of CG in robotics and future research directions at their intersection.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16110498"
+    },
+    {
+        "id": 30150,
+        "title": "RDT-RRT: Real-time double-tree rapidly-exploring random tree path planning for autonomous vehicles",
+        "authors": "Jiaxing Yu, Ci Chen, Aliasghar Arab, Jingang Yi, Xiaofei Pei, Xuexun Guo",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122510"
+    },
+    {
+        "id": 30151,
+        "title": "Research on obstacle avoidance optimization and path planning of autonomous vehicles based on attention mechanism combined with multimodal information decision-making thoughts of robots",
+        "authors": "Xuejin Wu, Guangming Wang, Nachuan Shen",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "With the development of machine perception and multimodal information decision-making techniques, autonomous driving technology has become a crucial area of advancement in the transportation industry. The optimization of vehicle navigation, path planning, and obstacle avoidance tasks is of paramount importance. In this study, we explore the use of attention mechanisms in a end-to-end architecture for optimizing obstacle avoidance and path planning in autonomous driving vehicles. We position our research within the broader context of robotics, emphasizing the fusion of information and decision-making capabilities. The introduction of attention mechanisms enables vehicles to perceive the environment more accurately by focusing on important information and making informed decisions in complex scenarios. By inputting multimodal information, such as images and LiDAR data, into the attention mechanism module, the system can automatically learn and weigh crucial environmental features, thereby placing greater emphasis on key information during obstacle avoidance decisions. Additionally, we leverage the end-to-end architecture and draw from classical theories and algorithms in the field of robotics to enhance the perception and decision-making abilities of autonomous driving vehicles. Furthermore, we address the optimization of path planning using attention mechanisms. We transform the vehicle's navigation task into a sequential decision-making problem and employ LSTM (Long Short-Term Memory) models to handle dynamic navigation in varying environments. By applying attention mechanisms to weigh key points along the navigation path, the vehicle can flexibly select the optimal route and dynamically adjust it based on real-time conditions. Finally, we conducted extensive experimental evaluations and software experiments on the proposed end-to-end architecture on real road datasets. The method effectively avoids obstacles, adheres to traffic rules, and achieves stable, safe, and efficient autonomous driving in diverse road scenarios. This research provides an effective solution for optimizing obstacle avoidance and path planning in the field of autonomous driving. Moreover, it contributes to the advancement and practical applications of multimodal information fusion in navigation, localization, and human-robot interaction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnbot.2023.1269447"
+    },
+    {
+        "id": 30152,
+        "title": "Path Planning of Self-driving Vehicles Combining Ant Colony and DWA Algorithms in Complex Dense Obstacles",
+        "authors": "Jing Niu, Chuanyan Shen, Jiapei Wei, Shifeng Liu, Cheng Lin",
+        "published": "2024-4-5",
+        "citations": 0,
+        "abstract": "INTRODUCTION: To solve the problems of low quality and weak global optimization of the DWA algorithm, especially the problems of unreasonable path planning and the inability to give consideration to speed and driving safety in the process of vehicles passing through dense obstacles, this paper proposed an improved DWA algorithm based on ant colony algorithm.\r\nOBJECTIVES: The traffic capacity and computing efficiency of Self-driving Vehicles in complex dense obstacles can be greatly improved.\r\nMETHODS: Through the obstacle density and distance information obtained by high-precision sensors on the vehicle, the speed objective function is updating in real time by using ant colony algorithm. And the maneuverability and safety performance of vehicles passing through are considering by the way.\r\nRESULTS: The experimental results show that this method can obviously improve the vehicle's traveling ability and uneven path planning in the case of dense obstacles, and the number of iterations of the algorithm is reduced by more than 16%.\r\nCONCLUSION: The improved DWA algorithm integrated with the ant colony algorithm can effectively improve the operating efficiency of the algorithm, reduce the distance the car must go around outside the obstacles, and improve Car driving safety. The effectiveness and universality of the improved DWA algorithm were verified through experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4108/ew.5651"
+    },
+    {
+        "id": 30153,
+        "title": "The Dynamic Path Planning of Autonomous Vehicles on Icy and Snowy Roads Based on an Improved Artificial Potential Field",
+        "authors": "Shuangzhu Zhai, Yulong Pei",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "The crucial dynamic path planning of autonomous vehicles is achieved via obstacle avoidance path planning technology. The reduction of the tire adhesion coefficient on icy and snowy roads (ISRs) increases the difficulty of autonomous vehicles’ control. In this paper, the driving characteristics of vehicles on ISRs are established, and the artificial potential field function is introduced to avoid collision risk when planning a path. A dynamic path planning algorithm for autonomous vehicles based on the artificial potential field (APF) is established. The adjustment factor is added to the gravitational potential field, and a judgment coefficient is added to the repulsive potential field to improve the artificial potential field function, based on the low adhesion of vehicles on ISRs. Moreover, a path with a continuous curvature is generated to achieve the driving comfort and driving safety of the planned path via trajectory smoothing. By establishing the Carsim/Simulink co-simulation platform, the effectiveness of dynamic path planning for autonomous vehicles under different algorithms and different obstacle models is compared. The results show that the improved APF algorithm has an obvious effect on the smoothness of the path and the reduction of the curvature mutation and can generate a safe and efficient path on icy and snowy roads. The dynamic obstacle avoidance of the improved APF algorithm improves the pre-judgment accuracy of the collision risk assessment of autonomous vehicles and shows the superiority of the improved algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su152115377"
+    },
+    {
+        "id": 30154,
+        "title": "Path Planning and Trajectory Tracking for Autonomous Obstacle Avoidance in Automated Guided Vehicles at Automated Terminals",
+        "authors": "Junkai Feng, Yongsheng Yang, Haichao Zhang, Shu Sun, Bowei Xu",
+        "published": "2023-12-30",
+        "citations": 1,
+        "abstract": "During the operation of automated guided vehicles (AGVs) at automated terminals, the occurrence of conflicts and deadlocks will undoubtedly increase the ineffective waiting time of AGVs, so there is an urgent need for path planning and tracking control schemes for autonomous obstacle avoidance in AGVs. An innovative AGV autonomous obstacle avoidance path planning and trajectory tracking control scheme is proposed, effectively considering static and dynamic obstacles. This involves establishing three potential fields that reflect the influences of obstacles, lane lines, and velocities. These potential fields are incorporated into an optimized model predictive control (MPC) cost function, leveraging artificial potential fields to ensure effective obstacle avoidance. To enhance this system’s capability, a fuzzy logic system is designed to dynamically adjust the weight coefficients of the hybrid artificial potential field model predictive controller, strengthening the autonomous obstacle avoidance capabilities of the AGVs. The tracking control scheme includes a fuzzy linear quadratic regulator based on a fuzzy logic system, a dynamics model as a lateral controller, and a PI controller as a longitudinal tracker to track the pre-set trajectory and speed autonomously. Multi-scenario simulation tests demonstrate the effectiveness and rationality of our autonomous obstacle-avoidance control scheme.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/axioms13010027"
+    },
+    {
+        "id": 30155,
+        "title": "Fields2Cover: An Open-Source Coverage Path Planning Library for Unmanned Agricultural Vehicles",
+        "authors": "Gonzalo Mier, João Valente, Sytze de Bruin",
+        "published": "2023-4",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3248439"
+    },
+    {
+        "id": 30156,
+        "title": "Variable Trust Setting for Safe and Ethical Algorithms for Navigation of Autonomous Vehicles (C-NAV) on a Highway",
+        "authors": "Joshua D’Souza, Jisun Kim, James Pickering",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012235900003543"
+    },
+    {
+        "id": 30157,
+        "title": "An Overview of Motion-Planning Algorithms for Autonomous Ground\n                    Vehicles with Various Applications",
+        "authors": "Ajitesh Gautam, Yuping He, Xianke Lin",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "<div>With the rapid development and the growing deployment of autonomous ground\n                    vehicles (AGVs) worldwide, there is an increasing need to design reliable,\n                    efficient, robust, and scalable motion-planning algorithms. These algorithms are\n                    crucial for fulfilling the desired goals of safety, comfort, efficiency, and\n                    accessibility. To design optimal motion-planning algorithms, it is beneficial to\n                    explore existing techniques and make improvements by addressing the limitations\n                    of associated techniques, utilizing hybrid algorithms, or developing novel\n                    strategies. This article categorizes and overviews numerous motion-planning\n                    algorithms for AGVs, shedding light on their strengths and weaknesses for a\n                    comprehensive understanding. For various applications of AGVs, such as urban and\n                    off-road autonomous driving, the features of driving conditions and vehicle\n                    kinodynamics are outlined, and sample-tailored motion-planning algorithms built\n                    upon relevant canonical techniques are briefly introduced. As a result of the\n                    overview, future research efforts on motion-planning techniques are identified\n                    and discussed.</div>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4271/10-08-02-0011"
+    },
+    {
+        "id": 30158,
+        "title": "Hybrid Path Planning Using a Bionic-Inspired Optimization Algorithm for Autonomous Underwater Vehicles",
+        "authors": "Sarada Prasanna Sahoo, Bikramaditya Das, Bibhuti Bhusan Pati, Fausto Pedro Garcia Marquez, Isaac Segovia Ramirez",
+        "published": "2023-3-31",
+        "citations": 7,
+        "abstract": "This research presents a hybrid approach for path planning of autonomous underwater vehicles (AUVs). During path planning, static obstacles affect the desired path and path distance which result in collision penalties. In this study, the merits of grey wolf optimization (GWO) and genetic algorithm (GA) of bionic-inspired algorithms are integrated to implement a hybrid grey wolf optimization (HGWO) algorithm which allows AUVs to reach their destination safely in an obstacle rich environment. The proposed hybrid path planner is employed for path planning of a single AUV based on collision avoidance. It uses the GA as an initialization generator to overcome the random initialization problem of GWO. In this research, the total cost is considered to be a function of path distance and collision penalties. Further, the application of the proposed hybrid path planner is extended for cooperative path planning of AUVs while avoiding collision using communication consensus. Simulation results are obtained for both a single AUV and multiple AUV path planning in a 3D obstacle rich environment using a proportional-derivative controller. The Kruskal–Wallis test is employed for a non-parametric statistical analysis, where the independence of the results given by the algorithms is demonstrated.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/jmse11040761"
+    },
+    {
+        "id": 30159,
+        "title": "Learning-Based Path Planning and Predictive Control for Autonomous Vehicles With Low-Cost Positioning",
+        "authors": "Ziheng Qi, Tong Wang, Jian Chen, Deepak Narang, Yuexuan Wang, Huayong Yang",
+        "published": "2023-2",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2022.3146972"
+    },
+    {
+        "id": 30160,
+        "title": "Path Planning Based on Deep Reinforcement Learning for Autonomous Underwater Vehicles Under Ocean Current Disturbance",
+        "authors": "Zhenzhong Chu, Fulun Wang, Tingjun Lei, Chaomin Luo",
+        "published": "2023-1",
+        "citations": 49,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2022.3153352"
+    },
+    {
+        "id": 30161,
+        "title": "A novel collaborative path planning algorithm for 3-wheel omnidirectional Autonomous Mobile Robot",
+        "authors": "Meltem Eyuboglu, Gokhan Atali",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104527"
+    },
+    {
+        "id": 30162,
+        "title": "Autonomous hierarchy creation for computationally feasible near-optimal path planning in large environments",
+        "authors": "Jelena Gregorić, Marija Seder, Ivan Petrović",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104584"
+    },
+    {
+        "id": 30163,
+        "title": "Path Planning for Perpendicular Parking of Large Articulated Vehicles Based on Qualitative Kinematics and Geometric Methods",
+        "authors": "Inhwan Han",
+        "published": "2023-7-19",
+        "citations": 2,
+        "abstract": "Since large articulated vehicles have uncertainties in trailer articulation angle as well as dynamic complexity, it is not easy to accurately establish a reliable motion plan. In this paper, two geometric path plans constructed based on the empirical rules of driving experts are presented so that articulated vehicles can automatically perform perpendicular parking on a reverse path. By analyzing the empirical parking methods of professional drivers, these path plans were constructed by appropriately combining several standardized simple basic motions to facilitate implementation in real vehicles. In addition, the path plans included appropriate complementary motions to effectively respond to uncertainties arising from articulation angles, etc. The complementary motions developed in this study are based on the results of qualitative analysis on the behavior of articulated vehicles. The usefulness of the proposed articulated vehicle parking method has been proven through hundreds of experimental tests using a scaled model automated vehicle.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/vehicles5030048"
+    },
+    {
+        "id": 30164,
+        "title": "Safe deep learning-based global path planning using a fast collision-free path generator",
+        "authors": "Shirin Chehelgami, Erfan Ashtari, Mohammad Amin Basiri, Mehdi Tale Masouleh, Ahmad Kalhor",
+        "published": "2023-5",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104384"
+    },
+    {
+        "id": 30165,
+        "title": "Autonomous navigation and adaptive path planning in dynamic greenhouse environments utilizing improved LeGO‐LOAM and OpenPlanner algorithms",
+        "authors": "Xingbo Yao, Yuhao Bai, Baohua Zhang, Dahua Xu, Guangzheng Cao, Yifan Bian",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "AbstractThe autonomous navigation of greenhouse robots depends on precise mapping, accurate localization information and a robust path planning strategy. However, the complex agricultural environment introduces significant challenges to robot perception and path planning. In this study, a hardware system designed exclusively for greenhouse agricultural environments is presented, employing multi‐sensor fusion to diminish the interference of complex environmental conditions. Furthermore, a robust autonomous navigation framework based on the improved lightweight and ground optimized lidar odometry and mapping (LeGO‐LOAM) and OpenPlanner has been proposed. In the perception phase, a relocalization module is integrated into the LeGO‐LOAM framework. Comprising two key steps—map matching and filtering optimization, it ensures a more precise pose relocalization. During the path planning process, ground structure and plant density are considered in our Enhanced OpenPlanner. Additionally, a hysteresis strategy is introduced to enhance the stability of system state transitions. The performance of the navigation system in this paper was evaluated in several complex greenhouse environments. The integration of the relocalization module significantly decreases the absolute pose error (APE) in the perception process, resulting in more accurate pose estimation and relocalization information. In our experiments, the APE was reduced by at least 24.42%. Moreover, our enhanced OpenPlanner exhibits the capability to plan safer trajectories and achieve more stable state transitions in the experiments. The results underscore the safety and robustness of our proposed approach, highlighting its promising application prospects in autonomous navigation for agricultural robots.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22315"
+    },
+    {
+        "id": 30166,
+        "title": "Integrated Path-Tracking and Combined-Slip Force Controls of Autonomous Ground Vehicles with Safe Constraints Adaptation",
+        "authors": "Ehsan Hashemi, Amir Khajepour",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2024.3367815"
+    },
+    {
+        "id": 30167,
+        "title": "Optimization of an Autonomous Mobile Robot Path Planning Based on Improved Genetic Algorithms",
+        "authors": "N. S. Abu, W. M. Bukhari, M. H. Adli, Alfian Ma’arif",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "Mobile robots are intended to operate in a variety of environments, and they need to be able to navigate and travel around obstacles, such as objects and barriers. In order to guarantee that the robot will not come into contact with any obstacles or other objects during its movement, algorithms for path planning have been demonstrated. The basic goal while constructing a route is to find the fastest and smoothest route between the starting point and the destination. This article describes route planning using the improvised genetic algorithm with the Bezier Curve (GA-BZ). This study carried out two main experiments, each using a 20x20 random grid map model with varying percentages of obstacles (5%, 15%, and 30% in the first experiment, and 25% and 50% in the second). In the initial experiments, the population (PN), generation (GN), and mutation rate (MR) of genetic algorithms (GA) will be altered to the following values: (PN = 100, 125, 150, or 200; GN = 100, 125, 150; and MR = 0.1, 0.3, 0.5, 0.7) respectively. The goal is to evaluate the effectiveness of AMR in terms of travel distance (m), total time (s), and total cost (RM) in comparison to traditional GA and GA-BZ. The second experiment examined robot performance utilising GA, GA-BZ, Simulated Annealing (SA), A-Star (A*), and Dijkstra's Algorithms (DA) for path distance (m), time travel (s), and fare trip (RM). The simulation results are analysed, compared, and explained. In conclusion, the project is summarised.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18196/jrc.v4i4.19306"
+    },
+    {
+        "id": 30168,
+        "title": "Machine Vision Algorithms for a Scaled Autonomous Vehicles",
+        "authors": "Christian Camilo Torres Castillo, Enrique Estupiñan Escalante",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccac58200.2023.10333586"
+    },
+    {
+        "id": 30169,
+        "title": "Motion Planning for Dynamic Scenario Vehicles in Autonomous-Driving Simulations",
+        "authors": "Yanfeng Li",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2022.3233822"
+    },
+    {
+        "id": 30170,
+        "title": "A Context-Aware Path Forecasting Method for Connected Autonomous Vehicles",
+        "authors": "Mozhgan Nasr Azadani, Azzedine Boukerche",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10279653"
+    },
+    {
+        "id": 30171,
+        "title": "Research on Path Planning and Trajectory Tracking of Autonomous Vehicle",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/autml.2023.040207"
+    },
+    {
+        "id": 30172,
+        "title": "Generation of Achievable Three-Dimensional Trajectories for Autonomous Wheeled Vehicles via Tracking Differentiators",
+        "authors": "Svetlana A. Krasnova, Julia G. Kokunko, Sergey A. Kochetkov, Victor A. Utkin",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "Planning an achievable trajectory for a mobile robot usually consists of two steps: (i) finding a path in the form of a sequence of discrete waypoints and (ii) transforming this sequence into a continuous and smooth curve. To solve the second problem, this paper proposes algorithms for automatic dynamic smoothing of the primary path using a tracking differentiator with sigmoid corrective actions. Algorithms for setting the gains of the differentiator are developed, considering a set of design constraints on velocity, acceleration, and jerk for various mobile robots. When tracking a non-smooth primary path, the output variables of the differentiator generate smooth trajectories implemented by a mechanical plant. It is shown that the tracking differentiator with a different number of blocks also generates derivatives of the smoothed trajectory of any required order, taking into account the given constraints. Unlike standard analytical methods of polynomial smoothing, the proposed algorithm has a low computational load. It is easily implemented in real time on the on-board computer. In addition, simple methods for modeling a safety corridor are proposed, taking into account the dimensions of the vehicle when planning a polygon with stationary obstacles. Confirming results of numerical simulation of the developed algorithms are presented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16090405"
+    },
+    {
+        "id": 30173,
+        "title": "Improved Artificial Potential Field Method for Motion-Planning of Autonomous Vehicles",
+        "authors": "Pulkit Paliwal",
+        "published": "2023-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iconat57137.2023.10080077"
+    },
+    {
+        "id": 30174,
+        "title": "Speed-Adaptive Model-Free Path-Tracking Control for Autonomous Vehicles: Analysis and Design",
+        "authors": "Marcos Moreno-Gonzalez, Antonio Artuñedo, Jorge Villagra, Cédric Join, Michel Fliess",
+        "published": "2023-6-13",
+        "citations": 6,
+        "abstract": "One of the challenges of autonomous driving is to increase the number of situations in which an intelligent vehicle can continue to operate without human intervention. This requires path-tracking control to keep the vehicle stable while following the road, regardless of the shape of the road or the longitudinal speed at which it is moving. In this work, a control strategy framed in the Model-Free Control paradigm is presented to control the lateral vehicle dynamics in a decoupled control architecture. This strategy is designed to guide the vehicle through trajectories with diverse dynamic constraints and over a wide speed range. A design method for this control strategy is proposed, and metrics for trajectory tracking quality, system stability, and passenger comfort are applied to evaluate the controller’s performance. Finally, simulation and real-world tests show that the developed strategy is able to track realistic trajectories with a high degree of accuracy, safety, and comfort.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/vehicles5020038"
+    },
+    {
+        "id": 30175,
+        "title": "Path Planning for Autonomous Drones: Challenges and Future Directions",
+        "authors": "Gopi Gugan, Anwar Haque",
+        "published": "2023-2-28",
+        "citations": 11,
+        "abstract": "Unmanned aerial vehicles (UAV), or drones, have gained a lot of popularity over the last decade. The use of autonomous drones appears to be a viable and low-cost solution to problems in many applications. Path planning capabilities are essential for autonomous control systems. An autonomous drone must be able to rapidly compute feasible and energy-efficient paths to avoid collisions. In this study, we review two key aspects of path planning: environmental representation and path generation techniques. Common path planning techniques are analyzed, and their key limitations are highlighted. Finally, we review thirty-five highly cited publications to identify current trends in drone path planning research. We then use these results to identify factors that need to be addressed in future studies in order to develop a practical path planner for autonomous drones.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7030169"
+    },
+    {
+        "id": 30176,
+        "title": "A Review of Intelligence-Based Vehicles Path Planning",
+        "authors": "Bing Hao, JianShuo Zhao, Qi Wang",
+        "published": "2023-7-28",
+        "citations": 0,
+        "abstract": "<div>Numerous researchers are committed to finding solutions to the path planning\n                    problem of intelligence-based vehicles. How to select the appropriate algorithm\n                    for path planning has always been the topic of scholars. To analyze the\n                    advantages of existing path planning algorithms, the intelligence-based vehicle\n                    path planning algorithms are classified into conventional path planning methods,\n                    intelligent path planning methods, and reinforcement learning (RL) path planning\n                    methods. The currently popular RL path planning techniques are classified into\n                    two categories: model based and model free, which are more suitable for complex\n                    unknown environments. Model-based learning contains a policy iterative method\n                    and value iterative method. Model-free learning contains a time-difference\n                    algorithm, Q-learning algorithm, state-action-reward-state-action (SARSA)\n                    algorithm, and Monte Carlo (MC) algorithm. Then, the path planning method based\n                    on deep RL is introduced based on the shortcomings of RL in intelligence-based\n                    vehicle path planning. Finally, we discuss the trend of path planning for\n                    vehicles.</div>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4271/02-16-04-0022"
+    },
+    {
+        "id": 30177,
+        "title": "Planning Speed Mode of All-Wheel Drive Autonomous Vehicles Considering Complete Constraint Set",
+        "authors": "Maksym Diachuk, Said M. Easa",
+        "published": "2024-1-12",
+        "citations": 0,
+        "abstract": "The study aims to improve the technique of motion planning for all-wheel drive (AWD) autonomous vehicles (AVs) by including torque vectoring (TV) models and extended physical constraints. Four schemes for realizing the TV drive were considered: with braking internal wheels, using a rear-axle sport differential (SD), with braking front internal wheel and rear-axle SD, and with SDs on both axles. The mathematical model combines 2.5D vehicle dynamics model and a simplified drivetrain model with the self-locking central differential. The inverse approach implies optimizing the distribution of kinematic parameters by imposing a set of constraints. The optimization procedure uses the sequential quadratic programming (SQP) technique for the nonlinear constrained minimization. The Gaussian N-point quadrature scheme provides numerical integration. The distribution of control parameters (torque, braking moments, SDs’ friction moment) is performed by evaluating linear and nonlinear algebraic equations inside of optimization. The technique proposed demonstrates an essential difference between forecasts built with a pure kinematic model and those considering the vehicle’s drive/control features. Therefore, this approach contributes to the predictive accuracy and widening model properties by increasing the number of references, including for actuators and mechanisms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/vehicles6010008"
+    },
+    {
+        "id": 30178,
+        "title": "Roundabout Trajectory Planning: Integrating Human Driving Models for Autonomous Vehicles",
+        "authors": "Salvatore Leonardi, Natalia Distefano",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "This research investigates the utilization of human driving models in autonomous vehicles, particularly in scenarios with minimal or no interactions with other vehicles. Human driving models provide valuable insights into driver behavior and play a crucial role in shaping the behavior of autonomous vehicles, enhancing their performance and user experience. The primary focus of this study is the creation of a planning model for autonomous vehicles when navigating roundabouts in the absence of traffic. This model seeks to emulate human driving behavior, ensuring predictability, safety, the optimization of traffic flow, and adaptation to various roundabout geometries. To achieve this, the research introduces a trajectory model that takes into account geometric attributes and speed variations within roundabouts. The model is calibrated using empirical data and generalizes parameters through statistical regression methodologies. In particular, speed profile modeling is evaluated for its consistency in creating plans that faithfully replicate human driving behavior in roundabouts. While the study presents a promising approach, it acknowledges limitations related to the model’s reliance on geometric attributes and its inability to account for external factors like weather conditions. This research underscores the importance of bridging the gap between theoretical research and practical application, with the aim of enhancing safety and the overall user experience in real-world driving scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su152316288"
+    },
+    {
+        "id": 30179,
+        "title": "Robust H∞ Path Tracking Control of Autonomous Ground Vehicles with Multiple Missing Measurements",
+        "authors": "Mohammad Hedayati, Mohammad Rokonuzzaman, Navid Mohajer",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/anzcc59813.2024.10432875"
+    },
+    {
+        "id": 30180,
+        "title": "Path Planning for Autonomous Vehicles in Unknown Dynamic Environment Based on Deep Reinforcement Learning",
+        "authors": "Hui Hu, Yuge Wang, Wenjie Tong, Jiao Zhao, Yulei Gu",
+        "published": "2023-9-6",
+        "citations": 3,
+        "abstract": "Autonomous vehicles can reduce labor power during cargo transportation, and then improve transportation efficiency, for example, the automated guided vehicle (AGV) in the warehouse can improve the operation efficiency. To overcome the limitations of traditional path planning algorithms in unknown environments, such as reliance on high-precision maps, lack of generalization ability, and obstacle avoidance capability, this study focuses on investigating the Deep Q-Network and its derivative algorithm to enhance network and algorithm structures. A new algorithm named APF-D3QNPER is proposed, which combines the action output method of artificial potential field (APF) with the Dueling Double Deep Q Network algorithm, and experience sample rewards are considered in the experience playback portion of the traditional Deep Reinforcement Learning (DRL) algorithm, which enhances the convergence ability of the traditional DRL algorithm. A long short-term memory (LSTM) network is added to the state feature extraction network part to improve its adaptability in unknown environments and enhance its spatiotemporal sensitivity to the environment. The APF-D3QNPER algorithm is compared with mainstream deep reinforcement learning algorithms and traditional path planning algorithms using a robot operating system and the Gazebo simulation platform by conducting experiments. The results demonstrate that the APF-D3QNPER algorithm exhibits excellent generalization abilities in the simulation environment, and the convergence speed, the loss value, the path planning time, and the path planning length of the APF-D3QNPER algorithm are all less than for other algorithms in diverse scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app131810056"
+    },
+    {
+        "id": 30181,
+        "title": "Research on Path Recognition Algorithm for Autonomous Driving Model Vehicles",
+        "authors": "Qi Peichao, Wang Peng, Cai Luyang, Zhou Ling",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsip57908.2023.10270892"
+    },
+    {
+        "id": 30182,
+        "title": "Path planning method for unmanned aerial vehicles",
+        "authors": "Wenkai Guan",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "Unmanned aerial vehicles, commonly known as drones, have seen tremendous growth and wide-spread use in the last ten years, largely because of unheard-of technological improvements. It is currently one of the most significant study subjects since it involves many different areas of robotics and control systems. This study aims to thoroughly assess the most popular approaches for unmanned aerial vehicle path planning, while also outlining their benefits, drawbacks, potential uses, and overall effectiveness. The objective is to present the academic community with a summary of the existing environment and the development direction of future unmanned aerial vehicle path planning algorithms to encourage more research for quickly evolving planning of intelligent systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/33/20230279"
+    },
+    {
+        "id": 30183,
+        "title": "Rough Terrain Path Planning for Autonomous Ground Robot",
+        "authors": "Xuan-Phat Truong, Seong Hyeon Hong",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-2764"
+    },
+    {
+        "id": 30184,
+        "title": "Informed sampling space driven robot informative path planning",
+        "authors": "Pradeep Chintam, Tingjun Lei, Batuhan Osmanoglu, Ying Wang, Chaomin Luo",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104656"
+    },
+    {
+        "id": 30185,
+        "title": "Path Following of Autonomous Vehicles with an Optimized Brain\n                    Emotional Learning–Based Intelligent Controller",
+        "authors": "Siyou Tao, Zhiyang Ju, Hui Zhang, Xiaochen Dong, Jiancheng Chen",
+        "published": "2023-1-16",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4271/12-06-02-0015"
+    },
+    {
+        "id": 30186,
+        "title": "Review of Autonomous Path Planning Algorithms for Mobile Robots",
+        "authors": "Hongwei Qin, Shiliang Shao, Ting Wang, Xiaotian Yu, Yi Jiang, Zonghan Cao",
+        "published": "2023-3-18",
+        "citations": 41,
+        "abstract": "Mobile robots, including ground robots, underwater robots, and unmanned aerial vehicles, play an increasingly important role in people’s work and lives. Path planning and obstacle avoidance are the core technologies for achieving autonomy in mobile robots, and they will determine the application prospects of mobile robots. This paper introduces path planning and obstacle avoidance methods for mobile robots to provide a reference for researchers in this field. In addition, it comprehensively summarizes the recent progress and breakthroughs of mobile robots in the field of path planning and discusses future directions worthy of research in this field. We focus on the path planning algorithm of a mobile robot. We divide the path planning methods of mobile robots into the following categories: graph-based search, heuristic intelligence, local obstacle avoidance, artificial intelligence, sampling-based, planner-based, constraint problem satisfaction-based, and other algorithms. In addition, we review a path planning algorithm for multi-robot systems and different robots. We describe the basic principles of each method and highlight the most relevant studies. We also provide an in-depth discussion and comparison of path planning algorithms. Finally, we propose potential research directions in this field that are worth studying in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7030211"
+    },
+    {
+        "id": 30187,
+        "title": "Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches",
+        "authors": "Noor Ul Ain Tahir, Zuping Zhang, Muhammad Asim, Junhong Chen, Mohammed ELAffendi",
+        "published": "2024-2-26",
+        "citations": 0,
+        "abstract": "Enhancing the environmental perception of autonomous vehicles (AVs) in intelligent transportation systems requires computer vision technology to be effective in detecting objects and obstacles, particularly in adverse weather conditions. Adverse weather circumstances present serious difficulties for object-detecting systems, which are essential to contemporary safety procedures, infrastructure for monitoring, and intelligent transportation. AVs primarily depend on image processing algorithms that utilize a wide range of onboard visual sensors for guidance and decisionmaking. Ensuring the consistent identification of critical elements such as vehicles, pedestrians, and road lanes, even in adverse weather, is a paramount objective. This paper not only provides a comprehensive review of the literature on object detection (OD) under adverse weather conditions but also delves into the ever-evolving realm of the architecture of AVs, challenges for automated vehicles in adverse weather, the basic structure of OD, and explores the landscape of traditional and deep learning (DL) approaches for OD within the realm of AVs. These approaches are essential for advancing the capabilities of AVs in recognizing and responding to objects in their surroundings. This paper further investigates previous research that has employed both traditional and DL methodologies for the detection of vehicles, pedestrians, and road lanes, effectively linking these approaches with the evolving field of AVs. Moreover, this paper offers an in-depth analysis of the datasets commonly employed in AV research, with a specific focus on the detection of key elements in various environmental conditions, and then summarizes the evaluation matrix. We expect that this review paper will help scholars to gain a better understanding of this area of research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17030103"
+    },
+    {
+        "id": 30188,
+        "title": "Evaluation of popular path planning algorithms",
+        "authors": "Mehmet Kara",
+        "published": "2024-3-23",
+        "citations": 0,
+        "abstract": "The navigation of mobile robots is a key element of autonomous systems, which allows robots to move effectively and securely in changing environments with greater autonomy and precision. This study aims to provide researchers with a comprehensive guide for selecting the best path-planning methods for their particular projects. We evaluate some popular algorithms that are regularly used in mobile robot navigation, in order to demonstrate their specifications and determine where they are most effective. For example, one algorithm is used to model the problem as a standard graph, and another algorithm is found to be the most suitable for highly dynamic and highly dimensional environments, due to its robust path-planning capabilities and efficient route construction. We also filter high-performance algorithms in terms of computational complexity, accuracy, and robustness. In conclusion, this study provides valuable information on its individual strengths and weaknesses, helping robotics and engineers make informed decisions when selecting the most appropriate algorithm for their specific applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/ijet.2023.147699"
+    },
+    {
+        "id": 30189,
+        "title": "Path planning and image classification algorithms for glass cleaning robots based on hybrid path planning and convolutional neural networks",
+        "authors": "Zequn Li, Xiao Han, Xiao Wang, Yu Li, Xingyu Zhu",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cipae60493.2023.00090"
+    },
+    {
+        "id": 30190,
+        "title": "How to combine issues related to autonomous vehicles - a proposal with a literature review",
+        "authors": "Julian Balcerek, Paweł Pawłowski",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/spa59660.2023.10274452"
+    },
+    {
+        "id": 30191,
+        "title": "Path Planning of Autonomous Underwater Vehicle Departing from Port Based on Improved Deep Q-Network",
+        "authors": "Chen Li, Meng Joo Er, Tianhe Liu, Guohong Jiang",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icoias61634.2023.00043"
+    },
+    {
+        "id": 30192,
+        "title": "Dynamic Collaborative Path Planning for Remote Assistance of Highly-Automated Vehicles",
+        "authors": "Domagoj Majstorović, Frank Diermeyer",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iavvc57316.2023.10328097"
+    },
+    {
+        "id": 30193,
+        "title": "Path Planning of Autonomous Driving Based on Quadratic Optimization",
+        "authors": "Yi Wei, Haiqin Xu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccar57134.2023.10151702"
+    },
+    {
+        "id": 30194,
+        "title": "On XYZ-Motion Planning for Autonomous Vehicles with Active Suspension Systems",
+        "authors": "Yu Jiang, William Graves, Marco Giovanardi, Zackary Anderson",
+        "published": "2023-5-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156511"
+    },
+    {
+        "id": 30195,
+        "title": "Lane-changing Trajectory Planning for Autonomous Vehicles on Structured Roads",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3901/jme.2023.24.271"
+    },
+    {
+        "id": 30196,
+        "title": "Clothoid Curve-based Emergency-Stopping Path Planning with Adaptive Potential Field for Autonomous Vehicles",
+        "authors": "Pengfei Lin, Ehsan Javanmardi, Manabu Tsukada",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tvt.2024.3380745"
+    },
+    {
+        "id": 30197,
+        "title": "Path Planning for Autonomous Underwater Vehicles Based on an Improved Artificial Jellyfish Search Algorithm in Multi-Obstacle Ocean Current Environment",
+        "authors": "Shuxuan Guo, Mingzhi Chen, Wen Pang",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3257025"
+    },
+    {
+        "id": 30198,
+        "title": "Tropical cyclone tracking for autonomous underwater vehicles based on forecast path correction model",
+        "authors": "Fangzheng Qi, Xiwen Ma, Jingsong Yang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2024.116768"
+    },
+    {
+        "id": 30199,
+        "title": "Path following and status consistency control of autonomous vehicles",
+        "authors": "Shenghui GUO, Shijian LUO, Darong HUANG, Jiafeng SONG",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1360/ssi-2022-0424"
+    },
+    {
+        "id": 30200,
+        "title": "A Time-Saving Path Planning Scheme for Autonomous Underwater Vehicles With Complex Underwater Conditions",
+        "authors": "Jiachen Yang, Jiaming Huo, Meng Xi, Jingyi He, Zhengjian Li, Houbing Herbert Song",
+        "published": "2023-1-15",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jiot.2022.3205685"
+    },
+    {
+        "id": 30201,
+        "title": "Performance-Based Autonomous Real-Time Path Planning, Navigation, and Control",
+        "authors": "Brian R. Taylor, David Schmidt",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-1592"
+    },
+    {
+        "id": 30202,
+        "title": "Local Path Planning via Improved Fuzzy and Q(λ)-learning Algorithms for the Mobile Robot",
+        "authors": "Li Song Li Song, Da-Zi Li Li Song",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "\n                        <p>With the complexity of the robot operating environment increases, there becoming higher demands on the optimal path planning for robots. Most of the path planning is performed in known environments and static models. However, there are still challenges for robots to perform path planning in complex unknown or dynamic environments, which will suffer from deadlock problems and obstacle avoidance failures. Reinforcement learning (RL) can help fuzzy algorithm to optimize the strategy. However, the difficulty of designing the rewards in RL makes the algorithm require a large number of samples to learn the strategy, resulting in computational complexity. To solve these problems, a new local path planning based on the improved fuzzy and Q(&lambda;)-learning algorithms is proposed, aiming to plan the shortest path and avoid obstacles. For solving the problems of breaking through and avoiding obstacles, a fuzzy controller is designed.  The distance of nearest obstacle in front of the mobile robot and the distance between the obstacles in the two breakout directions are regarded as the two inputs for this controller. And the two fuzzy quantities of the mobile robot&rsquo;s running angle and the safe step length are outputted. In the path planning, the Q(&lambda;)-learning algorithm are used to optimize the weights of the running angle and the safe step, obtaining a more accurate robot position and speeding up path planning efficiency. Furthermore, to solve the overlap problems among the starting point, end point, and obstacles, a safer running environment is designed considering radiuses of these objects. Besides, the mobile robot breakout scheme and sustainable obstacle avoidance scheme are designed to solve the deadlock problem and &ldquo;large obstacle&rdquo; avoidance problem, respectively. Simulation results in the sparse and complex operating environment show that our proposed algorithm can plan a relatively optimal and safe path, improving the success rate of path planning.</p>\n<p>&nbsp;</p>\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53106/199115992023103405021"
+    },
+    {
+        "id": 30203,
+        "title": "Overview of Path Planning Algorithms",
+        "authors": "Hongbo Liu, Shuai Zhang, Xiaodong Yang",
+        "published": "2024-10",
+        "citations": 0,
+        "abstract": "\nBackground:\nPath-planning algorithms are widely used in robotics, vehicles, UAVs, carrier-based aircraft towing vehicles, etc. Using these algorithms, an optimal path with safe obstacle avoidance and high efficiency can be planned. In recent years, path-planning algorithms have received more and more attention from scholars at home and abroad.\n\n\nObjective:\nIn order to promote the application and development of path-planning algorithms, an in-depth analysis of the current development status of path-planning algorithms was presented. The most widely used and representative algorithms in several representative results were extracted, and the characteristics and advantages and disadvantages of each algorithm were analyzed and elaborated in detail for the readers' reference.\n\n\nMethods:\nThe existing path-planning algorithms were classified, and a brief overview of each traditional algorithm was given, followed by an in-depth study of the improved algorithms to summarize the advantages and disadvantages of each type of algorithm. Finally, based on these research results, the future development trend of path-planning algorithms was projected.\n\n\nResults:\nThrough the research and analysis of the path-planning algorithm, it was found that the path- planning algorithm before the improvement had the problems of an unsmooth path, low computational efficiency, a slow response time, the inability to safely avoid obstacles, etc. After the improvement and optimization of the path-planning algorithm, the performance was greatly improved.\n\n\nConclusion:\nAfter research and analysis, it was found that multi-algorithm fusion had great potential for development in path-planning compared to the application and optimization of a single algorithm. In addition, further research is needed in the areas of algorithm adaptability, fusion, intelligent algorithms, and extending the range of algorithmic applications.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/1872212118666230828150857"
+    },
+    {
+        "id": 30204,
+        "title": "Robust adaptive event-triggered path following control for autonomous surface vehicles in shallow waters",
+        "authors": "Qiang Guo, Xianku Zhang, Xu Han",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.115571"
+    },
+    {
+        "id": 30205,
+        "title": "The Research Progress of Path Planning Algorithms",
+        "authors": "Feifan Huang",
+        "published": "2023-8-8",
+        "citations": 0,
+        "abstract": "At present, path-planning for mobile robots is a hot problem. In the previous scientific research, A*, Dijkstra, rapidly-exploring random tree (RRT) and many other algorithms have appeared. To provide a clearer understanding of these algorithms, this article organized the idea and development of Q-learning, A* algorithm, ant colony algorithm, RRT algorithm and Dijkstra algorithm. According to the time order, this article researched several applications of the five algorithms respectively. Besides, optimization of the five algorithms in the past few years were listed. There are also examples of combined algorithms, which have better efficiency compared to using one algorithm alone. By analyzing the five algorithm and their optimization, the common problem and solution was found. The common problem of these algorithms is that a shorter and smoother path needs to be solved and the convergence speed needs accelerating. At present, the main solution can be divided into two aspects. One is to improve the algorithm itself, and the other is to combine different algorithms. In the future, more kinds of combined algorithms will emerge, and a better solution of path planning can be obtained to improve efficiency and reduce energy cost.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v63i.10879"
+    },
+    {
+        "id": 30206,
+        "title": "Designing of Synthetic Aperture Radar Based Control Algorithms for the Autonomous Vehicles",
+        "authors": "Dr.Udutha Rajender",
+        "published": "2023-1-10",
+        "citations": 0,
+        "abstract": "Abstract— The rise in popularity of self-driving cars can be attributed to advancements in modern technology. The surge in interest in self-driving cars has led to an increase in their development, but this has also brought some challenges. A large part of the solution to these problems is satellite remote sensing and GIS technology. Optical data remote sensing technologies alone have limited potential for long-term forest management sustainability. Active Synthetic Aperture Radar (SAR) remote sensing technology has grown in importance in forestry because of its uniqueness and rapid advancement. For example, SAR has an all-weather capability that is sun light independent, cloud and rain-resistant, and highly penetrating. SAR and optical, SAR and LiDAR, optical and LiDAR remote sensing have all been shown to be useful for accurate forest AGB estimation when compared to single sensor data. These types of sensor data integrations are becoming increasingly common. This is made possible by the fact that the scattering process heavily influences the polarimetric signatures that can be observed. The inclusion of SAR polarimetry improves classification and segmentation quality compared to conventional SAR with a single channel. Decomposition products' outputs have been classified. Keywords— Synthetic Aperture Radar, LiDAR, Autonomous Vehicles,",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55041/ijsrem17444"
+    },
+    {
+        "id": 30207,
+        "title": "Adaptive fixed-time path following cooperative control for autonomous surface vehicles based on path-dependent constraints",
+        "authors": "Qiang Guo, Xianku Zhang, Daocheng Ma",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apor.2023.103826"
+    },
+    {
+        "id": 30208,
+        "title": "Collision Avoidance Path Planning for Vehicles Combining MPC and CACC Controllers",
+        "authors": "Qingde Zeng, Bin Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3281912"
+    },
+    {
+        "id": 30209,
+        "title": "Coordinated Lateral Stability Control of Autonomous Vehicles Based on State Estimation and Path Tracking",
+        "authors": "Jun Liu, Haohao Liu, Jingjing Wang, Honggang Gu",
+        "published": "2023-2-26",
+        "citations": 2,
+        "abstract": "This paper proposes a coordinated control system of autonomous vehicles’ lateral stability based on state estimation and path tracking, which contributes to enhancing path-tracking capability and at the same time maintaining the stability of autonomous vehicles driving in complex and dynamic road conditions. First, an extended Kalman filter observer is designed to estimate the vehicle parameters. Then, based on the single-point preview theory, an adaptive preview time model is built for the accuracy of path tracking. When designing the direct yaw-moment controller, sideslip angle and yaw rate, two critical parameters for lateral dynamic stability control are considered, and the single-wheel braking method is utilized to reasonably distribute the additional yaw moment to a certain wheel. To make full use of active front steering and direct yaw-moment control, the critical steering angle of the front wheel is determined, and a switching function is formulated. Co-simulation shows that the suggested coordinated control system can effectively strengthen maneuvering stability and simultaneously satisfy tracking accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11030328"
+    },
+    {
+        "id": 30210,
+        "title": "An Autonomous Dynamic Navigation Model for Shortest Path Routing of Electrical Vehicles",
+        "authors": "Ahmad Nahar Quttoum, Suhieb Nawaf",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mass58611.2023.00087"
+    },
+    {
+        "id": 30211,
+        "title": "Improved DQN for Dynamic Obstacle Avoidance and Ship Path Planning",
+        "authors": "Xiao Yang, Qilong Han",
+        "published": "2023-4-25",
+        "citations": 0,
+        "abstract": "The avoidance of collisions among ships requires addressing various factors such as perception, decision-making, and control. These factors pose many challenges for autonomous collision avoidance. Traditional collision avoidance methods have encountered significant difficulties when used in autonomous collision avoidance. They are challenged to cope with the changing environment and harsh motion constraints. In the actual navigation of ships, it is necessary to carry out decision-making and control under the constraints of ship manipulation and risk. From the implementation process perspective, it is a typical sequential anthropomorphic decision-making problem. In order to solve the sequential decision problem, this paper improves DQN by setting a priority for sample collection and adopting non-uniform sampling, and it is applied to realize the intelligent collision avoidance of ships. It also verifies the performance of the algorithm in the simulation environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16050220"
+    },
+    {
+        "id": 30212,
+        "title": "Multiple Agent Path Planning for Autonomous Area Monitoring",
+        "authors": "David Lindgren",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242578"
+    },
+    {
+        "id": 30213,
+        "title": "R2: Optimal vector-based and any-angle 2D path planning with non-convex obstacles",
+        "authors": "Yan Kai Lai, Prahlad Vadakkepat, Cheng Xiang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104606"
+    },
+    {
+        "id": 30214,
+        "title": "The Research of Different Algorithms on Path Planning",
+        "authors": "Jianing Fan",
+        "published": "2023-4-1",
+        "citations": 0,
+        "abstract": "The evolution of modern existence is inextricably linked to path planning. Road transportation, urban road planning, and travel plans for people's travel requirements must all be carried out and assured on the basis of effective route planning implementation. However, the path planning algorithms are not ideal. This work brings together three contemporary popular algorithms: classical algorithms, graphics algorithms, and bionics algorithms. The article presents and evaluates their functions, as well as summarizes the benefits and drawbacks of each method. Following that, the experimental data from each algorithm is gathered and compared. The performance difference between different types of methods is analyzed. The collected results are integrated with the prior analysis to form a summary. Finally, the paper summarizes and looks forward to the full text.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v39i.6643"
+    },
+    {
+        "id": 30215,
+        "title": "Reliable Global Path Planning of Off-Road Autonomous Ground Vehicles Under Uncertain Terrain Conditions",
+        "authors": "Jianhua Yin, Lingxi Li, Zissimos P. Mourelatos, Yixuan Liu, David Gorsich, Amandeep Singh, Seth Tau, Zhen Hu",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2023.3317833"
+    },
+    {
+        "id": 30216,
+        "title": "Interaction-Aware Motion Planning for Autonomous Vehicles With Multi-Modal Obstacle Uncertainty Predictions",
+        "authors": "Jian Zhou, Björn Olofsson, Erik Frisk",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2023.3314709"
+    },
+    {
+        "id": 30217,
+        "title": "Simulating Path-Planning Algorithms used in RoboCup SSL Competitions",
+        "authors": "Ahmed Alharbi, Hamza Alsharif, Abdulrahman Javaid",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4657750"
+    },
+    {
+        "id": 30218,
+        "title": "An Enhanced Performance Analysis of Evolutionary Algorithms for Automated Design of Autonomous Vehicles",
+        "authors": "Pawan Bhambu, Ganesh D, Vaishali Singh",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470612"
+    },
+    {
+        "id": 30219,
+        "title": "Potential Field-Based Path Planning with Interactive Speed Optimization for Autonomous Vehicles",
+        "authors": "Pengfei Lin, Ehsan Javanmardi, Jin Nakazato, Manabu Tsukada",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iecon51785.2023.10311890"
+    },
+    {
+        "id": 30220,
+        "title": "Path Tracking and Obstacle Avoidance Control Using Deep Reinforcement Learning for Autonomous Vehicles",
+        "authors": "Fahad Shafique, Tariq Naeem, Ashfaq Hussain Farooqi",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icosst60641.2023.10414199"
+    },
+    {
+        "id": 30221,
+        "title": "An adaptive path tracking controller for autonomous vehicles based on the Pure Pursuit algorithm",
+        "authors": "Yuze Wang, Dongguang Li, Xing Zhuang, Yue Wang, Siyuan Yang, Ruoyu Wu",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10452053"
+    },
+    {
+        "id": 30222,
+        "title": "Simulating Path-Planning Algorithms used in RoboCup SSL Competitions",
+        "authors": "Ahmed Alharbi, Hamza Alsharif, Abdulrahman Javaid",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4694589"
+    },
+    {
+        "id": 30223,
+        "title": "Nature-inspired Path Planning for Robot Swarms",
+        "authors": "Zhiheng Quan",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda56825.2023.10090591"
+    },
+    {
+        "id": 30224,
+        "title": "Analysis and Prospect of Existing UAV Path Planning Algorithms",
+        "authors": "Hongtao Zhang",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/peeec60561.2023.00064"
+    },
+    {
+        "id": 30225,
+        "title": "A Review on UAV Path Planning Optimization based on Motion Planning Algorithms: Collision Avoidance and Challenges",
+        "authors": "Pamarthi Venkatasivarambabu, Richa Agrawal",
+        "published": "2023-6-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icces57224.2023.10192737"
+    },
+    {
+        "id": 30226,
+        "title": "Efficient Path Planning and Tracking Control of Autonomous Vehicles in Park Scenarios Based on Sparrow Search and Stepwise Prediction",
+        "authors": "Haotian Zhang, Yali Yu, Yonggang Liu, Fengyang Jiang, Zheng Chen, Yuanjian Zhang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tte.2024.3361853"
+    },
+    {
+        "id": 30227,
+        "title": "Autonomous Parking System for Vehicles: Trajectory Planning and Control",
+        "authors": "Alexandre MALFOY, Syed Ali AJWAD, Majda BOUDKHIL",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsc58660.2023.10449732"
+    },
+    {
+        "id": 30228,
+        "title": "Interactive Decision-making and Planning for Autonomous Driving Vehicles in Unsignalized Intersection",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3901/jme.2023.14.202"
+    },
+    {
+        "id": 30229,
+        "title": "Path Planning for Unmanned Delivery Vehicles Based on Machine Vision",
+        "authors": "Shuheng Gong",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "With the continuous development of e-commerce, the demand for express delivery services is constantly increasing. The emergence of unmanned express vehicles has perfectly solved the problem of end logistics. This article takes the living area of Hangzhou University of Electronic Science and Technology as an example. Based on the existing unmanned vehicle parking nodes, the greedy algorithm is first used to solve the optimal original path between the starting point and each node of the unmanned vehicle delivery route. Then, combined with machine vision theory, the real-time road conditions are measured through Hough transform and object detection, and the path planning is re carried out. Finally, based on Flexsim, an unmanned express vehicle delivery model for the living area of Hangzhou University of Electronic Science and Technology is established, Compare the efficiency of express delivery before and after machine vision path optimization to determine the degree of optimization in path planning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/ajst.v7i3.13269"
+    },
+    {
+        "id": 30230,
+        "title": "Unmanned Aerial Vehicles Path Planning Algorithm for Angle of Arrival Localization",
+        "authors": "Chenhu Xia, Sheng Wang",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscer58777.2023.00070"
+    },
+    {
+        "id": 30231,
+        "title": "Area-coverage path planning for unmanned aerial vehicles: A Review *",
+        "authors": "Sanjiv Sonawane, Kunwar Pal",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsccc58608.2023.10176527"
+    },
+    {
+        "id": 30232,
+        "title": "Reinforcement Learning-Based Path Planning Approach for Unmanned Arial Vehicles",
+        "authors": "Raja Jarray, Soufiene Bouallègue",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaige58321.2023.10346406"
+    },
+    {
+        "id": 30233,
+        "title": "Driving line-based two-stage path planning in the AGV sorting system",
+        "authors": "Ke Wang, Wei Liang, Huaguang Shi, Jialin Zhang, Qi Wang",
+        "published": "2023-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104505"
+    },
+    {
+        "id": 30234,
+        "title": "3D SAR image reconstruction of ground vehicles using sparse multiple flight path data",
+        "authors": "Paul Sotirelis, Sean Gilmore",
+        "published": "2023-6-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663642"
+    },
+    {
+        "id": 30235,
+        "title": "Study on autonomous vehicles path tracking control based on kinematic decoupling method",
+        "authors": "Lizhe Zheng, Hui Pang, Lei Wang, Zhaonian He",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvci59596.2023.10397165"
+    },
+    {
+        "id": 30236,
+        "title": "Raster map path planning based on intelligent optimization algorithms",
+        "authors": "Meixia Suo, Yongli Zhang, Lili Wang, Xinqi Li",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004876"
+    },
+    {
+        "id": 30237,
+        "title": "Energy-Efficient Lane Changes Planning and Control for Connected Autonomous Vehicles on Urban Roads",
+        "authors": "Eunhyek Joa, Hotae Lee, Eric Yongkeun Choi, Francesco Borrelli",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186574"
+    },
+    {
+        "id": 30238,
+        "title": "A Comprehensive Overview of Control Algorithms, Sensors, Actuators, and Communication Tools of Autonomous All-Terrain Vehicles in Agriculture",
+        "authors": "Hamed Etezadi, Sulaymon Eshkabilov",
+        "published": "2024-1-23",
+        "citations": 0,
+        "abstract": "This review paper discusses the development trends of agricultural autonomous all-terrain vehicles (AATVs) from four cornerstones, such as (1) control strategy and algorithms, (2) sensors, (3) data communication tools and systems, and (4) controllers and actuators, based on 221 papers published in peer-reviewed journals for 1960–2023. The paper highlights a comparative analysis of commonly employed control methods and algorithms by highlighting their advantages and disadvantages. It gives comparative analyses of sensors, data communication tools, actuators, and hardware-embedded controllers. In recent years, many novel developments in AATVs have been made due to advancements in wireless and remote communication, high-speed data processors, sensors, computer vision, and broader applications of AI tools. Technical advancements in fully autonomous control of AATVs remain limited, requiring research into accurate estimation of terrain mechanics, identifying uncertainties, and making fast and accurate decisions, as well as utilizing wireless communication and edge cloud computing. Furthermore, most of the developments are at the research level and have many practical limitations due to terrain and weather conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/agriculture14020163"
+    },
+    {
+        "id": 30239,
+        "title": "Dynamic path planning in autonomous driving",
+        "authors": "Sheng Wen",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Abstract\nWith the development of emerging technologies such as the Internet of Things (IoT), Artificial Intelligence (AI) and fifth-generation cellular network technology (5G), good conditions are provided for the level of automation, providing the necessary assistance to coordinate the environment, planning decisions and path optimisation for self-driving vehicles. This paper briefly outlines and analyses the key technologies required to realize autonomous driving and summarizes the corresponding research results for each part; by considering the operation process of self-driving vehicles, this paper chooses path planning as the focus of research and presents it in the form of a methodology; finally, it concludes with a summary of personal opinions and a discussion of possible future research directions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2649/1/012048"
+    },
+    {
+        "id": 30240,
+        "title": "Genetic Algorithms for Coverage Path Planning using Mobile Robots",
+        "authors": "Denghao Yu",
+        "published": "2023-3-30",
+        "citations": 0,
+        "abstract": "Using the grid method to establish the environmental model, the map is divided into several sub-regions according to the environmental characteristics, and the connection between the sub-regions is established. Next, the Genetic Algorithm encodes all sub-regions, and the base point information between and within each region is established to obtain the optimal coverage sequence. Partial coverage is achieved in each sub-region by means of reciprocating motion, which turns the complete coverage problem into a traveling salesman problem (TSP). Finally, the Genetic Algorithm is used to conduct an experimental simulation to obtain the correlation between the fitness and the number of iterations, and obtain the optimal traversal sequence, which proves that the method is effective and feasible.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v41i.6798"
+    },
+    {
+        "id": 30241,
+        "title": "Efficiency analysis of path-finding algorithms in a 2D grid environment",
+        "authors": "Ch Nirmal Prabhath, M. Kavitha, Kanak Kalita",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "<p>This paper offers a focused overview of pathfinding algorithms, particularly emphasizing Greedy Best First Search (G-BFS) and Rapidly-Exploring Random Trees (RRT). Their performance is evaluated within a 2D grid setting tailored for Unmanned Aerial Vehicles (UAVs). Divided into two main sections, the study first expounds on the theoretical underpinnings of these algorithms, followed by empirical validation. A series of systematic experiments, involving varied 2D grid dimensions and traversal patterns, facilitates a comparative analysis between G-BFS and RRT. Importantly, the real-world implementation of these algorithms in UAV navigation underscores their practicality, illuminating their respective execution times and resource utilization. While G-BFS thrives in straightforward scenarios, RRT, especially RRT*, displays superior capability in navigating more intricate and expansive terrains, albeit with marginally extended execution durations attributed to its explorative nature.</p>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32629/jai.v7i2.1284"
+    },
+    {
+        "id": 30242,
+        "title": "Cascade Control for Path Tracking of Autonomous Robotic Vehicles",
+        "authors": "Vinícius Macedo, Marcelo Alejandro Forte, Gustavo Simão Rodrigues, Elias Dias Rossi Lopes",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.diname2023.din2023-0142"
+    },
+    {
+        "id": 30243,
+        "title": "Region coverage-aware path planning for unmanned aerial vehicles: A systematic review",
+        "authors": "Krishan Kumar, Neeraj Kumar",
+        "published": "2023-8",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.phycom.2023.102073"
+    },
+    {
+        "id": 30244,
+        "title": "Review of Intelligent Ship Path Planning Algorithms",
+        "authors": "Yixuan Song, Xi Cao",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "Intelligent ship route planning has become an important research direction in the field of shipping in recent years. This paper first provides an overview of the basic theory of intelligent ship route planning. Secondly, various intelligent ship route planning algorithms are introduced, including methods based on A* algorithm, artificial potential field algorithm, RRT algorithm, and reinforcement learning. These algorithms analyze information such as ocean environment, predict sea conditions and traffic conditions, and consider ship dynamics and navigation safety constraints to provide efficient and safe navigation routes for ships. Finally, this paper points out the key issues and future development directions in intelligent ship route planning. The continuous innovation and application of intelligent ship route planning algorithms will provide more intelligent and efficient ship transportation services for the shipping industry, promoting the sustainable development of the shipping industry.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56397/fms.2024.02.10"
+    },
+    {
+        "id": 30245,
+        "title": "Three-dimensional Path Planning for Unmanned Ground Vehicles in Complex Building Environments",
+        "authors": "Yuepeng Tang, Quanfu Yu, Guangming Xiong",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icus58632.2023.10318256"
+    },
+    {
+        "id": 30246,
+        "title": "A Survey of A-Star Algorithm Family for Motion Planning of Autonomous Vehicles",
+        "authors": "Pulkit Paliwal",
+        "published": "2023-2-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sceecs57921.2023.10063063"
+    },
+    {
+        "id": 30247,
+        "title": "Genetic Algorithm-Based Path Planning for Autonomous Mobile Robots",
+        "authors": "Areej Alabbadi, Awos Kanan",
+        "published": "2023-5-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jeeit58638.2023.10185855"
+    },
+    {
+        "id": 30248,
+        "title": "Autonomous navigation and path planning for Tiago robot",
+        "authors": "Haorong Li",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004043"
+    },
+    {
+        "id": 30249,
+        "title": "A Reinforcement Learning Based Online Coverage Path Planning Algorithm",
+        "authors": "José Pedro Carvalho, A. Pedro Aguiar",
+        "published": "2023-4-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarsc58346.2023.10129591"
+    },
+    {
+        "id": 30250,
+        "title": "An Overview of Path Planning for Autonomous Robots in Smart Manufacturing",
+        "authors": "Meiling Jiang, Erfu Yang, Gordon Dobie",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icac57885.2023.10275149"
+    },
+    {
+        "id": 30251,
+        "title": "Path Planning for Autonomous Inland Vessels in Complex Harbor Environments",
+        "authors": "Philipp Richard, Achim Wagner, Martin Ruskowski, Peter Regier",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406220"
+    },
+    {
+        "id": 30252,
+        "title": "A Greedy Method for Coverage Path Planning of Autonomous Heterogeneous UAVs",
+        "authors": "Francesco Buccafurri, Francesca Scoleri",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/codit58514.2023.10284075"
+    },
+    {
+        "id": 30253,
+        "title": "Concurrent Path Planning for the End Effector and the Mobile Platform of an Autonomous Mobile Manipulator",
+        "authors": "Rusheng He, Tesheng Hsiao",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cacs60074.2023.10326188"
+    },
+    {
+        "id": 30254,
+        "title": "Trajectory Planning Based on MINVO Basis for Autonomous Vehicles in Lane Change Scenarios",
+        "authors": "Zixuan Fan, Jinxian Wu, Li Dai, Yuanqing Xia",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10239733"
+    },
+    {
+        "id": 30255,
+        "title": "A Polytopic Model-Based Robust Predictive Control Scheme for Path Tracking of Autonomous Vehicles",
+        "authors": "Jinhao Liang, Qingyun Tian, Jiwei Feng, Dawei Pi, Guodong Yin",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2023.3340668"
+    },
+    {
+        "id": 30256,
+        "title": "Area Complete Coverage Path Planning for Offshore Seabed Organisms Fishing Autonomous Underwater Vehicle Based on Improved Whale Optimization Algorithm",
+        "authors": "Han Bao, Yanyan Wang, Haitao Zhu, Dian Wang",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jsen.2024.3371497"
+    },
+    {
+        "id": 30257,
+        "title": "3D traversability analysis and path planning based on mechanical effort for UGVs in forest environments",
+        "authors": "Afonso E. Carvalho, João Filipe Ferreira, David Portugal",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104560"
+    },
+    {
+        "id": 30258,
+        "title": "Drones and Autonomous Vehicles — A New Open-access Journal for Multidisciplinary Research on Autonomous Systems",
+        "authors": "Zhengtao Ding, Haibin Duan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35534/dav.2023.10001"
+    },
+    {
+        "id": 30259,
+        "title": "A comprehensive review of bug algorithms in path planning",
+        "authors": "Keming Liu",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "The bug algorithm family is the well-known navigation algorithm for robots in unknown environments. However, different types of bug algorithms have their own priorities and weaknesses based on different environmental conditions. According to the characteristics of the bug navigation algorithms, the bug algorithm family is mainly divided into 4 parts. In this paper, four types of bug algorithms (original bug algorithm, M-line Bug, Angel Bug and Range Bug) are presented along with typical samples of each type. Each type of algorithm will be thoroughly explained and exemplified, highlighting its unique characteristics and the suitable environmental conditions for each algorithm. By presenting the basic logic behind each algorithm and examining the environmental conditions they are best suited for, this paper aims to provide researchers with a comprehensive understanding of the bug algorithm family. Ultimately, this knowledge will contribute to the advancement of navigation capabilities in robots operating in unknown and challenging environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/33/20230278"
+    },
+    {
+        "id": 30260,
+        "title": "Improved Genetic Algorithms for Mobile Robot Path Planning",
+        "authors": "Rui Zhang, lianShuan Shi, WenXin Xia, LeRong Ma",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaii59460.2023.10497240"
+    },
+    {
+        "id": 30261,
+        "title": "An Overview of different Autonomous Vehicle Algorithms for Sensing and Route Planning",
+        "authors": "B. Govind Sudarshan, Maragatham G",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13052/rp-9788770040723.082"
+    },
+    {
+        "id": 30262,
+        "title": "Visual Local Path Planning Based on Deep Reinforcement Learning",
+        "authors": "Xuanru Shen",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda56825.2023.10090576"
+    },
+    {
+        "id": 30263,
+        "title": "Two Algorithms Based on Iterative Optimization for UAV Path Planning",
+        "authors": "Biao Chen, Shengming Li, Zongyang Lv",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icus58632.2023.10318344"
+    },
+    {
+        "id": 30264,
+        "title": "Cooperative collision avoidance and obstacle avoidance path planning for multiple unmanned underwater vehicles",
+        "authors": "Hongxia Zhang, Senlin Pu, Youjun Sun",
+        "published": "2023-5-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccdc58219.2023.10326829"
+    },
+    {
+        "id": 30265,
+        "title": "Safety-certified Receding-horizon Motion Planning and Containment Control of Autonomous Surface Vehicles via Neurodynamic Optimization",
+        "authors": "Guanghao Lyu, Zhouhua Peng, Dan Wang, Jun Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2024.3372995"
+    },
+    {
+        "id": 30266,
+        "title": "Scenario-Based Decision-Making, Planning and Control for Interaction-Aware Autonomous Driving on Highways",
+        "authors": "Robin Kensbock, Maryam Nezami, Georg Schildbach",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186546"
+    },
+    {
+        "id": 30267,
+        "title": "Path Tracking and Direct Yaw Moment Coordinated Control for Autonomous Vehicles Considering Uncertainties and Disturbances*",
+        "authors": "Shuen Zhao, Maojie Zhao, Wenbin Chen",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvci59596.2023.10397301"
+    },
+    {
+        "id": 30268,
+        "title": "Motion Planning for Autonomous Underwater Vehicles in Near-Seafloor Operations Using State Lattices",
+        "authors": "Håkon Yssen Rørstad, Thomas R. Krogstad, Glenn Bitar",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/oceans52994.2023.10337347"
+    },
+    {
+        "id": 30269,
+        "title": "Dynamic Energy-Efficient Path Planning for Electric Vehicles Using an Enhanced Ant Colony Algorithm",
+        "authors": "",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17559/tv-20230510000618"
+    },
+    {
+        "id": 30270,
+        "title": "Adaptive Surface Connectivity Path Planning Algorithm for Autonomous Navigation",
+        "authors": "Xiangyu Zhou",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26855/jamc.2023.09.007"
+    },
+    {
+        "id": 30271,
+        "title": "Adaptive Control Method for Driverless Cars Considering Probabilistic Graph Path Planning for Intelligent Vehicles",
+        "authors": "Zhen Zhou",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435802"
+    },
+    {
+        "id": 30272,
+        "title": "LiDAR point clouds analysis computer tools for teaching autonomous vehicles perception algorithms",
+        "authors": "Felipe Jiménez, Miguel Clavijo",
+        "published": "2024-2-25",
+        "citations": 0,
+        "abstract": "AbstractThe technological developments behind autonomous vehicles cover several areas and engineers training in this field represents a challenge. The main layers include perception, decision making, and acting. In the first one, different technologies can be used. The processing of the information provided by the sensors must allow successive modules to understand the environment and Laser imaging Detection and Ranging (LiDAR) technology is one of the most promising ones nowadays for this task. It offers great robustness in detection, but the extraction of information from the point cloud involves the development of complex algorithms that could be very time‐consuming if an experimental teaching is intended. This article presents two educational solutions for deepening in perception algorithms using LiDAR for autonomous driving: a closed ad‐hoc computer application for two‐dimensional (2D) LiDAR point cloud processing and an oriented set of commands for three‐dimensional (3D) LiDARs in Matlab. Their use allows main concept exploration in practical sessions with little time consumption and provides students a general overview of the tasks that must be performed by the perception layer in the autonomous vehicles. Furthermore, these tools provide the possibility of organizing different activities in the classroom related to theoretical and experimental issues, and understanding of results because the most tedious tasks are eased.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/cae.22727"
+    },
+    {
+        "id": 30273,
+        "title": "Path Planning of Unmanned Underwater Vehicles Based on Deep Reinforcement Learning Algorithm",
+        "authors": "Yu Wang, Zhenzhong Chu, Yongli Hu",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarm58088.2023.10218902"
+    },
+    {
+        "id": 30274,
+        "title": "On Planning Algorithms for Free-Form Surface Machining Path under Fractal Theory",
+        "authors": "",
+        "published": "2023-4-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17559/tv-20221123025441"
+    },
+    {
+        "id": 30275,
+        "title": "Deontological Ethics for Safe and Ethical Algorithms for Navigation of Autonomous Vehicles (C-NAV) on a Highway",
+        "authors": "James Pickering, Joshua D'Souza",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/codit58514.2023.10284350"
+    },
+    {
+        "id": 30276,
+        "title": "Comparative Analysis of Path Planning Algorithms and Prospects for Practical Application",
+        "authors": "Yihan Ke",
+        "published": "2023-7-4",
+        "citations": 0,
+        "abstract": "Path planning, as an important applications of artificial intelligence technology in the field of intelligent transportation, has a wide range of application prospects in achieving efficient, intelligent, and safe travel. This paper first introduces the importance of path planning technology in the field of transportation, and then discusses the development of path planning from two aspects: traditional methods and new methods based on artificial intelligence. In terms of traditional methods, the principles and advantages and disadvantages of methods such as Dijkstra's algorithm, A* algorithm, and Floyd's algorithm are included. In terms of new methods based on artificial intelligence, the principles and application examples of methods such as genetic algorithms, simulated annealing algorithms, and deep reinforcement learning are included. Finally, the problems existing in path planning field are analyzed, and the future research directions are prospected in order to provide useful references for the development of intelligent transportation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v52i.8889"
+    },
+    {
+        "id": 30277,
+        "title": "Using neural networks to explore path planning algorithms for robots",
+        "authors": "Yepeng Zhu",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "In the introduction section of this paper, the importance of path planning for automatic self-navigation is outlined, along with the structure and basic model of neural networks, as well as numerous practical examples of using neural networks to solve the problem of traffic prediction and autonomous robot navigation. In the method section, the specific formulations and steps of how neural networks can be used to solve the path planning problem are explained in detail. Additionally, a variety of algorithms for solving the path planning problem with neural networks are introduced, and practical experiments are conducted to compare the results of these algorithms in various environments. In the RESULTS section, the characteristics are summarized and explained by comparing the experimental results. In the CONFUSION section, a fundamental outlook on the future of neural networks for solving path-planning problems is provided, as well as the possibility of cooperation between neural networks and other methods for solving path-planning problems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/5/20230645"
+    },
+    {
+        "id": 30278,
+        "title": "Smart Transportation: A Comprehensive Survey on Personalized Path Planning Algorithms",
+        "authors": "C. Saranya, G. Janaki",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmcsi61536.2024.00101"
+    },
+    {
+        "id": 30279,
+        "title": "Path tracking of varying-velocity 4WS autonomous vehicles under tire force friction ellipse constraints",
+        "authors": "Mingxing Li, Yingmin Jia, Tongtong Lei",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104621"
+    },
+    {
+        "id": 30280,
+        "title": "Multi-Pedestrian Detection using Hybrid ML Algorithms for Autonomous Vehicles",
+        "authors": "Satyaki Mukherjee, Tanya Sharma, Anshika Singh, S.S. Gayathri, Samiappan Dhanalakshmi",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icraset59632.2023.10420421"
+    },
+    {
+        "id": 30281,
+        "title": "Fillet-Based Batch Informed Trees (FB-BIT*): Rapid Convergence Path Planning for Curvature Constrained Vehicles",
+        "authors": "James Swedeen, Greg Droge",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/irc59093.2023.00019"
+    },
+    {
+        "id": 30282,
+        "title": "Retracted: Path Planning and Trajectory Tracking for Automatic Guided Vehicles",
+        "authors": "",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9863425"
+    },
+    {
+        "id": 30283,
+        "title": "Improved path planning method for unmanned aerial vehicles  based on artificial potential field",
+        "authors": "Xinyi Lu",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "With the advancement of unmanned aerial vehicle (UAV) technology and its widespread use in many facets of manufacturing and daily life, the need for UAV mission automation is becoming more and more practical. In order to improve the automatic obstacle avoidance and path planning performance of UAVs, this essay proposes an optimized route planning algorithm based on the artificial potential field (APF) method, which have solved the typical issue of the APF. This method chooses to conduct a pre planning trajectory of the UAV based on a rapidly expanding random tree (RRT). The pre-planned path will be split into continuous particles, and then generating intermediate waypoints. A nearby waypoint offers a gravitational force to aid the UAV in escaping the local minimum when it enters it. At the same time, taking the distance from the UAV to the obstacle and the radius of influence of the obstacle itself into consideration, dynamically adjust the gravitational and repulsive coefficients, set up a non-gravitational zone around the obstacle, which is beneficial for the UAV to elude the obstacle. And set up a repulsive limited action zone to reduce unnecessary turns in the trajectory to achieve the effect of path optimization. Considering the difficulty of single UAV missions in most cases, this paper discusses cooperative flight path planning for multiple UAVs into consideration.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/10/20230142"
+    },
+    {
+        "id": 30284,
+        "title": "New Techniques in Motion Control and Path Planning of Marine Vehicles",
+        "authors": "Bowen Xing, Bing Li",
+        "published": "2024-1-17",
+        "citations": 0,
+        "abstract": "Currently, with the continuous improvements and advancements in artificial intelligence, wireless data transmission, and sensing technologies, increasing amounts of marine vehicles are being designed and applied to promote the marine economy and protect the environment [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/jmse12010176"
+    },
+    {
+        "id": 30285,
+        "title": "State-sensitive event-triggered path following control of autonomous ground vehicles",
+        "authors": "Hong-Tao Sun, Jinming Huang, Zhi Chen, Zhiwen Wang",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "This paper investigates an improved event-triggered control based on the perception of state measurement for path following control of autonomous ground vehicles. Firstly, in order to regulate the event-triggered thresholds dynamically, a barrier-like function is first used to develop such a novel state-sensitive event-triggered communication (SS-ETC) scheme. Different from the existing variable-threshold ETC schemes, the proposed SS-ETC incorporates the state measurements directly in the event threshold adjustment, eliminating the need for additional terms or dynamics introduced in previous works. Secondly, the networked path following control modeling issues, which include both physical dynamics and the SS-ETC scheme, are characterized by the input delay approach. The controller design method is well derived, ensuring the preservation of input-to-state stability of the path following control system. The main advantage of this paper lies in the proposed SS-ETC, which shows a better trade-off between control and communication. Finally, several simulation experiments are conducted to verify the effectiveness of the proposed event-triggered control scheme. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20517/ir.2023.17"
+    },
+    {
+        "id": 30286,
+        "title": "Biased Target-tree <sup>*</sup> Algorithm with RRT <sup>*</sup> for Reducing Parking Path Planning Time",
+        "authors": "Joonwoo Ahn, Minsoo Kim, Jaeheung Park",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186712"
+    },
+    {
+        "id": 30287,
+        "title": "Grey Wolf Optimization-Based Path Planning for Unmanned Aerial Vehicles in Bridge Inspection",
+        "authors": "L.V. Nguyen, T.H. Le, Q.P. Ha",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sii58957.2024.10417594"
+    },
+    {
+        "id": 30288,
+        "title": "Risk-Aware Path Planning Using CVaR for Quadrotors",
+        "authors": "Jun Bian, Jianchun Zhang, Kexin Guo, Wenshuo Li, Xiang Yu, Lei Guo",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isas59543.2023.10164417"
+    },
+    {
+        "id": 30289,
+        "title": "Performance analysis of path planning techniques for autonomous robots",
+        "authors": "Lidia G. S. Rocha, Pedro H. C. Kim, Kelen C. Teixeira Vivaldini",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41315-023-00298-8"
+    },
+    {
+        "id": 30290,
+        "title": "Motion Primitive Path Planning Under Uncertainty for High-Speed Vehicles",
+        "authors": "Geordan M. Gutow, Jonathan D. Rogers, Kyle Williams",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-1258"
+    },
+    {
+        "id": 30291,
+        "title": "Minimum Distance and Minimum Time Optimal Path Planning With Bioinspired Machine Learning Algorithms for Faulty Unmanned Air Vehicles",
+        "authors": "Onder Tutsoy, Davood Asadi, Karim Ahmadi, Seyed Yaser Nabavi-Chashmi, Jamshed Iqbal",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tits.2024.3367769"
+    },
+    {
+        "id": 30292,
+        "title": "Real-Time Indoor Path Planning Using Object Detection for Autonomous Flying Robots",
+        "authors": "Onder Alparslan, Omer Cetin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.035689"
+    },
+    {
+        "id": 30293,
+        "title": "An intelligent management system for relocating semi-autonomous shared vehicles",
+        "authors": "Elias K. Xidias, Ilias E. Panagiotopoulos, Paraskevi Th. Zacharia",
+        "published": "2023-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03081060.2022.2162052"
+    },
+    {
+        "id": 30294,
+        "title": "Optimum Path Planning Using Dragonfly-Fuzzy Hybrid Controller for Autonomous Vehicle",
+        "authors": "Brijesh Patel, Varsha Dubey, Snehlata Barde, Nidhi Sharma",
+        "published": "2024-1-28",
+        "citations": 0,
+        "abstract": "Navigation poses a significant challenge for autonomous vehicles, prompting the exploration of various bio-inspired artificial intelligence techniques to address issues related to path generation, obstacle avoidance, and optimal path planning. Numerous studies have delved into bio-inspired approaches to navigate and overcome obstacles. In this paper, we introduce the dragonfly algorithm (DA), a novel bio-inspired meta-heuristic optimization technique to autonomously set goals, detect obstacles, and minimize human intervention. To enhance efficacy in unstructured environments, we propose and analyze the dragonfly–fuzzy hybrid algorithm, leveraging the strengths of both approaches. This hybrid controller amalgamates diverse features from different methods into a unified framework, offering a multifaceted solution. Through a comparative analysis of simulation and experimental results under varied environmental conditions, the hybrid dragonfly–fuzzy controller demonstrates superior performance in terms of time and path optimization compared to individual algorithms and traditional controllers. This research aims to contribute to the advancement of autonomous vehicle navigation through the innovative integration of bio-inspired meta-heuristic optimization techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/eng5010013"
+    },
+    {
+        "id": 30295,
+        "title": "MPC-based eco motion planning for mitigating motion sickness in autonomous vehicles*",
+        "authors": "Rui Gao, Lei Ma, Haohan Zhao",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvci59596.2023.10397412"
+    },
+    {
+        "id": 30296,
+        "title": "Probabilistic RRT Connect with intermediate goal selection for online planning of autonomous vehicles",
+        "authors": "Darshit Patel, Azim Eskandarian",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.12.052"
+    },
+    {
+        "id": 30297,
+        "title": "Method for anti-collision path planning using velocity obstacle and A* algorithms for maritime autonomous surface ship",
+        "authors": "Donghun Yu, Myung-Il Roh",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnaoe.2024.100586"
+    },
+    {
+        "id": 30298,
+        "title": "Fixed-time adaptive path-following control of autonomous surface vehicles with asymmetric output performance and feasibility constraints",
+        "authors": "Qiang Guo, Xianku Zhang, Yao Meng, Daocheng Ma",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.115999"
+    },
+    {
+        "id": 30299,
+        "title": "Meta-heuristic Algorithms in UAV Path Planning Optimization: A Systematic Review (2018–2022)",
+        "authors": "Maral Hooshyar, Yueh-Min Huang",
+        "published": "2023-11-25",
+        "citations": 0,
+        "abstract": "Unmanned Aerial Vehicles (UAVs), a subset of aerial robots, play crucial roles in various domains, such as disaster management, agriculture, and healthcare. Their application proves invaluable in situations where human intervention poses risks or involves high costs. However, traditional approaches to UAV path planning struggle in efficiently navigating complex and dynamic environments, often resulting in suboptimal routes and extended mission durations. This study seeks to investigate and improve the utilization of meta-heuristic algorithms for optimizing UAV path planning. Toward this aim, we carried out a systematic review of five major databases focusing on the period from 2018 to 2022. Following a rigorous two-stage screening process and a thorough quality appraisal, we selected 68 papers out of the initial 1500 to answer our research questions. Our findings reveal that hybrid algorithms are the dominant choice, surpassing evolutionary, physics-based, and swarm-based algorithms, indicating their superior performance and adaptability. Notably, time optimization takes precedence in mathematical models, reflecting the emphasis on CPU time efficiency. The prevalence of dynamic environmental types underscores the importance of real-time considerations in UAV path planning, with three-dimensional (3D) models receiving the most attention for accuracy in complex trajectories. Additionally, we highlight the trends and focuses of the UAV path planning optimization research community and several challenges in using meta-heuristic algorithms for the optimization of UAV path planning. Finally, our analysis further highlights a dual focus in UAV research, with a significant interest in optimizing single-UAV operations and a growing recognition of the challenges and potential synergies in multi-UAV systems, alongside a prevalent emphasis on single-target mission scenarios, but with a notable subset exploring the complexities of multi-target missions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7120687"
+    },
+    {
+        "id": 30300,
+        "title": "Path planning of Mobile Robot in Dynamic Environment by Evolutionary Algorithms",
+        "authors": "Mahyar Teymournezhad, Ozgur Koray Sahingoz",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsc56913.2023.10142971"
+    },
+    {
+        "id": 30301,
+        "title": "Research progress of multi-objective path planning optimization algorithms",
+        "authors": "Ziyan Ding",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0171019"
+    },
+    {
+        "id": 30302,
+        "title": "Vertex-Based Networks to Accelerate Path Planning Algorithms",
+        "authors": "Yuanhang Zhang, Jundong Liu",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285899"
+    },
+    {
+        "id": 30303,
+        "title": "A review of research on directional off-road path planning algorithms",
+        "authors": "Peiyuan Sun",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "Military orienteering can cultivate the skills of map reading, map use and military charting, and has gradually become a regular military training subject. A good track design plan is the basis for the smooth running of the competition. The current research on cross-country courses is mainly focused on single-track optimization, and there is very little research on multi-track planning, and design. However, in specific events, there are often multiple tracks running at the same time, and there are many restrictions, single track optimization design solutions are often not applicable. In this paper, we review multiple path planning algorithms and summarize the problems of these algorithms. On this basis, the advantages and disadvantages of static and dynamic path planning algorithms are analyzed, and future research trends and methods of path planning algorithms in orienteering are proposed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/4/2023418"
+    },
+    {
+        "id": 30304,
+        "title": "Analysis of Path Planning Algorithms for Service Robots Applied in Indoor Environments",
+        "authors": "Shenghui Jia",
+        "published": "2023-7-4",
+        "citations": 1,
+        "abstract": "Path planning technology is one of the key issues in solving mobile robot navigation technology. On the basis of traditional path planning algorithms, a large number of algorithms have been improved and applied to achieve better results, like fireworks algorithm, ant colony algorithm, A* algorithm, particle swarm algorithm, genetic algorithm, firefly algorithm, and artificial potential field method. The optimization and improvement of algorithms have made today's path planning technology more comprehensive and effectively improved the accuracy and efficiency of indoor service robot path planning. This article analyzes the development status of path planning technology for indoor environment service robot. Firstly, typical application scenarios are listed and the significance of path planning algorithms in them is introduced in combination with their application requirements. Then, some classic indoor scene path planning algorithms and improvement strategies are compared and analyzed. Finally, a summary and discussion of the above indoor environment intelligent robot path planning methods are presented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v52i.8888"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 18505,
+        "title": "Can Unlabelled Data Improve AI Applications? A Comparative Study on Self-Supervised Learning in Computer Vision.",
+        "authors": "Markus Bauer, Christoph Augenstein",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15439/2023f8371"
+    },
+    {
+        "id": 18506,
+        "title": "Scaling Up Semi-supervised Learning with Unconstrained Unlabelled Data",
+        "authors": "Shuvendu Roy, Ali Etemad",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "We propose UnMixMatch, a semi-supervised learning framework which can learn effective representations from unconstrained unlabelled data in order to scale up performance. Most existing semi-supervised methods rely on the assumption that labelled and unlabelled samples are drawn from the same distribution, which limits the potential for improvement through the use of free-living unlabeled data. Consequently, the generalizability and scalability of semi-supervised learning are often hindered by this assumption. Our method aims to overcome these constraints and effectively utilize unconstrained unlabelled data in semi-supervised learning. UnMixMatch consists of three main components: a supervised learner with hard augmentations that provides strong regularization, a contrastive consistency regularizer to learn underlying representations from the unlabelled data, and a self-supervised loss to enhance the representations that are learnt from the unlabelled data. We perform extensive experiments on 4 commonly used datasets and demonstrate superior performance over existing semi-supervised methods with a performance boost of 4.79%. Extensive ablation and sensitivity studies show the effectiveness and impact of each of the proposed components of our method. The code for our work is publicly available.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i13.29404"
+    },
+    {
+        "id": 18507,
+        "title": "A semi-supervised short text sentiment classification method based on improved Bert model from unlabelled data",
+        "authors": "Haochen Zou, Zitao Wang",
+        "published": "2023-3-15",
+        "citations": 4,
+        "abstract": "AbstractShort text information has considerable commercial value and immeasurable social value. Natural language processing and short text sentiment analysis technology can organize and analyze short text information on the Internet. Natural language processing tasks such as sentiment classification have achieved satisfactory performance under a supervised learning framework. However, traditional supervised learning relies on large-scale and high-quality manual labels and obtaining high-quality label data costs a lot. Therefore, the strong dependence on label data hinders the application of the deep learning model to a large extent, which is the bottleneck of supervised learning. At the same time, short text datasets such as product reviews have an imbalance in the distribution of data samples. To solve the above problems, this paper proposes a method to predict label data according to semi-supervised learning mode and implements the MixMatchNL data enhancement method. Meanwhile, the Bert pre-training model is updated. The cross-entropy loss function in the model is improved to the Focal Loss function to alleviate the data imbalance in short text datasets. Experimental results based on public datasets indicate the proposed model has improved the accuracy of short text sentiment recognition compared with the previous update and other state-of-the-art models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40537-023-00710-x"
+    },
+    {
+        "id": 18508,
+        "title": "A Horse with no Labels: Self-Supervised Horse Pose Estimation from Unlabelled Images and Synthetic Prior",
+        "authors": "Jose Sosa, David Hogg",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00112"
+    },
+    {
+        "id": 18509,
+        "title": "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model",
+        "authors": "Takashi Maekaku, Yuya Fujita, Xuankai Chang, Shinji Watanabe",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095280"
+    },
+    {
+        "id": 18510,
+        "title": "Seismic data denoising by combining self-supervised and supervised learning",
+        "authors": "Yen Sun, Paul Williamson",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/image2023-3909418.1"
+    },
+    {
+        "id": 18511,
+        "title": "Second-Order Learning with Grounding Alignment: A Multimodal Reasoning Approach to Handle Unlabelled Data",
+        "authors": "Arnab Barua, Mobyen Ahmed, Shaibal Barua, Shahina Begum, Andrea Giorgi",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012466500003636"
+    },
+    {
+        "id": 18512,
+        "title": "A study on a semi-supervised learning using self-supervised learning",
+        "authors": "Daehak Kim",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7465/jkdi.2023.34.6.967"
+    },
+    {
+        "id": 18513,
+        "title": "Generation-based Multi-view Contrast for Self-supervised Graph Representation Learning",
+        "authors": "Yuehui Han",
+        "published": "2024-6-30",
+        "citations": 0,
+        "abstract": "Graph contrastive learning has made remarkable achievements in the self-supervised representation learning of graph-structured data. By employing perturbation function (i.e., perturbation on the nodes or edges of graph), most graph contrastive learning methods construct contrastive samples on the original graph. However, the perturbation-based data augmentation methods randomly change the inherent information (e.g., attributes or structures) of the graph. Therefore, after nodes embedding on the perturbed graph, we cannot guarantee the validity of the contrastive samples as well as the learned performance of graph contrastive learning. To this end, in this article, we propose a novel generation-based multi-view contrastive learning framework (GMVC) for self-supervised graph representation learning, which generates the contrastive samples based on our generator rather than perturbation function. Specifically, after nodes embedding on the original graph we first employ random walk in the neighborhood to develop multiple relevant node sequences for each anchor node. We then utilize the transformer to generate the representations of relevant contrastive samples of anchor node based on the features and structures of the sampled node sequences. Finally, by maximizing the consistency between the anchor view and the generated views, we force the model to effectively encode graph information into nodes embeddings. We perform extensive experiments of node classification and link prediction tasks on eight benchmark datasets, which verify the effectiveness of our generation-based multi-view graph contrastive learning method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3645095"
+    },
+    {
+        "id": 18514,
+        "title": "Global high-resolution total water storage anomalies from self-supervised data assimilation using deep learning algorithms",
+        "authors": "Junyang Gou, Benedikt Soja",
+        "published": "2024-2-12",
+        "citations": 2,
+        "abstract": "AbstractTotal water storage anomalies (TWSAs) describe the variations of the terrestrial water cycle, which is essential for understanding our climate system. This study proposes a self-supervised data assimilation model with a new loss function to provide global TWSAs with a spatial resolution of 0.5°. The model combines hydrological simulations as well as measurements from the Gravity Recovery and Climate Experiment (GRACE) and its follow-on (GRACE-FO) satellite missions. The efficiency of the high-resolution information is proved by closing the water balance equation in small basins while preserving large-scale accuracy inherited from the GRACE(-FO) measurements. The product contributes to monitoring natural hazards locally and shows potential for better understanding the impacts of natural and anthropogenic activities on the water cycle. We anticipate our approach to be generally applicable to other TWSA data sources and the resulting products to be valuable for the geoscience community and society.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s44221-024-00194-w"
+    },
+    {
+        "id": 18515,
+        "title": "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation",
+        "authors": "Runhui Wang, Yuliang Li, Jin Wang",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icde55515.2023.00391"
+    },
+    {
+        "id": 18516,
+        "title": "Self supervised learning and the poverty of the stimulus",
+        "authors": "Csaba Veres, Jennifer Sampson",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.datak.2023.102208"
+    },
+    {
+        "id": 18517,
+        "title": "Global Self-Supervised Graph Learning for Recommendation",
+        "authors": "Xinyue Liu",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda60612.2024.10486045"
+    },
+    {
+        "id": 18518,
+        "title": "Self-Supervised Temporal Graph Learning based on Multi-Head Self-Attention Weighted Neighborhood Sequences",
+        "authors": "Yulong Cao",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bdai59165.2023.10256426"
+    },
+    {
+        "id": 18519,
+        "title": "Self-Supervised Representation Learning for Knee Injury Diagnosis From Magnetic Resonance Data",
+        "authors": "Siladittya Manna, Saumik Bhattacharya, Umapada Pal",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2023.3299883"
+    },
+    {
+        "id": 18520,
+        "title": "AtmoDist: Self-supervised representation learning for atmospheric dynamics",
+        "authors": "Sebastian Hoffmann, Christian Lessig",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Abstract\nRepresentation learning has proven to be a powerful methodology in a wide variety of machine-learning applications. For atmospheric dynamics, however, it has so far not been considered, arguably due to the lack of large-scale, labeled datasets that could be used for training. In this work, we show how to sidestep the difficulty and introduce a self-supervised learning task that is applicable to a wide variety of unlabeled atmospheric datasets. Specifically, we train a neural network on the simple yet intricate task of predicting the temporal distance between atmospheric fields from distinct but nearby times. We demonstrate that training with this task on the ERA5 reanalysis dataset leads to internal representations that capture intrinsic aspects of atmospheric dynamics. For example, when employed as a loss function in other machine-learning applications, the derived AtmoDist distance leads to improved results compared to the \n\n\n$ {\\mathrm{\\ell}}_2 $\n\n-loss. For downscaling one obtains higher resolution fields that match the true statistics more closely than previous approaches and for the interpolation of missing or occluded data the AtmoDist distance leads to results that contain more realistic fine-scale features. Since it is obtained from observational data, AtmoDist also provides a novel perspective on atmospheric predictability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/eds.2023.1"
+    },
+    {
+        "id": 18521,
+        "title": "Improving Classroom Dialogue Act Recognition from Limited Labeled Data with Self-Supervised Contrastive Learning Classifiers",
+        "authors": "Vikram Kumaran, Jonathan Rowe, Bradford Mott, Snigdha Chaturvedi, James Lester",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.698"
+    },
+    {
+        "id": 18522,
+        "title": "Leveraging Repeated Unlabelled Noisy Measurements to Augment Supervised Learning",
+        "authors": "Birk Martin Magnussen, Claudius Stern, Bernhard Sick",
+        "published": "2023-11-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3638209.3638210"
+    },
+    {
+        "id": 18523,
+        "title": "Self-supervised boundary offline reinforcement learning",
+        "authors": "Jiahao Shen",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3026355"
+    },
+    {
+        "id": 18524,
+        "title": "Self-Supervised Dynamic Graph Representation Learning via Temporal Subgraph Contrast",
+        "authors": "Ke-Jia Chen, Linsong Liu, Linpu Jiang, Jingqiang Chen",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "Self-supervised learning on graphs has recently drawn a lot of attention due to its independence from labels and its robustness in representation. Current studies on this topic mainly use static information such as graph structures but cannot well capture dynamic information such as timestamps of edges. Realistic graphs are often dynamic, which means the interaction between nodes occurs at a specific time. This article proposes a self-supervised dynamic graph representation learning framework DySubC, which defines a temporal subgraph contrastive learning task to simultaneously learn the structural and evolutional features of a dynamic graph. Specifically, a novel temporal subgraph sampling strategy is firstly proposed, which takes each node of the dynamic graph as the central node and uses both neighborhood structures and edge timestamps to sample the corresponding temporal subgraph. The subgraph representation function is then designed according to the influence of neighborhood nodes on the central node after encoding the nodes in each subgraph. Finally, the structural and temporal contrastive loss are defined to maximize the mutual information between node representation and temporal subgraph representation. Experiments on five real-world datasets demonstrate that (1) DySubC performs better than the related baselines including two graph contrastive learning models and five dynamic graph representation learning models, especially in the link prediction task, and (2) the use of temporal information cannot only sample more effective subgraphs, but also learn better representation by temporal contrastive loss.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3612931"
+    },
+    {
+        "id": 18525,
+        "title": "Utilizing Self-Supervised Learning Features and Adapter Fine-Tuning for Enhancing Speech Emotion Recognition",
+        "authors": "Tangxun Li, Junjie Hou",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlbdbi60823.2023.10482145"
+    },
+    {
+        "id": 18526,
+        "title": "Self-Driving Car Using Supervised Learning",
+        "authors": "Ryan Collins, Himanshu Kumar Maurya, Raj S.R. Ragul",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "In the growing field of autonomous driving, minimizing human errors lead to fatal accidents. Many companies and research groups have been working for years to achieve a fully autonomous vehicle. Self-driving cars are inevitably the future. The system to be implemented is to train and directly translate images from three cameras to steering commands. The proposed method is expected to work on local roads with or without lane markings. With just the images generated and the human steering angle as the training signal, the proposed method is expected to automatically recognize important road characteristics. A simulator (Udacity) is used to generate data for the proposed model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4028/p-5vztxi"
+    },
+    {
+        "id": 18527,
+        "title": "SAD: self-supervised avionic diagnostics",
+        "authors": "Attiano Purpura-Pontoniere, Maksim Bobrov, Tarun Bhattacharya",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2664732"
+    },
+    {
+        "id": 18528,
+        "title": "Self-supervised Activity Representation Learning with Incremental Data: An Empirical Study",
+        "authors": "Jason Liu, Shohreh Deldari, Hao Xue, Van Nguyen, Flora D. Salim",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mdm58254.2023.00019"
+    },
+    {
+        "id": 18529,
+        "title": "Exploring multi-task learning and data augmentation in dementia detection with self-supervised pretrained models",
+        "authors": "Minchuan Chen, Chenfeng Miao, Jun Ma, Shaojun Wang, Jing Xiao",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1623"
+    },
+    {
+        "id": 18530,
+        "title": "Levels of disability in the older population of England: An unsupervised and self-supervised learning approach",
+        "authors": "Marjan Qazvini",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdmw60847.2023.00088"
+    },
+    {
+        "id": 18531,
+        "title": "Goal-Conditioned Flexible Object Manipulation by Self-Supervised Learning from Play",
+        "authors": "Keigo Ishii, Shun Hiramatsu, Yuta Nomura, Shingo Murata",
+        "published": "2023-11-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdl55364.2023.10364471"
+    },
+    {
+        "id": 18532,
+        "title": "Enhancing Time Series Classification with Self-Supervised Learning",
+        "authors": "Ali Ismail-Fawaz, Maxime Devanne, Jonathan Weber, Germain Forestier",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011611300003393"
+    },
+    {
+        "id": 18533,
+        "title": "Road Condition Anomaly Detection using Self-Supervised Learning from Audio",
+        "authors": "U-Ju Gim",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10421899"
+    },
+    {
+        "id": 18534,
+        "title": "Seismic Data Random Noise Attenuation Using Visible Blind Spot Self-Supervised Learning",
+        "authors": "Zitai Xu, Bangyu Wu, Hui Yang",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10283058"
+    },
+    {
+        "id": 18535,
+        "title": "Image-Based Vehicle Classification by Synergizing Features from Supervised and Self-Supervised Learning Paradigms",
+        "authors": "Shihan Ma, Jidong J. Yang",
+        "published": "2023-2-1",
+        "citations": 3,
+        "abstract": "This paper introduces a novel approach to leveraging features learned from both supervised and self-supervised paradigms, to improve image classification tasks, specifically for vehicle classification. Two state-of-the-art self-supervised learning methods, DINO and data2vec, were evaluated and compared for their representation learning of vehicle images. The former contrasts local and global views while the latter uses masked prediction on multiple layered representations. In the latter case, supervised learning is employed to finetune a pretrained YOLOR object detector for detecting vehicle wheels, from which definitive wheel positional features are retrieved. The representations learned from these self-supervised learning methods were combined with the wheel positional features for the vehicle classification task. Particularly, a random wheel masking strategy was utilized to finetune the previously learned representations in harmony with the wheel positional features during the training of the classifier. Our experiments show that the data2vec-distilled representations, which are consistent with our wheel masking strategy, outperformed the DINO counterpart, resulting in a celebrated Top-1 classification accuracy of 97.2% for classifying the 13 vehicle classes defined by the Federal Highway Administration.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/eng4010027"
+    },
+    {
+        "id": 18536,
+        "title": "Self-Supervised Representation Learning for Geographical Data—A Systematic Literature Review",
+        "authors": "Padraig Corcoran, Irena Spasić",
+        "published": "2023-2-12",
+        "citations": 0,
+        "abstract": "Self-supervised representation learning (SSRL) concerns the problem of learning a useful data representation without the requirement for labelled or annotated data. This representation can, in turn, be used to support solutions to downstream machine learning problems. SSRL has been demonstrated to be a useful tool in the field of geographical information science (GIS). In this article, we systematically review the existing research literature in this space to answer the following five research questions. What types of representations were learnt? What SSRL models were used? What downstream problems were the representations used to solve? What machine learning models were used to solve these problems? Finally, does using a learnt representation improve the overall performance?",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ijgi12020064"
+    },
+    {
+        "id": 18537,
+        "title": "Augmentation Strategies for Self-Supervised Representation Learning from Electrocardiograms",
+        "authors": "Matilda Andersson, Mattias Nilsson, Gabrielle Flood, Kalle Åström",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289960"
+    },
+    {
+        "id": 18538,
+        "title": "Self-Supervised Learning-Based Source Separation for Meeting Data",
+        "authors": "Yuang Li, Xianrui Zheng, Philip C. Woodland",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094606"
+    },
+    {
+        "id": 18539,
+        "title": "Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator",
+        "authors": "Shaoxiang Dang, Tetsuya Matsumoto, Yoshinori Takeuchi, Hiroaki Kudo",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-85"
+    },
+    {
+        "id": 18540,
+        "title": "CzSL: Learning from citizen science, experts, and unlabelled data in astronomical image classification",
+        "authors": "Manuel Jiménez, Emilio J Alfaro, Mercedes Torres Torres, Isaac Triguero",
+        "published": "2023-9-29",
+        "citations": 1,
+        "abstract": "ABSTRACT\nCitizen science is gaining popularity as a valuable tool for labelling large collections of astronomical images by the general public. This is often achieved at the cost of poorer quality classifications made by amateur participants, which are usually verified by employing smaller data sets labelled by professional astronomers. Despite its success, citizen science alone will not be able to handle the classification of current and upcoming surveys. To alleviate this issue, citizen science projects have been coupled with machine learning techniques in pursuit of a more robust automated classification. However, existing approaches have neglected the fact that, apart from the data labelled by amateurs, (limited) expert knowledge of the problem is also available along with vast amounts of unlabelled data that have not yet been exploited within a unified learning framework. This paper presents an innovative learning methodology for citizen science capable of taking advantage of expert- and amateur-labelled data, featuring a transfer of labels between experts and amateurs. The proposed approach first learns from unlabelled data with a convolutional auto-encoder and then exploits amateur and expert labels via the pre-training and fine-tuning of a convolutional neural network, respectively. We focus on the classification of galaxy images from the Galaxy Zoo project, from which we test binary, multiclass, and imbalanced classification scenarios. The results demonstrate that our solution is able to improve classification performance compared to a set of baseline approaches, deploying a promising methodology for learning from different confidence levels in data labelling.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/mnras/stad2852"
+    },
+    {
+        "id": 18541,
+        "title": "Self-Supervised Learning for Online Anomaly Detection in High-Dimensional Data Streams",
+        "authors": "Mahsa Mozaffari, Keval Doshi, Yasin Yilmaz",
+        "published": "2023-4-24",
+        "citations": 4,
+        "abstract": "In this paper, we address the problem of detecting and learning anomalies in high-dimensional data-streams in real-time. Following a data-driven approach, we propose an online and multivariate anomaly detection method that is suitable for the timely and accurate detection of anomalies. We propose our method for both semi-supervised and supervised settings. By combining the semi-supervised and supervised algorithms, we present a self-supervised online learning algorithm in which the semi-supervised algorithm trains the supervised algorithm to improve its detection performance over time. The methods are comprehensively analyzed in terms of computational complexity, asymptotic optimality, and false alarm rate. The performances of the proposed algorithms are also evaluated using real-world cybersecurity datasets, that show a significant improvement over the state-of-the-art results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12091971"
+    },
+    {
+        "id": 18542,
+        "title": "Self-supervised Heterogeneous Hypergraph Learning with Context-aware Pooling for Graph-level Classification",
+        "authors": "Malik Khizar Hayat, Shan Xue, Jian Yang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00023"
+    },
+    {
+        "id": 18543,
+        "title": "SSL2 Self-Supervised Learning meets semi-supervised learning: multiple clerosis segmentation in 7T-MRI from large-scale 3T-MRI",
+        "authors": "Jiacheng Wang, Hao Li, Han Liu, Dewei Hu, Daiwei Lu, Keejin Yoon, Kelsey Barter, Francesca Bagnato, Ipek Oguz",
+        "published": "2023-4-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2654522"
+    },
+    {
+        "id": 18544,
+        "title": "The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning",
+        "authors": "Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00436"
+    },
+    {
+        "id": 18545,
+        "title": "Self-supervised Learning for Drug Synergy Prediction with Small Data Set",
+        "authors": "Tanakrit Klaikeaw, Supanida Piyayotai, Phond Phunchongharn, Teerasit Termsaithong",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ickii58656.2023.10332665"
+    },
+    {
+        "id": 18546,
+        "title": "SimEXT: Self-supervised Representation Learning for Extreme Values in Time Series",
+        "authors": "Asadullah Hill Galib, Pang-Ning Tan, Lifeng Luo",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00119"
+    },
+    {
+        "id": 18547,
+        "title": "Unlocking the Potential of Unlabeled Data in Building Deep Learning Model for Dynamometer Cards Classification by Using Self-Supervised Learning",
+        "authors": "Ramdhan Wibawa, Rosyadi Rosyadi, Maulirany Nancy, Raden Irfani Hasya Fulki",
+        "published": "2023-2-28",
+        "citations": 1,
+        "abstract": "AbstractDynamometer card is one of the vital surveillances for Sucker Rod Pump (SRP) performance monitoring in Duri field. Even though the field produces a massive number of cards, they come with no label or interpretation about the pump conditions based on the card shape. Self-supervised learning (SSL) consists of a pretext task that trains feature extractors by using unlabeled data as opposed to supervised learning, that requires a lot of effort in labeling data which is time consuming and costly. This paper evaluates the performance of a feature extractor, Alexnet, that is trained by using several pretext task techniques. This study used around 660,000 unlabeled cards while a small amount of labeled data was used for evaluation purposes using linear evaluation protocol. The result showed that the trained Alexnet using Pretext-Invariant Representation Learning (PIRL) with jigsaw has better performance by 6% compared to the pre-trained ImageNet model. Further fine-tuning process by using labeled data could achieve 93% accuracy. The model was also tested using fresh data and the result was compared to the expert's interpretation. This approach can potentially add more types of rod pump problems to detect in the Duri field with considerable precision. In addition, the new approach could improve the current method of detecting more SRP with valve leaking problems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2523/iptc-23026-ea"
+    },
+    {
+        "id": 18548,
+        "title": "Gully erosion prediction method from geoenvironmental data and supervised machine learning techniques",
+        "authors": "Julio Cesar Lana",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mex.2023.102059"
+    },
+    {
+        "id": 18549,
+        "title": "A big data driven vegetation disease and pest region identification method based on self supervised convolutional neural networks and parallel extreme learning machines",
+        "authors": "Bo Jiang, Hao Wang, Hanxu Ma",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bdr.2024.100444"
+    },
+    {
+        "id": 18550,
+        "title": "Auto-TabTransformer: Hierarchical Transformers for Self and Semi Supervised Learning in Tabular Data",
+        "authors": "Akshay Sethi, Sonia Gupta, Ayush Agarwal, Nancy Agrawal, Siddhartha Asthana",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10192021"
+    },
+    {
+        "id": 18551,
+        "title": "Anti-aliasing seismic data interpolation by dip-informed self-supervised learning",
+        "authors": "Shirui Wang, Xuqing Wu, Jiefu Chen",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/image2023-3913209.1"
+    },
+    {
+        "id": 18552,
+        "title": "Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning",
+        "authors": "Xuankai Chang, Brian Yan, Yuya Fujita, Takashi Maekaku, Shinji Watanabe",
+        "published": "2023-8-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-2051"
+    },
+    {
+        "id": 18553,
+        "title": "FedLID: Self-Supervised Federated Learning for Leveraging Limited Image Data",
+        "authors": "Athanasios Psaltis, Anestis Kastellos, Charalampos Z. Patrikakis, Petros Daras",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00111"
+    },
+    {
+        "id": 18554,
+        "title": "Handling severe data imbalance in chest X-Ray image classification with transfer learning using SwAV self-supervised pre-training",
+        "authors": "",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28919/cmbn/7526"
+    },
+    {
+        "id": 18555,
+        "title": "Relapse Prediction from Long-Term Wearable Data Using Self-Supervised Learning and Survival Analysis",
+        "authors": "E. Fekas, A. Zlatintsi, P. P. Filntisis, C. Garoufis, N. Efthymiou, P. Maragos",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096277"
+    },
+    {
+        "id": 18556,
+        "title": "Self-supervised Graph-level Representation Learning with Adversarial Contrastive Learning",
+        "authors": "Xiao Luo, Wei Ju, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui Yuan, Ming Zhang",
+        "published": "2024-2-29",
+        "citations": 3,
+        "abstract": "The recently developed unsupervised graph representation learning approaches apply contrastive learning into graph-structured data and achieve promising performance. However, these methods mainly focus on graph augmentation for positive samples, while the negative mining strategies for graph contrastive learning are less explored, leading to sub-optimal performance. To tackle this issue, we propose a Graph Adversarial Contrastive Learning (GraphACL) scheme that learns a bank of negative samples for effective self-supervised whole-graph representation learning. Our GraphACL consists of (i) a graph encoding branch that generates the representations of positive samples and (ii) an adversarial generation branch that produces a bank of negative samples. To generate more powerful hard negative samples, our method minimizes the contrastive loss during encoding updating while maximizing the contrastive loss adversarially over the negative samples for providing the challenging contrastive task. Moreover, the quality of representations produced by the adversarial generation branch is enhanced through the regularization of carefully designed bank divergence loss and bank orthogonality loss. We optimize the parameters of the graph encoding branch and adversarial generation branch alternately. Extensive experiments on 14 real-world benchmarks on both graph classification and transfer learning tasks demonstrate the effectiveness of the proposed approach over existing graph self-supervised representation learning methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3624018"
+    },
+    {
+        "id": 18557,
+        "title": "Evaluating the effectiveness of supervised learning models for antibiotic pollution detection from biochip data",
+        "authors": "Ruben Ng, Paul Craig",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3017922"
+    },
+    {
+        "id": 18558,
+        "title": "Robust Semi-Supervised Learning for Self-learning Open-World Classes",
+        "authors": "Wenjuan Xi, Xin Song, Weili Guo, Yang Yang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00075"
+    },
+    {
+        "id": 18559,
+        "title": "Contrastive Learning for Self-Supervised Pre-Training of Point Cloud Segmentation Networks With Image Data",
+        "authors": "Andrej Janda, Brandon Wagstaff, Edwin G. Ng, Jonathan Kelly",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/crv60082.2023.00026"
+    },
+    {
+        "id": 18560,
+        "title": "Supervised Learning from Data Mining on Process Data Loggers on Micro-Controllers",
+        "authors": "Adi Dwifana Saputra Saputra, Djarot Hindarto, Haryono Haryono",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "In processing data science, data is needed as input. Sometimes the data needed does not exist in public data, this is where the purpose of this research is made. The acquisition process is so important to process information into data. After that, the data is processed to make a decision. Micro-controller in controlling conditions, such as temperature, and humidity are very common devices, and a lot of research has been done. Sometimes discussing it only shows how to create a series and save it on online platforms, such as firebase, tinger.io, and many others online platforms. So that the process of storing data on an external or online platform is an advantage for platform providers, where platform providers do not need to do business and get data for free. This is without realizing the researchers who have produced a micro-controller device. Many platforms for storing data range from hardware and software devices. Some devices are paid or open source. This research uses software tools that are open source. Because using open source-based tools it will be easy to develop and for further research purposes. The development of the following research by entering code into a micro-controller system or what is called an embedded system. Data is a very valuable asset. Because data is one of the most important components in processing in data science. And it is better to take care of the data logger. This research uses Arduino as a micro-controller and ultrasonic distance sensor and potentiometer",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33395/sinkron.v8i1.11942"
+    },
+    {
+        "id": 18561,
+        "title": "CutPaste-ROI: An Industrial Anomaly Data Detection Method based on Self-supervised Learning",
+        "authors": "Le Yang, Wenhan Yang, Zhengsong Wang",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2352/j.imagingsci.technol.2024.68.2.020412"
+    },
+    {
+        "id": 18562,
+        "title": "Speech Recognition for Indigenous Language Using Self-Supervised Learning and Natural Language Processing",
+        "authors": "Satoshi Tamura, Tomohiro Hattori, Yusuke Kato, Naoki Noguchi",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012396300003654"
+    },
+    {
+        "id": 18563,
+        "title": "A novel collaborative self-supervised learning method for radiomic data",
+        "authors": "Zhiyuan Li, Hailong Li, Anca L. Ralescu, Jonathan R. Dillman, Nehal A. Parikh, Lili He",
+        "published": "2023-8",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neuroimage.2023.120229"
+    },
+    {
+        "id": 18564,
+        "title": "Self-supervised deep learning for multi-profile seismic data denoising",
+        "authors": "Xiong Chuanchao, Chengyun Song, Yin Zhang, Lin Li",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2681147"
+    },
+    {
+        "id": 18565,
+        "title": "Advances in Self-Supervised Learning for Synthetic Aperture Sonar Data Processing, Classification, and Pattern Recognition",
+        "authors": "Brandon W. Sheffield, Frank E. Bobe, Bradley Marchand, Matthew S. Emigh",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/oceans52994.2023.10337196"
+    },
+    {
+        "id": 18566,
+        "title": "Self-supervised learning for point cloud data: A survey",
+        "authors": "Changyu Zeng, Wei Wang, Anh Nguyen, Jimin Xiao, Yutao Yue",
+        "published": "2024-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121354"
+    },
+    {
+        "id": 18567,
+        "title": "Self-Supervised Learning Denoising Network For Intelligent Fault Diagnosis With Limited Labeled Data",
+        "authors": "Yiming Song, Peixuan Ding, Yi Xu, Bin Yang",
+        "published": "2023-8-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/yac59482.2023.10401424"
+    },
+    {
+        "id": 18568,
+        "title": "Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision",
+        "authors": "Sami Barchid, José Mennesson, Chaabane Djéraba",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvprw59228.2023.00405"
+    },
+    {
+        "id": 18569,
+        "title": "CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning",
+        "authors": "Chutong Meng, Junyi Ao, Tom Ko, Mingxuan Wang, Haizhou Li",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1390"
+    },
+    {
+        "id": 18570,
+        "title": "Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive",
+        "authors": "Lirong Wu, Haitao Lin, Cheng Tan, Zhangyang Gao, Stan Z. Li",
+        "published": "2023-4-1",
+        "citations": 39,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tkde.2021.3131584"
+    },
+    {
+        "id": 18571,
+        "title": "Rethinking Rotation in Self-Supervised Contrastive Learning: Adaptive Positive or Negative Data Augmentation",
+        "authors": "Atsuyuki Miyai, Qing Yu, Daiki Ikami, Go Irie, Kiyoharu Aizawa",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00283"
+    },
+    {
+        "id": 18572,
+        "title": "Supervised machine learning from digital twin data for railway switch fault diagnosis",
+        "authors": "Cedric Jung, Abdoul K. A. Toguyeni, Belkacem Ould Bouamama",
+        "published": "2023-6-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ecc57647.2023.10178257"
+    },
+    {
+        "id": 18573,
+        "title": "Data compression and inference in cosmology with self-supervised machine learning",
+        "authors": "Aizhan Akhmetzhanova, Siddharth Mishra-Sharma, Cora Dvorkin",
+        "published": "2023-11-27",
+        "citations": 1,
+        "abstract": "ABSTRACT\nThe influx of massive amounts of data from current and upcoming cosmological surveys necessitates compression schemes that can efficiently summarize the data with minimal loss of information. We introduce a method that leverages the paradigm of self-supervised machine learning in a novel manner to construct representative summaries of massive data sets using simulation-based augmentations. Deploying the method on hydrodynamical cosmological simulations, we show that it can deliver highly informative summaries, which can be used for a variety of downstream tasks, including precise and accurate parameter inference. We demonstrate how this paradigm can be used to construct summary representations that are insensitive to prescribed systematic effects, such as the influence of baryonic physics. Our results indicate that self-supervised machine learning techniques offer a promising new approach for compression of cosmological data as well as its analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/mnras/stad3646"
+    },
+    {
+        "id": 18574,
+        "title": "Self-supervised Federated Learning for Anomaly Detection",
+        "authors": "Tze-Qian Eng, Hsing-Kuo Pao, Chi-Chen Liao",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386871"
+    },
+    {
+        "id": 18575,
+        "title": "The impacts of active and self-supervised learning on efficient annotation of single-cell expression data",
+        "authors": "Michael J. Geuenich, Dae-won Gong, Kieran R. Campbell",
+        "published": "2024-2-3",
+        "citations": 0,
+        "abstract": "AbstractA crucial step in the analysis of single-cell data is annotating cells to cell types and states. While a myriad of approaches has been proposed, manual labeling of cells to create training datasets remains tedious and time-consuming. In the field of machine learning, active and self-supervised learning methods have been proposed to improve the performance of a classifier while reducing both annotation time and label budget. However, the benefits of such strategies for single-cell annotation have yet to be evaluated in realistic settings. Here, we perform a comprehensive benchmarking of active and self-supervised labeling strategies across a range of single-cell technologies and cell type annotation algorithms. We quantify the benefits of active learning and self-supervised strategies in the presence of cell type imbalance and variable similarity. We introduce adaptive reweighting, a heuristic procedure tailored to single-cell data—including a marker-aware version—that shows competitive performance with existing approaches. In addition, we demonstrate that having prior knowledge of cell type markers improves annotation accuracy. Finally, we summarize our findings into a set of recommendations for those implementing cell type annotation procedures or platforms. An R package implementing the heuristic approaches introduced in this work may be found at https://github.com/camlab-bioml/leader.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41467-024-45198-y"
+    },
+    {
+        "id": 18576,
+        "title": "Self-supervised learning for climate downscaling",
+        "authors": "Karandeep Singh, Chaeyoon Jeong, Sungwon Park, Arjun N Babur, Elke Zeller, Meeyoung Cha",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp57234.2023.00012"
+    },
+    {
+        "id": 18577,
+        "title": "Very High-Resolution Satellite Image Registration Based on Self-supervised Deep Learning",
+        "authors": "Taeheon Kim, Jaewon Hur, Youkyung Han",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7848/ksgpc.2023.41.4.217"
+    },
+    {
+        "id": 18578,
+        "title": "Self-Supervised and Semi-Supervised Polyp Segmentation using Synthetic Data",
+        "authors": "Enric Moreu, Eric Arazo, Kevin McGuinness, Noel E. O'Connor",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191896"
+    },
+    {
+        "id": 18579,
+        "title": "Combining Self-Supervised and Supervised Learning with Noisy Labels",
+        "authors": "Yongqi Zhang, Hui Zhang, Quanming Yao, Jun Wan",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10221957"
+    },
+    {
+        "id": 18580,
+        "title": "Self-Supervised Learning for Accurate Liver View Classification in Ultrasound Images with Minimal Labeled Data",
+        "authors": "Abder-Rahman Ali, Anthony E. Samir, Peng Guo",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvprw59228.2023.00310"
+    },
+    {
+        "id": 18581,
+        "title": "Self-Supervised Accent Learning for Under-Resourced Accents Using Native Language Data",
+        "authors": "Mehul Kumar, Jiyeon Kim, Dhananjaya Gowda, Abhinav Garg, Chanwoo Kim",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096854"
+    },
+    {
+        "id": 18582,
+        "title": "Self-supervised learning for hotspot detection and isolation from thermal images",
+        "authors": "Shreyas Goyal, Jagath C. Rajapakse",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121566"
+    },
+    {
+        "id": 18583,
+        "title": "Self-Supervised Learning of Object Segmentation from Unlabeled RGB-D Videos",
+        "authors": "Shiyang Lu, Yunfu Deng, Abdeslam Boularias, Kostas Bekris",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160786"
+    },
+    {
+        "id": 18584,
+        "title": "Self-Supervised Learning with Masked Autoencoders for Teeth Segmentation from Intra-oral 3D Scans",
+        "authors": "Amani Almalki, Longin Jan Latecki",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00764"
+    },
+    {
+        "id": 18585,
+        "title": "Self- Supervised Learning Based Covid-19 Detection from Chest Radiography Images Using Deep CNN",
+        "authors": "Arul Sowmiya A S, Palanikkumar D",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicat57735.2023.10263698"
+    },
+    {
+        "id": 18586,
+        "title": "SELF-SUPERVISED LEARNING FOR IMPROVED SAS TARGET RECOGNITION",
+        "authors": "BW SHEFFIELD",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/15919"
+    },
+    {
+        "id": 18587,
+        "title": "Self-supervised learning of deep visual representations",
+        "authors": " Mathilde Caron",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48556/sif.1024.21.171"
+    },
+    {
+        "id": 18588,
+        "title": "Speech Emotion Recognition Using Transfer Learning and Self-Supervised Speech Representation Learning",
+        "authors": "Babak Nasersharif, Marziye Azad",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icee59167.2023.10334799"
+    },
+    {
+        "id": 18589,
+        "title": "Leveraging Unsupervised and Self-Supervised Learning for Video Anomaly Detection",
+        "authors": "Devashish Lohani, Carlos Crispim-Junior, Quentin Barthélemy, Sarah Bertrand, Lionel Robinault, Laure Rodet",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011663600003417"
+    },
+    {
+        "id": 18590,
+        "title": "Extending Self-Distilled Self-Supervised Learning For Semi-Supervised Speaker Verification",
+        "authors": "Jeong-Hwan Choi, Jehyun Kyung, Ju-Seok Seong, Ye-Rin Jeoung, Joon-Hyuk Chang",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389802"
+    },
+    {
+        "id": 18591,
+        "title": "Self-supervised Learning for Expression Recognition on Small-scale Data Set",
+        "authors": "Songyang Li, Kensei Tsuchida, Takaaki Goto, Tadaaki Kirishima",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn this paper, we propose a facial micro-expression recognition method utilizing self-supervised learning and Vision Transformer. We employ a contrast learning approach for self-supervision and extract image features using an attention mechanism. Various data augmentation techniques were utilized, and we specifically designed an enhancement method for facial recognition. By combining the strengths of the Vision Transformer and CNN models for feature extraction, our approach achieves improved recognition accuracy, even with limited labeled data. Experimental evaluation shows that our proposed method has good results in facial micro-expression recognition tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2637/1/012038"
+    },
+    {
+        "id": 18592,
+        "title": "Modeling multi-attribute and implicit relationship factors with self-supervised learning for recommender systems",
+        "authors": "Linfeng Hu, Junhao Wen, Hanwen Zhang, Wei Zhou, Hongyu Wang",
+        "published": "2023-5-18",
+        "citations": 0,
+        "abstract": "Interactions of users and items can be naturally modeled as a user-item bipartite graph in recommender systems, and emerging research is devoted to exploring user-item graphs for collaborative filtering methods. In reality, user-item interaction usually stems from more complex underlying factors, such as the users’ specific preferences. A user-item bipartite graph could be used to understand the differences in motivation. However, existing research has not clearly proposed and modeled the factors that affect the differences, ignoring the similarities between user pairs and item pairs, preventing them from capturing fine-grained user preferences more effectively. In addition to the two points mentioned above, most GNN-based models for recommendation have the following two limitations: First, the model’s accuracy depends on the number of observed interactions in the dataset. Secondly, node representations are vulnerable to noisy interactions. This work has developed a novel recommendation model called “Multi-Attribute and Implicit Relationship Factors With Self-Supervised Learning for Collaborative filtering” (MIS-CF), which explicitly proposes and models multi-attribute and implicit relationship factors for collaborative filtering recommendation. Meanwhile, an auxiliary self-supervised learning task is designed to help the downstream task optimize the node representation. MIS-CF aggregates multi-attribute spaces through the user-item bipartite graph and establishes user-user and item-item graphs to model the similar relationship information of neighbor pairs through a memory model. The self-supervised learning task generates contrastive learning via self-discrimination, thus mining the rich auxiliary signals within the data, improving the accuracy and robustness of our model. Moreover, the sparse regularizer is utilized to alleviate the overfitting problem. Extensive experimental results on three public datasets not only show the significant performance and robustness gain of the proposed model but also prove the effectiveness and interpretability of fine-grained implicit factors modeling.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/ida-226576"
+    },
+    {
+        "id": 18593,
+        "title": "Self-Supervised Learning for data scarcity in a fatigue damage prognostic problem",
+        "authors": "Anass Akrim, Christian Gogu, Rob Vingerhoeds, Michel Salaün",
+        "published": "2023-4",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.105837"
+    },
+    {
+        "id": 18594,
+        "title": "SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data",
+        "authors": "Mohammad Zohaib, Alessio Del Bue",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.02057"
+    },
+    {
+        "id": 18595,
+        "title": "Self-supervised visual learning for analyzing firearms trafficking activities on the Web",
+        "authors": "Sotirios Konstantakos, Despina Ioanna Chalkiadaki, Ioannis Mademlis, Adamantia Anna Rebolledo Chrysochoou, Georgios Th. Papadopoulos",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386795"
+    },
+    {
+        "id": 18596,
+        "title": "Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage Using Self-Supervised Learning",
+        "authors": "Asadullah Hill Galib, Andrew McDonald, Pang-Ning Tan, Lifeng Luo",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Forecasting the block maxima of a future time window is a challenging task due to the difficulty in inferring the tail distribution of a target variable. As the historical observations alone may not be sufficient to train robust models to predict the block maxima, domain-driven process models are often available in many scientific domains to supplement the observation data and improve the forecast accuracy. Unfortunately, coupling the historical observations with process model outputs is a challenge due to their disparate temporal coverage. This paper presents Self-Recover, a deep learning framework to predict the block maxima of a time window by employing self-supervised learning to address the varying temporal data coverage problem. Specifically Self-Recover uses a combination of contrastive and generative self-supervised learning schemes along with a denoising autoencoder to impute the missing values. The framework also combines representations of the historical observations with process model outputs via a residual learning approach and learns the generalized extreme value (GEV) distribution characterizing the block maxima values. This enables the framework to reliably estimate the block maxima of each time window along with its confidence interval. Extensive experiments on real-world datasets demonstrate the superiority of Self-Recover compared to other state-of-the-art forecasting methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/414"
+    },
+    {
+        "id": 18597,
+        "title": "Uncovering Self-Supervised Learning: From Current Applications to Future Trends",
+        "authors": "Pan Zhang, Qiwen He, Xiaofei Ai, Fuxing Ma",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3630138.3630529"
+    },
+    {
+        "id": 18598,
+        "title": "Hybrid Machine Learning Model for Anomaly Detection in Unlabelled Data of Wireless Sensor Networks",
+        "authors": "Anushka Srivastava, Manoranjan Rai Bharti",
+        "published": "2023-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11277-023-10253-2"
+    },
+    {
+        "id": 18599,
+        "title": "IPCL: Iterative Pseudo-Supervised Contrastive Learning to Improve Self-Supervised Feature Representation",
+        "authors": "Sonal Kumar, Anirudh Phukan, Arijit Sur",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447607"
+    },
+    {
+        "id": 18600,
+        "title": "Weakly Supervised Intracranial Hemorrhage Segmentation using Head-Wise Gradient-Infused Self-Attention Maps from a Swin Transformer in Categorical Learning",
+        "authors": "Amirhossein Rasoulian, Soorena Salari, Yiming Xiao",
+        "published": "2023-8-29",
+        "citations": 0,
+        "abstract": "Intracranial hemorrhage (ICH) is a life-threatening medical emergency that requires timely and accurate diagnosis for effective treatment and improved patient survival rates. While deep learning techniques have emerged as the leading approach for medical image analysis and processing, the most commonly employed supervised learning often requires large, high-quality annotated datasets that can be costly to obtain, particularly for pixel/voxel-wise image segmentation. To address this challenge and facilitate ICH treatment decisions, we introduce a novel weakly supervised method for ICH segmentation, utilizing a Swin transformer trained on an ICH classification task with categorical labels. Our approach leverages a hierarchical combination of head-wise gradient-infused self-attention maps to generate accurate image segmentation. Additionally, we conducted an exploratory study on different learning strategies and showed that binary ICH classification has a more positive impact on self-attention maps compared to full ICH subtyping. With a mean Dice score of 0.44, our technique achieved similar ICH segmentation performance as the popular U-Net and Swin-UNETR models with full supervision and outperformed a similar weakly supervised approach using GradCAM, demonstrating the excellent potential of the proposed framework in challenging medical image segmentation tasks. Our code is available at <a href='https://github.com/HealthX-Lab/HGI-SAM'>https://github.com/HealthX-Lab/HGI-SAM</a>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59275/j.melba.2023-553a"
+    },
+    {
+        "id": 18601,
+        "title": "Self-supervised semi-supervised nonnegative matrix factorization for data clustering",
+        "authors": "Jovan Chavoshinejad, Seyed Amjad Seyedi, Fardin Akhlaghian Tab, Navid Salahian",
+        "published": "2023-5",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2022.109282"
+    },
+    {
+        "id": 18602,
+        "title": "A Generic Self-Supervised Learning (SSL) Framework for Representation Learning from Spectral–Spatial Features of Unlabeled Remote Sensing Imagery",
+        "authors": "Xin Zhang, Liangxiu Han",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "Remote sensing data has been widely used for various Earth Observation (EO) missions such as land use and cover classification, weather forecasting, agricultural management, and environmental monitoring. Most existing remote-sensing-data-based models are based on supervised learning that requires large and representative human-labeled data for model training, which is costly and time-consuming. The recent introduction of self-supervised learning (SSL) enables models to learn a representation from orders of magnitude more unlabeled data. The success of SSL is heavily dependent on a pre-designed pretext task, which introduces an inductive bias into the model from a large amount of unlabeled data. Since remote sensing imagery has rich spectral information beyond the standard RGB color space, it may not be straightforward to extend to the multi/hyperspectral domain the pretext tasks established in computer vision based on RGB images. To address this challenge, this work proposed a generic self-supervised learning framework based on remote sensing data at both the object and pixel levels. The method contains two novel pretext tasks, one for object-based and one for pixel-based remote sensing data analysis methods. One pretext task is used to reconstruct the spectral profile from the masked data, which can be used to extract a representation of pixel information and improve the performance of downstream tasks associated with pixel-based analysis. The second pretext task is used to identify objects from multiple views of the same object in multispectral data, which can be used to extract a representation and improve the performance of downstream tasks associated with object-based analysis. The results of two typical downstream task evaluation exercises (a multilabel land cover classification task on Sentinel-2 multispectral datasets and a ground soil parameter retrieval task on hyperspectral datasets) demonstrate that the proposed SSL method learns a target representation that covers both spatial and spectral information from massive unlabeled data. A comparison with currently available SSL methods shows that the proposed method, which emphasizes both spectral and spatial features, outperforms existing SSL methods on multi- and hyperspectral remote sensing datasets. We believe that this approach has the potential to be effective in a wider range of remote sensing applications and we will explore its utility in more remote sensing applications in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15215238"
+    },
+    {
+        "id": 18603,
+        "title": "Self-supervised Learning for Fine-grained Ethnicity Classification under Limited Labeled Data",
+        "authors": "Kunyan Li, Jie Zhang, Shiguang Shan",
+        "published": "2023-1-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fg57933.2023.10042748"
+    },
+    {
+        "id": 18604,
+        "title": "RL-CCD: Concurrent Clock and Data Optimization using Attention-Based Self-Supervised Reinforcement Learning",
+        "authors": "Yi-Chen Lu, Wei-Ting Chan, Deyuan Guo, Sudipto Kundu, Vishal Khandelwal, Sung Kyu Lim",
+        "published": "2023-7-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dac56929.2023.10248008"
+    },
+    {
+        "id": 18605,
+        "title": "Self-supervised Pre-training and Semi-supervised Learning for Extractive Dialog Summarization",
+        "authors": "Yingying Zhuang, Jiecheng Song, Narayanan Sadagopan, Anurag Beniwal",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3543873.3587680"
+    },
+    {
+        "id": 18606,
+        "title": "Contrastive self-supervised representation learning framework for metal surface defect detection",
+        "authors": "Mahe Zabin, Anika Nahian Binte Kabir, Muhammad Khubayeeb Kabir, Ho-Jin Choi, Jia Uddin",
+        "published": "2023-9-26",
+        "citations": 1,
+        "abstract": "AbstractAutomated detection of defects on metal surfaces is crucial for ensuring quality control. However, the scarcity of labeled datasets for emerging target defects poses a significant obstacle. This study proposes a self-supervised representation-learning model that effectively addresses this limitation by leveraging both labeled and unlabeled data. The proposed model was developed based on a contrastive learning framework, supported by an augmentation pipeline and a lightweight convolutional encoder. The effectiveness of the proposed approach for representation learning was evaluated using an unlabeled pretraining dataset created from three benchmark datasets. Furthermore, the performance of the proposed model was validated using the NEU metal surface-defect dataset. The results revealed that the proposed method achieved a classification accuracy of 97.78%, even with fewer trainable parameters than the benchmark models. Overall, the proposed model effectively extracted meaningful representations from unlabeled image data and can be employed in downstream tasks for steel defect classification to improve quality control and reduce inspection costs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40537-023-00827-z"
+    },
+    {
+        "id": 18607,
+        "title": "Penerapan Algoritma Supervised Learning untuk Klasifikasi Data Music Listening",
+        "authors": "Eri Mardiani, Nur Rahmansyah, Ira Kurniati, Andy Setiawan, Diah Widiastuti, Muhammad Ridwan, Muhammad Zidan Rosyid, Ari Febriansyah",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "Perkembangan teknologi informasi semakin pesat hingga saat ini terus dikembangkan teknologi-teknologi terbaru, penggunaan data sebagai pengolahan kini semakin banyak diterapkan pada berbagai bidang, dengan penggunaan data dapat dilakukan perkembangan teknologi yang dapat meningkatkankan kualitas dan efisiensi, pengolahan data dapat diterapkan di semua bidang dan salah satunya adalah di bidang musik. Musik sudah menjadi bagian dari kehidupan manusia sehari-hari. Sudah banyak media-media yang menyajikan berbagai macam lagu dengan genre yang beragam pula mulai dari Pop, Jazz, Rock, R&B, dan genre-genre lainnya. Dengan  menggunakan data mining untuk mengolah data maupun menganalisis data-data musik kita dapat memprediksi keanekaragaman preferensi mendengarkan musik dan dengan menggunakan tools aplikasi Orange Data Mining dapat membantu masyarakat untuk mengetahui musik apa saja yang diminat dengan memprediksi melalui beberapa metode dalam tools orange, dengan Algoritma Naive Bayes memiliki tingkat akurasi yang lebih baik.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.57152/malcom.v3i2.879"
+    },
+    {
+        "id": 18608,
+        "title": "What Determines Enterprise Borrowing from Self Help Groups? An Interpretable Supervised Machine Learning Approach",
+        "authors": "Madhura Dasgupta, Samarth Gupta",
+        "published": "2023-9-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10693-023-00416-4"
+    },
+    {
+        "id": 18609,
+        "title": "Self-Supervised Learning With Data-Efficient Supervised Fine-Tuning for Crowd Counting",
+        "authors": "Rui Wang, Yixue Hao, Long Hu, Jincai Chen, Min Chen, Di Wu",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmm.2023.3251106"
+    },
+    {
+        "id": 18610,
+        "title": "Self-Supervised Adversarial Variational Learning",
+        "authors": "Fei Ye, Adrian. G. Bors",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.110156"
+    },
+    {
+        "id": 18611,
+        "title": "SSLRec: A Self-Supervised Learning Framework for Recommendation",
+        "authors": "Xubin Ren, Lianghao Xia, Yuhao Yang, Wei Wei, Tianle Wang, Xuheng Cai, Chao Huang",
+        "published": "2024-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3616855.3635814"
+    },
+    {
+        "id": 18612,
+        "title": "Modeling Long- and Short-Term User Preferences via Self-Supervised Learning for Next POI Recommendation",
+        "authors": "Shaowei Jiang, Wei He, Lizhen Cui, Yonghui Xu, Lei Liu",
+        "published": "2023-11-30",
+        "citations": 1,
+        "abstract": "With the accumulation of check-in data from location-based services, next Point-of-Interest (POI) recommendations are gaining increasing attention. It is well known that the spatio-temporal contextual information of user check-in behavior plays a crucial role in handling vital and inherent challenges in next POI recommendation, including capture of user dynamic preferences and the sparsity problem of check-in data. However, many studies either ignore or simply stack the context features with the embedding of POIs while relying only on POI recommendation loss to optimize the entire model, therefore failing to take full advantage of the potential information in contexts. Additionally, users’ interests are usually unstable and evolve over time, and accordingly recent studies have proposed various approaches to predict users’ next POIs by incorporating contextual information and modeling both their long- and short-term preferences, respectively. Yet many studies overemphasize the final POI recommendation performance, and the association between POI sequences and contextual information is not well embodied in data representations. In this article, we focus on the preceding problems and propose a unified attention framework for next POI recommendation by modeling users’ Long- and Short-term Preferences via Self-supervised Learning (LSPSL). Specifically, based on the self-attention network and two self-supervised optimization objectives, LSPSL first deeply exploits the intrinsic correlations between POI sequences and contextual information through pre-training, which strengthens data representations. Then, supported by pre-trained contextualized embeddings, LSPSL models and fuses users’ complex long- and short-term preferences in a unified way. Extensive experiments on real-world datasets demonstrate the superiority of our model compared with other state-of-the-art approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3597211"
+    },
+    {
+        "id": 18613,
+        "title": "Scalable and Accurate Self-supervised Multimodal Representation Learning without Aligned Video and Text Data",
+        "authors": "Vladislav Lialin, Stephen Rawls, David Chan, Shalini Ghosh, Anna Rumshisky, Wael Hamza",
+        "published": "2023-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacvw58289.2023.00043"
+    },
+    {
+        "id": 18614,
+        "title": "Self-Supervised Skill Learning for Semi-Supervised Long-Horizon Instruction Following",
+        "authors": "Benhui Zhuang, Chunhong Zhang, Zheng Hu",
+        "published": "2023-3-28",
+        "citations": 0,
+        "abstract": "Language as an abstraction for hierarchical agents is promising to solve compositional long-time horizon decision-making tasks. The learning of the agent poses significant challenges, as it typically requires plenty of trajectories annotated with languages. This paper addresses the challenge of learning such an agent under the scarcity of language annotations. One approach for leveraging unannotated data is to generate pseudo-labels for unannotated trajectories using sparse seed annotations. However, as the scenes of the environment and tasks assigned to the agent are diverse, the inference of language instructions is sometimes incorrect, causing the policy to learn to ground incorrect instructions to actions. In this work, we propose a self-supervised language-conditioned hierarchical skill policy (SLHSP) which utilizes unannotated data to learn reusable and general task-related skills to facilitate learning from sparse annotations. We demonstrate that the SLHSP that learned with less than 10% of annotated trajectories has a comparable performance to one that learned with 100% of annotated data. Our approach to the challenging ALFRED benchmark leads to a notable improvement in the success rate over a strong baseline also optimized for sparsely annotated data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12071587"
+    },
+    {
+        "id": 18615,
+        "title": "Dual Contrastive Learning for Self-Supervised ECG Mapping to Emotions and Glucose Levels",
+        "authors": "Noy Lalzary, Lior Wolf",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sensors56945.2023.10325116"
+    },
+    {
+        "id": 18616,
+        "title": "Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder",
+        "authors": "Jingru Lin, Xianghu Yue, Junyi Ao, Haizhou Li",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-359"
+    },
+    {
+        "id": 18617,
+        "title": "Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics",
+        "authors": "Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang",
+        "published": "2023-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icde55515.2023.00070"
+    },
+    {
+        "id": 18618,
+        "title": "Improved Acoustic-to-Articulatory Inversion Using Representations from Pretrained Self-Supervised Learning Models",
+        "authors": "Sathvik Udupa, Siddarth C, Prasanta Kumar Ghosh",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094703"
+    },
+    {
+        "id": 18619,
+        "title": "Trinet: Stabilizing Self-Supervised Learning From Complete or Slow Collapse",
+        "authors": "Lixin Cao, Jun Wang, Ben Yang, Dan Su, Dong Yu",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094725"
+    },
+    {
+        "id": 18620,
+        "title": "Simultaneous multi-crop land suitability prediction from remote sensing data using semi-supervised learning",
+        "authors": "Amanjot Bhullar, Khurram Nadeem, R. Ayesha Ali",
+        "published": "2023-4-26",
+        "citations": 8,
+        "abstract": "AbstractLand suitability models for Canada are currently based on single-crop inventories and expert opinion. We present a data-driven multi-layer perceptron that simultaneously predicts the land suitability of several crops in Canada, including barley, peas, spring wheat, canola, oats, and soy. Available crop yields from 2013–2020 are downscaled to the farm level by masking the district level crop yield data to focus only on areas where crops are cultivated and leveraging soil-climate-landscape variables obtained from Google Earth Engine for crop yield prediction. This new semi-supervised learning approach can accommodate data from different spatial resolutions and enables training with unlabelled data. The incorporation of a crop indicator function further allows for the training of a multi-crop model that can capture the interdependences and correlations between various crops, thereby leading to more accurate predictions. Through k-fold cross-validation, we show that compared to the single crop models, our multi-crop model could produce up to a 2.82 fold reduction in mean absolute error for any particular crop. We found that barley, oats, and mixed grains were more tolerant to soil-climate-landscape variations and could be grown in many regions of Canada, while non-grain crops were more sensitive to environmental factors. Predicted crop suitability was associated with a region’s growing season length, which supports climate change projections that regions of northern Canada will become more suitable for agricultural use. The proposed multi-crop model could facilitate assessment of the suitability of northern lands for crop cultivation and be incorporated into cost-benefit analyses.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-33840-6"
+    },
+    {
+        "id": 18621,
+        "title": "TabFedSL: A Self-Supervised Approach to Labeling Tabular Data in Federated Learning Environments",
+        "authors": "Ruixiao Wang, Yanxin Hu, Zhiyu Chen, Jianwei Guo, Gang Liu",
+        "published": "2024-4-12",
+        "citations": 0,
+        "abstract": "Currently, self-supervised learning has shown effectiveness in solving data labeling issues. Its success mainly depends on having access to large, high-quality datasets with diverse features. It also relies on utilizing the spatial, temporal, and semantic structures present in the data. However, domains such as finance, healthcare, and insurance primarily utilize tabular data formats. This presents challenges for traditional data augmentation methods aimed at improving data quality. Furthermore, the privacy-sensitive nature of these domains complicates the acquisition of the extensive, high-quality datasets necessary for training effective self-supervised models. To tackle these challenges, our proposal introduces a novel framework that combines self-supervised learning with Federated Learning (FL). This approach aims to solve the problem of data-distributed training while ensuring training quality. Our framework improves upon the conventional self-supervised learning data augmentation paradigm by incorporating data labeling through the segmentation of data into subsets. Our framework adds noise by splitting subsets of data and can achieve the same level of centralized learning in a distributed environment. Moreover, we conduct experiments on various public tabular datasets to evaluate our approach. The experimental results showcase the effectiveness and generalizability of our proposed method in scenarios involving unlabeled data and distributed settings.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math12081158"
+    },
+    {
+        "id": 18622,
+        "title": "ConMLP: MLP-Based Self-Supervised Contrastive Learning for Skeleton Data Analysis and Action Recognition",
+        "authors": "Chuan Dai, Yajuan Wei, Zhijie Xu, Minsi Chen, Ying Liu, Jiulun Fan",
+        "published": "2023-2-22",
+        "citations": 4,
+        "abstract": "Human action recognition has drawn significant attention because of its importance in computer vision-based applications. Action recognition based on skeleton sequences has rapidly advanced in the last decade. Conventional deep learning-based approaches are based on extracting skeleton sequences through convolutional operations. Most of these architectures are implemented by learning spatial and temporal features through multiple streams. These studies have enlightened the action recognition endeavor from various algorithmic angles. However, three common issues are observed: (1) The models are usually complicated; therefore, they have a correspondingly higher computational complexity. (2) For supervised learning models, the reliance on labels during training is always a drawback. (3) Implementing large models is not beneficial to real-time applications. To address the above issues, in this paper, we propose a multi-layer perceptron (MLP)-based self-supervised learning framework with a contrastive learning loss function (ConMLP). ConMLP does not require a massive computational setup; it can effectively reduce the consumption of computational resources. Compared with supervised learning frameworks, ConMLP is friendly to the huge amount of unlabeled training data. In addition, it has low requirements for system configuration and is more conducive to being embedded in real-world applications. Extensive experiments show that ConMLP achieves the top one inference result of 96.9% on the NTU RGB+D dataset. This accuracy is higher than the state-of-the-art self-supervised learning method. Meanwhile, ConMLP is also evaluated in a supervised learning manner, which has achieved comparable performance to the state of the art of recognition accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23052452"
+    },
+    {
+        "id": 18623,
+        "title": "Unbiased and Efficient Self-Supervised Incremental Contrastive Learning",
+        "authors": "Cheng Ji, Jianxin Li, Hao Peng, Jia Wu, Xingcheng Fu, Qingyun Sun, Philip S. Yu",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3539597.3570458"
+    },
+    {
+        "id": 18624,
+        "title": "Seismic Data Denoising Using a Self-Supervised Deep Learning Network",
+        "authors": "Detao Wang, Guoxiong Chen, Jianwei Chen, Qiuming Cheng",
+        "published": "2024-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11004-023-10089-3"
+    },
+    {
+        "id": 18625,
+        "title": "A study of contrastive self-supervised learning generalization based on augmented data",
+        "authors": "Jiarui Zhang, Tian Wang, Jian Wang, Ce Li, Yao Fu, Hichem Soussi",
+        "published": "2023-8-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/yac59482.2023.10401602"
+    },
+    {
+        "id": 18626,
+        "title": "Korean Text to Gloss: Self-Supervised Learning approach",
+        "authors": "Thanh-Vu Dang, JinYoung Kim, Gwang-Hyun Yu, Ji Yong Kim, Young Hwan Park, ChilWoo Lee,  ",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "Natural Language Processing (NLP) has grown tremendously in recent years. Typically, bilingual, and multilingual translation models have been deployed widely in machine translation and gained vast attention from the research community. On the contrary, few studies have focused on translating between spoken and sign languages, especially non-English languages. Prior works on Sign Language Translation (SLT) have shown that a mid-level sign gloss representation enhances translation performance. Therefore, this study presents a new large-scale Korean sign language dataset, the Museum-Commentary Korean Sign Gloss (MCKSG) dataset, including 3828 pairs of Korean sentences and their corresponding sign glosses used in Museum-Commentary contexts. In addition, we propose a translation framework based on self-supervised learning, where the pretext task is a text-to-text from a Korean sentence to its back-translation versions, then the pre-trained network will be fine-tuned on the MCKSG dataset. Using self-supervised learning help to overcome the drawback of a shortage of sign language data. Through experimental results, our proposed model outperforms a baseline BERT model by 6.22%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30693/smj.2023.12.1.32"
+    },
+    {
+        "id": 18627,
+        "title": "Novel transformer-based self-supervised learning methods for improved HVAC fault diagnosis performance with limited labeled data",
+        "authors": "Cheng Fan, Yutian Lei, Yongjun Sun, Like Mo",
+        "published": "2023-9",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2023.127972"
+    },
+    {
+        "id": 18628,
+        "title": "Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection",
+        "authors": "Yu Zheng, Ming Jin, Yixin Liu, Lianhua Chi, Khoa T. Phan, Yi-Ping Phoebe Chen",
+        "published": "2023-12-1",
+        "citations": 27,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tkde.2021.3119326"
+    },
+    {
+        "id": 18629,
+        "title": "A Self-Supervised Deep Learning Method for Seismic Data Deblending Using a Blind-Trace Network",
+        "authors": "Shirui Wang, Wenyi Hu, Pengyu Yuan, Xuqing Wu, Qunshan Zhang, Prashanth Nadukandi, German Ocampo Botero, Jiefu Chen",
+        "published": "2023-7",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3188915"
+    },
+    {
+        "id": 18630,
+        "title": "Revisiting Self-supervised Learning of Speech Representation from a Mutual Information Perspective",
+        "authors": "Alexander H. Liu, Sung-Lin Yeh, James R. Glass",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447758"
+    },
+    {
+        "id": 18631,
+        "title": "IMPROVING SELF-SUPERVISED LEARNING FOR MULTI-LABEL CLASSIFICATION USING MIX-BASED AUGMENTATIONS",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35741/issn.0258-2724.58.1.66"
+    },
+    {
+        "id": 18632,
+        "title": "A Review on Self-Supervised Learning",
+        "authors": "Athul Raj, Srinjoy Dutta",
+        "published": "2023-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31871/ijntr.9.1.7"
+    },
+    {
+        "id": 18633,
+        "title": "Semi-supervised deep learning for recognizing construction activity types from vibration monitoring data",
+        "authors": "Qiuhan Meng, Shiguang Wang, Songye Zhu",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.autcon.2023.104910"
+    },
+    {
+        "id": 18634,
+        "title": "MSTDKD: a framework of using multiple self-supervised methods for semi-supervised learning",
+        "authors": "JiaBin Liu, XuanMing Zhang, Jun Hu",
+        "published": "2023-2-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2661030"
+    },
+    {
+        "id": 18635,
+        "title": "Spoofing Attacker Also Benefits from Self-Supervised Pretrained Model",
+        "authors": "Aoi Ito, Shota Horiguchi",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-270"
+    },
+    {
+        "id": 18636,
+        "title": "Self-Distilled Self-supervised Representation Learning",
+        "authors": "Jiho Jang, Seonhoon Kim, Kiyoon Yoo, Chaerin Kong, Jangho Kim, Nojun Kwak",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00285"
+    },
+    {
+        "id": 18637,
+        "title": "EMS2L: Enhanced Multi-Task Self-Supervised Learning for 3D Skeleton Representation Learning",
+        "authors": "Lilang Lin, Jiaying Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1561/116.00000022"
+    },
+    {
+        "id": 18638,
+        "title": "Renewable energy forecasting: A self-supervised learning-based transformer variant",
+        "authors": "Jiarui Liu, Yuchen Fu",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2023.128730"
+    },
+    {
+        "id": 18639,
+        "title": "Self-Supervised Adversarial Imitation Learning",
+        "authors": "Juarez Monteiro, Nathan Gavenski, Felipe Meneguzzi, Rodrigo C. Barros",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191197"
+    },
+    {
+        "id": 18640,
+        "title": "Self-Supervised Learning of Free-Hand Sketches with Bézier Curve Features",
+        "authors": "Taner Gülez, Mustafa Sert",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ism59092.2023.00030"
+    },
+    {
+        "id": 18641,
+        "title": "Dialect Speech Recognition Modeling using Corpus of Japanese Dialects and Self-Supervised Learning-based Model XLSR",
+        "authors": "Shogo Miwa, Atsuhiko Kai",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-2463"
+    },
+    {
+        "id": 18642,
+        "title": "Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations",
+        "authors": "Salah Zaiem, Titouan Parcollet, Slim Essid",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1040"
+    },
+    {
+        "id": 18643,
+        "title": "Semi-supervised learning made simple with self-supervised clustering",
+        "authors": "Enrico Fini, Pietro Astolfi, Karteek Alahari, Xavier Alameda-Pineda, Julien Mairal, Moin Nabi, Elisa Ricci",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvpr52729.2023.00311"
+    },
+    {
+        "id": 18644,
+        "title": "Self-supervised and supervised deep learning for PET image reconstruction",
+        "authors": "Andrew J. Reader",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0203321"
+    },
+    {
+        "id": 18645,
+        "title": "Automatic Lung Segmentation in Chest X-Ray Images Using Self-Supervised Learning",
+        "authors": "Peilin Li, Siyu Xia",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240997"
+    },
+    {
+        "id": 18646,
+        "title": "ViewMix: Augmentation for Robust Representation in Self-Supervised Learning",
+        "authors": "Arjon Das, Xin Zhong",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3353133"
+    },
+    {
+        "id": 18647,
+        "title": "MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations",
+        "authors": "Calum Heggan, Tim Hospedales, Sam Budgett, Mehrdad Yaghoobi",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1064"
+    },
+    {
+        "id": 18648,
+        "title": "CycleCL: Self-supervised Learning for Periodic Videos",
+        "authors": "Matteo Destro, Michael Gygli",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00284"
+    },
+    {
+        "id": 18649,
+        "title": "Self-Supervised Learning for Anomalous Sound Detection",
+        "authors": "Kevin Wilkinghoff",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447156"
+    },
+    {
+        "id": 18650,
+        "title": "Self-Supervised Training for Bearing Fault Diagnosis via Momentum Contrast Learning",
+        "authors": "Kai Wang, Chun Liu, Liang Xu",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451088"
+    },
+    {
+        "id": 18651,
+        "title": "SeRO: Self-Supervised Reinforcement Learning for Recovery from Out-of-Distribution Situations",
+        "authors": "Chan Kim, Jaekyung Cho, Christophe Bobda, Seung-Woo Seo, Seong-Woo Kim",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Robotic agents trained using reinforcement learning have the problem of taking unreliable actions in an out-of-distribution (OOD) state. Agents can easily become OOD in real-world environments because it is almost impossible for them to visit and learn the entire state space during training. Unfortunately, unreliable actions do not ensure that agents perform their original tasks successfully. Therefore, agents should be able to recognize whether they are in OOD states and learn how to return to the learned state distribution rather than continue to take unreliable actions. In this study, we propose a novel method for retraining agents to recover from OOD situations in a self-supervised manner when they fall into OOD states. Our in-depth experimental results demonstrate that our method substantially improves the agent’s ability to recover from OOD situations in terms of sample efficiency and restoration of the performance for the original tasks. Moreover, we show that our method can retrain the agent to recover from OOD situations even when in-distribution states are difficult to visit through exploration. Code and supplementary materials are available at https://github.com/SNUChanKim/SeRO.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/432"
+    },
+    {
+        "id": 18652,
+        "title": "Evolutionary Augmentation Policy Optimization for Self-Supervised Learning",
+        "authors": "Noah Barrett, Zahra Sadeghi, Stan Matwin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Self-supervised Learning (SSL) is a machine learning algorithm for pretraining Deep Neural Networks (DNNs) without requiring manually labeled data. The central idea of this learning technique is based on an auxiliary stage aka pretext task in which labeled data are created automatically through data augmentation and exploited for pretraining the DNN. However, the effect of each pretext task is not well studied or compared in the literature. In this paper, we study the contribution of augmentation operators on the performance of self supervised learning algorithms in a constrained settings. We propose an evolutionary search method for optimization of data augmentation pipeline in pretext tasks and measure the impact of augmentation operators in several SOTA SSL algorithms. By encoding different combination of augmentation operators in chromosomes we seek the optimal augmentation policies through an evolutionary optimization mechanism. We further introduce methods for analyzing and explaining the performance of optimized SSL algorithms. Our results indicate that our proposed method can find solutions that outperform the accuracy of classification of SSL algorithms which confirms the influence of augmentation policy choice on the overall performance of SSL algorithms. We also compare optimal SSL solutions found by our evolutionary search mechanism and show the effect of batch size in the pretext task on two visual datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54364/aaiml.2023.1167"
+    },
+    {
+        "id": 18653,
+        "title": "Deep Learning-Based Self-Supervised Transfer Learning for Medical Image Classification",
+        "authors": "M. Z. Shaikh, Samender Singh, Neeraj Varshney, Birendra Kumar Saraswat",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt61202.2024.10488985"
+    },
+    {
+        "id": 18654,
+        "title": "Improving speech emotion recognition by fusing self-supervised learning and spectral features via mixture of experts",
+        "authors": "Jonghwan Hyeon, Yung-Hwan Oh, Young-Jun Lee, Ho-Jin Choi",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.datak.2023.102262"
+    },
+    {
+        "id": 18655,
+        "title": "Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning",
+        "authors": "Chaozhuo Li, Senzhang Wang, Jie Xu, Zheng Liu, Hao Wang, Xing Xie, Lei Chen, Philip S. Yu",
+        "published": "2023-10-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tkde.2023.3250245"
+    },
+    {
+        "id": 18656,
+        "title": "Analysis of RNA-Seq data using self-supervised learning for vital status prediction of colorectal cancer patients",
+        "authors": "Girivinay Padegal, Murali Krishna Rao, Om Amitesh Boggaram Ravishankar, Sathwik Acharya, Prashanth Athri, Gowri Srinivasa",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nRNA sequencing (RNA-Seq) is a technique that utilises the capabilities of next-generation sequencing to study a cellular transcriptome i.e., to determine the amount of RNA at a given time for a given biological sample. The advancement of RNA-Seq technology has resulted in a large volume of gene expression data for analysis.\n\nResults\nOur computational model (built on top of TabNet) is first pretrained on an unlabelled dataset of multiple types of adenomas and adenocarcinomas and later fine-tuned on the labelled dataset, showing promising results in the context of the estimation of the vital status of colorectal cancer patients. We achieve a final cross-validated (ROC-AUC) Score of 0.88 by using multiple modalities of data.\n\nConclusion\nThe results of this study demonstrate that self-supervised learning methods pretrained on a vast corpus of unlabelled data outperform traditional supervised learning methods such as XGBoost, Neural Networks, and Decision Trees that have been prevalent in the tabular domain. The results of this study are further boosted by the inclusion of multiple modalities of data pertaining to the patients in question. We find that genes such as RBM3, GSPT1, MAD2L1, and others important to the computation model’s prediction task obtained through model interpretability corroborate with pathological evidence in current literature.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05347-4"
+    },
+    {
+        "id": 18657,
+        "title": "Towards robust log parsing using self-supervised learning for system security analysis",
+        "authors": "Jinhui Cao, Xiaoqiang Di, Xu Liu, Rui Xu, Jinqing Li, Weiwu Ren, Hui Qi, Pengfei Hu, Kehan Zhang, Bo Li",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "Logs play an important role in anomaly detection, fault diagnosis, and trace checking of software and network systems. Log parsing, which converts each raw log line to a constant template and a variable parameter list, is a prerequisite for system security analysis. Traditional parsing methods utilizing specific rules can only parse logs of specific formats, and most parsing methods based on deep learning require labels. However, the existing parsing methods are not applicable to logs of inconsistent formats and insufficient labels. To address these issues, we propose a robust Log parsing method based on Self-supervised Learning (LogSL), which can extract templates from logs of different formats. The essential idea of LogSL is modeling log parsing as a multi-token prediction task, which makes the multi-token prediction model learn the distribution of tokens belonging to the template in raw log lines by self-supervision mode. Furthermore, to accurately predict the tokens of the template without labeled data, we construct a Multi-token Prediction Model (MPM) combining the pre-trained XLNet module, the n-layer stacked Long Short-Term Memory Net module, and the Self-attention module. We validate LogSL on 12 benchmark log datasets, resulting in the average parsing accuracy of our parser being 3.9% higher than that of the best baseline method. Experimental results show that LogSL has superiority in terms of robustness and accuracy. In addition, a case study of anomaly detection is conducted to demonstrate the support of the proposed MPM to system security tasks based on logs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/ida-230133"
+    },
+    {
+        "id": 18658,
+        "title": "CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent Masking",
+        "authors": "Shohreh Deldari, Dimitris Spathis, Mohammad Malekzadeh, Fahim Kawsar, Flora D. Salim, Akhil Mathur",
+        "published": "2024-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3616855.3635795"
+    },
+    {
+        "id": 18659,
+        "title": "Self-Supervised Lidar Place Recognition in Overhead Imagery Using Unpaired Data",
+        "authors": "Tim Tang, Daniele Martini, Paul Newman",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.098"
+    },
+    {
+        "id": 18660,
+        "title": "Irregularly sampled seismic data interpolation with self-supervised learning",
+        "authors": "Wenqian Fang, Lihua Fu, Mengyi Wu, Jingnan Yue, Hongwei Li",
+        "published": "2023-5-1",
+        "citations": 4,
+        "abstract": " Supervised convolutional neural networks (CNNs) are commonly used for seismic data interpolation, in which a recovery network is trained over corrupted (input)/complete (label) pairs. However, the trained model always suffers from poor generalization when the target test data are significantly different from the training data sets. To address this issue, we have developed a self-supervised deep learning method for interpolating irregularly missing traces, which uses only the corrupted seismic data for training. This approach is based on the receptive field characteristic of CNNs, and the training pairs are extracted from the corrupted seismic data through a random trace mask. After network training, all target data are recovered using the trained model. This self-supervised learning interpolation (SSLI) method can be easily integrated into commonly used CNNs. Synthetic and field examples demonstrate that SSLI not only significantly outperforms traditional multichannel singular spectrum analysis and unsupervised deep seismic prior methods but also competes with supervised learning methods. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2022-0586.1"
+    },
+    {
+        "id": 18661,
+        "title": "Review on self supervised learning in medical image analysis",
+        "authors": "Nitu Kumari, Sonali Agrawal",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cict59886.2023.10455714"
+    },
+    {
+        "id": 18662,
+        "title": "Investigating self-supervised learning for Skin Lesion Classification",
+        "authors": "Takumi Morita, Xian-Hua Han",
+        "published": "2023-7-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/mva57639.2023.10215580"
+    },
+    {
+        "id": 18663,
+        "title": "OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition",
+        "authors": "Li Fu, Siqi Li, Qingtao Li, Fangzhu Li, Liping Deng, Lu Fan, Meng Chen, Youzheng Wu, Xiaodong He",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1609"
+    },
+    {
+        "id": 18664,
+        "title": "Self-supervised deep learning to predict molecular markers from routine histopathology slides for high-grade glioma tumors",
+        "authors": "Olivia Krebs, Shobhit Agarwal, Pallavi Tiwari",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2653929"
+    },
+    {
+        "id": 18665,
+        "title": "Comparison between supervised and self-supervised deep learning for SEM image denoising",
+        "authors": "Tomoyuki Okuda, Jun Chen, Takahiro Motoyoshi, Ryou Yumiba, Masayoshi Ishikawa, Yasutaka Toyoda",
+        "published": "2023-4-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2660673"
+    },
+    {
+        "id": 18666,
+        "title": "Exploring self-supervised learning in Multiview captcha recognition",
+        "authors": "Mukhtar Opeyemi Yusuf, Divya Srivastava, Riti Kushwaha",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indicon59947.2023.10440750"
+    },
+    {
+        "id": 18667,
+        "title": "MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets",
+        "authors": "Ziyang Ma, Zhisheng Zheng, Changli Tang, Yujin Wang, Xie Chen",
+        "published": "2023-8-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-822"
+    },
+    {
+        "id": 18668,
+        "title": "Exploring IT project performance from government big data using supervised machine learning: A managerial perspective",
+        "authors": "Kenneth David Strang N.A.",
+        "published": "2025",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbpm.2025.10063059"
+    },
+    {
+        "id": 18669,
+        "title": "Leveraging Unlabelled Data in Multiple-Instance Learning Problems for Improved Detection of Parkinsonian Tremor in Free-Living Conditions",
+        "authors": "Alexandros Papadopoulos, Anastasios Delopoulos",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jbhi.2023.3267095"
+    },
+    {
+        "id": 18670,
+        "title": "FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation",
+        "authors": "Tianyi Shi, Xiaohuan Ding, Liang Zhang, Xin Yang",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00087"
+    },
+    {
+        "id": 18671,
+        "title": "Phase retrieval network for multi-functional holography based on self-supervised learning",
+        "authors": "Jialei Xie, Lei Jin",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3023658"
+    },
+    {
+        "id": 18672,
+        "title": "Biased Self-supervised Learning for ASR",
+        "authors": "Florian L. Kreyssig, Yangyang Shi, Jinxi Guo, Leda Sari, Abdel-rahman Mohamed, Philip C. Woodland",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-2499"
+    },
+    {
+        "id": 18673,
+        "title": "Adding Distance Information to Self-Supervised Learning for rich Representations",
+        "authors": "Yeji Kim, Bai-Sun Kong",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222633"
+    },
+    {
+        "id": 18674,
+        "title": "Adopting Self-Supervised Learning into Unsupervised Video Summarization through Restorative Score.",
+        "authors": "Mehryar Abbasi, Parvaneh Saeedi",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222350"
+    },
+    {
+        "id": 18675,
+        "title": "Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features",
+        "authors": "Zheng Gao, Chen Feng, Ioannis Patras",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00179"
+    },
+    {
+        "id": 18676,
+        "title": "Self-supervised Learning with Temporary Exact Solutions: Linear Projection",
+        "authors": "Evrim Ozmermer, Qiang Li",
+        "published": "2023-7-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indin51400.2023.10217918"
+    },
+    {
+        "id": 18677,
+        "title": "Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection",
+        "authors": "Yuankun Xie, Haonan Cheng, Yutian Wang, Long Ye",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1383"
+    },
+    {
+        "id": 18678,
+        "title": "Class-Agnostic Self-Supervised Learning for Image Angle Classification",
+        "authors": "Hyeonseok Kim, Yeejin Lee",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/iccas59377.2023.10317040"
+    },
+    {
+        "id": 18679,
+        "title": "Boosting Ultrasonic Image Classification via Self-Supervised Representation Learning",
+        "authors": "Yajie Hou, Qingbing Sang",
+        "published": "2023-3-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccr56747.2023.10194197"
+    },
+    {
+        "id": 18680,
+        "title": "ASBERT: ASR-Specific Self-Supervised Learning with Self-Training",
+        "authors": "Hyung Yong Kim, Byeong-Yeol Kim, Seung Woo Yoo, Youshin Lim, Yunkyu Lim, Hanbin Lee",
+        "published": "2023-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/slt54892.2023.10023214"
+    },
+    {
+        "id": 18681,
+        "title": "Learning to Diagnose Cirrhosis from Radiological and Histological Labels with Joint Self and Weakly-Supervised Pretraining Strategies",
+        "authors": "Emma Sarfati, Alexandre Bône, Marc-Michel Rohê, Pietro Gori, Isabelle Bloch",
+        "published": "2023-4-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isbi53787.2023.10230783"
+    },
+    {
+        "id": 18682,
+        "title": "Self-Supervised 3D Human Mesh Recovery from a Single Image with Uncertainty-Aware Learning",
+        "authors": "Guoli Yan, Zichun Zhong, Jing Hua",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Despite achieving impressive improvement in accuracy, most existing monocular 3D human mesh reconstruction methods require large-scale 2D/3D ground-truths for supervision, which limits their applications on unlabeled in-the-wild data that is ubiquitous. To alleviate the reliance on 2D/3D ground-truths, we present a self-supervised 3D human pose and shape reconstruction framework that relies only on self-consistency between intermediate representations of images and projected 2D predictions. Specifically, we extract 2D joints and depth maps from monocular images as proxy inputs, which provides complementary clues to infer accurate 3D human meshes. Furthermore, to reduce the impacts from noisy and ambiguous inputs while better concentrate on the high-quality information, we design an uncertainty-aware module to automatically learn the reliability of the inputs at body-joint level based on the consistency between 2D joints and depth map. Experiments on benchmark datasets show that our approach outperforms other state-of-the-art methods at similar supervision levels.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i6.28462"
+    },
+    {
+        "id": 18683,
+        "title": "Cross-modal Manifold Cutmix for Self-supervised Video Representation Learning",
+        "authors": "Srijan Das, Michael Ryoo",
+        "published": "2023-7-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/mva57639.2023.10216260"
+    },
+    {
+        "id": 18684,
+        "title": "Language-Aware Multilingual Machine Translation with Self-Supervised Learning",
+        "authors": "Haoran Xu, Jean Maillard, Vedanuj Goswami",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-eacl.38"
+    },
+    {
+        "id": 18685,
+        "title": "Graph Neural Collaborative Filtering Algorithm Based on Self-Supervised Learning and Degree Centrality",
+        "authors": "Hao Wang, Chunlong Yao",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3613330.3613341"
+    },
+    {
+        "id": 18686,
+        "title": "Multi-View Self-Supervised Learning For Multivariate Variable-Channel Time Series",
+        "authors": "Thea Brüsch, Mikkel N. Schmidt, Tommy S. Alstrøm",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285993"
+    },
+    {
+        "id": 18687,
+        "title": "Self-Supervised Temporal Analysis of Spatiotemporal Data",
+        "authors": "Yi Cao, Swetava Ganguli, Vipul Pandey",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10282482"
+    },
+    {
+        "id": 18688,
+        "title": "STYLECAP: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-Supervised Learning Models",
+        "authors": "Kazuki Yamauchi, Yusuke Ijima, Yuki Saito",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10445977"
+    },
+    {
+        "id": 18689,
+        "title": "Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning",
+        "authors": "Sungnyun Kim, Sangmin Bae, Se-Young Yun",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvpr52729.2023.00728"
+    },
+    {
+        "id": 18690,
+        "title": "Emotion Detection from Textual Data Using Supervised Machine Learning Models",
+        "authors": "Rakshit R Malagi, Yogith R, Sai Prashanth T K, Ashwini Kodipalli, Trupthi Rao, Rohini B R",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incet57972.2023.10170212"
+    },
+    {
+        "id": 18691,
+        "title": "Multimodal self-supervised learning for semantic analysis of PolSAR imagery",
+        "authors": "Yanxin Dong, Ronny Hänsch",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10283301"
+    },
+    {
+        "id": 18692,
+        "title": "Reusability report: Leveraging supervised learning to uncover phenotype-relevant biology from single-cell RNA sequencing data",
+        "authors": "Yingying Cao, Tian-Gen Chang, Sahil Sahni, Eytan Ruppin",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s42256-024-00804-y"
+    },
+    {
+        "id": 18693,
+        "title": "Iterative Data Refinement for Self-Supervised Learning MR Image Reconstruction",
+        "authors": "Xue Liu, Juan Zou, Tao Sun, Ruoyou Wu, Xiawu Zheng, Cheng Li, Shanshan Wang",
+        "published": "2023-4-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isbi53787.2023.10230703"
+    },
+    {
+        "id": 18694,
+        "title": "Robust Hypergraph-Augmented Graph Contrastive Learning for Graph Self-Supervised Learning",
+        "authors": "Zeming Wang, Xiaoyang Li, Rui Wang, Changwen Zheng",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3590003.3590053"
+    },
+    {
+        "id": 18695,
+        "title": "Self-Supervised and Few-Shot Contrastive Learning Frameworks for Text Clustering",
+        "authors": "Haoxiang Shi, Tetsuya Sakai",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3302913"
+    },
+    {
+        "id": 18696,
+        "title": "Applying Self-Supervised Learning to Image Quality Assessment in Chest CT Imaging",
+        "authors": "Eléonore Pouget, Véronique Dedieu",
+        "published": "2024-3-29",
+        "citations": 0,
+        "abstract": "Many new reconstruction techniques have been deployed to allow low-dose CT examinations. Such reconstruction techniques exhibit nonlinear properties, which strengthen the need for a task-based measure of image quality. The Hotelling observer (HO) is the optimal linear observer and provides a lower bound of the Bayesian ideal observer detection performance. However, its computational complexity impedes its widespread practical usage. To address this issue, we proposed a self-supervised learning (SSL)-based model observer to provide accurate estimates of HO performance in very low-dose chest CT images. Our approach involved a two-stage model combining a convolutional denoising auto-encoder (CDAE) for feature extraction and dimensionality reduction and a support vector machine for classification. To evaluate this approach, we conducted signal detection tasks employing chest CT images with different noise structures generated by computer-based simulations. We compared this approach with two supervised learning-based methods: a single-layer neural network (SLNN) and a convolutional neural network (CNN). The results showed that the CDAE-based model was able to achieve similar detection performance to the HO. In addition, it outperformed both SLNN and CNN when a reduced number of training images was considered. The proposed approach holds promise for optimizing low-dose CT protocols across scanner platforms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/bioengineering11040335"
+    },
+    {
+        "id": 18697,
+        "title": "Randomized Quantization: A Generic Augmentation for Data Agnostic Self-supervised Learning",
+        "authors": "Huimin Wu, Chenyang Lei, Xiao Sun, Peng-Shuai Wang, Qifeng Chen, Kwang-Ting Cheng, Stephen Lin, Zhirong Wu",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01494"
+    },
+    {
+        "id": 18698,
+        "title": "Self-Supervised Learning for Seismic Data: Enhancing Model Interpretability With Seismic Attributes",
+        "authors": "Jose Julian Salazar, Eduardo Maldonado-Cruz, Jesus Ochoa, Michael J. Pyrcz",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tgrs.2023.3285820"
+    },
+    {
+        "id": 18699,
+        "title": "Self-Supervised Learning of Depth Maps for Autonomous Cars",
+        "authors": "Andrei-Sebastian Petrescu, Constantin-Cristian Damian, Daniela Coltuc",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10290114"
+    },
+    {
+        "id": 18700,
+        "title": "Self-Supervised Learning for Scanned Halftone Classification with Novel Augmentation Techniques",
+        "authors": "Jing-Ming Guo, Sankarasrinivasan Seshathiri",
+        "published": "2023-10-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222434"
+    },
+    {
+        "id": 18701,
+        "title": "Transfer Learning on Self-Supervised Model for SAR Target Recognition with Limited Labeled Data",
+        "authors": "Xiaoyu Liu, Lin Liu, Chenwei Wang, Jifang Pei, Weibo Huo, Yin Zhang, Yulin Huang",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10282523"
+    },
+    {
+        "id": 18702,
+        "title": "Representation Uncertainty in Self-Supervised Learning as Variational Inference",
+        "authors": "Hiroki Nakamura, Masashi Okada, Tadahiro Taniguchi",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01511"
+    },
+    {
+        "id": 18703,
+        "title": "Feature Decoupling in Self-supervised Representation Learning for Open Set Recognition",
+        "authors": "Jingyun Jia, Philip K. Chan",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191920"
+    },
+    {
+        "id": 18704,
+        "title": "Data Pre-Processing Tool for Supervised Machine Learning",
+        "authors": "",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets51015"
+    }
+]

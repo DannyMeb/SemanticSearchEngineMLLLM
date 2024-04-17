@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 20305,
+        "title": "Improving Long Text Understanding with Knowledge Distilled from Summarization Model",
+        "authors": "Yan Liu, Yazheng Yang, Xiaokang Chen",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448039"
+    },
+    {
+        "id": 20306,
+        "title": "Improving the BERT model for long text sequences in question answering domain",
+        "authors": "Vijayan Ramaraj, Mareeswari Venkatachala Appa Swamy, Ephzibah Evan Prince, Chandhan Kumar",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "The text-based question-answering (QA) system aims to answer natural language questions by querying the external knowledge base. It can be applied to real-world systems like medical documents, research papers, and crime-related documents. Using this system, users don't have to go through the documents manually the system will understand the knowledge base and find the answer based on the text and question given to the system. Earlier state-of-the-art natural language processing (NLP) was recurrent neural network (RNN) and long short-term memory (LSTM). As a result, these models are hard to parallelize and poor at retaining contextual relationships across long text inputs. Today, bidirectional encoder representations from transformers (BERT) are the contemporary algorithm for NLP. BERT is not capable of handling long text sequences; it can handle 512 tokens at a time which makes it difficult for long context. Smooth inverse frequency (SIF) and the BERT model will be incorporated together to solve this challenge. BERT trained on the Stanford question answering dataset (SQuAD) and SIF model demonstrates robustness and effectiveness on long text sequences from different domains. Experimental results suggest that the proposed approach is a promising solution for QA on long text sequences.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijaas.v13.i1.pp106-115"
+    },
+    {
+        "id": 20307,
+        "title": "Improving Multilingual and Code-Switching ASR Using Large Language Model Generated Text",
+        "authors": "Ke Hu, Tara N. Sainath, Bo Li, Yu Zhang, Yong Cheng, Tao Wang, Yujing Zhang, Frederick Liu",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389644"
+    },
+    {
+        "id": 20308,
+        "title": "News Short Text Classification Based on Bert Model and Fusion Model",
+        "authors": "Hongyang Cui, Chentao Wang, Yibo Yu",
+        "published": "2023-2-28",
+        "citations": 1,
+        "abstract": "Text classification task is one of the most fundamental tasks in NLP, and the classification of short news text could be the basis for many other tasks. In this paper, we applied a fusion model combining Bert and TextRNN with some modified details to expect higher accuracy of text classification. We used the THUCNews as dataset which consists of two columns one for news text and the other for numbers. The original dataset was seperated into three parts: training set, validation set and test set. Besides, we used BERT model which contains two pre-training tasks and TextRNN model which refers to the use of RNN to solve text classification problems. We trained these two models in parallel, and then the optimal Bert and TextRNN models obtained through training and parameter tuning are added with a fully-connected layer to receive the final results by weighting the efficiency of Bert and TextRNN. The fusion model solves the problem of over-fitting and under-fitting of a single model, and helps to obtain a model with better generalization performance. The experimental results show the sharp change in loss and accuracy as well as the final accuracy of the BERT model. The precision, recall-rate and F1-score are also evaluated in this paper. The accuracy of fusion model of BERT and TextRNN is much better than single Bert model and has a gap to 1.76%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v34i.5482"
+    },
+    {
+        "id": 20309,
+        "title": "Improved Text Matching Model Based on BERT",
+        "authors": "Qingyu Li, Yujun Zhang",
+        "published": "2023-2-13",
+        "citations": 0,
+        "abstract": "Text matching is a basic and important task in natural language understanding, this paper proposes a new model BBMC for the problem of insufficient feature extraction ability of existing text matching models, which integrates BiLSTM and multi-scale CNN on the basis of BERT. First, the word embedding representation of the text is obtained by the BERT, and then the semantic features of the text are further extracted by the double-layer BiLSTM, followed by the multi-scale CNN model, the key local features are extracted, and finally the linear and SoftMax function are used to classify. Experimental results on the LCQMC dataset show that the BBMC has been improved to a certain extent compared with other methods, and the accuracy on the test set can be best achieved 88.01%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/fcis.v2i3.5209"
+    },
+    {
+        "id": 20310,
+        "title": "A Text Classification Model Based on BERT and Attention",
+        "authors": "Binglin Zhu, Wei Pan",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cait59945.2023.10469363"
+    },
+    {
+        "id": 20311,
+        "title": "Improving BERT model for requirements classification by bidirectional LSTM-CNN deep model",
+        "authors": "Kamaljit Kaur, Parminder Kaur",
+        "published": "2023-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compeleceng.2023.108699"
+    },
+    {
+        "id": 20312,
+        "title": "Sentiment analysis of Twitter user text based on the BERT model",
+        "authors": "Chenyang Zhou",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "Deep Neural Networks (DNNs) utilizing Recurrent Neural Network (RNN) architectures have found extensive application in text sentiment analysis. A prevailing notion suggests that augmenting the model's capacity can significantly improve accuracy and overall model performance. Building upon this premise, this paper advocates the adoption of a larger BERT model for text sentiment analysis. Bidirectional Encoder Representations from Transformers (BERT) is a sophisticated pre-trained language comprehension model that leverages Transformers as feature extractors.  However, as the amount of model data increases, exceeding the memory limitations of a single GPU, algorithm optimization becomes crucial. Therefore, this paper employs two methods, namely data parallelism and GPipe parallelism, to accelerate and optimize the BERT model. Compared to a single GPU, training speed almost linearly increases with the addition of more GPUs. In addition, this research investigates the accuracy of the most advanced language model, chatgpt, by reannotating the dataset. During training, it was observed that the accuracy of the chatgpt-annotated dataset significantly declined in both RNN and BERT models. This indicates that chatgpt still exhibits some errors in sentiment text analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/52/20241380"
+    },
+    {
+        "id": 20313,
+        "title": "BERT-Based Arabic Diacritization: A state-of-the-art approach for improving text accuracy and pronunciation",
+        "authors": "Ruba Kharsa, Ashraf Elnagar, Sane Yagi",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2024.123416"
+    },
+    {
+        "id": 20314,
+        "title": "Sentiment Analysis of Text Based on BERT-BiLSTM-BiGRU-CNN Model",
+        "authors": "昆 朱",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12677/mos.2024.131005"
+    },
+    {
+        "id": 20315,
+        "title": "GaSUM: A Genetic Algorithm Wrapped BERT for Text Summarization",
+        "authors": "Imen Tanfouri, Fethi Jarray",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011893000003393"
+    },
+    {
+        "id": 20316,
+        "title": "Short-Text Semantic Similarity Model of BERT-Based Siamese Network",
+        "authors": "Haoyu Jiang",
+        "published": "2023-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3585967.3585994"
+    },
+    {
+        "id": 20317,
+        "title": "Extracting Course Text Entity Relationships Based on Improved Bert BiGRU Ratt Model",
+        "authors": "Jingdong Wang, Yongjia Guo",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cicn59264.2023.10402260"
+    },
+    {
+        "id": 20318,
+        "title": "Text Labels Classification Model based on BERT Algorithm",
+        "authors": "Sai Wu, Zhiyin Huang, Hao Feng",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbase59196.2023.10303262"
+    },
+    {
+        "id": 20319,
+        "title": "Text Sentiment Analysis Model Based on BERT and Knowledge Graph",
+        "authors": "斐瑜 刘",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12677/mos.2023.124382"
+    },
+    {
+        "id": 20320,
+        "title": "Effective Model for Improving Symptoms-Based Disease Prediction by BiMM - BERT Algorithm",
+        "authors": "V. Jayasudha, N. Deepa, T Devi.",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccci56745.2023.10128318"
+    },
+    {
+        "id": 20321,
+        "title": "Comparison of the Performance of Chinese Text Classification Based on Bert Augmented Model",
+        "authors": "P. Zhiying Hou, S. Junsheng Yu",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csrswtc60855.2023.10427146"
+    },
+    {
+        "id": 20322,
+        "title": "Improving Bert Model Accuracy for Uni-modal Aspect-Based Sentiment Analysis Task",
+        "authors": "Amit Chauhan, Rajni Mohana",
+        "published": "2023-9-10",
+        "citations": 0,
+        "abstract": "Techniques and methods for examining users’ feelings, emotions, and views in text or other media are known as ”sentiment analysis,” this phrase is used frequently. In many areas, including marketing and online social media, analysis of user and consumer opinions has always been essential to decision-making processes. The development of new methodologies that concentrate on analysing the sentiment associated with specific product characteristics, such as aspect-based sentiment analysis (ABSA), was prompted by the need for a deeper understanding of these opinions. Despite the growing interest in this field, some misunderstanding exists about ABSA’s core ideas. Even though sentiment, affect, emotion, and opinion refer to various ideas, they are frequently used synonymously. This ambiguity commonly causes user opinions to be analysed incorrectly. This work provides an overview of ABSA and the issue of overfitting. Following this analysis, we improved the model by enhancing the accuracy and F1 score of the existing model by fine-tuning the technique. Our model outperformed the others, achieving the best results for the restaurant dataset with an 85.02 accuracy and a 79.19 F1 score, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12694/scpe.v24i3.2444"
+    },
+    {
+        "id": 20323,
+        "title": "Understanding Analytical Exposition Text Writing with an SFL Approach",
+        "authors": "Wina Dwina Hermayanti, Wawan Gunawan",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "This research aims to explore the ability of eleventh-grade students to create analytical exposition texts based on their generic structure and language features, using a descriptive qualitative research approach. The study focuses on comparing model texts with students' writing to describe the types of Systemic Functional Linguistics (SFL) approaches employed and analyze the transitivity in writing analytical exposition. The participants of this study are eleventh-grade students selected based on a teacher's recommendation. The researcher reports the natural phenomena without applying any treatments that could influence the results. The primary objective is to understand the student’s ability to produce analytical exposition texts without intervention. The data collection involves analyzing sentences in the form of students' analytical exposition text assignments provided by the teacher. The researcher examines the clarity of ideas and evaluates the grammatical and generic structure present in the students' writing.  This research utilizes a descriptive qualitative approach to capture and describe the natural phenomenon of students' analytical exposition text writing. The findings contribute to understanding the students' proficiency in creating analytical exposition student texts, as well as identifying areas that require further attention in instructional practices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32627/jepal.v4i2.894"
+    },
+    {
+        "id": 20324,
+        "title": "Text classification study of enterprise support policies based on Bert+DPCNN+BiGRU model",
+        "authors": "Haibo Wang, Ningpeng Jiang, Ruzhi Xu, Shiyu Ma, Yang Li",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55092/pcs20240002"
+    },
+    {
+        "id": 20325,
+        "title": "Named entity recognition for natural language understanding using BERT model",
+        "authors": "Sandeep Kumar, Arun Solanki",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0181535"
+    },
+    {
+        "id": 20326,
+        "title": "MTBERT-Attention: An Explainable BERT Model based on Multi-Task Learning for Cognitive Text Classification",
+        "authors": "Hanane Sebbaq, Nour-eddine El Faddouli",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sciaf.2023.e01799"
+    },
+    {
+        "id": 20327,
+        "title": "Research on Text Sentiment Analysis of Movie Reviews Based on BERT Model",
+        "authors": "Deqing Zhang, Cuoling Zhang",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594315.3594365"
+    },
+    {
+        "id": 20328,
+        "title": "Chinese Medical Short Text Matching Model Based on Fine-Tuning BERT-Attention-BiLSTM",
+        "authors": "Xuesong Hu, Huajun Zhang, Youjun Sun",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icis57766.2023.10210224"
+    },
+    {
+        "id": 20329,
+        "title": "EnvText: A Chinese text mining tool for environmental domain with advanced BERT model",
+        "authors": "Huaibin Bi, Bing Li, Yong Qiu, Miao Change",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.simpa.2023.100559"
+    },
+    {
+        "id": 20330,
+        "title": "Research on fusion model of BERT and CNN-BiLSTM for short text classification",
+        "authors": "Chao Yang, Xiaotian Wang, Mengyu Li, Ji Li",
+        "published": "2023-4-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccea58433.2023.10135222"
+    },
+    {
+        "id": 20331,
+        "title": "BERT‐TriF: An inductive short text classification model for power equipment defect records",
+        "authors": "Zhenhao Ye, Bingyan Guo, Donglian Qi",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "AbstractThe descriptions of power equipment defect records are often characterized by colloquial short texts. Standardized classification of a large number of colloquial defect descriptions has laid a solid foundation for building a power equipment knowledge graph and improving the level of intelligence in the field of power inspection. Using deep learning and natural language processing technology, this paper proposes a text classification model for power equipment defect records named Bidirectional Encoder Representations from Transformers with Family Feature Fusion (BERT‐TriF). The model firstly leverages BERT to semantically represent the input text. To extract family history as well as text implicit information, we creatively propose a family feature fusion algorithm for training. An improved multi‐head attention mechanism is developed subsequently to enhance text semantic category features and strengthen the learning ability of the model. By comparing BERT‐TriF and baseline models such as TextCNN, TextRNN, and fastText on the specified and generic text dataset, the experimental results demonstrate that it has better performance, robustness, and universality for short text classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/eng2.12671"
+    },
+    {
+        "id": 20332,
+        "title": "A semi-supervised short text sentiment classification method based on improved Bert model from unlabelled data",
+        "authors": "Haochen Zou, Zitao Wang",
+        "published": "2023-3-15",
+        "citations": 4,
+        "abstract": "AbstractShort text information has considerable commercial value and immeasurable social value. Natural language processing and short text sentiment analysis technology can organize and analyze short text information on the Internet. Natural language processing tasks such as sentiment classification have achieved satisfactory performance under a supervised learning framework. However, traditional supervised learning relies on large-scale and high-quality manual labels and obtaining high-quality label data costs a lot. Therefore, the strong dependence on label data hinders the application of the deep learning model to a large extent, which is the bottleneck of supervised learning. At the same time, short text datasets such as product reviews have an imbalance in the distribution of data samples. To solve the above problems, this paper proposes a method to predict label data according to semi-supervised learning mode and implements the MixMatchNL data enhancement method. Meanwhile, the Bert pre-training model is updated. The cross-entropy loss function in the model is improved to the Focal Loss function to alleviate the data imbalance in short text datasets. Experimental results based on public datasets indicate the proposed model has improved the accuracy of short text sentiment recognition compared with the previous update and other state-of-the-art models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40537-023-00710-x"
+    },
+    {
+        "id": 20333,
+        "title": "Sentiment Analysis of Text Reviews Using Lexicon-Enhanced Bert Embedding (LeBERT) Model with Convolutional Neural Network",
+        "authors": "James Mutinda, Waweru Mwangi, George Okeyo",
+        "published": "2023-1-21",
+        "citations": 26,
+        "abstract": "Sentiment analysis has become an important area of research in natural language processing. This technique has a wide range of applications, such as comprehending user preferences in ecommerce feedback portals, politics, and in governance. However, accurate sentiment analysis requires robust text representation techniques that can convert words into precise vectors that represent the input text. There are two categories of text representation techniques: lexicon-based techniques and machine learning-based techniques. From research, both techniques have limitations. For instance, pre-trained word embeddings, such as Word2Vec, Glove, and bidirectional encoder representations from transformers (BERT), generate vectors by considering word distances, similarities, and occurrences ignoring other aspects such as word sentiment orientation. Aiming at such limitations, this paper presents a sentiment classification model (named LeBERT) combining sentiment lexicon, N-grams, BERT, and CNN. In the model, sentiment lexicon, N-grams, and BERT are used to vectorize words selected from a section of the input text. CNN is used as the deep neural network classifier for feature mapping and giving the output sentiment class. The proposed model is evaluated on three public datasets, namely, Amazon products’ reviews, Imbd movies’ reviews, and Yelp restaurants’ reviews datasets. Accuracy, precision, and F-measure are used as the model performance metrics. The experimental results indicate that the proposed LeBERT model outperforms the existing state-of-the-art models, with a F-measure score of 88.73% in binary sentiment classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13031445"
+    },
+    {
+        "id": 20334,
+        "title": "Image Generation Based on Text Using BERT And GAN Model",
+        "authors": "Mallaiahgari Rohith, L. Pallavi, Kogila Shirisha, Munukoti Sanjay, V. Sathya Priya",
+        "published": "2023-4-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cictn57981.2023.10141495"
+    },
+    {
+        "id": 20335,
+        "title": "Composition and Deformance: Measuring Imageability with a Text-to-Image Model",
+        "authors": "Si Wu, David Smith",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.wnu-1.16"
+    },
+    {
+        "id": 20336,
+        "title": "Identification of paraphrased text in research articles through improved embeddings and fine-tuned BERT model",
+        "authors": "Abdur Razaq, Zahid Halim, Atta Ur Rahman, Kholla Sikandar",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18359-w"
+    },
+    {
+        "id": 20337,
+        "title": "A Novel Approach for Text Classification by Combining Pre-trained BERT Model with CNN Classifier",
+        "authors": "Chenxu Wang, Yulin Li, Ziying Wang",
+        "published": "2023-9-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciscae59047.2023.10392947"
+    },
+    {
+        "id": 20338,
+        "title": "Retracted: A Novel Text Mining Approach for Mental Health Prediction Using Bi-LSTM and BERT Model",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9872487"
+    },
+    {
+        "id": 20339,
+        "title": "Understanding Large Language Model Based Metrics for Text Summarization",
+        "authors": "Abhishek Pradhan, Ketan Todi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.eval4nlp-1.12"
+    },
+    {
+        "id": 20340,
+        "title": "MIMIC III Text classification with the generalization of BERT transformer model synergized with XGBoost classifier",
+        "authors": "Viswanathan V, Sridevi S, Prasanna Kumar R, Balachandran S",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10306707"
+    },
+    {
+        "id": 20341,
+        "title": "Text classification by CEFR levels using machine learning methods and BERT language model",
+        "authors": "Nadezhda S. Lagutina, Ksenia V. Lagutina, Anastasya M. Brederman, Natalia N. Kasatkina",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "This paper presents a study of the problem of automatic classification of short coherent texts (essays) in English according to the levels of the international CEFR scale. Determining the level of text in natural language is an important component of assessing students knowledge, including checking open tasks in e-learning systems. To solve this problem, vector text models were considered based on stylometric numerical features of the character, word, sentence structure levels. The classification of the obtained vectors was carried out by standard machine learning classifiers. The article presents the results of the three most successful ones: Support Vector Classifier, Stochastic Gradient Descent Classifier, LogisticRegression. Precision, recall and F-score served as quality measures. Two open text corpora, CEFR Levelled English Texts and BEA-2019, were chosen for the experiments. The best classification results for six CEFR levels and sublevels from A1 to C2 were shown by the Support Vector Classifier with F-score 67 % for the CEFR Levelled English Texts. This approach was compared with the application of the BERT language model (six different variants). The best model, bert-base-cased, provided the F-score value of 69 %. The analysis of classification errors showed that most of them are between neighboring levels, which is quite understandable from the point of view of the domain. In addition, the quality of classification strongly depended on the text corpus, that demonstrated a significant difference in F-scores during application of the same text models for different corpora. In general, the obtained results showed the effectiveness of automatic text level detection and the possibility of its practical application.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18255/1818-1015-2023-3-202-213"
+    },
+    {
+        "id": 20342,
+        "title": "BERT-CNN: Improving BERT for Requirements Classification using CNN",
+        "authors": "Kamaljit Kaur, Parminder Kaur",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.234"
+    },
+    {
+        "id": 20343,
+        "title": "BERT-Based Joint Model for Aspect Term Extraction and Aspect Polarity Detection in Arabic Text",
+        "authors": "Hasna Chouikhi, Mohammed Alsuhaibani, Fethi Jarray",
+        "published": "2023-1-19",
+        "citations": 7,
+        "abstract": "Aspect-based sentiment analysis (ABSA) is a method used to identify the aspects discussed in a given text and determine the sentiment expressed towards each aspect. This can help provide a more fine-grained understanding of the opinions expressed in the text. The majority of Arabic ABSA techniques in use today significantly rely on repeated pre-processing and feature-engineering operations, as well as the use of outside resources (e.g., lexicons). In essence, there is a significant research gap in NLP with regard to the use of transfer learning (TL) techniques and language models for aspect term extraction (ATE) and aspect polarity detection (APD) in Arabic text. While TL has proven to be an effective approach for a variety of NLP tasks in other languages, its use in the context of Arabic has been relatively under-explored. This paper aims to address this gap by presenting a TL-based approach for ATE and APD in Arabic, leveraging the knowledge and capabilities of previously trained language models. The Arabic base (Arabic version) of the BERT model serves as the foundation for the suggested models. Different BERT implementations are also contrasted. A reference ABSA dataset was used for the experiments (HAAD dataset). The experimental results demonstrate that our models surpass the baseline model and previously proposed approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12030515"
+    },
+    {
+        "id": 20344,
+        "title": "Multitask Learning Model with Text and Speech Representation for Fine-Grained Speech Scoring",
+        "authors": "Seongjin Park, Rutuja Ubale",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389696"
+    },
+    {
+        "id": 20345,
+        "title": "Improving Large-Scale Deep Biasing With Phoneme Features and Text-Only Data in Streaming Transducer",
+        "authors": "Jin Qiu, Lu Huang, Boyu Li, Jun Zhang, Lu Lu, Zejun Ma",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389716"
+    },
+    {
+        "id": 20346,
+        "title": "Author's Concept in Understanding the Text",
+        "authors": "Shuhrat Sirojiddinov, Rashid Zahidov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012490100003792"
+    },
+    {
+        "id": 20347,
+        "title": "Teaching Games for Understanding (TGfU) Learning Model on Improving Learning Outcomes of Volleyball Material",
+        "authors": "Agus Sumhendartin, Suharjana Suharjana, Ari Septiyanto,  ,  ",
+        "published": "2023-9-16",
+        "citations": 0,
+        "abstract": "The purpose of the study was to determine: (1) the effect of TGfU learning model on improving volleyball learning outcomes and (2) the difference in volleyball learning outcomes between the experimental group and the control group. The method uses an experiment with a \"pre-test post-test control group design\". The sampling technique is simple random sampling, totaling 33 students as an experimental class with TGfU learning model treatment and 34 students as a control class. The instruments used were cognitive tests and psychomotor tests. Data analysis using t test at 5% significance level. The results of the study: (1) There is a significant effect of the TGfU learning model on improving volleyball learning outcomes, the tvalue is 12.158 > ttable 1.693, and the significance is 0.000 <0.05. (2) There is a significant difference in volleyball learning outcomes between the experimental group and the control group, the tvalue is 9.617 > ttable 1.668, and the significance is 0.000 < 0.05.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47191/ijmra/v6-i9-46"
+    },
+    {
+        "id": 20348,
+        "title": "Improving the Transferability of Clinical Note Section Classification Models with BERT and Large Language Model Ensembles",
+        "authors": "Weipeng Zhou, Majid Afshar, Dmitriy Dligach, Yanjun Gao, Timothy Miller",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.clinicalnlp-1.16"
+    },
+    {
+        "id": 20349,
+        "title": "Improving the Students’ Ability in Writing Text by Using Realia at Madrasah Aliyah DDI",
+        "authors": "Syahban Mada Ali, Nurul Hasanah, Enni Enni, Hasbiyah Srianah Amir",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "The research endeavors to ascertain the advancement of students' compositional prowess in the domain of procedural text subsequent to pedagogical intervention employing realia at Madrasah Aliyah DDI. Employing a pre-experimental design, the study was conducted within the premises of Madrasah Aliyah DDI. The target population encompassed students enrolled in the eleventh grade during the academic term of 2022/2023. Employing purposive sampling, a sample size of 30 students from the aforementioned grade was selected. The research instrument utilized was a procedure text writing assessment. The findings of the data analysis distinctly underscored a significant disparity in the students' capacity to compose procedure texts, as evidenced by the variance between pre-test and post-test results. Specifically, the mean score for the pre-test stood at 58.73, contrasting with the post-test mean score of 72.58, reflecting a notable enhancement of 13.77 points. This discernible progress in writing proficiency indicates the salutary impact of incorporating realia. This observation was further corroborated by the outcomes of the t-test, which notably exceeded the critical t-table value (11.53 > 2.045), affirming the efficacy of the intervention.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18415/ijmmu.v10i10.5083"
+    },
+    {
+        "id": 20350,
+        "title": "BERT-Based Hybrid Deep Learning with Text Augmentation for Sentiment Analysis of Indonesian Hotel Reviews",
+        "authors": "Maxwell Thomson, Hendri Murfi, Gianinna Ardaneswari",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012127400003541"
+    },
+    {
+        "id": 20351,
+        "title": "Application of BERT Model in Forecasting Introduction Text and Concept Section of Listed Companies",
+        "authors": "Boyu Pan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4108/eai.2-12-2022.2332273"
+    },
+    {
+        "id": 20352,
+        "title": "W&amp;G-BERT: A Pretrained Language Model for Automotive Warranty and Goodwill Text",
+        "authors": "Lukas Jonathan Weber, Krishnan Jothi Ramalingam, Matthias Beyer, Alice Kirchheim, Axel Zimmermann",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaibd57115.2023.10206043"
+    },
+    {
+        "id": 20353,
+        "title": "Similarity Matching for Patent Documents Using Ensemble BERT-Related Model and Novel Text Processing Method",
+        "authors": "Liqiang Yu, Bo Liu, Qunwei Lin, Xinyu Zhao, Chang Che",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12720/jait.15.3.446-450"
+    },
+    {
+        "id": 20354,
+        "title": "Improving Mathematical Concept Understanding Ability of Junior High School Students with Conceptual Understanding Procedures Learning Model",
+        "authors": "Savitri Wanabuliandari, Rita Aulia Rahmawati, Henry Suryo Bintoro",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "Understanding concept material is the basic material for someone to solve problems. The importance of understanding concepts because it is useful in learning, thinking, reading and communicating. This study was conducted to analyze the improvement of mathematical concept understanding ability of experimental class students after using the CUPs learning model. This research was conducted in class VIII Junior high school with 30 experimental class students as research subjects. This research design uses one group ptetest-posttest design. Data collection techniques used include observation, interviews and tests. Initial data analysis used normality test, homogeneity test, and mean similarity test. Meanwhile, the final data analysis used Paired Sample T-test and N-gain test. The results showed that the mathematical concept understanding ability of experimental class students increased after using the CUPs learning model with an average N-gain value of 0.63 in the moderate category. Based on the results of the study, it can be concluded that the CUPs learning model is able to provide an increase in students' mathematical concept understanding ability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31764/ijeca.v6i2.16251"
+    },
+    {
+        "id": 20355,
+        "title": "Improving semantic coverage of data-to-text generation model using dynamic memory networks",
+        "authors": "Elham Seifossadat, Hossein Sameti",
+        "published": "2023-5-31",
+        "citations": 1,
+        "abstract": "AbstractThis paper proposes a sequence-to-sequence model for data-to-text generation, called DM-NLG, to generate a natural language text from structured nonlinguistic input. Specifically, by adding a dynamic memory module to the attention-based sequence-to-sequence model, it can store the information that leads to generate previous output words and use it to generate the next word. In this way, the decoder part of the model is aware of all previous decisions, and as a result, the generation of duplicate words or incomplete semantic concepts is prevented. To improve the generated sentences quality by the DM-NLG decoder, a postprocessing step is performed using the pretrained language models. To prove the effectiveness of the DM-NLG model, we performed experiments on five different datasets and observed that our proposed model is able to reduce the slot error rate rate by 50% and improve the BLEU by 10%, compared to the state-of-the-art models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s1351324923000207"
+    },
+    {
+        "id": 20356,
+        "title": "Improving Reading Comprehension and Writing Achievements of the Eighth Grade Students Through Generating Interaction Between Schemata and Text (GIST) Strategy",
+        "authors": "Khoirunnisa Khoirunnisa, M. Arif Rahman Hakim",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "The aim of this study was to investigate the effectiveness of (Generating Interaction between schemata and Text) GIST strategy in enhancing the students’ achievement in reading comprehension and writing. This study applied quasi-experimental method with nonequivalent pretest-posttest groups’ design. Forty two students were selected as the sample. They were divided equally into experimental and control groups. Reading and writing tests were used to collect the data. Paired and independent sample t-test, and linear regression were applied to analyze the data. The result showed that GIST strategy improves the students' achievement in most aspects of reading comprehension and writing. However, GIST strategy does not give the significant improvement to the students’ achievement in inference aspect of reading comprehension and developing ideas aspect of writing. It implies that English teacher should use the strategy more carefully to improve all the aspects of reading comprehension and writing, especially the inference aspect of reading and the developing ideas aspect of writing.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18415/ijmmu.v10i11.5256"
+    },
+    {
+        "id": 20357,
+        "title": "Abstractive text summarization model based on BERT vectorization and bidirectional decoding",
+        "authors": "Keliang Teng, Baohua Qiang, Yufeng Wang, Xianyi Yang, Yuemeng Wang, Chen Wang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2681716"
+    },
+    {
+        "id": 20358,
+        "title": "BVMHA: Text classification model with variable multihead hybrid attention based on BERT",
+        "authors": "Bo Peng, Tao Zhang, Kundong Han, Zhe Zhang, Yuquan Ma, Mengnan Ma",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "Text classification is an important tasks in natural language processing. Multilayer attention networks have achieved excellent performance in text classification tasks, but they also face challenges such as high temporal and spatial complexity levels and low-rank bottleneck problems. This paper incorporates spatial attention into a neural network architecture that utilizes fewer encoder layers. The proposed model aims to enhance the spatial information of semantic features while addressing the high temporal and spatial demands of traditional multilayer attention networks. This approach utilizes spatial attention to selectively weigh the relevance of the spatial locations in the input feature maps, thereby enabling the model to focus on the most informative regions while ignoring the less important regions. By incorporating spatial attention into a shallower encoder network, the proposed model achieves improved performance on spatially oriented tasks while reducing the computational overhead associated with deeper attention-based models. To alleviate the low-rank bottleneck problem of multihead attention, this paper proposes a variable multihead attention mechanism, which changes the number of attention heads in a layer-by-layer manner with the encoder, achieving a balance between expression power and computational efficiency. We use two Chinese text classification datasets and an English sentiment classification dataset to verify the effectiveness of the proposed model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-231368"
+    },
+    {
+        "id": 20359,
+        "title": "Abstractive Text Summarization Using BERT for Feature Extraction and Seq2Seq Model for Summary Generation",
+        "authors": "Kania Galih Widowati, Nicholas Budiman, Kezia Foejiono, Kartika Purwandari",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmeralda60125.2023.10458190"
+    },
+    {
+        "id": 20360,
+        "title": "Optimization of dedicated domain text classification based on data augmentation using BERT generation pre-trained model",
+        "authors": "Yuzhe Xiang, Can Cui, Xinjie Zhu, Zhi Wang",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3011550"
+    },
+    {
+        "id": 20361,
+        "title": "Sentiment recognition and analysis method of official document text based on BERT–SVM model",
+        "authors": "Shule Hao, Peng Zhang, Sen Liu, Yuhang Wang",
+        "published": "2023-12",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08226-4"
+    },
+    {
+        "id": 20362,
+        "title": "Improving Procedure Text Writing Skills Through Make A Match Learning Model in Junior High School",
+        "authors": "Adelia Oktaviana Zulfa, Senowarsito Senowarsito",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "This Classroom Action Research aims to improve students' ability in writing procedure texts through Make a Match learning model. The subjects in this study were 33 students of class VII A SMP Negeri 36 Semarang. Data were collected in one cycle through tests, classroom observation, and documentation. The tests were conducted in the form of pre-test, post-test of cycle I, and post-test of cycle II. The instruments used were test sheets, observation guidelines, and documentation guidelines. Data were analyzed using qualitative descriptive method. The results showed that students took an active role in their learning activities. The quality of their writing also improved. Their average score increased from 67 (Pre-test), 76 (Cycle I), and 82 (Cycle II). In conclusion, the use of Make a Match learning model is effective to improve students' ability in writing procedure text. The researcher hopes that the use of Make a Match learning model can be used by English teachers in teaching English, especially in teaching writing procedure text.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26877/jpgp.v1i2.227"
+    },
+    {
+        "id": 20363,
+        "title": "Improving extractive summarization with semantic enhancement through topic-injection based BERT model",
+        "authors": "Yiming Wang, Jindong Zhang, Zhiyao Yang, Bing Wang, Jingyi Jin, Yitong Liu",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ipm.2024.103677"
+    },
+    {
+        "id": 20364,
+        "title": "From Text to Pixels: Enhancing User Understanding through Text-to-Image Model Explanations",
+        "authors": "Noyan Evirgen, Ruolin Wang, Xiang 'Anthony Chen",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3640543.3645173"
+    },
+    {
+        "id": 20365,
+        "title": "Integration of Transformer Model Text Summarization and Text-to-Speech in Helping Document Understanding in the Bukudio Application",
+        "authors": "Ivana Lucia Kharisma, Kamdan Kamdan, Anggun Fergina, Tofik Hidayat, Moh. Abd. Aziz Hidayat, Muhamad Muslih, Adhitia Erfina",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "The need for effective, accurate and precise understanding of information will provide optimization of the decision-making process, increase knowledge and quality of life. Understanding information in relation to the document summarization process, if done manually, sometimes takes quite a long time. Text summarization techniques which are useful as document summarizers have been developed and applied to various things such as summarizing important documents, news texts or customer feedback. In this article, text summarization using the text rank method and transformer modeling integrated with text to speech techniques is developed in the Bukudio application, which is an application that provides audio versions of book documents in the application database. Based on the test results, the evaluation process was carried out using the Rouge method and gave the best results in calculating the Rouge 1 overlap monogram resulting in 0.523 for the F1 Score value, 0.434 for the precision value and 0.659 for the recall value. This research will be developed using other methods so that not only files in PDF document format can be processed, but other EPUB (Electronic Publication) files.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34306/conferenceseries.v4i1.653"
+    },
+    {
+        "id": 20366,
+        "title": "Text Simplification Using Transformer and BERT",
+        "authors": "Sarah Alissa, Mike Wald",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2023.033647"
+    },
+    {
+        "id": 20367,
+        "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
+        "authors": "Suzan Verberne",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/coli_r_00468"
+    },
+    {
+        "id": 20368,
+        "title": "The Effect of Infographic Media Assisted by Aural Text on Improving Understanding of the Fiqh of Worship in Elementary School Students",
+        "authors": "Fitria Tahta Alfina, Achmad Nur Mustofa, Deni Setiawan",
+        "published": "2023-4-26",
+        "citations": 0,
+        "abstract": "This research investigates the influence of infographic media assisted by aural text on the understanding of fiqh worship among elementary school students. The research method employed is an experimental design with a Posttest-Only Group Design. The data were collected using probability sampling and cluster sampling techniques and gathered through observations, interviews, documentation and tests. Data analysis was conducted using a t-test. The study's results, which involved 34 students at MI Darul Ulum, indicate that the use of infographic media assisted by aural text significantly improves the understanding of fiqh worship among students in Grade III A as the experimental group. In contrast, the understanding of students in Grade III B as the control group shows less significant improvement. Based on these findings, it can be concluded that the use of infographic media assisted by aural text is effective in enhancing students' understanding of fiqh worship, emphasizing the importance of media in religious education at the elementary school level, and providing significant implications for the development of more innovative and effective teaching methods in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15294/jpp.v40i1.45537"
+    },
+    {
+        "id": 20369,
+        "title": "Improving the planarity and sharpness of monocularly estimated depth images using the Phong reflection model",
+        "authors": "Roger Ripas, Leandro A.F. Fernandes",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cviu.2023.103726"
+    },
+    {
+        "id": 20370,
+        "title": "Tibetan-BERT-wwm: A Tibetan Pretrained Model With Whole Word Masking for Text Classification",
+        "authors": "Yatao Liang, Hui Lv, Yan Li, La Duo, Chuanyi Liu, Qingguo Zhou",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcss.2024.3374633"
+    },
+    {
+        "id": 20371,
+        "title": "Research on a Text Quality Assessment System based on BERT Deep Learning",
+        "authors": "Chunyan Jiang",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icet58434.2023.10211437"
+    },
+    {
+        "id": 20372,
+        "title": "IMPROVING STUDENTS' UNDERSTANDING OF CONCEPTS THROUGH THE IDEA LEARNING MODEL",
+        "authors": "Sunandar Azma’ul Hadi, Dian Noer Asyari",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "This research aims to increase students' understanding of concepts regarding the transport of substances in cells through the IDEA learning model. The research subjects chosen in this study were 23 students of the Class A Physics Study Program, Semester 1, Mataram State Islamic University (UIN), using the One-Group Pretest-Posttest Design. The data analysis technique in this research uses quantitative description. The results of this research show that the IDEA learning model is effectively used to increase students' understanding of concepts. This is proven by all students who took the test using the concept understanding test instrument getting classical completion results with a completion percentage of 82.6%. 4 students did not complete due to the learning productivity factors of the students concerned, such as learning independence and a weak understanding of basic concepts. The results of this research prove that the IDEA learning model is effectively used to increase students' understanding of concepts regarding the transport of substances in cells. It is hoped that the results of this research can then be implemented by lecturers to help students improve their understanding of concepts in biology material.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55681/nusra.v4i4.1718"
+    },
+    {
+        "id": 20373,
+        "title": "Voiceextender: Short-Utterance Text-Independent Speaker Verification With Guided Diffusion Model",
+        "authors": "Yayun He, Zuheng Kang, Jianzong Wang, Junqing Peng, Jing Xiao",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389784"
+    },
+    {
+        "id": 20374,
+        "title": "Understanding and Improving Clinical Trial Compliance",
+        "authors": "Anthony Keyes",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33548/scientia950"
+    },
+    {
+        "id": 20375,
+        "title": "Prosody-TTS: Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech",
+        "authors": "Rongjie Huang, Chunlei Zhang, Yi Ren, Zhou Zhao, Dong Yu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.508"
+    },
+    {
+        "id": 20376,
+        "title": "Hybrid Approach to Explain BERT Model: Sentiment Analysis Case",
+        "authors": "Aroua Hedhili, Islem Bouallagui",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012318400003636"
+    },
+    {
+        "id": 20377,
+        "title": "German BERT Model for Legal Named Entity Recognition",
+        "authors": "Harshil Darji, Jelena Mitrović, Michael Granitzer",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011749400003393"
+    },
+    {
+        "id": 20378,
+        "title": "Conceptual Model of Servant Leadership as a Part of Efforts for Improving Service Quality",
+        "authors": "Imran Novrin Ruslim, Ahmad Azmy",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "Servant leadership is highly important within an organization. Effective leadership is considered one of the key factors contributing to a healthy development and success of an organization. Numerous studies have been conducted in the field of leadership to explore the relationship between leadership quality and service quality. This research utilized a comparative literature approach. The findings of this study reveal that the implementation of servant leadership significantly influences service quality, even when considering various moderation and mediation factors within a conceptual model. However, it is important to note that, due to the comparative literature approach, the data collected did not come from primary sources related to the research subject. This limitation implies that the available information might not be as comprehensive as research methods involving direct techniques like interviews, questionnaires, or direct observations of research subjects.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18415/ijmmu.v10i12.5319"
+    },
+    {
+        "id": 20379,
+        "title": "BERT-based Classification of Four Major Dementias using Twitter Text Data",
+        "authors": "Kazuki Utsunomiya, Ryohei Banno",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tencon58879.2023.10322384"
+    },
+    {
+        "id": 20380,
+        "title": "Text classification by BERT-Capsules",
+        "authors": "Minghui Guo",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "This paper presents a model that integrates a BERT encoder with a Capsule network, eliminating the traditional fully connected layer designed for downstream classification tasks in BERT in favor of a capsule layer. This capsule layer consists of three main modules: the representation module, the probability module, and the reconstruction module. It transforms the final hidden layer output of BERT into the final activation capsule probabilities to classify the text. By applying the model to sentiment analysis and text classification tasks, and comparing the test results with various BERT variants, the performance across all metrics was found to be superior. Observing the model’s handling of multiple entities and complex relationships, sentences with high ambiguity were extracted to observe the probability distribution of all capsules and compared with RNN-Capsule. It was found that the activation capsule probabilities for BERT-Capsule were significantly higher than the rest, and more pronounced than RNN-Capsule, indicating the model’s exceptional ability to process ambiguous information.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61173/wcg0nf17"
+    },
+    {
+        "id": 20381,
+        "title": "Improving text mining in plant health domain with GAN and/or pre-trained language model",
+        "authors": "Shufan Jiang, Stéphane Cormier, Rafael Angarita, Francis Rousseaux",
+        "published": "2023-2-21",
+        "citations": 3,
+        "abstract": "The Bidirectional Encoder Representations from Transformers (BERT) architecture offers a cutting-edge approach to Natural Language Processing. It involves two steps: 1) pre-training a language model to extract contextualized features and 2) fine-tuning for specific downstream tasks. Although pre-trained language models (PLMs) have been successful in various text-mining applications, challenges remain, particularly in areas with limited labeled data such as plant health hazard detection from individuals' observations. To address this challenge, we propose to combine GAN-BERT, a model that extends the fine-tuning process with unlabeled data through a Generative Adversarial Network (GAN), with ChouBERT, a domain-specific PLM. Our results show that GAN-BERT outperforms traditional fine-tuning in multiple text classification tasks. In this paper, we examine the impact of further pre-training on the GAN-BERT model. We experiment with different hyper parameters to determine the best combination of models and fine-tuning parameters. Our findings suggest that the combination of GAN and ChouBERT can enhance the generalizability of the text classifier but may also lead to increased instability during training. Finally, we provide recommendations to mitigate these instabilities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frai.2023.1072329"
+    },
+    {
+        "id": 20382,
+        "title": "FF-BERT: A BERT-based ensemble for automated classification of web-based text on flash flood events",
+        "authors": "Rohan Singh Wilkho, Shi Chang, Nasir G. Gharaibeh",
+        "published": "2024-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aei.2023.102293"
+    },
+    {
+        "id": 20383,
+        "title": "Improving text detection by generating images with curved text instances",
+        "authors": "Leon Landeka, Ratko Grbić, Matteo Brisinello, Marijan Herceg",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/zinc58345.2023.10174175"
+    },
+    {
+        "id": 20384,
+        "title": "IMPROVING STUDENTS’ ABILITY IN WRITING DESCRIPTIVE TEXT THROUGH CONCEPT SENTENCE MODEL AT THE EIGHTH  GRADE OF SMP SWASTA IMANUEL  TELUKDALAM",
+        "authors": " Dewi Damai Duha",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "The aim of this research is to improve students’ ability in writing descriptive text through Concept Sentence Model (CSM). The kind of this research was Classroom Action Research (CAR) which was done in two cycles. It was conducted at the Eighth Grade of SMP Swasta Imanuel Telukdalam that consisted of 22 students, the female are 11 students and male were 11 students. The instruments of collecting the data were observation paper and written test. The result showed that, the researcher’s observation paper in cycle I for the first meeting was 56% and second meeting was 67%. In the cycle II for the first meeting was 79% and second meeting 100%. The result of the student’s observation paper in the cycle I for the first meeting was 43% and second meeting was 55%. In the cycle II for the first meeting was 55% and the second meeting was 72%. Furthermore, the result of the test in cycle I, students who passed was 6 students or 27% while the students who failed as 16 students or 73% the average score was 53. Therefore, cycle I was not unsuccessful so the researcher continued in cycle II. In the cycle II, the students who passed the MCC were 20 students or 91% while the students who failed was only 2 students or 9% with the average score was 73. In this second cycle, The students are more active in learning, the students can study in groups and could share their opinions each other, students felt enjoy the class and more creatively. Therefore, Concept Sentence Model was suitable to improve the students’ vocabulary mastery. Therefore, researcher suggested the English teacher to apply Concept Sentence Model in teaching writing, for the students, concept sentence model is usefull and helpful in writing ability. Then for the next researcher, this research can be a source or reference of knowledge about this method in doing research.   ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.57094/relation.v5i2.1196"
+    },
+    {
+        "id": 20385,
+        "title": "EmptyMind at BLP-2023 Task 1: A Transformer-based Hierarchical-BERT Model for Bangla Violence-Inciting Text Detection",
+        "authors": "Udoy Das, Karnis Fatema, Md Ayon Mia, Mahshar Yahan, Md Sajidul Mowla, Md Fayez Ullah, Arpita Sarker, Hasan Murad",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.banglalp-1.19"
+    },
+    {
+        "id": 20386,
+        "title": "Improving Understanding of Pressure Concepts in Students of SMP Satu Atap Kanda through Problem Based Learning Model",
+        "authors": "Fabiola Hitijahubessy",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "This research aims to increase the understanding of the concept of pressure in Class VIII students of Kanda One Roof Junior High School through the PBL Learning Model with Demonstration and Practice Procedures. This type of research is a type of Classroom Action Research (PTK) which focuses on the classroom atmosphere which is often called Classroom Action Research. The research population is class VIII students of SMP Satu Atap Kanda, one class is taken randomly, namely class VIII B. The method of analyzing information in this matter is tried to use statistics, tabulating information based on variables obtained from all respondents, Descriptive Statistical Test and T-test Analysis Method. Based on the results of this research, the description of the concept of pressure in Kanda One Roof Junior High School students has increased. This shows that there is a change in the increase in the students' concept description in the PBL learning model with demonstration and practice procedures.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33830/cocatalyst.v1i2.7493"
+    },
+    {
+        "id": 20387,
+        "title": "Enhancing AutoNLP with Fine-Tuned BERT Models: An Evaluation of Text Representation Methods for AutoPyTorch",
+        "authors": "Parisa Safikhani, David Broneske",
+        "published": "2023-9-16",
+        "citations": 0,
+        "abstract": "Recent advancements in Automated Machine Learning (AutoML) have led to the emergence of Automated Natural Language Processing (AutoNLP), a subfield focused on automating NLP model development. Existing NLP toolkits provide various tools and modules but lack a free AutoNLP version. To this end, architecting the design decisions and tuning knobs of AutoNLP is still essential for enhancing performance in various industries and applications. Therefore, analyzing how different text representation methods affect the performance of AutoML systems is an essential starting point for investigating AutoNLP. In this paper, we present a comprehensive study on the performance of AutoPyTorch, an open-source AutoML framework with various text representation methods for binary text classification tasks. The novelty of our research lies in investigating the impact of different text representation methods on AutoPyTorch’s performance, which is an essential step toward transforming AutoPyTorch to also support AutoNLP tasks. We conduct experiments on five diverse datasets to evaluate the performance of both contextual and noncontextual text representation methods, including onehot encoding, BERT (base uncased), fine-tuned BERT, LSA, and a method with no explicit text representation. Our results reveal that, depending on the tasks, different text representation methods may be the most suitable for extracting features to build a model with AutoPyTorch. Furthermore, the results indicate that fine-tuned BERT models consistently outperform other text representation methods across all tasks. However, during the fine-tuning process, the finetuned model had the advantage of benefiting from labels. Hence, these findings support the notion that integrating fine-tuned models or a model fine-tuned on open source large dataset, including all binary text classification tasks as text representation methods in AutoPyTorch, is a reasonable step toward developing AutoPyTorch for NLP tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131603"
+    },
+    {
+        "id": 20388,
+        "title": "BERT-Enhanced Graph Convolutional Network for News Text Classification",
+        "authors": "Li Li, Yushui Geng",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10448791"
+    },
+    {
+        "id": 20389,
+        "title": "Self-supervised text de-stylization based on BERT",
+        "authors": "Junyang Huang, Xiaoxiao Lin",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "Recent advancements in Natural Language Processing (NLP) have ushered in a new era of textual style transfer (TST), a domain aimed at altering textual attributes such as tone and sentiment while preserving the content's essence. This study introduces a creative framework that employs a dual-component architecture consisting of a classifier and a generator to achieve text de-stylization, particularly sentiment neutralization. The classifier, built upon the Bidirectional Encoder Representations from Transformers (BERT) model, serves as a dynamic loss function guiding the generator, constructed on a Transformer-based encoder-decoder framework, to produce sentiment-neutral text. Our method leverages a self-supervised mechanism, enabling the generation of target text without reliance on parallel corpora, thereby addressing the limitations of existing TST methodologies. We preprocessed datasets from Stanford Sentiment Treebank-5 (SST-5) and Internet Movie Database (IMDb) movie reviews and employed them for training the classifier and generator, respectively. Preliminary results demonstrate the model's proficiency in preserving semantic integrity while effectively neutralizing sentiment. Future work envisions expanding this framework to enable text stylization across a spectrum of discursive contexts, enhanced by deep learning architectures and an iterative feedback mechanism for user-driven refinement.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/50/20241579"
+    },
+    {
+        "id": 20390,
+        "title": "Chinese Text Sentiment Analysis Based on BERT-BiGRU Fusion Gated Attention",
+        "authors": "Huang Shufen, Liu Changhui, Zhang Yinglin",
+        "published": "2023-4-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11648/j.ajcst.20230602.11"
+    },
+    {
+        "id": 20391,
+        "title": "METHOD OF IMPROVING THE QUALITY OF TEXT GENERATION BY REPEATED PROCESSING OF THE GENERATED TEXT BY THE MODEL",
+        "authors": "ПЕТРО ЗДЕБСЬКИЙ, АНДРІЙ БЕРКО",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "The growing popularity of large language models has emphasized the need to align them with the needs of the user. The alignment task is one of the most important subtasks of artificial intelligence security. Some artificial intelligence researchers claim that in the future this problem will be even more urgent, due to the fact that systems will be more powerful and, in turn, will be better able to find workarounds to achieve the tasks set before them. Currently, these problems arise in commercial products related to large language models, recommender systems, autonomous vehicles, etc.\nThe task of aligning artificial intelligence systems is to steer the systems to the goals, preferences, and ethical principles of a person. A system is considered aligned if it achieves the intended goals, and misaligned if it pursues certain goals that were not planned. The problem of alignment lies in the difficulty of describing the universal desired behavior, which is why developers of such systems often describe intermediate simplified goals. An example can be receiving feedback from a person. But such an approach can create loopholes and reward the system for imitating the desired behavior. Systems can learn to achieve intermediate goals without achieving the desired final goals. Such misaligned systems can cause harm in real-world use.\nThe paper proposes a method for improving the quality of text generation by large language models using the GPT-4 model as an example. An iterative method is proposed for matching the generated text with the user's request by retraining the model on examples on which it makes mistakes. Retraining occurs automatically with the transfer to the input of the model of examples in which an error was made for retraining.\nCompared to the original base model, the proposed method shows significant improvements, increasing the accuracy from 82.5 to 90. The proposed method during experiments showed promise for practical application in real text generation tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31891/2307-5732-2024-331-39"
+    },
+    {
+        "id": 20392,
+        "title": "Improving Long-Text Authorship Verification via Model Selection and Data Tuning",
+        "authors": "Trang Nguyen, Charlie Dagli, Kenneth Alperin, Courtland Vandam, Elliot Singer",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.latechclfl-1.4"
+    },
+    {
+        "id": 20393,
+        "title": "A BERT-based Intent Recognition and Slot Filling Joint Model for Air Traffic Control Instruction Understanding",
+        "authors": "Qihan Deng, Yang Yang, Xiaoxiao Zhang, Shengsheng Qian, Minghua Zhang, Kaiquan Cai",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dasc58513.2023.10311266"
+    },
+    {
+        "id": 20394,
+        "title": "Enhancing AutoNLP with Fine-Tuned BERT Models: An Evaluation of Text Representation Methods for AutoPyTorch",
+        "authors": "Parisa Safikhani, David Broneske",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4585459"
+    },
+    {
+        "id": 20395,
+        "title": "BeNet: BERT Doc-Label Attention Network for Multi-Label Text Classification",
+        "authors": "Bo Li",
+        "published": "2024-3-29",
+        "citations": 0,
+        "abstract": "Multi-label Text Classification (MLTC) holds significant importance and serves as a foundational aspect in Natural Language Processing (NLP), which aims at assigning multiple labels for a given document. Many real-world tasks can be viewed as MLTC, such as tag recommendation, information retrieval, etc. Nevertheless, researchers are faced with numerous challenging issues regarding the establishment of linkages between labels or the differentiation of comparable sub-labels. To address this issue, we provide a novel approach known as the BERT Doc-Label Attention Network (BeNet) in this paper, which consist of the BERTdoc layer, the label embeddings layer, the doc encoder layer, the doc-label attention layer and the prediction layer. We apply the powerful technique of BERT to pretrain documents to capture their deep semantic features and encode them via Bi-LSTM to obtain a two-directional contextual representation of uniform length. Then we create label embeddings and feed them together with encoded-pretrained-documents to the doc-label attention mechanism to obtain interactive information between documents and their corresponding labels, finally using MLP to make predictions. We carry out experiments on two real-world datasets, and the empirical results demonstrate that our proposed model outperforms all state-of-the-art MLTC benchmarks. Furthermore, we have undertaken a case study to effectively illustrate the practical implementation of our method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/54/20241493"
+    },
+    {
+        "id": 20396,
+        "title": "Research on Long Text Similarity Calculation Method Based on TextRank and BERT",
+        "authors": "Xi Zhao, Binglin Zhu, Xiaofeng Liu",
+        "published": "2024-1-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acie61839.2024.00028"
+    },
+    {
+        "id": 20397,
+        "title": "Comparison of an Ensemble of Machine Learning Models and the BERT Language Model for Analysis of Text Descriptions of Brain CT Reports to Determine the Presence of Intracranial Hemorrhage",
+        "authors": "A.N. Khoruzhaya, D.V. Kozlov, K.M. Arzamasov, E.I. Kremneva",
+        "published": "2024-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17691/stm2024.16.1.03"
+    },
+    {
+        "id": 20398,
+        "title": "Efficient Long-Text Understanding with Short-Text Models",
+        "authors": "Maor Ivgi, Uri Shaham, Jonathan Berant",
+        "published": "2023-3-22",
+        "citations": 6,
+        "abstract": "AbstractTransformer-based pretrained language models (LMs) are ubiquitous across natural language understanding, but cannot be applied to long sequences such as stories, scientific articles, and long documents due to their quadratic complexity. While a myriad of efficient transformer variants have been proposed, they are typically based on custom implementations that require expensive pretraining from scratch. In this work, we propose SLED: SLiding-Encoder and Decoder, a simple approach for processing long sequences that re-uses and leverages battle-tested short-text pretrained LMs. Specifically, we partition the input into overlapping chunks, encode each with a short-text LM encoder and use the pretrained decoder to fuse information across chunks (fusion-in-decoder). We illustrate through controlled experiments that SLED offers a viable strategy for long text understanding and evaluate our approach on SCROLLS, a benchmark with seven datasets across a wide range of language understanding tasks. We find that SLED is competitive with specialized models that are up to 50x larger and require a dedicated and expensive pretraining step.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/tacl_a_00547"
+    },
+    {
+        "id": 20399,
+        "title": "Improving clinical documentation: automatic inference of ICD-10 codes from patient notes using BERT model",
+        "authors": "Emran Al-Bashabsheh, Ahmad Alaiad, Mahmoud Al-Ayyoub, Othman Beni-Yonis, Raed Abu Zitar, Laith Abualigah",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11227-023-05160-z"
+    },
+    {
+        "id": 20400,
+        "title": "An Advanced BERT LayerSum Model for Sentiment Classification of COVID-19 Tweets",
+        "authors": "Areeba Umair, Elio Masciari",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012128900003541"
+    },
+    {
+        "id": 20401,
+        "title": "Improving Students' Understanding of Mathematical Concepts Through the Flipped Classroom Learning Model for Class VIII SMP",
+        "authors": "Nurul Wahyuni, Nur Izzati, Metta Liana",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "This study aimed to find out the difference between class VIII students of SMP Negeri 2 Bintan who used the Flipped Classroom learning model and conventional learning. This quantitative study uses a Quasy Experiment research type with a non-equivalent control group design. The sampling technique uses cluster sampling. The research instruments included interview sheets, observation sheets, and a description of 5 questions. The questions were then tested for validity, reliability test, difficulty level test, and discrimination test. The prerequisite tests carried out were the normality and homogeneity tests, and then the data results were normally distributed, and the two groups were homogeneous. The results showed that students in the experimental class obtained an average increase in their understanding of mathematical concepts by 0.35, while students in the control class obtained an increase of 0.21. Test the hypothesis using an independent t-test with a sig. (2-tailed) value of 0.000. Because this test is a right-hand side test, the p-value =  Ã— 0.000 = 0, and it is known that 0 â‰¤ 0.05, so  Â is accepted. It can be concluded from this study that the increased understanding of mathematical concepts of students who learn with the Flipped Classroom model is higher than students who learn with conventional learning. It can be concluded from this study that the increased understanding of mathematical concepts of students who learn with the Flipped Classroom model is higher than students who learn with conventional learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22437/edumatica.v13i02.26445"
+    },
+    {
+        "id": 20402,
+        "title": "BERT Layer Weighting Comparision with Short Text Classification",
+        "authors": "JRKC Jayakody, VGTN Vidanagama, Indika Perera, HMLK Herath",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciis58898.2023.10253544"
+    },
+    {
+        "id": 20403,
+        "title": "BIT: Improving Image-text Sentiment Analysis via Learning Bidirectional Image-text Interaction",
+        "authors": "Xingwang Xiao, Yuanyuan Pu, Zhengpeng Zhao, Jinjing Gu, Dan Xu",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191445"
+    },
+    {
+        "id": 20404,
+        "title": "SPU-BERT: Faster human multi-trajectory prediction from socio-physical understanding of BERT",
+        "authors": "Ki-In Na, Ue-Hwan Kim, Jong-Hwan Kim",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110637"
+    },
+    {
+        "id": 20405,
+        "title": "Text Classification Into Emotional States using Deep Learning based BERT Technique",
+        "authors": "Madineni Priyanka, Pushadapu Karthik, Prasanth Yalla",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icces57224.2023.10192619"
+    },
+    {
+        "id": 20406,
+        "title": "TEXT MINING: CLUSTERING USING BERT AND PROBABILISTIC TOPIC MODELING",
+        "authors": "Kavitha Datchanamoorthy, Anandha Mala. G. S, Padmavathi. B",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "In order to find significant patterns and fresh ideas, free-form content is transformed into structured format using a process known as text mining or text data mining.  It enables businesses to easily locate important information in texts like emails, social media posts, support requests, chatbots, and other sorts of text. Text mining enables businesses to anticipate possible threats from rivals, react quickly to production or delivery problems, and provide more individualised customer service. Businesses employ text mining for a range of functions, including production, IT, marketing, sales, and customer service. By carefully examining the phrases used in the source texts, topic modelling aims to pinpoint the recurrent themes in a corpus. These concepts are known as “topics”. As a result, textual data may be measured and used in quantitative analysis. In this sector, there are several subject modelling kinds that differ from one another based on a few unique traits and criteria. In our paper we have represented mainly 3 types of topic modelling techniques namely Latent Semantic Analysis (LSA), Hierarchical Dirichlet Process (HDP), and Latent Dirichlet Analysis (LDA) and calculated the coherence score of each method and compared them. And we have infused the concept of BERT with this topic modelling models and proposed a new model called HDP BERT and calculated the coherence Score and clusters the topics. At the end the n-grams features are applied to all 4 models and compared among each other in bases of uni, bi and trigram rate percentage.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58898/sij.v2i2.01-13"
+    },
+    {
+        "id": 20407,
+        "title": "BERT for Aviation Text Classification",
+        "authors": "Xiao Jing, Akul Chennakesavan, Chetan Chandra, Mayank V. Bendarkar, Michelle Kirby, Dimitri N. Mavris",
+        "published": "2023-6-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-3438"
+    },
+    {
+        "id": 20408,
+        "title": "Double Distillation of BERT Combined with GCN for Text Classification",
+        "authors": "Jing-Hong Wang, Jing-Yu Zhao, Chan Feng",
+        "published": "2023-7-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmlc58545.2023.10328013"
+    },
+    {
+        "id": 20409,
+        "title": "Enhancing Multi-Class Text Classification with BERT-Based Models",
+        "authors": "Haojia Wu, Xinfeng Ye, Sathiamoorthy Manoharan",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csde59766.2023.10487760"
+    },
+    {
+        "id": 20410,
+        "title": "Comparative analysis of strategies of knowledge distillation on BERT for text matching",
+        "authors": "Yifan Yang",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "Large language model is a highly effective and promising language model technology that can improve the performance and robustness of natural language processing tasks. As a representative work, Bidirectional Encoder Representations from Transformers (BERT) has excellent performance in various natural language processing tasks. This model is pre-trained on large-scale language dataset and has gained attention from all walks of life since its introduction. However, its huge number of participants and scale make its performance in mobile very limited. As an effective technique to compress neural network, knowledge distillation can obtain a lightweight model with smaller parameters without losing too much model performance. Therefore, distillation of BERT models has been started, aiming at obtaining lightweight BERT models. In this paper, we will introduce several common BERT distillation models and analyse their model architecture, distillation process, and finally the compression efficiency and model effectiveness. It is concluded that the process of increasing recompression efficiency is often accompanied by decreasing model effectiveness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/51/20241188"
+    },
+    {
+        "id": 20411,
+        "title": "BERT-NAR-BERT: A Non-Autoregressive Pre-Trained Sequence-to-Sequence Model Leveraging BERT Checkpoints",
+        "authors": "Mohammad Golam Sohrab, Masaki Asada, Matīss Rikters, Makoto Miwa",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3346952"
+    },
+    {
+        "id": 20412,
+        "title": "Comparison between iSpring Suites-supported PBL and PjBL Model in Improving Students Understanding of Electrolyte and Non-Electrolyte Solution",
+        "authors": "Anna Juniar, Hotma Damayanti Purba",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23960/jpmipa/v24i2.pp432-441"
+    },
+    {
+        "id": 20413,
+        "title": "The Concept Attainment Learning Model In Improving Understanding Of Mathematics Concepts In Primary Schools",
+        "authors": "Mira Helpiana, Rusdial Marta, Yenni Fitra Surya, Fadhilaturrahmi Fadhilaturrahmi, Nurhaswinda Nurhaswinda",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "This research was motivated by the low understanding of Mathematics concepts in class III students at SDN 004 Salo. This is because the learning model has not been able to improve students' understanding of Mathematics concepts in the learning process. One solution to overcome this problem is to apply the Concept Attainment learning model . This research aims to describe increasing students' understanding of Mathematics concepts by applying the Concept Attainment learning model for class III students at SDN 004 Salo. This research method is classroom action research (PTK) which is carried out in two cycles. Each cycle consists of two meetings and four stages, namely planning, implementation, observation and reflection. The research subjects were 20 class III students. Data collection techniques include interview techniques, observation, tests and documentation. Based on the results of data analysis, it can be seen that there was an increase in students' results of Understanding Mathematical Concepts before the action, the average completeness of students' Understanding of Mathematical Concepts results was only 25% with classical completeness of 59%, then in the first cycle of the first meeting it increased to 35% with classical completeness of 65. 25%, then in cycle I, meeting II increased to 50% with classical completeness of 71.5%. Furthermore, cycle II, meeting I increased to 65% with classical completeness of 73% and cycle II, meeting II increased to 80% with classical completeness of 80.5%. So it can be concluded that the application of the Concept Attainment Learning model can improve the understanding of Mathematics concepts for class III students at SDN 004 Salo.\r\n \r\nKeywords: Concept Attainment Learning Model , Understanding Mathematical Concepts, Elementary School",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33487/edumaspul.v7i2.6672"
+    },
+    {
+        "id": 20414,
+        "title": "Improving a text classifier using text augmentation: road traffic content from Twitter",
+        "authors": "Thawatchai Raksachat, Rathachai Chawuthai",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecti-con58255.2023.10153191"
+    },
+    {
+        "id": 20415,
+        "title": "Towards Reference-free Text Simplification Evaluation with a BERT Siamese Network Architecture",
+        "authors": "Xinran Zhao, Esin Durmus, Dit-Yan Yeung",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.838"
+    },
+    {
+        "id": 20416,
+        "title": "Improving Generalization in Language Model-based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-based Techniques",
+        "authors": "Daking Rai, Bailin Wang, Yilun Zhou, Ziyu Yao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-short.15"
+    },
+    {
+        "id": 20417,
+        "title": "Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions",
+        "authors": "Yifei Xin, Yuexian Zou",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1478"
+    },
+    {
+        "id": 20418,
+        "title": "BAG: Text Classification Based on Attention Mechanism Combining BERT and GCN",
+        "authors": "想 李",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12677/sea.2023.122023"
+    },
+    {
+        "id": 20419,
+        "title": "Comparison of KoBERT and BERT for Emotion Classification of Healthcare Text Data",
+        "authors": "Mose Gu, Jaehoon Paul Jeong",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictc58733.2023.10393750"
+    },
+    {
+        "id": 20420,
+        "title": "Federated Freeze BERT for text classification",
+        "authors": "Omar Galal, Ahmed H. Abdel-Gawad, Mona Farouk",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "AbstractPre-trained BERT models have demonstrated exceptional performance in the context of text classification tasks. Certain problem domains necessitate data distribution without data sharing. Federated Learning (FL) allows multiple clients to collectively train a global model by sharing learned models rather than raw data. However, the adoption of BERT, a large model, within a Federated Learning framework incurs substantial communication costs. To address this challenge, we propose a novel framework, FedFreezeBERT, for BERT-based text classification. FedFreezeBERT works by adding an aggregation architecture on top of BERT to obtain better sentence embedding for classification while freezing BERT parameters. Keeping the model parameters frozen, FedFreezeBERT reduces the communication costs by a large factor compared to other state-of-the-art methods. FedFreezeBERT is implemented in a distributed version where the aggregation architecture only is being transferred and aggregated by FL algorithms such as FedAvg or FedProx. FedFreezeBERT is also implemented in a centralized version where the data embeddings extracted by BERT are sent to the central server to train the aggregation architecture. The experiments show that FedFreezeBERT achieves new state-of-the-art performance on Arabic sentiment analysis on the ArSarcasm-v2 dataset with a 12.9% and 1.2% improvement over FedAvg/FedProx and the previous SOTA respectively. FedFreezeBERT also reduces the communication cost by 5$$\\times$$\n×\n compared to the previous SOTA.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40537-024-00885-x"
+    },
+    {
+        "id": 20421,
+        "title": "Multi-Label Text Classification Based on BERT and Label Attention Mechanism",
+        "authors": "Xinghong Chen, Yi Yin, Tao Feng",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ipec57296.2023.00073"
+    },
+    {
+        "id": 20422,
+        "title": "Improving Multi-Document Summarization with GRU-BERT Network",
+        "authors": "Ehtesham Sana, Nadeem Akhtar",
+        "published": "2023-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/reedcon57544.2023.10151372"
+    },
+    {
+        "id": 20423,
+        "title": "Exploring the Impact of Prompt Engineering on ChatGPT 3.5 Text Summarization: A BERT Score Evaluation",
+        "authors": "",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets45268"
+    },
+    {
+        "id": 20424,
+        "title": "Application of the Team Assisted Individualization (TAI) Learning Model in Improving Understanding of Mathematical Concepts",
+        "authors": "Mia Misastri, Ricky Purnama Wirayuda, Syarbaini Syarbaini",
+        "published": "2023-1-31",
+        "citations": 3,
+        "abstract": "Purpose of the study: Research This done with objective For analyze understanding draft mathematics competence number with using the Learning Model Team Assisted Individualization (TAI) for students class IV Madrasah Ibtidaiyah Al-Hidayah Kebon IX Muaro Jambi.\r\nMethodology: Deep data study This in the form of quantitative and qualitative data which is analyzed in a manner descriptive and data obtained through stages observation as much as 2 cycles with sample as many as 18 students.\r\nMain Findings: After done 2 cycles obtained happen enhancement understanding draft improved mathematic using learning models Team Assisted Individualization (TAI). enhancement results from understanding draft mathematics competence number student by 26.73%.\r\nNovelty/Originality of this study: Updating from study This is related research with enhancement understanding draft mathematics competence number with using the Learning Model The previous Team Assisted Individualization (TAI).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37251/jee.v4i1.308"
+    },
+    {
+        "id": 20425,
+        "title": "Text-to-Text Pre-Training with Paraphrasing for Improving Transformer-Based Image Captioning",
+        "authors": "Ryo Masumura, Naoki Makishima, Mana Ihori, Akihiko Takashima, Tomohiro Tanaka, Shota Orihashi",
+        "published": "2023-9-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289992"
+    },
+    {
+        "id": 20426,
+        "title": "Trajectory-BERT: Trajectory Estimation Based on BERT Trajectory Pre-Training Model and Particle Filter Algorithm",
+        "authors": "You Wu, Hongyi Yu, Jianping Du, Chenglong Ge",
+        "published": "2023-11-11",
+        "citations": 0,
+        "abstract": "In the realm of aviation, trajectory data play a crucial role in determining the target’s flight intentions and guaranteeing flight safety. However, the data collection process can be hindered by noise or signal interruptions, thus diminishing the precision of the data. This paper uses the bidirectional encoder representations from transformers (BERT) model to solve the problem by masking the high-precision automatic dependent survey broadcast (ADS-B) trajectory data and estimating the mask position value based on the front and rear trajectory points during BERT model training. Through this process, the model acquires knowledge of intricate motion patterns within the trajectory data and acquires the BERT pre-training Model. Afterwards, a refined particle filter algorithm is utilized to generate alternative trajectory sets for observation trajectory data that is prone to noise. Ultimately, the BERT trajectory pre-training model is supplied with the alternative trajectory set, and the optimal trajectory is determined by computing the maximum posterior probability. The results of the experiment show that the model has good performance and is stronger than traditional algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23229120"
+    },
+    {
+        "id": 20427,
+        "title": "Adaptive-Bert Network for Advertising Text Generation",
+        "authors": "Shuaiwei Yao, Xiaodong Pan, Han Dong, Chunlei Kong, Xiangping Wu",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceict57916.2023.10245936"
+    },
+    {
+        "id": 20428,
+        "title": "Text Recognition for Station Equipment Troubleshooting Based on BERT-BiLSTM-CRF Models",
+        "authors": "Wei Bai, Xiaosu Wang, Bo Liang, Guoyuan Yang, Hanyu Zhi, Yinwei Qiao",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451970"
+    },
+    {
+        "id": 20429,
+        "title": "Few-Shot Spoken Language Understanding Via Joint Speech-Text Models",
+        "authors": "Chung-Ming Chien, Mingjiamei Zhang, Ju-Chieh Chou, Karen Livescu",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389660"
+    },
+    {
+        "id": 20430,
+        "title": "Improving Science Conceptual Understanding and Science Process Skills in Elementary School using Predict-Observe-Explain Learning Model",
+        "authors": "Ida Fiteriani, Laras Dwi Mulyani, Sa’idy Sa’idy, Baharudin Baharudin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23960/jpmipa/v24i1.pp225-234"
+    },
+    {
+        "id": 20431,
+        "title": "Improving Students' Entrepreneurship Interests and Concept Understanding Through the Ethnoscience-Based PBL-Networked Model",
+        "authors": "Mela Agustia, M. Dwi Wiwik Ernawati, Pinta Murni",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "This study aim to determine the effect of the implementation of the ethnoscience-based PBL-Networked model on students' understanding of the concept and interest in entrepreneurship. The research was conducted using a quasi-experimental approach with nonequivalent control group design. The research subjects were class VII students of SMPN 4 Sungai penuh. Determination of the sample used purposive sampling technique. The data were obtained from the results of the pretest and posttest as well as the student interest in entrepreneurship questionnaire. The instrument is used after being validated by a team of experts. Based on data analysis, that the implementation of the ethnoscience-based Problem Based Learning learning model has an influence on students' understanding of concepts and interest in entrepreneurship. Ethnoscience-based PBL-Networked model learning tools are effective in significantly increasing students' understanding of concepts and interest in entrepreneurship. The effect on students' understanding of concepts and interest in entrepreneurship is higher in the implementation of the ethnoscience-based PBL-Networked model than in conventional classes. This is based on the results of the One way MANOVA test showing a significance value of 0.000 which is less than the significance level α= 0.005, so it can be concluded that there is an average difference in increasing understanding of concepts and students' interest in entrepreneurship that is significant between students who learn using the ethnoscience-based PBL-Networked learning model and students who use learning tools that are already available on the Merdeka Belajar Platform",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29303/jppipa.v9i4.3299"
+    },
+    {
+        "id": 20432,
+        "title": "Understanding and Improving Model Performance at Small Mass Flow Rates in Fluid System Models",
+        "authors": "Robert Flesch, Annika Kuhlmann, Johannes Brunnemann, Eiden Jörg",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "This paper provides a detailed analysis of the reasons behind the poor simulation performance observed when mass flow rates become very small, commonly referred to as zero mass flow issues. By using simple example models, we effectively demonstrate the underlying causes of these simulation performance issues. We highlight various contributing factors that play a significant role in exacerbating the problem. Furthermore, we propose and examine countermeasures to mitigate these challenges. These countermeasures include modifications to the model itself, utilization of available settings in simulation tools, and adjustments to the solver. By implementing and evaluating these countermeasures, we illustrate their impact on improving simulation performance in scenarios involving low mass flow rates.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3384/ecp204189"
+    },
+    {
+        "id": 20433,
+        "title": "Improving Text-Audio Retrieval by Text-Aware Attention Pooling and Prior Matrix Revised Loss",
+        "authors": "Yifei Xin, Dongchao Yang, Yuexian Zou",
+        "published": "2023-6-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096972"
+    },
+    {
+        "id": 20434,
+        "title": "Understanding Video Scenes through Text: Insights from Text-based Video Question Answering",
+        "authors": "Soumya Jahagirdar, Minesh Mathew, Dimosthenis Karatzas, C. V. Jawahar",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00500"
+    },
+    {
+        "id": 20435,
+        "title": "CE-BERT: Concise and Efficient BERT-Based Model for Detecting Rumors on Twitter",
+        "authors": "Rini Anggrainingsih, Ghulam Mubashar Hassan, Amitava Datta",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3299858"
+    },
+    {
+        "id": 20436,
+        "title": "IMPROVING PROCEDURE TEXT WRITING ABILITY WITH THE PAIR CHECKS LEARNING MODEL IN CLASS XI CULINARY ART OF VOCATIONAL HIGH SCHOOL WIRA BHAKTI",
+        "authors": "Mas Kusumaningrat Cokorda Istri, Putu Agus Permanamiarta",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "This study aims to determine the increase in the ability to write procedural texts using the pair checks learning model in class XI culinary art of Vocational High School Wira Bhakti. The method used in this research is descriptive method. The descriptive method is related to the explanation of social phenomena to the observed subjects. The techniques used in this research are observation, documentation study, and tests. The results of the ability to write procedural texts using the pair check learning model for class class XI culinary art of Vocational High School Wira Bhakti in cycle I was 72.88% and in cycle II the student score was 80.45%. It can be concluded that the application of the pair check learning model is able to improve the ability to write procedural texts in English for class XI culinary art of Vocational High School Wira Bhakti.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59672/stilistika.v11i2.2936"
+    },
+    {
+        "id": 20437,
+        "title": "Automatic extraction of ranked SNP-phenotype associations from text using a BERT-LSTM-based method",
+        "authors": "Behrouz Bokharaeian, Mohammad Dehghani, Alberto Diaz",
+        "published": "2023-4-12",
+        "citations": 3,
+        "abstract": "AbstractExtraction of associations of singular nucleotide polymorphism (SNP) and phenotypes from biomedical literature is a vital task in BioNLP. Recently, some methods have been developed to extract mutation-diseases affiliations. However, no accessible method of extracting associations of SNP-phenotype from content considers their degree of certainty. In this paper, several machine learning methods were developed to extract ranked SNP-phenotype associations from biomedical abstracts and then were compared to each other. In addition, shallow machine learning methods, including random forest, logistic regression, and decision tree and two kernel-based methods like subtree and local context, a rule-based and a deep CNN-LSTM-based and two BERT-based methods were developed in this study to extract associations. Furthermore, the experiments indicated that although the used linguist features could be employed to implement a superior association extraction method outperforming the kernel-based counterparts, the used deep learning and BERT-based methods exhibited the best performance. However, the used PubMedBERT-LSTM outperformed the other developed methods among the used methods. Moreover, similar experiments were conducted to estimate the degree of certainty of the extracted association, which can be used to assess the strength of the reported association. The experiments revealed that our proposed PubMedBERT–CNN-LSTM method outperformed the sophisticated methods on the task.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05236-w"
+    },
+    {
+        "id": 20438,
+        "title": "Improving Multiclass Classification of Fake News Using BERT-Based Models and ChatGPT-Augmented Data",
+        "authors": "Elena Shushkevich, Mikhail Alexandrov, John Cardiff",
+        "published": "2023-9-1",
+        "citations": 2,
+        "abstract": "Given the widespread accessibility of content creation and sharing, false information proliferation is a growing concern. Researchers typically tackle fake news detection (FND) in specific topics using binary classification. Our study addresses a more practical FND scenario, analyzing a corpus with unknown topics through multiclass classification, encompassing true, false, partially false, and other categories. Our contribution involves: (1) exploring three BERT-based models—SBERT, RoBERTa, and mBERT; (2) enhancing results via ChatGPT-generated artificial data for class balance; and (3) improving outcomes using a two-step binary classification procedure. Our focus is on the CheckThat! Lab dataset from CLEF-2022. Our experimental results demonstrate a superior performance compared to existing achievements but FND’s practical use needs improvement within the current state-of-the-art.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/inventions8050112"
+    },
+    {
+        "id": 20439,
+        "title": "Combining Demographic Tabular Data with BERT Outputs for Multilabel Text Classification in Higher Education Survey Data",
+        "authors": "Kevin Chovanec, John Fields, Praveen Madiraju",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386843"
+    },
+    {
+        "id": 20440,
+        "title": "Improving edit-based unsupervised sentence simplification using fine-tuned BERT",
+        "authors": "Mohammad Amin Rashid, Hossein Amirkhani",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.01.009"
+    },
+    {
+        "id": 20441,
+        "title": "Self Supervised Bert for Legal Text Classification",
+        "authors": "Arghya Pal, Sailaja Rajanala, Raphaël C.-W. Phan, Koksheik Wong",
+        "published": "2023-6-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095308"
+    },
+    {
+        "id": 20442,
+        "title": "Trainable Weighted Pooling Method for Text Classification with BERT",
+        "authors": "Hidenori Yamato, Makoto Okada, Naoki Mori",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiai-aai-winter61682.2023.00056"
+    },
+    {
+        "id": 20443,
+        "title": "On the Difference of BERT-style and CLIP-style Text Encoders",
+        "authors": "Zhihong Chen, Guiming Chen, Shizhe Diao, Xiang Wan, Benyou Wang",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.866"
+    },
+    {
+        "id": 20444,
+        "title": "Text classification methods based on knowledge graph and BERT",
+        "authors": "Ke Jiang, Cheng Peng",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2692602"
+    },
+    {
+        "id": 20445,
+        "title": "Enhancing Restaurant Customer Review Analysis: Multi-Class Text Classification with BERT",
+        "authors": "Budi Sunarko, Uswatun Hasanah, Syahroni Hidayat",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isriti60336.2023.10467438"
+    },
+    {
+        "id": 20446,
+        "title": "DiscoScore: Evaluating Text Generation with BERT and Discourse Coherence",
+        "authors": "Wei Zhao, Michael Strube, Steffen Eger",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.eacl-main.278"
+    },
+    {
+        "id": 20447,
+        "title": "Econometric Forecasting Using Ubiquitous News Text: Text-enhanced Factor Model",
+        "authors": "Beomseok Seo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4466622"
+    },
+    {
+        "id": 20448,
+        "title": "CLES-BERT: Contrastive Learning-based BERT Model for Automated Essay Scoring",
+        "authors": "Daegon Yu, Yongyeon Kim, Sangwoo Han, Byung-Won On",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14801/jkiit.2023.21.4.31"
+    },
+    {
+        "id": 20449,
+        "title": "Text Classification into Emotional States Using Deep Learning based BERT Technique",
+        "authors": "Farooque Azam, Mpanga Wa Lukalaba Gloire, Neeraj Priyadarshi, Sneha Kumari",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353414"
+    },
+    {
+        "id": 20450,
+        "title": "On Decoder-Only Architecture For Speech-to-Text and Large Language Model Integration",
+        "authors": "Jian Wu, Yashesh Gaur, Zhuo Chen, Long Zhou, Yimeng Zhu, Tianrui Wang, Jinyu Li, Shujie Liu, Bo Ren, Linquan Liu, Yu Wu",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389705"
+    },
+    {
+        "id": 20451,
+        "title": "Toward an Embodied Theory of Understanding Literary Text",
+        "authors": "Mojtaba Pordel",
+        "published": "2024-1-12",
+        "citations": 0,
+        "abstract": "In this article, I aim to theorize and formulate the understanding of literary text within an Embodied Cognitive Approach. After sketching out the analyses of literary text understanding conducted within the framework of the so-called Common Cognitive Approach, I will proceed to point out their shortcomings. I will then lay the scientific foundations of the Embodied Theory of Understanding Literary Text (ETULT) by referring to direct and indirect evidence from neurology, psychology and so on. I will introduce ETULT in detail, with the help of evidence from fiction, Dante's Divine Comedy. I will also delineate the outlines of some field studies for the future, through developing questionnaires and brain scans (fMIR and EEG). In short, ETULT asserts that understanding literary texts is an embodied act, occurring processually on two levels of representation: Schematic and Embodied (The Two-Layered Representation Hypothesis or TLRH). Upon encountering a literary text, the reader forms a Blended Mediated World which is a fusion of the Text World and the Readerly World (The Blended Mediated World Hypothesis or BMWH). Within this mixed world, while those projected parts from the Text World which correspond with sensorimotor experiences of the reader are understood in an embodied way, the parts that lack embodied equivalence in the reader's sensorimotor experience function as Perceian Representamens, setting the reader in search of relevant Objects of Signs, which occur in the form of sensorimotor experiences (The Object-Search Hypothesis or OSH). The reader then becomes involved in a cycle of coming and going movements between the literary text and the socio-physical environment, demonstrating thus the processual nature of embodied understanding.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31902/fll.46.2023.9"
+    },
+    {
+        "id": 20452,
+        "title": "Can the intraspecific laws of variation be used as a predictive model for understanding species with insufficient data? The example of the early Heteroceratidae in their evolutionary context (heteromorph ammonites, Tethys upper Barremian)",
+        "authors": "Didier Bert, Stéphane Bersac, Léon Canut, Bernard Beltrand",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cretres.2023.105647"
+    },
+    {
+        "id": 20453,
+        "title": "Metaverse Tweet Sentiment Text Classification Using Bert Algorithm and Tunning Hyperparameter",
+        "authors": "Hilda Nuraliza, Oktariani Nurul Pratiwi, Muharman Lubis",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ice3is59323.2023.10335255"
+    },
+    {
+        "id": 20454,
+        "title": "Development of LKPD Writing Exposition Text Based on the Discovery Learning Model for Class X High School Students",
+        "authors": "Widya Tri Astuti, Sumarti Sumarti, Iing Sunarti, Siti Samhati, Nurlaksana Eko Rusminto",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "This research was conducted with the aim of creating product development LKPD writing an exposition text based on the discovery learning model, describing feasibility the LKPD, and test eligibility the LKPD for students class X high school. The method in this study uses the research and development (R&D) method belonging to Borg and Gall. The subjects in this study were class students X in the SMA Negeri 5 Bandarlampung. This study uses data collection techniques by means of documentation, observation, interviews, and questionnaires in the SMA Negeri 5 Bandarlampung. The data obtained in this research was then analyzed using a qualitative descriptive technique. The results of this study show that LKPD Menulis Teks Eksposisi Berbasis Model Discovery Learning has been successfully developed into a product needed by students. Material experts, media experts, and practitioners stated that the student worksheets were declared very feasible for use by students with 93 assessment presentations. Student worksheets were considered effective for improving the ability to write exposition texts for each student in the SMA Negeri 5 Bandarlampung with an N-gain value of (0.48) included in the very good category.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18415/ijmmu.v10i5.4734"
+    },
+    {
+        "id": 20455,
+        "title": "The Gift of Feedback: Improving ASR Model Quality by Learning from User Corrections Through Federated Learning",
+        "authors": "Lillian Zhou, Yuxin Ding, Mingqing Chen, Harry Zhang, Rohit Prabhavalkar, Dhruv Guliani, Giovanni Motta, Rajiv Mathews",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389775"
+    },
+    {
+        "id": 20456,
+        "title": "Improving Collaborative Filter Using BERT",
+        "authors": "Riyam Rwedhi, Salam Al-augby",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "With the increasing number of books published and the difficulty of obtaining appropriate research attention, the recommendation systems can increase the affordability and availability of these books. In this work, we expand our work to enhance the accuracy of book collaborative filtering by applying semantic similarity to book summaries, in addition to that addressing major problems of the current work by applying effective techniques to handle the scalability and sparsity problems. The proposed approach consists of three stages: preprocessing, building the system, and evaluation. The technologies used in the pre-processing stage included reduction and normalization. The construction system is divided into two phases: semantic similarity and recommendation. The semantic similarity is done by using BERT for sentence embedding and cosine similarity to calculate the similarity between sentences. During the recommendation phase by using CF based on KNN. In the evaluation stage, classification accuracy metrics had been used. The proposed approach improved the accuracy of the book recommendation system and increased the accuracy to 0.89 compared to previous works on a dataset of 271,000 book summaries. The proposed approach yielded better results due to avoiding problems in previous work, such as scalability and sparsity, by using BERT with CF based KNN. Filtering the data using BERT and the KNN algorithm in the CF added strength to the recommendation, which led to an increase in the accuracy rate.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31642/jokmc/2018/100204"
+    },
+    {
+        "id": 20457,
+        "title": "Power grid risk text segmentation method based on BERT neural network",
+        "authors": "ShuPing Xu, HanQiang Liu",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3015387"
+    },
+    {
+        "id": 20458,
+        "title": "A Novel Approach to Text Summarization of Document using BERT Embedding",
+        "authors": "Kumkum S. Adwani, P. P. Shelke",
+        "published": "2023-1-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaect57570.2023.10117938"
+    },
+    {
+        "id": 20459,
+        "title": "Action Research on Improving Students’ Conceptual Understanding in the “Force and Energy” Unit through Semantic Mapping",
+        "authors": "Azize Betül Dinsever, Yusuf Zorlu, Fulya Zorlu",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "This study was aimed to eliminate the difficulties in teaching the concepts and the students' conceptual understanding in the “Force and Energy” unit through semantic mapping. The study was conducted using the action research method. This study was conducted in the control group, using the existing learning method in the science curriculum, while in the experimental group, homework practices with semantic maps were added. The study sample comprised 49 students studying in the seventh grade of a public middle school affiliated with the Republic of Turkey Ministry of National Education [MoNE] in the 2021–2022 academic year. Data collection tools in this study were administered “New Force and Energy Unit Conceptual Understanding Test”, “Semantic Mapping Evaluation Rubric”, and “Implementation Interview Form”. The study findings determined that the semantic mapping practice, applied to improve the conceptual understanding of the seventh grade middle school students focused on the concepts within the scope of the “Force and Energy” unit, had positive effects on the students. The results of the structured interview form to obtain the views of the seventh grade students participating in this study on the semantic mapping practice indicate that the students reinforced the subject, demonstrating more effective learning. Another result revealed that students had more fun and were more enthusiastic as they actively participated in the process. Our study results reveal that semantic mapping positively affects student performance and attitudes. From this perspective, the use of semantic mapping in the science education process can be expanded.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52380/ijcer.2023.10.4.474"
+    },
+    {
+        "id": 20460,
+        "title": "Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text",
+        "authors": "Parnia Bahar, Mattia Di Gangi, Nick Rossenbach, Mohammad Zeineldeen",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-903"
+    },
+    {
+        "id": 20461,
+        "title": "Commonsense Validation and Explanation in Arabic Text: A Comparative Study Using Arabic BERT Models",
+        "authors": "M Moneb Khaled, Aghyad Al Sayadi, Ashraf Elnagar",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acit58888.2023.10453697"
+    },
+    {
+        "id": 20462,
+        "title": "Whisper-Slu: Extending a Pretrained Speech-to-Text Transformer for Low Resource Spoken Language Understanding",
+        "authors": "Quentin Meeus, Marie-Francine Moens, Hugo Van Hamme",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389786"
+    },
+    {
+        "id": 20463,
+        "title": "Towards a Unified End-to-End Language Understanding System for Speech and Text Inputs",
+        "authors": "Mohan Li, Cătălin Zorilă, Cong-Thanh Do, Rama Doddipatla",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asru57964.2023.10389768"
+    },
+    {
+        "id": 20464,
+        "title": "A Novel Approach to Efficient Multilabel Text Classification: BERT-Federated Learning Fusion",
+        "authors": "Arefin Abu Isha Md. Sadot, Mitu Maliha Mehjabin, Aziz Mahafuz",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccit60459.2023.10441264"
+    },
+    {
+        "id": 20465,
+        "title": "Poetry and precarious memory: Ways of understanding less and less",
+        "authors": "Paul Hetherington, Cassandra Atherton",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "Poetry as an art form has traditionally registered tropes of feeling and memory, often with astonishing power, especially since the Romantics began to focus on projections of the self. Yet, when poetry invokes memory, anchoring people to their pasts and identities, it frequently reveals that, at best, memory offers a precarious connection to what is certain or secure – and this is particularly the case for women writers. For example, much of Emily Dickinson’s poetry reveals that memory’s recesses are often uncomfortable, and studies in autobiographical memory confirm poetry’s intuition that all may not be what it seems within the “house” of the recollecting self. This paper explores ways in which poetry’s elusive suggestiveness, and memory’s more fraught instances, confirm the provisionality and precarity of what most people are inclined to take for granted – that they know themselves and can speak securely of who they are. This has always been a challenge for women in patriarchal societies as gender inequality and precarious work – often in atypical employment – has informed and affected their expressions of self and identity. We conclude with examples from the work of two contemporary women poets, Emma Hyche and Mary A. Koncel, in order to focus on their particular approaches to precarity in their poetry and prose poetry and to posit that women poets often disrupt and disturb aspects of the patriarchal language system to offer new constructions of autobiographical memory.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52086/001c.88242"
+    },
+    {
+        "id": 20466,
+        "title": "A study of Chinese Text Classification based on a new type of BERT pre-training",
+        "authors": "Youyao Liu, Haimei Huang, Jialei Gao, Shihao Gai",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnlp58431.2023.00062"
+    },
+    {
+        "id": 20467,
+        "title": "Emotion recognition in Hindi text using multilingual BERT transformer",
+        "authors": "Tapesh Kumar, Mehul Mahrishi, Girish Sharma",
+        "published": "2023-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15150-1"
+    },
+    {
+        "id": 20468,
+        "title": "Advancing Clinical Text Summarization through Extractive Methods using BERT-Based Models on the NBME Dataset",
+        "authors": "R Sudarshan, D Sasikala, S Kalavathi",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacrs58579.2023.10404906"
+    },
+    {
+        "id": 20469,
+        "title": "Understanding of Compendium Student Guidance Using Text Mining",
+        "authors": "Senshu YOSHII",
+        "published": "2023-5-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbir57571.2023.10147417"
+    },
+    {
+        "id": 20470,
+        "title": "Research on enterprise text classification methods of BiLSTM and CNN based on BERT",
+        "authors": "Yang Yu, Xiangzhi Liu",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594315.3594362"
+    },
+    {
+        "id": 20471,
+        "title": "Spell4TTS: Acoustically-informed spellings for improving text-to-speech pronunciations",
+        "authors": "Jason Fong, Hao Tang, Simon King",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/ssw.2023-2"
+    },
+    {
+        "id": 20472,
+        "title": "Michael Halliday",
+        "authors": "Amy B. M. Tsui",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "Abstract\nIt is a huge honour and an immense privilege to contribute to this special issue on Michael Halliday’s hitherto unpublished work, “Exploring the ‘language’ part of language education”, not least because the paper was conceptualised in response to what he had observed over a period of three years (1997–2000) as External Examiner for the B.Ed. (Language Education) programme from 1997–2000 at my university – the University of Hong Kong. In this short piece, I will provide the context for Halliday’s paper, which may help readers to better understand the motivation that inspired it and his frequent reference to the Hong Kong situation. I will also draw on the comments he made in his examiner’s reports that are in a way precursors to the expositions in this paper.1\n, \n2 I will end with my personal reflection on the significance of the paper not only for teacher education but also for education.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1075/langct.00053.tsu"
+    },
+    {
+        "id": 20473,
+        "title": "An Empirical Analysis of Text Segmentation for BERT Classification in Extended Documents",
+        "authors": "Jingchao Yang, Fusheng Wei, Nathaniel Huber-Fliflet, Adam Dabrowski, Qiang Mao, Han Qin",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386783"
+    },
+    {
+        "id": 20474,
+        "title": "Improving Junior High School Student’s Mathematical Understanding Ability using Discovery Learning Model on Relation and Function Material",
+        "authors": "Rusmawan Rusmawan, Harry Dwi Putra, Heris Hendriana",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "The ability of students' mathematical understanding is one of the aspects needed by students in learning mathematics. With the ability to understand mathematics will make it easier for students to solve problems because students will be able to relate and solve these problems with the concepts they have understood. This study aims to see the improvement of the mathematical understanding ability of junior high school students using a discovery learning model on Relation and Function material. The type of this research is Classroom Action Research with the research sample being all grade VIII students in one of the junior high schools in West Bandung. This study consists of 2 cycles where each cycle consists of planning, action and implementation, observation and reflection stages, with before and after the study given 2 test instrument in the form of a description. In each cycle there is an activity observation sheet. Meanwhile, to analyze the data, it is seen from the test results provided, then all data and data results are processed using SPSS software. The results of this study showed that there was an increase in the completeness of learning scenarios for teachers by 92.31% and for students by 81.25%. In addition, the results of filling out the tests given each cycle showed good results with the number of students who scored above the minimum completeness criteria in cycle I by 73.08% and cycle II by 81.88%, meaning an increase of 8.8%. Based on this, it is expected that educators can apply the Discovery Learning Model with good planning and implementation so that student learning outcomes on relation and function material can increase.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22460/jiml.v7i1.18499"
+    },
+    {
+        "id": 20475,
+        "title": "Efforts In Improving The Ability Of Observation Report Text Writing Through Discovery Learning Model Containing Banyumas Culture Of Batiks Making",
+        "authors": "Isnaeni Praptanti, Siti Fathonah, Hera Septriana, Ahmad Wahyudi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4108/eai.17-12-2022.2338684"
+    },
+    {
+        "id": 20476,
+        "title": "An Integrated Model for Text to Text, Image to Text and Audio to Text Linguistic Conversion using Machine Learning Approach",
+        "authors": "Aman Raj Singh, Diwakar Bhardwaj, Mridul Dixit, Lalit Kumar",
+        "published": "2023-3-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscon57294.2023.10112123"
+    },
+    {
+        "id": 20477,
+        "title": "Improving our understanding of future tropical cyclone intensities in the Caribbean using a high-resolution regional climate model",
+        "authors": "Job C. M. Dullaart, Hylke de Vries, Nadia Bloemendaal, Jeroen C. J. H. Aerts, Sanne Muis",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "AbstractThe Caribbean region is prone to the strong winds and low air pressures of tropical cyclones and their corresponding storm surge that driving coastal flooding. To protect coastal communities from the impacts of tropical cyclones, it is important to understand how this impact of tropical cyclones might change towards the future. This study applies the storyline approach to show what tropical cyclones Maria (2017) and Dorian (2019) could look like in a 2 °C and 3.4 °C warmer future climate. These two possible future climates are simulated with a high-resolution regional climate model using the pseudo global warming approach. Using the climate response from these simulations we apply a Delta-quantile mapping technique to derive future changes in wind speed and mean sea level pressure. We apply this Delta technique to tropical cyclones Maria and Dorian’s observed wind and pressure fields to force a hydrodynamic model for simulating storm surge levels under historical and future climate conditions. Results show that the maximum storm surge heights of Maria and Dorian could increase by up to 0.31 m and 0.56 m, respectively. These results clearly show that future changes in storm surge heights are not negligible compared to end-of-the-century sea level rise projections, something that is sometimes overlooked in large-scale assessments of future coastal flood risk.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-49685-y"
+    },
+    {
+        "id": 20478,
+        "title": "Text Label Construction Based on BERT Word Vector Fusion Self-attention Mechanism and Deep Convolution Neural Network",
+        "authors": "Yadong Wang, Xiang Pan",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aicit59054.2023.10277915"
+    },
+    {
+        "id": 20479,
+        "title": "BERT, RoBERTa or DeBERTa? Comparing Performance Across Transformer Models in Political Science Text",
+        "authors": "Joan Carreras Timoneda, Sebastian Vallejo Vera",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1086/730737"
+    },
+    {
+        "id": 20480,
+        "title": "Text Analysis and Recognition of Emotional Content Using Deep Learning Methods and BERT",
+        "authors": "Efthymios Andrikakis, Isidoros Perikos, Michael Paraskevas, Ioannis Hatzilygeroudis",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icis57766.2023.10210232"
+    },
+    {
+        "id": 20481,
+        "title": "Understanding the Cooking Process with English Recipe Text",
+        "authors": "Yi Fan, Anthony Hunter",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.261"
+    },
+    {
+        "id": 20482,
+        "title": "Umami-BERT: An interpretable BERT-based model for umami peptides prediction",
+        "authors": "Jingcheng Zhang, Wenjing Yan, Qingchuan Zhang, Zihan Li, Li Liang, Min Zuo, Yuyu Zhang",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.foodres.2023.113142"
+    },
+    {
+        "id": 20483,
+        "title": "MedCT-BERT: Multimodal Mortality Prediction using Medical ConvTransformer-BERT Model",
+        "authors": "Ke Zhang, Ke Niu, Yuhang Zhou, Wenjuan Tai, Guoqiang Lu",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictai59109.2023.00109"
+    },
+    {
+        "id": 20484,
+        "title": "Epigenome Engineering: Understanding, Managing, and Improving Technical Aspects",
+        "authors": "Ahmad Mohammad Khalil",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.51847/wv4pydatfp"
+    },
+    {
+        "id": 20485,
+        "title": "Feature Mining of News Communication Topic Elements Based on BERT Model",
+        "authors": "Fei Yang Zheng",
+        "published": "2023-5-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54647/sociology841046"
+    },
+    {
+        "id": 20486,
+        "title": "Improving image classification of one-dimensional convolutional neural networks using Hilbert space-filling curves",
+        "authors": "Bert Verbruggen, Vincent Ginis",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-023-04945-2"
+    },
+    {
+        "id": 20487,
+        "title": "Text Proofreading Method for Tibetan Sound Similarity Syllables Based on Soft-Masked BERT",
+        "authors": "Rengong Zheng, Jie Zhu, Ciren Dunzhu",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/prml59573.2023.10348227"
+    },
+    {
+        "id": 20488,
+        "title": "The effectiveness of T5, GPT-2, and BERT on text-to-image generation task",
+        "authors": "Mourad Bahani, Aziza El Ouaazizi, Khalil Maalmi",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.08.001"
+    },
+    {
+        "id": 20489,
+        "title": "Progressive scene text erasing with self-supervision",
+        "authors": "Xiangcheng Du, Zhao Zhou, Yingbin Zheng, Xingjiao Wu, Tianlong Ma, Cheng Jin",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cviu.2023.103712"
+    },
+    {
+        "id": 20490,
+        "title": "Text Pin: Improving text selection with mode-augmented handles on touchscreen mobile devices",
+        "authors": "Huawei Tu, Boyu Gao, Huiyue Wu, Fei Lyu",
+        "published": "2023-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijhcs.2023.103028"
+    },
+    {
+        "id": 20491,
+        "title": "From text to insights: understanding museum consumer behavior through text mining TripAdvisor reviews",
+        "authors": "Ivan Burkov, Aleksei Gorgadze",
+        "published": "2023-11-7",
+        "citations": 3,
+        "abstract": "\nPurpose\nThis study aims to determine consumer satisfaction dimensions that lead to a willingness to share positive emotions through the study of TripAdvisor users’ reviews on St. Petersburg museums. The explorative study reveals the most significant factors that could predict museum visitors’ behavioral intentions.\n\n\nDesign/methodology/approach\nThe study is based on the theory of planned behavior and the “cognitive-affective-conative” model to analyze TripAdvisor reviews (n = 23020) and understand the relationship between the affective and the conative components of consumer behavior. Quantitative text-mining analysis allowed us to view every lemma of every review as a single factor for a deeper understanding of the phenomenon.\n\n\nFindings\nThe research has enlarged the literature on museum consumer behavior. Behavioral intentions of museum visitors are affected by satisfaction dimensions, especially emotions felt; the esthetic dimension and museums’ surroundings affect consumers’ overall willingness to share positive emotions, while bad service quality and pricing policy make a visit to the museums less satisfying.\n\n\nPractical implications\nManagers can enhance their offerings and attract new consumers by identifying the satisfaction dimensions that influence their intentions to share positive emotions. The research findings can aid museums, tour agencies and government officials in developing targeted products and strategies to meet consumers’ expectations and promote urban tourism.\n\n\nOriginality/value\nThe research identified the dimensions that influence visitors’ willingness to share positive emotions through user-generated content in the context of museums. The study applies quantitative text analysis based on logit regression, which is a novel approach in the field of urban tourism research.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1108/ijtc-05-2023-0085"
+    },
+    {
+        "id": 20492,
+        "title": "Understanding and Text Properties: Investigating Readers’ Sense-making Processes",
+        "authors": "Leonie Kirchhoff, Judith Glaesser",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "Literary reading and the comprehension of literary text(s) has long been a key part of education. While reading comprehension in general has received a fair amount of attention, empirical research on comprehension processes of literary texts is still relatively rare; and yet, it is advisable to gain a thorough understanding of comprehension processes along with potential difficulties and hurdles to understanding specifically of literary texts. To address this issue, we analyse such comprehension processes in a group of university students of English as a second language, drawing on a test based on Shakespeare’s sonnet 43 which employs standardised, open-ended questions. Our research has two goals: firstly, to analyse readers’ approaches that result in a more or less successful decoding of the text they are presented with, and, secondly, to explore whether different textual phenomena help or hinder understanding. We find that strong and weak readers employ similar reading strategies, they do differ, however, with regard to their literary response, with weak readers more likely to draw on irrelevant associations not warranted by the text. In addition, we are able to show that some textual phenomena are more difficult to understand than others. We discuss possible implications of our findings for teaching.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7203/jle.7.26763"
+    },
+    {
+        "id": 20493,
+        "title": "Understanding recession response by Twitter users: A text analysis approach",
+        "authors": "Garcia Krisnando Nathanael",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2023.e23737"
+    },
+    {
+        "id": 20494,
+        "title": "Understanding and Improving Trust Across the Health Care Ecosystem",
+        "authors": "L. Lorraine Basnight",
+        "published": "2023-5-3",
+        "citations": 0,
+        "abstract": "Trust is critical for optimal outcomes in health care, including keeping a healthy and thriving workforce and providing high-quality care. Understanding the issues of trust in health care relationships and addressing threats can improve trust.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18043/001c.74502"
+    },
+    {
+        "id": 20495,
+        "title": "Improving Students’ Writing Ability in Procedure Text Using YouTube Video “Gia Academy”",
+        "authors": "Siska Dwi Wahyuni, Wiyaka Wiyaka",
+        "published": "2023-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56444/lime.v4i01.3728"
+    },
+    {
+        "id": 20496,
+        "title": "Instance Discrimination for Improving Chinese Text Classification",
+        "authors": "He Hu, Yujue Chen",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3650215.3650220"
+    },
+    {
+        "id": 20497,
+        "title": "The Application of the Discovery Learning Model in Improving Religious Understanding of Students in the Lessons of the Book of Sulam Al-Taufīq",
+        "authors": "Abdul Mun’im Amaly, Supiana Supiana, Tedi Priatna, Karman Karman",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "Background: Understanding of the material of the book is difficult, it is not surprising to question whether the understanding of the material has become neglected. Therefore, the religious understanding of students must be developed by the ustāẓ in the Islamic boarding school through the learning process. This can be done using the formulation of the discovery learning model which contains a comprehensive learning procedure design.\r\nPurpose:. This study aims to determine the application of the discovery learning model, and the religious understanding of students using discovery learning and non-discovery learning models, as well as increasing the religious understanding of students after using discovery learning and non-discovery learning models in Class 1 Aliyah Darul Falah Islamic Boarding School and Al-Mukhtariyah Islamic Boarding School West Bandung\r\nMethod:. The research approach used is an experimental study with a quasi-experimental type in the form of a nonequivalent pre-test and post-test control group design. The research population was students of Class 1 Aliyah Darul Falah Islamic Boarding School and Al-Mukhtariyah Islamic Boarding School, West Bandung with a sample of 106 students consisting of experimental and control classes. The research instrument used was a 38-item questionnaire, providing 20 multiple-choice questions and 5 description questions. Data were analyzed using statistical tests\r\nResults:  The results of the research show that the discovery learning model is very suitable to be applied to the Al-Taufīq Sulam Book lesson, at the Darul Falah Islamic boarding school it got an average score of 93.65% which shows a very good interpretation value, and at the Al-Mukhtariyah Islamic boarding school, it got an average score of 93.65%. an average of 90.42% which shows a very good interpretation value. The religious understanding of students using the discovery learning model at the Darul Falah Islamic boarding school is at high criteria with an average pretest score of 52.39 and posttest 82.85 which has increased by 30.46%, at Al-Mukhtariyah Islamic boarding school it is at sufficient criteria. The average pretest score was 43.57 and posttest 75.87, which was an increase of 32.3%.\r\nConclusion: Meanwhile, non-discovery learning at the Darul Falah Islamic boarding school is at sufficient criteria with an average pretest score of 58.44 and posttest of 70.22, an increase of 11.78%, at the Al-Mukhtariyah Islamic boarding school it is at sufficient criteria with an average score -average pretest 51.22 and posttest 60.65, an increase of 9.43%",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59188/jurnalsosains.v4i3.1241"
+    },
+    {
+        "id": 20498,
+        "title": "Improving learning and understanding through concept mapping",
+        "authors": "",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "It is widely accepted that concept maps are a meaningful learning tool. Even so, the use of concept mapping as a meaningful learning tool is probably less common than the use of concept mapping as an assessment tool. In first place, the easiest thing to with a student’s concept map is to apply a rubric and give it a grade. And second, teachers often believe that by using a meaningful learning tool, their students are learning meaningfully while constructing their concept maps. We are then missing on the greatest power of the concept map, its use as a tool to learn meaningfully. In this paper we examine the difference between using concept maps for learning and for assessment, and propose steps on how to move towards the use of the tool to improve students’ learning and understanding.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34105/j.kmel.2023.15.021"
+    },
+    {
+        "id": 20499,
+        "title": "Editorial: Concept mapping: Improving learning and understanding",
+        "authors": "",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "Concept mapping has undergone significant evolution over the past half-century. Initially developed by Joseph Novak and his graduate students as a graphic representation to model the science understanding of elementary school students through interviews, it has now become a widely used knowledge representation tool across age groups and in a broad range of domains. Although mainly used to support meaningful learning, its application has expanded to an ever-increasing variety of applications. Those of us who have worked with concept maps for years and seen their potential continually seek to improve their use, with a focus on understanding how to construct effective maps, how the maps can support knowledge construction and learning, and how they can aid in the development of higher-order thinking skills and knowledge integration. Such improvements can come in various forms, including software tools that support these efforts. This special issue showcases a selection of papers from the 9th International Conference on Concept Mapping that aim to improve and extend the use of concept mapping to enhance learning, understanding, and knowledge construction and sharing. Each author offers a unique perspective within this common theme.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34105/j.kmel.2023.15.020"
+    },
+    {
+        "id": 20500,
+        "title": "Improving Students’ Reading Comprehension Improving the Students’ Writing Recount Text Ability by Using Think Talk Write and Self-Regulated Strategy Development",
+        "authors": "Tasvil Kristin Yavernidar Zebua, Kammer Tuahman Sipayung, Erika Sinambela",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Based on research conducted at SMA Negeri 2 Alasa, researchers found that there were several problems in learning to write English faced by students at SMA Negeri 2 Alasa. Students often have difficulty composing a paragraph by writing down their own ideas. Therefore, researchers conducted research entitled \"Improving the students' writing recount text ability by using Think Talk Write and Self-Regulated Strategy Development at the eleventh grade of SMA Negeri 2 Alasa North Nias\". This research aims to observe the improvement of students' writing skills using Think Talk Write and Self-Regulated Strategy Development, whether there was an improvement in learning outcomes and what strategies were more effectively used between the two strategies. In this research, researcher used classroom action research which is applies treatments to improve learning outcomes that are better than before. From this research, the average pre-test score for class XI-IPS was 52.14% and class XI-IPA was 42.86%. After being given Think Talk Write strategy treatment in class XI-IPS, the average post-test score was 72.35% and in class XI-IPA using Self-Regulated Strategy Development with an average score of 73.57%. From these score, it can be seen that there has been a significant improvement in students' writing abilities, namely 20.21% in class XI-IPS and class XI-IPA 30.71%. Thus, it is concluded that using Think Talk Write and Self-Regulated Strategy Development can improve students' ability in writing recount texts and in this research Self-Regulated Strategy Development is more effective than Think Talk Write strategy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36088/palapa.v11i2.4068"
+    },
+    {
+        "id": 20501,
+        "title": "Improving Students’ Reading Comprehension of Narrative Text Through Draw Strategy",
+        "authors": " Jondriantoni",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "The objectives of this study are to know how is DRAW strategy applied in teaching reading comprehension of narrative text and in what ways are students‟ achievement improved after being taught by this strategy. The writer collected the data by using classroom action research. The action research was carried out in some steps. Those steps were pre-elimination test, spiraling the cycle of planning, acting, observing and reflecting. The instruments that were used are tests, observation sheets and questionnaires. DRAW strategy is one of strategies that can be applied in teaching reading. D represents draw as in pull questions out of the box. R is for read to find the answer. A stands for attend as in listen to what classmates say as they discuss answers to drawn questions. And W represents write; students write answers to a selected few questions based on their notes from the class discussion. With DRAW, students work in small groups to discuss a text and respond to questions that involve critical thinking. In short, DRAW strategy encourages higher order thinking, motivates students in gaining information, promotes discussion, encourages listening, and promotes participation. The preelimination test in this classroom action research was used to know the students‟ achievement on reading comprehension of narrative text before conducting the research. In the pre-elimination test, the class‟ mean score was 45.17. In the cycle 1 test, the class‟ mean score was 62.17. And in the cycle 2 test, the class‟ mean score was 74.17. It can be concluded that the class‟ mean score from preelimination test to cycle 1 test improved 37.6% and 64.2% from pre-elimination test to cycle 2 test. In short, the result of each cycle prove that students‟ achievement of reading comprehension was getting better after this strategy was conducted in teaching and learning process. It can be concluded that by using DRAW strategy in reading class, students‟ reading comprehension can be improved. This strategy is a good technique to help students in comprehending English reading texts. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31004/joecy.v3i3.50"
+    },
+    {
+        "id": 20502,
+        "title": "BERT-based intelligent text record mining for risk analysis of power system equipment",
+        "authors": "Z. Li, J. Fan, Z. Li, Y. Zhang, J. Chen, K. Xie",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/icp.2023.2984"
+    },
+    {
+        "id": 20503,
+        "title": "Improving understanding of groundwater flow in an  alpine karst system by reconstructing its geologic  history using conduit network model ensembles",
+        "authors": "Chloé Fandel, Ty Ferré, François Miville, Philippe Renard, Nico Goldscheider",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "Abstract. Reconstructing the geologic history of a karst area can advance understanding of the system's present-day hydrogeologic functioning and help predict the location of unexplored conduits. This study tests competing hypotheses describing past conditions controlling cave formation in an alpine karst catchment, by comparing an ensemble of modeled networks to the observed network map. The catchment, the Gottesacker karst system (Germany and Austria), is drained by three major springs and a paleo-spring and includes the partially explored Hölloch cave, which consists of an active section whose formation is well-understood and an inactive section whose formation is the subject of debate. Two hypotheses for the formation of the inactive section are the following: (1) glaciation obscured the three present-day springs, leaving only the paleo-spring, or (2) the lowest of the three major springs (Sägebach) is comparatively young, so its subcatchment previously drained to the paleo-spring. These hypotheses were tested using the pyKasso Python library (built on anisotropic fast-marching methods) to generate two ensembles of networks, one representing each scenario. Each ensemble was then compared to the known cave map. The simulated networks generated under hypothesis 2 match the observed cave map more closely than those generated under hypothesis 1. This supports the conclusion that the Sägebach spring is young, and it suggests that the cave likely continues southwards. Finally, this study extends the applicability of model ensemble methods from situations where the geologic setting is known but the network is unknown to situations where the network is known but the geologic evolution is not.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/hess-27-4205-2023"
+    },
+    {
+        "id": 20504,
+        "title": "Improving the Ability of Writing Explanation Text Using the Problem-Based Learning Model in Class VIII Students of Prince Diponogoro Smpit Daarul 'Ilmi Bandarlampung",
+        "authors": "Aji Marhabanx Bidzikrillah MSK, Mulyanto Widodo, Iing Sunarti",
+        "published": "2023-6-9",
+        "citations": 0,
+        "abstract": "The low ability to write explanatory texts for class VIII students of Prince Diponogoro, SMPIT Daarul 'Ilmi Bandarlampung is the problem raised in the research. Therefore, researchers conducted research aimed at describing 1) lesson planning, 2) learning implementation, 3) learning assessment, and 4) increasing learning to write explanatory texts using the Problem Based Learning model.\nThis research is classroom action research whose process consists of four stages, namely planning, implementing, observing, and reflecting. Classroom action research was carried out in two cycles. Each cycle consists of two meetings. Data collection techniques are carried out through observation and learning achievement tests.\nThe results of the study showed an increase in learning. The increase that occurred was in 1) learning planning using the Problem Based Learning model, in cycle I got a score of 73.75 in the good category while the preparation of lesson plans in cycle II obtained an assessment result of 88.75 in the good category, 2) implementation of learning using the model Problem Based Learning in cycle I obtained a score of 75.2 in the sufficient category, while the implementation of learning in cycle II obtained a value of 89.95 in the good category, 3) assessment of learning using the Problem Based Learning model in cycle I obtained an average of 75.1 in the category complete while in cycle II an average score of 83.7 was obtained in the complete category, (4) learning activities as a whole when viewed from the results of the assessment of the preparation of learning plans, implementation of learning, and learning assessments of cycle II were better than pre-cycle I.\n\nKeywords: writing ability, explanatory text, Problem Based Learning",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52403/ijrr.20230624"
+    }
+]

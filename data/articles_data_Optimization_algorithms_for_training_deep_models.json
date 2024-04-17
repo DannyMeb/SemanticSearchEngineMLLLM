@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 15505,
+        "title": "Deep Neural Networks Training by Stochastic Quasi-Newton Trust-Region Methods",
+        "authors": "Mahsa Yousefi, Ángeles Martínez",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "While first-order methods are popular for solving optimization problems arising in deep learning, they come with some acute deficiencies. To overcome these shortcomings, there has been recent interest in introducing second-order information through quasi-Newton methods that are able to construct Hessian approximations using only gradient information. In this work, we study the performance of stochastic quasi-Newton algorithms for training deep neural networks. We consider two well-known quasi-Newton updates, the limited-memory Broyden–Fletcher–Goldfarb–Shanno (BFGS) and the symmetric rank one (SR1). This study fills a gap concerning the real performance of both updates in the minibatch setting and analyzes whether more efficient training can be obtained when using the more robust BFGS update or the cheaper SR1 formula, which—allowing for indefinite Hessian approximations—can potentially help to better navigate the pathological saddle points present in the non-convex loss functions found in deep learning. We present and discuss the results of an extensive experimental study that includes many aspects affecting performance, like batch normalization, the network architecture, the limited memory parameter or the batch size. Our results show that stochastic quasi-Newton algorithms are efficient and, in some instances, able to outperform the well-known first-order Adam optimizer, run with the optimal combination of its numerous hyperparameters, and the stochastic second-order trust-region STORM algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16100490"
+    },
+    {
+        "id": 15506,
+        "title": "Optimization of deep learning models for forecasting performance in the water industry using genetic algorithms",
+        "authors": "Christian Kazadi Mbamba, Damien J. Batstone",
+        "published": "2023-7",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compchemeng.2023.108276"
+    },
+    {
+        "id": 15507,
+        "title": "Training data selection and optimization for EUV lithography deep learning models",
+        "authors": "Abdalaziz Awad, Philipp Brendel, Bappaditya Dey, Sandip Halder, Andreas Erdmann",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2658411"
+    },
+    {
+        "id": 15508,
+        "title": "Overview of the Special Issue on “Deep Neural Networks and Optimization Algorithms”",
+        "authors": "Jia-Bao Liu, Muhammad Faisal Nadeem, Yilun Shang",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "Deep Neural Networks and Optimization Algorithms have many applications in engineering problems and scientific research [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16110497"
+    },
+    {
+        "id": 15509,
+        "title": "Optimization of Deep Learning Method for Automatic Recognition of Electric Energy Meter Manufacturers and Models",
+        "authors": "Zhang Xiaoyi, Zhao Xuliang, Feng Zhibo, Liu Keyi, Xuan Xuan",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda60612.2024.10485754"
+    },
+    {
+        "id": 15510,
+        "title": "Optimizing Speech Emotion Recognition with Deep Learning and Grey Wolf Optimization: A Multi-Dataset Approach",
+        "authors": "Suryakant Tyagi, Sándor Szénási",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "Machine learning and speech emotion recognition are rapidly evolving fields, significantly impacting human-centered computing. Machine learning enables computers to learn from data and make predictions, while speech emotion recognition allows computers to identify and understand human emotions from speech. These technologies contribute to the creation of innovative human–computer interaction (HCI) applications. Deep learning algorithms, capable of learning high-level features directly from raw data, have given rise to new emotion recognition approaches employing models trained on advanced speech representations like spectrograms and time–frequency representations. This study introduces CNN and LSTM models with GWO optimization, aiming to determine optimal parameters for achieving enhanced accuracy within a specified parameter set. The proposed CNN and LSTM models with GWO optimization underwent performance testing on four diverse datasets—RAVDESS, SAVEE, TESS, and EMODB. The results indicated superior performance of the models compared to linear and kernelized SVM, with or without GWO optimizers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17030090"
+    },
+    {
+        "id": 15511,
+        "title": "Zeroth-Order Optimization Attacks on Deep Reinforcement Learning-Based Lane Changing Algorithms for Autonomous Vehicles",
+        "authors": "Dayu Zhang, Nasser Azad, Sebastian Fischmeister, Stefan Marksteiner",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012187700003543"
+    },
+    {
+        "id": 15512,
+        "title": "FETA: Fairness Enforced Verifying, Training, and Predicting Algorithms for Neural Networks",
+        "authors": "Kiarash Mohammadi, Aishwarya Sivaraman, Golnoosh Farnadi",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3617694.3623243"
+    },
+    {
+        "id": 15513,
+        "title": "Automatic Optimization of Deep Learning Training through Feature-Aware-Based Dataset Splitting",
+        "authors": "Somayeh Shahrabadi, Telmo Adão, Emanuel Peres, Raul Morais, Luís G. Magalhães, Victor Alves",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "The proliferation of classification-capable artificial intelligence (AI) across a wide range of domains (e.g., agriculture, construction, etc.) has been allowed to optimize and complement several tasks, typically operationalized by humans. The computational training that allows providing such support is frequently hindered by various challenges related to datasets, including the scarcity of examples and imbalanced class distributions, which have detrimental effects on the production of accurate models. For a proper approach to these challenges, strategies smarter than the traditional brute force-based K-fold cross-validation or the naivety of hold-out are required, with the following main goals in mind: (1) carrying out one-shot, close-to-optimal data arrangements, accelerating conventional training optimization; and (2) aiming at maximizing the capacity of inference models to its fullest extent while relieving computational burden. To that end, in this paper, two image-based feature-aware dataset splitting approaches are proposed, hypothesizing a contribution towards attaining classification models that are closer to their full inference potential. Both rely on strategic image harvesting: while one of them hinges on weighted random selection out of a feature-based clusters set, the other involves a balanced picking process from a sorted list that stores data features’ distances to the centroid of a whole feature space. Comparative tests on datasets related to grapevine leaves phenotyping and bridge defects showcase promising results, highlighting a viable alternative to K-fold cross-validation and hold-out methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17030106"
+    },
+    {
+        "id": 15514,
+        "title": "6G enabled UAV traffic management models using deep learning algorithms",
+        "authors": "Gaojie Zhang",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11276-023-03485-4"
+    },
+    {
+        "id": 15515,
+        "title": "A Comprehensive Research on Deep Learning Based Routing Optimization Algorithms in Software Defined Networks",
+        "authors": "Gaurav Kumar, Girisha G. S, Shamanth N",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392911"
+    },
+    {
+        "id": 15516,
+        "title": "Deep Convolutional Generative Adversarial Network-Based Plant Disease Detection And Classification Using Particle Swarm Optimization Algorithms",
+        "authors": "V. Krishna Pratap, N. Suresh Kumar",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392841"
+    },
+    {
+        "id": 15517,
+        "title": "Design and Optimization of a Recommendation System Based on Deep Learning Algorithms",
+        "authors": "",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53469/jrse.2023.05(11).12"
+    },
+    {
+        "id": 15518,
+        "title": "Deep Machine Learning of MobileNet, Efficient, and Inception Models",
+        "authors": "Monika Rybczak, Krystian Kozakiewicz",
+        "published": "2024-2-22",
+        "citations": 1,
+        "abstract": "Today, specific convolution neural network (CNN) models assigned to specific tasks are often used. In this article, the authors explored three models: MobileNet, EfficientNetB0, and InceptionV3 combined. The authors were interested in investigating how quickly an artificial intelligence model can be taught with limited computer resources. Three types of training bases were investigated, starting with a simple base verifying five colours, then recognizing two different orthogonal elements, followed by more complex images from different families. This research aimed to demonstrate the capabilities of the models based on training base parameters such as the number of images and epoch types. Architectures proposed by the authors in these cases were chosen based on simulation studies conducted on a virtual machine with limited hardware parameters. The proposals present the advantages and disadvantages of the different models based on the TensorFlow and Keras libraries in the Jupiter environment based on the Python programming language. An artificial intelligence model with a combination of MobileNet, proposed by Siemens, and Efficient and Inception, selected by the authors, allows for further work to be conducted on image classification, but with limited computer resources for industrial implementation on a programmable logical controller (PLC). The study showed a 90% success rate, with a learning time of 180 s.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17030096"
+    },
+    {
+        "id": 15519,
+        "title": "Training Deep Learning Spacecraft Component Detection Algorithms Using Synthetic Image Data",
+        "authors": "Herbert Viggh, Sean Loughran, Yaron Rachlin, Ross Allen, Jessica Ruprecht",
+        "published": "2023-3-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aero55745.2023.10115578"
+    },
+    {
+        "id": 15520,
+        "title": "Robust and Sparse Portfolio: Optimization Models and Algorithms",
+        "authors": "Hongxin Zhao, Yilun Jiang, Yizhou Yang",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "The robust and sparse portfolio selection problem is one of the most-popular and -frequently studied problems in the optimization and financial literature. By considering the uncertainty of the parameters, the goal is to construct a sparse portfolio with low volatility and decent returns, subject to other investment constraints. In this paper, we propose a new portfolio selection model, which considers the perturbation in the asset return matrix and the parameter uncertainty in the expected asset return. We define three types of stationary points of the penalty problem: the Karush–Kuhn–Tucker point, the strong Karush–Kuhn–Tucker point, and the partial minimizer. We analyze the relationship between these stationary points and the local/global minimizer of the penalty model under mild conditions. We design a penalty alternating-direction method to obtain the solutions. Compared with several existing portfolio models on seven real-world datasets, extensive numerical experiments demonstrate the robustness and effectiveness of our model in generating lower volatility.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11244925"
+    },
+    {
+        "id": 15521,
+        "title": "Analysis of Conventional Feature Learning Algorithms and Advanced Deep Learning Models",
+        "authors": "Toshihiro Endo",
+        "published": "2023-1-5",
+        "citations": 1,
+        "abstract": "Representation learning or feature learning refers to a collection of methods employed in machine learning, which allows systems to autonomously determine representations needed for classifications or feature detection from unprocessed data. Representation learning algorithms are specifically crafted to acquire knowledge of conceptual features that define data. The field of state representation learning is centered on a specific type of representation learning that involves the acquisition of low-dimensional learned features that undergo temporal evolution and are subject to the influence of an agent's actions. Over the past few years, deep architecture have been widely employed for representation learning and have demonstrated exceptional performance in various tasks, including but not limited to object detection, speech recognition, and image classification. This article provides a comprehensive overview of the evolution of techniques for data representation learning. Our research focuses on the examination of conventional feature learning algorithms and advanced deep learning models. This paper presents an introduction to data representation learning history, along with a comprehensive list of available resources such as online courses, tutorials, and books. Additionally, various tool-boxes are also provided for further exploration in this field. In conclusion, this article presents remarks and future prospects for data representation learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53759/9852/jrs202301001"
+    },
+    {
+        "id": 15522,
+        "title": "The optimization of college tennis training and teaching under deep learning",
+        "authors": "Yu Zhang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2024.e25954"
+    },
+    {
+        "id": 15523,
+        "title": "Pre-trained Deep Learning Models for UAV-based Weed Recognition",
+        "authors": "Faiza Mekhalfa, Fouad Yacef, Mahmoud Belhocine",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/spa59660.2023.10274449"
+    },
+    {
+        "id": 15524,
+        "title": "Gossip Distillation: Decentralized Deep Learning Transmitting Neither Training Data Nor Models",
+        "authors": "Taisuke Moriwaki, Kazuyuki Shudo",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vcc60689.2023.10474996"
+    },
+    {
+        "id": 15525,
+        "title": "Optimization of Deep Learning Algorithms for Image Segmentation in High-Dimensional Data Environments",
+        "authors": "",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/ts.400430"
+    },
+    {
+        "id": 15526,
+        "title": "Training material models using gradient descent algorithms",
+        "authors": "Tianju Chen, Mark C. Messner",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijplas.2023.103605"
+    },
+    {
+        "id": 15527,
+        "title": "An Exploration of the Optimization of Network Security Technology Based on Deep Learning Algorithms",
+        "authors": "Shangtao Zhang",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "With the development of society into the information age, artificial intelligence is developing rapidly, and its influence on various industries through machine learning and deep learning cannot be underestimated. Machine learning, as a branch of the field of artificial intelligence, allows computers to autonomously learn from data while performing tasks, to achieve the purpose of strengthening the combination of man and machine to adapt to changes in the environment, and ultimately to enhance the ability to find problems and solve problems. With the continuous exploration and development in the field of computer learning, deep learning using neural network algorithms has emerged and gradually played a key role in the field of network security. Therefore, this paper discusses the optimization scheme of network security technology based on deep learning algorithm with the background of network security, in order to provide certain reference for the solution of network security technology problems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56028/aetr.9.1.832.2024"
+    },
+    {
+        "id": 15528,
+        "title": "Exploration on Evaluation Methods Combining Psychological Algorithms and Deep Learning Models",
+        "authors": "Juhua Yang, Lintao He",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435663"
+    },
+    {
+        "id": 15529,
+        "title": "Analysis of optimization algorithms for stability and convergence for natural language processing using deep learning algorithms",
+        "authors": "Ch Gangadhar, Madiajajagn Moutteyan, Rajeev Ratna Vallabhuni, Vinodh P. Vijayan, Neetu Sharma, Robert Theivadas",
+        "published": "2023-6",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measen.2023.100784"
+    },
+    {
+        "id": 15530,
+        "title": "Performance analysis of various training algorithms of deep learning based controller",
+        "authors": "Bhawesh Prasad, Raj Kumar, Manmohan Singh",
+        "published": "2023-6-1",
+        "citations": 2,
+        "abstract": "Abstract\nAdvances in artificial neural networks (ANN), specifically deep learning (DL), have widened the application domain of process control. DL algorithms and models have become quite common these days. The training algorithm is the most important part of an ANN that affects the performance of the controller. Training algorithms optimize the weights and biases of the ANN according to the input-output patterns. In this paper, the performance of different training algorithms was evaluated, analysed, and compared in a feed-forward backpropagation architecture. The training algorithms were simulated on MATLAB R2021b with license number 1075356. Training data were generated using two benchmark problems of the process control system. The performance, gradient, training error, validation error, testing error, and regression of the different training algorithms were obtained and analysed. The data shows that the Levenberg-Marquardt (LM) algorithm produced the best validation performance with a value of 2.669*10−14 at 2000 epochs, while ‘traingd’ and ‘traingdm’ algorithms did not improve beyond their initial values. The LM algorithm tends to produce better results than other algorithms. These results indicate that the LM backpropagation best suits these types of benchmark problems. The results also suggest that the choice of training algorithm can significantly impact the performance of a neural network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2631-8695/acd3d5"
+    },
+    {
+        "id": 15531,
+        "title": "Reactive power optimization for distribution network with distributed generators by improved driving training‑based optimization",
+        "authors": "Songlin Du, Tao Hai, Jianfeng Lu, Jun Wang",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004751"
+    },
+    {
+        "id": 15532,
+        "title": "An Efficient 2D Method for Training Super-Large Deep Learning Models",
+        "authors": "Qifan Xu, Yang You",
+        "published": "2023-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ipdps54959.2023.00031"
+    },
+    {
+        "id": 15533,
+        "title": "Deep Learning Models Compression Based on Evolutionary Algorithms and Digital Fractional Differentiation",
+        "authors": "Arcadi Llanza, Fekhr Eddine Keddous, Nadiya Shvai, Amir Nakib",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10253975"
+    },
+    {
+        "id": 15534,
+        "title": "Research on Simulation and Reconstruction of Digital Sculpture 3D Models Based on Deep Learning Algorithms",
+        "authors": "Yangloucai Zhang",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/peeec60561.2023.00190"
+    },
+    {
+        "id": 15535,
+        "title": "Investigating the Performance of Optimization Techniques on Deep Learning Models to Identify Dota2 Game Events",
+        "authors": "Matheus Faria, Etienne Julia, Henrique Fernandes, Marcelo Zanchetta do Nascimento, Rita Julia",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011691800003417"
+    },
+    {
+        "id": 15536,
+        "title": "Deep Learning Based Speculative Analysis of Diverse Nature Inspired Optimization Algorithms in Agriculture",
+        "authors": "M. Chandraprabha, Rajesh Kumar Dhanaraj",
+        "published": "2023-8-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icirca57980.2023.10220593"
+    },
+    {
+        "id": 15537,
+        "title": "Using deep learning and genetic algorithms for melody generation and optimization in music",
+        "authors": "Ling Dong",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-09135-3"
+    },
+    {
+        "id": 15538,
+        "title": "Optimization and Application of Natural Language Processing Models Based on Deep Learning",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/jaip.2024.070117"
+    },
+    {
+        "id": 15539,
+        "title": "Deep Learning Algorithms for IoT Based Crop Yield Optimization",
+        "authors": "Souzan Maghdid, Shavan Askar, Farah Xoshibi, Soran Hamad",
+        "published": "2024-4-8",
+        "citations": 0,
+        "abstract": "Precision agriculture, with its objectives of optimizing crop yields, decreasing resource waste, and enhancing overall farm management, has emerged as a revolutionary technology in modern agricultural practices. The advent of deep learning techniques and the Internet of Things (IoT) has brought about a paradigm shift in monitoring, decision-making, and predictive analysis within the agriculture industry. This review paper investigates the relationship between deep learning, the (IoT), and agriculture, with an emphasis on how these three domains might work together to optimize crop yields through intelligent decision-making. The integration of deep learning techniques with  (IoT) technology for precision agriculture is thoroughly analyzed in this study, covering recent developments, obstacles, and possible solutions. The paper investigates the role of deep learning algorithms in analyzing the vast amounts of data generated by IoT devices in agriculture. It scrutinizes various deep learning models such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and their variants applied for crop disease detection, yield prediction, weed identification, and other crucial tasks. Furthermore, this review critically examines the integration of IoT-generated data with deep learning models, highlighting the synergistic benefits in enhancing agricultural decision-making, resource allocation, and predictive analytics. This review underscores the pivotal role of IoT and deep learning techniques in revolutionizing precision agriculture. It emphasizes the need for interdisciplinary collaboration among agronomists, data scientists, and engineers to harness the full potential of these technologies for sustainable and efficient farming practices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33022/ijcs.v13i2.3846"
+    },
+    {
+        "id": 15540,
+        "title": "Deep learning algorithms for enhancing securities price prediction and insurance strategy optimization",
+        "authors": "Yaxin Mao",
+        "published": "2023-12-2",
+        "citations": 0,
+        "abstract": "The process of attempting to estimate the future prices of particular stocks by utilizing historical data and various analytical tools, including deep learning algorithms, is called stock price prediction. Insurance providers’ overall approach and decisions to manage their risks, enhance their profitability, and give value to their policyholders are referred to as the insurance strategy. It requires various things to be considered, including underwriting procedures, pricing strategies, product creation, risk analysis, claims administration, and investment choices. This study proposed optimizing an insurance strategy and predicting securities prices using a deep learning algorithm. Initially, the real stock data sources for Microsoft Corporation (MSFT) were gathered from Ping An Insurance Company of China (PAICC) and the Shanghai-based National Association of Securities Dealers Automated Quotation (NASDAQ). Normalization is the procedure used to preprocess data for the raw data. We suggest an Enhanced dragonfly-optimized deep neural network (EDODNN) with stock price forecasting and insurance. The outcomes demonstrate that the proposed model outperforms the current methodology and achieves accuracy, precision, recall, F1 score, R2, and RMSE. To display the effectiveness of the suggested system, its performance is compared to more established methods to obtain the highest level of efficiency for the research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-234292"
+    },
+    {
+        "id": 15541,
+        "title": "A critical review on intelligent optimization algorithms and surrogate models for conventional and unconventional reservoir production optimization",
+        "authors": "Lian Wang, Yuedong Yao, Xiaodong Luo, Caspar Daniel Adenutsi, Guoxiang Zhao, Fengpeng Lai",
+        "published": "2023-10",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.fuel.2023.128826"
+    },
+    {
+        "id": 15542,
+        "title": "Analysis of auxiliary modes for sports intelligence training system based on nonlinear model optimization and improved algorithms",
+        "authors": "Yunzhao Liu, Li Liu",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08546-6"
+    },
+    {
+        "id": 15543,
+        "title": "Optimization of computer programming based on mathematical models of artificial intelligence algorithms",
+        "authors": "Yuhui Zheng",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compeleceng.2023.108834"
+    },
+    {
+        "id": 15544,
+        "title": "Automatic Tuning of Vernier Microring Filters Using Comprehensive Characterization Models and Hybrid Optimization Algorithms",
+        "authors": "Saif Alnairat, Benjamin Wohlfeil, Stevan Djordjevic, Bernhard Schmauss",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "An efficient approach to automatically configure and tune Vernier microring filters by utilizing hybrid optimization algorithms and robust characterization models is presented. Automatic tuning of a four-ring Vernier filter over the entire C-band is experimentally demonstrated to evaluate this method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1364/ofc.2023.th2a.3"
+    },
+    {
+        "id": 15545,
+        "title": "Emerging applications, models and algorithms in combinatorial optimization",
+        "authors": "Antonio Alonso Ayuso, Laureano Escudero, Silvano Martello",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dam.2023.02.013"
+    },
+    {
+        "id": 15546,
+        "title": "Genome classification with deep learning using heuristic algorithms for hyper-parameter optimization",
+        "authors": "Péter Lehotay-Kéry, Gabriella Kicska, Attila Kiss",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/inista59065.2023.10310599"
+    },
+    {
+        "id": 15547,
+        "title": "Emergency rescue network design: optimization models and algorithms",
+        "authors": "Congcong Cui, Yanping Zhang, Na Cui",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2675546"
+    },
+    {
+        "id": 15548,
+        "title": "Evaluation on Active Optimization Strategy of HPLC Frequency Band Based on Different Region Models",
+        "authors": "Fang Zhao, Jiajun Feng",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393417"
+    },
+    {
+        "id": 15549,
+        "title": "Construction and Optimization of Pricing Models and Algorithms for Listed Enterprises on the Science and Technology Innovation Board",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/ferm.2023.060708"
+    },
+    {
+        "id": 15550,
+        "title": "A Comparative Analysis on Diabetic Retinopathy using Deep Learning and Nature based Optimization Algorithms",
+        "authors": "Kanchan S. Gorde, Ajay A. Gurjar",
+        "published": "2023-2-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isacc56298.2023.10083804"
+    },
+    {
+        "id": 15551,
+        "title": "Taylor Remora optimization enabled deep learning algorithms for percentage of pesticide detection in grapes",
+        "authors": "Vaishali Sukhadeo Bajait, Nandagopal Malarvizhi",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11356-023-30169-5"
+    },
+    {
+        "id": 15552,
+        "title": "Investigating the effect of textural properties on CO2 adsorption in porous carbons via deep neural networks using various training algorithms",
+        "authors": "Pardis Mehrmohammadi, Ahad Ghaemi",
+        "published": "2023-12-2",
+        "citations": 1,
+        "abstract": "AbstractThe adsorption of carbon dioxide (CO2) on porous carbon materials offers a promising avenue for cost-effective CO2 emissions mitigation. This study investigates the impact of textural properties, particularly micropores, on CO2 adsorption capacity. Multilayer perceptron (MLP) neural networks were employed and trained with various algorithms to simulate CO2 adsorption. Study findings reveal that the Levenberg–Marquardt (LM) algorithm excels with a remarkable mean squared error (MSE) of 2.6293E−5, indicating its superior accuracy. Efficiency analysis demonstrates that the scaled conjugate gradient (SCG) algorithm boasts the shortest runtime, while the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm requires the longest. The LM algorithm also converges with the fewest epochs, highlighting its efficiency. Furthermore, optimization identifies an optimal radial basis function (RBF) network configuration with nine neurons in the hidden layer and an MSE of 9.840E−5. Evaluation with new data points shows that the MLP network using the LM and bayesian regularization (BR) algorithms achieves the highest accuracy. This research underscores the potential of MLP deep neural networks with the LM and BR training algorithms for process simulation and provides insights into the pressure-dependent behavior of CO2 adsorption. These findings contribute to our understanding of CO2 adsorption processes and offer valuable insights for predicting gas adsorption behavior, especially in scenarios where micropores dominate at lower pressures and mesopores at higher pressures.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-48683-4"
+    },
+    {
+        "id": 15553,
+        "title": "A Study of Mental Training and Skill Enhancement in Physical Education Teaching Combined with Deep Learning Algorithms",
+        "authors": "Shengfei Hu, Ziyao Gao",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "The study sheds light on teaching physical education, which aids in improving students overall physical and mental well-being. Individuals benefit from physical education instruction through developing their talents and minds. Teaching physical education is crucial since a person's whole well-being mostly depends on their physical and mental health. Deep learning algorithms are used in physical education training to improve quality and help students become more mentally and skillfully fit. The deep learning method is a machine learning component that aids the healthcare and e-commerce sectors by comprehending how the human brain functions. Comprehending the physical education teaching process and how it can be enhanced also aids individuals. This study contributes to our understanding of the value of physical education instruction and how it affects a person's physical and mental health.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12694/scpe.v24i4.2568"
+    },
+    {
+        "id": 15554,
+        "title": "Optimization Algorithm to Reduce Training Time for Deep Learning Computer Vision Algorithms Using Large Image Datasets With Tiny Objects",
+        "authors": "Sergio Bemposta Rosende, Javier Fernández-Andrés, Javier Sánchez-Soriano",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3316618"
+    },
+    {
+        "id": 15555,
+        "title": "Deep Learning Models for Stock Market Prediction Using Optimization Approach",
+        "authors": "Shilpa B L, Shambhavi B R",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10275882"
+    },
+    {
+        "id": 15556,
+        "title": "Integration of Edge AI and Metaheuristic Algorithms for Advanced Optimization and Analytical Solutions in Future Smart Systems",
+        "authors": "Ali Berkol, İdil Gökçe Demirtaş",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36287/setsci.6.1.005"
+    },
+    {
+        "id": 15557,
+        "title": "Weed Classification Using Particle Swarm Optimization and Deep Learning Models",
+        "authors": "M. Manikandakumar, P. Karthikeyan",
+        "published": "2023",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/csse.2023.025434"
+    },
+    {
+        "id": 15558,
+        "title": "An Integrated Data-Driven Procedure for Product Specification Recommendation Optimization with Deep Learning and Heuristic Algorithms",
+        "authors": "Tzu-chien Wang, Ruey-Shan (Andy) Guo, Chialin Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4374877"
+    },
+    {
+        "id": 15559,
+        "title": "Retracted: A Talent Training Model for Electrical Courses considering Diverse Constraint Models and Knowledge Recognition Algorithms",
+        "authors": "",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9803076"
+    },
+    {
+        "id": 15560,
+        "title": "Progress Estimation for End-to-End Training of Deep Learning Models With Online Data Preprocessing",
+        "authors": "Qifei Dong, Gang Luo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3359996"
+    },
+    {
+        "id": 15561,
+        "title": "Principled deep neural network training through linear programming",
+        "authors": "Daniel Bienstock, Gonzalo Muñoz, Sebastian Pokutta",
+        "published": "2023-8",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.disopt.2023.100795"
+    },
+    {
+        "id": 15562,
+        "title": "Stabilizing the training of deep neural networks using Adam optimization and gradient clipping",
+        "authors": "Rudra Tiwari",
+        "published": "2023-1-27",
+        "citations": 0,
+        "abstract": "The field of neural network training and optimization has seen significant advancements in recent years, with new techniques and algorithms being proposed to improve the efficiency and effectiveness of training. In this paper, we review several key optimization techniques and their impact on training neural networks, with a focus on long-term dependencies and the difficulties that can arise during training. We begin by discussing the challenges of learning long-term dependencies with gradient descent, as highlighted in the 1994 paper by Bengio et al. We then introduce Adam, a method for stochastic optimization proposed by Kingma and Ba in 2014. We also explore the difficulties of training recurrent neural networks, as discussed in the 2013 paper by Pascanu, Mikolov, and Bengio. We also review recent advances in optimization techniques such as Convergence of Adam and Beyond by Jianmin et al. (2017), Yogi by Dong et al. (2018), AdaBound by Zhang et al. (2018) and On the Variance of the Adaptive Learning Rate and Beyond by Liu et al. (2019). We will highlight the advantages and disadvantages of each technique and discuss their potential impact on the field. Overall, this paper provides a comprehensive overview of recent advancements in neural network optimization and their implications for training and performance. Keywords: Deep neural networks, optimization, Adam, gradient clipping, training, stabilization, overfitting, generalization, recurrent neural networks, non-convex loss landscapes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55041/ijsrem17594"
+    },
+    {
+        "id": 15563,
+        "title": "Numerical Investigation of Optimization Algorithms for Adapting the Hydrodynamic Model Based on the Results of Well Tests",
+        "authors": "D. N. Maykov, S. S. Makarov",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1134/s2070048223020126"
+    },
+    {
+        "id": 15564,
+        "title": "Analysis of Watermarked Video Optimization and Training Based on Classification Using Deep Learning Techniques",
+        "authors": "K. Muthulakshmi, K. Valarmathi",
+        "published": "2024-1-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02505-6"
+    },
+    {
+        "id": 15565,
+        "title": "Chronological sewing training optimization enabled deep learning for autism spectrum disorder using EEG signal",
+        "authors": "Joy Karan Singh, Deepti Kakkar",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18341-6"
+    },
+    {
+        "id": 15566,
+        "title": "Portfolio Optimization Strategy Based on Four Deep Learning Models",
+        "authors": "Erchuan Zhang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Deep learning techniques have provided a fresh outlook on the evergreen subject of portfolio optimization within the finance domain. This article selects the stocks of Google, Tesla, Tractor Supply Company, Analog Devices, and Duke Energy Corporation and deploys four deep learning models to estimate returns and covariance respectively. The mean-variance model is utilized to generate the target portfolio for each deep learning model, incorporating the predicted outcomes. Ultimately, the returns of each portfolio are compared to the market benchmark (S&P 500) returns. The findings demonstrate that the proposed target model outperforms the market benchmark (S&P 500) across multiple financial metrics. This study highlights the groundbreaking and promising applications of deep learning in the financial sector, providing valuable insights into innovative portfolio allocation strategies for risk-averse investors who aim to achieve stable and positive returns even in turbulent market conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2754-1169/47/20230402"
+    },
+    {
+        "id": 15567,
+        "title": "NSGA-PINN: A Multi-Objective Optimization Method for Physics-Informed Neural Network Training",
+        "authors": "Binghang Lu, Christian Moya, Guang Lin",
+        "published": "2023-4-3",
+        "citations": 4,
+        "abstract": "This paper presents NSGA-PINN, a multi-objective optimization framework for the effective training of physics-informed neural networks (PINNs). The proposed framework uses the non-dominated sorting genetic algorithm (NSGA-II) to enable traditional stochastic gradient optimization algorithms (e.g., ADAM) to escape local minima effectively. Additionally, the NSGA-II algorithm enables satisfying the initial and boundary conditions encoded into the loss function during physics-informed training precisely. We demonstrate the effectiveness of our framework by applying NSGA-PINN to several ordinary and partial differential equation problems. In particular, we show that the proposed framework can handle challenging inverse problems with noisy data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040194"
+    },
+    {
+        "id": 15568,
+        "title": "Distribution-free estimation of individual parameter logit (IPL) models using combined evolutionary and optimization algorithms",
+        "authors": "Joffre Swait",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jocm.2022.100396"
+    },
+    {
+        "id": 15569,
+        "title": "Hyperparameters Optimization of Deep Learning Models for Unsupervised Lung Cancer Detection",
+        "authors": "Najeh Nafti, Olfa Besbes, Asma Ben Abdallah, Mohammed Hedi Bedoui",
+        "published": "2023-10-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cw58918.2023.00046"
+    },
+    {
+        "id": 15570,
+        "title": "Adapting Artificial Neural Networks Training Algorithms to Adjoint-Based Aerodynamic Shape Optimization",
+        "authors": "Fernando Gisbert, David Cadrecha, Jaime Quintanal, Adrián Sotillo, Jesús Pueblas, Aida Serrano, Ricardo Puente, Roque Corral",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Abstract\nGradient-based algorithms are one of the pillars of automatic aerodynamic design in the turbomachinery field. Their use is largely extended due to their low computational demand when dealing with hundreds of design variables, especially if gradient computation is performed by means of an adjoint code. Difficulties arise when facing 3D aerodynamic inverse design, trying to obtain automatically a 3D blade geometry that produces a prescribed pressure distribution while fulfilling certain other aerodynamic constraints. Fine-tuning this target pressure distribution along the blade span — with varying fluid conditions along it — generally involves a high number of iterations, making overall automatic design process expensive from a computational point of view.\nMany numerical methods have been employed in order to cope with the bad convergence exhibited by basic gradient descent method for ill-conditioned problems: quasi-Newton methods, conjugate gradients, sequential quadratic programming algorithms, among others. However, bad convergence of basic gradient descent method on ill-conditioned problems is not exclusive to 3D aerodynamic inverse design. In the field of artificial intelligence and machine learning, this problem is common when training neural networks.\nIn order to accelerate the convergence exhibited by gradient descent method on the aforementioned case, this paper makes use of one of the most common adaptive gradient-based methods in the field of neural networks training: Nadam optimizer. Firstly, the principles that allow this method to overcome ill conditioning are explained through Brachistochrone problem example. Secondly, the architecture of this aerodynamic automatic design module is detailed, paying special attention to gradient computation, mesh generation and objective function construction.\nFinally, an automatic 3D inverse design of a low-pressure turbine blade, driven by this adaptive step-size algorithm, is performed. The automatic design optimization presented here is carried out in a realistic industrial manner, taking into account different operation conditions in order to mimic human performed design.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/gt2023-103906"
+    },
+    {
+        "id": 15571,
+        "title": "Standardizing and Centralizing Datasets for Efficient Training of Agricultural Deep Learning Models",
+        "authors": "Amogh Joshi, Dario Guevara, Mason Earles",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "In recent years, deep learning models have become the standard for agricultural computer vision. Such models are typically fine-tuned to agricultural tasks using model weights that were originally fit to more general, non-agricultural datasets. This lack of agriculture-specific fine-tuning potentially increases training time and resource use, and decreases model performance, leading to an overall decrease in data efficiency. To overcome this limitation, we collect a wide range of existing public datasets for 3 distinct tasks, standardize them, and construct standard training and evaluation pipelines, providing us with a set of benchmarks and pretrained models. We then conduct a number of experiments using methods that are commonly used in deep learning tasks but unexplored in their domain-specific applications for agriculture. Our experiments guide us in developing a number of approaches to improve data efficiency when training agricultural deep learning models, without large-scale modifications to existing pipelines. Our results demonstrate that even slight training modifications, such as using agricultural pretrained model weights, or adopting specific spatial augmentations into data processing pipelines, can considerably boost model performance and result in shorter convergence time, saving training resources. Furthermore, we find that even models trained on low-quality annotations can produce comparable levels of performance to their high-quality equivalents, suggesting that datasets with poor annotations can still be used for training, expanding the pool of currently available datasets. Our methods are broadly applicable throughout agricultural deep learning and present high potential for substantial data efficiency improvements.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34133/plantphenomics.0084"
+    },
+    {
+        "id": 15572,
+        "title": "Multi-Guide Set-Based Particle Swarm Optimization for Multi-Objective Portfolio Optimization",
+        "authors": "Kyle Erwin, Andries Engelbrecht",
+        "published": "2023-1-17",
+        "citations": 6,
+        "abstract": "Portfolio optimization is a multi-objective optimization problem (MOOP) with risk and profit, or some form of the two, as competing objectives. Single-objective portfolio optimization requires a trade-off coefficient to be specified in order to balance the two objectives. Erwin and Engelbrecht proposed a set-based approach to single-objective portfolio optimization, namely, set-based particle swarm optimization (SBPSO). SBPSO selects a sub-set of assets that form a search space for a secondary optimization task to optimize the asset weights. The authors found that SBPSO was able to identify good solutions to portfolio optimization problems and noted the benefits of redefining the portfolio optimization problem as a set-based problem. This paper proposes the first multi-objective optimization (MOO) approach to SBPSO, and its performance is investigated for multi-objective portfolio optimization. Alongside this investigation, the performance of multi-guide particle swarm optimization (MGPSO) for multi-objective portfolio optimization is evaluated and the performance of SBPSO for portfolio optimization is compared against multi-objective algorithms. It is shown that SBPSO is as competitive as multi-objective algorithms, albeit with multiple runs. The proposed multi-objective SBPSO, i.e., multi-guide set-based particle swarm optimization (MGSBPSO), performs similarly to other multi-objective algorithms while obtaining a more diverse set of optimal solutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16020062"
+    },
+    {
+        "id": 15573,
+        "title": "Retracted: Data Analysis and Optimization of Youth Physical Fitness Training Based on Deep Learning",
+        "authors": "",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9851520"
+    },
+    {
+        "id": 15574,
+        "title": "A multi-agent optimization algorithm and its application to training multilayer perceptron models",
+        "authors": "Dikshit Chauhan, Anupam Yadav, Ferrante Neri",
+        "published": "2023-7-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12530-023-09518-9"
+    },
+    {
+        "id": 15575,
+        "title": "K-Net-Deep joint segmentation with Taylor driving training optimization based deep learning for brain tumor classification using MRI",
+        "authors": "Vadamodula Prasad, Vairamuthu S, Selva Rani B",
+        "published": "2023-5-16",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13682199.2023.2208963"
+    },
+    {
+        "id": 15576,
+        "title": "Analysis of Training Deep Learning Models for PCB Defect Detection",
+        "authors": "Joon-Hyung Park, Yeong-Seok Kim, Hwi Seo, Yeong-Jun Cho",
+        "published": "2023-3-2",
+        "citations": 9,
+        "abstract": "Recently, many companies have introduced automated defect detection methods for defect-free PCB manufacturing. In particular, deep learning-based image understanding methods are very widely used. In this study, we present an analysis of training deep learning models to perform PCB defect detection stably. To this end, we first summarize the characteristics of industrial images, such as PCB images. Then, the factors that can cause changes (contamination and quality degradation) to the image data in the industrial field are analyzed. Subsequently, we organize defect detection methods that can be applied according to the situation and purpose of PCB defect detection. In addition, we review the characteristics of each method in detail. Our experimental results demonstrated the impact of various degradation factors, such as defect detection methods, data quality, and image contamination. Based on our overview of PCB defect detection and experiment results, we present knowledge and guidelines for correct PCB defect detection.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23052766"
+    },
+    {
+        "id": 15577,
+        "title": "An exploration of quantitative models and algorithms for vehicle routing optimization and traveling salesman problems",
+        "authors": "Oskari Lähdeaho, Olli-Pekka Hilmola",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sca.2023.100056"
+    },
+    {
+        "id": 15578,
+        "title": "Optimization of Rheological Models for Invert Emulsion Drilling Fluids using Novel Algorithms",
+        "authors": "Ismail Hakki Gucuyener, Onur Kazim Gurcay, Abdüssamed Yanik, Ahmet Ay, Elif Alyamaç Seydibeyoglu",
+        "published": "2023-3-7",
+        "citations": 0,
+        "abstract": "AbstractInvert emulsion drilling fluids (IEDF) are recognized as the highest-performing fluid systems available, providing invaluable benefits in drilling operations. This study uses conventional and novel algorithms to improve the fitting ability of three and four-parameter rheological models for IEDF. Linear regression (LR), quasi-linear regression (QLR), Gold Search Section (GSS), Generalized Reduced Gradient (GRG), Trust Region (TR), and Gauss-Newton (GN) methods are employed to determine optimal rheological model parameters. The analysis utilizes an extensive field database from five different sources. In optimizing the model parameters, a symmetric mean absolute percentage error-based objective function is used, eliminating the statistical problems experienced in conventional objective functions. Average symmetric mean absolute percentage error (SMAPE) and the number of best fits (NBF) is used for selecting the most appropriate rheological model. In the performance comparison of the models, the ranking index, which is defined as the symmetric mean absolute error percentage and the arithmetic mean of the best fit number, is also used. The symmetry of the error distribution giving the balance between the overestimated and underestimated errors is predicted by the average overestimated and underestimated symmetric percentage errors.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/213722-ms"
+    },
+    {
+        "id": 15579,
+        "title": "EVO-Based Optimization of Deep Learning Models for Diabetic Retinopathy Diagnosis",
+        "authors": "Kanchan S.Gorde, Ajay A. Gurjar",
+        "published": "2023-2-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/otcon56053.2023.10113927"
+    },
+    {
+        "id": 15580,
+        "title": "Comparative Analysis of CNN Models and Bayesian Optimization-Based Machine Learning Algorithms in Leaf Type Classification",
+        "authors": "Muhammet Fatih ASLAN",
+        "published": "2023-1-30",
+        "citations": 2,
+        "abstract": "In this study, the leaves are classified by various Machine Learning (ML) and Deep Learning (DL) based Convolutional Neural Networks (CNN) methods. In the proposed method, first, image pre-processing is performed to increase the accuracy of the posterior process. The obtained image is a grayscale image without noise as a result of the pre-processing. These preprocessed images are used in classification with ML and DL. The Speeded Up Robust Features (SURF) are extracted from the grayscale image for ML-based learning. The features are restructured as visual words using the Bag of Visual Words (BoVW) method. Then, histograms are generated for each image according to the frequency of the visual word. Those histograms represent the new feature data. The histogram features are classified by four different ML methods, Decision Tree (DT), k-Nearest Neighbor (KNN), Naive Bayes (NB) and Support Vector Machine (SVM). Before using the ML methods, Bayesian Optimization (BO) method, which is one of the Hyperparameter Optimization (HO) algorithms, is applied to determine hyperparameters. In the classification process performed with four different ML algorithms, the best accuracy is achieved with the KNN algorithm as 98.09%. Resnet18, ResNet50, MobileNet, GoogLeNet, DenseNet, which are state-of-the-art CNN architectures, are used for DL-based learning. CNN models have higher accuracy than ML algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17694/bajece.1174242"
+    },
+    {
+        "id": 15581,
+        "title": "Intelligent Optimization Analysis of Automatic Pricing and Replenishment of Vegetable Products Based on Combinatorial Machine Learning Models",
+        "authors": "Yuyang Tang",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda60612.2024.10485992"
+    },
+    {
+        "id": 15582,
+        "title": "Pulsed Thermography Dataset for Training Deep Learning Models",
+        "authors": "Ziang Wei, Ahmad Osman, Bernd Valeske, Xavier Maldague",
+        "published": "2023-2-24",
+        "citations": 1,
+        "abstract": "Pulsed thermography is an indispensable tool in the field of non-destructive evaluation. However, the data generated by this technique can be challenging to analyze and require expertise to interpret. With the rapid progress in deep learning, image segmentation has become a well-established area of research. This has motivated efforts to apply deep learning methods to non-destructive evaluation data processing, including pulsed thermography. Despite this trend, there has been a lack of public pulsed thermography datasets available for the evaluation of various spatial-temporal deep learning models for segmentation tasks. This paper aims to address this gap by presenting the PVC-Infrared dataset for deep learning. In addition, we evaluated the performance of popular deep-learning-based instance segmentation models on this dataset. Furthermore, we examined the effect of the number of frames and data transformations on the performance of these models. The results of this study suggest that appropriate preprocessing techniques can significantly reduce the size of the data while maintaining the performance of deep learning models, thereby speeding up the data processing process. This highlights the potential for using deep learning methods to make non-destructive evaluation data analysis more efficient and accessible to a wider range of practitioners.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13052901"
+    },
+    {
+        "id": 15583,
+        "title": "The reusability prior: comparing deep learning models without training",
+        "authors": "Aydın Göze Polat, Ferda Nur Alpaslan",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nVarious choices can affect the performance of deep learning models. We conjecture that differences in the number of contexts for model components during training are critical. We generalize this notion by defining the reusability prior as follows: model components are forced to function in diverse contexts not only due to the training data, augmentation, and regularization choices, but also due to the model design itself. We focus on the design aspect and introduce a graph-based methodology to estimate the number of contexts for each learnable parameter. This allows a comparison of models without requiring any training. We provide supporting evidence with experiments using cross-layer parameter sharing on CIFAR-10, CIFAR-100, and Imagenet-1K benchmarks. We give examples of models that share parameters outperforming baselines that have at least 60% more parameters. The graph-analysis-based quantities we introduced for the reusability prior align well with the results, including at least two important edge cases. We conclude that the reusability prior provides a viable research direction for model analysis based on a very simple idea: counting the number of contexts for model parameters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2632-2153/acc713"
+    },
+    {
+        "id": 15584,
+        "title": "Performance Models for Distributed Deep Learning Training Jobs on Ray",
+        "authors": "Federica Filippini, Boris Lublinsky, Maximilien de Bayser, Danilo Ardagna",
+        "published": "2023-9-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/seaa60479.2023.00014"
+    },
+    {
+        "id": 15585,
+        "title": "A comprehensive framework for hand gesture recognition using hybrid-metaheuristic algorithms and deep learning models",
+        "authors": "Hassan Mohyuddin, Syed Kumayl Raza Moosavi, Muhammad Hamza Zafar, Filippo Sanfilippo",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.array.2023.100317"
+    },
+    {
+        "id": 15586,
+        "title": "Multi-Objective BiLevel Optimization by Bayesian Optimization",
+        "authors": "Vedat Dogan, Steven Prestwich",
+        "published": "2024-3-30",
+        "citations": 0,
+        "abstract": "In a multi-objective optimization problem, a decision maker has more than one objective to optimize. In a bilevel optimization problem, there are the following two decision-makers in a hierarchy: a leader who makes the first decision and a follower who reacts, each aiming to optimize their own objective. Many real-world decision-making processes have various objectives to optimize at the same time while considering how the decision-makers affect each other. When both features are combined, we have a multi-objective bilevel optimization problem, which arises in manufacturing, logistics, environmental economics, defence applications and many other areas. Many exact and approximation-based techniques have been proposed, but because of the intrinsic nonconvexity and conflicting multiple objectives, their computational cost is high. We propose a hybrid algorithm based on batch Bayesian optimization to approximate the upper-level Pareto-optimal solution set. We also extend our approach to handle uncertainty in the leader’s objectives via a hypervolume improvement-based acquisition function. Experiments show that our algorithm is more efficient than other current methods while successfully approximating Pareto-fronts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17040146"
+    },
+    {
+        "id": 15587,
+        "title": "Low-Carbon Vehicle Routing Models and Optimization Algorithms with Hybrid Time Window",
+        "authors": "Kaihua Hu, Shidan Cheng",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25103/jestr.171.06"
+    },
+    {
+        "id": 15588,
+        "title": "Retracted: Models of Artificial Intelligence-Assisted Diagnosis of Lung Cancer Pathology Based on Deep Learning Algorithms",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9874292"
+    },
+    {
+        "id": 15589,
+        "title": "Research on Complex Optimization Models and Efficient Algorithms for Medications Supply Chain during Major Epidemic",
+        "authors": "Deng Hua, Peng Kexin",
+        "published": "2023-12-26",
+        "citations": 0,
+        "abstract": "The outbreak of the epidemic has had a huge impact on people's lives and economies. Research on the medications supply chain during major epidemic events is a major focus of people's attention and an important part of emergency management work, which is related to the vital interests of people and production enterprises. The supply of medications is an important foundation for the smooth implementation of emergency management work. Based on this, this article conducts empirical research on the multi-product two-level medication supply chain of a pharmaceutical company in Shanghai through optimization models. The medication supply chain consists of three warehouses, each equipped with two types of medications, A and B, which need to be transported to seven disaster-stricken medication demand points. Establish a relevant linear programming model to minimize transportation costs, and then use Lingo software to solve the model. The obtained data results are analyzed, the optimal solution is given, and the model is verified to be the optimal result. Meanwhile, a comparative analysis was conducted on the costs of the supply chain optimization strategy and non-optimization strategy. The research results indicate that the optimal solution not only minimizes transportation costs but also has the shortest transportation path, which can transport medications to various affected areas at the fastest speed, avoiding secondary damage caused by medications shortages in affected areas and ensuring smooth emergency management work.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56557/jobari/2023/v29i58476"
+    },
+    {
+        "id": 15590,
+        "title": "Automatic Tuning of Vernier Microring Filters Using Comprehensive Characterization Models and Hybrid Optimization Algorithms",
+        "authors": "Saif Alnairat, Benjamin Wohlfeil, Stevan Djordjevic, Bernhard Schmauss",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ofc49934.2023.10116283"
+    },
+    {
+        "id": 15591,
+        "title": "Advanced hyperparameter optimization of deep learning models for wind power prediction",
+        "authors": "Shahram Hanifi, Andrea Cammarono, Hossein Zare-Behtash",
+        "published": "2024-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.renene.2023.119700"
+    },
+    {
+        "id": 15592,
+        "title": "Towards Robustness: Enhancing Deep Learning Models Through Meta-Learning and Bilevel Optimization for Accurate Car Damage Classification",
+        "authors": "Soufiane Mallem, Amir Nakib",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222457"
+    },
+    {
+        "id": 15593,
+        "title": "A Review of Optimization Algorithms for Training Neural Networks",
+        "authors": "Animesh Srivastava, Bhupender Singh Rawat, Gulbir Singh, Vivek Bhatnagar, Parveen Kumar Saini, Shiv Ashish Dhondiyal",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icseiet58677.2023.10303287"
+    },
+    {
+        "id": 15594,
+        "title": "Exploiting Sparse Recovery Algorithms for Semi-Supervised Training of Deep Neural Networks for Direction-of-Arrival Estimation",
+        "authors": "Murtiza Ali, Aditya Arie Nugraha, Karan Nathwani",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095717"
+    },
+    {
+        "id": 15595,
+        "title": "A Deep Analysis of Brain Tumor Detection from MR Images Using Deep Learning Networks",
+        "authors": "Md Ishtyaq Mahmud, Muntasir Mamun, Ahmed Abdelgawad",
+        "published": "2023-3-23",
+        "citations": 31,
+        "abstract": "Creating machines that behave and work in a way similar to humans is the objective of artificial intelligence (AI). In addition to pattern recognition, planning, and problem-solving, computer activities with artificial intelligence include other activities. A group of algorithms called “deep learning” is used in machine learning. With the aid of magnetic resonance imaging (MRI), deep learning is utilized to create models for the detection and categorization of brain tumors. This allows for the quick and simple identification of brain tumors. Brain disorders are mostly the result of aberrant brain cell proliferation, which can harm the structure of the brain and ultimately result in malignant brain cancer. The early identification of brain tumors and the subsequent appropriate treatment may lower the death rate. In this study, we suggest a convolutional neural network (CNN) architecture for the efficient identification of brain tumors using MR images. This paper also discusses various models such as ResNet-50, VGG16, and Inception V3 and conducts a comparison between the proposed architecture and these models. To analyze the performance of the models, we considered different metrics such as the accuracy, recall, loss, and area under the curve (AUC). As a result of analyzing different models with our proposed model using these metrics, we concluded that the proposed model performed better than the others. Using a dataset of 3264 MR images, we found that the CNN model had an accuracy of 93.3%, an AUC of 98.43%, a recall of 91.19%, and a loss of 0.25. We may infer that the proposed model is reliable for the early detection of a variety of brain tumors after comparing it to the other models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040176"
+    },
+    {
+        "id": 15596,
+        "title": "Building energy consumption prediction and optimization using different neural network-assisted models; comparison of different networks and optimization algorithms",
+        "authors": "Sadegh Afzal, Afshar Shokri, Behrooz M. Ziapour, Hamid Shakibi, Behnam Sobhani",
+        "published": "2024-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.107356"
+    },
+    {
+        "id": 15597,
+        "title": "Deep Learning Based Design Methodology for Electric Machines: Data Acquisition, Training and Optimization",
+        "authors": "Bikrant Poudel, Ebrahim Amiri",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3247011"
+    },
+    {
+        "id": 15598,
+        "title": "Design and Optimization of Hybrid Precoders in Massive MIMO Systems: Leveraging Low-Resolution ADCs/DACs, Reconfigurable Intelligent Surfaces, and Deep Learning Algorithms",
+        "authors": "",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2024.0229.63"
+    },
+    {
+        "id": 15599,
+        "title": "TEMPORARY REMOVAL: Models and algorithms for the preventive maintenance optimization of railway vehicles",
+        "authors": "Radosław Rudek, Izabela Rudek",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122589"
+    },
+    {
+        "id": 15600,
+        "title": "Multi-Objective Optimization of Thin-Walled Composite Axisymmetric Structures Using Neural Surrogate Models and Genetic Algorithms",
+        "authors": "Bartosz Miller, Leonard Ziemiański",
+        "published": "2023-10-20",
+        "citations": 1,
+        "abstract": "Composite shells find diverse applications across industries due to their high strength-to-weight ratio and tailored properties. Optimizing parameters such as matrix-reinforcement ratio and orientation of the reinforcement is crucial for achieving the desired performance metrics. Stochastic optimization, specifically genetic algorithms, offer solutions, yet their computational intensity hinders widespread use. Surrogate models, employing neural networks, emerge as efficient alternatives by approximating objective functions and bypassing costly computations. This study investigates surrogate models in multi-objective optimization of composite shells. It incorporates deep neural networks to approximate relationships between input parameters and key metrics, enabling exploration of design possibilities. Incorporating mode shape identification enhances accuracy, especially in multi-criteria optimization. Employing network ensembles strengthens reliability by mitigating model weaknesses. Efficiency analysis assesses required computations, managing the trade-off between cost and accuracy. Considering complex input parameters and comparing against the Monte Carlo approach further demonstrates the methodology’s efficacy. This work showcases the successful integration of network ensembles employed as surrogate models and mode shape identification, enhancing multi-objective optimization in engineering applications. The approach’s efficiency in handling intricate designs and enhancing accuracy has broad implications for optimization methodologies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ma16206794"
+    },
+    {
+        "id": 15601,
+        "title": "Data-Driven Offline Optimization of Deep CNN models for EEG and ECoG Decoding",
+        "authors": "Antonios Tragoudaras, Konstantinos Fanaras, Charalampos Antoniadis, Yehia Massoud",
+        "published": "2023-5-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscas46773.2023.10181761"
+    },
+    {
+        "id": 15602,
+        "title": "Deep learning fault diagnosis method for rolling bearings in rolling mills based on improved optimization algorithm",
+        "authors": "Yuqi Liang, Boyuan Luan",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3005958"
+    },
+    {
+        "id": 15603,
+        "title": "A Review on Deep Learning Algorithms for Sleep Quality Monitoring in Osteoporosis Patients",
+        "authors": "Banupriya N, Kavin Kumar P, Keerthana M, Keran Sanjay B S, Mohankumar M",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icotl59758.2023.10435351"
+    },
+    {
+        "id": 15604,
+        "title": "Deep Learning-Based and Kernel-Based Proxy Models for Nonlinearly Constrained Life-Cycle Production Optimization",
+        "authors": "Aykut Atadeger, Mustafa Onur, Soham Sheth, Raj Banerjee",
+        "published": "2023-1-24",
+        "citations": 6,
+        "abstract": "Abstract\nIn this study, we investigate the use of deep learning-based and kernel-based proxy models in nonlinearly constrained production optimization and compare their performances with directly using the high-fidelity simulators (HFS) for such optimization in terms of computational cost and optimal results obtained. One of the proxy models is embed to control and observe (E2CO), a deep learning-based model, and the other model is a kernel-based proxy, least-squares support-vector regression (LS-SVR). Both proxies have the capability of predicting well outputs. The sequential quadratic programming (SQP) method is used to perform nonlinearly constrained production optimization. The objective function considered here is the net present value (NPV), and the nonlinear state constraints are field liquid production rate (FLPR) and field water production rate (FWPR). NPV, FLPR, and FWPR are constructed by using two different types of proxy models. The gradient of the objective function as well as the Jacobian matrix of constraints are computed analytically for the LS-SVR, whereas the method of stochastic simplex approximated gradient (StoSAG) is used for optimization with E2CO and HFS. The reservoir model considered in this study is a two-phase, three-dimensional reservoir with heterogeneous permeability which is taken from the SPE10 benchmark case. Well controls are optimized to maximize the NPV in an oil-water waterflooding scenario. It is observed that all proxy models can find optimal NPV results like optimal NPV obtained by HFS with much less computational effort. Among proxy models, LS-SVR is found to be less computationally demanding in the training process. Overall, both proxy models are orders of magnitude faster than numerical models in the prediction. We provide new insights into the accuracy and prediction performances of these machine learning-based proxy models for 3D oil-water systems as well as their efficiency in nonlinearly constrained production optimization for waterflooding applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/212690-ms"
+    },
+    {
+        "id": 15605,
+        "title": "Earthquake data augmentation using wavelet transform for training deep learning based surrogate models of nonlinear structures",
+        "authors": "Siddharth S. Parida, Supratik Bose, Georgios Apostolakis",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2023.05.122"
+    },
+    {
+        "id": 15606,
+        "title": "Deep Learning Models in Climate Forecasting: Algorithms, Uncertainties and Benchmark Comparison",
+        "authors": "Ting-Yong Liu, Yong Yang, Fu Huang, Guanfeng Liu",
+        "published": "2023-11-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3603273.3630507"
+    },
+    {
+        "id": 15607,
+        "title": "Building energy consumption prediction using multilayer perceptron neural network-assisted models; comparison of different optimization algorithms",
+        "authors": "Sadegh Afzal, Behrooz M. Ziapour, Afshar Shokri, Hamid Shakibi, Behnam Sobhani",
+        "published": "2023-11",
+        "citations": 26,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2023.128446"
+    },
+    {
+        "id": 15608,
+        "title": "Development of hybrid models based on deep learning and optimized machine learning algorithms for brain tumor Multi-Classification",
+        "authors": "Muhammed Celik, Ozkan Inik",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122159"
+    },
+    {
+        "id": 15609,
+        "title": "Optimization of Algorithms and Models in Two Scenarios for Picking up-Dropping off Disaster Victims in Islands Cities",
+        "authors": "Muhammad Muhammad, Hajjul Kamil, Muhammad Adlim, Irwandi Irwandi",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "Earthquakes in the past have caused significant damage, injuries, and deaths. The remaining resources do not equal the amount needed. For this reason, effective and efficient disaster management methods are needed. Learning from recent research that describes how they optimize the coordination function of hospital systems to overcome the imbalance between need and care capacity, we add the bed occupancy ratio (BOR) of healthcare facilities to the modeling. This paper aims to provide information about the distribution mechanism for injured victims by minimizing the total time to arrive at the healthcare facility. This victim evacuation modeling uses the integer linear programming method with two scenarios. Simulations were carried out on 164 injured victims, estimated by residents who live in areas that cross the Great Sumatran fault. The results show that the second scenario, which involves distributing it to the nearest healthcare facility, is 3.6 hours shorter compared to taking it to the general hospital in the first scenario.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18421/tem131-18"
+    },
+    {
+        "id": 15610,
+        "title": "Optimization of deep learning models: benchmark and analysis",
+        "authors": "Rasheed Ahmad, Izzat Alsmadi, Mohammad Al-Ramahi",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s43674-023-00055-1"
+    },
+    {
+        "id": 15611,
+        "title": "Automated evaluation models and algorithms for optimizing exercise assessments in food production training complexes",
+        "authors": "Ivan Polevshchikov, Elena Litvinova",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "The article is devoted to the development of models and algorithms of intelligent training complexes for training engineering specialists in the food industry. A method has been developed for comprehensive assessment of the quality of performing exercises on optimization problems in virtual environment. The method differs from the known ones in many parameters that determine the structure and specificity of these problems. It is formalized based on of fuzzy sets that describe incomplete knowledge when comparing the mathematical model of the problem created by the student with the reference one. The use of intelligent training complexes, in the software of which the presented method is implemented, will allow for ongoing monitoring and self-monitoring of students’ knowledge and skills when studying disciplines in the field of developing software for automated control systems for production processes. The use of intelligent training complexes ensures the collection and analysis of data on the dynamics in the formation of professional knowledge and skills among students in the development of mathematical software for automated control systems. Accordingly, the time for conducting control activities for the teacher is reduced, and the accuracy of the results of monitoring the formation of knowledge and skills among students is increased.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/itmconf/20245902025"
+    },
+    {
+        "id": 15612,
+        "title": "Fixing the problems of deep neural networks will require better training data and learning algorithms",
+        "authors": "Drew Linsley, Thomas Serre",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Abstract\nBowers et al. argue that deep neural networks (DNNs) are poor models of biological vision because they often learn to rival human accuracy by relying on strategies that differ markedly from those of humans. We show that this problem is worsening as DNNs are becoming larger-scale and increasingly more accurate, and prescribe methods for building DNNs that can reliably model biological vision.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0140525x23001589"
+    },
+    {
+        "id": 15613,
+        "title": "The Porcupine Measure for Comparing the Performance of Multi-Objective Optimization Algorithms",
+        "authors": "Christiaan Scheepers, Andries Engelbrecht",
+        "published": "2023-5-31",
+        "citations": 1,
+        "abstract": "In spite of being introduced over twenty-five years ago, Fonseca and Fleming’s attainment surfaces have not been widely used. This article investigates some of the shortcomings that may have led to the lack of adoption of this performance measure. The quantitative measure based on attainment surfaces, introduced by Knowles and Corne, is analyzed. The analysis shows that the results obtained by the Knowles and Corne approach are influenced (biased) by the shape of the attainment surface. Improvements to the Knowles and Corne approach for bi-objective Pareto-optimal front (POF) comparisons are proposed. Furthermore, assuming M objective functions, an M-dimensional attainment-surface-based quantitative measure, named the porcupine measure, is proposed for comparing the performance of multi-objective optimization algorithms. A computationally optimized version of the porcupine measure is presented and empirically analyzed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16060283"
+    },
+    {
+        "id": 15614,
+        "title": "“Multi-Objective and Multi-Level Optimization: Algorithms and Applications”: Foreword by the Guest Editor",
+        "authors": "Massimiliano Caramia",
+        "published": "2023-9-5",
+        "citations": 1,
+        "abstract": "Decision making in real-world applications frequently calls for taking into account multiple goals to come up with viable solutions [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16090425"
+    },
+    {
+        "id": 15615,
+        "title": "Impact of model architecture on robustness and interpretability of multispectral deep learning models",
+        "authors": "Charles Godfrey, Elise Bishoff, Myles McKay, Eleanor Byler",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2662998"
+    },
+    {
+        "id": 15616,
+        "title": "Standard Training Dataset vs. Different Testing Dataset to Compare Deep Learning Architectures Models in Diagnosing COVID-19",
+        "authors": "Khalida A. Saeed, Wasfi T. Kahwachi",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsss58085.2023.10407120"
+    },
+    {
+        "id": 15617,
+        "title": "Deep Reinforcement Learning Algorithms for Location Optimization in Multi-RAT UAV-Assisted Heterogeneous Networks",
+        "authors": "M. G. Anany, Mahmoud M. Elmesalawy, Ibrahim I. Ibrahim, Ahmed M. Abd El-Haleem",
+        "published": "2023-10-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/niles59815.2023.10296805"
+    },
+    {
+        "id": 15618,
+        "title": "Retracted: Gradient Descent Optimization in Deep Learning Model Training Based on Multistage and Method Combination Strategy",
+        "authors": "",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9785972"
+    },
+    {
+        "id": 15619,
+        "title": "Driving Training-Based Optimization- Multitask Fuzzy C-Means (DTBO-MFCM) Image Segmentation and Robust Deep Learning Algorithm for Multicenter Breast Histopathological Images",
+        "authors": "Afnan M. Alhassan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3335667"
+    },
+    {
+        "id": 15620,
+        "title": "A comparative study of shear strength prediction models for SFRC deep beams without stirrups using Machine learning algorithms",
+        "authors": "Odey Alshboul, Ghassan Almasabha, Khaled F. Al-Shboul, Ali Shehadeh",
+        "published": "2023-9",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2023.06.026"
+    },
+    {
+        "id": 15621,
+        "title": "Correction to deep reinforcement learning‐based ordering mechanism for performance optimization in <scp>multi‐echelon</scp> supply chains",
+        "authors": "Dony S. Kurian, V. Madhusudanan Pillai",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "AbstractThis paper addresses and acknowledges the valuable feedback provided by Dr. Deniz Preil in response to the recent study conducted by Kurian et al which investigates the application of proximal policy optimization (PPO) to determine dynamic ordering policies within multi‐echelon supply chains. The first comment raised by Dr. Preil motivated an examination of the training and evaluation procedures in Experiments 2, 3, and 4. The Experiments 2 and 3 were reworked to address this, allowing the seed to vary for every training iteration, resulting in refined outcomes while there was no need of reworking of Experiment 4. The second comment focused on the benchmarking strategies involving the 1‐1 policy and the order‐up‐to (OUT) policy, clarifying the distinctions between the two policies and justifying the use of the 1‐1 policy for benchmarking in Experiment 4. The implementation of the widely accepted OUT policy was explained, highlighting the meaningful rationale behind its use. These discussions aim to enhance the methodology employed by Kurian et al and strengthen the implications of the findings within the domain of supply chain ordering management.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/asmb.2838"
+    },
+    {
+        "id": 15622,
+        "title": "Hydrogen-electricity coupling energy storage systems: Models, applications, and deep reinforcement learning algorithms",
+        "authors": "Zheng Jiehui, Yingying Su, Wenhao Wang, Zhigang Li, Qinghua Wu",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "With the maturity of hydrogen storage technologies, hydrogen-electricity coupling energy storage in green electricity and green hydrogen modes is an ideal energy system. The construction of hydrogen-electricity coupling energy storage systems (HECESSs) is one of the important technological pathways for energy supply and deep decarbonization. In a HECESS, hydrogen storage can maintain the energy balance between supply and demand and increase the utilization efficiency of energy. However, its scenario models in power system establishment and the corresponding solution methods still need to be studied in depth. For accelerating the construction of HECESSs, firstly, this paper describes the current applications of hydrogen storage technologies from three aspects: hydrogen production, hydrogen power generation, and hydrogen storage. Secondly, based on the complementary synergistic mechanism of hydrogen energy and electric energy, the structure of the HECESS and its operation mode are described. To study the engineering applications of HECESSs more deeply, the recent progress of HECESS application at the source, grid, and load sides is reviewed. For the application of the models of hydrogen storage at the source/grid/load side, the selection of the solution method will affect the optimal solution of the model and solution efficiency. As solving complex multi-energy coupling models using traditional optimization methods is difficult, the paper therefore explored the advantages of deep reinforcement learning (DRL) algorithms and their applications in HECESSs. Finally, the technical application in the construction of new power systems supported by HECESSs is prospected. The study aims to provide a reference for the research on hydrogen storage in power systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18686/cest.v2i1.96"
+    },
+    {
+        "id": 15623,
+        "title": "The prediction analysis of Covid-19 using enhanced deep learning network and improvised optimization algorithms",
+        "authors": "Ganesh K. Yenurkar, Sandip Mal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0175844"
+    },
+    {
+        "id": 15624,
+        "title": "Implementation Aspects in Regularized Structural Equation Models",
+        "authors": "Alexander Robitzsch",
+        "published": "2023-9-18",
+        "citations": 3,
+        "abstract": "This article reviews several implementation aspects in estimating regularized single-group and multiple-group structural equation models (SEM). It is demonstrated that approximate estimation approaches that rely on a differentiable approximation of non-differentiable penalty functions perform similarly to the coordinate descent optimization approach of regularized SEMs. Furthermore, using a fixed regularization parameter can sometimes be superior to an optimal regularization parameter selected by the Bayesian information criterion when it comes to the estimation of structural parameters. Moreover, the widespread penalty functions of regularized SEM implemented in several R packages were compared with the estimation based on a recently proposed penalty function in the Mplus software. Finally, we also investigate the performance of a clever replacement of the optimization function in regularized SEM with a smoothed differentiable approximation of the Bayesian information criterion proposed by O’Neill and Burke in 2023. The findings were derived through two simulation studies and are intended to guide the practical implementation of regularized SEM in future software pieces.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16090446"
+    },
+    {
+        "id": 15625,
+        "title": "An exhaustive review of the metaheuristic algorithms for search and optimization: taxonomy, applications, and open challenges",
+        "authors": "Kanchan Rajwar, Kusum Deep, Swagatam Das",
+        "published": "2023-11",
+        "citations": 34,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10462-023-10470-y"
+    },
+    {
+        "id": 15626,
+        "title": "Models and algorithms for managing the emotional state of customers in commercial banks using deep convolutional neural networks",
+        "authors": "Guedes Soma",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "In this research, a model for managing the emotional state of customers in a commercial bank has been developed using a deep convolutional neural network (DCNN) and algorithms for distributing conflicting customers along the routes to the certain operator, depending on this emotional state. In order to route a customer to the certain operator, it was necessary to develop a mathematical model of emotional target routing based on the Newton interpolation polynomial. The developed model has four classes [angry, happy, neutral, and sad], trained and tested on the well-known FER2013 dataset using machine learning and computer vision. Finally, the model validation accuracy of 70.35% has been achieved.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/e3sconf/202341902008"
+    },
+    {
+        "id": 15627,
+        "title": "Domain generated algorithms detection applying a combination of a deep feature selection and traditional machine learning models",
+        "authors": "Mohamed Hassaoui, Mohamed Hanini, Said El Kafhali",
+        "published": "2023-1-26",
+        "citations": 4,
+        "abstract": "The use of command and control (C2) servers in cyberattacks has risen considerably, attackers frequently employ the domain generated algorithm (DGA) technique to conceal their C2 servers. Various machine learning models have been suggested for binary identification of domain names as either benign or DGA domain. The Existing techniques are inefficient and have real-time detection issues and are also very data hypersensitive, therefore, they can be circumvented by the attackers. The main problem this article addresses is how to automatically detect DGA in a way that does not rely solely on reverse engineering, not strongly affected by data size, and allows detection of this DGA in real time. This paper presents DTFS-DGA model that combine neural networks models with traditional machine learning models and maintains its performance even if the data size changes to detect DGA in real time. The model uses 15 linguistics and networks features with the features extracted by long short-term memory and convolutional neural network to classify domain names using random forest and support vector machines. The comprehensive experimental findings confirm the suggested model’s accuracy. To be precise, the model achieve an average accuracy of 99.8 % for the classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jcs-210139"
+    },
+    {
+        "id": 15628,
+        "title": "Integrated warehouse assignment and carton configuration optimization using deep clustering-based evolutionary algorithms",
+        "authors": "Jyotirmoy Nirupam Das, Manoj Kumar Tiwari, Ashesh Kumar Sinha, Vivek Khanzode",
+        "published": "2023-2",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.118680"
+    },
+    {
+        "id": 15629,
+        "title": "Deep Dive into Fake News Detection: Feature-Centric Classification with Ensemble and Deep Learning Methods",
+        "authors": "Fawaz Khaled Alarfaj, Jawad Abbas Khan",
+        "published": "2023-11-3",
+        "citations": 2,
+        "abstract": "The online spread of fake news on various platforms has emerged as a significant concern, posing threats to public opinion, political stability, and the dissemination of reliable information. Researchers have turned to advanced technologies, including machine learning (ML) and deep learning (DL) techniques, to detect and classify fake news to address this issue. This research study explores fake news classification using diverse ML and DL approaches. We utilized a well-known “Fake News” dataset sourced from Kaggle, encompassing a labelled news collection. We implemented diverse ML models, including multinomial naïve bayes (MNB), gaussian naïve bayes (GNB), Bernoulli naïve Bayes (BNB), logistic regression (LR), and passive aggressive classifier (PAC). Additionally, we explored DL models, such as long short-term memory (LSTM), convolutional neural networks (CNN), and CNN-LSTM. We compared the performance of these models based on key evaluation metrics, such as accuracy, precision, recall, and the F1 score. Additionally, we conducted cross-validation and hyperparameter tuning to ensure optimal performance. The results provide valuable insights into the strengths and weaknesses of each model in classifying fake news. We observed that DL models, particularly LSTM and CNN-LSTM, showed better performance compared to traditional ML models. These models achieved higher accuracy and demonstrated robustness in classification tasks. These findings emphasize the potential of DL models to tackle the spread of fake news effectively and highlight the importance of utilizing advanced techniques to address this challenging problem.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16110507"
+    },
+    {
+        "id": 15630,
+        "title": "Training of Feed-Forward Neural Networks by Using Optimization Algorithms Based on Swarm-Intelligent for Maximum Power Point Tracking",
+        "authors": "Ebubekir Kaya, Ceren Baştemur Kaya, Emre Bendeş, Sema Atasever, Başak Öztürk, Bilgin Yazlık",
+        "published": "2023-9-1",
+        "citations": 2,
+        "abstract": "One of the most used artificial intelligence techniques for maximum power point tracking is artificial neural networks. In order to achieve successful results in maximum power point tracking, the training process of artificial neural networks is important. Metaheuristic algorithms are used extensively in the literature for neural network training. An important group of metaheuristic algorithms is swarm-intelligent-based optimization algorithms. In this study, feed-forward neural network training is carried out for maximum power point tracking by using 13 swarm-intelligent-based optimization algorithms. These algorithms are artificial bee colony, butterfly optimization, cuckoo search, chicken swarm optimization, dragonfly algorithm, firefly algorithm, grasshopper optimization algorithm, krill herd algorithm, particle swarm optimization, salp swarm algorithm, selfish herd optimizer, tunicate swarm algorithm, and tuna swarm optimization. Mean squared error is used as the error metric, and the performances of the algorithms in different network structures are evaluated. Considering the results, a success ranking score is obtained for each algorithm. The three most successful algorithms in both training and testing processes are the firefly algorithm, selfish herd optimizer, and grasshopper optimization algorithm, respectively. The training error values obtained with these algorithms are 4.5 × 10−4, 1.6 × 10−3, and 2.3 × 10−3, respectively. The test error values are 4.6 × 10−4, 1.6 × 10−3, and 2.4 × 10−3, respectively. With these algorithms, effective results have been achieved in a low number of evaluations. In addition to these three algorithms, other algorithms have also achieved mostly acceptable results. This shows that the related algorithms are generally successful ANFIS training algorithms for maximum power point tracking.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/biomimetics8050402"
+    },
+    {
+        "id": 15631,
+        "title": "Image forgery detection in forensic science using optimization based deep learning models",
+        "authors": "M. R. Archana, Deepak N. Biradar, J. Dayanand",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17316-3"
+    },
+    {
+        "id": 15632,
+        "title": "Using deep reinforcement learning to guide PCBS welding robot to solve multi-objective optimization tasks",
+        "authors": "Fan Liu, Wanfeng Shang, Xizhang Chen, Yang Wang, Xiangdong Kong",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004933"
+    },
+    {
+        "id": 15633,
+        "title": "Enhancing Memory Utilization For On-Device Training of TinyML Models Utilizing Enhanced Grey Wolf Optimization Pushing State-of-the-Art Limits - TinyWolf",
+        "authors": "Subhrangshu Adhikary, Subhayu Dutta",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4615955"
+    },
+    {
+        "id": 15634,
+        "title": "A survey of automatic speech recognition deep models performance for Polish medical terms",
+        "authors": "Marta Zielonka, Wiktor Krasiński, Jakub Nowak, Przemysław Rośleń, Jan Stopiński, Mateusz Żak, Franciszek Górski, Andrzej Czyżewski",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/spa59660.2023.10274442"
+    },
+    {
+        "id": 15635,
+        "title": "Quantifying the robustness of deep multispectral segmentation models against natural perturbations and data poisoning",
+        "authors": "Elise Bishoff, Charles Godfrey, Myles Mckay, Eleanor Byler",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663498"
+    },
+    {
+        "id": 15636,
+        "title": "Leveraging Large Language Models for the Generation of Novel Metaheuristic Optimization Algorithms",
+        "authors": "Michal Pluhacek, Anezka Kazikova, Tomas Kadavy, Adam Viktorin, Roman Senkerik",
+        "published": "2023-7-15",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3596401"
+    },
+    {
+        "id": 15637,
+        "title": "Portfolio optimization through hybrid deep learning and genetic algorithms vine Copula-GARCH-EVT-CVaR model",
+        "authors": "Rihab Bedoui, Ramzi Benkraiem, Khaled Guesmi, Islem Kedidi",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.techfore.2023.122887"
+    },
+    {
+        "id": 15638,
+        "title": "Deep Learning Aided SRF Cavity Optimization for Quantum Computing",
+        "authors": "Jovan Markovic, Doga Kurkcuoglu",
+        "published": "2023-9-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2172/1998921"
+    },
+    {
+        "id": 15639,
+        "title": "Evaluation of Deep Training and Adapting Algorithms in Medical with De-Noising EEG",
+        "authors": "Ali Hadi Abdulwahid, Girija Rani Karetla, KVB. Ganesh, A Suresh Kumar, K. Radha, K. Shivakumar",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacite57410.2023.10182531"
+    },
+    {
+        "id": 15640,
+        "title": "Automatic Diagnosis and Grading of Diabetic Retinopathy using Bat Optimization Algorithm-Refined Deep Residual Network",
+        "authors": "B. Haritha Lakshmi, Venkata Ramana Kaneti, R S Soundariya, Sanjib Kumar Nayak, Rajesh N",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393485"
+    },
+    {
+        "id": 15641,
+        "title": "InTune: Reinforcement Learning-based Data Pipeline Optimization for Deep Recommendation Models",
+        "authors": "Kabir Nagrecha, Lingyi Liu, Pablo Delgado, Prasanna Padmanabhan",
+        "published": "2023-9-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3604915.3608778"
+    },
+    {
+        "id": 15642,
+        "title": "Hybrid Sparrow Search-Exponential Distribution Optimization with Differential Evolution for Parameter Prediction of Solar Photovoltaic Models",
+        "authors": "Amr A. Abd El-Mageed, Ayoub Al-Hamadi, Samy Bakheet, Asmaa H. Abd El-Rahiem",
+        "published": "2024-1-9",
+        "citations": 2,
+        "abstract": "It is difficult to determine unknown solar cell and photovoltaic (PV) module parameters owing to the nonlinearity of the characteristic current–voltage (I-V) curve. Despite this, precise parameter estimation is necessary due to the substantial effect parameters have on the efficacy of the PV system with respect to current and energy results. The problem’s characteristics make the handling of algorithms susceptible to local optima and resource-intensive processing. To effectively extract PV model parameter values, an improved hybrid Sparrow Search Algorithm (SSA) with Exponential Distribution Optimization (EDO) based on the Differential Evolution (DE) technique and the bound-constraint modification procedure, called ISSAEDO, is presented in this article. The hybrid strategy utilizes EDO to improve global exploration and SSA to effectively explore the solution space, while DE facilitates local search to improve parameter estimations. The proposed method is compared to standard optimization methods using solar PV system data to demonstrate its effectiveness and speed in obtaining PV model parameters such as the single diode model (SDM) and the double diode model (DDM). The results indicate that the hybrid technique is a viable instrument for enhancing solar PV system design and performance analysis because it can predict PV model parameters accurately.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010026"
+    },
+    {
+        "id": 15643,
+        "title": "Frozen or Fine-tuned? Analyzing Deep Learning Models and Training Strategies for Optimizing Big Five Personality Traits Prediction from Text",
+        "authors": "Masoud Soleimani, Hamidreza Baradaran Kashani",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qicar61538.2024.10496606"
+    },
+    {
+        "id": 15644,
+        "title": "Application of Intelligent Optimization Algorithms in the Distribution Network Planning and Evaluation Models",
+        "authors": "Xin Du, Jiali Huo, Lin Chen, Mingchang Wang, Zhaoshun Wu, Chengliang Zhang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.11.106"
+    },
+    {
+        "id": 15645,
+        "title": "Particle Swarm Optimization-Based Unconstrained Polygonal Fitting of 2D Shapes",
+        "authors": "Costas Panagiotakis",
+        "published": "2024-1-7",
+        "citations": 0,
+        "abstract": "In this paper, we present a general version of polygonal fitting problem called Unconstrained Polygonal Fitting (UPF). Our goal is to represent a given 2D shape S with an N-vertex polygonal curve P with a known number of vertices, so that the Intersection over Union (IoU) metric between S and P is maximized without any assumption or prior knowledge of the object structure and the location of the N-vertices of P that can be placed anywhere in the 2D space. The search space of the UPF problem is a superset of the classical polygonal approximation (PA) problem, where the vertices are constrained to belong in the boundary of the given 2D shape. Therefore, the resulting solutions of the UPF may better approximate the given curve than the solutions of the PA problem. For a given number of vertices N, a Particle Swarm Optimization (PSO) method is used to maximize the IoU metric, which yields almost optimal solutions. Furthermore, the proposed method has also been implemented under the equal area principle so that the total area covered by P is equal to the area of the original 2D shape to measure how this constraint affects IoU metric. The quantitative results obtained on more than 2800 2D shapes included in two standard datasets quantify the performance of the proposed methods and illustrate that their solutions outperform baselines from the literature.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010025"
+    },
+    {
+        "id": 15646,
+        "title": "Model-Robust Estimation of Multiple-Group Structural Equation Models",
+        "authors": "Alexander Robitzsch",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "Structural equation models (SEM) are widely used in the social sciences. They model the relationships between latent variables in structural models, while defining the latent variables by observed variables in measurement models. Frequently, it is of interest to compare particular parameters in an SEM as a function of a discrete grouping variable. Multiple-group SEM is employed to compare structural relationships between groups. In this article, estimation approaches for the multiple-group are reviewed. We focus on comparing different estimation strategies in the presence of local model misspecifications (i.e., model errors). In detail, maximum likelihood and weighted least-squares estimation approaches are compared with a newly proposed robust Lp loss function and regularized maximum likelihood estimation. The latter methods are referred to as model-robust estimators because they show some resistance to model errors. In particular, we focus on the performance of the different estimators in the presence of unmodelled residual error correlations and measurement noninvariance (i.e., group-specific item intercepts). The performance of the different estimators is compared in two simulation studies and an empirical example. It turned out that the robust loss function approach is computationally much less demanding than regularized maximum likelihood estimation but resulted in similar statistical performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040210"
+    },
+    {
+        "id": 15647,
+        "title": "A Comparative Study on Accurate Parameter Estimation of Solar Photovoltaic Models Using Metaheuristic Optimization Algorithms",
+        "authors": "Mehmet Yesilbudak",
+        "published": "2024-4-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15325008.2023.2283843"
+    },
+    {
+        "id": 15648,
+        "title": "HYB-PARSIMONY: A hybrid approach combining Particle Swarm Optimization and Genetic Algorithms to find parsimonious models in high-dimensional datasets",
+        "authors": "Jose Divasón, Alpha Pernia-Espinoza, Francisco Javier Martinez-de-Pison",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126840"
+    },
+    {
+        "id": 15649,
+        "title": "An advanced framework for net electricity consumption prediction: Incorporating novel machine learning models and optimization algorithms",
+        "authors": "Xuetao Li, Ziwei Wang, Chengying Yang, Ayhan Bozkurt",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2024.131259"
+    },
+    {
+        "id": 15650,
+        "title": "Advances in shared mobility: new models, system optimization algorithms, and smart automated solutions",
+        "authors": "Muhammad Adnan, Ansar-Ul-Haque Yasar, Stephane Galland",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00779-023-01775-4"
+    },
+    {
+        "id": 15651,
+        "title": "Optimization of Several Deep CNN Models for Waste Classification",
+        "authors": "Mahir KAYA, Samet ULUTÜRK, Yasemin ÇETİN KAYA, Onur ALTINTAŞ, Bülent TURAN",
+        "published": "2023-8-31",
+        "citations": 2,
+        "abstract": "With urbanization, population, and consumption on the rise, urban waste generation is steadily increasing. Consequently, waste management systems have become integral to city life, playing a critical role in resource efficiency and environmental protection. Inadequate waste management systems can adversely affect the environment, human health, and the economy. Accurate and rapid automatic waste classification poses a significant challenge in recycling. Deep learning models have achieved successful image classification in various fields recently. However, the optimal determination of many hyperparameters is crucial in these models. In this study, we developed a deep learning model that achieves the best classification performance by optimizing the depth, width, and other hyperparameters. Our six-layer Convolutional Neural Network (CNN) model with the lowest depth and width produced a successful result with an accuracy value of 89% and an F1 score of 88%. Moreover, several state-of-the-art CNN models such as VGG19, DenseNet169, ResNet101, Xception, InceptionV3, RegnetX008, RegnetY008, EfficientNetV2S trained with transfer learning and fine-tuning. Extensive experimental work has been done to find the optimal hyperparameters with GridSearch. Our most comprehensive DenseNet169 model, which we trained with fine-tuning, provided an accuracy value of 96.42% and an F1 score of 96%. These models can be successfully used in a variety of waste classification automation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35377/saucis...1257100"
+    },
+    {
+        "id": 15652,
+        "title": "An overview of deep-learning models for metasurface design and optimization",
+        "authors": "Muhammad Fizan, Sadia Noureen, Muhammad Zubair, Muhammad Qasim Mehmood, Yehia Massoud",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2686202"
+    },
+    {
+        "id": 15653,
+        "title": "Conditional autoencoder pre-training and optimization algorithms for personalized care of hemophiliac patients",
+        "authors": "Cédric Buche, François Lasson, Sébastien Kerdelo",
+        "published": "2023-1-25",
+        "citations": 1,
+        "abstract": "This paper presents the use of deep conditional autoencoder to predict the effect of treatments for patients suffering from hemophiliac disorders. Conditional autoencoder is a semi-supervised model that learns an abstract representation of the data and provides conditional reconstruction capabilities. Such models are suited to problems with limited and/or partially observable data, common situation for data in medicine. Deep conditional autoencoders allow the representation of highly non-linear functions which makes them promising candidates. However, the optimization of parameters and hyperparameters is particularly complex. For parameter optimization, the classical approach of random initialization of weight matrices works well in the case of simple architectures, but is not feasible for deep architectures. For hyperparameter optimization of deep architectures, the classical cross-validation method is costly. In this article, we propose solutions using a conditional pre-training algorithm and incremental optimization strategies. Such solutions reduce the variance of the estimation process and enhances convergence of the learning algorithm. Our proposal is applied for personalized care of hemophiliac patients. Results show better performances than generative adversarial networks (baseline) and highlight the benefits of your contribution to predict the effect of treatments for patients.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frai.2023.1048010"
+    },
+    {
+        "id": 15654,
+        "title": "Decoding Optimization Algorithms for Convolutional Neural Networks in Time Series Regression Tasks",
+        "authors": "Deep Karan Singh,  , Nisha Rawat",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "Optimization algorithms play a vital role in training deep learning models effectively. This research paper presents a comprehensive comparative analysis of various optimization algorithms for Convolutional Neural Networks (CNNs) in the context of time series regression. The study focuses on the specific application of maximum temperature prediction, utilizing a dataset of historical temperature records. The primary objective is to investigate the performance of different optimizers and evaluate their impact on the accuracy and convergence properties of the CNN model. Experiments were conducted using different optimizers, including Stochastic Gradient Descent (SGD), RMSprop, Adagrad, Adadelta, Adam, and Adamax, while keeping other factors constant. Their performance was evaluated and compared based on metrics such as mean squared error (MSE), mean absolute error (MAE), root mean squared error (RMSE), R-squared (R²), mean absolute percentage error (MAPE), and explained variance score (EVS) to measure the predictive accuracy and generalization capability of the models. Additionally, learning curves are analyzed to observe the convergence behavior of each optimizer. The experimental results, indicating significant variations in convergence speed, accuracy, and robustness among the optimizers, underscore the research value of this work. By comprehensively evaluating and comparing various optimization algorithms, we aimed to provide valuable insights into their performance characteristics in the context of time series regression using CNN models. This work contributes to the understanding of optimizer selection and its impact on model performance, assisting researchers and practitioners in choosing the most suitable optimization algorithm for time series regression tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5815/ijitcs.2023.06.04"
+    },
+    {
+        "id": 15655,
+        "title": "Deep Incubation: Training Large Models by Divide-and-Conquering",
+        "authors": "Zanlin Ni, Yulin Wang, Jiangwei Yu, Haojun Jiang, Yue Cao, Gao Huang",
+        "published": "2023-10-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01590"
+    },
+    {
+        "id": 15656,
+        "title": "Research on surrogate models and optimization algorithms of compressor characteristic based on digital twins",
+        "authors": "Qirong Yang, Hechun Wang, Chuanlei Yang, Yinyan Wang, Deng Hu, Binbin Wang, Baoyin Duan",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jer.2024.01.025"
+    },
+    {
+        "id": 15657,
+        "title": "Optimized prediction models for faulting failure of Jointed Plain concrete pavement using the metaheuristic optimization algorithms",
+        "authors": "Mehrdad Ehsani, Pouria Hamidian, Pouria Hajikarimi, Fereidoon Moghadas Nejad",
+        "published": "2023-1",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.conbuildmat.2022.129948"
+    },
+    {
+        "id": 15658,
+        "title": "Mitigating demographic bias of machine learning models on social media",
+        "authors": "Yanchen Wang, Lisa Singh",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3617694.3623244"
+    },
+    {
+        "id": 15659,
+        "title": "Optimization algorithms in security and privacy-preserving data disturbance for collaborative edge computing social IoT deep learning architectures",
+        "authors": "Mythili Boopathi, Sachin Gupta, A. N. Mohammed Zabeeulla, Rupal Gupta, Vipul Vekriya, Arvind Kumar Pandey",
+        "published": "2023-5-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08396-2"
+    },
+    {
+        "id": 15660,
+        "title": "Deep ensemble approach for pathogen classification in large-scale images using patch-based training and hyper-parameter optimization",
+        "authors": "Fareed Ahmad, Muhammad Usman Ghani Khan, Ahsen Tahir, Farhan Masud",
+        "published": "2023-7-1",
+        "citations": 5,
+        "abstract": "AbstractPathogenic bacteria present a major threat to human health, causing various infections and illnesses, and in some cases, even death. The accurate identification of these bacteria is crucial, but it can be challenging due to the similarities between different species and genera. This is where automated classification using convolutional neural network (CNN) models can help, as it can provide more accurate, authentic, and standardized results.In this study, we aimed to create a larger and balanced dataset by image patching and applied different variations of CNN models, including training from scratch, fine-tuning, and weight adjustment, and data augmentation through random rotation, reflection, and translation. The results showed that the best results were achieved through augmentation and fine-tuning of deep models. We also modified existing architectures, such as InceptionV3 and MobileNetV2, to better capture complex features. The robustness of the proposed ensemble model was evaluated using two data splits (7:2:1 and 6:2:2) to see how performance changed as the training data was increased from 10 to 20%. In both cases, the model exhibited exceptional performance. For the 7:2:1 split, the model achieved an accuracy of 99.91%, F-Score of 98.95%, precision of 98.98%, recall of 98.96%, and MCC of 98.92%. For the 6:2:2 split, the model yielded an accuracy of 99.94%, F-Score of 99.28%, precision of 99.31%, recall of 98.96%, and MCC of 99.26%. This demonstrates that automatic classification using the ensemble model can be a valuable tool for diagnostic staff and microbiologists in accurately identifying pathogenic bacteria, which in turn can help control epidemics and minimize their social and economic impact.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05398-7"
+    },
+    {
+        "id": 15661,
+        "title": "Towards the Distributed Wound Treatment Optimization Method for Training CNN Models: Analysis on the MNIST Dataset",
+        "authors": "Hiram Ponce, Ernesto Moya-Albor, Jorge Brieva",
+        "published": "2023-3-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isads56919.2023.10092078"
+    },
+    {
+        "id": 15662,
+        "title": "Autism Spectrum Disorder Detection Using Fractional Social Driving Training-Based Optimization Enabled Deep Learning",
+        "authors": "Ch Vidyadhari, Aravind Karrothu, Prabhakar Manickavasagam, S. Anjali Devi",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16784-x"
+    },
+    {
+        "id": 15663,
+        "title": "Models to classify the difficulty of genetic algorithms to solve continuous optimization problems",
+        "authors": "Noel E. Rodríguez-Maya, Juan J. Flores, Sébastien Verel, Mario Graff",
+        "published": "2023-1-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11047-022-09936-9"
+    },
+    {
+        "id": 15664,
+        "title": "Smooth Information Criterion for Regularized Estimation of Item Response Models",
+        "authors": "Alexander Robitzsch",
+        "published": "2024-4-6",
+        "citations": 0,
+        "abstract": "Item response theory (IRT) models are frequently used to analyze multivariate categorical data from questionnaires or cognitive test data. In order to reduce the model complexity in item response models, regularized estimation is now widely applied, adding a nondifferentiable penalty function like the LASSO or the SCAD penalty to the log-likelihood function in the optimization function. In most applications, regularized estimation repeatedly estimates the IRT model on a grid of regularization parameters λ. The final model is selected for the parameter that minimizes the Akaike or Bayesian information criterion (AIC or BIC). In recent work, it has been proposed to directly minimize a smooth approximation of the AIC or the BIC for regularized estimation. This approach circumvents the repeated estimation of the IRT model. To this end, the computation time is substantially reduced. The adequacy of the new approach is demonstrated by three simulation studies focusing on regularized estimation for IRT models with differential item functioning, multidimensional IRT models with cross-loadings, and the mixed Rasch/two-parameter logistic IRT model. It was found from the simulation studies that the computationally less demanding direct optimization based on the smooth variants of AIC and BIC had comparable or improved performance compared to the ordinarily employed repeated regularized estimation based on AIC or BIC.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17040153"
+    },
+    {
+        "id": 15665,
+        "title": "Optimization of the Teaching Process of Physical Education and Training in Colleges and Universities Based on Explanatory Structural Models",
+        "authors": "Ying Li",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nThis study examines the explanatory structural model’s inter-level division technique and how it relates to the directed graphs representing the system’s constituent parts. The directed graphs without loops are successfully identified by analyzing these directed graphs, and the critical elements in the set of highest-level elements are found accordingly. The reduced reachability matrix is used in the study to directly locate the corresponding sinks, and this approach not only optimizes the hierarchical effect of the elements of the complex system, but also significantly improves the computational efficiency of the explanatory structural model. We also used this refined model to examine the main variables influencing how well colleges and universities teach physical training. To maximize the effectiveness of the physical exercise teaching method, a strategy of moving from the deep to the surface was chosen, considering the hierarchical link between these components. The study’s findings demonstrated that applying this optimization method raised the subjects’ overall test scores before and after training by an average of 20.14 points. In addition, the subjects’ lung capacity increased from 4.21 liters to 4.86 liters, and the left ventricular end-diastolic volume and output per beat in terms of cardiac function increased by 11.7% and 18.9%, respectively. The study’s findings offer a significant theoretical and practical foundation for advancing physical education techniques and developing college students’ athletic potential.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns-2024-0455"
+    },
+    {
+        "id": 15666,
+        "title": "Uniaxial Compressive Strength Prediction for Rock Material in Deep Mine Using Boosting-Based Machine Learning Methods and Optimization Algorithms",
+        "authors": "Junjie Zhao, Diyuan Li, Jingtai Jiang, Pingkuang Luo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmes.2024.046960"
+    },
+    {
+        "id": 15667,
+        "title": "Optimizing Automated Trading Systems with Deep Reinforcement Learning",
+        "authors": "Minh Tran, Duc Pham-Hi, Marc Bui",
+        "published": "2023-1-1",
+        "citations": 6,
+        "abstract": "In this paper, we propose a novel approach to optimize parameters for strategies in automated trading systems. Based on the framework of Reinforcement learning, our work includes the development of a learning environment, state representation, reward function, and learning algorithm for the cryptocurrency market. Considering two simple objective functions, cumulative return and Sharpe ratio, the results showed that Deep Reinforcement Learning approach with Double Deep Q-Network setting and the Bayesian Optimization approach can provide positive average returns. Among the settings being studied, Double Deep Q-Network setting with Sharpe ratio as reward function is the best Q-learning trading system. With a daily trading goal, the system shows outperformed results in terms of cumulative return, volatility and execution time when compared with the Bayesian Optimization approach. This helps traders to make quick and efficient decisions with the latest information from the market. In long-term trading, Bayesian Optimization is a method of parameter optimization that brings higher profits. Deep Reinforcement Learning provides solutions to the high-dimensional problem of Bayesian Optimization in upcoming studies such as optimizing portfolios with multiple assets and diverse trading strategies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16010023"
+    },
+    {
+        "id": 15668,
+        "title": "ENSURE: A General Approach for Unsupervised Training of Deep Image Reconstruction Algorithms",
+        "authors": "Hemant Kumar Aggarwal, Aniket Pramanik, Maneesh John, Mathews Jacob",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmi.2022.3224359"
+    },
+    {
+        "id": 15669,
+        "title": "Integer optimization models and algorithms for the multi-period non-shareable resource allocation problem",
+        "authors": "Jongyoon Park, Jinil Han, Kyungsik Lee",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2024.03.027"
+    },
+    {
+        "id": 15670,
+        "title": "Accurate parameter identification of proton exchange membrane fuel cell models using different metaheuristic optimization algorithms",
+        "authors": "Hamdy M. Sultan, Ahmed S. Menesy, Mohammed Alqahtani, Muhammad Khalid, Ahmed A. Zaki Diab",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.egyr.2023.11.007"
+    },
+    {
+        "id": 15671,
+        "title": "Deep neural networks optimization for resource-constrained environments: techniques and models",
+        "authors": "Raafi Careem, Md Gapar Md Johar, Ali Khatibi",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "This paper aims to present a comprehensive review of advanced techniques and models with a specific focus on deep neural network (DNN) for resource-constrained environments (RCE). The paper contributes by highlighting the RCE devices, analyzing challenges, reviewing a broad range of optimization techniques and DNN models, and offering a comparative assessment. The findings provide potential optimization techniques and recommend a baseline model for future development. It encompasses a broad range of DNN optimization techniques, including network pruning, weight quantization, knowledge distillation, depthwise separable convolution, residual connections, factorization, dense connections, and compound scaling. Moreover, the review analyzes the established optimization models which utilizes the above optimization techniques. A comprehensive analysis is conducted for each technique and model, considering its specific attributes, usability, strengths, and limitations in the context of effective deployment in RCEs. The review also presents a comparative assessment of advanced DNN models’ deployment for image classification, employing key evaluation metrics such as accuracy and efficiency factors like memory and inference time. The article concludes with the finding that combining depthwise separable convolution, weight quantization, and pruning represents potential optimization techniques, while also recommending EfficientNetB1 as a baseline model for the future development of optimization models in RCE image classification.<p> </p>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijeecs.v33.i3.pp1843-1854"
+    },
+    {
+        "id": 15672,
+        "title": "Bridging the gap: Deep learning on seismic field data with synthetic training for building Gulf of Mexico velocity models",
+        "authors": "Stuart Farris, Robert Clapp",
+        "published": "2023-12-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/image2023-3905650.1"
+    },
+    {
+        "id": 15673,
+        "title": "On Training Deep-Learning Models for Removing Airborne-Particle Points From SPAD LiDAR Multiecho Point Clouds",
+        "authors": "Tzu-Hsien Sang, Yu-Chen Lin, Yu-Chan Hsiao",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lsens.2023.3307097"
+    },
+    {
+        "id": 15674,
+        "title": "Annotated dataset for training deep learning models to detect astrocytes in human brain tissue",
+        "authors": "Alex Olar, Teadora Tyler, Paulina Hoppa, Erzsébet Frank, István Csabai, Istvan Adorjan, Péter Pollner",
+        "published": "2024-1-19",
+        "citations": 0,
+        "abstract": "AbstractAstrocytes, a type of glial cell, significantly influence neuronal function, with variations in morphology and density linked to neurological disorders. Traditional methods for their accurate detection and density measurement are laborious and unsuited for large-scale operations. We introduce a dataset from human brain tissues stained with aldehyde dehydrogenase 1 family member L1 (ALDH1L1) and glial fibrillary acidic protein (GFAP). The digital whole slide images of these tissues were partitioned into 8730 patches of 500 × 500 pixels, comprising 2323 ALDH1L1 and 4714 GFAP patches at a pixel size of 0.5019/pixel, furthermore 1382 ADHD1L1 and 311 GFAP patches at 0.3557/pixel. Sourced from 16 slides and 8 patients our dataset promotes the development of tools for glial cell detection and quantification, offering insights into their density distribution in various brain areas, thereby broadening neuropathological study horizons. These samples hold value for automating detection methods, including deep learning. Derived from human samples, our dataset provides a platform for exploring astrocyte functionality, potentially guiding new diagnostic and treatment strategies for neurological disorders.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41597-024-02908-x"
+    },
+    {
+        "id": 15675,
+        "title": "Autonomous optimization of cutting conditions in end milling operation based on deep reinforcement learning (Offline training in simulation environment for feed rate optimization)",
+        "authors": "Kazuki KANEKO, Toshihiro KOMATSU, Libo ZHOU, Teppei ONUKI, Hirotaka OJIMA, Jun SHIMIZU",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1299/jamdsm.2023jamdsm0064"
+    },
+    {
+        "id": 15676,
+        "title": "Retracted: Evaluation Method of Public Physical Training Quality Based on Global Topology Optimization Deep Learning Model",
+        "authors": "",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9769846"
+    },
+    {
+        "id": 15677,
+        "title": "Entanglement Distillation Optimization Using Fuzzy Relations for Quantum State Tomography",
+        "authors": "Timothy Ganesan, Irraivan Elamvazuthi",
+        "published": "2023-6-25",
+        "citations": 0,
+        "abstract": "Practical entanglement distillation is a critical component in quantum information theory. Entanglement distillation is often utilized for designing quantum computer networks and quantum repeaters. The practical entanglement distillation problem is formulated as a bilevel optimization problem. A fuzzy formulation is introduced to estimate the quantum state (density matrix) from pseudo-likelihood functions (i.e., quantum state tomography). A scale-independent relationship between fuzzy relations in terms of the pseudo-likelihood functions is obtained. The entanglement distillation optimization problem is solved using the combined coupled map lattice and dual annealing approach. Comparative analysis of the results is then conducted against a standard dual annealing algorithmic implementation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16070313"
+    },
+    {
+        "id": 15678,
+        "title": "Portfolio Optimization with Multi-Objective Optimization Algorithms",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59287/as-ijanser.384"
+    },
+    {
+        "id": 15679,
+        "title": "On the Influence of Data Imbalance on Supervised Gaussian Mixture Models",
+        "authors": "Luca Scrucca",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "Imbalanced data present a pervasive challenge in many real-world applications of statistical and machine learning, where the instances of one class significantly outnumber those of the other. This paper examines the impact of class imbalance on the performance of Gaussian mixture models in classification tasks and establishes the need for a strategy to reduce the adverse effects of imbalanced data on the accuracy and reliability of classification outcomes. We explore various strategies to address this problem, including cost-sensitive learning, threshold adjustments, and sampling-based techniques. Through extensive experiments on synthetic and real-world datasets, we evaluate the effectiveness of these methods. Our findings emphasize the need for effective mitigation strategies for class imbalance in supervised Gaussian mixtures, offering valuable insights for practitioners and researchers in improving classification outcomes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16120563"
+    },
+    {
+        "id": 15680,
+        "title": "An Efficient Scheme for Optimization of Recognition Algorithms",
+        "authors": "Dr. Zahra Masouri, Dr. Saeed Hatamzadeh",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.5.0224.0514"
+    },
+    {
+        "id": 15681,
+        "title": "From Model-Based Optimization Algorithms to Deep Learning Models for Clustering Hyperspectral Images",
+        "authors": "Shaoguang Huang, Hongyan Zhang, Haijin Zeng, Aleksandra Pižurica",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "Hyperspectral images (HSIs), captured by different Earth observation airborne and space-borne systems, provide rich spectral information in hundreds of bands, enabling far better discrimination between ground materials that are often indistinguishable in visible and multi-spectral images. Clustering of HSIs, which aims to unveil class patterns in an unsupervised way, is highly important in the interpretation of HSI, especially when labelled data are not available. A number of HSI clustering methods have been proposed. Among them, model-based optimization algorithms, which learn the cluster structure of data by solving convex/non-convex optimization problems, have achieved the current state-of-the-art performance. Recent works extend the model-based algorithms to deep versions with deep neural networks, obtaining huge breakthroughs in clustering performance. However, a systematic survey on the topic is absent. This article provides a comprehensive overview of clustering methods of HSI and tracked the latest techniques and breakthroughs in the domain, including the traditional model-based optimization algorithms and the emerging deep learning based clustering methods. With a new taxonomy, we elaborated on the main ideas, technical details, advantages, and disadvantages of different types of clustering methods of HSIs. We provided a systematic performance comparison between different clustering methods by conducting extensive experiments on real HSIs. Unsolved problems and future research trends in the domain are pointed out. Moreover, we provided a toolbox that contains implementations of representative clustering algorithms to help researchers to develop their own models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15112832"
+    },
+    {
+        "id": 15682,
+        "title": "Optimization and Performance Evaluation of Hybrid Deep Learning Models for Traffic Flow Prediction",
+        "authors": "Sai Usha Goparaju, Rahul Biju, Pravalika M, Bhavana MC, Deepak Gangadharan, Bappaditya Mandal, Pradeep C",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vtc2023-spring57618.2023.10200600"
+    },
+    {
+        "id": 15683,
+        "title": "Implementation and optimization of Deep learning models for Musculoskeletal image classification for detection of Osteoporosis",
+        "authors": "Shubham Singh, Shubham Vats, Anupama Bhan, Numa Khan",
+        "published": "2023-6-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic2e357697.2023.10262590"
+    },
+    {
+        "id": 15684,
+        "title": "Deep learning models for multilabel ECG abnormalities classification: A comparative study using TPE optimization",
+        "authors": "Atiaf A. Rawi, Murtada K. Elbashir, Awadallah M. Ahmed",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "AbstractThe problem addressed in this study is the limitations of previous works that considered electrocardiogram (ECG) classification as a multiclass problem, despite many abnormalities being diagnosed simultaneously in real life, making it a multilabel classification problem. The aim of the study is to test the effectiveness of deep learning (DL)-based methods (Inception, MobileNet, LeNet, AlexNet, VGG16, and ResNet50) using three large 12-lead ECG datasets to overcome this limitation. The define-by-run technique is used to build the most efficient DL model using the tree-structured Parzen estimator (TPE) algorithm. Results show that the proposed methods achieve high accuracy and precision in classifying ECG abnormalities for large datasets, with the best results being 97.89% accuracy and 90.83% precision for the Ningbo dataset, classifying 42 classes for the Inception model; 96.53% accuracy and 85.67% precision for the PTB-XL dataset, classifying 24 classes for the Alex net model; and 95.02% accuracy and 70.71% precision for the Georgia dataset, classifying 23 classes for the Alex net model. The best results achieved for the optimum model that was proposed by the define-by-run technique were 97.33% accuracy and 97.71% precision for the Ningbo dataset, classifying 42 classes; 96.60% accuracy and 83.66% precision for the PTB-XL dataset, classifying 24 classes; and 94.32% accuracy and 66.97% precision for the Georgia dataset, classifying 23 classes. The proposed DL-based methods using the TPE algorithm provide accurate results for multilabel classification of ECG abnormalities, improving the diagnostic accuracy of heart conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/jisys-2023-0002"
+    },
+    {
+        "id": 15685,
+        "title": "Flood susceptibility mapping using AutoML and a deep learning framework with evolutionary algorithms for hyperparameter optimization",
+        "authors": "Amala Mary Vincent, Parthasarathy K.S.S., P. Jidesh",
+        "published": "2023-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110846"
+    },
+    {
+        "id": 15686,
+        "title": "A novel learning approach in deep spiking neural networks with multi-objective optimization algorithms for automatic digit speech recognition",
+        "authors": "Melika Hamian, Karim Faez, Soheila Nazari, Malihe Sabeti",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11227-023-05420-y"
+    },
+    {
+        "id": 15687,
+        "title": "Image Forgery Detection Based on Fusion of light weight Deep Learning Models",
+        "authors": "Dr.V. Pradeep,  S Samatha,  A Harika,  G Sweth,  U Keerthi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Image manipulation has increased in popularity as a result of the software that is readily available for altering photos. Since the altered photographs cannot be distinguished with the human eye, they are spreading on numerous platforms, causing confusion and spreading rumours.Researchers have been working on several methods for the more accurate detection of altered photographs as a result.Better accuracy is provided by neural networks' ability to extract intricate hidden properties from images. In contrast to conventional methods of counterfeit detection, a deep learning model automatically creates the necessary features; as a result, it has emerged as the newest field of study in image forgery.In this research, we suggest an approach for detecting image forgery that is fusion-based. SqueezeNet, MobileNetV2, and ShuffleNet—three compact deep learning models—are the foundation of the decision fusion.Two phases comprise the implementation of the fusion decision system. The evaluation of the forgeries of the photos begins with the pretrained weights of the lightweight deep learning models. The outcomes of the counterfeiting of the photos are compared with the pre-trained models using the ne-tuned weights, second.In comparison to state-of-the-art techniques, the experimental results show that the fusion-based decision strategy delivers higher accuracy.The paper initially discusses various types of image forgery techniques and later on compares different approaches involving neural networks to identify forged images",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36893/jnao.2023.v14i2.0128-0141"
+    },
+    {
+        "id": 15688,
+        "title": "When Simple Statistical Algorithms Outperform Deep Learning: A Case of Keystroke Dynamics",
+        "authors": "Ahmed Wahab, Daqing Hou",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011684100003411"
+    },
+    {
+        "id": 15689,
+        "title": "Correction: Harnessing the power of AI: Advanced deep learning models optimization for accurate SARS-CoV-2 forecasting",
+        "authors": "Muhammad Usman Tariq, Shuhaida Binti Ismail, Muhammad Babar, Ashir Ahmad",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0296111"
+    },
+    {
+        "id": 15690,
+        "title": "Low rank optimization for efficient deep learning: Making a balance between compact architecture and fast training",
+        "authors": "Ou Xinwei, Chen Zhangxin, Zhu Ce, Liu Yipeng",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/jsee.2023.000159"
+    },
+    {
+        "id": 15691,
+        "title": "Two adaptive nonmonotone trust-region algorithms for solving multiobjective optimization problems",
+        "authors": "Nasim Ghalavand, Esmaile Khorram, Vahid Morovati",
+        "published": "2023-7-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2234920"
+    },
+    {
+        "id": 15692,
+        "title": "Selection Of The Best Ship Route For Container Shipping Optimization Models Using Heuristic Algorithms",
+        "authors": "Jon Mangatas Budiarto Sirait, Gunawan Gunawan, Allessandro Setyo Anggito Utomo",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "The role of ships is very important for the world economy as a means of transporting goods both between countries and between islands. The selection of ship routes is very crucial in efforts to optimize fuel costs. Application of optimization, Genetic Algorithm and Ant Colony to solve the Asymetric Traveling Salesman Problem (ATSP) model with the minimum fuel cost objective function. This study aims to determine shipping routes for initial/final destinations with lower fuel costs. The results of research on the best route for container ships develop a Traveling Salesman Problem model for decision making for the design of maritime logistics networks with optimum operational costs. The Ant Colony algorithm provides 8 routes with lower fuel costs than the genetic algorithm and the genetic algorithm provides 2 routes with lower costs than the Ant Colony algorithm. This proves that the Ant Colony algorithm is more effective in determining ship routes with the lowest fuel costs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14710/kapal.v20i2.51642"
+    },
+    {
+        "id": 15693,
+        "title": "Intelligent Tourism Route Optimization Based on Teaching and Learning Optimization Algorithms",
+        "authors": "Chong Wang",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wconf58270.2023.10235189"
+    },
+    {
+        "id": 15694,
+        "title": "A Brain Storm and Chaotic Accelerated Particle Swarm Optimization Hybridization",
+        "authors": "Alkmini Michaloglou, Nikolaos L. Tsitsas",
+        "published": "2023-4-13",
+        "citations": 3,
+        "abstract": "Brain storm optimization (BSO) and particle swarm optimization (PSO) are two popular nature-inspired optimization algorithms, with BSO being the more recently developed one. It has been observed that BSO has an advantage over PSO regarding exploration with a random initialization, while PSO is more capable at local exploitation if given a predetermined initialization. The two algorithms have also been examined as a hybrid. In this work, the BSO algorithm was hybridized with the chaotic accelerated particle swarm optimization (CAPSO) algorithm in order to investigate how such an approach could serve as an improvement to the stand-alone algorithms. CAPSO is an advantageous variant of APSO, an accelerated, exploitative and minimalistic PSO algorithm. We initialized CAPSO with BSO in order to study the potential benefits from BSO’s initial exploration as well as CAPSO’s exploitation and speed. Seven benchmarking functions were used to compare the algorithms’ behavior. The chosen functions included both unimodal and multimodal benchmarking functions of various complexities and sizes of search areas. The functions were tested for different numbers of dimensions. The results showed that a properly tuned BSO–CAPSO hybrid could be significantly more beneficial over stand-alone BSO, especially with respect to computational time, while it heavily outperformed stand-alone CAPSO in the vast majority of cases.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040208"
+    },
+    {
+        "id": 15695,
+        "title": "Towards appropriate use of test phantoms in training deep learning models for mammographic image conversion",
+        "authors": "Zahra Ghanian, Andreu Badal, Nicholas A. Petrick, Berkman Sahiner",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2655377"
+    },
+    {
+        "id": 15696,
+        "title": "A Survey on Regularized Sparse Optimization Models and Algorithms",
+        "authors": "克林 程",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12677/airr.2023.123018"
+    },
+    {
+        "id": 15697,
+        "title": "Hybrid Metaheuristic Optimization Algorithms with Least-Squares Support Vector Machine and Boosted Regression Tree Models for Prediction of Air-Blast Due to Mine Blasting",
+        "authors": "Xiaohua Ding, Mahdi Hasanipanah, Dmitrii Vladimirovich Ulrikh",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11053-024-10329-1"
+    },
+    {
+        "id": 15698,
+        "title": "HYBRID PARTICLE SWARM OPTIMIZATION-GRAVITATIONAL SEARCH ALGORITHMS DEEP LEARNING NETWORKS TO SIMULTANEOUSLY PROJECT MULTIPLE CRUDE OIL PRICE",
+        "authors": "Samson Isaac, Barna Thomas Lass, Hajara Idris, Umar Miqdad Bello, Yusuf Kakangi Ibrahim",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The conventional linear econometric and statistical models are not effective for forecasting the nonlinear and complex nature of crude oil prices. Computational intelligence techniques and hybrid modelling principles have been proposed to address this issue. Multiple forecasts can be combined using linear or nonlinear methods to create an aggregate forecast. Currently, there is no study on the optimization of deep learning with a hybrid of gravitational search algorithm (GSA) and particle swarm optimization (PSO) for forecasting crude oil price benchmarks, including WTI, Brent, and Dubai. Additionally, most studies have focused only on using West Texas Intermediate (WTI) crude oil spot prices as their benchmark. A Bidirectional Long Short-Term Memory with hybrid gravitational search algorithm (GSA) and particle swarm optimization (PSO) to forecast Crude Oil prices is proposed. The proposed model outperformed FNNPSOGSA, FNNGA, LSTM and BiLSTM models with root mean square errors (RMSE) of 0.0029, 0.0011, and 0.0029, respectively. The proposed model is suited for Crude Oil forecasting.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26480/jtin.01.2023.22.28"
+    },
+    {
+        "id": 15699,
+        "title": "ADTBO: Aquila driving training-based optimization with deep learning for skin cancer detection",
+        "authors": "Vadamodula Prasad, Emil Selvan G. S. R., Ramkumar M. P.",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13682199.2023.2226894"
+    },
+    {
+        "id": 15700,
+        "title": "Harnessing the power of AI: Advanced deep learning models optimization for accurate SARS-CoV-2 forecasting",
+        "authors": "Muhammad Usman Tariq, Shuhaida Binti Ismail, Muhammad Babar, Ashir Ahmad",
+        "published": "2023-7-20",
+        "citations": 2,
+        "abstract": "The pandemic has significantly affected many countries including the USA, UK, Asia, the Middle East and Africa region, and many other countries. Similarly, it has substantially affected Malaysia, making it crucial to develop efficient and precise forecasting tools for guiding public health policies and approaches. Our study is based on advanced deep-learning models to predict the SARS-CoV-2 cases. We evaluate the performance of Long Short-Term Memory (LSTM), Bi-directional LSTM, Convolutional Neural Networks (CNN), CNN-LSTM, Multilayer Perceptron, Gated Recurrent Unit (GRU), and Recurrent Neural Networks (RNN). We trained these models and assessed them using a detailed dataset of confirmed cases, demographic data, and pertinent socio-economic factors. Our research aims to determine the most reliable and accurate model for forecasting SARS-CoV-2 cases in the region. We were able to test and optimize deep learning models to predict cases, with each model displaying diverse levels of accuracy and precision. A comprehensive evaluation of the models’ performance discloses the most appropriate architecture for Malaysia’s specific situation. This study supports ongoing efforts to combat the pandemic by offering valuable insights into the application of sophisticated deep-learning models for precise and timely SARS-CoV-2 case predictions. The findings hold considerable implications for public health decision-making, empowering authorities to create targeted and data-driven interventions to limit the virus’s spread and minimize its effects on Malaysia’s population.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0287755"
+    },
+    {
+        "id": 15701,
+        "title": "Self-Configuring Evolutionary Algorithms Based Design of Hybrid Interpretable Machine Learning Models",
+        "authors": "P. A. Sherstnev",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15405/epct.23021.38"
+    },
+    {
+        "id": 15702,
+        "title": "Smart grid power load type forecasting: research on optimization methods of deep learning models",
+        "authors": "Huadong Sun, Yonghao Ren, Shanshan Wang, Bing Zhao, Rui Yin",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "Introduction: In the field of power systems, power load type prediction is a crucial task. Different types of loads, such as domestic, industrial, commercial, etc., have different energy consumption patterns. Therefore, accurate prediction of load types can help the power system better plan power supply strategies to improve energy utilization and stability. However, this task faces multiple challenges, including the complex topology of the power system, the diversity of time series data, and the correlation between data. With the rapid development of deep learning methods, researchers are beginning to leverage these powerful techniques to address this challenge. This study aims to explore how to optimize deep learning models to improve the accuracy of load type prediction and provide support for efficient energy management and optimization of smart grids.Methods: In this study, we propose a deep learning method that combines graph convolutional networks (GCN) and sequence-to-sequence (Seq2Seq) models and introduces an attention mechanism. The methodology involves multiple steps: first, we use the GCN encoder to process the topological structure information of the power system and encode node features into a graph data representation. Next, the Seq2Seq decoder takes the historical time series data as the input sequence and generates a prediction sequence of the load type. We then introduced an attention mechanism, which allows the model to dynamically adjust its attention to input data and better capture the relationship between time series data and graph data.Results: We conducted extensive experimental validation on four different datasets, including the National Grid Electricity Load Dataset, the Canadian Electricity Load Dataset, the United States Electricity Load Dataset, and the International Electricity Load Dataset. Experimental results show that our method achieves significant improvements in load type prediction tasks. It exhibits higher accuracy and robustness compared to traditional methods and single deep learning models. Our approach demonstrates advantages in improving load type prediction accuracy, providing strong support for the future development of the power system.Discussion: The results of our study highlight the potential of deep learning techniques, specifically the combination of GCN and Seq2Seq models with attention mechanisms, in addressing the challenges of load type prediction in power systems. By improving prediction accuracy and robustness, our approach can contribute to more efficient energy management and the optimization of smart grids.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fenrg.2023.1321459"
+    },
+    {
+        "id": 15703,
+        "title": "Deep Error-Correcting Output Codes",
+        "authors": "Li-Na Wang, Hongxu Wei, Yuchen Zheng, Junyu Dong, Guoqiang Zhong",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "Ensemble learning, online learning and deep learning are very effective and versatile in a wide spectrum of problem domains, such as feature extraction, multi-class classification and retrieval. In this paper, combining the ideas of ensemble learning, online learning and deep learning, we propose a novel deep learning method called deep error-correcting output codes (DeepECOCs). DeepECOCs are composed of multiple layers of the ECOC module, which combines several incremental support vector machines (incremental SVMs) as base classifiers. In this novel deep architecture, each ECOC module can be considered as two successive layers of the network, while the incremental SVMs can be viewed as weighted links between two successive layers. In the pre-training procedure, supervisory information, i.e., class labels, can be used during the network initialization. The incremental SVMs lead this procedure to be very efficient, especially for large-scale applications. We have conducted extensive experiments to compare DeepECOCs with traditional ECOC, feature learning and deep learning algorithms. The results demonstrate that DeepECOCs perform, not only better than existing ECOC and feature learning algorithms, but also related to deep learning ones in most cases.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16120555"
+    },
+    {
+        "id": 15704,
+        "title": "A training strategy to improve the generalization capability of deep learning-based significant wave height prediction models in offshore China",
+        "authors": "Wenchao Huang, Xinying Zhao, Wenyun Huang, Wei Hao, Yuliang Liu",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.114938"
+    }
+]

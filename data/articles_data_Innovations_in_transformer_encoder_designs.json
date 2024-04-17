@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 22505,
+        "title": "Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder",
+        "authors": "Jingru Lin, Xianghu Yue, Junyi Ao, Haizhou Li",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-359"
+    },
+    {
+        "id": 22506,
+        "title": "HaloAE: A Local Transformer Auto-Encoder for Anomaly Detection and Localization Based on HaloNet",
+        "authors": "Emilie Mathian, Huidong Liu, Lynnette Fernandez-Cuesta, Dimitris Samaras, Matthieu Foll, Liming Chen",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011865900003417"
+    },
+    {
+        "id": 22507,
+        "title": "Design for Additive Manufacturing: Recent Innovations and Future Directions",
+        "authors": "Paul F. Egan",
+        "published": "2023-6-29",
+        "citations": 6,
+        "abstract": "Design for additive manufacturing (DfAM) provides a necessary framework for using novel additive manufacturing (AM) technologies for engineering innovations. Recent AM advances include shaping nickel-based superalloys for lightweight aerospace applications, reducing environmental impacts with large-scale concrete printing, and personalizing food and medical devices for improved health. Although many new capabilities are enabled by AM, design advances are necessary to ensure the technology reaches its full potential. Here, DfAM research is reviewed in the context of Fabrication, Generation, and Assessment phases that bridge the gap between AM capabilities and design innovations. Materials, processes, and constraints are considered during fabrication steps to understand AM capabilities for building systems with specified properties and functions. Design generation steps include conceptualization, configuration, and optimization to drive the creation of high-performance AM designs. Assessment steps are necessary for validating, testing, and modeling systems for future iterations and improvements. These phases provide context for discussing innovations in aerospace, automotives, construction, food, medicine, and robotics while highlighting future opportunities for design services, bio-inspired design, fabrication robots, and machine learning. Overall, DfAM has positively impacted diverse engineering applications, and further research has great potential for driving new developments in design innovation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs7040083"
+    },
+    {
+        "id": 22508,
+        "title": "Fully Transformer Detector with Multiscale Encoder and Dynamic Decoder",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18178/wcse.2023.06.016"
+    },
+    {
+        "id": 22509,
+        "title": "CT-γ-Net: A Hybrid Model based on Convolutional Encoder-Decoder and Transformer Encoder for Brain Tumor Localization",
+        "authors": "Punam Bedi, Ningyao Ningshen, Surbhi Rani, Pushkar Gole, Veenu Bhasin",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "Brain Tumor is a life-threatening disease, and its early diagnosis can save human life. Computer-Aided Brain Tumor Segmentation or Localization in Magnetic Resonance Imaging (MRI) images have emerged as pivotal approaches for expediting the disease diagnosis process. In the past few decades, various researchers combined the strengths of Convolutional Networks and Transformer to perform Brain Tumor Segmentation. However, these models require a large number of trainable weights parameters, and there is still scope for performance improvement in them. To bridge these research gaps, this paper proposes a novel hybrid model named “CT-γ-Net” for effective and efficient Brain Tumor Localization. The proposed CT-γ-Net model follows an Encoder-Decoder structure in which the Convolutional Encoder (CE) and Transformer Encoder (TE) are used for encoding, whereas the Convolutional Decoder (CD) is utilized for decoding the combined output of CE and TE to generate the segmentation masks. In CE and CD components of CT-γ-Net model conventional convolutional layers are replaced by Depth-Wise Separable convolutional layers, as these layers significantly reduce trainable weights parameters. The proposed model achieves 95.5% MeanIoU, 94.82% Dice Score, and 99.24% Pixel Accuracy on publicly available dataset named The Cancer Imaging Archive (TCIA). These experimental results demonstrate that the CT-γ-Net model outperformed other state-of-the-art research works, despite using roughly 28% fewer trainable weights parameters. Hence, the proposed model’s lightweight nature and its high performance, makes it a suitable candidate for deployment on mobile devices, facilitating the precise localization of brain tumor regions in MRI images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47852/bonviewjdsis42022514"
+    },
+    {
+        "id": 22510,
+        "title": "Dual Transformer Encoder Model for Medical Image Classification",
+        "authors": "Fangyuan Yan, Bin Yan, Mingtao Pei",
+        "published": "2023-10-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222303"
+    },
+    {
+        "id": 22511,
+        "title": "EEG Source Imaging based on a Transformer Encoder Network",
+        "authors": "Tongtong Zheng, Zijing Guan",
+        "published": "2023-2-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nnice58320.2023.10105793"
+    },
+    {
+        "id": 22512,
+        "title": "Knowledge Transfer Between Tasks and Languages in the Multi-task Encoder-agnostic Transformer-based Models",
+        "authors": "Dmitry Karpov,  , Vasily Konovalov",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "We explore the knowledge transfer in the simple multi-task encoder-agnostic transformer-based models on five dialog tasks: emotion classification, sentiment classification, toxicity classification, intent classification, and topic classification. We show that these mo dels’ accuracy differs from the analogous single-task models by ∼0.9%. These results hold for the multiple transformer backbones. At the same time, these models have the same backbone for all tasks, which allows them to have about 0.1% more parameters than any analogous single-task model and to support multiple tasks simultaneously. We also found that if we decrease the dataset size to a certain extent, multi-task models outperform singletask ones, especially on the smallest datasets. We also show that while training multilingual models on the Russian data, adding the English data from the same task to the training sample can improve model performance for the multi-task and single-task settings. The improvement can reach 4-5% if the Russian data are scarce enough. We have integrated these models to the DeepPavlov library and to the DREAM dialogue platform.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28995/2075-7182-2023-22-200-214"
+    },
+    {
+        "id": 22513,
+        "title": "CNN-Based Encoder and Transformer-Based Decoder for Efficient Semantic Segmentation",
+        "authors": "Seunghun Moon, Suk-ju Kang",
+        "published": "2024-1-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceic61013.2024.10457284"
+    },
+    {
+        "id": 22514,
+        "title": "Transformer with Multi-block Encoder for Multi-turn Dialogue Translation",
+        "authors": "Shih-Wen Ke, Yu-Cyuan Lin",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieem58616.2023.10406480"
+    },
+    {
+        "id": 22515,
+        "title": "Multi-Encoder Transformer for Korean Abstractive Text Summarization",
+        "authors": "Youhyun Shin",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3277754"
+    },
+    {
+        "id": 22516,
+        "title": "Attention Generative Adversarial Network with Transformer Encoder for Missing Sensor Time Series",
+        "authors": "Zeng-Song Xu, Song Ma, Tao Sun, Xi-Ming Sun",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450504"
+    },
+    {
+        "id": 22517,
+        "title": "TEAM: Transformer Encoder Attention Module for Video Classification",
+        "authors": "Hae Sung Park, Yong Suk Choi",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/csse.2023.043245"
+    },
+    {
+        "id": 22518,
+        "title": "Enhancing Real-Time Strategy Games via Transformer Encoder with Patch Embedding",
+        "authors": "Shaobo Hu, Wei Liu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csis-iac60628.2023.10363820"
+    },
+    {
+        "id": 22519,
+        "title": "Classification of Short-Interfering RNA Through Transformer Encoder Model",
+        "authors": "Rolando Pula, Maria Rejane Nepacina, Lorena Ilagan",
+        "published": "2024-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/restcon60981.2024.10463552"
+    },
+    {
+        "id": 22520,
+        "title": "Arabic Speech Recognition Based on Encoder-Decoder Architecture of Transformer",
+        "authors": " Mohanad Sameer,  Ahmed Talib,  Alla Hussein",
+        "published": "2023-3-21",
+        "citations": 2,
+        "abstract": "Recognizing and transcribing human speech has become an increasingly important task. Recently, researchers have been more interested in automatic speech recognition (ASR) using End to End models. Previous choices for the Arabic ASR architecture have been time-delay neural networks, recurrent neural networks (RNN), and long short-term memory (LSTM). Preview end-to-end approaches have suffered from slow training and inference speed because of the limitations of training parallelization, and they require a large amount of data to achieve acceptable results in recognizing Arabic speech This research presents an Arabic speech recognition based on a transformer encoder-decoder architecture with self-attention to transcribe Arabic audio speech segments into text, which can be trained faster with more efficiency. The proposed model exceeds the performance of previous end-to-end approaches when utilizing the Common Voice dataset from Mozilla. In this research, we introduced a speech-transformer model that was trained over 110 epochs using only 112 hours of speech. Although Arabic is considered one of the languages that are difficult to interpret by speech recognition systems, we achieved the best word error rate (WER) of 3.2 compared to other systems whose training requires a very large amount of data. The proposed system was evaluated on the common voice 8.0 dataset without using the language model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.51173/jt.v5i1.749"
+    },
+    {
+        "id": 22521,
+        "title": "Transformer Encoder for Efficient CAPTCHA Recognize",
+        "authors": "Yaoting Li, Haixia Pan, Huolong Ye, Jiayu Zheng",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cbase60015.2023.10439128"
+    },
+    {
+        "id": 22522,
+        "title": "Prediction of Remaining Useful Life of Rolling Bearings based on Transformer Encoder",
+        "authors": "Huan Zhan, Hongsheng Li, Xinfa Xiao",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itoec57671.2023.10291391"
+    },
+    {
+        "id": 22523,
+        "title": "TransVAT: Transformer Encoder with Variational Attention for Few-Shot Fault Diagnosis",
+        "authors": "Yifan Zhan, Rui Yang",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/safeprocess58597.2023.10295900"
+    },
+    {
+        "id": 22524,
+        "title": "Comparative Analysis of Pretrained Encoder-Decoder Transformer Models for Extreme Text Summarization",
+        "authors": "Tamma RajyaLakshmi, K.S. Kuppusamy",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacic59454.2023.10435363"
+    },
+    {
+        "id": 22525,
+        "title": "Transformer encoder with multiscale deep learning for pain classification using physiological signals",
+        "authors": "Zhenyuan Lu, Burcu Ozek, Sagar Kamarthi",
+        "published": "2023-12-6",
+        "citations": 1,
+        "abstract": "Pain, a pervasive global health concern, affects a large segment of population worldwide. Accurate pain assessment remains a challenge due to the limitations of conventional self-report scales, which often yield inconsistent results and are susceptible to bias. Recognizing this gap, our study introduces PainAttnNet, a novel deep-learning model designed for precise pain intensity classification using physiological signals. We investigate whether PainAttnNet would outperform existing models in capturing temporal dependencies. The model integrates multiscale convolutional networks, squeeze-and-excitation residual networks, and a transformer encoder block. This integration is pivotal for extracting robust features across multiple time windows, emphasizing feature interdependencies, and enhancing temporal dependency analysis. Evaluation of PainAttnNet on the BioVid heat pain dataset confirm the model’s superior performance over the existing models. The results establish PainAttnNet as a promising tool for automating and refining pain assessments. Our research not only introduces a novel computational approach but also sets the stage for more individualized and accurate pain assessment and management in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fphys.2023.1294577"
+    },
+    {
+        "id": 22526,
+        "title": "Acoustic Word Embedding Model with Transformer Encoder and Multivariate Joint Loss",
+        "authors": "Yunyun Gao, Qiang Zhang, Lasheng Zhao",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icwoc57905.2023.10199703"
+    },
+    {
+        "id": 22527,
+        "title": "Multi-scale cross-attention transformer encoder for event classification",
+        "authors": "A. Hammad, S. Moretti, M. Nojiri",
+        "published": "2024-3-26",
+        "citations": 0,
+        "abstract": "Abstract\nWe deploy an advanced Machine Learning (ML) environment, leveraging a multi-scale cross-attention encoder for event classification, towards the identification of the gg → H → hh → $$ b\\overline{b}b\\overline{b} $$\nb\n\nb\n¯\n\nb\n\nb\n¯\n\n process at the High Luminosity Large Hadron Collider (HL-LHC), where h is the discovered Standard Model (SM)-like Higgs boson and H a heavier version of it (with mH> 2mh). In the ensuing boosted Higgs regime, the final state consists of two fat jets. Our multi-modal network can extract information from the jet substructure and the kinematics of the final state particles through self-attention transformer layers. The diverse learned information is subsequently integrated to improve classification performance using an additional transformer encoder with cross-attention heads. We showcase that our approach surpasses current alternative methods used to establish sensitivity to this process in performance, whether solely based on kinematic analysis or combining this with mainstream ML approaches. Then, we employ various interpretive methods to evaluate the network results, including attention map analysis and visual representation of Gradient-weighted Class Activation Mapping (Grad-CAM). Finally, we note that the proposed network is generic and can be applied to analyse any process carrying information at different scales. Our code is publicly available for generic use (https://github.com/AHamamd150/Multi-Scale-Transformer-Encoder).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/jhep03(2024)144"
+    },
+    {
+        "id": 22528,
+        "title": "Techno-Economic Optimization of Radiator Configurations in Power Transformer Cooling",
+        "authors": "Aliihsan Koca, Oguzkan Senturk, Ömer Akbal, Hakan Özcan",
+        "published": "2024-2-2",
+        "citations": 1,
+        "abstract": "In this research, a numerical approach is created to assess the effective parameters of power transformer thermal management and, as a result, improve their cooling systems. This study analyzes the radiator’s thermal performance across several arrangements and optimizes the dimensions and configurations for varied cooling loads from a techno-economic perspective. The optimization criteria were the radiator’s height (L), fin spacing (D), and number of fins (N). Due to the great complexity of the generated models, the coupled thermo-hydraulic numerical simulations were carried out on a computer cluster. An in-house radiator test facility was constructed for the experiments in order to verify the numerical model. The simulation findings accord well with the empirically obtained values. A total of 76 radiator sets were investigated. Following that, the generated findings were used to perform an optimization analysis. Finally, the response surface method was used to establish an ideal radiator layout for the specified cooling capacity at the lowest possible cost. These findings reveal that the best cooling performance is obtained when the spacing between the fins is 50 mm. Cooling capacity per unit cost rises as radiator size decreases. The cost factor and geometric details were shown to have strong connections.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs8010015"
+    },
+    {
+        "id": 22529,
+        "title": "Movie genre prediction based on the bidirectional encoder representations from transformer",
+        "authors": "Lu Li, Jin Lin, Tongyu Li",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "The rapid expansion of digital media has underscored the growing significance of predicting genres to target audiences effectively and to enhance filmmakers' understanding of viewer preferences. In this study, we introduced a novel method for forecasting movie genres, leveraging the power of the Bidirectional Encoder Representations from Transformer (BERT) deep learning model. The research team employed a dataset sourced from Douban's website, which featured 5,000 movies, complete with cover images, titles, and genre information. This undertaking tackled several key challenges, including the extraction of features from textual data, the categorization of movie genres, and the incorporation of cultural nuances. BERT's bidirectional representation, especially its variant tailored for Chinese language tasks, 'bert-base-chinese', was employed to extract textual features. Meanwhile, the visual features from movie covers were processed using the Wide ResNet-50-2 architecture. The combined features underwent classification, and the resulting model achieved an accuracy of 34.67%, a recall rate of 74.5%, and an F1 score of 0.4755. The study validates the potential of the BERT model in predicting movie genres and offers significant insights for future research in multimedia content classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/47/20241383"
+    },
+    {
+        "id": 22530,
+        "title": "EMG-based 3D hand gesture prediction using transformer–encoder classification",
+        "authors": "Tahira Mahboob, Min Young Chung, Kae Won Choi",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.icte.2023.04.005"
+    },
+    {
+        "id": 22531,
+        "title": "T-EnFP: An Efficient Transformer Encoder-Based System for Driving Behavior Classification",
+        "authors": "Bin Guo, John H.L. Hansen",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448392"
+    },
+    {
+        "id": 22532,
+        "title": "AI-Generated Text Detector for Arabic Language Using Encoder-Based Transformer Architecture",
+        "authors": "Hamed Alshammari, Ahmed El-Sayed, Khaled Elleithy",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "The effectiveness of existing AI detectors is notably hampered when processing Arabic texts. This study introduces a novel AI text classifier designed specifically for Arabic, tackling the distinct challenges inherent in processing this language. A particular focus is placed on accurately recognizing human-written texts (HWTs), an area where existing AI detectors have demonstrated significant limitations. To achieve this goal, this paper utilized and fine-tuned two Transformer-based models, AraELECTRA and XLM-R, by training them on two distinct datasets: a large dataset comprising 43,958 examples and a custom dataset with 3078 examples that contain HWT and AI-generated texts (AIGTs) from various sources, including ChatGPT 3.5, ChatGPT-4, and BARD. The proposed architecture is adaptable to any language, but this work evaluates these models’ efficiency in recognizing HWTs versus AIGTs in Arabic as an example of Semitic languages. The performance of the proposed models has been compared against the two prominent existing AI detectors, GPTZero and OpenAI Text Classifier, particularly on the AIRABIC benchmark dataset. The results reveal that the proposed classifiers outperform both GPTZero and OpenAI Text Classifier with 81% accuracy compared to 63% and 50% for GPTZero and OpenAI Text Classifier, respectively. Furthermore, integrating a Dediacritization Layer prior to the classification model demonstrated a significant enhancement in the detection accuracy of both HWTs and AIGTs. This Dediacritization step markedly improved the classification accuracy, elevating it from 81% to as high as 99% and, in some instances, even achieving 100%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/bdcc8030032"
+    },
+    {
+        "id": 22533,
+        "title": "Video Anomaly Detection Using Encoder-Decoder Networks with Video Vision Transformer and Channel Attention Blocks",
+        "authors": "Shimpei Kobayashi, Akiyoshi Hizukuri, Ryohei Nakayama",
+        "published": "2023-7-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/mva57639.2023.10215921"
+    },
+    {
+        "id": 22534,
+        "title": "Optimized vision transformer encoder with cnn for automatic psoriasis disease detection",
+        "authors": "Gagan Vishwakarma, Amit Kumar Nandanwar, Ghanshyam Singh Thakur",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16871-z"
+    },
+    {
+        "id": 22535,
+        "title": "Spatially augmented guided sequence-based bidirectional encoder representation from transformer networks for hyperspectral classification studies",
+        "authors": "Yuanyuan Zhang, Wenxing Bao, Hongbo Liang, Yanbo Sun",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.oe.62.10.103103"
+    },
+    {
+        "id": 22536,
+        "title": "Enhanced transformer encoder and hybrid cascaded upsampler for medical image segmentation",
+        "authors": "Chaoqun Li, Liejun Wang, Shuli Cheng",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121965"
+    },
+    {
+        "id": 22537,
+        "title": "Designing Power Transformer Using Particle Swarm Optimization with Respect to Transformer Noise, Weight, and Losses",
+        "authors": "Wahyudi Budi Pramono, Fransisco Danang Wijaya, Sasongko Pramono Hadi, Moh. Slamet Wahyudi, Agus Indarto",
+        "published": "2023-2-10",
+        "citations": 2,
+        "abstract": "The increased use of electrical energy will encourage the installation of more power transformers in residential areas as well as in industrial areas. Each power transformer, in its operation, will generate noise that can interfere with comfort and, at some level, cause health problems. The design of the power transformer currently focuses on optimizing its economic side, so noise has not been considered at this design stage. This research is about optimizing the low noise transformer design. The main goal is to obtain a low noise power transformer with low production costs. The method used in this optimization is particle swarm optimization with a multi-objective function. The objective function consists of the minimization of load noise, core weight, and winding weight. In this study, 11 optimized variables were used. Some variables that are optimized must be in the form of integers. Therefore, the optimization process needs a mechanism for mapping variables. The results showed that a low noise power transformer could be designed at optimal cost. Design validation was performed analytically and numerically with COMSOL software. The optimization results showed a decrease in load noise, core, and winding weight by 0.86 dB, 2.12%, and 47.46%, respectively. The results of this optimization are better than the designs used regularly in the industry.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs7010031"
+    },
+    {
+        "id": 22538,
+        "title": "DECTNet: Dual Encoder Network combined convolution and Transformer architecture for medical image segmentation",
+        "authors": "Boliang Li, Yaming Xu, Yan Wang, Bo Zhang",
+        "published": "2024-4-4",
+        "citations": 0,
+        "abstract": "Automatic and accurate segmentation of medical images plays an essential role in disease diagnosis and treatment planning. Convolution neural networks have achieved remarkable results in medical image segmentation in the past decade. Meanwhile, deep learning models based on Transformer architecture also succeeded tremendously in this domain. However, due to the ambiguity of the medical image boundary and the high complexity of physical organization structures, implementing effective structure extraction and accurate segmentation remains a problem requiring a solution. In this paper, we propose a novel Dual Encoder Network named DECTNet to alleviate this problem. Specifically, the DECTNet embraces four components, which are a convolution-based encoder, a Transformer-based encoder, a feature fusion decoder, and a deep supervision module. The convolutional structure encoder can extract fine spatial contextual details in images. Meanwhile, the Transformer structure encoder is designed using a hierarchical Swin Transformer architecture to model global contextual information. The novel feature fusion decoder integrates the multi-scale representation from two encoders and selects features that focus on segmentation tasks by channel attention mechanism. Further, a deep supervision module is used to accelerate the convergence of the proposed method. Extensive experiments demonstrate that, compared to the other seven models, the proposed method achieves state-of-the-art results on four segmentation tasks: skin lesion segmentation, polyp segmentation, Covid-19 lesion segmentation, and MRI cardiac segmentation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0301019"
+    },
+    {
+        "id": 22539,
+        "title": "Camera-Lidar fusion algorithm formed by fast sparse encoder and transformer decoder",
+        "authors": "W. Chen, S. Chen, L. X. Chen, J. Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/icp.2023.2945"
+    },
+    {
+        "id": 22540,
+        "title": "Conservative Q-Learning for Mechanical Ventilation Treatment Using Diagnose Transformer-Encoder",
+        "authors": "Yuyu Yuan, Jinsheng Shi, Jincui Yang, Chenlong Li, Yuang Cai, Baoyu Tang",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385663"
+    },
+    {
+        "id": 22541,
+        "title": "Improving Arabic Named Entity Recognition with a Modified Transformer Encoder",
+        "authors": "Hamid Sadeq Mahdi Alsultani, Ahmed H. Aliwy",
+        "published": "2023-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3844/jcssp.2023.599.609"
+    },
+    {
+        "id": 22542,
+        "title": "SwinE-UNet3+: swin transformer encoder network for medical image segmentation",
+        "authors": "Ping Zou, Jian-Sheng Wu",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13748-023-00300-1"
+    },
+    {
+        "id": 22543,
+        "title": "MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation",
+        "authors": "Rezaul Karim, He Zhao, Richard P. Wildes, Mennatullah Siam",
+        "published": "2023-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvpr52729.2023.00612"
+    },
+    {
+        "id": 22544,
+        "title": "Explainable Encoder-Decoder Crack Segmentation: Convolutional Network Vs. Transformer",
+        "authors": "Zaid Al-Huda, Mugahed A. Al-antari, Bo Peng, Radhwan A.A. Saleh",
+        "published": "2023-10-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esmarta59349.2023.10293616"
+    },
+    {
+        "id": 22545,
+        "title": "Traffic Accident Detection Using Background Subtraction and CNN Encoder–Transformer Decoder in Video Frames",
+        "authors": "Yihang Zhang, Yunsick Sung",
+        "published": "2023-6-27",
+        "citations": 3,
+        "abstract": "Artificial intelligence plays a significant role in traffic-accident detection. Traffic accidents involve a cascade of inadvertent events, making traditional detection approaches challenging. For instance, Convolutional Neural Network (CNN)-based approaches cannot analyze temporal relationships among objects, and Recurrent Neural Network (RNN)-based approaches suffer from low processing speeds and cannot detect traffic accidents simultaneously across multiple frames. Furthermore, these networks dismiss background interference in input video frames. This paper proposes a framework that begins by subtracting the background based on You Only Look Once (YOLOv5), which adaptively reduces background interference when detecting objects. Subsequently, the CNN encoder and Transformer decoder are combined into an end-to-end model to extract the spatial and temporal features between different time points, allowing for a parallel analysis between input video frames. The proposed framework was evaluated on the Car Crash Dataset through a series of comparison and ablation experiments. Our framework was benchmarked against three accident-detection models to evaluate its effectiveness, and the proposed framework demonstrated a superior accuracy of approximately 96%. The results of the ablation experiments indicate that when background subtraction was not incorporated into the proposed framework, the values of all evaluation indicators decreased by approximately 3%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11132884"
+    },
+    {
+        "id": 22546,
+        "title": "Classification of Abnormal Cardiac Rhythm from Brief Single-Lead ECG Recordings using Embeddings from Transformer Encoder Models",
+        "authors": "B.S. Utkars Jain, Prahlad G Menon",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385454"
+    },
+    {
+        "id": 22547,
+        "title": "Transformer Encoder Model for Sequential Prediction of Student Performance Based on Their Log Activities",
+        "authors": "Sri Suning Kusumawardani, Syukron Abu Ishaq Alfarozi",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3246122"
+    },
+    {
+        "id": 22548,
+        "title": "Multi-task peer-to-peer learning using an encoder-only transformer model",
+        "authors": "Robert Šajina, Nikola Tanković, Ivo Ipšić",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.future.2023.11.006"
+    },
+    {
+        "id": 22549,
+        "title": "Traffic Flow Prediction Based on Transformer and Multi-Spatial-Temporal Encoder-Decoder",
+        "authors": "Yidi Zhang, Xiang Gu",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccea58433.2023.10135489"
+    },
+    {
+        "id": 22550,
+        "title": "A Multitask Electronic Nose Data Processing Model Based on Transformer Encoder",
+        "authors": "Zilong Feng, Fan Wu, Linju Zhao",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jsen.2023.3348514"
+    },
+    {
+        "id": 22551,
+        "title": "Enhancer Recognition: A Transformer Encoder-Based Method with WGAN-GP for Data Augmentation",
+        "authors": "Tianyu Feng, Tao Hu, Wenyu Liu, Yang Zhang",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "Enhancers are located upstream or downstream of key deoxyribonucleic acid (DNA) sequences in genes and can adjust the transcription activity of neighboring genes. Identifying enhancers and determining their functions are important for understanding gene regulatory networks and expression regulatory mechanisms. However, traditional enhancer recognition relies on manual feature engineering, which is time-consuming and labor-intensive, making it difficult to perform large-scale recognition analysis. In addition, if the original dataset is too small, there is a risk of overfitting. In recent years, emerging methods, such as deep learning, have provided new insights for enhancing identification. However, these methods also present certain challenges. Deep learning models typically require a large amount of high-quality data, and data acquisition demands considerable time and resources. To address these challenges, in this paper, we propose a data-augmentation method based on generative adversarial networks to solve the problem of small datasets. Moreover, we used regularization methods such as weight decay to improve the generalizability of the model and alleviate overfitting. The Transformer encoder was used as the main component to capture the complex relationships and dependencies in enhancer sequences. The encoding layer was designed based on the principle of k-mers to preserve more information from the original DNA sequence. Compared with existing methods, the proposed approach made significant progress in enhancing the accuracy and strength of enhancer identification and prediction, demonstrating the effectiveness of the proposed method. This paper provides valuable insights for enhancer analysis and is of great significance for understanding gene regulatory mechanisms and studying disease correlations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ijms242417548"
+    },
+    {
+        "id": 22552,
+        "title": "Dealing with Unreliable Annotations: A Noise-Robust Network for Semantic Segmentation through A Transformer-Improved Encoder and Convolution Decoder",
+        "authors": "Ziyang Wang, Irina Voiculescu",
+        "published": "2023-7-7",
+        "citations": 2,
+        "abstract": "Conventional deep learning methods have shown promising results in the medical domain when trained on accurate ground truth data. Pragmatically, due to constraints like lack of time or annotator inexperience, the ground truth data obtained from clinical environments may not always be impeccably accurate. In this paper, we investigate whether the presence of noise in ground truth data can be mitigated. We propose an innovative and efficient approach that addresses the challenge posed by noise in segmentation labels. Our method consists of four key components within a deep learning framework. First, we introduce a Vision Transformer-based modified encoder combined with a convolution-based decoder for the segmentation network, capitalizing on the recent success of self-attention mechanisms. Second, we consider a public CT spine segmentation dataset and devise a preprocessing step to generate (and even exaggerate) noisy labels, simulating real-world clinical situations. Third, to counteract the influence of noisy labels, we incorporate an adaptive denoising learning strategy (ADL) into the network training. Finally, we demonstrate through experimental results that the proposed method achieves noise-robust performance, outperforming existing baseline segmentation methods across multiple evaluation metrics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13137966"
+    },
+    {
+        "id": 22553,
+        "title": "Ensemble of ghost convolution block with nested transformer encoder for dense object recognition",
+        "authors": "Ponduri Vasanthi, Laavanya Mohan",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bspc.2023.105645"
+    },
+    {
+        "id": 22554,
+        "title": "DE-AE: A Dual-Encoder-Based Auto-encoder Framework with Improved Transformer for Anomaly Detection in Medical Imaging",
+        "authors": "Shuai Lu, Weihang Zhang, Lijun Jiang, Huiqi Li",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241406"
+    },
+    {
+        "id": 22555,
+        "title": "STr-GCN: Dual Spatial Graph Convolutional Network and Transformer Graph Encoder for 3D Hand Gesture Recognition",
+        "authors": "Rim Slama, Wael Rabah, Hazem Wannous",
+        "published": "2023-1-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fg57933.2023.10042643"
+    },
+    {
+        "id": 22556,
+        "title": "‘Waste to Wealth, Art of Reuse’- Learnings from Innovations in Urban Public Space Designs",
+        "authors": "Dakshayini R Patil,  ",
+        "published": "2023-4-25",
+        "citations": 1,
+        "abstract": "The paper aims to explore innovations in architecture & urban design (UD) of public spaces executed with materials created out of waste products to demonstrate concepts of circular principles as exemplar to the society at large. Focus on designing public spaces is to showcase- firstly, immediate need to address waste crisis; secondly, ways by which recycled waste can be adopted as a mainstream attitude. Trash need not be abused in landfills, rather can become input for production. Study objectives dwell in addressing developing countries, where paradigm of ‘Waste to Wealth’ becomes one of the fundamental criteria for emerging as Smart cities. Once civic spaces attribute responsibility to the impending environmental crisis, momentum gains at grassroot-community level as public spaces bear more visibility & appeal. Need for industrial ‘re-revolution’ is sensed to reverse the negative impacts and encourage upcycling culture with efficient management of Municipal solid waste (MSW) which forms largest component of a city’s waste-output. This study discusses theories and case studies which adopted MSW in innovative ways under two broad objectives of design- aesthetics and functionality. Highlight will be on Zero-waste economical urban initiatives to enhance imagery. The study derives a ‘Toolkit for public space design’ using MSW as framework for UD schemes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24321/2456.9925.202302"
+    },
+    {
+        "id": 22557,
+        "title": "Ensemble and Transformer Encoder-based Models for the Cervical Cancer Classification Using Pap-smear Images",
+        "authors": "Maysoon Alzahrani, Usman Ali Khan, Sultan Al-Garni",
+        "published": "2024-4-4",
+        "citations": 0,
+        "abstract": "Cervical cancer poses a health concern for women globally ranking as the seventh most common disease and the fourth most frequent cancer among women. The classification of cytopathology images is utilized in diagnosing this condition with a focus on automating the process due to potential human errors in manual examinations. This study presents an approach that integrates transfer learning, ensemble learning and a transformer encoder to classify cervical cancer using pap-smear images from the SIPaKMeD dataset. By combining these methods human involvement in the classification task is minimized. Initially individual models based on transfer learning are. Their unique characteristics are combined to create an ensemble model. This ensemble model is then input into the proposed transformer encoder specifically utilizing the Vision Transformer (ViT) model. The results highlight the effectiveness of this methodology. The VGG16 model demonstrates accuracy of 97.04% and an F1 score of 97.06% when applied to classifying five categories using the SIPaKMeD dataset. However surpassing this performance is the learning model, with an accuracy of 97.37%. Notably outperforming all models is the transformer encoder model achieving an accuracy of 97.54%.Through the utilization of transfer learning, ensemble learning and the transformer encoder model this research introduces a method, for automating the classification of cervical cancer. The findings underscore the capability of the suggested approach to enhance the precision and effectiveness of diagnosing cancer.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.1470"
+    },
+    {
+        "id": 22558,
+        "title": "SPTESleepNet: Automatic Sleep Staging Model Based On Strip Patch Embeddings And Transformer Encoder",
+        "authors": "Xiao Chen, Xiaokun Dai, Xueli Liu, Xinrong Chen",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10446216"
+    },
+    {
+        "id": 22559,
+        "title": "SpATr: MoCap 3D human action recognition based on spiral auto-encoder and transformer network",
+        "authors": "Hamza Bouzid, Lahoucine Ballihi",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cviu.2024.103974"
+    },
+    {
+        "id": 22560,
+        "title": "Fracture Extraction From Logging Image Using a Dual Encoder-Decoder Architecture With Swin Transformer",
+        "authors": "",
+        "published": "2023-2-1",
+        "citations": 1,
+        "abstract": "Imaging logging is a method of imaging the physical parameters of the borehole wall or the objects around the borehole according to the observation of the geophysical field in the borehole. Imaging logging data can determine the dip angle and structural characteristics of the formation and observe the geometry and development degree of fractures. The performance of existing target segmentation networks relies on large volumes of data. However, logging images are expensive to acquire, so how to effectively extract fractures from small samples of logging images is an urgent problem to be solved. Therefore, we developed a dual encoder-decoder structure using the Swin Transformer, which uses the self-attention mechanism of a hierarchical Vision Transformer with shifted window to model the remote context information. It can overcome the limitations of most convolutional neural network-based methods that cannot establish long-term dependencies and global contextual connections in convolutional operations. In addition, the shifted window mechanism substantially improves the computational efficiency of the model, and the hierarchical structure allows flexibility in modeling at different scales. At the same time, skip connections are established between adjacent layers of the structure, and the higher-level feature maps are stitched with the lower-level feature maps in channel dimensions, which can obtain more high-resolution detail information of fractures, and thus improve the segmentation accuracy. The experimental results show that the performance is better than the mainstream segmentation networks under small training sets of logging images. The effectiveness of our method reveals that it is practical in fracture extraction of logging images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30632/pjv64n1-2023a3"
+    },
+    {
+        "id": 22561,
+        "title": "A Swin Transformer Encoder-Based StyleGAN for Unbalanced Endoscopic Image Enhancement",
+        "authors": "Bo Deng, Xiangwei Zheng, Xuanchi Chen, Mingzhe Zhang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2024.108472"
+    },
+    {
+        "id": 22562,
+        "title": "AN EFFECTIVE ABSTRACT TEXT SUMMARIZATION USING SHARK SMELL OPTIMIZED BIDIRECTIONAL ENCODER REPRESENTATIONS FROM TRANSFORMER",
+        "authors": "Nafees Muneera, P. Sriramya",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbidm.2023.10047979"
+    },
+    {
+        "id": 22563,
+        "title": "Mental Illness Prediction by Refined-Attention Transformer Encoder with Mental RoBERTa",
+        "authors": "Oscal Tzyh-Chiang Chen, Wen-Chao Huang, Chun-Hsiang Chang",
+        "published": "2023-7-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icce-taiwan58799.2023.10226890"
+    },
+    {
+        "id": 22564,
+        "title": "Feature Analysis for Sequential Recommender Systems Using Transformer-Based Architectures",
+        "authors": "Emre Boran, Tunga Güngör",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asyu58738.2023.10296691"
+    },
+    {
+        "id": 22565,
+        "title": "Gender Recognizer Based on Human Face using CNN and Bottleneck Transformer Encoder",
+        "authors": "Adri Priadana, Muhamad Dwisnanto Putro, Jinsu An, Duy-Linh Nguyen, Xuan-Thuy Vo, Kang-Hyun Jo",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iwis58789.2023.10284684"
+    },
+    {
+        "id": 22566,
+        "title": "Generating metainferences in mixed methods research: A worked example in convergent mixed methods designs",
+        "authors": "Ahtisham Younas, Sergi Fàbregues, John W Creswell",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " Metainferences, or the insights derived from integrating quantitative and qualitative inferences at the end of a study, are crucial for achieving added value and synergy in mixed methods research. There is an ongoing need to understand how researchers generate metainferences, especially considering their pivotal role in helping researchers achieve full quantitative and qualitative integration. While some examples of metainferences generation are available in the mixed methods literature, more explicit guidance is required. Approaches to developing metainferences must also be contextual, as inferences of this type are contingent on the nature and purpose of the mixed methods study, the type of mixed methods design, and the quality of the research data. This paper describes a seven-step process for generating metainferences using a convergent mixed methods study as an exemplar. These steps consist of identifying knowledge, experience, and data-driven inferences from the quantitative and qualitative data; developing inference association maps to draw metainferences; and assessing the validity of metainferences using backward working heuristics. This paper contributes to mixed methods research by shedding light on the development of metainferences in convergent designs and by providing practical and tangible tools for making sense of the complexity of the analysis and interpretation tasks involved in the process of generating metainferences. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/20597991231188121"
+    },
+    {
+        "id": 22567,
+        "title": "Improved Pest-YOLO: Real-time pest detection based on efficient channel attention mechanism and transformer encoder",
+        "authors": "Zhe Tang, Jiajia Lu, Zhengyun Chen, Fang Qi, Lingyan Zhang",
+        "published": "2023-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ecoinf.2023.102340"
+    },
+    {
+        "id": 22568,
+        "title": "Transformer Encoder with Protein Language Model for Protein Secondary Structure Prediction",
+        "authors": "Ammar Kazm, Aida Ali, Haslina Hashim",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "In bioinformatics, protein secondary structure prediction plays a significant role in understanding protein function and interactions. This study presents the TE_SS approach, which uses a transformer encoder-based model and the Ankh protein language model to predict protein secondary structures. The research focuses on the prediction of nine classes of structures, according to the Dictionary of Secondary Structure of Proteins (DSSP) version 4. The model's performance was rigorously evaluated using various datasets. Additionally, this study compares the model with the state-of-the-art methods in the prediction of eight structure classes. The findings reveal that TE_SS excels in nine- and three-class structure predictions while also showing remarkable proficiency in the eight-class category. This is underscored by its performance in Qs and SOV evaluation metrics, demonstrating its capability to discern complex protein sequence patterns. This advancement provides a significant tool for protein structure analysis, thereby enriching the field of bioinformatics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48084/etasr.6855"
+    },
+    {
+        "id": 22569,
+        "title": "Integrating Heterogeneous Graphs Using Graph Transformer Encoder for Solving Math Word Problems",
+        "authors": "Soyun Shin, Jaehui Park, Moonwook Ryu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3257571"
+    },
+    {
+        "id": 22570,
+        "title": "ANALISIS SENTIMEN ULASAN PENGGUNA APLIKASI JOOX PADA ANDROID MENGGUNAKAN METODE BIDIRECTIONAL ENCODER REPRESENTATION FROM TRANSFORMER (BERT)",
+        "authors": "Jahfal Uno Surya Lazuardi, Asep Juarna",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Analisis sentimen, disebut juga opinion mining, adalah salah satu teknik dalam mengekstrak informasi orientasi sentimen masyarakat terhadap suatu isu atau kejadian. JOOX adalah sebuah aplikasi penyedia layanan streaming musik daring yang banyak digunakan orang karena keunggulannya dalam menyediakan musik dengan kualitas yang baik. Para pengguna JOOX melalui android dapat memberikan komentar tentang aplikasi ini melalui platform Google Playstore. Analisis sentimen terhadap aplikasi JOOX ini dilakukan dengan menambahkan tahap pra-pelatihan menggunakan metode Bidirectional Encoder Representations from Transformers (BERT) pada rangkaian tahapan klasifikasi komentar menjadi sentimen positif, netral, dan negatif. Komputasi dilakukan dengan menggunakan bahasa pemrograman Python. Komputasi mnggunakan 10.000 data, yaitu 10.000 komentar, di mana 7.000 data dijadikan data latih, 2.010 sebagai data validasi, dan 990 data sebagai data uji. Skor dihitung dengan mengkombinasikan akurasi baseline dengan skore recall yang memberikan akurasi F1-score. Hasil analisis sentimen adalah 41,92% true (sentimen) positif, 1,01% true netral, dan 35,95% true negatif, semuanya dari 990 data uji, dengan akurasi F1-score berturut-turut 86%, 51%, dan 76% sementara akurasi baseline adalah 83%, 79%, dan 75%, yang berarti ada peningkatan akurasi true positif sebesar 3,6% dan true negatif sebesar 1,3%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35760/ik.2023.v28i3.10090"
+    },
+    {
+        "id": 22571,
+        "title": "An effective abstract text summarisation using shark smell optimised bidirectional encoder representations from transformer",
+        "authors": "M. Nafees Muneera, P. Sriramya",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbidm.2023.131796"
+    },
+    {
+        "id": 22572,
+        "title": "Browser fingerprint linking based on transformer-encoder model",
+        "authors": "Yun Tan, Xiaoyong Li, Xiaotian Si, Linghui Li, Yali Gao, Jie Yuan",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2683201"
+    },
+    {
+        "id": 22573,
+        "title": "Analysis of Public Opinion on Public Transportation in Bandung and Jakarta in Twitter using Indonesian Bidirectional Encoder Representations from Transformer",
+        "authors": "Dionisius Pratama, Saiful Akbar",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iaict59002.2023.10205608"
+    },
+    {
+        "id": 22574,
+        "title": "HMT-Net: Transformer and MLP Hybrid Encoder for Skin Disease Segmentation",
+        "authors": "Sen Yang, Liejun Wang",
+        "published": "2023-3-13",
+        "citations": 2,
+        "abstract": "At present, convolutional neural networks (CNNs) have been widely applied to the task of skin disease image segmentation due to the fact of their powerful information discrimination abilities and have achieved good results. However, it is difficult for CNNs to capture the connection between long-range contexts when extracting deep semantic features of lesion images, and the resulting semantic gap leads to the problem of segmentation blur in skin lesion image segmentation. In order to solve the above problems, we designed a hybrid encoder network based on transformer and fully connected neural network (MLP) architecture, and we call this approach HMT-Net. In the HMT-Net network, we use the attention mechanism of the CTrans module to learn the global relevance of the feature map to improve the network’s ability to understand the overall foreground information of the lesion. On the other hand, we use the TokMLP module to effectively enhance the network’s ability to learn the boundary features of lesion images. In the TokMLP module, the tokenized MLP axial displacement operation strengthens the connection between pixels to facilitate the extraction of local feature information by our network. In order to verify the superiority of our network in segmentation tasks, we conducted extensive experiments on the proposed HMT-Net network and several newly proposed Transformer and MLP networks on three public datasets (ISIC2018, ISBI2017, and ISBI2016) and obtained the following results. Our method achieves 82.39%, 75.53%, and 83.98% on the Dice index and 89.35%, 84.93%, and 91.33% on the IOU. Compared with the latest skin disease segmentation network, FAC-Net, our method improves the Dice index by 1.99%, 1.68%, and 1.6%, respectively. In addition, the IOU indicators have increased by 0.45%, 2.36%, and 1.13%, respectively. The experimental results show that our designed HMT-Net achieves state-of-the-art performance superior to other segmentation methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23063067"
+    },
+    {
+        "id": 22575,
+        "title": "Fake news detection using a deep learning transformer based encoder-decoder architecture",
+        "authors": "M. Badri Narayanan, Arun Kumar Ramesh, K.S. Gayathri, A. Shahina",
+        "published": "2023-11-4",
+        "citations": 0,
+        "abstract": "Fake news production, accessibility, and consumption have all increased with the rise of internet-connected gadgets and social media platforms. A good fake news detection system is essential because the news readers receive can affect their opinions. Several works on fake news detection have been done using machine learning and deep learning approaches. Recently, the deep learning approach has been preferred over machine learning because of its ability to comprehend the intricacies of textual data. The introduction of transformer architecture changed the NLP paradigm and distinguished itself from recurrent models by enabling the processing of sentences as a whole rather than word by word. The attention mechanisms introduced in Transformers allowed them to understand the relationship between far-apart tokens in a sentence. Numerous deep learning works on fake news detection have been published by focusing on different features to determine the authenticity of a news source. We performed an extensive analysis of the comprehensive NELA-GT 2020 dataset, which revealed that the title and content of a news source contain discernible information critical for determining its integrity. To this objective, we introduce ‘FakeNews Transformer’ — a specialized Transformer-based architecture that considers the news story’s title and content to assess its veracity. Our proposed work achieved an accuracy of 74.0% on a subset of the NELA-GT 2020 dataset. To our knowledge, FakeNews Transformer is the first published work that considers both title and content for evaluating a news article; thus, we compare the performance of our work against two BERT and two LSTM models working independently on title and content. Our work outperformed the BERT and LSTM models working independently on title by 7.6% and 9.6%, while performing better than the BERT and LSTM models working independently on content by 8.9% and 10.5%, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-223980"
+    },
+    {
+        "id": 22576,
+        "title": "MixSynthFormer: A Transformer Encoder-like Structure with Mixed Synthetic Self-attention for Efficient Human Pose Estimation",
+        "authors": "Yuran Sun, Alan William Dougherty, Zhuoying Zhang, Yi King Choi, Chuan Wu",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01367"
+    },
+    {
+        "id": 22577,
+        "title": "Secure file transfer between multiple clients using bidirectional encoder representations from transformers (BERT) algorithm compared with XLnet algorithm",
+        "authors": "Janaki Sasidhar, S. Christy",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0159812"
+    },
+    {
+        "id": 22578,
+        "title": "Intelligent Forecasting of Energy Consumption using Temporal Fusion Transformer model",
+        "authors": "Sorawut Jittanon, Yodthong Mensin, Chakkrit Termritthikun",
+        "published": "2023-3-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icci57424.2023.10112297"
+    },
+    {
+        "id": 22579,
+        "title": "BREATH-Net: a novel deep learning framework for NO2 prediction using bi-directional encoder with transformer",
+        "authors": "Abhishek Verma, Virender Ranga, Dinesh Kumar Vishwakarma",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10661-024-12455-y"
+    },
+    {
+        "id": 22580,
+        "title": "A Transformer Encoder and Convolutional Neural Network Combined Method for Classification of Error-related Potentials",
+        "authors": "Guihong Ren, Seedahmed S. Mahmoud, Akshay Kumar, Qiang Fang, Boyuan Yu",
+        "published": "2023-10-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/biocas58349.2023.10389146"
+    },
+    {
+        "id": 22581,
+        "title": "Enhancing image captioning performance based on efficientnet B0 model and transformer encoder-decoder",
+        "authors": "Abhisht Joshi, Ahmed Alkhayyat, Harsh Gunwant, Abhay Tripathi, Moolchand Sharma",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0184395"
+    },
+    {
+        "id": 22582,
+        "title": "DeepMethylation: a deep learning based framework with GloVe and Transformer encoder for DNA methylation prediction",
+        "authors": "Zhe Wang, Sen Xiang, Chao Zhou, Qing Xu",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "DNA methylation is a crucial topic in bioinformatics research. Traditional wet experiments are usually time-consuming and expensive. In contrast, machine learning offers an efficient and novel approach. In this study, we propose DeepMethylation, a novel methylation predictor with deep learning. Specifically, the DNA sequence is encoded with word embedding and GloVe in the first step. After that, dilated convolution and Transformer encoder are utilized to extract the features. Finally, full connection and softmax operators are applied to predict the methylation sites. The proposed model achieves an accuracy of 97.8% on the 5mC dataset, which outperforms state-of-the-art methods. Furthermore, our predictor exhibits good generalization ability as it achieves an accuracy of 95.8% on the m1A dataset. To ease access for other researchers, our code is publicly available at https://github.com/sb111169/tf-5mc.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7717/peerj.16125"
+    },
+    {
+        "id": 22583,
+        "title": "STGATE: Spatial-temporal graph attention network with a transformer encoder for EEG-based emotion recognition",
+        "authors": "Jingcong Li, Weijian Pan, Haiyun Huang, Jiahui Pan, Fei Wang",
+        "published": "2023-4-13",
+        "citations": 7,
+        "abstract": "Electroencephalogram (EEG) is a crucial and widely utilized technique in neuroscience research. In this paper, we introduce a novel graph neural network called the spatial-temporal graph attention network with a transformer encoder (STGATE) to learn graph representations of emotion EEG signals and improve emotion recognition performance. In STGATE, a transformer-encoder is applied for capturing time-frequency features which are fed into a spatial-temporal graph attention for emotion classification. Using a dynamic adjacency matrix, the proposed STGATE adaptively learns intrinsic connections between different EEG channels. To evaluate the cross-subject emotion recognition performance, leave-one-subject-out experiments are carried out on three public emotion recognition datasets, i.e., SEED, SEED-IV, and DREAMER. The proposed STGATE model achieved a state-of-the-art EEG-based emotion recognition performance accuracy of 90.37% in SEED, 76.43% in SEED-IV, and 76.35% in DREAMER dataset, respectively. The experiments demonstrated the effectiveness of the proposed STGATE model for cross-subject EEG emotion recognition and its potential for graph-based neuroscience research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnhum.2023.1169949"
+    },
+    {
+        "id": 22584,
+        "title": "An Application of Transformer based Point Cloud Auto-encoder for Fabric-type Actuator",
+        "authors": "Yanhong PENG, Yuki FUNABORA, Shinji DOKI",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1299/jsmermd.2023.2p1-e12"
+    },
+    {
+        "id": 22585,
+        "title": "Power Electronic Traction Transformer with Minimum Losses",
+        "authors": "Lipin Paul, Anju Mary Mathew, Aisha Meethian, Shebin Sharief",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciet57285.2023.10220578"
+    },
+    {
+        "id": 22586,
+        "title": "A Method of Integrating Length Constraints into Encoder-Decoder Transformer for Abstractive Text Summarization",
+        "authors": "Ngoc-Khuong Nguyen, Dac-Nhuong Le, Viet-Ha Nguyen, Anh-Cuong Le",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.037083"
+    },
+    {
+        "id": 22587,
+        "title": "FDR-TransUNet: A novel encoder-decoder architecture with vision transformer for improved medical image segmentation",
+        "authors": "Zhang Chaoyang, Sun Shibao, Hu Wenmao, Zhao Pengcheng",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2023.107858"
+    },
+    {
+        "id": 22588,
+        "title": "A personalized paper recommendation method based on knowledge graph and transformer encoder with a self-attention mechanism",
+        "authors": "Li Gao, Yu Lan, Zhen Yu, Jian-min Zhu",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-023-05108-z"
+    },
+    {
+        "id": 22589,
+        "title": "Robust Air Target Intention Recognition Based on Weight Self-Learning Parallel Time-Channel Transformer Encoder",
+        "authors": "Zihao Song, Yan Zhou, Wei Cheng, Futai Liang, Chenhao Zhang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3341154"
+    },
+    {
+        "id": 22590,
+        "title": "A Hybrid Approach for Driving Behavior Recognition: Integration of CNN and Transformer-Encoder with EEG data",
+        "authors": "Yunlong Wang, Tianqi Liu, Yanjun Qin, Siyuan Shen, Xiaoming Tao",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vtc2023-fall60731.2023.10333456"
+    },
+    {
+        "id": 22591,
+        "title": "IRS-Assisted mmWave Massive MIMO Systems Beam Training with Hybrid CNN Encoder-based Transformer Deep Learning Model",
+        "authors": "Taisei Urakami, Haohui Jia, Na Chen, Minoru Okada",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vtc2023-fall60731.2023.10333769"
+    },
+    {
+        "id": 22592,
+        "title": "Assessment of bidirectional transformer encoder model and attention based bidirectional LSTM language models for fake news detection",
+        "authors": "Anshika Choudhary, Anuja Arora",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jretconser.2023.103545"
+    },
+    {
+        "id": 22593,
+        "title": "Early neurological deterioration detection with a transformer convolutional auto-encoder model",
+        "authors": "Jinxu Yang, Ximing Nie, Long Wang, Chao Huang, Liping Liu",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.111148"
+    },
+    {
+        "id": 22594,
+        "title": "Feel the Market: An Attempt to Identify Additional Factor in the Capital Asset Pricing Model (CAPM) Using Generative Pre-Trained Transformer (GPT) and Bidirectional Encoder Representations from Transformers (BERT)",
+        "authors": "Christopher Lingwei Zhang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4521946"
+    },
+    {
+        "id": 22595,
+        "title": "TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis",
+        "authors": "Xiaoyu Li, Wenwen Min, Jinyu Chen, Jiaxin Wu, Shunfang Wang",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385668"
+    },
+    {
+        "id": 22596,
+        "title": "Remaining Useful Life Prediction of Rail Based on Improved Pulse Separable Convolution Enhanced Transformer Encoder",
+        "authors": "Zhongmei Wang, Min Li, Jing He, Jianhua Liu, Lin Jia",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4236/jtts.2024.142009"
+    },
+    {
+        "id": 22597,
+        "title": "Arabic named entity recognition based on a sequence-2-sequence model with multi-head attention of transformer encoder",
+        "authors": "Hamid Sadeq Mahdi Alsultani, Ahmed H. Aliwy",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0181993"
+    },
+    {
+        "id": 22598,
+        "title": "A Hierarchical Transformer Encoder to Improve Entire Neoplasm Segmentation on Whole Slide Images of Hepatocellular Carcinoma",
+        "authors": "Zhuxian Guo, Qitong Wang, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz",
+        "published": "2023-4-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isbi53787.2023.10230568"
+    },
+    {
+        "id": 22599,
+        "title": "A Unified Deep Learning Framework for Single-Cell ATAC-Seq Analysis Based on ProdDep Transformer Encoder",
+        "authors": "Zixuan Wang, Yongqing Zhang, Yun Yu, Junming Zhang, Yuhang Liu, Quan Zou",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "Recent advances in single-cell sequencing assays for the transposase-accessibility chromatin (scATAC-seq) technique have provided cell-specific chromatin accessibility landscapes of cis-regulatory elements, providing deeper insights into cellular states and dynamics. However, few research efforts have been dedicated to modeling the relationship between regulatory grammars and single-cell chromatin accessibility and incorporating different analysis scenarios of scATAC-seq data into the general framework. To this end, we propose a unified deep learning framework based on the ProdDep Transformer Encoder, dubbed PROTRAIT, for scATAC-seq data analysis. Specifically motivated by the deep language model, PROTRAIT leverages the ProdDep Transformer Encoder to capture the syntax of transcription factor (TF)-DNA binding motifs from scATAC-seq peaks for predicting single-cell chromatin accessibility and learning single-cell embedding. Based on cell embedding, PROTRAIT annotates cell types using the Louvain algorithm. Furthermore, according to the identified likely noises of raw scATAC-seq data, PROTRAIT denoises these values based on predated chromatin accessibility. In addition, PROTRAIT employs differential accessibility analysis to infer TF activity at single-cell and single-nucleotide resolution. Extensive experiments based on the Buenrostro2018 dataset validate the effeteness of PROTRAIT for chromatin accessibility prediction, cell type annotation, and scATAC-seq data denoising, therein outperforming current approaches in terms of different evaluation metrics. Besides, we confirm the consistency between the inferred TF activity and the literature review. We also demonstrate the scalability of PROTRAIT to analyze datasets containing over one million cells.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ijms24054784"
+    },
+    {
+        "id": 22600,
+        "title": "Dual-TranSpeckle: Dual-pathway transformer based encoder-decoder network for medical ultrasound image despeckling",
+        "authors": "Yuqing Chen, Zhitao Guo, Jinli Yuan, Xiaozeng Li, Hengyong Yu",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2024.108313"
+    },
+    {
+        "id": 22601,
+        "title": "TransFlowLog: Log Anomaly Detection Based on Transformer Encoder and Interflow Decoder",
+        "authors": "Zaichao Lin, Siyang Lu, Ningning Han, Dongdong Wang, Xiang Wei, Mingquan Wang",
+        "published": "2023-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpads60453.2023.00196"
+    },
+    {
+        "id": 22602,
+        "title": "FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data",
+        "authors": "Lisa Weijler, Florian Kowarsch, Michael Reiter, Pedro Hermosilla, Margarita Maurer-Granofszky, Michael Dworzak",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00777"
+    },
+    {
+        "id": 22603,
+        "title": "Revalidating the Encoder-Decoder Depths and Activation Function to Find Optimum Vanilla Transformer Model",
+        "authors": "Yaya Heryadi, Bambang Dwi Wijanarko, Dina Fitria Murad, Cuk Tho, Kiyota Hashimoto",
+        "published": "2023-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccosite57641.2023.10127790"
+    },
+    {
+        "id": 22604,
+        "title": "Identification of DNA-protein binding residues through integration of Transformer encoder and Bi-directional Long Short-Term Memory",
+        "authors": "Haipeng Zhao, Baozhong Zhu, Tengsheng Jiang, Zhiming Cui, Hongjie Wu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract>\n\t\t\t<p>DNA-protein binding is crucial for the normal development and function of organisms. The significance of accurately identifying DNA-protein binding sites lies in its role in disease prevention and the development of innovative approaches to disease treatment. In the present study, we introduce a precise and robust identifier for DNA-protein binding residues. In the context of protein representation, we combine the evolutionary information of the protein, represented by its position-specific scoring matrix, with the spatial information of the protein's secondary structure, enriching the overall informational content. This approach initially employs a combination of Bi-directional Long Short-Term Memory and Transformer encoder to jointly extract the interdependencies among residues within the protein sequence. Subsequently, convolutional operations are applied to the resulting feature matrix to capture local features of the residues. Experimental results on the benchmark dataset demonstrate that our method exhibits a higher level of competitiveness when compared to contemporary classifiers. Specifically, our method achieved an MCC of 0.349, SP of 96.50%, SN of 44.03% and ACC of 94.59% on the PDNA-41 dataset.</p>\n\t\t</abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mbe.2024008"
+    },
+    {
+        "id": 22605,
+        "title": "Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection",
+        "authors": "Feng Liu, Xiaosong Zhang, Zhiliang Peng, Zonghao Guo, Fang Wan, Xiangyang Ji, Qixiang Ye",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00628"
+    },
+    {
+        "id": 22606,
+        "title": "Vision Intelligence Assisted Lung Function Estimation Based on Transformer Encoder-Decoder Network with Invertible Modeling",
+        "authors": "Liuyin Chen, Di Lu, Jianxue Zhai, Kaican Cai, Long Wang, Zijun Zhang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2023.3348428"
+    },
+    {
+        "id": 22607,
+        "title": "Hierarchical Multi-label Classifier Based on Transformer Encoder for Grassroots Social Network Governance",
+        "authors": "Runze Jiang, Qiang He, Xin Yan, Fei Gao, Xiushuang Yi, Jiwen Ding, Xingwei Wang",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icfeict59519.2023.00033"
+    },
+    {
+        "id": 22608,
+        "title": "KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations",
+        "authors": "Jinyang Wu, Zhiwei Ning, Yidong Ding, Ying Wang, Qinke Peng, Laiyi Fu",
+        "published": "2023-9-20",
+        "citations": 2,
+        "abstract": "Abstract\nRecent studies have demonstrated the significant role that circRNA plays in the progression of human diseases. Identifying circRNA-disease associations (CDA) in an efficient manner can offer crucial insights into disease diagnosis. While traditional biological experiments can be time-consuming and labor-intensive, computational methods have emerged as a viable alternative in recent years. However, these methods are often limited by data sparsity and their inability to explore high-order information. In this paper, we introduce a novel method named Knowledge Graph Encoder from Transformer for predicting CDA (KGETCDA). Specifically, KGETCDA first integrates more than 10 databases to construct a large heterogeneous non-coding RNA dataset, which contains multiple relationships between circRNA, miRNA, lncRNA and disease. Then, a biological knowledge graph is created based on this dataset and Transformer-based knowledge representation learning and attentive propagation layers are applied to obtain high-quality embeddings with accurately captured high-order interaction information. Finally, multilayer perceptron is utilized to predict the matching scores of CDA based on their embeddings. Our empirical results demonstrate that KGETCDA significantly outperforms other state-of-the-art models. To enhance user experience, we have developed an interactive web-based platform named HNRBase that allows users to visualize, download data and make predictions using KGETCDA with ease. The code and datasets are publicly available at https://github.com/jinyangwu/KGETCDA.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bib/bbad292"
+    },
+    {
+        "id": 22609,
+        "title": "A Novel Encoder-Decoder Structure-based Transformer for Fine-Resolution Remote Sensing Images",
+        "authors": "Guixian Wang, Dandan Huang, ZhenYe Geng, Zhi Liu, Jin Duan",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nFull convolution neural network (FCN) based on an encoder-decoder structure has become a standard network in the semantic segmentation domain. Encoder-decoder architecture is an effective means to get finer-grained performance. Encoders constantly extract multilevel features, and then use decoders to gradually introduce low-level features into high-level features. Context information is critical for accurate segmentation, which is the main direction of semantic segmentation at present. So many efforts have been made to make better use of this kind of information, including codec structure, void convolution (expanded convolution), and attention mechanism. However, most of these schemes are based on Resnet or other variants of convolution network FCN, which makes it unable to get rid of the defective local receptive field of convolution itself. In this work, we introduce the pyramid visual converter (PVT) to replace the traditional full convolution network architecture, and design a novel encoder-decoder architecture to more effectively utilize the context information.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2517/1/012017"
+    },
+    {
+        "id": 22610,
+        "title": "3D seismic mask auto encoder: Seismic inversion using transformer-based reconstruction representation learning",
+        "authors": "Yimin Dou, Kewen Li",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compgeo.2024.106194"
+    },
+    {
+        "id": 22611,
+        "title": "Sensor-Based Indoor Fire Forecasting Using Transformer Encoder",
+        "authors": "Young-Seob Jeong, JunHa Hwang, SeungDong Lee, Goodwill Erasmo Ndomba, Youngjin Kim, Jeung-Im Kim",
+        "published": "2024-4-8",
+        "citations": 0,
+        "abstract": "Indoor fires may cause casualties and property damage, so it is important to develop a system that predicts fires in advance. There have been studies to predict potential fires using sensor values, and they mostly exploited machine learning models or recurrent neural networks. In this paper, we propose a stack of Transformer encoders for fire prediction using multiple sensors. Our model takes the time-series values collected from the sensors as input, and predicts the potential fire based on the sequential patterns underlying the time-series data. We compared our model with traditional machine learning models and recurrent neural networks on two datasets. For a simple dataset, we found that the machine learning models are better than ours, whereas our model gave better performance for a complex dataset. This implies that our model has a greater potential for real-world applications that probably have complex patterns and scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24072379"
+    },
+    {
+        "id": 22612,
+        "title": "TEDNet: transformer-aware encoder-decoder network for salient object detection in remote sensing images",
+        "authors": "Huiming SUN Sun, Yuewei Lin, Zibo Meng, Hongkai Yu",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3023731"
+    },
+    {
+        "id": 22613,
+        "title": "Ternary encoder and decoder designs in RRAM and CNTFET technologies",
+        "authors": "Shams Ul Haq, Vijay Kumar Sharma",
+        "published": "2024-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.prime.2023.100397"
+    },
+    {
+        "id": 22614,
+        "title": "Hybrid CNN+Transformer for Diabetic Retinopathy Recognition and Grading",
+        "authors": "Arezoo Sadeghzadeh, Masum Shah Junayed, Tarkan Aydin, Md Baharul Islam",
+        "published": "2023-10-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asyu58738.2023.10296789"
+    },
+    {
+        "id": 22615,
+        "title": "TF-DTA: A Deep Learning Approach Using Transformer Encoder to Predict Drug-Target Binding Affinity",
+        "authors": "Wenjun Li, Yiqiang Zhou, Xiwei Tang",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385539"
+    },
+    {
+        "id": 22616,
+        "title": "Frozen CLIP Transformer Is an Efficient Point Cloud Encoder",
+        "authors": "Xiaoshui Huang, Zhou Huang, Sheng Li, Wentao Qu, Tong He, Yuenan Hou, Yifan Zuo, Wanli Ouyang",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "The pretrain-finetune paradigm has achieved great success in NLP and 2D image fields because of the high-quality representation ability and transferability of their pretrained models. However, pretraining such a strong model is difficult in the 3D point cloud field due to the limited amount of point cloud sequences. This paper introduces Efficient Point Cloud Learning (EPCL), an effective and efficient point cloud learner for directly training high-quality point cloud models with a frozen CLIP transformer. Our EPCL connects the 2D and 3D modalities by semantically aligning the image features and point cloud features without paired 2D-3D data.  Specifically, the input point cloud is divided into a series of local patches, which are converted to token embeddings by the designed point cloud tokenizer. These token embeddings are concatenated with a task token and fed into the frozen CLIP transformer to learn point cloud representation. The intuition is that the proposed point cloud tokenizer projects the input point cloud into a unified token space that is similar to the 2D images.  Comprehensive experiments on 3D detection, semantic segmentation, classification and few-shot learning demonstrate that the CLIP transformer can serve as an efficient point cloud encoder and our method achieves promising performance on both indoor and outdoor benchmarks. In particular, performance gains brought by our EPCL are 19.7 AP50 on ScanNet V2 detection, 4.4 mIoU on S3DIS segmentation and 1.2 mIoU on SemanticKITTI segmentation compared to contemporary pretrained models. Code is available at \\url{https://github.com/XiaoshuiHuang/EPCL}.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i3.28013"
+    },
+    {
+        "id": 22617,
+        "title": "Comparison of designs of synchronous machines with integrated torque transformer for renewable energy",
+        "authors": "E. V. Koniushenko, Ilias Rahmanov, O. N. Molokanov",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "Increasing the specific torque of electric machines is an urgent problem for a number of low-speed power electromechanical systems, one of such systems is a wind power plant. Determining the optimal design of a synchronous generator with a built-in torque transformer is important for the further development of wind power. The purpose of the research is to determine the optimal design of a generator with a built-in torque transformer for wind power plants, which is a solution to the problem of creating low-speed, high-torque and relatively compact electric generators, and will make it possible to abandon the gear drive. The paper examines two designs of a direct drive synchronous generator with a built-in torque transformer with two and three air gaps. The calculation is performed using the Comsol Multiphysics software based on the finite element method. The main criteria for comparison are the generator's output power, the maximum torque of the low-speed rotor connected to the wind turbine, the maximum torque per unit volume of the generator, and the maximum torque per unit mass of the permanent magnets. Based on the calculation results, it has been concluded that a synchronous generator with two air gaps has a higher torque per unit volume and torque per mass of permanent magnets, i. e. with the same power, the expenses on active materials will be lower. This type of generator has a higher output power compared to both the direct-drive synchronous generator and the synchronous generator with three air gaps, with the same dimensional parameters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21443/1560-9278-2023-26-4-441-448"
+    },
+    {
+        "id": 22618,
+        "title": "A combined encoder–transformer–decoder network for volumetric segmentation of adrenal tumors",
+        "authors": "Liping Wang, Mingtao Ye, Yanjie Lu, Qicang Qiu, Zhongfeng Niu, Hengfeng Shi, Jian Wang",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nThe morphology of the adrenal tumor and the clinical statistics of the adrenal tumor area are two crucial diagnostic and differential diagnostic features, indicating precise tumor segmentation is essential. Therefore, we build a CT image segmentation method based on an encoder–decoder structure combined with a Transformer for volumetric segmentation of adrenal tumors.\n\nMethods\nThis study included a total of 182 patients with adrenal metastases, and an adrenal tumor volumetric segmentation method combining encoder–decoder structure and Transformer was constructed. The Dice Score coefficient (DSC), Hausdorff distance, Intersection over union (IOU), Average surface distance (ASD) and Mean average error (MAE) were calculated to evaluate the performance of the segmentation method.\n\nResults\nAnalyses were made among our proposed method and other CNN-based and transformer-based methods. The results showed excellent segmentation performance, with a mean DSC of 0.858, a mean Hausdorff distance of 10.996, a mean IOU of 0.814, a mean MAE of 0.0005, and a mean ASD of 0.509. The boxplot of all test samples' segmentation performance implies that the proposed method has the lowest skewness and the highest average prediction performance.\n\nConclusions\nOur proposed method can directly generate 3D lesion maps and showed excellent segmentation performance. The comparison of segmentation metrics and visualization results showed that our proposed method performed very well in the segmentation.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12938-023-01160-5"
+    },
+    {
+        "id": 22619,
+        "title": "Dual Encoder Decoder Shifted Window-Based Transformer Network for Polyp Segmentation with Self-Learning Approach",
+        "authors": "Lijin P., Mohib Ullah, Anuja Vats, Faouzi Alaya Cheikh, Santhosh Kumar G., Madhu S. Nair",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2024.3366146"
+    },
+    {
+        "id": 22620,
+        "title": "TIME-Net: Transformer-Integrated Multi-Encoder Network for limited-angle artifact removal in dual-energy CBCT",
+        "authors": "Yikun Zhang, Dianlin Hu, Zhihong Yan, Qingxian Zhao, Guotao Quan, Shouhua Luo, Yi Zhang, Yang Chen",
+        "published": "2023-1",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.media.2022.102650"
+    },
+    {
+        "id": 22621,
+        "title": "Using Embedding Extractor and Transformer Encoder for Predicting Neurological Recovery from Coma after Cardiac Arrest",
+        "authors": "Jan Pavlus, Kristyna Pijackova, Zuzana Koscova, Radovan Smisek, Ivo Viscor, Vojtech Travnicek, Petr Nejedly, Filip Plesinger",
+        "published": "2023-11-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22489/cinc.2023.054"
+    },
+    {
+        "id": 22622,
+        "title": "Transformer Incipient Fault Monitoring Using DGA",
+        "authors": "Atul A. Barhate, Dr. P. J. Shah, Dr. Manoj E. Pati",
+        "published": "2023-5-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46335/ijies.2023.8.8.7"
+    },
+    {
+        "id": 22623,
+        "title": "Advancing Abstractive Bangla Text Summarization: A Deep Learning Approach Using Seq2seq Encoder- Decoder Model and T5 Transformer",
+        "authors": "S M Tasnimul Hasan, Md Ashfaqur Rahman, Md Mahamudul Hasan, Mohammad Rakibul Hasan, Md Moinul Hoque",
+        "published": "2023-12-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sti59863.2023.10464712"
+    },
+    {
+        "id": 22624,
+        "title": "A Novel Cyber-Threat Awareness Framework based on Spatial-Temporal Transformer Encoder for Maritime Transportation Systems",
+        "authors": "Qiangqiang Shi, Jin Liu, Jiamao Zhi, Peizhu Gong, Zhongdai Wu, Junxiang Wang",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictis60134.2023.10243770"
+    },
+    {
+        "id": 22625,
+        "title": "miRNA-Disease Association Prediction based on Heterogeneous Graph Transformer with Multi-view similarity and Random Auto-encoder",
+        "authors": "Yinbo Liu, Xiaodi Yan, Jun Li, Xinxin Ren, Qi Wu, Gang-Ao Wang, Yuqing Chen, Xiaolei Zhu",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385493"
+    },
+    {
+        "id": 22626,
+        "title": "Sheet resistance prediction of laser induced graphitic carbon with transformer encoder-enabled contrastive learning",
+        "authors": "Yupeng Wei, Gerd Grau, Dazhong Wu",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10845-024-02333-2"
+    },
+    {
+        "id": 22627,
+        "title": "Detection of Diabetic Retinopathy (DR) Severity from Fundus Photographs using Swin Transformer",
+        "authors": "Rajasekhar Kommaraju, M. S. Anbarasi",
+        "published": "2023-12-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icraie59459.2023.10468500"
+    },
+    {
+        "id": 22628,
+        "title": "Exploring Graph-based Transformer Encoder for Low-Resource Neural Machine Translation",
+        "authors": "Long H. B. Nguyen, Binh Nguyen, Binh Le, Dien Dinh",
+        "published": "2023-5-25",
+        "citations": 1,
+        "abstract": "The Transformer is commonly used in Neural Machine Translation (NMT), but it faces issues with over-parameterization in low-resource settings. This means that simply increasing the model parameters significantly will not lead to improved performance. In this study, we propose a graph-based approach that slightly increases the parameters while significantly outperforming the scaled version of the Transformer. We accomplish this by utilizing Graph Neural Networks to encode Universal Conceptual Cognitive Annotation (UCCA), allowing the linguistic features of UCCA to be incorporated into the word embeddings. This improves the performance of the NMT system since the word embedding is now more capable and informative. Experimental results demonstrate that the proposed method outperforms the scaled Transformer model by +0.4, +0.41, and +0.33 BLEU, respectively, in English-Vietnamese/French/Czech datasets. Furthermore, this method reduces the number of parameters by 47% when compared to the scaled Transformer. A thorough analysis of error patterns reveals that the proposed method provides structural awareness to translation systems. Our code is available at: https://github.com/nqbinh17/UCCA_GNN.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3599969"
+    },
+    {
+        "id": 22629,
+        "title": "Accurate and Efficient Optical Fiber WDM Transmission Modeling Using the Encoder-Only Transformer with Feature Decoupling Distributed Method",
+        "authors": "Minghui Shi, Hang Yang, Zekun Niu, Chuyan Zeng, Shilin Xiao, Weisheng Hu, Lilin Yi",
+        "published": "2023-11-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acp/poem59049.2023.10368835"
+    },
+    {
+        "id": 22630,
+        "title": "Dual-Encoder Transformer for Short-Term Photovoltaic Power Prediction Using Satellite Remote-Sensing Data",
+        "authors": "Haizhou Cao, Jing Yang, Xuemeng Zhao, Tiechui Yao, Jue Wang, Hui He, Yangang Wang",
+        "published": "2023-2-1",
+        "citations": 3,
+        "abstract": "The penetration of photovoltaic (PV) energy has gained a significant increase in recent years because of its sustainable and clean characteristics. However, the uncertainty of PV power affected by variable weather poses challenges to an accurate short-term prediction, which is crucial for reliable power system operation. Existing methods focus on coupling satellite images with ground measurements to extract features using deep neural networks. However, a flexible predictive framework capable of handling these two data structures is still not well developed. The spatial and temporal features are merely concatenated and passed to the following layer of a neural network, which is incapable of utilizing the correlation between them. Therefore, we propose a novel dual-encoder transformer (DualET) for short-term PV power prediction. The dual encoders contain wavelet transform and series decomposition blocks to extract informative features from image and sequence data, respectively. Moreover, we propose a cross-domain attention module to learn the correlation between the temporal features and cloud information and modify the attention modules with the spare form and Fourier transform to improve their performance. The experiments on real-world datasets, including PV station data and satellite images, show that our model achieves better results than other models for short-term PV power prediction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13031908"
+    },
+    {
+        "id": 22631,
+        "title": "Weighted feature fusion of dual attention convolutional neural network and transformer encoder module for ocean HABs classification",
+        "authors": "Geng-Kun Wu, Jie Xu, Yi-Dan Zhang, Bi-Yao Wen, Bei-Ping Zhang",
+        "published": "2024-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122879"
+    },
+    {
+        "id": 22632,
+        "title": "Synthesizing Speech from ECoG with a Combination of Transformer-Based Encoder and Neural Vocoder",
+        "authors": "Kai Shigemi, Shuji Komeiji, Takumi Mitsuhashi, Yasushi Iimura, Hiroharu Suzuki, Hidenori Sugano, Koichi Shinoda, Kohei Yatabe, Toshihisa Tanaka",
+        "published": "2023-6-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10097004"
+    },
+    {
+        "id": 22633,
+        "title": "RCCT-ASPPNet: Dual-Encoder Remote Image Segmentation Based on Transformer and ASPP",
+        "authors": "Yazhou Li, Zhiyou Cheng, Chuanjian Wang, Jinling Zhao, Linsheng Huang",
+        "published": "2023-1-7",
+        "citations": 10,
+        "abstract": "Remote image semantic segmentation technology is one of the core research elements in the field of computer vision and has a wide range of applications in production life. Most remote image semantic segmentation methods are based on CNN. Recently, Transformer provided a view of long-distance dependencies in images. In this paper, we propose RCCT-ASPPNet, which includes the dual-encoder structure of Residual Multiscale Channel Cross-Fusion with Transformer (RCCT) and Atrous Spatial Pyramid Pooling (ASPP). RCCT uses Transformer to cross fuse global multiscale semantic information; the residual structure is then used to connect the inputs and outputs. ASPP based on CNN extracts contextual information of high-level semantics from different perspectives and uses Convolutional Block Attention Module (CBAM) to extract spatial and channel information, which will further improve the model segmentation ability. The experimental results show that the mIoU of our method is 94.14% and 61.30% on the datasets Farmland and AeroScapes, respectively, and that the mPA is 97.12% and 84.36%, respectively, both outperforming DeepLabV3+ and UCTransNet.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15020379"
+    },
+    {
+        "id": 22634,
+        "title": "A Lifelong Learning Method Based on Event-Triggered Online Frozen-EWC Transformer Encoder for Equipment Digital Twin Dynamic Evolution",
+        "authors": "Kunyu Wang, Lin Zhang, Hongbo Cheng, Han Lu, Zhen Chen",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jiot.2023.3307819"
+    },
+    {
+        "id": 22635,
+        "title": "Multi-level network based on transformer encoder for fine-grained image–text matching",
+        "authors": "Lei Yang, Yong Feng, Mingliang Zhou, Xiancai Xiong, Yongheng Wang, Baohua Qiang",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00530-023-01079-w"
+    },
+    {
+        "id": 22636,
+        "title": "EEG-based epileptic seizure pattern decoding using vision transformer",
+        "authors": "Abdelhadi Hireche, Rafat Damseh, Parikshat Sirpal, Abdelkader Nasreddine Belkacem",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iit59782.2023.10366416"
+    },
+    {
+        "id": 22637,
+        "title": "Analysis of Welding Power Source Using a Double Star Rectifier with Interface Transformer",
+        "authors": "Belqasem Aljafari, Indragandhi V, Ashok Kumar L, Selvamathi R",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/i-pact58649.2023.10434328"
+    },
+    {
+        "id": 22638,
+        "title": "Methodology to Prevent Voltage Collapse During On Load Tap Changing Transformer Operation Under Network Contingencies",
+        "authors": "Sarada Devi, Pavan Phani Kumar",
+        "published": "2023-12-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icraie59459.2023.10468436"
+    },
+    {
+        "id": 22639,
+        "title": "Hyperheuristics for Determination of Non-dominated Set of Public Service System Designs",
+        "authors": "Marek Kvet, Jaroslav Janáček",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fruct58615.2023.10142997"
+    },
+    {
+        "id": 22640,
+        "title": "ANN Based Single Phase Bidirectional DC-AC Boost Inverter for Grid Connected Solar Photovoltaic Systems without a Transformer",
+        "authors": "Mulumudi Rajesh, Aithepalli Lakshmi Devi",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/i-pact58649.2023.10434823"
+    },
+    {
+        "id": 22641,
+        "title": "Transformer-Based Dual-Modal Visual Target Tracking Using Visible Light and Thermal Infrared",
+        "authors": "Pengfei Lyu, Minxiang Wei, Yuwei Wu",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fruct58615.2023.10143052"
+    },
+    {
+        "id": 22642,
+        "title": "Identification of cotton and corn plant areas by employing deep transformer encoder approach and different time series satellite images: A case study in Diyarbakir, Turkey",
+        "authors": "Reyhan Şimşek Bağcı, Emrullah Acar, Ömer Türk",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compag.2023.107838"
+    },
+    {
+        "id": 22643,
+        "title": "ResViT-Rice: A Deep Learning Model Combining Residual Module and Transformer Encoder for Accurate Detection of Rice Diseases",
+        "authors": "Yujia Zhang, Luteng Zhong, Yu Ding, Hongfeng Yu, Zhaoyu Zhai",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "Rice is a staple food for over half of the global population, but it faces significant yield losses: up to 52% due to leaf blast disease and brown spot diseases, respectively. This study aimed at proposing a hybrid architecture, namely ResViT-Rice, by taking advantage of both CNN and transformer for accurate detection of leaf blast and brown spot diseases. We employed ResNet as the backbone network to establish a detection model and introduced the encoder component from the transformer architecture. The convolutional block attention module was also integrated to ResViT-Rice to further enhance the feature-extraction ability. We processed 1648 training and 104 testing images for two diseases and the healthy class. To verify the effectiveness of the proposed ResViT-Rice, we conducted comparative evaluation with popular deep learning models. The experimental result suggested that ResViT-Rice achieved promising results in the rice disease-detection task, with the highest accuracy reaching 0.9904. The corresponding precision, recall, and F1-score were all over 0.96, with an AUC of up to 0.9987, and the corresponding loss rate was 0.0042. In conclusion, the proposed ResViT-Rice can better extract features of different rice diseases, thereby providing a more accurate and robust classification output.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/agriculture13061264"
+    },
+    {
+        "id": 22644,
+        "title": "Applying Segment-Level Attention on Bi-Modal Transformer Encoder for Audio-Visual Emotion Recognition",
+        "authors": "Jia-Hao Hsu, Chung-Hsien Wu",
+        "published": "2023-10-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/taffc.2023.3258900"
+    },
+    {
+        "id": 22645,
+        "title": "Multi-task supply-demand prediction and reliability analysis for docked bike-sharing systems via transformer-encoder-based neural processes",
+        "authors": "Meng Xu, Yining Di, Hai Yang, Xiqun Chen, Zheng Zhu",
+        "published": "2023-2",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.trc.2023.104015"
+    },
+    {
+        "id": 22646,
+        "title": "Predicting the B-H Loops of Power Magnetics with Transformer-based Encoder-Projector-Decoder Neural Network Architecture",
+        "authors": "Haoran Li, Diego Serrano, Shukai Wang, Thomas Guillod, Min Luo, Minjie Chen",
+        "published": "2023-3-19",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/apec43580.2023.10131497"
+    },
+    {
+        "id": 22647,
+        "title": "Multi-scale SE-residual network with transformer encoder for myocardial infarction classification",
+        "authors": "Qingyu Yao, Luming Zhang, Wenguang Zheng, Yuxi Zhou, Yingyuan Xiao",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110919"
+    },
+    {
+        "id": 22648,
+        "title": "基于U型Swin Transformer自编码器的色织物缺陷检测",
+        "authors": "黄媛媛 Huang Yuanyuan, 熊文博 Xiong Wenbo, 张宏伟 Zhang Hongwei, 张伟伟 Zhang Weiwei",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3788/lop220691"
+    },
+    {
+        "id": 22649,
+        "title": "Understanding Frugal Engineering for Equity: Exploring Convergence of Biological Designs and Social Innovations",
+        "authors": "Ajay P. Malshe, Salil Bapat, Lukas Fischer",
+        "published": "2023-5-1",
+        "citations": 2,
+        "abstract": "Abstract\nMultiple global trends and drivers have resulted in a steep escalation of tech-socio-economic inequities in basic human needs across industrialized as well as industrializing nations. This escalation is paralleled by the growing trend of novel and simple frugal innovations for meeting basic human needs, which are applied across various communities in the world towards bridging gaps of inequity. Frugality in this context is defined as minimizing the use of capital resources while delivering effective manufacturing product outcomes. It is noteworthy that frugal innovations are abundantly observed in the biological designs in nature. This paper is aimed at understanding the methodology of frugal engineering behind the resulting frugal manufacturing innovations through discovering the cross-section of frameworks of biological designs in nature and equitable social innovations. Authors have applied the framework of biological designs as these designs are observed to deliver multifunctionality, resilience, and sustainability, which are key to a frugal and equitable innovation platform and achieved by the frugal engineering process. As water is one of the most basic human needs, this paper uses water as an illustrative example to understand the frugal engineering process. The authors discuss designs in nature from cactus, tree roots, and human skin, and design parallels in related frugal innovations namely in fog-capturing nets, ice stupa, and Zeer (pot-in-a-pot), respectively, for equitable water access. The authors propose and discuss a resulting methodology for frugal engineering. This methodology can be utilized as a starting point for developing case-specific socially conscious manufacturing solutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/1.4056666"
+    },
+    {
+        "id": 22650,
+        "title": "Development of Counting Based Visual Question Answering System by Using Transformer and Pyramid Networks with Hybrid Deep Learning Model",
+        "authors": "Nigisha S., Anugirba K.",
+        "published": "2023-8-5",
+        "citations": 0,
+        "abstract": "Visual Question Answering (VQA) merges images and natural language processing, that enables machines to respond to queries about visual content with prowess by comprehending visual features and contextual cues in text. VQA aims to bridge the gap between human-like understanding and visual comprehension. Counting-based VQA is a specific subfield within VQA that focuses on answering questions related to counting objects or quantities in images. The objective of counting-based VQA is to develop algorithms and models capable of accurately answering questions that involve counting specific objects or quantities in visual data. Our Model consists of Bidirectional Encoder Representations from Transformers (BERT) to extract the texture features from the Question part and for the visual part, Feature Pyramid Network (FPN) is used to extract the deep features from images. Both the textual and visual features are integrated to form a combined set of features. These fused features are fed in to a hybrid model for answer prediction. This hybrid model is an integration of Gated Recurrent Unit (GRU) and One-Dimensional Convolutional Neural Network (1DCNN).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59544/fswn5535/ngcesi23p38"
+    },
+    {
+        "id": 22651,
+        "title": "ARMM: Adaptive Reliability Quantification Model of Microfluidic Designs and its Graph-Transformer-Based Implementation",
+        "authors": "Siyuan Liang, Meng Lian, Mengchu Li, Tsun-Ming Tseng, Ulf Schlichtmann, Tsung-Yi Ho",
+        "published": "2023-10-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccad57390.2023.10323772"
+    },
+    {
+        "id": 22652,
+        "title": "Interpretable attention-based multi-encoder transformer based QSPR model for assessing toxicity and environmental impact of chemicals",
+        "authors": "SangYoun Kim, Shahzeb Tariq, SungKu Heo, ChangKyoo Yoo",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chemosphere.2023.141086"
+    },
+    {
+        "id": 22653,
+        "title": "Passenger Comfort Quantification for Automated Vehicle Based on Stacking of Psychophysics Mechanism and Encoder-Transformer Model",
+        "authors": "Wangwang Zhu, Xi Zhang, Chuan Hu, Baixuan Zhao, Yixun Niu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tits.2023.3337775"
+    },
+    {
+        "id": 22654,
+        "title": "MuSe-Personalization 2023: Feature Engineering, Hyperparameter Optimization, and Transformer-Encoder Re-discovery",
+        "authors": "Ho-Min Park, Ganghyun Kim, Arnout Van Messem, Wesley De Neve",
+        "published": "2023-11-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3606039.3613104"
+    },
+    {
+        "id": 22655,
+        "title": "TrEnD: A transformer‐based encoder‐decoder model with adaptive patch embedding for mass segmentation in mammograms",
+        "authors": "Dongdong Liu, Bo Wu, Changbo Li, Zheng Sun, Nan Zhang",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "AbstractBackgroundBreast cancer is one of the most prevalent malignancies diagnosed in women. Mammogram inspection in the search and delineation of breast tumors is an essential prerequisite for a reliable diagnosis. However, analyzing mammograms by radiologists is time‐consuming and prone to errors. Therefore, the development of computer‐aided diagnostic (CAD) systems to automate the mass segmentation procedure is greatly expected.PurposeAccurate breast mass segmentation in mammograms remains challenging in CAD systems due to the low contrast, various shapes, and fuzzy boundaries of masses. In this paper, we propose a fully automatic and effective mass segmentation model based on deep learning for improving segmentation performance.MethodsWe propose an effective transformer‐based encoder‐decoder model (TrEnD). Firstly, we introduce a lightweight method for adaptive patch embedding (APE) of the transformer, which utilizes superpixels to adaptively adjust the size and position of each patch. Secondly, we introduce a hierarchical transformer‐encoder and attention‐gated‐decoder structure, which is beneficial for progressively suppressing interference feature activations in irrelevant background areas. Thirdly, a dual‐branch design is employed to extract and fuse globally coarse and locally fine features in parallel, which could capture the global contextual information and ensure the relevance and integrity of local information. The model is evaluated on two public datasets CBIS‐DDSM and INbreast. To further demonstrate the robustness of TrEnD, different cropping strategies are applied to these datasets, termed tight, loose, maximal, and mix‐frame. Finally, ablation analysis is performed to assess the individual contribution of each module to the model performance.ResultsThe proposed segmentation model provides a high Dice coefficient and Intersection over Union (IoU) of 92.20% and 85.81% on the mix‐frame CBIS‐DDSM, while 91.83% and 85.29% for the mix‐frame INbreast, respectively. The segmentation performance outperforms the current state‐of‐the‐art approaches. By adding the APE and attention‐gated module, the Dice and IoU have improved by 6.54% and 10.07%.ConclusionAccording to extensive qualitative and quantitative assessments, the proposed network is effective for automatic breast mass segmentation, and has adequate potential to offer technical assistance for subsequent clinical diagnoses.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/mp.16216"
+    },
+    {
+        "id": 22656,
+        "title": "An improved feature-time Transformer encoder-Bi-LSTM for short-term forecasting of user-level integrated energy loads",
+        "authors": "Qin Yan, Zhiying Lu, Hong Liu, Xingtang He, Xihai Zhang, Jianlin Guo",
+        "published": "2023-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enbuild.2023.113396"
+    },
+    {
+        "id": 22657,
+        "title": "Frédéric Goulet, Patrick Caron, Bernard Hubert, Pierre-Benoit Joly (2022), Sciences, techniques et agricultures : gouverner pour transformer , Paris, Presse des Mines, 319 p.",
+        "authors": "Jean-Marc Touzard",
+        "published": "2023-1-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3917/inno.070.0271"
+    },
+    {
+        "id": 22658,
+        "title": "Review on the study of designs and development of advance mechanisms used in gear hobbing machine",
+        "authors": "Gaurav Suresh Bore, Vinod Bhaiswar, Rupesh Shelke",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0158549"
+    },
+    {
+        "id": 22659,
+        "title": "Prostate Segmentation in MRI Using Transformer Encoder and Decoder Framework",
+        "authors": "Chengjuan Ren, Ziyu Guo, Huipeng Ren, Dongwon Jeong, Dae-Kyoo Kim, Shiyan Zhang, Jiacheng Wang, Guangnan Zhang",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3313420"
+    },
+    {
+        "id": 22660,
+        "title": "A Comparative Study of Transformer Based Pretrained AI Models for Content Summarization",
+        "authors": "Ashika Sameem Abdul Rasheed, Mohammad Mehedy Masud, Mohammed Abduljabbar",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iit59782.2023.10366411"
+    },
+    {
+        "id": 22661,
+        "title": "Hardware-Friendly Activation Function Designs and Its Efficient VLSI Implementations for Transformer-Based Applications",
+        "authors": "Yu-Hsiang Huang, Pei-Hsuan Kuo, Juinn-Dar Huang",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aicas57966.2023.10168591"
+    },
+    {
+        "id": 22662,
+        "title": "ABAW5 Challenge: A Facial Affect Recognition Approach Utilizing Transformer Encoder and Audiovisual Fusion",
+        "authors": "Ziyang Zhang, Liuwei An, Zishun Cui, Ao Xu, Tengteng Dong, Yueqi Jiang, Jingyi Shi, Xin Liu, Xiao Sun, Meng Wang",
+        "published": "2023-6",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvprw59228.2023.00607"
+    },
+    {
+        "id": 22663,
+        "title": "Graph Receptive Transformer Encoder for Text Classification",
+        "authors": "Arda Can Aras, Tuna Alikaşifoğlu, Aykut Koç",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tsipn.2024.3380362"
+    },
+    {
+        "id": 22664,
+        "title": "MV-MS-FETE: Multi-view multi-scale feature extractor and transformer encoder for stenosis recognition in echocardiograms",
+        "authors": "Danilo Avola, Irene Cannistraci, Marco Cascio, Luigi Cinque, Alessio Fagioli, Gian Luca Foresti, Emanuele Rodolà, Luciana Solito",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cmpb.2024.108037"
+    },
+    {
+        "id": 22665,
+        "title": "Automatic Bone Metastasis Classification: An in-depth Comparison of CNN and Transformer Architectures",
+        "authors": "Marwa Afnouch, Olfa Gaddour, Fares Bougourzi, Yosr Hentati, Abdelmalik Taleb Ahmed, Mohamed Abid",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/inista59065.2023.10310593"
+    },
+    {
+        "id": 22666,
+        "title": "Institutional Designs to Manage Ethnic Diversity in Conflict-Affected States: Conceptual, Methodological and Empirical Innovations",
+        "authors": "Giuditta Fontana",
+        "published": "2023-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13537113.2023.2167507"
+    },
+    {
+        "id": 22667,
+        "title": "Understanding Frugal Engineering Process for Frugal Innovations: Socially Conscious Designs for Homeless Individuals, A Case Study",
+        "authors": "Salil Bapat, Lukas Fischer, Christoph Digwa, Ajay P. Malshe",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procir.2023.03.097"
+    },
+    {
+        "id": 22668,
+        "title": "Reinforcement Learning-Driven Bit-Width Optimization for the High-Level Synthesis of Transformer Designs on Field-Programmable Gate Arrays",
+        "authors": "Seojin Jang, Yongbeom Cho",
+        "published": "2024-1-30",
+        "citations": 0,
+        "abstract": "With the rapid development of deep-learning models, especially the widespread adoption of transformer architectures, the demand for efficient hardware accelerators with field-programmable gate arrays (FPGAs) has increased owing to their flexibility and performance advantages. Although high-level synthesis can shorten the hardware design cycle, determining the optimal bit-width for various transformer designs remains challenging. Therefore, this paper proposes a novel technique based on a predesigned transformer hardware architecture tailored for various types of FPGAs. The proposed method leverages a reinforcement learning-driven mechanism to automatically adapt and optimize bit-width settings based on user-provided transformer variants during inference on an FPGA, significantly alleviating the challenges related to bit-width optimization. The effect of bit-width settings on resource utilization and performance across different FPGA types was analyzed. The efficacy of the proposed method was demonstrated by optimizing the bit-width settings for users’ transformer-based model inferences on an FPGA. The use of the predesigned hardware architecture significantly enhanced the performance. Overall, the proposed method enables effective and optimized implementations of user-provided transformer-based models on an FPGA, paving the way for edge FPGA-based deep-learning accelerators while reducing the time and effort typically required in fine-tuning bit-width settings.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13030552"
+    },
+    {
+        "id": 22669,
+        "title": "A systematic review of digital innovations in technology-enhanced learning designs in higher education",
+        "authors": "Derek L. Choi-Lundberg, Kerryn Butler-Henderson, Kristyn Harman, Joseph Crawford",
+        "published": "2023-10-15",
+        "citations": 0,
+        "abstract": "In the years prior to the COVID-19 pandemic, there was considerable innovation in designing and implementing teaching and learning with technology in fully online, face-to-face and blended modes. To provide an overview of technology-enhanced learning in higher education, we conducted a systematic literature review following PRISMA guidelines of digital innovations in learning designs between 2014 and 2019, prior to emergency remote teaching responses to the COVID-19 pandemic. From 130 publications, we identified eight overlapping categories of digital technologies being deployed across higher education fields: simulation and augmented or virtual reality; Web 2.0; learning management systems; mobile learning; gamification and serious games; various technologies in classrooms; massive open online courses; and other software, websites, applications and cloud computing. We use these publications, supplemented with findings from selected meta-analyses and systematic reviews of specific technologies, as examples to guide educators designing technology-enhanced learning activities in changing circumstances that may require blended or fully online delivery. As the 130 publications had mixed perceived quality, levels of evidence and details of learning designs and evaluation presented, we suggest educators share their innovations following reporting guidelines relevant to their research methodologies, enabling others to consider transferability to other contexts and to build on their work.\nImplications for practice or policy:\n\nLeaders and administrators should support staff development of technological pedagogical content knowledge and teaching as design for student learning.\nEducators and instructional designers, in designing learning experiences, should consider adult learning theories, inclusive practices and digital equity and leverage multiple technologies to facilitate students learning their curricula.\nIn educational research or scholarship of teaching and learning, researchers should provide sufficient detail to enable readers to assess transferability to their own contexts.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14742/ajet.7615"
+    },
+    {
+        "id": 22670,
+        "title": "Single Encoder and Decoder-Based Transformer Fusion with Deep Residual Attention for Restoration of Degraded Images and Clear Visualization in Adverse Weather Conditions",
+        "authors": "Sahadeb Shit, Bappadittya Roy, Dibyendu Kumar Das, Dip Narayan Ray",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-023-08342-2"
+    },
+    {
+        "id": 22671,
+        "title": "A Novel Bird Sound Recognition Method Based on Multifeature Fusion and a Transformer Encoder",
+        "authors": "Shaokai Zhang, Yuan Gao, Jianmin Cai, Hangxiao Yang, Qijun Zhao, Fan Pan",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "Birds play a vital role in the study of ecosystems and biodiversity. Accurate bird identification helps monitor biodiversity, understand the functions of ecosystems, and develop effective conservation strategies. However, previous bird sound recognition methods often relied on single features and overlooked the spatial information associated with these features, leading to low accuracy. Recognizing this gap, the present study proposed a bird sound recognition method that employs multiple convolutional neural-based networks and a transformer encoder to provide a reliable solution for identifying and classifying birds based on their unique sounds. We manually extracted various acoustic features as model inputs, and feature fusion was applied to obtain the final set of feature vectors. Feature fusion combines the deep features extracted by various networks, resulting in a more comprehensive feature set, thereby improving recognition accuracy. The multiple integrated acoustic features, such as mel frequency cepstral coefficients (MFCC), chroma features (Chroma) and Tonnetz features, were encoded by a transformer encoder. The transformer encoder effectively extracted the positional relationships between bird sound features, resulting in enhanced recognition accuracy. The experimental results demonstrated the exceptional performance of our method with an accuracy of 97.99%, a recall of 96.14%, an F1 score of 96.88% and a precision of 97.97% on the Birdsdata dataset. Furthermore, our method achieved an accuracy of 93.18%, a recall of 92.43%, an F1 score of 93.14% and a precision of 93.25% on the Cornell Bird Challenge 2020 (CBC) dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23198099"
+    },
+    {
+        "id": 22672,
+        "title": "EDET: Entity Descriptor Encoder of Transformer for Multi-Modal Knowledge Graph in Scene Parsing",
+        "authors": "Sai Ma, Weibing Wan, Zedong Yu, Yuming Zhao",
+        "published": "2023-6-14",
+        "citations": 1,
+        "abstract": "In scene parsing, the model is required to be able to process complex multi-modal data such as images and contexts in real scenes, and discover their implicit connections from objects existing in the scene. As a storage method that contains entity information and the relationship between entities, a knowledge graph can well express objects and the semantic relationship between objects in the scene. In this paper, a new multi-phase process was proposed to solve scene parsing tasks; first, a knowledge graph was used to align the multi-modal information and then the graph-based model generates results. We also designed an experiment of feature engineering’s validation for a deep-learning model to preliminarily verify the effectiveness of this method. Hence, we proposed a knowledge representation method named Entity Descriptor Encoder of Transformer (EDET), which uses both the entity itself and its internal attributes for knowledge representation. This method can be embedded into the transformer structure to solve multi-modal scene parsing tasks. EDET can aggregate the multi-modal attributes of entities, and the results in the scene graph generation and image captioning tasks prove that EDET has excellent performance in multi-modal fields. Finally, the proposed method was applied to the industrial scene, which confirmed the viability of our method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13127115"
+    },
+    {
+        "id": 22673,
+        "title": "Fine-Grained Image Recognition by Means of Integrating Transformer Encoder Blocks in a Robust Single-Stage Object Detector",
+        "authors": "Usman Ali, Seungmin Oh, Tai-Won Um, Minsoo Hann, Jinsul Kim",
+        "published": "2023-6-27",
+        "citations": 0,
+        "abstract": "Fine-grained image classification remains an ongoing challenge in the computer vision field, which is particularly intended to identify objects within sub-categories. It is a difficult task since there is both minimal and substantial intra-class variance. Current methods address the issue through first locating selective regions with region proposal networks (RPNs), object localization, or part localization, followed by implementing a CNN network or SVM classifier to those selective regions. This approach, however, makes the process simple via implementing a single-stage end-to-end feature encoded with a localization method, which leads to improved feature representations of individual tokens/regions through integrating the transformer encoder blocks into the Yolov5 backbone structure. These transformer encoder blocks, with their self-attention mechanism, effectively capture global dependencies and enable the model to learn relationships between distant regions. This improves the model’s ability to understand context and capture long-range spatial relationships in an image. We also replaced the Yolov5 detection heads with three transformer heads at the output for object recognition using the discriminative and informative feature maps from transformer encoder blocks. We established the potential of the single-stage detector for the fine-grained image recognition task, achieving state-of-the-art 93.4% accuracy, as well as outperforming existing one-stage recognition models. The effectiveness of our approach is assessed using the Stanford car dataset, which includes 16,185 images of 196 different classes of vehicles with significantly identical visual appearances.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13137589"
+    },
+    {
+        "id": 22674,
+        "title": "Offline handwritten mathematical expression recognition with graph encoder and transformer decoder",
+        "authors": "Jia-Man Tang, Hong-Yu Guo, Jin-Wen Wu, Fei Yin, Lin-Lin Huang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.110155"
+    },
+    {
+        "id": 22675,
+        "title": "AIPs-SnTCN: Predicting Anti-Inflammatory Peptides Using fastText and Transformer Encoder-Based Hybrid Word Embedding with Self-Normalized Temporal Convolutional Networks",
+        "authors": "Ali Raza, Jamal Uddin, Abdullah Almuhaimeed, Shahid Akbar, Quan Zou, Ashfaq Ahmad",
+        "published": "2023-11-13",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/acs.jcim.3c01563"
+    },
+    {
+        "id": 22676,
+        "title": "A bearing RUL prediction approach of vibration fault signal denoise modeling with Gate-CNN and Conv-transformer encoder",
+        "authors": "Peng Huang, Yuanjin Wang, Yingkui Gu, Guangqi Qiu",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe operating conditions of rolling bearings are complex and variable, and their vibration monitoring signals are filled with strong noise interference, resulting in a low accuracy in remaining useful life (RUL) prediction. For this issue, this paper proposes a denoising method with vibration fault signals modeling, and a novel RUL prediction method with Gate-convolutional neural networks (CNN) and Conv-Transformer encoder. Firstly, the theoretical fault signal is obtained through the vibration fault signal model, and the quality of the extracted features is improved by the wavelet threshold denoising algorithm in the process of feature extraction and selection. Moreover, the CNN is combined with the gating mechanism to construct a feature extractor with the feature evaluation function, and the convolution layers are introduced into the transformer to expand the encoder’s ability to explore local information in temporal data. By using fixed-time step temporal features as the input to the prediction module and minimizing the Huber function as the optimization objective, the relationship between temporal features and RUL is obtained. The comparison with the existing state-of-the-art RUL methods illustrates that the combination of gate control and convolutional structure proposed in this paper can not only reduce the prediction error of the model but also improve its generalization ability and robustness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6501/ad2cd9"
+    },
+    {
+        "id": 22677,
+        "title": "Abstractive Financial News Summarization via Transformer-BiLSTM Encoder and Graph Attention-Based Decoder",
+        "authors": "Haozhou Li, Qinke Peng, Xu Mou, Ying Wang, Zeyuan Zeng, Muhammad Fiaz Bashir",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/taslp.2023.3304473"
+    },
+    {
+        "id": 22678,
+        "title": "Acknowledgment to the Reviewers of Designs in 2022",
+        "authors": " ",
+        "published": "2023-1-18",
+        "citations": 0,
+        "abstract": "High-quality academic publishing is built on rigorous peer review [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs7010015"
+    },
+    {
+        "id": 22679,
+        "title": "A unified transformer based variational auto encoder (VAE) for anomaly detection in time series data for industrial control system (ICS)",
+        "authors": "J. Jasper Gnana Chandran, Shiny Vinoliah Ruth, V. Vignesh Arumugam, P. Annapandi, J. Antony Robinson, N. S. Pratheeba",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0139415"
+    },
+    {
+        "id": 22680,
+        "title": "Designs for research, teaching, and learning: A framework for future education",
+        "authors": "Amirul Hazmi Hamdan, Mohamad Saripudin",
+        "published": "2023-9-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/14703297.2023.2241319"
+    },
+    {
+        "id": 22681,
+        "title": "Optimizing Local Repository Search with Bidirectional Encoder Representations from Transformer Models",
+        "authors": "John Binze B. Escol,  , Johanes L. Guibone, Wayan Klein E. Duenas, Cristopher C. Abalorio, James Cloyd M. Bustillo, Junell T. Bojocan",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "—In this research, we investigate the relationship between sentence transformer models and the accuracy and recall of asymmetric semantic search engines. Our results show that the chosen sentence transformer model has a significant impact on the performance of the search engine. Using a pre-trained model specific to the domain resulted in a high cosine similarity score of 0.64. Fine-tuning a pre-trained sentence transformer for asymmetric semantic search improved the score to 0.4, but a larger corpus was needed for optimal results. Our findings highlight the importance of careful model selection and training data in the development of asymmetric semantic search engines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46338/ijetae0923_03"
+    },
+    {
+        "id": 22682,
+        "title": "Transformer Encoder Enhanced by an Adaptive Graph Convolutional Neural Network for Prediction of Aero-Engines’ Remaining Useful Life",
+        "authors": "Meng Ma, Zhizhen Wang, Zhirong Zhong",
+        "published": "2024-4-9",
+        "citations": 0,
+        "abstract": "Accurate prediction of remaining useful life (RUL) plays a significant role in ensuring the safe flight of aircraft. With the recent rapid development of deep learning, there has been a growing trend towards more precise RUL prediction. However, while many current deep learning methods are capable of extracting spatial features—those along the sensor dimension—through convolutional kernels or fully connected layers, their extraction capacity is often limited due to the small scale of kernels and the high uncertainty associated with linear weights. Graph neural networks (GNNs), emerging as effective approaches for processing graph-structured data, explicitly consider the relationships between sensors. This is akin to imposing a constraint on the training process, thereby allowing the learned results to better approximate real-world situations. In order to address the challenge of GNNs in extracting temporal features, we augment our proposed framework for RUL prediction with a Transformer encoder, resulting in the adaptive graph convolutional transformer encoder (AGCTE). A case study using the C-MAPSS dataset is conducted to validate the effectiveness of our proposed model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/aerospace11040289"
+    },
+    {
+        "id": 22683,
+        "title": "TFRegNCI: Interpretable Noncovalent Interaction Correction Multimodal Based on Transformer Encoder Fusion",
+        "authors": "Donghan Wang, Wenze Li, Xu Dong, Hongzhi Li, LiHong Hu",
+        "published": "2023-2-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/acs.jcim.2c01283"
+    },
+    {
+        "id": 22684,
+        "title": "Diverter transformer-based multi-encoder-multi-decoder network model for medical retinal blood vessel image segmentation",
+        "authors": "Chengwei Wu, Min Guo, Miao Ma, Kaiguang Wang",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bspc.2024.106132"
+    },
+    {
+        "id": 22685,
+        "title": "Comment on “Serially Combining Epidemiological Designs Does Not Improve Overall Signal Detection in Vaccine Safety Surveillance”",
+        "authors": "Wan-Ting Huang, Robert T. Chen, Caroline Cassard",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40264-024-01410-y"
+    },
+    {
+        "id": 22686,
+        "title": "STEDNet: Swin transformer‐based encoder–decoder network for noise reduction in low‐dose CT",
+        "authors": "Linlin Zhu, Yu Han, Xiaoqi Xi, Huijuan Fu, Siyu Tan, Mengnan Liu, Shuangzhan Yang, Chang Liu, Lei Li, Bin Yan",
+        "published": "2023-7",
+        "citations": 5,
+        "abstract": "AbstractBackgroundLow‐dose computed tomography (LDCT) can reduce the dose of X‐ray radiation, making it increasingly significant for routine clinical diagnosis and treatment planning. However, the noise introduced by low‐dose X‐ray exposure degrades the quality of CT images, affecting the accuracy of clinical diagnosis.PurposeThe noises, artifacts, and high‐frequency components are similarly distributed in LDCT images. Transformer can capture global context information in an attentional manner to create distant dependencies on targets and extract more powerful features. In this paper, we reduce the impact of image errors on the ability to retain detailed information and improve the noise suppression performance by fully mining the distribution characteristics of image information.MethodsThis paper proposed an LDCT noise and artifact suppressing network based on Swin Transformer. The network includes a noise extraction sub‐network and a noise removal sub‐network. The noise extraction and removal capability are improved using a coarse extraction network of high‐frequency features based on full convolution. The noise removal sub‐network improves the network's ability to extract relevant image features by using a Swin Transformer with a shift window as an encoder–decoder and skip connections for global feature fusion. Also, the perceptual field is extended by extracting multi‐scale features of the images to recover the spatial resolution of the feature maps. The network uses a loss constraint with a combination of L1 and MS‐SSIM to improve and ensure the stability and denoising effect of the network.ResultsThe denoising ability and clinical applicability of the methods were tested using clinical datasets. Compared with DnCNN, RED‐CNN, CBDNet and TSCN, the STEDNet method shows a better denoising effect on RMSE and PSNR. The STEDNet method effectively removes image noise and preserves the image structure to the maximum extent, making the reconstructed image closest to the NDCT image. The subjective and objective analysis of several sets of experiments shows that the method in this paper can effectively maintain the structure, edges, and textures of the denoised images while having good noise suppression performance. In the real data evaluation, the RMSE of this method is reduced by 18.82%, 15.15%, 2.25%, and 1.10% on average compared with DnCNN, RED‐CNN, CBDNet, and TSCNN, respectively. The average improvement of PSNR is 9.53%, 7.33%, 2.65%, and 3.69%, respectively.ConclusionsThis paper proposed a LDCT image denoising algorithm based on end‐to‐end training. The method in this paper can effectively improve the diagnostic performance of CT images by constraining the details of the images and restoring the LDCT image structure. The problem of increased noise and artifacts in CT images can be solved while maintaining the integrity of CT image tissue structure and pathological information. Compared with other algorithms, this method has better denoising effects both quantitatively and qualitatively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/mp.16249"
+    },
+    {
+        "id": 22687,
+        "title": "A comparative study of CNN-capsule-net, CNN-transformer encoder, and Traditional machine learning algorithms to classify epileptic seizure",
+        "authors": "Sergio Alejandro Holguin-Garcia, Ernesto Guevara-Navarro, Alvaro Eduardo Daza-Chica, Maria Alejandra Patiño-Claro, Harold Brayan Arteaga-Arteaga, Gonzalo A. Ruz, Reinel Tabares-Soto, Mario Alejandro Bravo-Ortiz",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nIntroduction\nEpilepsy is a disease characterized by an excessive discharge in neurons generally provoked without any external stimulus, known as convulsions. About 2 million people are diagnosed each year in the world. This process is carried out by a neurological doctor using an electroencephalogram (EEG), which is lengthy.\n\n\nMethod\nTo optimize these processes and make them more efficient, we have resorted to innovative artificial intelligence methods essential in classifying EEG signals. For this, comparing traditional models, such as machine learning or deep learning, with cutting-edge models, in this case, using Capsule-Net architectures and Transformer Encoder, has a crucial role in finding the most accurate model and helping the doctor to have a faster diagnosis.\n\n\nResult\nIn this paper, a comparison was made between different models for binary and multiclass classification of the epileptic seizure detection database, achieving a binary accuracy of 99.92% with the Capsule-Net model and a multiclass accuracy with the Transformer Encoder model of 87.30%.\n\n\nConclusion\nArtificial intelligence is essential in diagnosing pathology. The comparison between models is helpful as it helps to discard those that are not efficient. State-of-the-art models overshadow conventional models, but data processing also plays an essential role in evaluating the higher accuracy of the models.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12911-024-02460-z"
+    },
+    {
+        "id": 22688,
+        "title": "DeoT: an end-to-end encoder-only Transformer object detector",
+        "authors": "Tonghe Ding, Kaili Feng, Yanjun Wei, Yu Han, Tianping Li",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11554-023-01280-0"
+    },
+    {
+        "id": 22689,
+        "title": "Elimination of Random Mixed Noise in ECG Using Convolutional Denoising Autoencoder With Transformer Encoder",
+        "authors": "Meng Chen, Yongjian Li, Liting Zhang, Lei Liu, Baokun Han, Wenzhuo Shi, Shoushui Wei",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jbhi.2024.3355960"
+    },
+    {
+        "id": 22690,
+        "title": "Urea price prediction based on encoder-decoder network: Improving encoder-decoder networks for urea price prediction",
+        "authors": "Hongwei Lyu, Xiumei Wang, Shaomin Mu",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3650215.3650329"
+    },
+    {
+        "id": 22691,
+        "title": "Simplified Compressor and Encoder Designs for Low-Cost Approximate Radix-4 Booth Multiplier",
+        "authors": "Gunho Park, Jaeha Kung, Youngjoo Lee",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcsii.2022.3217696"
+    },
+    {
+        "id": 22692,
+        "title": "RelTR: Relation Transformer for Scene Graph Generation",
+        "authors": "Yuren Cong, Michael Ying Yang, Bodo Rosenhahn",
+        "published": "2023-9-1",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tpami.2023.3268066"
+    },
+    {
+        "id": 22693,
+        "title": "UniX-Encoder: A Universal X-Channel Speech Encoder for AD-HOC Microphone Array Speech Processing",
+        "authors": "Zili Huang, Yiwen Shao, Shi-Xiong Zhang, Dong Yu",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448072"
+    },
+    {
+        "id": 22694,
+        "title": "Ballast-Supported Foundation Designs for Low-Cost Open-Source Solar Photovoltaic Racking",
+        "authors": "Nicholas Vandewetering, Uzair Jamil, Joshua M. Pearce",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "Although solar photovoltaic (PV) system costs have declined, capital cost remains a barrier to widespread adoption. Do-it-yourself (DIY) system designs can significantly reduce labor costs, but if they are not attached to a building structure, they require ground penetrating footings. This is not technically and economically feasible at all sites. To overcome these challenges, this study details systems designed to (1) eliminate drilling holes and pouring concrete, (2) propose solutions for both fixed and variable tilt systems, (3) remain cost effective, and (4) allow for modifications to best fit the user’s needs. The ballast-supported foundations are analyzed for eight systems by proposing two separate ballast designs: one for a single line of post systems, and one for a double line of post systems, both built on a 4-kW basis. The results of the analysis found that both designs are slightly more expensive than typical in-ground concrete systems by 25% (assuming rocks are purchased at a landscaping company), but the overall DIY system’s costs remain economically advantageous. Sensitivity analyses are conducted to show how modifications to the dimensions influence the weight of the system and thus change the economic value of the design, so users can trade dimensional freedom for cost savings, and vice versa. Overall, all wood-based PV racking system designs provide users with cost-effective and easy DIY alternatives to conventional metal racking, and the novel ballast systems presented provide more versatility for PV systems installations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs8010017"
+    },
+    {
+        "id": 22695,
+        "title": "Similarity Learning for Person Re-Identification Using Deep Auto-Encoder",
+        "authors": "Sevdenur Kutuk, Rayan Abri, Sara Abri, Salih Cetin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012253900003584"
+    },
+    {
+        "id": 22696,
+        "title": "Multi-Graph Encoder-Decoder Model for Location-Based Character Networks in Literary Narrative",
+        "authors": "Avi Bleiweiss",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011776400003393"
+    },
+    {
+        "id": 22697,
+        "title": "Additive Manufacturing—Process Optimisation",
+        "authors": "Muhannad Ahmed Obeidi",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "The realm of Additive Manufacturing (AM), often referred to as 3D printing, encompasses a broad spectrum of applications and methodologies, each contributing distinctively to the progress of this dynamic field [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs8020034"
+    },
+    {
+        "id": 22698,
+        "title": "Monkeypox Detection Through Watershed Segmentation and Appending 2D CNN Based Auto Encoder",
+        "authors": "Krishnan T, Selvakumar K, Vairachilai S",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "Monkeypox, a viral zoonosis, may spread from animals to people. Fever, rashes, and swollen lymph nodes might create medical complications. Its symptoms resemble smallpox. To prevent monkey pox sickness, you must be prepared and treat it immediately. Public health systems should be aware of effective monkeypox mitigation methods because to its global health impacts. Watershed segmentation using CNN-based auto encoder detected monkeypox. Monkeypox may be distinguished from other skin infections. Watershed segmentation, elevation map utilisingsobel, and region-based feature extraction function well on impacted skin photos. Segmenting Monekypox images is tough due to similarities and variations across classes and the difficulties of focusing on skin lesions. Unsupervised learning models like the convolutional autoencoder duplicate the input image in the output layer. Encoders, ConvNets that produce low-dimensional images, process images passed via them.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17762/ijritcc.v11i9s.7472"
+    },
+    {
+        "id": 22699,
+        "title": "3D Printing Functionality: Materials, Sensors, Electromagnetics",
+        "authors": "Corey Shemelya",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "Additive manufacturing has enabled multifunctional structures, sensors, devices, and platforms to be used in a multitude of fields [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs7010033"
+    },
+    {
+        "id": 22700,
+        "title": "Exceptional designs in some extended quadratic residue codes",
+        "authors": "Reina Ishikawa",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "AbstractIn the present paper, we give proofs of the existence of a 3‐design in the extended ternary quadratic residue code of length 14 and the extended quaternary quadratic residue code of length 18.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/jcd.21907"
+    },
+    {
+        "id": 22701,
+        "title": "Anomalous Indoor Human Trajectory Detection Based on the Transformer Encoder and Self-Organizing Map",
+        "authors": "Doi Thi Lan, Seokhoon Yoon",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3335665"
+    },
+    {
+        "id": 22702,
+        "title": "Sustainable Design in Building and Urban Environment",
+        "authors": "Farshid Aram",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "The basic objectives of sustainability are to reduce the consumption of non-renewable resources, minimize waste, and create healthy, productive environments [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/designs7040099"
+    },
+    {
+        "id": 22703,
+        "title": "Recent innovations in adaptive trial designs: A review of design opportunities in translational research",
+        "authors": "Alexander M. Kaizer, Hayley M. Belli, Zhongyang Ma, Andrew G. Nicklawsky, Samantha C. Roberts, Jessica Wild, Adane F. Wogu, Mengli Xiao, Roy T. Sabo",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "AbstractClinical trials are constantly evolving in the context of increasingly complex research questions and potentially limited resources. In this review article, we discuss the emergence of “adaptive” clinical trials that allow for the preplanned modification of an ongoing clinical trial based on the accumulating evidence with application across translational research. These modifications may include terminating a trial before completion due to futility or efficacy, re-estimating the needed sample size to ensure adequate power, enriching the target population enrolled in the study, selecting across multiple treatment arms, revising allocation ratios used for randomization, or selecting the most appropriate endpoint. Emerging topics related to borrowing information from historic or supplemental data sources, sequential multiple assignment randomized trials (SMART), master protocol and seamless designs, and phase I dose-finding studies are also presented. Each design element includes a brief overview with an accompanying case study to illustrate the design method in practice. We close with brief discussions relating to the statistical considerations for these contemporary designs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/cts.2023.537"
+    },
+    {
+        "id": 22704,
+        "title": "A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images",
+        "authors": "Chiagoziem C. Ukwuoma, Zhiguang Qin, Md Belal Bin Heyat, Faijan Akhtar, Olusola Bamisile, Abdullah Y. Muaad, Daniel Addo, Mugahed A. Al-antari",
+        "published": "2023-6",
+        "citations": 41,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jare.2022.08.021"
+    }
+]

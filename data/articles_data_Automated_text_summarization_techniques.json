@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 25105,
+        "title": "Text Summarization Using Deep Learning Techniques: A Review",
+        "authors": "Mohmmadali Muzffarali Saiyyad, Nitin N. Patil",
+        "published": "2024-1-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023059194"
+    },
+    {
+        "id": 25106,
+        "title": "A Review of Text Summarization Techniques Using NLP",
+        "authors": "Kartik Aggarwal",
+        "published": "2023-10-14",
+        "citations": 0,
+        "abstract": "Techniques that employ natural language processing (NLP), often known as text summarizing, automatically construct summaries of extensive texts. Extractive and abstractive summarization are two main categories that may be used to classify these methods. In extractive summarizing, the most significant lines or phrases from a text are isolated and used to generate a summary. On the other hand, in abstractive summarization, a summary is generated that is clear, short, and accurate in its representation of the text's primary concepts. NLP methods like sentence segmentation, part-of-speech tagging, named entity recognition, and semantic analysis are used in generating a summary from a text and locating and extracting relevant information from the text. Text summarizing is a subject that has received a significant amount of study and has applications in various fields, including the summation of news articles, documents, and emails, among other things.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36647/ciml/04.02.a001"
+    },
+    {
+        "id": 25107,
+        "title": "Effective News Text Summarization Techniques",
+        "authors": "",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "n proposed work, we successfully implemented a news text summarization system using Natural Language Processing (NLP) techniques and the Latent Semantic Analysis (LSA) algorithm. The purpose of our project was to extract important information from a large volume of news articles and present it in a concise and easily understandable manner. To achieve this, we utilized the LSA algorithm, which is known for its ability to capture the underlying semantic structure of text. LSA employs a mathematical model to analyse relationships between words in a document, creating a semantic representation where words with similar contexts are grouped together in a vector space. The LSA-based summarization process involved several steps. First, we pre-processed the news articles by removing stop words, punctuation, and other non-relevant elements. Then, we constructed a term-document matrix, where rows represented words and columns represented documents, with matrix values representing word frequencies. Next, we applied Singular Value Decomposition (SVD) to the term-document matrix. SVD helped reduce the matrix's dimensionality by identifying the most important latent semantic concepts. This resulted in a lower-dimensional representation that captured the essential information. Finally, we identified the most important sentences in the news articles by measuring the cosine similarity between each sentence and the summary. Sentences with the highest cosine similarity scores were selected as summary sentences. The proposed system demonstrated the effectiveness of the LSA algorithm for news text summarization. By capturing the semantic structure of the text, it generated summaries that allowed users to understand the key points of a news article quickly and easily. Our implementation had practical applications for content recommendation systems, news aggregation platforms, and personalized news feeds. However, it is important to acknowledge the limitations of the LSA algorithm. It may struggle with handling idiomatic expressions and can be sensitive to the quality of the input data. These considerations highlight the need for ongoing research and development to enhance the performance and robustness of news text summarization systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30534/ijatcse/2023/071232023"
+    },
+    {
+        "id": 25108,
+        "title": "Machine Learning-Based Automatic Text Summarization Techniques",
+        "authors": "P. Radhakrishnan, G. Senthil kumar",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02293-z"
+    },
+    {
+        "id": 25109,
+        "title": "Systematic Literature Review: Automated Text Summarization for Indonesian Language",
+        "authors": "Rizka Irianty Naharuddin, Paulus Insap Santosa, Teguh Bharata Adji",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icitacee58587.2023.10277395"
+    },
+    {
+        "id": 25110,
+        "title": "Over comparative study of text summarization techniques based on graph neural networks",
+        "authors": "Samina Mulla, Nuzhat F. Shaikh",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "Due to the enormous content of text available online through emails, social media, and news articles, it has become complicated to summarize the textual information from multiple documents. Text summarization automatically creates a comprehensive description of the document that retains its informative contents through the keywords, where Multi-Document Summarization (MDS) is a productive tool for data accumulation that creates a concise and informative summary from the documents. In order to extract the relevant information from the documents, Graph neural networks (GNNs) is the neural structure that detains the interrelation of the graph by progressing the messages between the graphical nodes. In the current years, the advanced version of GNNs, such as graph attention network (GAN), graph recurrent network, and graph convolutional network (GCN) provides a remarkable performance in text summarization with the advantage of deep learning techniques. Hence, in this survey, graph approaches for text summarization has been analyzed and discussed, where the recent text summarization model based on Deep learning techniques are highlighted. Further, the article provides the taxonomy to abstract the design pattern of Neural Networks and conducts a comprehensive of the existing text summarization model. Finally, the review article enlists the future direction of the researcher, which would motivate the enthusiastic and novel contributions in text summarizations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/web-230014"
+    },
+    {
+        "id": 25111,
+        "title": "Automatic Short Text Summarization Techniques in Social Media Platforms",
+        "authors": "Fahd A. Ghanem, M. C. Padma, Ramez Alkhatib",
+        "published": "2023-9-13",
+        "citations": 1,
+        "abstract": "The rapid expansion of social media platforms has resulted in an unprecedented surge of short text content being generated on a daily basis. Extracting valuable insights and patterns from this vast volume of textual data necessitates specialized techniques that can effectively condense information while preserving its core essence. In response to this challenge, automatic short text summarization (ASTS) techniques have emerged as a compelling solution, gaining significant importance in their development. This paper delves into the domain of summarizing short text on social media, exploring various types of short text and the associated challenges they present. It also investigates the approaches employed to generate concise and meaningful summaries. By providing a survey of the latest methods and potential avenues for future research, this paper contributes to the advancement of ASTS in the ever-evolving landscape of social media communication.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/fi15090311"
+    },
+    {
+        "id": 25112,
+        "title": "Automated Text Summarization as A Service",
+        "authors": "Ketan Shahapure, Samit Shivadekar, Shivam Vibhute, Milton Halem",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "Recent advancements in technology have enabled the storage of voluminous data. As this data is abundant, there is a need to create summaries that would capture the relevant details of the original source. Since manual summarization is a very taxing process, researchers have been actively trying to automate this process using modern computers that could try to comprehend and generate natural human language. Automated text summarization has been one of the most researched areas in the realm of Natural Language Processing (NLP). Extractive and abstractive summarization are two of the most commonly used techniques for generating summaries. In this study, we present a new methodology that takes the aforementioned summarization techniques into consideration and based on the input, generates a summary that is seemingly better than that generated using a single approach. Further, we have made an attempt to provide this methodology as a service that is deployed on the internet and is remotely accessible from anywhere. This service provided is scalable, fully responsive, and configurable. Next, we also discuss the evaluation process through which we came up with the best model out of many candidate models. Lastly, we conclude by discussing the inferences that we gained out of this study and provide a brief insight into future directions that we could explore.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32628/ijsrset12310669"
+    },
+    {
+        "id": 25113,
+        "title": "A Survey on Text Summarization Techniques",
+        "authors": "Sneha Thange, Jayesh Dange, Vivek Karjule, Janhavi Sase",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29322/ijsrp.13.11.2023.p14355"
+    },
+    {
+        "id": 25114,
+        "title": "Deep Learning Techniques for Automatic Text Summarization: A Review",
+        "authors": "Rujeena Reang, Vasudev Dehalwar, R. K. Pateriya",
+        "published": "2024-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sceecs61402.2024.10482335"
+    },
+    {
+        "id": 25115,
+        "title": "Exploring Text Summarization Techniques: A Review of Current Challenges and Future Directions",
+        "authors": "Abha Kaushik, Shree Harsh Attri, Ravi Shankar Jha",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt61202.2024.10489243"
+    },
+    {
+        "id": 25116,
+        "title": "Automated Extractive Text Summarization using Genetic and Simulated Annealing Algorithms and their Hybridization",
+        "authors": "Moheb R. Girgis, Marina Esam, Mamdouh M. Gomaa",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5120/ijca2023923105"
+    },
+    {
+        "id": 25117,
+        "title": "A Combined Approach of Text Summarization using different Keyword Extraction Techniques",
+        "authors": "Lubna Rani Sarker, Md. Nahid Sultan",
+        "published": "2023-3-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5120/ijca2023922648"
+    },
+    {
+        "id": 25118,
+        "title": "Survey on the Biomedical Text Summarization Techniques with an Emphasis on Databases, Techniques, Semantic Approaches, Classification Techniques, and Similarity Measures",
+        "authors": "Dipti Pawar, Shraddha Phansalkar, Abhishek Sharma, Gouri Kumar Sahu, Chun Kit Ang, Wei Hong Lim",
+        "published": "2023-2-26",
+        "citations": 0,
+        "abstract": "Biomedical text summarization (BTS) is proving to be an emerging area of work and research with the need for sustainable healthcare applications such as evidence-based medicine practice (EBM) and telemedicine which help effectively support healthcare needs of the society. However, with the rapid growth in the biomedical literature and the diversities in its structure and resources, it is becoming challenging to carry out effective text summarization for better insights. The goal of this work is to conduct a comprehensive systematic literature review of significant and high-impact literary work in BTS with a deep understanding of its major artifacts such as databases, semantic similarity measures, and semantic enrichment approaches. In the systematic literature review conducted, we applied search filters to find high-impact literature in the biomedical text summarization domain from IEEE, SCOPUS, Elsevier, EBSCO, and PubMed databases. The systematic literature review (SLR) yielded 81 works; those were analyzed for qualitative study. The in-depth study of the literature shows the relevance and efficacy of the deep learning (DL) approach, context-aware feature extraction techniques, and their relevance in BTS. Biomedical question answering (BQA) system is one of the most popular applications of text summarizations for building self-sufficient healthcare systems and are pointing to future research directions. The review culminates in realization of a proposed framework for the BQA system MEDIQA with design of better heuristics for content screening, document screening, and relevance ranking. The presented framework provides an evidence-based biomedical question answering model and text summarizer that can lead to real-time evidence-based clinical support system to healthcare practitioners.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15054216"
+    },
+    {
+        "id": 25119,
+        "title": "A survey of text summarization: Techniques, evaluation and challenges",
+        "authors": " Supriyono, Aji Prasetya Wibawa,  Suyono, Fachrul Kurniawan",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nlp.2024.100070"
+    },
+    {
+        "id": 25120,
+        "title": "A Comparative Survey of Text Summarization Techniques",
+        "authors": "Patcharapruek Watanangura, Sukit Vanichrudee, On Minteer, Theeranat Sringamdee, Nattapong Thanngam, Thitirat Siriborvornratanakul",
+        "published": "2023-12-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02343-6"
+    },
+    {
+        "id": 25121,
+        "title": "Personalized Multi-document Text Summarization using Deep Learning Techniques",
+        "authors": "K Veningston, P V Venkateswara Rao, M Ronalda",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.100"
+    },
+    {
+        "id": 25122,
+        "title": "GaSUM: A Genetic Algorithm Wrapped BERT for Text Summarization",
+        "authors": "Imen Tanfouri, Fethi Jarray",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011893000003393"
+    },
+    {
+        "id": 25123,
+        "title": "Retracted: Qualitative Analysis of Text Summarization Techniques and Its Applications in Health Domain",
+        "authors": "",
+        "published": "2023-8-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9871283"
+    },
+    {
+        "id": 25124,
+        "title": "Automated Abstractive Text Summarization Using Multidimensional Long Short-Term Memory",
+        "authors": "Anwar Khan",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "Text summarization is a technique for condensing and presenting the most crucial information from a larger text in a succinct manner. It is a challenging task for human beings to manually summarize extensive documents due to the time required and cognitive effort involved. The increasing amount of textual data generated in recent years has led to a greater demand for efficient and automated text summarization methods. This study explores the utilization of deep learning and neural network concepts to create an automatic abstractive text summarization system for product reviews using multi-dimensional long short-term memory. Since, reading product reviews can be a time-consuming task, especially given the abundance and diversity of reviews written by numerous individuals. The proposed model was evaluated by comparing the generated summaries to reference summaries using metrics such as Rouge. Further, the performance of the model is compared with the prevalent state-of-the-art techniques. The proposed Multi-Dimensional LSTM model was evaluated using the Amazon food review dataset and compared with four other text summarization methods. The proposed model outperformed the prevalent models in terms of ROUGE-1 and ROUGE-L scores but was slightly outperformed in terms of the ROUGE-2 score.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52584/qrj.2102.01"
+    },
+    {
+        "id": 25125,
+        "title": "A Survey On Text Summarization in Urdu Language using Machine Learning Techniques",
+        "authors": "Prathi Himaja, Guduru Anvitha, Syed Fasih Ahsan, Manikya Chowdary, T. Vignesh",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccci56745.2023.10128310"
+    },
+    {
+        "id": 25126,
+        "title": "Text summarization and translation on multimodal data",
+        "authors": "Y. Krishna Bhargavi, P. Srinivas, V. Vamshi Krishna, P. Suvarna Rao, N. Upendhar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0161374"
+    },
+    {
+        "id": 25127,
+        "title": "A hybrid drug named entity recognition framework for real time  pubmed data using deep learning and text summarization  techniques",
+        "authors": "Mathu T",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15199/48.2023.08.18"
+    },
+    {
+        "id": 25128,
+        "title": "A Hybrid Extractive-Abstractive Framework with Pre &amp; Post-Processing Techniques To Enhance Text Summarization",
+        "authors": "Rohan Habu, Rohit Ratnaparkhi, Anjali Askhedkar, Sunita Kulkarni",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acit58437.2023.10275584"
+    },
+    {
+        "id": 25129,
+        "title": "Machine Learning based Extractive Text Summarization Techniques",
+        "authors": "G. Ram Sundar, C. Shobana Nageswari, J Antony Vijay, S. Renuga Devi, N. Basker, N. Pushpa",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciics59993.2023.10421192"
+    },
+    {
+        "id": 25130,
+        "title": "Evaluation of Automatic Legal Text Summarization Techniques for Greek Case Law",
+        "authors": "Marios Koniaris, Dimitris Galanis, Eugenia Giannini, Panayiotis Tsanakas",
+        "published": "2023-4-21",
+        "citations": 4,
+        "abstract": "The increasing amount of legal information available online is overwhelming for both citizens and legal professionals, making it difficult and time-consuming to find relevant information and keep up with the latest legal developments. Automatic text summarization techniques can be highly beneficial as they save time, reduce costs, and lessen the cognitive load of legal professionals. However, applying these techniques to legal documents poses several challenges due to the complexity of legal documents and the lack of needed resources, especially in linguistically under-resourced languages, such as the Greek language. In this paper, we address automatic summarization of Greek legal documents. A major challenge in this area is the lack of suitable datasets in the Greek language. In response, we developed a new metadata-rich dataset consisting of selected judgments from the Supreme Civil and Criminal Court of Greece, alongside their reference summaries and category tags, tailored for the purpose of automated legal document summarization. We also adopted several state-of-the-art methods for abstractive and extractive summarization and conducted a comprehensive evaluation of the methods using both human and automatic metrics. Our results: (i) revealed that, while extractive methods exhibit average performance, abstractive methods generate moderately fluent and coherent text, but they tend to receive low scores in relevance and consistency metrics; (ii) indicated the need for metrics that capture better a legal document summary’s coherence, relevance, and consistency; (iii) demonstrated that fine-tuning BERT models on a specific upstream task can significantly improve the model’s performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14040250"
+    },
+    {
+        "id": 25131,
+        "title": "Automated Abstractive Text Summarization using Deep Learning",
+        "authors": "G. Karuna, M. Akshith, Parige Sai Dinesh, Bodhan Vishnu Vardhan, Yashwant Singh Bisht, M.N. Narsaiah",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "A class of neural networks known as Recurrent Neural Networks (RNNs) are capable of processing sequential input, including time series and plain language. In the shortest possible time to find relevant and useful information, it is for sure very helpful if the information is summarized, but it typically requires a lot of effort, dedication, patience, and attention to detail for humans to go through and summarize the lengthy texts. This can be done using automated abstractive text summarization techniques by using deep learning which is the way of selecting the most significant information in a text, then condensing it while maintaining its underlying meaning. The objective is to construct an abstractive text summarizer using deep learning. It takes large meaning-full text data as input and gives the summary of the data as output. The algorithm which is been used here is the Long Short Term Memory model (LSTM) which is a type of RNN model. And then next the model which is been used is the Sequence to Sequence model (Seq2Seq). Seq2Seq learning is the training model that can modify the sequences of one input into the sequences of another output. The dataset used is News Summary dataset which is taken from Kaggle. Experimental results on the news summary dataset show that the proposed method results are appropriate and match with the other methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/e3sconf/202343001021"
+    },
+    {
+        "id": 25132,
+        "title": "Arabic Text Summarization using Pre-Processing Methodologies and Techniques",
+        "authors": "Mohamed Yassin Abdelwahab, Yazeed Al Moaiad, Zainab Abu Bakar",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17576/apjitm-2023-1201-05"
+    },
+    {
+        "id": 25133,
+        "title": "Development of Text Summarization Method based on Graph Theory and Malatya Centrality Algorithm",
+        "authors": "Selman YAKUT, Cevher Tayyib BAKAN",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "With the advancement of the internet, humanity has gained easy access to a plethora of information. However, to access accurate content, numerous texts and sources must be read. These texts often contain repetitive words and sentences. The abundance of information renders reading texts in their entirety inefficient in terms of time and makes finding suitable content challenging. To overcome these difficulties, various methods have been developed in research on automatic summarization. In the literature, there are numerous methods developed for different purposes in text summarization. Nevertheless, text summarization can generally be divided into two distinct categories: extractive and abstractive summarization. Abstractive algorithms tend to create new sentences by learning from the text. However, this approach prolongs the working process due to the learning phase and the generated sentences may not possess absolute accuracy. On the other hand, extractive methods, if unable to generate new sentences, have the ability to provide faster and completely accurate summaries by selecting sentences that already exist in the text. For these reasons, in our study, the aim is to perform text summarization using graph theory and the Malatya Centrality Algorithm. The Malatya Centrality Algorithm offers a polynomial approach to solving Vertex Cover Problems and is regarded as an effective solution method. It is believed that the Malatya Centrality Algorithm will contribute to graph-based text summarization. The implementation has been developed using the Python programming language, and the obtained results have been evaluated.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53070/bbd.1350971"
+    },
+    {
+        "id": 25134,
+        "title": "Video Summarization using Speech Recognition and Text Summarization",
+        "authors": "Tirath Tyagi, Lakshaya Dhari, Yash Nigam, Renuka Nagpal",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incet57972.2023.10169901"
+    },
+    {
+        "id": 25135,
+        "title": "Evaluation of text summarization techniques in healthcare domain: Pharmaceutical drug feedback",
+        "authors": "Monika Arora, Pooja Mudgil, Utkarsh Sharma, Chaitanya Chopra, Ngangbam Herojit Singh",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "Text summarization techniques offer a way to address the significant challenges faced by clinicians and researchers due to the exponential growth of information in healthcare on the internet. By condensing lengthy text into concise summaries, these techniques facilitate faster, easier, and convenient access to relevant information. This is particularly beneficial in use cases such as online user feedback/reviews about drugs, where valuable insights can be obtained that extend beyond clinical trials and observational studies. This paper comprehensively evaluates six widely used text summarization techniques (LSA, Luhn’s Method, Text Rank, T5 Transformer, and Kullback-Leibler, BERT) in extracting key insights, themes and patterns about drugs from online drug reviews. The evaluation considers both quantitative and qualitative aspects, focusing on their applicability to the challenging medical terminology, which is known for its inherent intricacies and complexities. The findings of this study showed the performance of text summarization techniques using metrics such as F1 score, Recall, and Precision, focused on the unigram, bigram, and trigram overlap between the generated text summaries and the reference summaries, utilizing the ROUGE-1, ROUGE-2, and ROUGE-L evaluation methods. It is shown that results showed TextRank to be the most effective text summarization method followed by BERT when working with Medical Terminology in Healthcare & Biomedical Informatics, given its complex hierarchy and extensive vocabulary of medical terms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/idt-230129"
+    },
+    {
+        "id": 25136,
+        "title": "Text Summarization of Medical Documents using Abstractive Techniques",
+        "authors": "Evani Lalitha, Kasarapu Ramani, Dudekula Shahida, Esikela Venkata Sai Deepak, M Hima Bindu, Diguri Shaikshavali",
+        "published": "2023-5-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaaic56838.2023.10140885"
+    },
+    {
+        "id": 25137,
+        "title": "Evaluating Text Summarization Generated by Popular AI Tools",
+        "authors": "Zhuoran Lin, Sifan Chen, Ning Wang, Hongjun Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012283800003807"
+    },
+    {
+        "id": 25138,
+        "title": "Text Mining Data Based Summarization of Novel Approach for Covid-19 with the Use of Machine Learning Techniques",
+        "authors": "Chataparti Suvarna Lakshmi, Sameer Saxena, Billakurthi Suresh Kumar",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic2pct60090.2024.10486675"
+    },
+    {
+        "id": 25139,
+        "title": "Utilizing Deep Learning Techniques for Text and Image Capturing Summarization in Information Retrievals",
+        "authors": " Dr. S. Selvakani,  Mrs K. Vasumathi,  S. Divya",
+        "published": "2023-3-30",
+        "citations": 0,
+        "abstract": "In this paper, a novel information retrieval and text summarization model based on deep learning (DL) is introduced. The model comprises three primary stages, including information retrieval, template generation, and text summarization. The initial step involves utilizing a bidirectional long short term memory (BiLSTM) technique to retrieve textual data. This approach considers each word in a sentence, extracts relevant information, and converts it into a semantic vector.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32628/cseit2390218"
+    },
+    {
+        "id": 25140,
+        "title": "Implementation of Preprocessing in Text Summarization Techniques for Indonesian Language Documents Using the Flax T5 Approach",
+        "authors": "Arif Ridho Lubis, Habibi Ramdani Safitri,  Irvan, Muharman Lubis,  Al-Khowarizmi, Okvi Nugroho",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/citsm60085.2023.10455364"
+    },
+    {
+        "id": 25141,
+        "title": "Medical Reports Summarization Using Text-To-Text Transformer",
+        "authors": "Abdulkader Helwan, Danielle Azar, Dilber Uzun Ozsahin",
+        "published": "2023-2-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aset56582.2023.10180671"
+    },
+    {
+        "id": 25142,
+        "title": "AUTOMATED TEXT ANALYSIS OF HISTORICAL DOCUMENTS USING MACHINE LEARNING TECHNIQUES",
+        "authors": "Bih Ni Lee",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "This paper presents an innovative approach to the automated analysis of historical documents through the application of advanced machine learning techniques. The problem background in automated text analysis of historical documents using machine learning techniques is efficiently processing large volumes of diverse historical texts to extract valuable insights and patterns, enhancing historical research and understanding. Leveraging the power of natural language processing, this study proposes a comprehensive framework that encompasses data preprocessing, feature extraction, and model training, enabling the efficient extraction of valuable insights from vast collections of historical texts. By utilizing cutting-edge algorithms, including deep learning and sentiment analysis, the research demonstrates the potential of this approach in uncovering hidden patterns, sentiments, and semantic nuances within historical documents, thereby facilitating a deeper understanding of the past and shedding light on critical historical events and societal developments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35631/jistm.934006"
+    },
+    {
+        "id": 25143,
+        "title": "Summaries as Captions: Generating Figure Captions for Scientific Documents with Automated Text Summarization",
+        "authors": "Chieh-Yang Huang, Ting-Yao Hsu, Ryan Rossi, Ani Nenkova, Sungchul Kim, Gromit Yeuk-Yin Chan, Eunyee Koh, C Lee Giles, Ting-Hao Huang",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.inlg-main.6"
+    },
+    {
+        "id": 25144,
+        "title": "Automatic Extractive Text Summarization of Hindi Text using Deep learning approach",
+        "authors": "Nandini Kapoor, Ayush Gupta, K. Meenakshi",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccci56745.2023.10128243"
+    },
+    {
+        "id": 25145,
+        "title": "Abstractive summarization of COVID-19 with transfer text-to-text transformer",
+        "authors": "Zhaopu Teng",
+        "published": "2023-3-22",
+        "citations": 0,
+        "abstract": "As a classic problem of Natural Language Processing, summarization provides convenience for studies, research, and daily life. The performance of generation summarization by Natural Language Processing techniques has attracted considerable attention. Meanwhile, COVID-19, a global explosion event, has led to the emergence of a large number of articles and research. The wide variety of articles makes it a perfect realization object for summarization generation tasks. This paper designed and implemented experiments by fine tuning T5 model to get an abstract summarization of COVID-19 literatures. A comparison of performance was shown to prove the reliability of the model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/2/20220520"
+    },
+    {
+        "id": 25146,
+        "title": "Turkish abstractive text document summarization using text to text transfer transformer",
+        "authors": "Betul Ay, Fatih Ertam, Guven Fidan, Galip Aydin",
+        "published": "2023-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aej.2023.01.008"
+    },
+    {
+        "id": 25147,
+        "title": "Automated Bengali abusive text classification: Using Deep Learning Techniques",
+        "authors": "Showni Rudra Titli, Shimul Paul",
+        "published": "2023-4-19",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaecis58353.2023.10170294"
+    },
+    {
+        "id": 25148,
+        "title": "Deep Learning Based Text Translation and Summarization Tool for Hearing Impaired Using Indian Sign Language",
+        "authors": "Anurag Jha, Kabita Choudhary, Sujala Shetty",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011728200003411"
+    },
+    {
+        "id": 25149,
+        "title": "Enhancing Summarization Performance Through Transformer-Based Prompt Engineering in Automated Medical Reporting",
+        "authors": "Daphne van Zandvoort, Laura Wiersema, Tom Huibers, Sandra van Dulmen, Sjaak Brinkkemper",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012422600003657"
+    },
+    {
+        "id": 25150,
+        "title": "Text Analysis and Summarization: Innovating Information Processing Through Advanced Technology",
+        "authors": "",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17756/nwj.2023-s4-090"
+    },
+    {
+        "id": 25151,
+        "title": "TEXT SUMMARIZATION USING EXTRACTION MODEL",
+        "authors": "",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets47442"
+    },
+    {
+        "id": 25152,
+        "title": "A Comparative Study of Transformer-Based Neural Text Representation Techniques on Bug Triaging",
+        "authors": "Atish Kumar Dipongkor, Kevin Moran",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ase56229.2023.00217"
+    },
+    {
+        "id": 25153,
+        "title": "Text Summarization and Conversion of Speech to Text",
+        "authors": "Prof. Priyanka Abhale",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "Abstract: This article describes the fusion of recurrent neural networks and deep learning algorithms for text summarization systems and analysis of the text learning process. Next, the text analytics learning model is summarized. In addition, applications of deep learning-based text analysis are also introduced. Language is the most important part of communication between people. Although there are many ways to express our thoughts and feelings, language is considered the most important medium of communication. Speech recognition is the process by which machines recognize different people's voices based on specific words and phrases. End-to-end deep learning techniques can be used to identify and simplify spatial representations of text data and semantic information. This study considers text analysis based on deep learning",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2023.52902"
+    },
+    {
+        "id": 25154,
+        "title": "Analogical Text Mining: Application to Arabic Text Summarization and Classification",
+        "authors": "Bilel Elayeb, Amina Chouigui, Myriam Bounhas",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiccsa59173.2023.10479304"
+    },
+    {
+        "id": 25155,
+        "title": "Automated Moderation Helper System Using Artificial Intelligence Based Text Classification and Recommender System Techniques",
+        "authors": "Barnabás Rőczey, Sándor Szénási",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/saci58269.2023.10158593"
+    },
+    {
+        "id": 25156,
+        "title": "Text Summarization in Assamese Language using Sequence to Sequence RNNs",
+        "authors": "Pritom Jyoti Goutom,  , Nomi Baruah",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17485/ijst/v16isp2.5429"
+    },
+    {
+        "id": 25157,
+        "title": "Arabic Text Summarization Challenges using Deep Learning Techniques: A Review",
+        "authors": "Adnan Souri, Mohammed Al Achhab, Badr Eddine El Mohajir, Mohamed Naoum, Outman El Hichami, Abdelali Zbakh",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "Text summarization is a challenging field in Natural Language Processing due to language modelisation and used techniques to give concise summaries.  Dealing with Arabic language does increase the challenge while taking into consideration the many features of the Arabic language, the lack of tools and resources for Arabic, and the Algorithms adaptation and modelisation. In this paper, we present several researches dealing with Arabic Text summarization applying different Algorithms on several Datasets. We then compare all these researches and we give a conclusion to guide researchers on their further work.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17762/ijritcc.v11i11s.8079"
+    },
+    {
+        "id": 25158,
+        "title": "Extractive Text Summarization Using Generalized Additive Models with Interactions for Sentence Selection",
+        "authors": "Vinícius da Silva, João Paulo Papa, Kelton Augusto da Costa",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011664100003417"
+    },
+    {
+        "id": 25159,
+        "title": "Abstractive Text Summarization Based on Long-Short Transformer",
+        "authors": "Shibo Ji, Bo Yang",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiiot58121.2023.10174260"
+    },
+    {
+        "id": 25160,
+        "title": "Automated Generation of Chinese Text-Image Summaries Using Deep Learning Techniques",
+        "authors": "Meiling Xu, Hayati Abd Rahman, Feng Li",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/ts.400644"
+    },
+    {
+        "id": 25161,
+        "title": "Frequency-Driven Approach for Extractive Text Summarization",
+        "authors": " Ashwini Zadgaonkar",
+        "published": "2023-2-15",
+        "citations": 0,
+        "abstract": "Due to Digital Revolution, most books and newspaper articles are now available online. Particularly for kids and students, prolonged screen time might be bad for eyesight and attention span. As a result, summarizing algorithms are required to provide long web content in an easily digestible style. The proposed methodology is using term frequency and inverse document frequency driven model, in which the document summary is generated based on each word in a corpus. According to the preferred method, each sentence is rated according to its tf-idf score, and the document summary is produced in a fixed ratio to the original text. Expert summaries froma data set are used for measuring precision and recall using the proposed approach’s ROUGE model. towards the development of such a framework is presented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47164/ijngc.v14i1.1019"
+    },
+    {
+        "id": 25162,
+        "title": "Text Summarization and Keyword Extraction",
+        "authors": "Pallavi Sharma, Min Chen",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiai-aai59060.2023.00078"
+    },
+    {
+        "id": 25163,
+        "title": "News text Analysis using Text Summarization and Sentiment Analysis based on NLP",
+        "authors": "Abir Mishra, Akshat Sahay, M anjusha Pandey, Siddharth Swarup Routaray",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsmdi57622.2023.00014"
+    },
+    {
+        "id": 25164,
+        "title": "Overview of Judicial Text Summarization Method",
+        "authors": "Hongtao Zhao",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "This article delves deep into the core aspects of the task of generating judicial text summaries. Through a systematic review and distillation of existing relevant literature, the article primarily focuses on extractive text summarization techniques in both unsupervised and supervised learning contexts, conducting a multidimensional and comprehensive analysis. To begin with, the article traces the evolution of text summarization techniques and dissects the differences between extractive and generative text summarization methods, along with a comparison of various algorithms. Furthermore, it provides a detailed introduction to a pipeline judicial summary generation model that combines both extractive and generative approaches. The article also conducts an in-depth analysis of the impact of transfer learning, using three different models, on judicial text summary generation. Lastly, while acknowledging significant progress in the field, the article points out the main issues and challenges in current judicial text summarization research. It also suggests potential solutions and outlines future development trends.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/qe1xts44"
+    },
+    {
+        "id": 25165,
+        "title": "Inverse Reinforcement Learning for Text Summarization",
+        "authors": "Yu Fu, Deyi Xiong, Yue Dong",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.436"
+    },
+    {
+        "id": 25166,
+        "title": "Automatic Text Summarization For Conversational Chatbot",
+        "authors": "Kethireddy Maheedhar Reddy, Radha Guha",
+        "published": "2023-4-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/i2ct57861.2023.10126161"
+    },
+    {
+        "id": 25167,
+        "title": "Abstractive Text Summarization using Pre-Trained Language Model \"Text-to-Text Transfer Transformer (T5)\"",
+        "authors": "Qurrota A’yuna Itsnaini, Mardhiya Hayaty, Andriyan Dwi Putra, Nidal A.M Jabari",
+        "published": "2023-4-7",
+        "citations": 1,
+        "abstract": "Automatic Text Summarization (ATS) is one of the utilizations of technological sophistication in terms of text processing assisting humans in producing a summary or key points of a document in large quantities. We use Indonesian language as objects because there are few resources in NLP research using Indonesian language. This paper utilized PLTMs (Pre-Trained Language Models) from the transformer architecture, namely T5 (Text-to-Text Transfer Transformer) which has been completed previously with a larger dataset. Evaluation in this study was measured through comparison of the ROUGE (Recall-Oriented Understudy for Gisting Evaluation) calculation results between the reference summary and the model summary. The experiments with the pre-trained t5-base model with fine tuning parameters of 220M for the Indonesian news dataset yielded relatively high ROUGE values, namely ROUGE-1 = 0.68, ROUGE-2 = 0.61, and ROUGE-L = 0.65. The evaluation value worked well, but the resulting model has not achieved satisfactory results because in terms of abstraction, the model did not work optimally. We also found several errors in the reference summary in the dataset used.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33096/ilkom.v15i1.1532.124-131"
+    },
+    {
+        "id": 25168,
+        "title": "TEXT SUMMARIZATION IN MONGOLIAN LANGUAGE",
+        "authors": "Chuluundorj Begz",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "Textual information in this new era, it is difficult to manually extract the summary of a large data different areas of social communication accumulates the enormous amounts of data. Therefore, it is important to develop methods for searching and absorbing relevant information, selecting important sentences, paragraphs from large texts, to summarize texts by finding topics of the text and frequency based clustering of sentences. In this paper, the author presents some ideas on using mathematical models in presenting the source text into a shorter version with semantics, graph-based approach for text summarization in Mongolian language.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/ijnlc.2023.12206"
+    },
+    {
+        "id": 25169,
+        "title": "Summarization Of Text Using Natural Language Processing",
+        "authors": "Madhur Yadav",
+        "published": "2023-4-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29322/ijsrp.13.04.2023.p13611"
+    },
+    {
+        "id": 25170,
+        "title": "Hierarchical3D Adapters for Long Video-to-text Summarization",
+        "authors": "Pinelopi Papalampidi, Mirella Lapata",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-eacl.96"
+    },
+    {
+        "id": 25171,
+        "title": "SummIt: Iterative Text Summarization via ChatGPT",
+        "authors": "Haopeng Zhang, Xiao Liu, Jiawei Zhang",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.714"
+    },
+    {
+        "id": 25172,
+        "title": "IWM-LSTM encoder for abstractive text summarization",
+        "authors": "Ravindra Gangundi, Rajeswari Sridhar",
+        "published": "2024-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-19091-1"
+    },
+    {
+        "id": 25173,
+        "title": "Automated Summarization of Stack Overflow Posts",
+        "authors": "Bonan Kou, Muhao Chen, Tianyi Zhang",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icse48619.2023.00158"
+    },
+    {
+        "id": 25174,
+        "title": "Abstractive Text Summarization Using Multimodal Information",
+        "authors": "Shaik Rafi, Ranjita Das",
+        "published": "2023-11-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscmi59957.2023.10458505"
+    },
+    {
+        "id": 25175,
+        "title": "Research on Secondary Filtering in Generative Automatic Text Summarization",
+        "authors": "Jing Gao, Jianyue Zhai",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaml60083.2023.00072"
+    },
+    {
+        "id": 25176,
+        "title": "Interpretable extractive text summarization with meta-learning and BI-LSTM: A study of meta learning and explainability techniques",
+        "authors": "Song-Nguyen Vo, Tien-Thinh Vo, Bac Le",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.123045"
+    },
+    {
+        "id": 25177,
+        "title": "Bengali Text Summarization with Attention-Based Deep Learning",
+        "authors": "Anupam Singha, N R Rajalakshmi",
+        "published": "2023-8-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asiancon58793.2023.10270772"
+    },
+    {
+        "id": 25178,
+        "title": "Auto-Summarization of text by using Natural Language Processing",
+        "authors": "",
+        "published": "2023-8-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets43798"
+    },
+    {
+        "id": 25179,
+        "title": "A Comparative Study On Extractive Text Summarization Technique",
+        "authors": "Monalisha Majhi, Jyotirmayee Rautray",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/r10-htc57504.2023.10461874"
+    },
+    {
+        "id": 25180,
+        "title": "Extractive Text Summarization Using Deep Learning for Tigrigna Language",
+        "authors": "Meresa Hiluf Gebrehiwot, Michael Melese",
+        "published": "2023-3-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11648/j.ijdst.20230901.11"
+    },
+    {
+        "id": 25181,
+        "title": "An Algorithmic Approach for Text Summarization",
+        "authors": "Amogh Joshi, Prathamesh More, Soumya Shah, Ms. Aarti Sahitya",
+        "published": "2023-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iconat57137.2023.10080575"
+    },
+    {
+        "id": 25182,
+        "title": "Text Summarization for Online and Blended Learning",
+        "authors": "Mahira Kirmani, Gagandeep Kaur",
+        "published": "2024-2-24",
+        "citations": 0,
+        "abstract": "Online learning text summarization is vital for managing the constant influx of online information. It involves condensing lengthy online content into concise summaries while retaining the original meaning and information. While several online summarization tools are available, they often fall short in preserving the underlying semantics of the text. In this paper, we introduce an innovative approach to online text summarization that strongly emphasizes capturing and preserving the semantics of the text. Our automatic summarizer leverages distributional semantic models to extract and incorporate semantics, producing high-quality online summaries. To evaluate the effectiveness of our online summarization system, we conducted experiments on a diverse range of online content. We employed ROUGE metrics, a popular evaluation method for text summarization, to assess our system's performance. Additionally, we compared our results with those of four state-of-the-art online summarizers. The outcome of our study demonstrates that our online summarization approach, which integrates semantics as a fundamental feature, outperforms other reference summarizers. This conclusion underscores the significance of leveraging semantics in the context of online learning text summarization. Furthermore, our system's ability to reduce redundancies in online content makes it a valuable tool for managing information overload in the digital age.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12694/scpe.v25i2.2556"
+    },
+    {
+        "id": 25183,
+        "title": "CoLRP: A Contrastive Learning Abstractive Text Summarization Method with ROUGE Penalty",
+        "authors": "Caidong Tan, Xiao Sun",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191344"
+    },
+    {
+        "id": 25184,
+        "title": "Disentangling Text Representation With Counter-Template For Unsupervised Opinion Summarization",
+        "authors": "Yanyue Zhang, Deyu Zhou",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.395"
+    },
+    {
+        "id": 25185,
+        "title": "Enhanced Model for Automatic Tamil Text Summarization",
+        "authors": "Ignatious K Pious, S Girirajan",
+        "published": "2023-3-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscds56580.2023.10105055"
+    },
+    {
+        "id": 25186,
+        "title": "DBERT-ELVA: Discourse-Aware Extractive Text Summarization with Autoencoder",
+        "authors": "Mahsa Abazari Kia",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictai59109.2023.00053"
+    },
+    {
+        "id": 25187,
+        "title": "Multilayer CARU Model for Text Summarization",
+        "authors": "Sio-Kei Im, Ka-Hou Chan",
+        "published": "2023-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp57234.2023.00098"
+    },
+    {
+        "id": 25188,
+        "title": "AUTOMATIC TEXT SUMMARIZATION AND KEYWORD EXTRACTION USING NATURAL LANGUAGE PROCESSING",
+        "authors": "",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets35029"
+    },
+    {
+        "id": 25189,
+        "title": "Marathi Extractive Text Summarization using Latent Semantic Analysis and Fuzzy Algorithms",
+        "authors": "M.M. Math",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "Extractive text summarization involves the retention of only the most important sentences in a document. In the past, multiple approaches involving both statistical and machine learning-based methods have been used for this task. The crucial step in extractive text summarization is getting the right ranking order of sentences in the document in terms of their importance. Singular value decomposition or SVD algorithm based on latent semantic analysis focuses on recognizing the sections in the document which are related in terms of their semantic nature. Fuzzy algorithms involve reasoning of the priority order of the sentences using fuzzy logic unlike the use of discrete values. While significant work has been done for extractive text summarization in English and other foreign languages, there is ample scope for improving the performance of systems when dealing with Marathi text. In this paper, SVD and fuzzy algorithms are proposed for performing extractive text summarization on Marathi documents. Work is done upon the modeling principle, data flow, and parameters of these algorithms such that they are best suited for the task. An analysis of the characteristics of both these techniques is conducted to compare their benefits and shortcomings. The performance of both the algorithms is evaluated on a document dataset using standard performance metrics including the ROUGE metric. An unbiased comparison of both these techniques is carried out to inform the applicability of them, especially when working with Marathi or in general, non-English text.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36647/ciml/04.01.a008"
+    },
+    {
+        "id": 25190,
+        "title": "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer",
+        "authors": "Dongqi Pu, Vera Demberg",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-srw.1"
+    },
+    {
+        "id": 25191,
+        "title": "Leveraging Text Mining Techniques for Automated Information Analysis",
+        "authors": "Sandeep Gautam, Bharat Bhushan, Rakesh Kumar Yadav, Meena Y R, Latha B, Pradnya S. Mehta",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smartgencon60755.2023.10442338"
+    },
+    {
+        "id": 25192,
+        "title": "Measuring the Quality of Text Summarization: A Survey of Evaluation Approaches",
+        "authors": "Rosamma K S, Nagamma Patil",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ocit59427.2023.10431258"
+    },
+    {
+        "id": 25193,
+        "title": "Abstractive Text Summarization for the Urdu Language: Data and Methods",
+        "authors": "Muhammad Awais, Rao Muhammad Adeel Nawab",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3378300"
+    },
+    {
+        "id": 25194,
+        "title": "Nlp Based Machine Learning Approaches for Text Summarization",
+        "authors": "Dr. Rajeshwara Rao, B. Harika, A. Srikanth, Y. Vahini",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4362940"
+    },
+    {
+        "id": 25195,
+        "title": "Text Summarization Using NLP",
+        "authors": "Mr. Harshal Bharati",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "Abstract: This Project represents the work associated with Text Summarization. In this paper, we present a framework for summarizing the massive facts. The proposed framework depends on highlight extraction from internet, using each morphological element and semantic data. Presently, in which large facts is available on the internet, it's far maximum important to offer the improved approaches to extract the statistics quickly and most successfully. It may be very hard for human beings to manually extract the precis of a large document of text. There are lots of text substances to be had on the internet. So, there's a hassle of looking for related files from the quantity of documents to be had and absorbing associated statistics from it. In essence to determine out the previous issues, the automated textual content summarization could be very a whole lot essential. Text Summarization is the method of figuring out the most vital and significant information in a input report or set of related input files and compressing all the inputs into a shorter version preserving its normal goals.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2024.56564"
+    },
+    {
+        "id": 25196,
+        "title": "NLP based Text Summarization of Fintech RFPs",
+        "authors": "Krutika Patil, Medha Badamikar, Sheetal Sonawane",
+        "published": "2023-3-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscds56580.2023.10104748"
+    },
+    {
+        "id": 25197,
+        "title": "Two-step Text Summarization for Long-form Biographical Narrative Genre",
+        "authors": "Avi Bleiweiss",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.codi-1.20"
+    },
+    {
+        "id": 25198,
+        "title": "Who Needs External References?—Text Summarization Evaluation Using Original Documents",
+        "authors": "Abdullah Al Foysal, Ronald Böck",
+        "published": "2023-11-15",
+        "citations": 1,
+        "abstract": "Nowadays, individuals can be overwhelmed by a huge number of documents being present in daily life. Capturing the necessary details is often a challenge. Therefore, it is rather important to summarize documents to obtain the main information quickly. There currently exist automatic approaches to this task, but their quality is often not properly assessed. State-of-the-art metrics rely on human-generated summaries as a reference for the evaluation. If no reference is given, the assessment will be challenging. Therefore, in the absence of human-generated reference summaries, we investigated an alternative approach to how machine-generated summaries can be evaluated. For this, we focus on the original text or document to retrieve a metric that allows a direct evaluation of automatically generated summaries. This approach is particularly helpful in cases where it is difficult or costly to find reference summaries. In this paper, we present a novel metric called Summary Score without Reference—SUSWIR—which is based on four factors already known in the text summarization community: Semantic Similarity, Redundancy, Relevance, and Bias Avoidance Analysis, overcoming drawbacks of common metrics. Therefore, we aim to close a gap in the current evaluation environment for machine-generated text summaries. The novel metric is introduced theoretically and tested on five datasets from their respective domains. The conducted experiments yielded noteworthy outcomes, employing the utilization of SUSWIR.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ai4040049"
+    },
+    {
+        "id": 25199,
+        "title": "Automatic Text Summarization Using NLTK &amp;amp; Spacy*",
+        "authors": "Divya Amade, Rashmi Chandra, Vivek Kumar Sinha, Divya Anand",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4742012"
+    },
+    {
+        "id": 25200,
+        "title": "Text Summarization and Image Decomposition of Medical Documents",
+        "authors": "Raji Ramachandran, Arpit Aggarwal, Kanak Varshney",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353471"
+    },
+    {
+        "id": 25201,
+        "title": "Extractive Arabic Text Summarization-Graph-Based Approach",
+        "authors": "Yazan Alaya AL-Khassawneh, Essam Said Hanandeh",
+        "published": "2023-1-14",
+        "citations": 4,
+        "abstract": "With the noteworthy expansion of textual data sources in recent years, easy, quick, and precise text processing has become a challenge for key qualifiers. Automatic text summarization is the process of squeezing text documents into shorter summaries to facilitate verification of their basic contents, which must be completed without losing vital information and features. The most difficult information retrieval task is text summarization, particularly for Arabic. In this research, we offer an automatic, general, and extractive Arabic single document summarizing approach with the goal of delivering a sufficiently informative summary. The proposed model is based on a textual graph to generate a coherent summary. Firstly, the original text is converted to a textual graph using a novel formulation that takes into account sentence relevance, coverage, and diversity to evaluate each sentence using a mix of statistical and semantic criteria. Next, a sub-graph is built to reduce the size of the original text. Finally, unwanted and less weighted phrases are removed from the summarized sentences to generate a final summary. We used Recall-Oriented Research to Evaluate Main Idea (RED) as an evaluative metric to review our proposed technique and compare it with the most advanced methods. Finally, a trial on the Essex Arabic Summary Corpus (EASC) using the ROUGE index showed promising results compared with the currently available methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12020437"
+    },
+    {
+        "id": 25202,
+        "title": "Implementation of Text Summarization using Word Frequency in Python",
+        "authors": "Ahmad Farhan AlShammari",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5120/ijca2023923154"
+    },
+    {
+        "id": 25203,
+        "title": "Hiding in Plain Sight: Insights into Abstractive Text Summarization",
+        "authors": "Vivek Srivastava, Savita Bhat, Niranjan Pedanekar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.insights-1.8"
+    },
+    {
+        "id": 25204,
+        "title": "Two-Step Text Recognition and Summarization of Scanned Documents",
+        "authors": "V. Varun, Steffina Muthukumar",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "With the explosion of unstructured textual data circulating the digital space in present times, there has been an increase in the necessity of developing tools that can perform automatic text summarization to allow people to get insights from them easily and extract significant and essential data using Automatic Text Summarizers. The readability of documents can be improved and the time spent on researching for information can be improved by the implementation of text summarization tools. In this project, extractive summarization will be performed on text recognized from scanned documents via Optical Character Recognition (OCR), using the TextRank algorithm which is an unsupervised text summarization technique for performing extractive text summarization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4028/p-39473k"
+    },
+    {
+        "id": 25205,
+        "title": "Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization",
+        "authors": "Hou Pong Chan, Qi Zeng, Heng Ji",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.402"
+    },
+    {
+        "id": 25206,
+        "title": "Abstractive Text Summarization Models Using Machine Learning Algorithms",
+        "authors": "Yogita P. Narwadkar, Anant M. Bagade",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccubea58933.2023.10392142"
+    },
+    {
+        "id": 25207,
+        "title": "Ingenious: Text Summarization and Question Answering",
+        "authors": "Aditi Goyal, Amber Prakash Verma, Deep Kumar, Anjali Singh",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscss57650.2023.10169581"
+    },
+    {
+        "id": 25208,
+        "title": "Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization",
+        "authors": "Jianbin Shen, Junyu Xuan, Christy Liang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.1059"
+    },
+    {
+        "id": 25209,
+        "title": "Synopsis Creation for Research Paper using Text Summarization Models",
+        "authors": "Sanskruti Badhe, Mubashshira Hasan, Vidhi Rughwani, Reeta Koshy",
+        "published": "2023-5-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incet57972.2023.10170144"
+    },
+    {
+        "id": 25210,
+        "title": "Text Summarization: GPT Perspective",
+        "authors": "Sairaj Pokale, Karan Taware, Gavin Fernandes, Sakshi Kangane, Parth Bhosale, Laxmi Bewoor",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asiancon58793.2023.10270778"
+    },
+    {
+        "id": 25211,
+        "title": "Abstractive Arabic Text Summarization Based on MT5 and AraBart Transformers",
+        "authors": "Asmaa Elsaid, Ammar Mohammed, Lamiaa Fattouh, Mohammed Sakre",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/imsa58542.2023.10217539"
+    },
+    {
+        "id": 25212,
+        "title": "Text and Video Summarization Using ML",
+        "authors": "A. Karthik",
+        "published": "2024-3-31",
+        "citations": 0,
+        "abstract": "Abstract: The Text and Video Summarization tool is a revolutionary approach to manage time and immense amount of data; one must go through. Current text summarization tools struggle to summarize large text files accurately and consistently, especially when dealing with different document formats and file lengths. This paper efficiently handles condenses large amounts of text to meet the growing need for more efficient information consumption accessible to all with a user-friendly interface. By integrating innovative methodologies, advanced NLP techniques, and a diverse dataset enriched with human insights, this project aims to advance the field of automated text summarization, contributing to more effective information condensation. The tool streamlines text summarization as well as video summarization capabilities into one umbrella, providing its users option and choice of even summarizing audio as well, this system offers a seamless and responsive solution. It contributes to a more efficient use of existing resources by producing summaries, making time management efficient and effective",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2024.59243"
+    },
+    {
+        "id": 25213,
+        "title": "“An Extensive study of Symantic and Syntatic Approaches to Automatic Text Summarization”",
+        "authors": " Manisha Gaikwad,",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "Automatic text summarization (ATS) has emerged as a crucial research domain in the discipline of natural language processing (NLP) and information retrieval. The exponential growth of digital content has necessitated the need for efficient techniques that can automatically generate concise and informative summaries from lengthy documents. This article provided a comprehensive recap of automatic text summarization, covering both abstractive and extractive methods. Using extractive techniques, prime phrases or keywords from the original text are identified and chosen, while abstractive methods involve producing summaries by paraphrasing and synthesizing content in a more human-like manner. Discussed the advantages and limitations of each approach, including the challenge of ATS, which arises when summarizing content from external sources. Furthermore, reviews common evaluation metrics used for assessing the quality of summaries and discusses recent advancements in neural network-based approaches for text summarization. This survey aims to provide an overview of automatic text summarization which acts as a useful resource for researchers and practitioners in the fields of information retrieval and NLP.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.785"
+    },
+    {
+        "id": 25214,
+        "title": "Advancements in Text Summarization Through Machine Learning: A Comprehensive Survey and Analysis",
+        "authors": " Vandana Jagtap",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "Due to the extensive amount of text available for any given task, for instance, a research project, it has become a need to have the gist of these documents in a succinct format. In this review paper, we discussed various methods used for single and multi-document summarization. It explores extractive, abstractive, and hybrid methods, along with the role of deep learning models like RNNs, CNNs, and transformers. The survey examines datasets, evaluation metrics, recent advancements, and future scopes in this field. A comparative analysis of methodologies and approaches is also presented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.835"
+    },
+    {
+        "id": 25215,
+        "title": "Comparative Study and Analysis in Text Summarization Literature",
+        "authors": "Eman W. Boghdady, Essam Shaaban, Mohamed H. Haggag",
+        "published": "2024-3-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icci61671.2024.10485118"
+    },
+    {
+        "id": 25216,
+        "title": "A Pretraining Strategy to Improve Faithfulness in Abstractive Text Summarization",
+        "authors": "Mohanad Alrefaai, Devrim Akgün",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isas60782.2023.10391437"
+    },
+    {
+        "id": 25217,
+        "title": "Text Summarization for Personalized Movie Review",
+        "authors": "Mrs. G RAMYA",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "The aim of this project is to create a personalised review creation system for movies using a sequence-to-sequence model and abstractive text summary techniques. The idea is to developinsightful and personalised evaluations that capture the spirit and sentiment of a film.Abstractive text summarization is an Natural language processing (NLP) techniqueof generating new and brief summary of source text data. It generates new lines in summary of text data which are relevant to the original lines. Abstractive summarization yields a numberof applications in different domains, from books and literature, to scienceand R&D, to financial research and legal documents analysis. This project introduces a fresh method for generating personalized movie reviews using abstractive text summarization. The approach employs a BERT-based encoder-decoder model, trained onuser reviews enriched with movieratings. This enables the model to create reviews that are not only informative and captivating but also match the user's preferences. By merging NLP and user preferences, we provide summaries that offer insights into reviewswhile aligning with the user's cinematic likes. In the era of abundant online content, our personalized summarization technique is a valuable tool for helping users navigate movie-related information.  Keywords : Transformers, Bert model, Bert for Sequence Classification, Bert Tokenizer, Pegasus model,Pegasus tokenizer, Data Loader, Pandas.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55041/ijsrem28992"
+    },
+    {
+        "id": 25218,
+        "title": "Understanding Large Language Model Based Metrics for Text Summarization",
+        "authors": "Abhishek Pradhan, Ketan Todi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.eval4nlp-1.12"
+    },
+    {
+        "id": 25219,
+        "title": "Kannada Text Summarization",
+        "authors": "Krutika Badiger, Sakshi Sonagaj, Sindurani Giraddi, B.M. Reshmi",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10467944"
+    },
+    {
+        "id": 25220,
+        "title": "RISE: Leveraging Retrieval Techniques for Summarization Evaluation",
+        "authors": "David Uthus, Jianmo Ni",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.865"
+    },
+    {
+        "id": 25221,
+        "title": "Text Summarization Quality Detection Based on GPT-3",
+        "authors": "Sihan Qi, Honghao Zhang",
+        "published": "2023-8-1",
+        "citations": 1,
+        "abstract": "To summarize lengthy text in a concise and accurate manner is called text summarization. With the increasing amount of information available, text summarization has become increasingly important in information retrieval, knowledge management, and sentiment analysis. The research on text summarization dates to the 1960s, and the methods have evolved from traditional template-based generation to statistical and neural network-based methods. Modern language model GPT-3 has demonstrated outstanding linguistic ability, including the ability to produce text that is cohesive and grammatically correct. However, evaluating the caliber of text produced by GPT-3 is challenging and requires careful evaluation criteria. This study evaluated the text summarization ability of GPT-3 using multiple evaluation models (ROUGE, BLEU, and CIDER), and found that the generated summaries exhibited high quality and accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/8/20230251"
+    },
+    {
+        "id": 25222,
+        "title": "Abstractive Text Summarization Using the BRIO Training Paradigm",
+        "authors": "Khang Lam, Thieu Doan, Khang Pham, Jugal Kalita",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.7"
+    },
+    {
+        "id": 25223,
+        "title": "AN OVERVIEW OF LEGAL DOCUMENT SUMMARIZATION TECHNIQUES",
+        "authors": "",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets41079"
+    },
+    {
+        "id": 25224,
+        "title": "A Systematic survey on automated text generation tools and techniques: application, evaluation, and challenges",
+        "authors": "Rupali Goyal, Parteek Kumar, V. P. Singh",
+        "published": "2023-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15224-0"
+    },
+    {
+        "id": 25225,
+        "title": "Survey on abstractive text summarization using pretraining models and their developments",
+        "authors": "Yixin Zhang",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "In these years, pre-training models gain a lot of attention in the summary generation area and demonstrate new possibilities for improving the sequence-to-sequence attention framework. This survey conducts a comprehensive overview of BERT-based pre-training models that can be used in abstractive summaries. Firstly, the BERT model is introduced as a typical pre-training model, followed by baseline models inspired by it. Then problems and developments of previous models are discussed including some recent SOTA approaches. Apart from that, some datasets used for models are demonstrated with main features. Besides, the commonly used evaluation methods are introduced. Last but not least, several potential research directions are suggested.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/5/20230543"
+    },
+    {
+        "id": 25226,
+        "title": "Effectiveness of Feature Selection in Text Summarization",
+        "authors": "Alshimaa. M. Ibrahim, Marco Alfonse, Mostafa Mahmoud Aref",
+        "published": "2023-11-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicis58388.2023.10391140"
+    },
+    {
+        "id": 25227,
+        "title": "A Dual Attention Encoder-Decoder Text Summarization Model",
+        "authors": "Nada Ali Hakami, Hanan Ahmed Hosni Mahmoud",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2023.031525"
+    },
+    {
+        "id": 25228,
+        "title": "Abstractive text summarization using deep RNN",
+        "authors": "Yachamaneni Yaswanth, Thirunagari Hrushikesh, J. Sheela",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0168209"
+    },
+    {
+        "id": 25229,
+        "title": "Text summarization implementing abstractive and extractive methods",
+        "authors": "Debjyoti Ghosh, Abhirup Mazumder, Sainik Kumar Mahata",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iementech60402.2023.10423548"
+    },
+    {
+        "id": 25230,
+        "title": "A New Method for Extractive Text Summarization Using Neural Networks",
+        "authors": "Sohini Roy Chowdhury, Kamal Sarkar",
+        "published": "2023-5-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-01806-0"
+    },
+    {
+        "id": 25231,
+        "title": "Implementation of Extractive Text Summarization using Word Frequency in Python",
+        "authors": "Ahmad Farhan Al Shammari",
+        "published": "2023-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5120/ijca2023922583"
+    },
+    {
+        "id": 25232,
+        "title": "A Novel Clinical Trial Prediction-Based Factual Inconsistency Detection Approach for Medical Text Summarization",
+        "authors": "Shuaimin Li, Jungang Xu",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191247"
+    },
+    {
+        "id": 25233,
+        "title": "KurdSum: A new benchmark dataset for the Kurdish text summarization",
+        "authors": "Soran Badawi",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nlp.2023.100043"
+    },
+    {
+        "id": 25234,
+        "title": "Abstractive text summarization using adversarial learning and deep neural network",
+        "authors": "Meenaxi Tank, Priyank Thakkar",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17478-0"
+    },
+    {
+        "id": 25235,
+        "title": "Hindi News Article's Headline Generation based on Abstractive Text Summarization",
+        "authors": "Jeetendra Kumar, Shashi Shekhar, Rashmi Gupta",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276040"
+    },
+    {
+        "id": 25236,
+        "title": "Improving Feature Vector for Extractive Text Summarization of Legal Judgement",
+        "authors": "Ajay V Saravade, Pratiksha R Deshmukh",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/elexcom58812.2023.10370708"
+    },
+    {
+        "id": 25237,
+        "title": "occams: A Text Summarization Package",
+        "authors": "Clinton T. White, Neil P. Molino, Julia S. Yang, John M. Conroy",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "Extractive text summarization selects asmall subset of sentences from a document, which gives good “coverage” of a document. When given a set of term weights indicating the importance of the terms, the concept of coverage may be formalized into a combinatorial optimization problem known as the budgeted maximum coverage problem. Extractive methods in this class are known to beamong the best of classic extractive summarization systems. This paper gives a synopsis of thesoftware package occams, which is a multilingual extractive single and multi-document summarization package based on an algorithm giving an optimal approximation to the budgeted maximum coverage problem. The occams package is written in Python and provides an easy-to-use modular interface, allowing it to work in conjunction with popular Python NLP packages, such as nltk, stanza or spacy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/analytics2030030"
+    },
+    {
+        "id": 25238,
+        "title": "A Text Summarization Hybrid Approach Using CNN and the Firefly Algorithm",
+        "authors": "G. Prathap, R. Rathinasabapathy",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02421-9"
+    },
+    {
+        "id": 25239,
+        "title": "Automatic Text Summarization Based on Pre-trained Models",
+        "authors": "Alaa Ahmed Al-Banna, Abeer K. Al-Mashhadany",
+        "published": "2023-7-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiccit57614.2023.10218006"
+    },
+    {
+        "id": 25240,
+        "title": "TEXT SUMMARIZATION BASED ON TOPICRANK METHOD AND TEXT-TO-TEXT TRANSFORMER NEURAL NETWORK",
+        "authors": "I.S. Sukhaniuk, K.R. Potapova, M.V. Nalyvaichuk, L.B. Vovk",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32782/2663-5941/2023.6/22"
+    },
+    {
+        "id": 25241,
+        "title": "Multi-Encoder Transformer for Korean Abstractive Text Summarization",
+        "authors": "Youhyun Shin",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3277754"
+    },
+    {
+        "id": 25242,
+        "title": "Indonesian News Text Summarization Using MBART Algorithm",
+        "authors": "Rahma Hayuning Astuti, Muljono Muljono, Sutriawan Sutriawan",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "Purpose: Technology advancements have led to the production of a large amount of textual data. There are numerous locations where one can find textual information sources, including blogs, news portals, and websites. Kompas, BBC, Liputan 6, CNN, and other news portals are a few websites that offer news in Indonesian. The purpose of this study was to explore the effectiveness of using mBART in text summarization for Bahasa Indonesia.Methods: This study uses mBART, a transformer architecture, to perform fine-tuning to generate news article summaries in Bahasa Indonesia. Evaluation was conducted using the ROUGE method to assess the quality of the summaries produced.Results: Evaluation using the ROUGE metric showed better results, with ROUGE-1 of 35.94, ROUGE-2 of 16.43, and ROUGE-L of 29.91. However, the performance of the model is still not optimal compared to existing models in text summarization for another language.Novelty: The novelty of this research lies in the use of mBART for text summarization, specifically adapted for Bahasa Indonesia. In addition, the findings also contribute to understanding the challenges and opportunities of improving text summarization techniques in the Indonesian context.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15294/sji.v11i1.49224"
+    },
+    {
+        "id": 25243,
+        "title": "Deeper Investigation on Extractive-Abstractive Summarization for Indonesian Text",
+        "authors": "Zalfaa Putri Ayudhia, Suyanto Suyanto",
+        "published": "2024-1-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetsis61505.2024.10459565"
+    },
+    {
+        "id": 25244,
+        "title": "Multilingual Text Summarization for German Texts Using Transformer Models",
+        "authors": "Tomas Humberto Montiel Alcantara, David Krütli, Revathi Ravada, Thomas Hanne",
+        "published": "2023-5-25",
+        "citations": 1,
+        "abstract": "The tremendous increase in documents available on the Web has turned finding the relevant pieces of information into a challenging, tedious, and time-consuming activity. Text summarization is an important natural language processing (NLP) task used to reduce the reading requirements of text. Automatic text summarization is an NLP task that consists of creating a shorter version of a text document which is coherent and maintains the most relevant information of the original text. In recent years, automatic text summarization has received significant attention, as it can be applied to a wide range of applications such as the extraction of highlights from scientific papers or the generation of summaries of news articles. In this research project, we are focused mainly on abstractive text summarization that extracts the most important contents from a text in a rephrased form. The main purpose of this project is to summarize texts in German. Unfortunately, most pretrained models are only available for English. We therefore focused on the German BERT multilingual model and the BART monolingual model for English, with a consideration of translation possibilities. As the source of the experiment setup, took the German Wikipedia article dataset and compared how well the multilingual model performed for German text summarization when compared to using machine-translated text summaries from monolingual English language models. We used the ROUGE-1 metric to analyze the quality of the text summarization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14060303"
+    },
+    {
+        "id": 25245,
+        "title": "Automated Medical Text Simplification for Enhanced Patient Access",
+        "authors": "Liliya Makhmutova, Giancarlo Salton, Fernando Perez-Tellez, Robert Ross",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012466100003657"
+    },
+    {
+        "id": 25246,
+        "title": "Hindi Abstractive Text Summarization using Transliteration with Pre-trained Model",
+        "authors": "Jeetendra Kumar, Shashi Shekhar, Rashmi Gupta",
+        "published": "2024-3-31",
+        "citations": 0,
+        "abstract": "Automatic text summarization is a subarea of natural language processing that generates a summary of the text by keeping its key points. The research work done on summarizing low-resourced language text is very limited. In India, the Hindi language is being spoken by central and north Indian people and only a few research works have been done on abstractive summarization of Hindi language. Having matras in Hindi makes it difficult to tokenize so it is difficult to summarize Hindi text using abstractive text summarization. In the proposed method, abstractive Hindi text summarization is done using transliteration and fine-tuning. In this work, the model is trained to generate both summaries and headlines. ROUGE-score and BERT-score have been utilized to check summary quality. A new semantic similarity score-based performance measure is also proposed to measure semantic similarity between reference summaries and predicted summaries. Using the proposed method, we have achieved the highest 55.16 ROUGE score, 0.80 BERT score, and 0.98 similarity score. Along with these performance measures, human evaluation of predicted summaries is also done and it is found that summaries and headlines were generated at a human-acceptable level.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.1810"
+    },
+    {
+        "id": 25247,
+        "title": "Efficient Text Summarization using Natural Language Processing",
+        "authors": "S Anupama Kumar, Y S Kiran Kumar, P Thejas",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsaai59313.2023.10452601"
+    },
+    {
+        "id": 25248,
+        "title": "AI Text Summarization System",
+        "authors": "Swapnil Kuyate, Omdeep Jadhav, Pratik Jadhav",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "Abstract: Our research paper presents an AI text summarization system that utilizes GPT, a powerful language model, to generate concise and meaningful summaries of lengthy text documents. The system consists of four modules: User, Android Application, GPT API, and GPT server. The User interacts with the system through the Android Application, which serves as the user interface. The GPT API acts as the intermediary between the Android Application and the GPT server, which hosts the GPT model and handles the text summarization process. The system employs state-of-the-art natural language processing techniques to generate summaries while preserving contextual coherence and salient information. The system's summarization capabilities are evaluated using metrics such as Rouge and F1 scores, demonstrating its effectiveness in capturing key information from different types of text documents. The system's integration with Android platforms provides convenient access for mobile users, making it suitable for applications such as news summarization, document summarization, and content curation. The modular architecture of the system allows for scalability and flexibility, enabling future enhancements and extensions. Our AI text summarization system utilizing GPT presents a promising approach for automatically summarizing large volumes of text, providing users with time-saving and meaningful summaries. The system has potential applications in various domains and can serve as a foundation for further research in the field of text summarization and natural language processing",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2023.51481"
+    },
+    {
+        "id": 25249,
+        "title": "End to End Urdu Abstractive Text Summarization With Dataset and Improvement in Evaluation Metric",
+        "authors": "Hassan Raza, Waseem Shahzad",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3377463"
+    },
+    {
+        "id": 25250,
+        "title": "A Comprehensive Review on Automatic Text Summarization",
+        "authors": "Iskander Akhmetov, Sabina Nurlybayeva, Irina Ualiyeva, Alexandr Pak, Alexander Gelbukh",
+        "published": "2023-12-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13053/cys-27-4-4792"
+    },
+    {
+        "id": 25251,
+        "title": "\"Talking Books\" : A Sinhala Abstractive Text Summarization Approach for Sinhala Textbooks",
+        "authors": "B.R.M.S.R.B. Rathnayake, Kalpani Manathunga, Dharshana Kasthurirathna",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/i2ct57861.2023.10126205"
+    },
+    {
+        "id": 25252,
+        "title": "Elevating the Precision of Summarization for Short Text in Social Media using Preprocessing Techniques",
+        "authors": "Fahd A Ghanem, M.C. Padma, Ramez Alkhatib",
+        "published": "2023-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/hpcc-dss-smartcity-dependsys60770.2023.00063"
+    },
+    {
+        "id": 25253,
+        "title": "Automatic Extractive text Summarization for Ho Language",
+        "authors": "Dula Bankira, Srinibas Panda, Satya Ranjan, Hassen Said Ali, Shantipriya Parida, Ngula Walubita",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ocit59427.2023.10430990"
+    },
+    {
+        "id": 25254,
+        "title": "Fine Grained Spoken Document Summarization Through Text Segmentation",
+        "authors": "Samantha Kotey, Rozenn Dahyot, Naomi Harte",
+        "published": "2023-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/slt54892.2023.10022829"
+    },
+    {
+        "id": 25255,
+        "title": "Performance of Optimizers in Text Summarization for News Articles",
+        "authors": "Namrata Kumari, Nikhil Sharma, Pradeep Singh",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.218"
+    },
+    {
+        "id": 25256,
+        "title": "Assessing BigBirdPegasus and BART Performance in Text Summarization: Identifying Right Methods",
+        "authors": "Abdulrahman Mohsen Ahmed Zeyad, Arun Biradar",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpcsn58827.2023.00297"
+    },
+    {
+        "id": 25257,
+        "title": "Exploring the Impact of Prompt Engineering on ChatGPT 3.5 Text Summarization: A BERT Score Evaluation",
+        "authors": "",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets45268"
+    },
+    {
+        "id": 25258,
+        "title": "Automatic Text Summarization based Web Application",
+        "authors": "Shubham Gourh, Sushant Uniyal, Ashish Aryal, Tushar Beniwal, Surender Singh Samant",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10308070"
+    },
+    {
+        "id": 25259,
+        "title": "Comparative Study on Extractive Summarization Using Sentence Ranking Algorithm and Text Ranking Algorithm",
+        "authors": "Mansoora Majeed, Kala M T",
+        "published": "2023-4-19",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/picc57976.2023.10142314"
+    },
+    {
+        "id": 25260,
+        "title": "SMATS: Single and Multi Automatic Text Summarization",
+        "authors": "Siba Prasad Patil, Rasmita Rautray",
+        "published": "2023-1-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33640/2405-609x.3281"
+    },
+    {
+        "id": 25261,
+        "title": "Exploiting Summarization Data to Help Text Simplification",
+        "authors": "Renliang Sun, Zhixian Yang, Xiaojun Wan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.eacl-main.3"
+    },
+    {
+        "id": 25262,
+        "title": "A Novel Gravity ‎Optimization Algorithm for Extractive Arabic Text Summarization",
+        "authors": "Mustafa J. Hadi, Ayad R. Abbas, Osamah Y. Fadhil",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": " \nAn automatic text summarization system mimics how humans summarize by picking the most ‎significant sentences in a source text. However, the complexities of the Arabic language have become ‎challenging to obtain information quickly and effectively. The main disadvantage of the ‎traditional approaches is that they are strictly constrained (especially for the Arabic language) by the ‎accuracy of sentence feature ‎functions, weighting schemes, ‎and similarity calculations. On the other hand, the meta-heuristic search approaches have a feature that tolerates imprecision, gets ‎prohibited results, and is not strictly bound by the above ‎restrictions. This ‎paper used the Gravitational Optimization Algorithm (GOA), a powerful metaheuristic ‎approach ‎based on the law of ‎gravity, to address the challenge of extractive summarizing Arabic texts. The objective function of the GOA algorithm is derived based on sentence significance, such as its length, ‎similarity degree, position, statistical term frequency, and named entity ownership. Essex Arabic ‎Summaries Corpus (EASC) was used to evaluate the proposed method and measured by the Recall-Oriented Understudy for Gisting Evaluation (ROUGE). The proposed approach achieved 68.04% Recall, ‎‎58.49% Precision, and 60.05% F1-measure using ROUGE-1, higher than standard summarizers and metaheuristic approaches",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21123/bsj.2023.7731"
+    },
+    {
+        "id": 25263,
+        "title": "Automatic Text Summarization and Translation using NLP With its functioning in AI: A Comprehensive Review",
+        "authors": "",
+        "published": "2023-12-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets47585"
+    },
+    {
+        "id": 25264,
+        "title": "Automatic Text Summarization of News Articles: Recent Advances and Challenges",
+        "authors": "Sujaan Bhattacharyya, Prakriti Roy, Soma Das",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iementech60402.2023.10423515"
+    },
+    {
+        "id": 25265,
+        "title": "A Novel Approach to Text Summarization Using Machine Learning",
+        "authors": "Namrata Dhanda, Kapil Kumar Gupta",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "Text summarization is a key strategy in the domains of information retrieval and natural language processing (NLP). Its objective is to reduce a lengthy written document into a clearer, more succinct summary of the information it contains. When a text document is too lengthy or intricate to analyse completely, as in news stories, academic papers, or legal documents, this approach is extremely helpful. The major challenge of text summarising is to take the most important and relevant information from the original text and convey it in an understandable and concise way. In this study, extractive and abstractive summarising techniques are the two primary categories of text summary methods. The paper also presents several algorithms that have been proposed for text summarization, including TextRank, Seq2Seq, and BART. TextRank is a simple and fast algorithm that works well for short documents, Seq2Seq is a deep learning-based approach that generates high-quality summaries, and BART is a transformer-based algorithm that provides the best results on benchmark datasets. The obtained ROUGE Score after passing TextRank, BART, and Seq2SEq algorithm significant also.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9734/ajrcos/2024/v17i4432"
+    },
+    {
+        "id": 25266,
+        "title": "Aspect Based Text Summarization Model for the E-Commerce Recommendation System",
+        "authors": "B. Raju, M. Sriram, V. Ganesan",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435796"
+    },
+    {
+        "id": 25267,
+        "title": "Exploring Arabic Pre-Trained Language Models for Arabic Abstractive Text Summarization",
+        "authors": "Dhuha Alqahtani, Maha Al-Yahya",
+        "published": "2023-11-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/snams60348.2023.10375464"
+    },
+    {
+        "id": 25268,
+        "title": "Text Summarization Corpus Generation in Low-Resource South Asian Gujarati Language",
+        "authors": "Harsh Mehta, Santosh Kumar Bharti, Nishant Doshi",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/r10-htc57504.2023.10461812"
+    },
+    {
+        "id": 25269,
+        "title": "Measurement and Identification of Informative Reviews for Automated Summarization",
+        "authors": "Huyen Nguyen, Haihua Chen, Roopesh Maganti, KSM Tozammel Hossain, Junhua Ding",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aitest58265.2023.00031"
+    },
+    {
+        "id": 25270,
+        "title": "Bidirectional recommendation in HR analytics through text  summarization",
+        "authors": "Channabasamma Arandi, Suresh Yeresime",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "For over a decade, online job portals have been providing their services to both job seekers and employers in search of hiring opportunities. Because of the high demand for recruitment, it is insufficient to use conventional hiring methods to find a suitable candidate to fill the position. Validating resumes online is challenging due to the potential for manual errors, making the process inherently risky. The bidirectional method comprises named entity recognition (NER) for extracting the required resumes for recruiters. Cosine similarity shows the match percentage of resumes for the job requirements and vice versa. In an attempt to tackle an issue of unregistered words, a solution called decoder attention with pointer network (DA-PN) has been introduced. This method incorporates the use of coverage mechanism to prevent word repetition through generated text summary. DA-PN+Cover method with mixed learning objective (MLO) (DA-PN+Cover+MLO) is utilized for protecting grow of increasing faults in generated text summary. Performance of proposed method is estimated using evaluation indicator recall oriented understudy for gisting evaluation (ROUGE) and attains an average of 27.47 which is comparatively higher than existing methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/eei.v13i2.5650"
+    },
+    {
+        "id": 25271,
+        "title": "An Exploratory Study of Abstractive Text Summarization Using a Sequence-to-Sequence Model",
+        "authors": "M. Kavitha, K. Akila",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccebs58601.2023.10448613"
+    },
+    {
+        "id": 25272,
+        "title": "Data Selection Curriculum for Abstractive Text Summarization",
+        "authors": "Shichao Sun, Ruifeng Yuan, Jianfei He, Ziqiang Cao, Wenjie Li, Xiaohua Jia",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.537"
+    },
+    {
+        "id": 25273,
+        "title": "A Sequence-to-Sequence Text Summarization Using Long Short-Term Memory Based Neural Approach",
+        "authors": "",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.0430.12"
+    },
+    {
+        "id": 25274,
+        "title": "A Statistical Language Modeling Framework for Extractive Summarization of Text Documents",
+        "authors": "Pooja Gupta, Swati Nigam, Rajiv Singh",
+        "published": "2023-9-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02241-x"
+    },
+    {
+        "id": 25275,
+        "title": "Recent Trends for Text Summarization in Scientific Documents",
+        "authors": "Arief Agus Sukmandhani, Yulyani Arifin, Muhammad Zarlis, Widodo Budiharto",
+        "published": "2023-11-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icced60214.2023.10425025"
+    },
+    {
+        "id": 25276,
+        "title": "Comparative Analysis of Pretrained Encoder-Decoder Transformer Models for Extreme Text Summarization",
+        "authors": "Tamma RajyaLakshmi, K.S. Kuppusamy",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacic59454.2023.10435363"
+    },
+    {
+        "id": 25277,
+        "title": "Unified New Techniques for NP-Hard Budgeted Problems with Applications in Team Collaboration, Pattern Recognition, Document Summarization, Community Detection and Imaging",
+        "authors": "Dorit Hochbaum",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012207200003598"
+    },
+    {
+        "id": 25278,
+        "title": "Automated football match reports as models of textuality",
+        "authors": "Simon Meier-Vieracker",
+        "published": "2024-1-26",
+        "citations": 0,
+        "abstract": "Abstract\nThis paper deals with automated football match reports as a common genre of automated journalism. Based on a corpus of automated and human-written reports (n = 1,302) on the same set of matches and with reference to linguistic concepts of text and textuality, the textual properties of these texts are analyzed both quantitatively and qualitatively. The analysis is based on the idea that the task of text generation can be described as the task of automatically selecting cues of textuality such as connectives or signals of thematic relatedness. The results show that automated and human-written texts differ significantly in the use of these cues, particularly in the use of linguistic means for creating evaluation and contrast, and thus allow to trace in detail, how these cues contribute to cohesion, coherence and narrative qualities. Different from computational linguistic approaches focused on optimizing text generation algorithms, this paper proposes to use automated texts, which are to some extent imperfect, as models of textuality that through their imperfection can say something about the nature of texts in general. The paper thus contributes to the field of (mostly communication studies) research on automated journalism in which the texts themselves are rarely investigated.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/text-2022-0173"
+    },
+    {
+        "id": 25279,
+        "title": "A comprehensive review of text summarization",
+        "authors": "R.R. Aruneshwari, K. M. Anandkumar, D. Kavitha",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0186988"
+    },
+    {
+        "id": 25280,
+        "title": "LEMMA-ROUGE: An Evaluation Metric for Arabic Abstractive Text Summarization",
+        "authors": "Amal Al-Numai, Aqil Azmi",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "High morphological languages are characterized by complex inflections and derivations, which can present challenges for natural language processing tasks such as summarization. Abstractive text summarization aims to generate a summary by understanding the meaning of the text, rather than solely relying on the words used in the original source. However, few works address the  generation of abstractive summaries due to its complexity. One of the challenges is the absence of a reliable metric to evaluate the performance of abstractive summaries. This paper proposes a lemma-based ROUGE metric and investigates the effectiveness of normalization forms in the similarity matching of the ROUGE metric for evaluating abstractive text summarization systems. We use Arabic as a case study and compare results involving different forms of the word: as is, stem-based, and lemma-based. The results show that the lemma-based form achieves higher ROUGE scores than the other forms. The findings emphasize the impact of morphological complexity on the performance of abstractive text summarization systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33022/ijcs.v12i2.3190"
+    },
+    {
+        "id": 25281,
+        "title": "Enhancing Text Summarization: Evaluating Transformer-Based Models and the Role of Large Language Models like ChatGPT",
+        "authors": "Pınar Savcı, Bihter Das",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iisec59749.2023.10391040"
+    },
+    {
+        "id": 25282,
+        "title": "Exploring the Impact of LSTM Parameters on Network Performance for Automatic Text Summarization",
+        "authors": "Rohaila Naaz, Kavitha R, Surendra Yadav",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470615"
+    },
+    {
+        "id": 25283,
+        "title": "Optimization of an Abstract Text Summarization Model based on Entity Awareness and Perturbation",
+        "authors": "Ben Yao, Gejian Ding",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eiecs59936.2023.10435599"
+    },
+    {
+        "id": 25284,
+        "title": "Improving Long Text Understanding with Knowledge Distilled from Summarization Model",
+        "authors": "Yan Liu, Yazheng Yang, Xiaokang Chen",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448039"
+    },
+    {
+        "id": 25285,
+        "title": "T5LSTM-RNN based Text Summarization Model for Behavioral Biology Literature",
+        "authors": "Shivangi Chaurasia, Debalay Dasgupta, Rajeshkhannan Regunathan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.040"
+    },
+    {
+        "id": 25286,
+        "title": "Revolutionizing Text Summarization: A Breakthrough in Content Compression",
+        "authors": "Mishra Nidhi, Khan Farhan, Mishra Amit",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23940/ijpe.24.01.p6.4047"
+    },
+    {
+        "id": 25287,
+        "title": "Neoteric Advancements in Neural Automatic Text Summarization: A Comprehensive Survey",
+        "authors": "Sukriti Bohra, Manisha Kumari, Sandeep Mandia, Kuldeep Singh",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10307105"
+    },
+    {
+        "id": 25288,
+        "title": "A machine translation model for abstractive text summarization based on natural language processing",
+        "authors": "Bhuvaneshwarri Ilango",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "“Knowledge is power and knowledge is liberating” conveys that there is a need for the capacity for creativity and that information is plentiful. The key application of natural language processing (NLP) is text summarization. It is a well-known technique for copying text, selecting accurate content, and get insight from the text. The purpose of this study is to propose for providing a summary of the text employing the seq2seq concept from the TensorFlow Python library. Through the use of deep learning-based data augmentation, the suggested method has the potential to increase the effectiveness of the text summary. Finally, the bilingual evaluation understudy (BLEU) criterion is used to judge the effectiveness of the suggested methodology",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58414/scientifictemper.2023.14.3.20"
+    },
+    {
+        "id": 25289,
+        "title": "Correction: A Statistical Language Modeling Framework for Extractive Summarization of Text Documents",
+        "authors": "Pooja Gupta, Swati Nigam, Rajiv Singh",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02456-y"
+    },
+    {
+        "id": 25290,
+        "title": "Regex Parsing in Hybrid and Pure Approaches of Text Summarization",
+        "authors": "T. Vetriselvi, Mihir Mathur, Pushpa Gothwal",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccmla58983.2023.10346886"
+    },
+    {
+        "id": 25291,
+        "title": "A Framework for Abstractive Text Summarization Using Hugging Face Transformers",
+        "authors": "Rashmi Gandhi, Abhishek Saini, Saumya Gaikwad",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/confluence60223.2024.10463423"
+    },
+    {
+        "id": 25292,
+        "title": "A Multi-Metric Model for analyzing and comparing extractive text summarization approaches and algorithms on scientific papers",
+        "authors": "Mehmet Ali Dursun, Soydan Serttaş",
+        "published": "2024-2-18",
+        "citations": 0,
+        "abstract": "In today's world, where data and information are increasingly proliferating, text summarization and technologies play a critical role in making large amounts of text data more accessible and meaningful. In business, the news industry, academic research, and many other fields, text summarization helps make quick decisions, access information faster, and manage resources more effectively. Additionally, text summarization research is conducted to further improve these technologies and develop new methods and algorithms to provide better summarization of texts. Therefore, text summarization and research in this field are of great importance in the information age. In this study, a new operating model for text summarization that can be applied to different algorithms is proposed and evaluated. Sixteen summarization algorithms covering six approaches (statistical, graph-based, content-based, pointer-based, position-based, and user-oriented) were implemented and tested on 50 different full-text article datasets. Four evaluation criteria (BLEU, Rouge-N, Rouge-L, METEOR) were used to assess the similarity between the generated summaries and the original summaries. The performance of the algorithms within each approach was averaged and the overall best-performing algorithm was selected. This best algorithm was subjected to further analysis through Topic Modelling and Keyword Extraction to identify key topics and keywords within the summarised text. The proposed model provides a standardized workflow for developing and thoroughly testing summarization algorithms across datasets and evaluation metrics to determine the most appropriate summarization approach. This study demonstrates the effectiveness of the model on a variety of algorithm types and text sources.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24012/dumf.1376978"
+    },
+    {
+        "id": 25293,
+        "title": "An Abstractive Text Summarization using Decoder Attention with Pointer Network",
+        "authors": " Nikitha V,  Raghavendra R",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "In contemporary times, an abundance of unstructured data prevails across social media and the web. Text summarization, a process aimed at distilling relevant information concisely without altering its core meaning, has become crucial. Manual text summarization is resource-intensive, prompting the exploration of automated methods. While deep learning algorithms, particularly in abstractive text summarization, have gained popularity, further research is needed to understand their integration with semantic-based or structure-based approaches.\nThis research leverages a dataset of 1,735 resumes sourced from Kaggle to propose a novel framework. The framework combines semantic data transformations and deep learning approaches to enhance abstractive text summarization. A key focus is addressing the challenge of handling unregistered words. The proposed solution, Decoder Attention with Pointer Network (DA-PN), is introduced. DA-PN incorporates a coverage mechanism to mitigate word repetition in generated text summaries, thereby improving the quality of summaries. The method aims to safeguard against the propagation of errors in generated text summaries. The performance of the proposed approach is evaluated using the Recall Oriented Understudy for Gisting Evaluation (ROUGE) indicator. Notably, the proposed method achieves an average ROUGE score of 26.28, surpassing existing methods. The emphasis on combining semantic data transformations, deep learning, and addressing specific challenges like word repetition sets this research apart in the field of abstractive text summarization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48175/ijarsct-15693"
+    },
+    {
+        "id": 25294,
+        "title": "TAVM: A Novel Video Summarization Model Based on Text, Audio and Video Frames",
+        "authors": "Prashant Giridhar Shambharkar, Ruchi Goel",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictacs59847.2023.10389978"
+    },
+    {
+        "id": 25295,
+        "title": "Video-to-Text Summarization using Natural Language Processing",
+        "authors": " Prerna Mishra,  Kartik Garg,  Naveen Rathi",
+        "published": "2023-4-16",
+        "citations": 0,
+        "abstract": "Video summarization aims to produce a high-quality text-based summary of videos so that it can convey all the important information or the zest of the videos to users. The process of video summarization involves the conversion of video files to audio files, which are then converted to text files. This entire process is accompanied by the use of transformer architecture of Natural Language Processing. Although a lot of studies have been carried out for text summarization, we present our model, an extractive-video-summarizer, that utilizes state-of-the-art pre-trained ML models and open-source libraries at its core. The extractive-video-summarizer uses the following regime(I) Preparation of a multidisciplinary dataset of videos, (II) Extraction of audios from video files, (III)Text generation from audio files, (IV) Text summarization using extractive summarizers, (V)Entity extraction. We conducted our research primarily on two widely used languages in India - Hindi and English. To conclude, our model performs significantly well and generates tags for videos appropriately.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48175/ijarsct-9160"
+    },
+    {
+        "id": 25296,
+        "title": "Communication for Blind Individual Using CNN and Text Summarization",
+        "authors": "N. Siddhartha Reddy",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "Abstract: In order to bridge the communication gap between the deaf and the dumb, sign language is a special kind of communication language. There are several signs in each sign language with differences in palm size, shape, motion, and positioning of the hand, all of which are important components of each sign. Many different researchers have proposed numerous applications. Utilising deep learning principles, several notable advancements have been made in these applications during the last few years. Throughout this survey, we evaluated various hand gesture detection applications utilising recent deep learning theories. Despite significant advancements in hand gesture detection accuracy, there are still a number of issues that need to be handled. In our proposal,",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2023.53720"
+    },
+    {
+        "id": 25297,
+        "title": "Multi-Objective Ant Colony Optimization (MOACO) Approach for Multi-Document Text Summarization",
+        "authors": "Murali Krishna Muddada, Jayavani Vankara, Sekharamahanti S. Nandini, Girija Rani Karetla, Kaparapu Sowjanya Naidu",
+        "published": "2024-1-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023059218"
+    },
+    {
+        "id": 25298,
+        "title": "GEMINI: Controlling The Sentence-Level Summary Style in Abstractive Text Summarization",
+        "authors": "Guangsheng Bao, Zebin Ou, Yue Zhang",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.53"
+    },
+    {
+        "id": 25299,
+        "title": "Abstractive Bengali Text Summarization Using Transformer-based Learning",
+        "authors": "S. M. Afif Ibne Hayat, Avishek Das, Mohammed Moshiul Hoque",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eict61409.2023.10427906"
+    },
+    {
+        "id": 25300,
+        "title": "Distilled GPT for source code summarization",
+        "authors": "Chia-Yi Su, Collin McMillan",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10515-024-00421-4"
+    },
+    {
+        "id": 25301,
+        "title": "Fuzzy Inference-Based Models for Extractive Text Summarization",
+        "authors": "Gagandeep Singh, Bhavana Mekala, Nelluri Pavithra Sai Lakshmi, Santosh Singh Rathore",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvmi59935.2023.10464787"
+    },
+    {
+        "id": 25302,
+        "title": "A Comparative Study of Transformer-based Models for Text Summarization of News Articles",
+        "authors": "",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "Transformer-based models such as GPT, T5, BART, and PEGASUS have made substantial progress in text summarization, a sub-domain of natural language processing that entails extracting important information from lengthy texts. The main objective of this research was to conduct a comparative analysis of these four transformer-based models based on their performance in text summarization of news articles. In achieving this objective, the transformer models pre-trained on extensive datasets were fine-tuned on the CNN/DailyMail dataset using a low learning rate to preserve the learned representations. The T5 transformer records the highest scores of 35.12, 22.75, 32.82, and 28.59 in ROUGE-1, ROUGE-2, ROUGE-L, and ROUGE-Lsum respectively, surpassing GPT, BART, and PEGASUS across all ROUGE metrics. The findings deduced from this study establish the proficiency of encoder-decoder models such as T5 in summary generation. Furthermore, the findings also demonstrated that the fine-tuning process's effectiveness in pre-trained models is improved when the pre-training objective closely aligns with the downstream task.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30534/ijatcse/2024/011322024"
+    },
+    {
+        "id": 25303,
+        "title": "Data Augmentation with Large Language Models for Vietnamese Abstractive Text Summarization",
+        "authors": "Huy M. Le, Vy T. Luong, Ngoc Hoang Luong",
+        "published": "2023-10-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mapr59823.2023.10288906"
+    },
+    {
+        "id": 25304,
+        "title": "Method for Arabic text Summarization using statistical features and word2vector approach",
+        "authors": "Khaled Omar, Mohamad Al-Shaar",
+        "published": "2023-5-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3605423.3605444"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 31705,
+        "title": "FWA-RL: Fireworks Algorithm with Policy Gradient for Reinforcement Learning",
+        "authors": "Maiyue Chen, Ying Tan",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10254081"
+    },
+    {
+        "id": 31706,
+        "title": "Off-policy RL algorithms can be sample-efficient for continuous control via sample multiple reuse",
+        "authors": "Jiafei Lyu, Le Wan, Xiu Li, Zongqing Lu",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2024.120371"
+    },
+    {
+        "id": 31707,
+        "title": "Improved Soft Actor-Critic: Mixing Prioritized Off-Policy Samples With On-Policy Experiences",
+        "authors": "Chayan Banerjee, Zhiyong Chen, Nasimul Noman",
+        "published": "2024-3",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3174051"
+    },
+    {
+        "id": 31708,
+        "title": "Off-policy Imitation Learning from Visual Inputs",
+        "authors": "Zhihao Cheng, Li Shen, Dacheng Tao",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161566"
+    },
+    {
+        "id": 31709,
+        "title": "Off-policy and on-policy reinforcement learning with the Tsetlin machine",
+        "authors": "Saeed Rahimi Gorji, Ole-Christoffer Granmo",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "AbstractThe Tsetlin Machine is a recent supervised learning algorithm that has obtained competitive accuracy- and resource usage results across several benchmarks. It has been used for convolution, classification, and regression, producing interpretable rules in propositional logic. In this paper, we introduce the first framework for reinforcement learning based on the Tsetlin Machine. Our framework integrates the value iteration algorithm with the regression Tsetlin Machine as the value function approximator. To obtain accurate off-policy state-value estimation, we propose a modified Tsetlin Machine feedback mechanism that adapts to the dynamic nature of value iteration. In particular, we show that the Tsetlin Machine is able to unlearn and recover from the misleading experiences that often occur at the beginning of training. A key challenge that we address is mapping the intrinsically continuous nature of state-value learning to the propositional Tsetlin Machine architecture, leveraging probabilistic updates. While accurate off-policy, this mechanism learns significantly slower than neural networks on-policy. However, by introducing multi-step temporal-difference learning in combination with high-frequency propositional logic patterns, we are able to close the performance gap. Several gridworld instances document that our framework can outperform comparable neural network models, despite being based on simple one-level AND-rules in propositional logic. Finally, we propose how the class of models learnt by our Tsetlin Machine for the gridworld problem can be translated into a more understandable graph structure. The graph structure captures the state-value function approximation and the corresponding policy found by the Tsetlin Machine.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-022-04297-3"
+    },
+    {
+        "id": 31710,
+        "title": "Off-Policy Reinforcement Learning for Optimal Control of a Two Wheeled Self Balancing Robot",
+        "authors": "Athira Mullachery, Shaikshavali Chitraganti",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc61519.2023.10441833"
+    },
+    {
+        "id": 31711,
+        "title": "IMO off course for decarbonisation of shipping? Three challenges for stricter policy",
+        "authors": "Hanna Bach, Teis Hansen",
+        "published": "2023-1",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpol.2022.105379"
+    },
+    {
+        "id": 31712,
+        "title": "H<sub>∞</sub> Optimal Distributed Tracking Control of Network Distributed Systems over Directed Networks via Off-Policy Reinforcement Learning",
+        "authors": "Gulnihal Kucuksayacigil",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ecc57647.2023.10178321"
+    },
+    {
+        "id": 31713,
+        "title": "Policy learning governance: a new perspective on agency across policy learning theories",
+        "authors": "Bishoy L. Zaki",
+        "published": "2024-1-5",
+        "citations": 2,
+        "abstract": "The predominant ontological position on agency in policy learning literature has been relatively learner-oriented, thus focusing on policy actors puzzling about policy problems. In other words, it focuses on how actors acquire, translate, and disseminate knowledge and information to address policy problems or ‘puzzles’. However, despite its influence on learning and its outcomes, policy actors’ powering, or agency in shaping learning processes has been scarcely explored or theorised. Drawing on policy learning literature, this article explores and demarcates the concept of ‘policy learning governance’ as a supplementary perspective to the learner-oriented view of agency in policy learning research. Here, learning governance can be understood as the deliberate processes by which policy actors strategise, design, and govern policy learning processes towards achieving technical or political objectives. This article explains how integrating a learning governance perspective into existing conceptual approaches to policy learning can provide a better basis for understanding the interactions between different constitutive elements of policy learning processes and outcomes, such as policy or belief change. In this way, it offers a more robust baseline for explaining learning processes, an advancement that has significant implications for both policy learning theory and practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/03055736y2023d000000018"
+    },
+    {
+        "id": 31714,
+        "title": "Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes",
+        "authors": "Andrew Bennett, Nathan Kallus",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": " In applications of offline reinforcement learning to observational data, such as in healthcare or education, a general concern is that observed actions might be affected by unobserved factors, inducing confounding and biasing estimates derived assuming a perfect Markov decision process (MDP) model. In “Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes,” A. Bennett and N. Kallus tackle this by considering off-policy evaluation in a partially observed MDP (POMDP). Specifically, they consider estimating the value of a given target policy in an unknown POMDP, given observations of trajectories generated by a different and unknown policy, which may depend on the unobserved states. They consider both when the target policy value can be identified the observed data and, given identification, how best to estimate it. Both these problems are addressed by extending the framework of proximal causal inference to POMDP settings, using sequences of so-called bridge functions. This results in a novel framework for off-policy evaluation in POMDPs that they term proximal reinforcement learning, which they validate in various empirical settings. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.0781"
+    },
+    {
+        "id": 31715,
+        "title": "Imitation Learning-Based Performance-Power Trade-Off Uncore Frequency Scaling Policy for Multicore System",
+        "authors": "Baonan Xiao, Jianfeng Yang, Xianxian Qi",
+        "published": "2023-1-28",
+        "citations": 0,
+        "abstract": "As the importance of uncore components, such as shared cache slices and memory controllers, increases in processor architecture, the percentage of uncore power consumption in the overall power consumption of multicore processors rises significantly. To maximize the power efficiency of a multicore processor system, we investigate the uncore frequency scaling (UFS) policy and propose a novel imitation learning-based uncore frequency control policy. This policy performs online learning based on the DAgger algorithm and converts the annotation cost of online aggregation data into fine-tuning of the expert model. This design optimizes the online learning efficiency and improves the generality of the UFS policy on unseen loads. On the other hand, we shift our policy optimization target to Performance Per Watt (PPW), i.e., the power efficiency of the processor, to avoid saving a percentage of power while losing a larger percentage of performance. The experimental results show that our proposed policy outperforms the current advanced UFS policy in the benchmark test sequence of SPEC CPU2017. Our policy has a maximum improvement of about 10% relative to the performance-first policies. In the unseen processor load, the tuning decision made by our policy after collecting 50 aggregation data can maintain the processor stably near the optimal power efficiency state.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23031449"
+    },
+    {
+        "id": 31716,
+        "title": "An Efficient Off-Policy Reinforcement Learning Algorithm for the Continuous-Time LQR Problem",
+        "authors": "Victor G. Lopez, Matthias A. Müller",
+        "published": "2023-12-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10384256"
+    },
+    {
+        "id": 31717,
+        "title": "Timing-Aware Resilience of Data-driven Off-policy Reinforcement Learning for Discrete-Time Systems",
+        "authors": "Lijing Zhai, Filippos Fotiadis, Kyriakos G. Vamvoudakis, Jérôme Hugues",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10155865"
+    },
+    {
+        "id": 31718,
+        "title": "On dividend policy and market valuations of Australia’s listed electricity utilities: Regulated vs. merchant",
+        "authors": "Paul Simshauser",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eap.2022.12.009"
+    },
+    {
+        "id": 31719,
+        "title": "Types of learning and varieties of innovation: how does policy learning enable policy innovation?",
+        "authors": "Nihit Goyal, Michael Howlett",
+        "published": "2024-1-8",
+        "citations": 2,
+        "abstract": "Policy innovation is considered important for addressing major challenges such as climate change and the sustainable energy transition. Although policy learning is likely to play a key role in enabling policy innovation, the link between them remains unclear despite much research on both topics. To address this gap, we move beyond a binary treatment of policy innovation and differentiate policy problem innovation from policy instrument innovation and policy process innovation. Subsequently, we synthesise the literature on policy learning with the research on the multiple streams framework (MSF), a well-known lens for explaining policy innovation. Like earlier policy learning studies, we distinguish several types of learning by posing the key questions of learning, but in the context of each stream of the MSF: who learns (actors), what (beliefs), how (modes), and to what effect (ripening). This new conceptualisation clarifies the relationship of each type of policy learning to the varieties of policy innovation. Further, it indicates that policy learning is likely to result in policy innovation if and only if it influences the coupling among the three streams during a window of opportunity – through policy entrepreneurship – and not otherwise. We conclude with the implications of this study for future research on policy innovation, policy learning, and the MSF.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/030557321x16841388707452"
+    },
+    {
+        "id": 31720,
+        "title": "On-policy and off-policy Q-learning strategies for spacecraft systems: An approach for time-varying discrete-time without controllability assumption of augmented system",
+        "authors": "Hoang Nguyen, Hoang Bach Dang, Phuong Nam Dao",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ast.2024.108972"
+    },
+    {
+        "id": 31721,
+        "title": "The experimentation–accountability trade-off in innovation and industrial policy: are learning networks the solution?",
+        "authors": "Slavo Radosevic, Despina Kanellou, George Tsekouras",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "Abstract\nThe exact nature of industrial/innovation (I/I) policy challenges and the best way to address them are unknown ex ante. This requires a degree of experimentation, which can be problematic in the context of an accountable public administration and leaves the question of how to reconcile the experimental nature of I/I policy with the need for public accountability, a crucial but unresolved issue. The trade-off between experimentation and accountability requires a governance model that will allow continuous feedback loops among the various stakeholders and ongoing evaluation of and adjustments to activities as programmes are implemented. We propose an ‘action learning’ approach, incorporating the governance mechanism of ‘learning networks’ to handle the problems of implementing experimental governance of new and untried I/I policies. We resolve the issue of accountability by drawing on the literature on network governance in public policy. By integrating control and learning dimensions of accountability, this approach enables us to resolve conceptually and empirically trade-offs between the need for experimentation and accountability in I/I policy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/scipol/scad013"
+    },
+    {
+        "id": 31722,
+        "title": "Reliable Off-Policy Evaluation for Reinforcement Learning",
+        "authors": "Jie Wang, Rui Gao, Hongyuan Zha",
+        "published": "2024-3",
+        "citations": 2,
+        "abstract": " Off-policy evaluation is an important topic in reinforcement learning, which estimates the expected cumulative reward of a target policy using logged trajectory data generated from a different behavior policy, without execution of the target policy. It is imperative to quantify the uncertainty of the off-policy estimate before deployment of the target policy. Here we leverage methodologies from (Wasserstein) distributionally robust optimization to provide robust and optimistic cumulative reward estimates. With proper selection of the size of the distributional uncertainty set, these estimates serve as confidence bounds with nonasymptotic and asymptotic guarantees under stochastic or adversarial environments. We also generalize those results to batch reinforcement learning. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2022.2382"
+    },
+    {
+        "id": 31723,
+        "title": "Off-policy evaluation for tabular reinforcement learning with synthetic trajectories",
+        "authors": "Weiwei Wang, Yuqiang Li, Xianyi Wu",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10351-y"
+    },
+    {
+        "id": 31724,
+        "title": "Off-grid households’ preferences for electricity services: Policy implications for mini-grid deployment in rural Tanzania",
+        "authors": "Cheng Wen, Jon C. Lovett, Emmanuel J. Kwayu, Consalva Msigwa",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2022.113304"
+    },
+    {
+        "id": 31725,
+        "title": "EU migration policy: policy of humanism vs threat to national security",
+        "authors": "Gyulnara Gadzhimuradova, Nemanja Vukcevic",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "Uncontrolled migration sweeping Europe is a priority of the political leadership led by a number of European states such as France, Italy, as well as their allies in the United States. The climate crisis in Europe also plays an important role here, which can be resolved, according to Germany, with the help of future “new citizens” who arrived from countries in Africa and the Middle East, exclusively with a Muslim population. What are the migration and immigrant policies in EU countries? How is the immigration policy of European countries being transformed? A detailed analysis of the current state of affairs in Europe is based on official data from the national statistical services of Germany, France, Great Britain, the Ministry of European Integration of the Republic of Serbia, the Department of Civil Liberty and Immigration of the Italian Republic, as well as international organizations - the Office of the United Nations High Commissioner for Refugees (UNHCR), the International Organization for Migration (IOM), Eurostat, World Bank. The article examines the security problem in connection with the penetration of radical Islam along with refugees. The authors reveal the consequences of the migration crisis in Europe and make an attempt to answer the question: is the reception and integration of refugees an act of humanity or a problem of national security for EU countries.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.19181/nko.2023.29.4.5"
+    },
+    {
+        "id": 31726,
+        "title": "Off-Policy Learning-to-Bid with AuctionGym",
+        "authors": "Olivier Jeunen, Sean Murphy, Ben Allison",
+        "published": "2023-8-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3580305.3599877"
+    },
+    {
+        "id": 31727,
+        "title": "Australianised military off-the-shelf: Australia’s naval ship design ethos and the Anzac Class frigates",
+        "authors": "Richard Dunley",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpol.2024.106003"
+    },
+    {
+        "id": 31728,
+        "title": "Climate change vs energy security? The conditional support for energy sources among Western Europeans",
+        "authors": "Christoph Arndt",
+        "published": "2023-3",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2023.113471"
+    },
+    {
+        "id": 31729,
+        "title": "We have an SEL policy! Now what?",
+        "authors": "Nick Yoder, Aimee Dang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100019"
+    },
+    {
+        "id": 31730,
+        "title": "The Cost-of-Living Crisis in the UK and Ireland: on Inflation, Indexation, and One-Off Policy Responses",
+        "authors": "Rod Hick, Micheál L. Collins",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "This paper compares social policy responses to the cost-of-living crisis in the United Kingdom (UK) and Ireland. In seeking to protect citizens from an inflationary shock, a series of fundamental social policy questions arise. What would the aims of support packages be? To what extent should support be universal or targeted? If targeted, did existing policy architectures facilitate or frustrate the targeting of support? As the scale and persistence of the inflationary shock became evident, smaller and near-universal responses gave way to larger support packages with a greater reliance on targeting. Social security systems played an important role in policy responses, though often by passporting one-off payments rather than a strengthening of these core programmes. Passporting led both to improved distributional outcomes vis-à-vis the more universal elements but created new administrative challenges and led to rough justice in some circumstances. The reliance on one-off payments underlined the temporary nature of policy responses.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s1474746423000453"
+    },
+    {
+        "id": 31731,
+        "title": "An Improved Trust-Region Method for Off-Policy Deep Reinforcement Learning",
+        "authors": "Hepeng Li, Xiangnan Zhong, Haibo He",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191837"
+    },
+    {
+        "id": 31732,
+        "title": "The role of policy learning in explaining <scp>COVID</scp>‐19 policy changes",
+        "authors": "Chan Wang",
+        "published": "2023-10-26",
+        "citations": 1,
+        "abstract": "AbstractThe ongoing fight against the COVID‐19 pandemic has highlighted the importance of adaptive policy change and the critical role of policy learning in responding to public health crises. This study utilizes policy change and policy learning theories to investigate how instrumental and political learning intertwined to explain the policy change decisions made by six U.S. states from May to December 2020. By employing a multi‐value Qualitative Comparative Analysis, this study finds that the decision to impose stricter public gathering restrictions is primarily driven by instrumental learning, which is a response to the deteriorating pandemic situation. On the contrary, the decision to relax gathering restrictions is not only driven by the policymakers' perception of the improving pandemic situation but also influenced by the political motivations, such as the desire to suppress protests and address concerns for the decreased approval for the governor's handling of the crisis. The findings highlight the varied utilization of different policy learning types in response to different directions of policy change. Additionally, this study underscores the joint impact of instrumental and political learning in explaining changes in policy stringency. Overall, these findings contribute to a deeper understanding of policy change through learning activities in a complex and rapidly evolving policy landscape.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/ropr.12578"
+    },
+    {
+        "id": 31733,
+        "title": "An Approach for DC Motor Speed Control with Off-Policy Reinforcement Learning Method",
+        "authors": "Sevilay TÜFENKÇİ, Gürkan KAVURAN, Celaleddin YEROĞLU",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "In the literature, interest in automatic control systems that do not require human intervention and perform at the desired level increases day by day. In this study, a Twin Delay Deep Deterministic Policy Gradient (TD3), a reinforcement learning algorithm, automatically controls a DC motor system. A reinforcement learning method is an approach that learns what should be done to reach the goal and observes the results that come out with the interaction of both itself and the environment. The proposed method aims to adjust the voltage value applied to the input of the DC motor in order to reach output with single input and single output structure to the desired speed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17694/bajece.1114868"
+    },
+    {
+        "id": 31734,
+        "title": "On the Reuse Bias in Off-Policy Reinforcement Learning",
+        "authors": "Chengyang Ying, Zhongkai Hao, Xinning Zhou, Hang Su, Dong Yan, Jun Zhu",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Importance sampling (IS) is a popular technique in off-policy evaluation, which re-weights the return of trajectories in the replay buffer to boost sample efficiency. However, training with IS can be unstable and previous attempts to address this issue mainly focus on analyzing the variance of IS. In this paper, we reveal that the instability is also related to a new notion of Reuse Bias of IS --- the bias in off-policy evaluation caused by the reuse of the replay buffer for evaluation and optimization. We theoretically show that the off-policy evaluation and optimization of the current policy with the data from the replay buffer result in an overestimation of the objective, which may cause an erroneous gradient update and degenerate the performance. We further provide a high-probability upper bound of the Reuse Bias and show that controlling one term of the upper bound can control the Reuse Bias by introducing the concept of stability for off-policy algorithms. Based on these analyses, we present a novel yet simple Bias-Regularized Importance Sampling (BIRIS) framework along with practical algorithms, which can alleviate the negative impact of the Reuse Bias, and show that our BIRIS can significantly reduce the Reuse Bias empirically. Moreover, extensive experimental results show that our BIRIS-based methods can significantly improve the sample efficiency on a series of continuous control tasks in MuJoCo.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/502"
+    },
+    {
+        "id": 31735,
+        "title": "A Continuous Off-Policy Reinforcement Learning Scheme for Optimal Motion Planning in Simply-Connected Workspaces",
+        "authors": "Panagiotis Rousseas, Charalampos P. Bechlioulis, Kostas J. Kyriakopoulos",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161189"
+    },
+    {
+        "id": 31736,
+        "title": "Policy influence and influencers online and off",
+        "authors": "Anniina Kotkaniemi, Tuomas Ylä‐Anttila, Ted Hsuan Yun Chen",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "AbstractSocial media is an important arena for policy contestation. Although online social media debates can yield notable power over political processes offline, little research has examined the relationship between policy actors' influence in offline policymaking and social media policy arenas. We explore the relationship between four types of influence: reputational and formal‐institutional influence offline, and broadcasting and boosting influence online. We ask (1) are influential policy actors better able than others to broadcast their own messages on social media? and (2) are they better able than others to boost the broadcasting influence of other policy actors in social media? Using exponential random graph models on survey and Twitter data from the Finnish climate policy domain, we find that actors with high reputational influence in offline policymaking are also influential online, when measuring influence as the ability to broadcast one's own message. The pattern does not hold for those with formal‐institutional influence offline. Additionally, offline influence does not translate to the ability to further shape online influence by making boosting other actors' visibility. Our results suggest that although online influence partially corresponds to influence in policymaking, influence varies across arenas of policy contestation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/psj.12535"
+    },
+    {
+        "id": 31737,
+        "title": "Autonomous navigation of mobile robots in unknown environments using off-policy reinforcement learning with curriculum learning",
+        "authors": "Yan Yin, Zhiyu Chen, Gang Liu, Jiasong Yin, Jianwei Guo",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2024.123202"
+    },
+    {
+        "id": 31738,
+        "title": "Does anxiety increase policy learning?",
+        "authors": "Moulay Lablih, Pirmin Bundi, Lea Portmann",
+        "published": "2024-2-23",
+        "citations": 1,
+        "abstract": "AbstractDoes anxiety affect how public officials process policy information? It is often argued that the increasing number of policy failures can be explained by a lack of policy learning by decision makers. While previous studies show that socioeconomic and partisan variables are related to the perception of policy information, little attention has been paid to the role of emotions, such as anxiety, in the policymaking process. In this paper, we investigate the impact of anxiety on the policy learning of local office holders at the individual level in Switzerland. We introduce the Marcus' Affective Intelligence Model—which examines how emotions affect individuals' information processing—to the policy learning literature. To test the expectations of the model, we draw on novel experimental data collected among local elected officials from the 26 Swiss cantons. In the experiment, we randomly display anxiety‐inducing images along with policy information. We provide evidence that anxiety has a positive causal effect on learning. Considering potential moderators of this effect, we show that the relationship is not conditioned by the strength of priors or the perceived complexity of public policies. However, these variables are substantially correlated with policy learning. Our findings have important implications for better understanding how information influences policymaking.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/psj.12529"
+    },
+    {
+        "id": 31739,
+        "title": "Crude oil cycles and the choice of private vs public school: Evidence from Saudi Arabia",
+        "authors": "Abdullah Almansour",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2023.103931"
+    },
+    {
+        "id": 31740,
+        "title": "Container ship investment Decisions―Newbuilding vs second-hand vessels",
+        "authors": "Lixian Fan, Ziyan Li, Jiaqi Xie, Jingbo Yin",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tranpol.2023.09.005"
+    },
+    {
+        "id": 31741,
+        "title": "Rethinking Population-assisted Off-policy Reinforcement Learning",
+        "authors": "Bowen Zheng, Ran Cheng",
+        "published": "2023-7-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590512"
+    },
+    {
+        "id": 31742,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s2773-2339(23)00011-6"
+    },
+    {
+        "id": 31743,
+        "title": "Model analysis on the economic impact of paid peering: Implications of the Netflix vs. SK broadband dispute",
+        "authors": "Toshiya Jitsuzumi",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.telpol.2024.102736"
+    },
+    {
+        "id": 31744,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s2773-2339(23)00025-6"
+    },
+    {
+        "id": 31745,
+        "title": "Is C&amp;RL Ready for a Data Sharing Policy?",
+        "authors": "Minglu Wang, Adrian Ho, Kristen Totleben",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5860/crl.84.3.308"
+    },
+    {
+        "id": 31746,
+        "title": "Multi-Horizon Learning in Procedurally-Generated Environments for Off-Policy Reinforcement Learning (Student Abstract)",
+        "authors": "Raja Farrukh Ali, Kevin Duong, Nasik Muhammad Nafi, William Hsu",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Value estimates at multiple timescales can help create advanced discounting functions and allow agents to form more effective predictive models of their environment. In this work, we investigate learning over multiple horizons concurrently for off-policy reinforcement learning by using an advantage-based action selection method and introducing architectural improvements. Our proposed agent learns over multiple horizons simultaneously, while using either exponential or hyperbolic discounting functions. We implement our approach on Rainbow, a value-based off-policy algorithm, and test on Procgen, a collection of procedurally-generated environments, to demonstrate the effectiveness of this approach, specifically to evaluate the agent's performance in previously unseen scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i13.26935"
+    },
+    {
+        "id": 31747,
+        "title": "Off-Policy Proximal Policy Optimization",
+        "authors": "Wenjia Meng, Qian Zheng, Gang Pan, Yilong Yin",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Proximal Policy Optimization (PPO) is an important reinforcement learning method, which has achieved great success in sequential decision-making problems. However, PPO faces the issue of sample inefficiency, which is due to the PPO cannot make use of off-policy data. In this paper, we propose an Off-Policy Proximal Policy Optimization method (Off-Policy PPO) that improves the sample efficiency of PPO by utilizing off-policy data. Specifically, we first propose a clipped surrogate objective function that can utilize off-policy data and avoid excessively large policy updates. Next, we theoretically clarify the stability of the optimization process of the proposed surrogate objective by demonstrating the degree of policy update distance is consistent with that in the PPO. We then describe the implementation details of the proposed Off-Policy PPO which iteratively updates policies by optimizing the proposed clipped surrogate objective. Finally, the experimental results on representative continuous control tasks validate that our method outperforms the state-of-the-art methods on most tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i8.26099"
+    },
+    {
+        "id": 31748,
+        "title": "Table of Contents",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s2773-2339(23)00024-4"
+    },
+    {
+        "id": 31749,
+        "title": "Table of Contents",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s2773-2339(23)00010-4"
+    },
+    {
+        "id": 31750,
+        "title": "Constrained Off-policy Learning over Heterogeneous Information for Fairness-aware Recommendation",
+        "authors": "Xiangmeng Wang, Qian Li, Dianer Yu, Qing Li, Guandong Xu",
+        "published": "2023-10-26",
+        "citations": 1,
+        "abstract": "\n            Fairness-aware recommendation eliminates discrimination issues to build trustworthy recommendation systems. Existing fairness-aware approaches ignore accounting for rich user and item attributes and thus cannot capture the impact of attributes on affecting recommendation fairness. These real-world attributes severely cause unfair recommendations by favoring items with popular attributes, leading to item exposure unfairness in recommendations. Moreover, existing approaches mostly mitigate unfairness for static recommendation models, e.g., collaborative filtering. Static models can not handle dynamic user interactions with the system that reflect users’ preferences shift through time. Thus, static models are limited in their ability to adapt to user behavior shifts to gain long-run user satisfaction. As user and item attributes are largely involved in modern recommenders and user interactions are naturally dynamic, it is essential to develop a novel method that eliminates unfairness caused by attributes meanwhile embrace the dynamic modeling of user behavior shifts. In this paper, we propose\n            Constrained Off-policy Learning over Heterogeneous Information for Fairness-aware Recommendation (Fair-HINpolicy)\n            , which uses recent advances in context-aware off-policy learning to produce fairness-aware recommendations with rich attributes from a Heterogeneous Information Network. In particular, we formulate the off-policy learning as a Constrained Markov Decision Process (CMDP) by dynamically constraining the fairness of item exposure at each iteration. We also design an attentive action sampling to reduce the search space for off-policy learning. Our solution adaptively receives HIN-augmented corrections for counterfactual risk minimization, and ultimately yields an effective policy that maximizes long-term user satisfaction. We extensively evaluate our method through simulations on large-scale real-world datasets, obtaining favorable results compared with state-of-the-art methods.\n          ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3629172"
+    },
+    {
+        "id": 31751,
+        "title": "Pro-growth urban policy implementation vs urban shrinkage: How do actors shift policy implementation in shrinking cities in China?",
+        "authors": "Wenshi Yang",
+        "published": "2023-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cities.2022.104157"
+    },
+    {
+        "id": 31752,
+        "title": "Fast Link Scheduling in Wireless Networks Using Regularized Off-Policy Reinforcement Learning",
+        "authors": "Sagnik Bhattacharya, Ayan Banerjee, Subrahmanya Swamy Peruru, Kothapalli Venkata Srinivas",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lnet.2023.3264486"
+    },
+    {
+        "id": 31753,
+        "title": "A new cold war at sea: Fishing rights vs. the proliferation of military activities in the EEZ",
+        "authors": "Frederik Rogiers",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpol.2024.106077"
+    },
+    {
+        "id": 31754,
+        "title": "Exploring the Use of Invalid Action Masking in Reinforcement Learning: A Comparative Study of On-Policy and Off-Policy Algorithms in Real-Time Strategy Games",
+        "authors": "Yueqi Hou, Xiaolong Liang, Jiaqiang Zhang, Qisong Yang, Aiwu Yang, Ning Wang",
+        "published": "2023-7-18",
+        "citations": 1,
+        "abstract": "Invalid action masking is a practical technique in deep reinforcement learning to prevent agents from taking invalid actions. Existing approaches rely on action masking during policy training and utilization. This study focuses on developing reinforcement learning algorithms that incorporate action masking during training but can be used without action masking during policy execution. The study begins by conducting a theoretical analysis to elucidate the distinction between naive policy gradient and invalid action policy gradient. Based on this analysis, we demonstrate that the naive policy gradient is a valid gradient and is equivalent to the proposed composite objective algorithm, which optimizes both the masked policy and the original policy in parallel. Moreover, we propose an off-policy algorithm for invalid action masking that employs the masked policy for sampling while optimizing the original policy. To compare the effectiveness of these algorithms, experiments are conducted using a simplified real-time strategy (RTS) game simulator called Gym-μRTS. Based on empirical findings, we recommend utilizing the off-policy algorithm for addressing most tasks while employing the composite objective algorithm for handling more complex tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13148283"
+    },
+    {
+        "id": 31755,
+        "title": "Policy beliefs, belief uncertainty, and policy learning through the lens of the Advocacy Coalition Framework",
+        "authors": "Matthew C. Nowlin",
+        "published": "2024-1-4",
+        "citations": 0,
+        "abstract": "Within the Advocacy Coalition Framework (ACF), policy-oriented learning is understood as a change in policy beliefs. Additional work has noted that belief reinforcement, not just belief change, is also a potential policy learning outcome. Yet, little work has attempted to reconcile how learning could involve both belief change and belief reinforcement. In this article, I propose a policy-oriented learning model where policy beliefs – deep core, policy core, or secondary aspects – are understood as having a distribution with a central tendency (that is, the belief) as well as variance (that is, certainty associated with the belief). With policy beliefs considered as distributions, learning can be understood as changes in beliefs (that is, a change in the central tendency) as well as changes in certainty (that is, variance), and conversely, a decrease in belief uncertainty would constitute belief reinforcement. Using data from a deliberative forum that brought together various stakeholders including experts, natural resource managers, and the public to discuss environmental issues impacting coastal communities, I explore policy-oriented learning as changes in concern regarding several key issues before and after the forum. Additionally, I examine the association between concern following the forum and self-reported learning. I find support for the proposed policy-oriented learning model as shown by significant changes in average concern as well as average variance among participants across several of the issues discussed. In this way, the article makes a theoretical contribution to the ACF literature by testing the use of distributions to assess policy learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/03055736y2023d000000002"
+    },
+    {
+        "id": 31756,
+        "title": "Gold vs bitcoin: Who can resist panic in the U.S.?",
+        "authors": "Chi-Wei Su, Shengjie Yang, Meng Qin, Oana-Ramona Lobonţ",
+        "published": "2023-8",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2023.103880"
+    },
+    {
+        "id": 31757,
+        "title": "Broad support vs. deep opposition: The politics of bus rapid transit in low- and middle-income countries",
+        "authors": "Nicholas Goedeking",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tranpol.2023.10.019"
+    },
+    {
+        "id": 31758,
+        "title": "Digital Currencies: The Technology Adoption vs Policy Implications",
+        "authors": "Amir Zia, Gabriel A. Ogunmola, Vikas Kumar",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijtpm.2024.10062151"
+    },
+    {
+        "id": 31759,
+        "title": "Off-policy Q-learning-based Output Feedback Fault-tolerant Tracking Control of Industrial Processes",
+        "authors": "Linzhu Jia, Limin Wang, Ridong Zhang, Furong Gao",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/safeprocess58597.2023.10295876"
+    },
+    {
+        "id": 31760,
+        "title": "Teacher-apprentices RL (TARL): leveraging complex policy distribution through generative adversarial hypernetwork in reinforcement learning",
+        "authors": "Shi Yuan Tang, Athirai A. Irissappane, Frans A. Oliehoek, Jie Zhang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10458-023-09606-9"
+    },
+    {
+        "id": 31761,
+        "title": "Marginal vs. average effective load carrying capability: How should capacity markets deal with alternative generation forms?",
+        "authors": "Todd Aagaard, Andrew N. Kleit",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jup.2023.101654"
+    },
+    {
+        "id": 31762,
+        "title": "Fixed rebate subsidy vs. unit price subsidy: Incentive effect on the biomass power supply chain",
+        "authors": "Huan Zhang, Xianglei Duan, Jianli Jiang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2024.114031"
+    },
+    {
+        "id": 31763,
+        "title": "Turning off the base: Social democracy's neoliberal turn, income inequality, and turnout",
+        "authors": "Matthew Polacko",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "AbstractGreater party system polarization has recently been shown to influence voter turnout under conditions of higher income inequality. This article builds on these findings by introducing into the framework the policy positions of social democratic parties. It does so through multilevel regression on a sample of 30 advanced democracies in 111 elections, from 1996 to 2019. In doing so, it contributes to the identification of party policy offerings as a mechanism moderating inequality and turnout. It finds that income inequality significantly reduces voter turnout, which is substantially magnified when social democratic parties adopt rightward welfare state positions. It also finds that social democratic parties can largely mitigate the negative effects of inequality on turnout for low‐income individuals by offering leftist welfare state positions. The findings carry important implications for understanding the electoral consequences of both party positioning and rising inequality in advanced democracies.Related ArticlesSimon, Christopher A., and Raymond Tatalovich. 2022. “The Turnout Myth and Referendum Voting in the United States.” Politics & Policy 50(3): 472–86. https://doi.org/10.1111/polp.12483.Stockemer, Daniel, and Stephanie Parent. 2013. “The Inequality Turnout Nexus: New Evidence from Presidential Elections.” Politics & Policy 42(2): 221–45. https://doi.org/10.1111/polp.12067.Wilford, Allan M. 2020. “Understanding the Competing Effects of Economic Hardship and Income Inequality on Voter Turnout.” Politics & Policy 48(2): 314–38. https://doi.org/10.1111/polp.12344.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/polp.12550"
+    },
+    {
+        "id": 31764,
+        "title": "Fiscal austerity vs. expansionary fiscal policy:\n            <i>on the results of these opposed economic policies applied to fight recessions</i>",
+        "authors": "Joaquim Vergés-Jaime",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/17487870.2023.2238109"
+    },
+    {
+        "id": 31765,
+        "title": "Shared bikes vs. private e-scooters. Understanding patterns of use and demand in a policy-constrained micromobility environment",
+        "authors": "Oriol Roig-Costa, Carme Miralles-Guasch, Oriol Marquet",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tranpol.2023.11.010"
+    },
+    {
+        "id": 31766,
+        "title": "Ad-load Balancing via Off-policy Learning in a Content Marketplace",
+        "authors": "Hitesh Sagtani, Madan Gopal Jhawar, Rishabh Mehrotra, Olivier Jeunen",
+        "published": "2024-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3616855.3635846"
+    },
+    {
+        "id": 31767,
+        "title": "Seafarers vs. Port State Control: Decoding Work/rest Compliance Data Disparity",
+        "authors": "Bikram Singh Bhatia, Maria Carrera-Arce, Raphael Baumler, Michelle Rita Grech",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpol.2024.106105"
+    },
+    {
+        "id": 31768,
+        "title": "Sustainable electricity supply for small off-grid communities in Colombia: A system dynamics approach",
+        "authors": "Estefany Garces, Carlos J. Franco, Julia Tomei, Isaac Dyner",
+        "published": "2023-1",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2022.113314"
+    },
+    {
+        "id": 31769,
+        "title": "The traveller's guide to policy learning",
+        "authors": "Alastair Stark, Jenny van der Arend",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2243997"
+    },
+    {
+        "id": 31770,
+        "title": "Learning from and Emulating Their Peers: Policy Diffusion in the Courts",
+        "authors": "Abigail A. Matthews",
+        "published": "2024-1-8",
+        "citations": 1,
+        "abstract": "Abstract\nMany studies of policy diffusion focus on what factors affect a policy’s adoption. Few studies specifically test the mechanism and two of the most common explanations – learning and emulation – have not been tested outside of legislatures. While judicial scholars have applied policy diffusion to several types of laws, we know little about the motivation behind why policies spread from court to court. One unexplored area is the relationship between courts. This short article analyzes the two mechanisms most likely to affect peer institutions: learning and emulation. Using network analysis methods on an original dataset of state supreme court citations from 1960 to 2010, I provide evidence that courts are learning from and not emulating each other, but the mechanism is policy-specific.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/spq.2023.31"
+    },
+    {
+        "id": 31771,
+        "title": "Two-player nonlinear Stackelberg differential game via off-policy integral reinforcement learning",
+        "authors": "Xiaohong Cui, Jiayu Chen, Yang Cui, Suan Xu",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jfranklin.2024.106812"
+    },
+    {
+        "id": 31772,
+        "title": "Policy Vs Business: Well-Designed Health-Related Food Policy Should Not Let Industry Marketing Undermine Its Intended Effects; Comment on \"Understanding Marketing Responses to a Tax on Sugary Drinks: A Qualitative Interview Study in the United Kingdom, 2019\"",
+        "authors": "Laura Cornelsen, Soledad Cuevas",
+        "published": "2023-1-24",
+        "citations": 0,
+        "abstract": "Health-related food policies, such as taxes on unhealthy food and drink, can act as catalysts for food industry to take action which may or may not align with the policy goal of improving population health. This commentary discusses the framework proposed by Forde et al (2021) in analysing the food industry marketing responses to the Soft Drink Industry Levy (SDIL), implemented in the UK in 2018. We suggest and discuss ways which may help broaden the use of the framework to other relevant policies. This includes widening the framework to cover strategies that may have not come up within the SDIL context but have been studied in other contexts. It would also be important to consider interactions between the strategies and with external factors influencing company decisions. Going forward, comprehensive evaluations of health related policies should consider likely interactions with industry marketing strategies to fully understand potential impacts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34172/ijhpm.2023.7640"
+    },
+    {
+        "id": 31773,
+        "title": "Safety-Aware Optimal Control of Nonlinear Systems Using Off-Policy Reinforcement Learning*",
+        "authors": "Mingduo Lin, Bo Zhao, Hongbing Xia, Derong Liu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csis-iac60628.2023.10363836"
+    },
+    {
+        "id": 31774,
+        "title": "Robust hierarchical games of linear discrete-time systems based on off-policy model-free reinforcement learning",
+        "authors": "Xiao Ma, Yuan Yuan",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jfranklin.2024.106711"
+    },
+    {
+        "id": 31775,
+        "title": "Cleantech and policy framework in Europe: A machine learning approach",
+        "authors": "Annalisa Croce, Laura Toschi, Elisa Ughetto, Sara Zanni",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2024.114006"
+    },
+    {
+        "id": 31776,
+        "title": "A multiagent reinforcement learning framework for off-policy evaluation in two-sided markets",
+        "authors": "Chengchun Shi, Runzhe Wan, Ge Song, Shikai Luo, Hongtu Zhu, Rui Song",
+        "published": "2023-12-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-aoas1700"
+    },
+    {
+        "id": 31777,
+        "title": "Particle Swarm Optimization  Method Combined with off  Policy Reinforcement Learning  Algorithm for the Discovery of  High Utility Itemset",
+        "authors": "K. Logeswaran, P. Suresh, S. Anandamurugan",
+        "published": "2023-3-28",
+        "citations": 3,
+        "abstract": "Mining of High Utility Itemset (HUI) is an area of high importance in data mining that involves numerous methodologies for addressing it effectively. When the diversity of items and size of an item is quite vast in the given dataset, then the problem search space that needs to be solved by conventional exact approaches to High Utility Itemset Mining (HUIM) also increases in terms of exponential. This factual issue has made the researchers to choose alternate yet efficient approaches based on Evolutionary Computation (EC) to solve the HUIM problem. Particle Swarm Optimization (PSO) is an EC-based approach that has drawn the attention of many researchers to unravel different NP-Hard problems in real-time. Variants of PSO techniques have been established in recent years to increase the efficiency of the HUIs mining process. In PSO, the Minimization of execution time and generation of reasonable decent solutions were greatly influenced by the PSO control parameters namely Acceleration Coefficient and  and Inertia Weight. The proposed approach is called Adaptive Particle Swarm Optimization using Reinforcement Learning with Off Policy (APSO-RLOFF), which employs the Reinforcement Learning (RL) concept to achieve the adaptive online calibration of PSO control and, in turn, to increase the performance of PSO. The state-of-the-art RL approach called the Q-Learning algorithm is employed in the APSO-RLOFF approach. In RL, state-action utility values are estimated during each episode using Q-Learning. Extensive tests are carried out on four benchmark datasets to evaluate the performance of the suggested technique. An exact approach called HUP-Miner and three EC-based approaches, namely HUPEUMU-GRAM, HUIM-BPSO, and AGA_RLOFF, are used to relate the performance of the anticipated approach. From the outcome, it is inferred that the performance metrics of APSO-RLOFF, namely no of discovered HUIs and execution time, outstrip the previously considered EC computations.\n ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5755/j01.itc.52.1.31949"
+    },
+    {
+        "id": 31778,
+        "title": "An Empirical Study of On-Policy and Off-Policy Actor-Critic Algorithms in the Context of Exploration-Exploitation Dilemma",
+        "authors": "Supriya Seshagiri, Prema K V",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci58599.2023.10331400"
+    },
+    {
+        "id": 31779,
+        "title": "Decision making as a pedagogy for social emotional learning",
+        "authors": "Brooke Moore, Robin Gregory",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2024.100034"
+    },
+    {
+        "id": 31780,
+        "title": "Learning mode misfits in policy learning: typology, case study and lessons learnt",
+        "authors": "Malte Möck, Peter H. Feindt",
+        "published": "2023-11-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2280678"
+    },
+    {
+        "id": 31781,
+        "title": "Determinants of the success of MSMEs in India: a policy vs. technology perspective",
+        "authors": "Vikas Kumar, Pooja Nanda",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijtpm.2023.129471"
+    },
+    {
+        "id": 31782,
+        "title": "Determinants of the success of MSMEs in India: a policy vs. technology perspective",
+        "authors": "Vikas Kumar, Pooja Nanda",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijtpm.2023.10054602"
+    },
+    {
+        "id": 31783,
+        "title": "A Post‐American Middle East? US Realities Vs. Chinese and Russian Alternatives",
+        "authors": "Christopher K. Colley",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "AbstractFor the past 15 years, there have been increasing calls for the United States to reduce its overseas force structure and to bring troops home. Such discussion accelerated during the Trump administration, and perceptions of American retrenchment were heightened by President Joe Biden's decision to withdraw from Afghanistan. This article asks the key question: Is Washington really engaging in a systematic pullout from the Middle East? Based on publicly available evidence, I argue that, contrary to common perceptions, the American military is actually increasing its forward presence in the Arabian Peninsula and Gulf region. In addition, I contend that the two other states that have the potential to replace the United States in the Middle East, Russia and China, are for multiple reasons incapable of doing so. In addition to puncturing the myths, the article contributes to the ongoing policy debates and theoretical literatures regarding Middle East security and great‐power competition.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/mepo.12670"
+    },
+    {
+        "id": 31784,
+        "title": "Explainable machine learning for public policy: Use cases, gaps, and research directions",
+        "authors": "Kasun Amarasinghe, Kit T. Rodolfa, Hemank Lamba, Rayid Ghani",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "Abstract\nExplainability is highly desired in machine learning (ML) systems supporting high-stakes policy decisions in areas such as health, criminal justice, education, and employment. While the field of explainable ML has expanded in recent years, much of this work has not taken real-world needs into account. A majority of proposed methods are designed with generic explainability goals without well-defined use cases or intended end users and evaluated on simplified tasks, benchmark problems/datasets, or with proxy users (e.g., Amazon Mechanical Turk). We argue that these simplified evaluation settings do not capture the nuances and complexities of real-world applications. As a result, the applicability and effectiveness of this large body of theoretical and methodological work in real-world applications are unclear. In this work, we take steps toward addressing this gap for the domain of public policy. First, we identify the primary use cases of explainable ML within public policy problems. For each use case, we define the end users of explanations and the specific goals the explanations have to fulfill. Finally, we map existing work in explainable ML to these use cases, identify gaps in established capabilities, and propose research directions to fill those gaps to have a practical societal impact through ML. The contribution is (a) a methodology for explainable ML researchers to identify use cases and develop methods targeted at them and (b) using that methodology for the domain of public policy and giving an example for the researchers on developing explainable ML methods that result in real-world impact.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/dap.2023.2"
+    },
+    {
+        "id": 31785,
+        "title": "The Evolution of Coaching as a Policy Instrument: How a District Engages in Organizational Learning",
+        "authors": "Sarah L. Woulfin, Natalie Spitzer",
+        "published": "2023-9-29",
+        "citations": 0,
+        "abstract": " Many U.S. school districts now rely on instructional coaching to promote reform. Yet facets of coaching policy remain vague, and there is considerable variation in the structures and practices of coaching. We use longitudinal, qualitative data to analyze changes in instructional coaching, as a capacity building policy instrument, in one mid-sized urban-emergent school district from 2014 to 2019. Applying concepts of organizational learning theory, this paper documents how district leaders designed and implemented three distinct forms of coaching. We argue coaching shifted from a tool for teacher support, to a resource for school improvement, and lastly to a lever for boosting coherence. Further, we demonstrate how particular problems and leaders triggered different degrees of organizational learning on–and changes to–coaching. In sum, the paper explains how a district alters the definitions and structures of instructional coaching. By illuminating how educational leaders tinker with capacity building instruments, this paper contributes to the instructional reform literature and advances the field’s understanding of the evolution of capacity-building instruments. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/08959048231201788"
+    },
+    {
+        "id": 31786,
+        "title": "Toward a Spacefaring Society: Enhancing Undergraduate General Education and Learning Outcomes with Space Policy Course Themes",
+        "authors": "Joshua D. Ambrosius",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.spacepol.2022.101535"
+    },
+    {
+        "id": 31787,
+        "title": "Enhancing Off-Policy Constrained Reinforcement Learning through Adaptive Ensemble C Estimation",
+        "authors": "Hengrui Zhang, Youfang Lin, Shuo Shen, Sheng Han, Kai Lv",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "In the domain of real-world agents, the application of Reinforcement Learning (RL) remains challenging due to the necessity for safety constraints. Previously, Constrained Reinforcement Learning (CRL) has predominantly focused on on-policy algorithms. Although these algorithms exhibit a degree of efficacy, their interactivity efficiency in real-world settings is sub-optimal, highlighting the demand for more efficient off-policy methods. However, off-policy CRL algorithms grapple with challenges in precise estimation of the C-function, particularly due to the fluctuations in the constrained Lagrange multiplier. Addressing this gap, our study focuses on the nuances of C-value estimation in off-policy CRL and introduces the Adaptive Ensemble C-learning (AEC) approach to reduce these inaccuracies. Building on state-of-the-art off-policy algorithms, we propose AEC-based CRL algorithms designed for enhanced task optimization. Extensive experiments on nine constrained robotics tasks reveal the superior interaction efficiency and performance of our algorithms in comparison to preceding methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i19.30177"
+    },
+    {
+        "id": 31788,
+        "title": "Reliability assessment of off-policy deep reinforcement learning: A benchmark for aerodynamics",
+        "authors": "Sandrine Berger, Andrea Arroyo Ramo, Valentin Guillet, Thibault Lahire, Brice Martin, Thierry Jardin, Emmanuel Rachelson, Michaël Bauerheim",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "Abstract\nDeep reinforcement learning (DRL) is promising for solving control problems in fluid mechanics, but it is a new field with many open questions. Possibilities are numerous and guidelines are rare concerning the choice of algorithms or best formulations for a given problem. Besides, DRL algorithms learn a control policy by collecting samples from an environment, which may be very costly when used with Computational Fluid Dynamics (CFD) solvers. Algorithms must therefore minimize the number of samples required for learning (sample efficiency) and generate a usable policy from each training (reliability). This paper aims to (a) evaluate three existing algorithms (DDPG, TD3, and SAC) on a fluid mechanics problem with respect to reliability and sample efficiency across a range of training configurations, (b) establish a fluid mechanics benchmark of increasing data collection cost, and (c) provide practical guidelines and insights for the fluid dynamics practitioner. The benchmark consists in controlling an airfoil to reach a target. The problem is solved with either a low-cost low-order model or with a high-fidelity CFD approach. The study found that DDPG and TD3 have learning stability issues highly dependent on DRL hyperparameters and reward formulation, requiring therefore significant tuning. In contrast, SAC is shown to be both reliable and sample efficient across a wide range of parameter setups, making it well suited to solve fluid mechanics problems and set up new cases without tremendous effort. In particular, SAC is resistant to small replay buffers, which could be critical if full-flow fields were to be stored.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/dce.2023.28"
+    },
+    {
+        "id": 31789,
+        "title": "A human-centered approach to regional off-grid electrification budgeting: the Colombian case",
+        "authors": "Juan P. Viteri, Felipe Henao",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15487733.2023.2217043"
+    },
+    {
+        "id": 31790,
+        "title": "Policy-Adaptive Estimator Selection for Off-Policy Evaluation",
+        "authors": "Takuma Udagawa, Haruka Kiyohara, Yusuke Narita, Yuta Saito, Kei Tateno",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "Off-policy evaluation (OPE) aims to accurately evaluate the performance of counterfactual policies using only offline logged data. Although many estimators have been developed, there is no single estimator that dominates the others, because the estimators' accuracy can vary greatly depending on a given OPE task such as the evaluation policy, number of actions, and noise level. Thus, the data-driven estimator selection problem is becoming increasingly important and can have a significant impact on the accuracy of OPE. However, identifying the most accurate estimator using only the logged data is quite challenging because the ground-truth estimation accuracy of estimators is generally unavailable. This paper thus studies this challenging problem of estimator selection for OPE for the first time. In particular, we enable an estimator selection that is adaptive to a given OPE task, by appropriately subsampling available logged data and constructing pseudo policies useful for the underlying estimator selection task. Comprehensive experiments on both synthetic and real-world company data demonstrate that the proposed procedure substantially improves the estimator selection compared to a non-adaptive heuristic. Note that  complete version with technical appendix is available on arXiv: http://arxiv.org/abs/2211.13904.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i8.26195"
+    },
+    {
+        "id": 31791,
+        "title": "Conflict vs sustainability of global energy, agricultural and metal markets: A lesson from Ukraine-Russia war",
+        "authors": "Muhammad Zubair Chishti, Ali Awais Khalid, Moniba Sana",
+        "published": "2023-7",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2023.103775"
+    },
+    {
+        "id": 31792,
+        "title": "Policy Instability and the Risk-Return Trade-Off",
+        "authors": "Rodolfo E. Manuelli, Jose Martinez-Gutierrez",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20955/r.106.106-28"
+    },
+    {
+        "id": 31793,
+        "title": "Cautious policy programming: exploiting KL regularization for monotonic policy improvement in reinforcement learning",
+        "authors": "Lingwei Zhu, Takamitsu Matsubara",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, we propose cautious policy programming (CPP), a novel value-based reinforcement learning (RL) algorithm that exploits the idea of monotonic policy improvement during learning. Based on the nature of entropy-regularized RL, we derive a new entropy-regularization-aware lower bound of policy improvement that depends on the expected policy advantage function but not on state-action-space-wise maximization as in prior work. CPP leverages this lower bound as a criterion for adjusting the degree of a policy update for alleviating policy oscillation. Different from similar algorithms that are mostly theory-oriented, we also propose a novel interpolation scheme that makes CPP better scale in high dimensional control problems. We demonstrate that the proposed algorithm can trade off performance and stability in both didactic classic control problems and challenging high-dimensional Atari games.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10994-023-06368-z"
+    },
+    {
+        "id": 31794,
+        "title": "Digital twins and the terminology of “personalization” or “personalized learning” in educational policy: A discussion paper",
+        "authors": "Janine Arantes",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": " There has been a policy push in K-12 educational settings towards personalized learning in the last decade. Commercial platforms and learning designers have responded, offering learning tools to support teaching and learning through data-driven insights and recommendations. Trending towards the augmentation or replacing human teachers with non-human technology, this paper argues that personalized learning with human teachers is an entirely different process from personalization with digital twins. Drawing on new materialist thinking, it explores the impacts and implications for discourse concerning teacher quality and disadvantages within educational systems. It clarifies the conflation of the terms “personalized learning” and “personalization” to illuminate the power, positionality, and privilege enabled for some, in conflating terms in Australian educational policy. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14782103231176357"
+    },
+    {
+        "id": 31795,
+        "title": "The Commissioner vs the states: responsiveness and responsibility in European tax governance",
+        "authors": "Frédéric Mérand",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2240374"
+    },
+    {
+        "id": 31796,
+        "title": "A mixed method for determination of cut-off dates in liner shipping",
+        "authors": "Aylin Caliskan, Yesim Deniz Ozkan-Ozen, Nazlican Chase",
+        "published": "2023-2-21",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03088839.2023.2180550"
+    },
+    {
+        "id": 31797,
+        "title": "The dynamics of abandoned innovation activities: Learning from failure or learning to prevent failure?",
+        "authors": "James H. Love, Stephen Roper, Priit Vahter",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.respol.2023.104842"
+    },
+    {
+        "id": 31798,
+        "title": "Risk vs. restriction—An investigation of capacity-limitation based congestion management in electric distribution grids",
+        "authors": "Roman J. Hennig, Laurens J. de Vries, Simon H. Tindemans",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2023.113976"
+    },
+    {
+        "id": 31799,
+        "title": "Off-policy two-dimensional reinforcement learning for optimal tracking control of batch processes with network-induced dropout and disturbances",
+        "authors": "Xueying Jiang, Min Huang, Huiyuan Shi, Xingwei Wang, Yanfeng Zhang",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.isatra.2023.11.011"
+    },
+    {
+        "id": 31800,
+        "title": "Learning for uncertainty: reach for greatness",
+        "authors": "Yong Zhao",
+        "published": "2023-8-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10671-023-09358-z"
+    },
+    {
+        "id": 31801,
+        "title": "Automatic Trade-off Adaptation in Offline RL",
+        "authors": "Phillip Swazinna, Steffen Udluft, Thomas Runkler",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14428/esann/2023.es2023-46"
+    },
+    {
+        "id": 31802,
+        "title": "Cost and water footprint trade-off in a supply chain optimization model",
+        "authors": "Dennis E. Cruz, Raymond R. Tan",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10098-023-02549-5"
+    },
+    {
+        "id": 31803,
+        "title": "Wishful Thinking vs. Hopeful Action: Response to Diehm on American Chestnut Restoration",
+        "authors": "Evelyn Brister, Andrew E. Newhouse",
+        "published": "2023-5-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/21550085.2023.2195351"
+    },
+    {
+        "id": 31804,
+        "title": "Understanding political learning by scientific experts: a case of EU climate policy",
+        "authors": "Bishoy L. Zaki, Claire Dupont",
+        "published": "2023-12-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2290206"
+    },
+    {
+        "id": 31805,
+        "title": "Research- vs. government-driven physical activity policy monitoring: a systematic review across different levels of government",
+        "authors": "Sven Messing, Antonina Tcymbal, Karim Abu-Omar, Peter Gelius",
+        "published": "2023-11-27",
+        "citations": 2,
+        "abstract": "Abstract\nBackground\nEven though the importance of physical activity policy monitoring has increased in the last decade, there is a lack of understanding what different approaches exist and which methodology they employ. In order to address this research gap, this review attempts to map existing approaches of physical activity policy monitoring and to analyse methodological aspects, especially with regards to the roles of governments and researchers.\n\nMethods\nA systematic search was conducted in five scientific databases (PubMed, Scopus, SportDiscus, Psycinfo, Web of Knowledge) in July 2021, and the identified records were screened independently by two reviewers. Records were included if they (a) focused on the monitoring of public policies to promote PA, (b) allowed to compare policies across time, across nations/regions or across policy sectors, and (c) were written in English, German or Russian. During full text analysis, information on methodological aspects was extracted and studies were categorized based on the level of government involvement.\n\nResults\nThe search yielded in a total of 112 studies. 86 of these studies (76.8%) followed a research-driven approach (little or no government involvement) while only two studies (1.8%) were based on a government-driven approach (led by governments). The remaining 24 studies (21.4%) were based on a co-production approach (strong collaboration between researchers and governments). All in all, 18 different tools for physical activity policy monitoring were identified; key examples are the Report Cards on Physical Activity for Children and Youth (research-driven approach), the HEPA Monitoring Framework (government-driven approach) and the HEPA Policy Audit Tool (co-production approach).\n\nConclusions\nThe level of government involvement in policy monitoring differs significantly, and research-driven, government-driven and co-production approaches can be distinguished. These approaches have different strengths and weaknesses, and can be linked to distinct theories of change and models on research-policy relations. Increasing awareness on the implications of these approaches is key to improve the understanding and further development of physical activity policy monitoring.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12961-023-01068-5"
+    },
+    {
+        "id": 31806,
+        "title": "The impact of government spending on Ireland’s housing and residential market – Targeted vs economy-wide stimulus",
+        "authors": "Paul Egan, Adele Bergin",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jpolmod.2023.05.005"
+    },
+    {
+        "id": 31807,
+        "title": "Is US Fertility now Below Replacement? Evidence from Period vs. Cohort Trends",
+        "authors": "Lawrence L. Wu, Nicholas D. E. Mark",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractIn this study, we contrast period and cohort approaches to answering the question: Is US fertility now below replacement? The answer would appear to be an unambiguous “yes” based on period trends in the total fertility rate (TFR). Since 2007, TFR has declined from 2.12, just above the replacement level set by demographic tradition at 2.10 births per woman, to 1.67 in 2022, leading many to speculate that the United States has now entered a sustained period of below-replacement fertility. A quite different picture emerges from cohort trends in the cumulative fertility rate (CFR), a cohort measure that is not subject to biases that can distort period TFRs. For older birth cohorts of US women—those born between 1959 and 1987 and who were thus age 33 or older in 2020—observed or projected CFRs at age 45 vary between 2.00 and 2.24 births per woman. For younger cohorts—those born between 1988 and 2010 and who were 10 to 32 as of 2020—we project CFRs at age 45 that are below 2.00, with these declines attributable to falling fertility at younger ages. We thus conclude that from a cohort perspective, the question “Is US fertility now below replacement” should be replaced by the question “Will lifetime fertility fall below replacement for the youngest cohorts of US women?”, with the answer to this latter question depending on the extent to which decreases observed at early ages in these cohorts will or will not be offset by future increases at later ages.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11113-023-09821-y"
+    },
+    {
+        "id": 31808,
+        "title": "Barriers and facilitators: The contrasting roles of media and technology in social–emotional learning",
+        "authors": "Aesha John, Samantha Bates",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100022"
+    },
+    {
+        "id": 31809,
+        "title": "Social and emotional learning for the greater good: Expanding the circle of human concern",
+        "authors": "Aakash A. Chowkase",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100003"
+    },
+    {
+        "id": 31810,
+        "title": "Learning in an era of uncertainty in Singapore: diversity, lifelong learning, inspiration and paradigm shift",
+        "authors": "Pak Tee Ng",
+        "published": "2023-5-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10671-023-09348-1"
+    },
+    {
+        "id": 31811,
+        "title": "Practicing policy learning during creeping crises: key principles and considerations from the COVID-19 crisis",
+        "authors": "Bishoy L. Zaki",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/25741292.2023.2237648"
+    },
+    {
+        "id": 31812,
+        "title": "Technology, practice, learning, and policy: Foundations to address water scarcity in Africa and beyond",
+        "authors": "Jeff Camkin, Susana Neto",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/wwp2.12156"
+    },
+    {
+        "id": 31813,
+        "title": "Correction: Learning for uncertainty: reach for greatness",
+        "authors": "Yong Zhao",
+        "published": "2023-12-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10671-023-09363-2"
+    },
+    {
+        "id": 31814,
+        "title": "Towards an inclusive social and emotional learning",
+        "authors": "Christina Cipriano, Michael F. McCarthy",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100008"
+    },
+    {
+        "id": 31815,
+        "title": "Applying critical race theory to social and emotional learning programs in schools",
+        "authors": "Matthew K. Attaya, Lacey J. Hilliard",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100005"
+    },
+    {
+        "id": 31816,
+        "title": "Policy and organisational learning in judicial reform: evidence from Italy",
+        "authors": "Jonathan C. Kamkhaji, Giancarlo Vecchi",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "The Italian judicial system is well-known for its substandard performance by comparison with its European peers. In this article, we analyse the implementation of an important reform of the Italian judicial system designed and implemented in the context of the National Recovery and Resilience Plan funded by Next Generation EU. The reform, launched in February 2022, involves the introduction of a new organisational structure (The Office for the Trial) staffed with 16,500 newly appointed judicial assistants, representing an increase of about one third of the total judicial workforce employed in Italy. By leveraging the concepts of policy and organisational learning (OL), we show that variation of the modes of policy learning observed in implementation design is linked with variation in the organisational models adopted by different judicial offices to implement the reform. Then, by connecting organisational models to OL and focusing on the performance of five selected sections within the Court of Appeal of Milan, we show that organisational models informed by reflexivity are associated with better performance than models informed by hierarchy. The study contributes to scholarship on policy and OL, as well as providing a first, albeit limited and exploratory, empirical evaluation of a strategic public sector reform.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/03055736y2023d000000019"
+    },
+    {
+        "id": 31817,
+        "title": "Approach to learning for assessment in economics",
+        "authors": "Tommy Tang",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eap.2023.04.005"
+    },
+    {
+        "id": 31818,
+        "title": "Learning from the Evidence: Insights for Regulating E-scooters",
+        "authors": "Yuting Zhang, John D. Nelson, Corinne Mulley",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tranpol.2024.04.001"
+    },
+    {
+        "id": 31819,
+        "title": "Left off the circuit: the impact of shrinking live music tours on cities",
+        "authors": "Louis-Etienne Dubois, Stan Renard, Salman Rana",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10286632.2023.2296071"
+    },
+    {
+        "id": 31820,
+        "title": "Re-attentive experience replay in off-policy reinforcement learning",
+        "authors": "Wei Wei, Da Wang, Lin Li, Jiye Liang",
+        "published": "2024-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10994-023-06505-8"
+    },
+    {
+        "id": 31821,
+        "title": "Informalities in the art museum: mobilizing educators’ professional learning for policy renewal",
+        "authors": "Emily Keenlyside",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10632913.2023.2247114"
+    },
+    {
+        "id": 31822,
+        "title": "DRL Empowered On-policy and Off-policy ABR for 5G Mobile Ultra-HD Video Delivery",
+        "authors": "Naresh Mandan, Paresh Saxena, Manik Gupta",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11036-024-02311-1"
+    },
+    {
+        "id": 31823,
+        "title": "A trade-off between lives and the economy? Subsidizing dining out under the COVID-19 pandemic in Japan",
+        "authors": "Yupeng Wang, Satoru Shimokawa",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.foodpol.2024.102625"
+    },
+    {
+        "id": 31824,
+        "title": "Special Issue: Policy Innovation in the Global South and South–North Policy Learning",
+        "authors": "Achim Kemmerling",
+        "published": "2023-9-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13876988.2023.2248031"
+    },
+    {
+        "id": 31825,
+        "title": "Learning-by-hiring: How do rival firms learn from focal firm's hiring",
+        "authors": "Mayank Varshney",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.respol.2022.104664"
+    },
+    {
+        "id": 31826,
+        "title": "Off-Policy Learning in Contextual Bandits for Remote Electrical Tilt Optimization",
+        "authors": "Filippo Vannella, Jaeseong Jeong, Alexandre Proutiere",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tvt.2022.3202041"
+    },
+    {
+        "id": 31827,
+        "title": "Data-Efficient Off-Policy Learning for Distributed Optimal Tracking Control of HMAS With Unidentified Exosystem Dynamics",
+        "authors": "Yong Xu, Zheng-Guang Wu",
+        "published": "2024-3",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3172130"
+    },
+    {
+        "id": 31828,
+        "title": "Off-Policy Learning for Bipartite Output Regulation of Heterogeneous Multi-Agent Systems under Actuator Faults",
+        "authors": "Yan Zhou, Guanghui Wen",
+        "published": "2023-9-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/sice59929.2023.10354169"
+    },
+    {
+        "id": 31829,
+        "title": "Off-policy inverse Q-learning for discrete-time antagonistic unknown systems",
+        "authors": "Bosen Lian, Wenqian Xue, Yijing Xie, Frank L. Lewis, Ali Davoudi",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.automatica.2023.111171"
+    },
+    {
+        "id": 31830,
+        "title": "Off‐policy correction algorithm for double Q network based on deep reinforcement learning",
+        "authors": "Qingbo Zhang, Manlu Liu, Heng Wang, Weimin Qian, Xinglang Zhang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "AbstractA deep reinforcement learning (DRL) method based on the deep deterministic policy gradient (DDPG) algorithm is proposed to address the problems of a mismatch between the needed training samples and the actual training samples during the training of intelligence, the overestimation and underestimation of the existence of Q‐values, and the insufficient dynamism of the intelligence policy exploration. This method introduces the Actor‐Critic Off‐Policy Correction (AC‐Off‐POC) reinforcement learning framework and an improved double Q‐value learning method, which enables the value function network in the target task to provide a more accurate evaluation of the policy network and converge to the optimal policy more quickly and stably to obtain higher value returns. The method is applied to multiple MuJoCo tasks on the Open AI Gym simulation platform. The experimental results show that it is better than the DDPG algorithm based solely on the different policy correction framework (AC‐Off‐POC) and the conventional DRL algorithm. The value of returns and stability of the double‐Q‐network off‐policy correction algorithm for the deep deterministic policy gradient (DCAOP‐DDPG) proposed by the authors are significantly higher than those of other DRL algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/csy2.12102"
+    },
+    {
+        "id": 31831,
+        "title": "Comprehensive energy and economic transient analysis of an off-grid hydrogen car-integrated zero energy building",
+        "authors": "Sajad Maleki Dastjerdi, Milad Arzani",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10098-023-02499-y"
+    },
+    {
+        "id": 31832,
+        "title": "The road ahead: Moving beyond ACEs in transformative SEL",
+        "authors": "Addison Duane, Alex Winninghoff",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2023.100002"
+    },
+    {
+        "id": 31833,
+        "title": "Off‐policy model‐based end‐to‐end safe reinforcement learning",
+        "authors": "Soha Kanso, Mayank Shekhar Jha, Didier Theilliol",
+        "published": "2024-3-10",
+        "citations": 0,
+        "abstract": "AbstractSafety and stability considerations play a crucial role in the development of learning based strategies for control design of systems that require high levels of safety. Safe reinforcement learning (RL) based approaches traditionally seek learning of the control laws that are optimal with respect to system performance whilst ensuring system stability and safety. In this article, an off‐policy safe RL based approach is proposed for nonlinear systems affine in control in continuous time. In this novel work, safety and stability are guaranteed during initialization and exploration phases by adjusting the control input with the solution of a quadratic programming problem combining both input to state stable‐control Lyapunov function and robust control barrier function (R‐CBF) conditions. Moreover, the safety of the learned policy is assured by augmenting the cost function with a CBF to maintain safety and optimize performance simultaneously. Novel mathematically rigorous proofs are provided to establish the stability and safety guarantees, offering a sound theoretical foundation for the approach. To demonstrate the effectiveness of the algorithm, two examples are presented: engine surge and stall dynamics, and an unstable nonlinear system.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rnc.7109"
+    },
+    {
+        "id": 31834,
+        "title": "Price versus Commitment: Managing the demand for off-peak train tickets in a field experiment",
+        "authors": "Christoph Thommen, Beat Hintermann",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tra.2023.103691"
+    },
+    {
+        "id": 31835,
+        "title": "Market diffusion of biosimilars in off-patent biologic drug markets across Europe",
+        "authors": "Anna-Katharina Böhm, Isa Maria Steiner, Tom Stargardt",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.healthpol.2023.104818"
+    },
+    {
+        "id": 31836,
+        "title": "Neonatal Mortality and the Trade-off Hypothesis: A Conversation with Dr. Benjamin Sosnaud",
+        "authors": "Benjamin Sosnaud, Evan Hsiang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56927/609589"
+    },
+    {
+        "id": 31837,
+        "title": "Durkheim’s Social Solidarity: Learning from the COVID-19 Pandemic through the ‘Jogo Tonggo’ Policy",
+        "authors": "Tunjung Wijanarka, Medina Safira Suma, Muhammad Abdul Azis, Yuve Kukuh Sesar",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "This paper attempts to discuss the importance and necessity of social solidarity in societal structure during times of crisis. Learning from the conditions of the COVID-19 Pandemic in Indonesia, particularly in Central Java Province in 2019-2022, which continues to increase due to COVID-19 virus mutation into various variants such as Delta and Omicron, reveals a very concerning situation. When COVID-19 cases continued to rise in various cities and districts throughout Central Java, the Governor of Central Java, Ganjar Pranowo, issued a policy known as ‘Jogo Tonggo’ (Javanese), which translates to 'Take care of your neighbors' in Indonesian. This policy has been shown to be effective in assisting health workers and reducing the government’s burden in dealing with a pandemic. This paper will be analyzed through Emile Durkheim’s concept of Social Solidarity through a literature review, which can further demonstrate that social solidarity in Indonesian society has proven to function well as social resilience when a crisis such as the COVID-19 Pandemic occurs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35308/jpp.v9i4.7438"
+    },
+    {
+        "id": 31838,
+        "title": "Foreign Language Learning and Learning Disabilities: An Historical, Empirical, and Cultural Perspective for Policies and Procedures",
+        "authors": "Richard L. Sparks",
+        "published": "2023-5-30",
+        "citations": 1,
+        "abstract": " Twenty-five years ago, the author contributed a historical review of evidence on the foreign language (FL) learning problems of low-achieving and learning disabled (LD) students. Educators had proposed a new disability, FL learning disability, and developed policies permitting LD students to substitute courses or waive the FL requirement. The introduction of this new disability was premature because empirical evidence found no relationship between FL learning problems and LDs. Even so, several misguided assumptions about a unique disability for FL learning and a special relationship between FL learning problems and LDs persisted, and an LD diagnosis became the de facto criterion for FL course substitution/waiver policies. In this updated review, these assumptions and evidence falsifying them are examined. Cultural reasons for the assumptions about FL learning and LDs and the adoption of course substitution policies are proposed. The author concludes with recommendations for policymakers. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10442073231177384"
+    },
+    {
+        "id": 31839,
+        "title": "Understanding municipal solid waste production and diversion factors utilizing deep-learning methods",
+        "authors": "Yidan Zhao, Hong Li",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jup.2023.101612"
+    },
+    {
+        "id": 31840,
+        "title": "Member duality and policy tourism: Learning in interlocal policy networks",
+        "authors": "Ivy S. Liu, Hongtao Yi",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "AbstractOrganizational learning has long been recognized as a key determinant of success, yet research often overlooks how individual mechanisms initiate and drive collective learning over time. Utilizing policy tourism as an indicator of intercity learning, we construct an interlocal learning network among US cities from 2009 to 2016. Employing a temporal exponential random graph model, our findings suggest that the member duality of local managers can initiate and facilitate self‐organizing learning interactions among US cities through preferential attachment. Consequently, a core group of influential cities with member duality of local managers can control entry into the learning network and strategically promote the transmission of innovative management practices in particular cities. This study (1) underscores the significance of member duality in local managers for facilitating interorganizational learning, (2) incorporates the aspect of temporality in understanding interorganizational learning, and (3) highlights broader practical implications for collaborative governance in diverse network settings.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/padm.12984"
+    },
+    {
+        "id": 31841,
+        "title": "The impact of geographical distance on learning through collaboration",
+        "authors": "Frank van der Wouden, Hyejin Youn",
+        "published": "2023-3",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.respol.2022.104698"
+    },
+    {
+        "id": 31842,
+        "title": "Innovation vs. standardization: The conjoint effects of eco-innovation and environmental management systems on environmental performance",
+        "authors": "Jesus Valero-Gil, Jordi A. Surroca, Josep A. Tribo, Leopoldo Gutierrez, Ivan Montiel",
+        "published": "2023-5",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.respol.2023.104737"
+    },
+    {
+        "id": 31843,
+        "title": "Boosting vs. nudging sustainable energy consumption: a long-term comparative field test in a residential context",
+        "authors": "Yavor Paunov, Till Grüne-Yanoff",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "Abstract\nBoosts and nudges are two separate types of behavioral public policies, distinguished by the mechanisms through which they operate. We investigated whether this theoretical distinction translates into different effects when instances of these policy types are implemented in the context of energy consumption. In a long-term field randomized controlled trial, we competitively tested boosts against nudges. We found that boosts outperform nudges throughout a seven-month period in a student dormitory setting – both in terms of accumulated energy savings, as well as in keeping consumption consistently low during the experimental period. Furthermore, we explored the processes behind the boosts and nudges through a number of mechanistic markers and showed that the tested interventions indeed are instances of the respective types.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/bpp.2023.30"
+    },
+    {
+        "id": 31844,
+        "title": "Positive Pedagogies: Co-creation partnerships to support social and emotional learning in higher education",
+        "authors": "Sharron L. Wilson, Elena Riva, Kate Lister",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sel.2024.100035"
+    },
+    {
+        "id": 31845,
+        "title": "China’s Belt and Road Initiative: The Economic Footprints in the Middle East vs. Geopolitical Dimensions with the United States",
+        "authors": "Gordon C K CHEUNG",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": " China’s economic rise in global economic platform empowered by the go-out strategy is its attempt to establish a global presence, through which it develops economic relations by launching China-led development and economic projects. This article focuses on China’s Belt and Road Initiative, in particular the political significance of China’s economic footprints in the Middle East, with a view of understanding the geopolitical tensions between China and the United States. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s1793930523000053"
+    },
+    {
+        "id": 31846,
+        "title": "Trade-offs of government credibility institutions: market credibility vs. social credibility",
+        "authors": "Michal Koreh, Ronen Mandelkern",
+        "published": "2023-8-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2243295"
+    },
+    {
+        "id": 31847,
+        "title": "Labour-power production and the skills agenda in lifelong learning: A critical policy analysis of the Skills and Post-16 Education Act 2022",
+        "authors": "Darren Cogavin",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": " This article considers how neoliberalism has created a reductionist view of lifelong learning in the UK focused on upskilling workers for the labour market. This critical policy analysis uses Marx’s theory of labour-power, as conceptualised by Glenn Rikowski, to examine the Skills and Post-16 Education Act, 2022 and to identify its ideological roots, its distribution of power, resources and knowledge, and the potential effect it will have on inequality. Findings indicate that while the Act aims to make it easier for adults to study more flexibly, not all adults will have the labour-power attributes and financial resources to access the higher-level qualifications prioritised for funding. This article argues that the Act represents a general deepening of neoliberalism in lifelong learning that will further stratify adult education and increase inequalities. This article concludes that policy has shifted from widening participation in lifelong learning linked to social enrichment and the development of democratic citizenship, to widening participation in higher levels of education and training aimed at enhancing labour-power for the capitalist labour market . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14782103231183282"
+    },
+    {
+        "id": 31848,
+        "title": "ConBERT-RL: A policy-driven deep reinforcement learning based approach for detecting homophobia and transphobia in low-resource languages",
+        "authors": "Vivek Suresh Raj, Chinnaudayar Navaneethakrishnan Subalalitha, Lavanya Sambath, Frank Glavin, Bharathi Raja Chakravarthi",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nlp.2023.100040"
+    },
+    {
+        "id": 31849,
+        "title": "P2BPO: Permeable Penalty Barrier-Based Policy Optimization for Safe RL",
+        "authors": "Sumanta Dey, Pallab Dasgupta, Soumyajit Dey",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Safe Reinforcement Learning (SRL) algorithms aim to learn a policy that maximizes the reward while satisfying the safety constraints. One of the challenges in SRL is that it is often difficult to balance the two objectives of reward maximization and safety constraint satisfaction. Existing algorithms utilize constraint optimization techniques like penalty-based, barrier penalty-based, and Lagrangian-based dual or primal policy optimizations methods. However, they suffer from training oscillations and approximation errors, which impact the overall learning objectives.\n\nThis paper proposes the Permeable Penalty Barrier-based Policy Optimization (P2BPO) algorithm that addresses this issue by allowing a small fraction of penalty beyond the penalty barrier, and a parameter is used to control this permeability. In addition, an adaptive penalty parameter is used instead of a constant one, which is initialized with a low value and increased gradually as the agent violates the safety constraints. We have also provided a theoretical proof of the proposed method's performance guarantee bound, which ensures that P2BPO can learn a policy satisfying the safety constraints with high probability while achieving a higher expected reward. Furthermore, we compare P2BPO with other SRL algorithms on various SRL tasks and demonstrate that it achieves better rewards while adhering to the constraints.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i19.30094"
+    },
+    {
+        "id": 31850,
+        "title": "Complementarities in learning from data: Insights from general search",
+        "authors": "Maximilian Schaefer, Geza Sapi",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.infoecopol.2023.101063"
+    },
+    {
+        "id": 31851,
+        "title": "Negotiating faith in exile: Learning from displacements from and into Arua, North West Uganda",
+        "authors": "Elizabeth Storer",
+        "published": "2024-4-11",
+        "citations": 0,
+        "abstract": "AbstractHumanitarians have recently championed faith actors as valuable resources in delivering humanitarian aid. Partnerships are increasingly promoted through international declarations and bespoke toolkits. Such approaches are abstracted from the historical and contemporary contexts through which faith is negotiated, and through which faith actors have become legitimate. This paper explores how faith has been entangled within the dynamics of two spatially connected crises: Ugandans fleeing post‐Amin reprisals in the mid‐1980s, and South Sudanese fleeing civil war from 2013. Drawing attention to the local‐structural engagements which have shaped forms of protection and the legitimacy of faith actors, this paper urges for a consideration of complexity in humanitarians' localisation calculations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/1758-5899.13353"
+    },
+    {
+        "id": 31852,
+        "title": "Embracing policy innovations from abroad: the role of learning in Chile’s anti-cartel reforms",
+        "authors": "Umut Aydin",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "Why and how do policymakers initially sceptical of policy innovations from abroad eventually transfer them to their own countries? Focusing on Chile’s reforms to combat business cartels in 2009 and 2016, this article answers that question. Policy diffusion and transfer literatures maintain that coercion, competition, learning or emulation could account for foreign inspirations in policymaking. However, these literatures overplay the role of coercion and emulation in policy transfer to countries in the global south, and have difficulty distinguishing between different mechanisms in empirical studies. To address these limitations, I suggest analysing three intermediate causal steps in policy transfer: first, policymakers’ motivations in initiating policy reforms, second, their reflections on how the foreign-inspired model responds to the policy problem at hand, and third, their reflections on the fit between the foreign model and domestic conditions. Through process-tracing of two anti-cartel reforms in Chile, I find that policymakers introduced foreign-inspired policy measures to combat business cartels through a process of learning from other countries and international organisations, rather than coercion or emulation. Learning was evident in three ways. First, in the initiation of the reform, as policymakers responded to a clearly identified policy problem; second, in policymakers’ careful reflection on how the foreign-inspired model responded to these problems; and third, in the adjustments made to fit the foreign model to domestic conditions. The analysis demonstrates the utility of analysing intermediate causal steps in policy transfer, and of paying more attention to local actors and political processes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/030557321x16757803181683"
+    },
+    {
+        "id": 31853,
+        "title": "On learning and unlearning",
+        "authors": "Marianna Papastephanou, Kalli Drousioti",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": " The concept of learning has obtained great popularity in many fields. In common cause with neo-liberal ideology, learning has led to a learnification process that turns social pathologies into individual deficits. Various ways out of this situation have been sought; chief among them is the recruitment of unlearning as a promising negation of learning and of its politics. Educational-philosophical, sociological, decolonial, as well as organizational and policy discourses valorize unlearning for different and often opposing reasons. However, as this article shows, unlearning has already been co-opted and utilized by learning discourses to advance the neo-liberal conception of learning. A further reaction to this usurpation of unlearning has been a tendency to premodify unlearning as ‘critical’ or ‘deep’. The present article critiques these conceptualizations and operationalizations of unlearning and argues for a more complex outlook on learning and unlearning than that which is currently predominant. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14782103231176605"
+    },
+    {
+        "id": 31854,
+        "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+        "authors": "Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song",
+        "published": "2023-7-10",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.026"
+    },
+    {
+        "id": 31855,
+        "title": "Conformal Off-Policy Evaluation in Markov Decision Processes",
+        "authors": "Daniele Foffano, Alessio Russo, Alexandre Proutiere",
+        "published": "2023-12-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383469"
+    },
+    {
+        "id": 31856,
+        "title": "Evaluation of cut-off values in the control of land take in Italy towards the SDGs 2030",
+        "authors": "Bernardino Romano, Francesco Zullo, Lucia Saganeiti, Cristina Montaldi",
+        "published": "2023-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2023.106669"
+    },
+    {
+        "id": 31857,
+        "title": "Efficient Exploitation for Off-Policy Reinforcement Learning via a Novel Multi-scale Tabular Buffer",
+        "authors": "Shicheng Guo, Wei Xue, Wei Zhao, Yuanxia Shen, Gaohang Yu",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acie58528.2023.00007"
+    },
+    {
+        "id": 31858,
+        "title": "Macroeconomic and Welfare Effects of Family Policy: Cash Transfers vs In-kind Benefits",
+        "authors": "Reona Hagiwara",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4728560"
+    },
+    {
+        "id": 31859,
+        "title": "Efficient Off-Policy Q-Learning for Data-Based Discrete-Time LQR Problems",
+        "authors": "Victor G. Lopez, Mohammad Alsalti, Matthias A. Müller",
+        "published": "2023-5",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3235967"
+    },
+    {
+        "id": 31860,
+        "title": "Off‐policy reinforcement learning algorithm for robust optimal control of uncertain nonlinear systems",
+        "authors": "Ali Amirparast, S. Kamal Hosseini Sani",
+        "published": "2024-5-25",
+        "citations": 0,
+        "abstract": "AbstractIn this article an optimal control scheme is proposed to solve robust control problem for matched and unmatched system. In the proposed optimal approach the value functions are designed such that the obtained optimal control law guarantees asymptotic stability of the uncertain nonlinear system. Since the proposed robust optimal control problem is not straightforward to solve, an off‐policy reinforcement‐learning algorithm based on neural networks approximation is developed to obtain robust optimal control law iteratively. The robust control law for matched uncertain systems can be achieved via proposed off‐policy learning algorithm without requiring exact knowledge of system's dynamics. The advantages of the proposed robust optimal controller are verified by comparative simulations on an uncertain model of a car suspension system and a mathematical nonlinear model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rnc.7278"
+    },
+    {
+        "id": 31861,
+        "title": "Robust control design for zero-sum differential games problem based on off-policy reinforcement learning technique",
+        "authors": "Hongji Zhuang, Hongxu Zhu, Shufan Wu, Xiaoliang Wang, Zhongcheng Mu, Qiang Shen",
+        "published": "2023-12-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42401-023-00263-0"
+    },
+    {
+        "id": 31862,
+        "title": "The Circular Economy in <scp>European Union</scp> Policy: Explaining an idea's success through policy learning",
+        "authors": "Josep Pinyol Alberich, Sarah Hartley",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "AbstractThe circular economy (CE) was adopted in 2015 by the European Union (EU). Since its emergence, the CE has proved to be a remarkably powerful idea that has shifted the understanding of the economy, and consequently, it has shaped the EU's economic and environmental policies. The public policy literature theorises such shifts in collective understanding through the concept of policy learning, a process through which ideas are understood and adopted. Yet this literature lacks clarity on the factors that can explain policy learning within a policy community. We use the case of the EU's adoption of the CE to address this gap, exploring the factors that account for the EU's adoption of the CE from the policy‐learning perspective. We show how actors in the policy community have constructed, championed, supported and pioneered the CE and argue that these four factors have mutually reinforced each other, leading to policy learning and the wide acceptance of this idea within EU policy‐making. Revealing these factors helps advance policy learning theory and contributes to the CE literature and environmental policy and governance literature more generally by furthering our understanding of how and why certain policy ideas are adopted.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/eet.2088"
+    },
+    {
+        "id": 31863,
+        "title": "Policy learning from crises: lessons learned from the Italian food stamp programme",
+        "authors": "Simone Busetti, Maria Stella Righettini",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "Advancing learning is a central tenet for improving public action. Recent calls for agility, robustness, prototyping and other strategies for coping with crises imply continual learning and improvement. This article contributes to challenging this ideal interpretation of the learning process. It provides conceptual and methodological tools to investigate the relationship between policy learning and policy change and sheds light on the diverse dynamics and types of learning that can emerge from crises. At the conceptual level, the article presents a learning matrix that classifies the possible outcomes in the relationship between learning and change. On methods, our research design includes process tracing, binary comparisons, and an innovative real-time approach to the study of learning. The article investigates three municipal case studies from the Italian food stamp programme implemented during the COVID-19 lockdowns. The repetition of the programme over a short period of time offers the opportunity to investigate inter-crisis learning, the process by which lessons from the first wave of implementation contributed to reforms in the second delivery. The coronavirus crisis magnified the acquisition of knowledge and provided radical inter-programme lessons – long-term, non-incremental learning beyond the management of the emergency. Yet, the findings also highlight how this window of opportunity for learning quickly closed and how certain lessons learned may be lost in the process of reform, hard to implement or are unlikely to be extrapolated across contexts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/030557321x16678318518550"
+    },
+    {
+        "id": 31864,
+        "title": "Drones have boots: Learning from Russia’s war in Ukraine",
+        "authors": "Dominika Kunertova",
+        "published": "2023-10-2",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13523260.2023.2262792"
+    },
+    {
+        "id": 31865,
+        "title": "Forecasting the Crude Oil prices for last four decades using deep learning approach",
+        "authors": "Abhibasu Sen, Karabi Dutta Choudhury",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2023.104438"
+    },
+    {
+        "id": 31866,
+        "title": "The human life vs economic loss dilemma: Relation between death rate and the output rate in Europe during the Covid 19 pandemic",
+        "authors": "Carlo Andrea Bollino",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jpolmod.2023.04.003"
+    },
+    {
+        "id": 31867,
+        "title": "A novel deep-learning technique for forecasting oil price volatility using historical prices of five precious metals in context of green financing – A comparison of deep learning, machine learning, and statistical models",
+        "authors": "Muhammad Mohsin, Fouad Jamaani",
+        "published": "2023-10",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2023.104216"
+    },
+    {
+        "id": 31868,
+        "title": "Dropping off the bandwagon: a puzzle for the resource mobilisation perspective on civil society contestation networks",
+        "authors": "Scott Michael Hamilton",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13501763.2023.2232825"
+    },
+    {
+        "id": 31869,
+        "title": "Futures hedging in crude oil markets: A trade-off between risk and return",
+        "authors": "Xing Yu, Yanyan Li, Junli Lu, Xilin Shen",
+        "published": "2023-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2022.103147"
+    },
+    {
+        "id": 31870,
+        "title": "Off-premises demand elasticities for pure alcohol in five Latin American countries: The case of Argentina, Chile, Costa Rica, Honduras, and Uruguay",
+        "authors": "Guillermo Paraje, Daniel Araya, Maristela Monteiro",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.drugpo.2024.104316"
+    },
+    {
+        "id": 31871,
+        "title": "Inequalities in Health between First Nations Adults Living Off-Reserve and Non-Indigenous Adults in Canada: A Decomposition Analysis",
+        "authors": "Min Hu, Mohammad Hajizadeh, Amy Bombay",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": " Le présent article, qui s’appuie sur le sous-échantillon d’adultes des Premières Nations de l’Enquête auprès des peuples autochtones (EAPA) de 2017 et d’adultes non autochtones de l’Enquête sur la santé dans les collectivités canadiennes de 2017 (N = 35 390), examine les inégalités en matière d’état général de santé et de santé mentale autodéclarés, d’asthme diagnostiqué et de diabète diagnostiqué entre les adultes non autochtones et les adultes des Premières Nations vivant hors réserve au Canada. L’approche Blinder-Oaxaca a été utilisée pour décomposer les inégalités de chaque résultat sur la santé en différences de caractéristiques et en différences de rendement. L’étude révèle que les résultats sur la santé des adultes des Premières Nations sont 5 à 10% inférieurs à ceux des populations non autochtones; les personnes adultes des Premières Nations non inscrites se déclarant en moins bonne santé que les personnes adultes des Premières Nations inscrites, à l’exception du diabète. L’étude révèle également que les caractéristiques observables représentent 20 à 45% des inégalités en matière d’état de santé général, de santé mentale et de diabète. Les facteurs socio-économiques, tels que la situation de l’emploi, le revenu et le niveau d’études, représentent 10 à 25% des différences en matière d’auto-évaluation de l’état de santé général, de santé mentale et de diabète diagnostiqué chez les membres des Premières Nations, qu’ils soient ou non inscrits, par rapport à la population non autochtone. Bien que cette contribution n’ait pas été en mesure d’évaluer d’autres voies critiques par lesquelles divers aspects du colonialisme continuent de nuire aux peuples des Premières Nations, les résultats laissent à penser que l’amélioration du statut socio-économique des peuples des Premières Nations vivant hors réserve pourrait potentiellement réduire les inégalités en matière de santé entre ces personnes et la population non autochtone au Canada. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3138/cpp.2022-077"
+    },
+    {
+        "id": 31872,
+        "title": "Optimization of a Deep Reinforcement Learning Policy for Construction Manufacturing Control",
+        "authors": "Ian Flood, Xiaoyan Zhou",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012091400003546"
+    },
+    {
+        "id": 31873,
+        "title": "An off-policy multi-agent stochastic policy gradient algorithm for cooperative continuous control",
+        "authors": "Delin Guo, Lan Tang, Xinggan Zhang, Ying-chang Liang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.11.046"
+    },
+    {
+        "id": 31874,
+        "title": "US policy towards Latin American migrants: human rights vs. security",
+        "authors": "Nadezhda Kudeyarova",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37656/s20768400-2023-1-04"
+    },
+    {
+        "id": 31875,
+        "title": "Preferences for Labor Regulation: Endowments vs. Beliefs",
+        "authors": "Romain Duval, Yi Ji, Chris Papageorgiou, Ippei Shibata, Antonio Spilimbergo",
+        "published": "2024-3-7",
+        "citations": 0,
+        "abstract": "Abstract\nAre preferences for labor regulations driven by individuals’ own endowments or their beliefs? To address this question, we conducted a cross-country survey on people’s opinions on employment protection legislation—an area where reform has proven to be difficult and personal interests are at stake. We find that individuals’ beliefs contribute two to three times more than their own endowments and personal pay-offs. A randomized information treatment confirms that beliefs can explain views about regulations, but beliefs can also change with new information. Our results are robust to several checks, including to alternative estimation techniques and samples.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/epolic/eiae021"
+    },
+    {
+        "id": 31876,
+        "title": "Solving electric power distribution uncertainty using deep learning and incentive-based demand response",
+        "authors": "Balakumar Palaniyappan, Vinopraba T, Geetha Chandrasekaran",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jup.2023.101579"
+    },
+    {
+        "id": 31877,
+        "title": "Learning to trust Skynet: Interfacing with artificial intelligence in cyberspace",
+        "authors": "Christopher Whyte",
+        "published": "2023-4-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13523260.2023.2180882"
+    },
+    {
+        "id": 31878,
+        "title": "A Literature Survey on National Education Policy 2020 (NEP 2020) and Libraries",
+        "authors": "Manish Soni",
+        "published": "2023-6-2",
+        "citations": 0,
+        "abstract": "NEP 2020 refers to the National Education Policy 2020, which is a policy document released by the Government of India in July 2020. The NEP 2020 aims to transform the education system in India by focusing on holistic and multidisciplinary education, promoting research and innovation, and incorporating technology into the learning process. In terms of libraries, the NEP 2020 recognizes the crucial role that libraries play in promoting a culture of reading and lifelong learning. The policy emphasizes the need to strengthen school and public libraries by providing them with adequate resources, including books, digital resources, and trained librarians. Furthermore, the NEP 2020 recognizes the need to incorporate technology into library services, such as providing access to e-books, e-journals, and other digital resources. The policy also highlights the importance of promoting local and indigenous knowledge through the development of community libraries. Overall, the NEP 2020 envisions libraries as vital institutions that can contribute to the promotion of a knowledge-based society in India.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55529/jlep.34.13.23"
+    },
+    {
+        "id": 31879,
+        "title": "National Education Policy of India: A Comprehensive Roadmap for Transformative Education",
+        "authors": "Dr. S. Ramesh",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "The National Education Policy (NEP) of India, introduced in 2020, is a transformative policy that aims to revolutionize the country's education system. This article presents a comprehensive review of the literature on the NEP 2020, exploring its objectives, key features, implications, and challenges. The review highlights the policy's visionary approach in addressing critical issues such as access, quality, and holistic development in education. It emphasizes the potential of the NEP 2020 to reshape teaching practices, learning outcomes, and educational practices, while also identifying the challenges in its effective implementation. The study also discusses the role of technology, vocational education, and teacher empowerment in aligning with the policy's vision. The literature review underscores the significance of the NEP 2020 in fostering a knowledgedriven society and preparing India's youth for the challenges of the 21st century.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55529/jlep.36.43.48"
+    },
+    {
+        "id": 31880,
+        "title": "Unleashing the potential of online learning in Spain: An econometric analysis",
+        "authors": "Rafael López, Ángel Valarezo, Teodosio Pérez-Amaral",
+        "published": "2023-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.telpol.2023.102544"
+    },
+    {
+        "id": 31881,
+        "title": "Note on Investment Policy and Executive Compensation in Family Firms vs. Non-Family Firms",
+        "authors": "Anton Miglo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4528020"
+    },
+    {
+        "id": 31882,
+        "title": "A Literature Survey on National Education Policy 2020 (NEP 2020) and Libraries",
+        "authors": "Manish Soni",
+        "published": "2023-6-2",
+        "citations": 0,
+        "abstract": "NEP 2020 refers to the National Education Policy 2020, which is a policy document released by the Government of India in July 2020. The NEP 2020 aims to transform the education system in India by focusing on holistic and multidisciplinary education, promoting research and innovation, and incorporating technology into the learning process. In terms of libraries, the NEP 2020 recognizes the crucial role that libraries play in promoting a culture of reading and lifelong learning. The policy emphasizes the need to strengthen school and public libraries by providing them with adequate resources, including books, digital resources, and trained librarians. Furthermore, the NEP 2020 recognizes the need to incorporate technology into library services, such as providing access to e-books, e-journals, and other digital resources. The policy also highlights the importance of promoting local and indigenous knowledge through the development of community libraries. Overall, the NEP 2020 envisions libraries as vital institutions that can contribute to the promotion of a knowledge-based society in India.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55529/jlep.34.13.26"
+    },
+    {
+        "id": 31883,
+        "title": "Islamic Banks Spin-Off Policy in Indonesia",
+        "authors": " Siti Salmah, Abrista Devi",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Government policy related to the Spin off of Islamic Banks is one of the efforts to develop and strengthen the role of Islamic banking. The purpose of this study is to see the extent of development and sentiment towards the Spin Off of Islamic Banks. The method used is descriptive statistical analysis combined with meta-analysis and sentiment from secondary data in the form of metadata from 45 Dimension indexed articles, then processed using Microsoft Excel 2019 and SentiStrenght software. The results of the analysis show that the topic of Islamic Bank Spin off has a neutral sentiment of 46.7% followed by a positive sentiment of 31.1% and a negative sentiment of 22.2%. In addition, factors that influence positive and negative sentiments towards the Islamic Bank Spin off were also found.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58968/fwm.v3i1.226"
+    },
+    {
+        "id": 31884,
+        "title": "Neonatal Mortality and the Trade-off Hypothesis: A Conversation with Dr. Benjamin Sosnaud",
+        "authors": "Benjamin Sosnaud, Evan Hsiang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56927/250257"
+    },
+    {
+        "id": 31885,
+        "title": "Optimizing AoI in UAV-RIS-Assisted IoT Networks: Off Policy Versus On Policy",
+        "authors": "Michelle Sherman, Sihua Shao, Xiang Sun, Jun Zheng",
+        "published": "2023-7-15",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jiot.2023.3246925"
+    },
+    {
+        "id": 31886,
+        "title": "On suspicious tracks: Machine-learning based approaches to detect cartels in railway-infrastructure procurement",
+        "authors": "Hannes Wallimann, Silvio Sticher",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tranpol.2023.09.010"
+    },
+    {
+        "id": 31887,
+        "title": "Impacts of Viewpoint Diversity Law on Teaching and Learning in Florida’s State Universities",
+        "authors": "Allan Barsky, Danielle Groton, Christine Spadola",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": " This study explores the impact of Florida House Bill 233 on teaching and learning in Florida’s State University System. This bill purports to promote intellectual freedom and viewpoint diversity by permitting students to record classes and by creating a cause of action for faculty violating these principles. Faculty were invited to share qualitative feedback about the specific impacts of the two provisions. The vast majority of faculty expressed negative views of these provisions, suggesting they would inhibit intellectual freedom and viewpoint diversity by deterring student participation in classes, discouraging faculty from engaging students in discussions of certain topics, and creating an atmosphere of mistrust between faculty and students. Faculty with positive views of the recording provision suggested that these provisions promote intellectual freedom and viewpoint diversity by discouraging faculty from imposing their views and giving students a remedy if they feel that faculty are violating their rights. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/08959048231215485"
+    },
+    {
+        "id": 31888,
+        "title": "The effect of spatial and temporal planning scale on the trade-off between the financial value and carbon storage in production forests",
+        "authors": "Tristan R.M. Bakx, Renats Trubins, Jeannette Eggers, Cecilia Akselsson",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2023.106583"
+    },
+    {
+        "id": 31889,
+        "title": "How does policy learning take place across a multilevel governance architecture during crises?",
+        "authors": "Bishoy Louis Zaki, Ellen Wayenberg",
+        "published": "2023-1",
+        "citations": 7,
+        "abstract": "Policy learning plays a significant role in shaping policy during crises. While scholarship has explored many of the mechanisms and outcomes of such learning, little is known about how policy learning takes place across different levels of a multilevel governance architecture. This is despite their prevalence and influence on crisis responses. Using a case of the Belgian COVID-19 policy response, we explore how policy learning takes place across different levels of multilevel governance within creeping crises, focusing on epistemic policy learning (learning from experts) as one of the most pronounced learning types within such contexts. By means of document analysis, supplemented by primary source data from expert and senior official interviews, we offer an exploratory account of how learning took place at the national and subnational levels. Our findings reveal how the inherent features of the COVID-19 crisis, and the existing multilevel governance architecture broke the policy learning process into smaller heterogenous learning processes at different levels. We find that decentralised approaches to learning provided the space for customised, yet often fragmented policy responses. We also find that institutional legacies, varying degrees of policymaker control over learning, and absence of common approaches to structuring and designing learning processes led policymakers in different jurisdictions to engage in varying policy learning processes. We take stock of these different learning processes and highlight their key features. We conclude by highlighting the implications of these findings for policy learning theory and practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/030557321x16680922931773"
+    },
+    {
+        "id": 31890,
+        "title": "Comprehensive effects of policy mixes on the diffusion of heavy-duty hydrogen fuel cell electric trucks in China considering technology learning",
+        "authors": "Fei Teng, Qi Zhang, Siyuan Chen, Ge Wang, Zhenyue Huang, Lu Wang",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2023.113961"
+    },
+    {
+        "id": 31891,
+        "title": "Expert perspectives on the changing dynamics of policy advisory systems: the COVID-19 crisis and policy learning in Belgium and Australia",
+        "authors": "Marleen Easton, Jennifer Yarnold, Valerie Vervaenen, Jasper De Paepe, Brian W. Head",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "Expert advice played a pivotal role in shaping the COVID-19 policy responses of different countries. Such measures had wide ranging impacts beyond health, including education, economy, law, and other societal aspects. Thus, analysis of how expertise was utilised and adjusted to adapt to changes during the crisis can draw valuable insights into how to better prepare policy advisory systems to respond to future crises. Here we examine the dynamics of COVID-19 policy advisory systems in Belgium and Australia through interviews with 34 experts directly involved during the first two years of the crisis. We examine the temporal changes in how expert advice was sought, provided, and utilised for crisis decision-making, and the various expert groupings and their relationships over time. In both countries, there was policy learning and adjustment, signalled primarily by an expansion in the breadth of perceived relevant expertise as the scope was re-framed from a ‘health’ crisis to an all-encompassing socio-economic crisis. In Australia, policy responses were shaped by a relatively cohesive inter-governmental group of senior health bureaucrats who became gatekeepers of the evidence presented to state and federal government leaders in the National Cabinet. In Belgium, the more fragmented and changing array of advisory groups reflected tensions within crisis management arrangements, resulting in divergent expert opinions both within the formal advisory groups and in the public realm throughout the crisis. Our findings build on the policy advisory systems and policy learning literature and suggest that more adaptive frameworks and principles be developed for specific contexts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/03055736y2023d000000014"
+    },
+    {
+        "id": 31892,
+        "title": "Commuting vs teleworking: How does it impact the relationship between commuting satisfaction and subjective well-being",
+        "authors": "Richa Maheshwari, Veronique Van Acker, Philippe Gerber",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tra.2024.104041"
+    },
+    {
+        "id": 31893,
+        "title": "An analysis of gender inclusion in Water, Sanitation and Hygiene (<scp>WASH</scp>) projects: Intention vs. reality",
+        "authors": "Hannah Jayne Robinson, Dani Barrington, Barbara Evans, Paul Hutchings, Lata Narayanaswamy",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "AbstractMotivationGender equality is inherently bound with Water, Sanitation and Hygiene (WASH) provision, access, and use. Gender shapes experiences of projects and services, from participation in design to ensuring access to appropriate facilities. Many observers call for active attention to gender throughout the project cycle, but there is little evidence of the extent to which this happens in practice.PurposeThe article examines the extent to which evaluations of WASH implementation identify good gender‐inclusive practices. It explores the reasons for failings and suggests ways gender equality could be more actively considered and effected in WASH programming.Methods and approachTextual analysis was undertaken on World Bank and UNICEF project evaluation documents to identify how gendered elements were addressed. Practices were then categorized according to a Gender Sensitivity Framework, rating them on a sliding scale measure from “gender insensitive” to “transformative.” The perceived barriers to gendered programming were subsequently triangulated using a mixed methods survey of WASH practitioners which used self‐identified challenges to assess consensus moderation to triangulate perceived barriers to gendered programming.FindingsLack of clarity in conceptualizing gender results in poorly defined targets that are often insufficiently context specific. Consequently, project objectives are either reductionist, limiting progress on “gender” to easily quantifiable measures that fail to capture the varied lived realities of gendered experiences, or comprise vague qualitative statements that cannot be accurately assessed, leaving gender inclusion unaddressed.Policy implicationsGender is a social construct that is shaped by culture. Context‐specific understanding would support more nuanced gender‐inclusion objectives that could be monitored while also correlating with people's lived realities. Regular evaluation of gender guidance would ensure organizations' understanding and conceptualization of gender reflects the fluidity of society. Policy and practice interventions that guarantee the active involvement of multiple stakeholders and diverse voices would ensure that implementation is effective and evaluation is more accurate.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/dpr.12741"
+    },
+    {
+        "id": 31894,
+        "title": "Emerging interaction of artificial intelligence with basic materials and oil &amp; gas companies: A comparative look at the Islamic vs. conventional markets",
+        "authors": "Umer Shahzad, Mahdi Ghaemi Asl, Mirela Panait, Tapan Sarker, Simona Andreea Apostu",
+        "published": "2023-1",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2022.103197"
+    },
+    {
+        "id": 31895,
+        "title": "AIM-RL: A New Framework Supporting Reinforcement Learning Experiments",
+        "authors": "Ionuţ-Cristian Pistol, Andrei Arusoaie",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012091100003538"
+    },
+    {
+        "id": 31896,
+        "title": "Analysing the contextual factors that promote and constrain policy learning in local government",
+        "authors": "Kristin Taylor, Nathan Jeschke, Stephanie Zarb",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "Policy learning is an important part of the policy process that crosscuts multiple frameworks. However, policy learning is difficult to model and predict, and even less is known about the extent to which community characteristics affect policy learning. This article examines the contextual factors that promote and constrain policy learning in local government by identifying factors that promote learning. The central theory is that community characteristics, experience with a policy problem, and the type of subnational government will be important factors. We examine this in the context of primary data collected after Hurricane Harvey from open-ended interviews with 22 local government officials across Southeast Texas. Using a mixed methodology, we leverage the results of content analysis and Poisson regression. We find that cities with higher median incomes and larger populations are more likely to experience policy learning. Experience is not an important predictor of policy learning, suggesting possible maturation effects in the learning process. Given the long-term challenges posed by natural hazards and disasters, this puts smaller and less affluent communities at higher risk. If equitable risk and recovery is the goal of disaster policy, efforts must be made to either increase capacity or provide more resources to local governments with less capacity.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1332/030557321x16574892242428"
+    },
+    {
+        "id": 31897,
+        "title": "Expansionary monetary policy vs. bank concentration: The Eurozone &amp; other European countries",
+        "authors": "Zeljko Jovic",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Expansionary monetary policy, combined with unconventional measures, led to a decline in the profitability of U.S. and European banks. In this paper, we study whether such measures also affected the asset concentration in the European banking sector. The findings of this research add value to previous research, taking a step deeper into examining the consequences of expansionary monetary policy. We find that reductions in the ECB?s key policy rate can predominantly explain the concentration growth in the Eurozone countries. The ECB?s monetary policy had a more substantial influence on the growth of the concentration of banks outside the Eurozone than the own monetary policies of those countries. In this way, expansionary monetary policy poses specific challenges to financial stability in Europe.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2298/pan220303016j"
+    },
+    {
+        "id": 31898,
+        "title": "Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces",
+        "authors": "Tatsuhiro Shimizu, Laura Forastiere",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssci52147.2023.10372057"
+    },
+    {
+        "id": 31899,
+        "title": "Artificial Intelligence Response (AIR) Vs. Human Intelligence Response (HIR) in the Policy Modelling?",
+        "authors": "Mario Arturo Ruiz Estrada",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4589942"
+    },
+    {
+        "id": 31900,
+        "title": "Vertimo politika Vakarų Europos konstituciniuose teismuose: autentiškumas ir / arba autoriteto įtvirtinimas",
+        "authors": "Mathilde Kamal-Girard",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "This paper deals with the translation policy in the constitutional courts of Western Europe. These courts, which are set in unilingual systems, employ ‘disseminative translations’ as part of a mutual strategy of influence. More precisely, the aim of the article is to demonstrate a distortion between what a constitutional court intends to translate, what the court effectively translates, and how a counterpart court receives it in another legal system. The paper emphasizes the concept of translation authenticity in these courts and its consequences on normativity. Furthermore, it underlines that even with a lax conception of authenticity, these translations have a normative effect—albeit indirect.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15388/vertstud.2023.6"
+    },
+    {
+        "id": 31901,
+        "title": "Impacts of urban living lab (ULL) on learning to design inclusive, sustainable, and climate-resilient urban environments",
+        "authors": "Yasemin Afacan",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2022.106443"
+    },
+    {
+        "id": 31902,
+        "title": "Exploration of machine learning methods for maritime risk predictions",
+        "authors": "Sabine Knapp, Michel van de Velden",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03088839.2023.2209788"
+    },
+    {
+        "id": 31903,
+        "title": "Understanding the load profiles and electricity consumption patterns of PV mini-grid customers in rural off-grid east africa: A data-driven study",
+        "authors": "Yibeltal T. Wassie, Erik O. Ahlgren",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enpol.2023.113969"
+    },
+    {
+        "id": 31904,
+        "title": "Reading Comprehension and Constructive Learning: Policy Considerations in the Age of Artificial Intelligence",
+        "authors": "Kathryn S. McCarthy, Eleanor F. Yan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": " Although reading in the digital age looks different than in the past (e.g., on a screen, shorter texts spread across multiple sources), reading continues to be a central part of everyday life. Research in reading comprehension shows that this type of modern reading requires more complex knowledge building inference processes that are difficult for many adolescents and adults. Constructive and personalized learning activities can support readers’ knowledge building. Researchers have been using artificial intelligence (AI) to make these types of activities more effective and accessible. Emerging directions and considerations also result from the introduction of generative AI. Increased collaboration across researchers, developers, educators, and policymakers would afford empirically supported research, development, and implementation that can keep pace with the quickly evolving technological landscape. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/23727322231218891"
+    }
+]

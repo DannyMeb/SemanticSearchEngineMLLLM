@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 31305,
+        "title": "Learning and Adapting Behavior of Autonomous Vehicles through Inverse Reinforcement Learning",
+        "authors": "Rainer Trauth, Marc Kaufeld, Maximilian Geisslinger, Johannes Betz",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186668"
+    },
+    {
+        "id": 31306,
+        "title": "Enhancing Joint Behavior Modeling with Route Choice Using Adversarial Inverse Reinforcement Learning",
+        "authors": "Daichi Ogawa, Eiji Hato",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422310"
+    },
+    {
+        "id": 31307,
+        "title": "Predicting Driver Behavior on the Highway with Multi-Agent Adversarial Inverse Reinforcement Learning",
+        "authors": "Henrik Radtke, Henrik Bey, Moritz Sackmann, Torsten Schön",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186547"
+    },
+    {
+        "id": 31308,
+        "title": "Sophisticated Swarm Reinforcement Learning by Incorporating Inverse Reinforcement Learning",
+        "authors": "Yasuaki Kuroe, Kenya Takeuchi",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394525"
+    },
+    {
+        "id": 31309,
+        "title": "Unraveling human social behavior motivations via inverse reinforcement learning-based link prediction",
+        "authors": "Xin Jiang, Hongbo Liu, Liping Yang, Bo Zhang, Tomas E. Ward, Václav Snášel",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00607-024-01279-w"
+    },
+    {
+        "id": 31310,
+        "title": "Reconstructing human gaze behavior from EEG using inverse reinforcement learning",
+        "authors": "Jiaqi Gong, Shengting Cao, Soroush Korivand, Nader Jalili",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.smhl.2024.100480"
+    },
+    {
+        "id": 31311,
+        "title": "Multi-Agent Archive-Based Inverse Reinforcement Learning by Improving Suboptimal Experts",
+        "authors": "Shunsuke Ueki, Keiki Takadama",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012475100003636"
+    },
+    {
+        "id": 31312,
+        "title": "Inverse Reinforcement Learning Integrated Reinforcement Learning for Single Intersection Traffic Signal Control",
+        "authors": "Shiyi Gu, Tingting Zhang, Ya Zhang",
+        "published": "2023-8-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iai59504.2023.10327510"
+    },
+    {
+        "id": 31313,
+        "title": "Large-scale Passenger Behavior Learning and Prediction in Airport Terminals based on Multi-Agent Reinforcement Learning",
+        "authors": "Yue Li, Guokang Gao",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "For the problem of predicting passenger flow in airport terminals, multi-agent reinforcement learning is applied to airport terminals simulation. Multi-Agent Reinforcement Learning based on Group Shared Policy with Mean-field and Intrinsic Rewards (GQ-MFI) is proposed to predict passenger behavior in order to simulate the distribution of flow in different areas of the terminal at different time periods. Independent learning of multi-agent may lead to environmental instability and long convergence time. To improve the adaptability of agents in non-stationary environments and accelerate learning time, a multi-agent grouping learning strategy is proposed. Clustering is used to group multi-agent, and a shared Q-table is set within each group to improve the learning efficiency of multi-agent. Meanwhile, in order to simplify the interaction information among the agent after grouping, the idea of average field is used to transmit partial global information among the agent within the group. Intrinsic rewards are added to make the agent closer to human cognition and behavioral patterns. By conducting the airport terminal simulations using Anylogic, the experimental results show that the training speed of this algorithm is 17% higher than that of Q-learning algorithm, and it achieves good prediction accuracy in predicting the number of security check passengers with a time scale of 10 minutes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/fcis.v5i1.12008"
+    },
+    {
+        "id": 31314,
+        "title": "L2SR: Learning to Sample and Reconstruct for accelerated MRI via reinforcement learning",
+        "authors": "Pu Yang, Bin Dong",
+        "published": "2024-4-5",
+        "citations": 0,
+        "abstract": "Abstract\nMagnetic Resonance Imaging (MRI) is a widely used medical imaging technique, but its long acquisition time can be a limiting factor in clinical settings. To address this issue, researchers have been exploring ways to reduce the acquisition time while maintaining the reconstruction quality. Previous works have focused on finding either sparse samplers with a fixed reconstructor or finding reconstructors with a fixed sampler. However, these approaches do not fully utilize the potential of joint learning of samplers and reconstructors. In this paper, we propose an alternating training framework for jointly learning a good pair of samplers and reconstructors via deep reinforcement learning (RL). In particular, we consider the process of MRI sampling as a sampling trajectory controlled by a sampler, and introduce a novel sparse-reward Partially Observed Markov Decision Process (POMDP) to formulate the MRI sampling trajectory. Compared to the dense-reward POMDP used in existing works, the proposed sparse-reward POMDP is more computationally efficient and has a provable advantage. Moreover, the proposed framework, called L2SR (Learning to Sample and Reconstruct), overcomes the training mismatch problem that arises in previous methods that use dense-reward POMDP. By alternately updating samplers and reconstructors, L2SR learns a pair of samplers and reconstructors that achieve state-of-the-art reconstruction performances on the fastMRI dataset. Codes are available at \\url{https://github.com/yangpuPKU/L2SR-Learning-to-Sample-and-Reconstruct}.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6420/ad3b34"
+    },
+    {
+        "id": 31315,
+        "title": "Recognition and interfere deceptive behavior based on inverse reinforcement learning and game theory",
+        "authors": "Yunxiu Zeng, Kai Xu",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/jsee.2023.000012"
+    },
+    {
+        "id": 31316,
+        "title": "Research on trajectory prediction of vehicle lane change for autonomous driving based on inverse reinforcement learning",
+        "authors": "Ming Zhan, Jingjing Fan, Linhao Jin",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3015773"
+    },
+    {
+        "id": 31317,
+        "title": "Comparison of Target Prediction in VR and MR using Inverse Reinforcement Learning",
+        "authors": "Mukund Mitra, Preetam Pati, Vinay Krishna Sharma, Subin Raj, Partha Pratim Chakrabarti, Pradipta Biswas",
+        "published": "2023-3-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3581754.3584130"
+    },
+    {
+        "id": 31318,
+        "title": "Driver Scanpath Prediction Based On Inverse Reinforcement Learning",
+        "authors": "Zhixin Huang, Yuchen Zhou, Jie Zhu, Chao Gou",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10446034"
+    },
+    {
+        "id": 31319,
+        "title": "Car-following Behavior Modeling with Maximum Entropy Deep Inverse Reinforcement Learning",
+        "authors": "Jiangfeng Nan, Weiwen Deng, Ruzheng Zhang, Rui Zhao, Ying Wang, Juan Ding",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2023.3335218"
+    },
+    {
+        "id": 31320,
+        "title": "Inverse Reinforcement Learning with Learning and Leveraging Demonstrators’ Varying Expertise Levels",
+        "authors": "Somtochukwu Oguchienti, Mahsa Ghasemi",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/allerton58177.2023.10313475"
+    },
+    {
+        "id": 31321,
+        "title": "Inverse Reinforcement Learning for Text Summarization",
+        "authors": "Yu Fu, Deyi Xiong, Yue Dong",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.436"
+    },
+    {
+        "id": 31322,
+        "title": "Inverse Reinforcement Learning Control for Building Energy Management",
+        "authors": "Sourav Dey, Thibault Marzullo, Gregor Henze",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4330892"
+    },
+    {
+        "id": 31323,
+        "title": "A Universal Approach to Nanophotonic Inverse Design through Reinforcement Learning",
+        "authors": "Marco Butz, Alexander Leifhelm, Marlon Becker, Benjamin Risse, Carsten Schuck",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "We present a novel method to perform universal black-box optimization of pixel-discrete nanophotonic devices based on reinforcement learning. We demonstrate the capabilities of our method for a silicon-on-insulator waveguide-mode converter with > 95% conversion efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1364/cleo_si.2023.sth4g.3"
+    },
+    {
+        "id": 31324,
+        "title": "Objective Weight Interval Estimation Using Adversarial Inverse Reinforcement Learning",
+        "authors": "Naoya Takayama, Sachiyo Arai",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3281593"
+    },
+    {
+        "id": 31325,
+        "title": "Advancements in Deep Reinforcement Learning and Inverse Reinforcement Learning for Robotic Manipulation: Toward Trustworthy, Interpretable, and Explainable Artificial Intelligence",
+        "authors": "Recep Ozalp, Aysegul Ucar, Cuneyt Guzelis",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3385426"
+    },
+    {
+        "id": 31326,
+        "title": "Human-in-the-Loop Behavior Modeling via an Integral Concurrent Adaptive Inverse Reinforcement Learning",
+        "authors": "Huai-Ning Wu, Mi Wang",
+        "published": "2024",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3259581"
+    },
+    {
+        "id": 31327,
+        "title": "Outperformance of Mall-Receptionist Android as Inverse Reinforcement Learning is Transitioned to Reinforcement Learning",
+        "authors": "Zhichao Chen, Yutaka Nakamura, Hiroshi Ishiguro",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3267385"
+    },
+    {
+        "id": 31328,
+        "title": "Inverse reinforcement learning through logic constraint inference",
+        "authors": "Mattijs Baert, Sam Leroux, Pieter Simoens",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10994-023-06311-2"
+    },
+    {
+        "id": 31329,
+        "title": "Option-Aware Adversarial Inverse Reinforcement Learning for Robotic Control",
+        "authors": "Jiayu Chen, Tian Lan, Vaneet Aggarwal",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160374"
+    },
+    {
+        "id": 31330,
+        "title": "A state-based inverse reinforcement learning approach to model activity-travel choices behavior with reward function recovery",
+        "authors": "Yuchen Song, Dawei Li, Zhenliang Ma, Dongjie Liu, Tong Zhang",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.trc.2023.104454"
+    },
+    {
+        "id": 31331,
+        "title": "Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient",
+        "authors": "Ming Zhan, Jingjing Fan, Jianying Guo",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3305453"
+    },
+    {
+        "id": 31332,
+        "title": "An inverse reinforcement learning framework with the Q-learning mechanism for the metaheuristic algorithm",
+        "authors": "Fuqing Zhao, Qiaoyun Wang, Ling Wang",
+        "published": "2023-4",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110368"
+    },
+    {
+        "id": 31333,
+        "title": "Misspecification in Inverse Reinforcement Learning",
+        "authors": "Joar Skalse, Alessandro Abate",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "The aim of Inverse Reinforcement Learning (IRL) is to infer a reward function R from a policy pi. To do this, we need a model of how pi relates to R. In the current literature, the most common models are optimality, Boltzmann rationality, and causal entropy maximisation. One of the primary motivations behind IRL is to infer human preferences from human behaviour. However, the true relationship between human preferences and human behaviour is much more complex than any of the models currently used in IRL. This means that they are misspecified, which raises the worry that they might lead to unsound inferences if applied to real-world data. In this paper, we provide a mathematical analysis of how robust different IRL models are to misspecification, and answer precisely how the demonstrator policy may differ from each of the standard models before that model leads to faulty inferences about the reward function R. We also introduce a framework for reasoning about misspecification in IRL, together with formal tools that can be used to easily derive the misspecification robustness of new IRL models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i12.26766"
+    },
+    {
+        "id": 31334,
+        "title": "Recent Advancements in Inverse Reinforcement Learning",
+        "authors": "Alberto Maria Metelli",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Inverse reinforcement learning (IRL) has seen significant advancements in recent years. This class of approaches aims to efficiently learn the underlying reward function that rationalizes the behavior exhibited by expert agents, often represented by humans. In contrast to mere behavioral cloning, the reconstruction of a reward function yields appealing implications, as it allows for more effective interpretability of the expert’s decisions and provides a transferable specification of the expert’s objectives for application in even different environments. Unlike the well-understood field of reinforcement learning (RL) from a theoretical perspective, IRL still grapples with limited understanding, significantly constraining its applicability. A fundamental challenge in IRL is the inherent ambiguity in selecting a reward function, given the existence of multiple candidate functions, all explaining the expert’s behavior.\n\nIn this talk, I will survey three of my papers that have made notable contributions to the IRL field: “Provably Efficient Learning of Transferable Rewards”, “Towards Theoretical Understanding of Inverse Reinforcement Learning”, and “Inverse Reinforcement Learning with Sub-optimal Experts\".\n\nThe central innovation introduced by the first paper is a novel formulation of the IRL problem that overcomes the issue of ambiguity. IRL is reframed as the problem of learning the feasible reward set, which is the set of all rewards that can explain the expert’s behavior. This approach postpones the selection of the reward function, thereby circumventing the ambiguity issues. Furthermore, the feasible reward set exhibits convenient geometric properties that enable the development of efficient algorithms for its computation. \n\nBuilding on this novel formulation of IRL, the second paper addresses the problem of efficiently learning the feasible reward set when the environment and the expert’s policy are not known in advance. It introduces a novel way to assess the dissimilarity between feasible reward sets based on the Hausdorff distance and presents a new PAC (probabilistic approximately correct) framework. The most significant contribution of this paper is the introduction of the first sample complexity lower bound, which highlights the challenges inherent in the IRL problem. Deriving this lower bound necessitated the development of novel technical tools. The paper also demonstrates that when a generative model of the environment is available, a uniform sampling strategy achieves a sample complexity that matches the lower bound, up to logarithmic factors.\n\nFinally, in the third paper, the IRL problem in the presence of sub-optimal experts is investigated. Specifically, the paper assumes the availability of multiple sub-optimal experts, in addition to the expert agent, which provides additional demonstrations, associated with a known quantification of the maximum amount of sub-optimality. The paper shows that this richer information mitigates the ambiguity problem, significantly reducing the size of the feasible reward set while retaining its favorable geometric properties. Furthermore, the paper explores the associated statistical problem and derives novel lower bounds for sample complexity, along with almost matching algorithms. These selected papers represent notable advancements in IRL, contributing to the establishment of a solid theoretical foundation for IRL and extending the framework to accommodate scenarios with sub-optimal experts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i20.30296"
+    },
+    {
+        "id": 31335,
+        "title": "W-IRL: Inverse Reinforcement Learning via Wasserstein Metric",
+        "authors": "Keyu Wu, Chao Li, Fengge Wu, Junsuo Zhao",
+        "published": "2023-3-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccr56747.2023.10194048"
+    },
+    {
+        "id": 31336,
+        "title": "Inverse reinforcement learning control for building energy management",
+        "authors": "Sourav Dey, Thibault Marzullo, Gregor Henze",
+        "published": "2023-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enbuild.2023.112941"
+    },
+    {
+        "id": 31337,
+        "title": "Nonuniqueness and Convergence to Equivalent Solutions in Observer-based Inverse Reinforcement Learning",
+        "authors": "Jared Town, Zachary Morrison, Rushikesh Kamalapurkar",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156188"
+    },
+    {
+        "id": 31338,
+        "title": "Inverse Problem Analysis of Phase Fraction Prediction in Aluminum Alloys Using Differentiable Deep Learning Models",
+        "authors": "",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56831/psen-04-118"
+    },
+    {
+        "id": 31339,
+        "title": "Trajectory-Based Active Inverse Reinforcement Learning for Learning from Demonstration",
+        "authors": "Sehee Kweon, Himchan Hwang, Frank C. Park",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/iccas59377.2023.10316798"
+    },
+    {
+        "id": 31340,
+        "title": "Reinforcement learning in a prisoner's dilemma",
+        "authors": "Arthur Dolgopolov",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.geb.2024.01.004"
+    },
+    {
+        "id": 31341,
+        "title": "Forward-Backward Inverse Reinforcement Learning for Load Balancing in SDN",
+        "authors": "Vaishnavi S, Satish Maruti Magadum, Bhargavi K",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276272"
+    },
+    {
+        "id": 31342,
+        "title": "Zero-Shot Fault Detection for Manipulators Through Bayesian Inverse Reinforcement Learning",
+        "authors": "Hanqing Zhao, Xue Liu, Gregory Dudek",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10342143"
+    },
+    {
+        "id": 31343,
+        "title": "Adaptive Inverse Deep Reinforcement Lyapunov learning control for a floating wind turbine",
+        "authors": "Hadi Mohammadian KhalafAnsar, Jafar Keighobadi",
+        "published": "2023-6-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24200/sci.2023.61871.7532"
+    },
+    {
+        "id": 31344,
+        "title": "Structure-Based Inverse Reinforcement Learning for Quantification of Biological Knowledge",
+        "authors": "Amirhossein Ravari, Seyede Fatemeh Ghoreishi, Mahdi Imani",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cai54212.2023.00126"
+    },
+    {
+        "id": 31345,
+        "title": "Communication Load Balancing via Efficient Inverse Reinforcement Learning",
+        "authors": "Abhisek Konar, Di Wu, Yi Tian Xu, Seowoo Jang, Steve Liu, Gregory Dudek",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10279136"
+    },
+    {
+        "id": 31346,
+        "title": "Hierarchical Adversarial Inverse Reinforcement Learning",
+        "authors": "Jiayu Chen, Tian Lan, Vaneet Aggarwal",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3305983"
+    },
+    {
+        "id": 31347,
+        "title": "Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation",
+        "authors": "Samuel Triest, Mateo Guaman Castro, Parv Maheshwari, Matthew Sivaprakasam, Wenshan Wang, Sebastian Scherer",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161268"
+    },
+    {
+        "id": 31348,
+        "title": "A Modified Maximum Entropy Inverse Reinforcement Learning Approach for Microgrid Energy Scheduling",
+        "authors": "Yanbin Lin, Avijit Das, Zhen Ni",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pesgm52003.2023.10252933"
+    },
+    {
+        "id": 31349,
+        "title": "Inverse Reinforcement Learning as the Algorithmic Basis for Theory of Mind: Current Methods and Open Problems",
+        "authors": "Jaime Ruiz-Serra, Michael S. Harré",
+        "published": "2023-1-19",
+        "citations": 4,
+        "abstract": "Theory of mind (ToM) is the psychological construct by which we model another’s internal mental states. Through ToM, we adjust our own behaviour to best suit a social context, and therefore it is essential to our everyday interactions with others. In adopting an algorithmic (rather than a psychological or neurological) approach to ToM, we gain insights into cognition that will aid us in building more accurate models for the cognitive and behavioural sciences, as well as enable artificial agents to be more proficient in social interactions as they become more embedded in our everyday lives. Inverse reinforcement learning (IRL) is a class of machine learning methods by which to infer the preferences (rewards as a function of state) of a decision maker from its behaviour (trajectories in a Markov decision process). IRL can provide a computational approach for ToM, as recently outlined by Jara-Ettinger, but this will require a better understanding of the relationship between ToM concepts and existing IRL methods at the algorthmic level. Here, we provide a review of prominent IRL algorithms and their formal descriptions, and discuss the applicability of IRL concepts as the algorithmic basis of a ToM in AI.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16020068"
+    },
+    {
+        "id": 31350,
+        "title": "Interactively Teaching an Inverse Reinforcement Learner with Limited Feedback",
+        "authors": "Rustam Zayanov, Francisco Melo, Manuel Lopes",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012296800003636"
+    },
+    {
+        "id": 31351,
+        "title": "Inverse Reinforcement Learning of Pedestrian–Robot Coordination",
+        "authors": "David Gonon, Aude Billard",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3289770"
+    },
+    {
+        "id": 31352,
+        "title": "Reinforcement Learning Human Inverse Kinematics of an Upper Limb Exoskeleton Robot",
+        "authors": "Mahmoud Abdallah, Maarouf Saad, Raouf Fareh, Yassine Kali, Maamar Bettayeb",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aset56582.2023.10180522"
+    },
+    {
+        "id": 31353,
+        "title": "A reinforcement learning enhanced pseudo-inverse approach to self-collision avoidance of redundant robots",
+        "authors": "Tinghe Hong, Weibing Li, Kai Huang",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "IntroductionRedundant robots offer greater flexibility compared to non-redundant ones but are susceptible to increased collision risks when the end-effector approaches the robot's own links. Redundant degrees of freedom (DoFs) present an opportunity for collision avoidance; however, selecting an appropriate inverse kinematics (IK) solution remains challenging due to the infinite possible solutions.MethodsThis study proposes a reinforcement learning (RL) enhanced pseudo-inverse approach to address self-collision avoidance in redundant robots. The RL agent is integrated into the redundancy resolution process of a pseudo-inverse method to determine a suitable IK solution for avoiding self-collisions during task execution. Additionally, an improved replay buffer is implemented to enhance the performance of the RL algorithm.ResultsSimulations and experiments validate the effectiveness of the proposed method in reducing the risk of self-collision in redundant robots.ConclusionThe RL enhanced pseudo-inverse approach presented in this study demonstrates promising results in mitigating self-collision risks in redundant robots, highlighting its potential for enhancing safety and performance in robotic systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnbot.2024.1375309"
+    },
+    {
+        "id": 31354,
+        "title": "Retracted: Real-Time Generation Method of Oil Painting Style Brushstrokes Based on Inverse Reinforcement Learning",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9786153"
+    },
+    {
+        "id": 31355,
+        "title": "Deep Reinforcement Learning for Edge Caching with Mobility Prediction in Vehicular Networks",
+        "authors": "Yoonjeong Choi, Yujin Lim",
+        "published": "2023-2-3",
+        "citations": 2,
+        "abstract": "As vehicles are connected to the Internet, various services can be provided to users. However, if the requests of vehicle users are concentrated on the remote server, the transmission delay increases, and there is a high possibility that the delay constraint cannot be satisfied. To solve this problem, caching can be performed at a closer proximity to the user which in turn would reduce the latency by distributing requests. The road side unit (RSU) and vehicle can serve as caching nodes by providing storage space closer to users through a mobile edge computing (MEC) server and an on-board unit (OBU), respectively. In this paper, we propose a caching strategy for both RSUs and vehicles with the goal of maximizing the caching node throughput. The vehicles move at a greater speed; thus, if positions of the vehicles are predictable in advance, this helps to determine the location and type of content that has to be cached. By using the temporal and spatial characteristics of vehicles, we adopted a long short-term memory (LSTM) to predict the locations of the vehicles. To respond to time-varying content popularity, a deep deterministic policy gradient (DDPG) was used to determine the size of each piece of content to be stored in the caching nodes. Experiments in various environments have proven that the proposed algorithm performs better when compared to other caching methods in terms of the throughput of caching nodes, delay constraint satisfaction, and update cost.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23031732"
+    },
+    {
+        "id": 31356,
+        "title": "Inverse reinforcement learning for autonomous navigation via differentiable semantic mapping and planning",
+        "authors": "Tianyu Wang, Vikas Dhiman, Nikolay Atanasov",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "AbstractThis paper focuses on inverse reinforcement learning for autonomous navigation using distance and semantic category observations. The objective is to infer a cost function that explains demonstrated behavior while relying only on the expert’s observations and state-control trajectory. We develop a map encoder, that infers semantic category probabilities from the observation sequence, and a cost encoder, defined as a deep neural network over the semantic features. Since the expert cost is not directly observable, the model parameters can only be optimized by differentiating the error between demonstrated controls and a control policy computed from the cost estimate. We propose a new model of expert behavior that enables error minimization using a closed-form subgradient computed only over a subset of promising states via a motion planning algorithm. Our approach allows generalizing the learned behavior to new environments with new spatial configurations of the semantic categories. We analyze the different components of our model in a minigrid environment. We also demonstrate that our approach learns to follow traffic rules in the autonomous driving CARLA simulator by relying on semantic observations of buildings, sidewalks, and road lanes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10514-023-10118-4"
+    },
+    {
+        "id": 31357,
+        "title": "Mimicking Electronic Gaming Machine Player Behavior Using Reinforcement Learning",
+        "authors": "Gaurav Jariwala, Vlado Keselj",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21428/594757db.6b6b324c"
+    },
+    {
+        "id": 31358,
+        "title": "Simplified Deep Reinforcement Learning Approach for Channel Prediction in Power Domain NOMA System",
+        "authors": "Mohamed Gaballa, Maysam Abbod",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "In this work, the impact of implementing Deep Reinforcement Learning (DRL) in predicting the channel parameters for user devices in a Power Domain Non-Orthogonal Multiple Access system (PD-NOMA) is investigated. In the channel prediction process, DRL based on deep Q networks (DQN) algorithm will be developed and incorporated into the NOMA system so that this developed DQN model can be employed to estimate the channel coefficients for each user device in NOMA system. The developed DQN scheme will be structured as a simplified approach to efficiently predict the channel parameters for each user in order to maximize the downlink sum rates for all users in the system. In order to approximate the channel parameters for each user device, this proposed DQN approach is first initialized using random channel statistics, and then the proposed DQN model will be dynamically updated based on the interaction with the environment. The predicted channel parameters will be utilized at the receiver side to recover the desired data. Furthermore, this work inspects how the channel estimation process based on the simplified DQN algorithm and the power allocation policy, can both be integrated for the purpose of multiuser detection in the examined NOMA system. Simulation results, based on several performance metrics, have demonstrated that the proposed simplified DQN algorithm can be a competitive algorithm for channel parameters estimation when compared to different benchmark schemes for channel estimation processes such as deep neural network (DNN) based long-short term memory (LSTM), RL based Q algorithm, and channel estimation scheme based on minimum mean square error (MMSE) procedure.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23219010"
+    },
+    {
+        "id": 31359,
+        "title": "A study of inverse reinforcement learning and its implementation",
+        "authors": "Chaoying Zhang, Guanjun Jing, Siqi Zuo, ZhiMing Dong",
+        "published": "2023-2-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2661162"
+    },
+    {
+        "id": 31360,
+        "title": "Autonomous Assessment of Demonstration Sufficiency via Bayesian Inverse Reinforcement Learning",
+        "authors": "Tu Trinh, Haoyu Chen, Daniel S. Brown",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610977.3634984"
+    },
+    {
+        "id": 31361,
+        "title": "Danger-zone and maximum entropy deep inverse reinforcement learning for human-robot navigation",
+        "authors": "Linghan Fang",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Abstract\nAs a result of the development of artificial intelligence in recent years, scientists have gone further in the field of human-robot interaction (HRI), and one of the remaining problems is how to achieve a safe and human comfort-satisfying navigation when it comes to crowd-robot interaction (CRI). This article explores two existing deep learning reinforcement (DRL) methods, Danger-zone (DZ) and Maximum Entropy Deep Inverse Reinforcement Learning (MEDIRL). The former method proposes a Danger-Zone to predict the trajectory of pedestrians, using the DRL network to achieve obstacle avoidance and combining advanced algorithms with it to summarize the most effective combination. The latter method collects expert demonstrations in an uncontrolled environment. It uses DNN networks to predict human behavior and compares the results with the actual trajectories to demonstrate their validity. This article summarizes and evaluates these two methods. Moreover, this article also gives various outlooks on the direction of human-computer interaction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2580/1/012054"
+    },
+    {
+        "id": 31362,
+        "title": "Study on the prediction and inverse prediction of detonation properties based on deep learning",
+        "authors": "Zi-hang Yang, Ji-li Rong, Zi-tong Zhao",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dt.2022.11.011"
+    },
+    {
+        "id": 31363,
+        "title": "Interpretability for Conditional Coordinated Behavior in Multi-Agent Reinforcement Learning",
+        "authors": "Yoshinari Motokawa, Toshiharu Sugawara",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191825"
+    },
+    {
+        "id": 31364,
+        "title": "A novel inverse design method for morphing airfoil based on deep reinforcement learning",
+        "authors": "Jing Su, Gang Sun, Jun Tao",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ast.2024.108895"
+    },
+    {
+        "id": 31365,
+        "title": "Correction to: Adaptive submodular inverse reinforcement learning for spatial search and map exploration",
+        "authors": "Ji-Jie Wu, Kuo-Shih Tseng",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10514-022-10077-2"
+    },
+    {
+        "id": 31366,
+        "title": "Stock Market Prediction Using Deep Reinforcement Learning",
+        "authors": "Alamir Labib Awad, Saleh Mesbah Elkaffas, Mohammed Waleed Fakhr",
+        "published": "2023-11-10",
+        "citations": 1,
+        "abstract": "Stock value prediction and trading, a captivating and complex research domain, continues to draw heightened attention. Ensuring profitable returns in stock market investments demands precise and timely decision-making. The evolution of technology has introduced advanced predictive algorithms, reshaping investment strategies. Essential to this transformation is the profound reliance on historical data analysis, driving the automation of decisions, particularly in individual stock contexts. Recent strides in deep reinforcement learning algorithms have emerged as a focal point for researchers, offering promising avenues in stock market predictions. In contrast to prevailing models rooted in artificial neural network (ANN) and long short-term memory (LSTM) algorithms, this study introduces a pioneering approach. By integrating ANN, LSTM, and natural language processing (NLP) techniques with the deep Q network (DQN), this research crafts a novel architecture tailored specifically for stock market prediction. At its core, this innovative framework harnesses the wealth of historical stock data, with a keen focus on gold stocks. Augmented by the insightful analysis of social media data, including platforms such as S&P, Yahoo, NASDAQ, and various gold market-related channels, this study gains depth and comprehensiveness. The predictive prowess of the developed model is exemplified in its ability to forecast the opening stock value for the subsequent day, a feat validated across exhaustive datasets. Through rigorous comparative analysis against benchmark algorithms, the research spotlights the unparalleled accuracy and efficacy of the proposed combined algorithmic architecture. This study not only presents a compelling demonstration of predictive analytics but also engages in critical analysis, illuminating the intricate dynamics of the stock market. Ultimately, this research contributes valuable insights and sets new horizons in the realm of stock market predictions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/asi6060106"
+    },
+    {
+        "id": 31367,
+        "title": "Frame-part-activated deep reinforcement learning for Action Prediction",
+        "authors": "Lei Chen, Zhanjie Song",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2024.02.024"
+    },
+    {
+        "id": 31368,
+        "title": "Stable Control Policy and Transferable Reward Function via Inverse Reinforcement Learning",
+        "authors": "Keyu Wu, Fengge Wu, Yijun Lin, Junsuo Zhao",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594315.3594399"
+    },
+    {
+        "id": 31369,
+        "title": "Reinforcement Learning Explained via Reinforcement Learning: Towards Explainable Policies through Predictive Explanation",
+        "authors": "Léo Saulières, Martin Cooper, Florence Bannay",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011619600003393"
+    },
+    {
+        "id": 31370,
+        "title": "Research on neural reinforcement learning-based non-inverse kinematics robotic arm control system",
+        "authors": "Yue Fang, Shizhuo Zhang, Wei Liu",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004707"
+    },
+    {
+        "id": 31371,
+        "title": "Inverse Machine Learning Prediction for Optimal Tilt-Wing eVTOL Takeoff Trajectory",
+        "authors": "Shuan-Tai Yeh, Guirong Yan, Xiaosong Du",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-3593"
+    },
+    {
+        "id": 31372,
+        "title": "Uncertainty-aware human-like driving policy learning with deep Bayesian inverse reinforcement learning",
+        "authors": "Di Zeng, Ling Zheng, Xiantong Yang, Yinong Li",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/23249935.2024.2318621"
+    },
+    {
+        "id": 31373,
+        "title": "Stock Market Prediction using Reinforcement Learning with Sentiment Analysis",
+        "authors": "Xuemei Li, Hua Ming",
+        "published": "2023-1-30",
+        "citations": 1,
+        "abstract": "This work creates a new Deep Q-learning model with augmented sentiment analysis and stock trend labelling (DQS model). The novelty of this study is as following. We form the stock price prediction problem as trend prediction instead of predicting its accurate price. By benchmarking multiple machine learning methods, stock market trend label is proven to be effective and can be predicted accurately. We use news titles and apply Valence Aware Dictionary for Sentiment Reasoning (VADER) to project the sentiment of the news about stock under study. The input feature to a customized Deep Q-learning model incorporates stock market trend label and sentiment analysis score label. Our study shows that a trading agent using DQS model achieved 83% more portfolio value than a DQ model using only stock technical indicators. The trading agent based on DQS model achieved a Sharpe ratio of 3.65 comparing with 1.6 achieved by a traditional DQ model-based trading agent. This indicates the DQS model combining with input features proposed by our study can achieve excellent risk-free investment portfolio.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/ijci.2023.120101"
+    },
+    {
+        "id": 31374,
+        "title": "Ultimate Shear Strength Prediction for Slender Reinforced Concrete Beams without Transverse Reinforcement Using Machine Learning Approach",
+        "authors": "",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14359/51740246"
+    },
+    {
+        "id": 31375,
+        "title": "Tobacco Quality Prediction in Tobacco Machine Drying Based on Data-Driven Deep Reinforcement Learning",
+        "authors": "Shuang Dai, Zhengping Zhou, Jiawei Fan, Huancheng Guo",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3650215.3650321"
+    },
+    {
+        "id": 31376,
+        "title": "Trajectory modeling via random utility inverse reinforcement learning",
+        "authors": "Anselmo R. Pitombeira-Neto, Helano P. Santos, Ticiana L. Coelho da Silva, José Antonio F. de Macedo",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2024.120128"
+    },
+    {
+        "id": 31377,
+        "title": "Comparison and Deduction of Maximum Entropy Deep Inverse Reinforcement Learning",
+        "authors": "Guannan Chen, Yanfang Fu, Yu Liu, Xiangbin Dang, Jiajun Hao, Xinchen Liu",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/oncon60463.2023.10430771"
+    },
+    {
+        "id": 31378,
+        "title": "Agent behavior modeling method based on reinforcement learning and human in the loop",
+        "authors": "Lin Huang, Li Gong",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Computer generated force (CGF) is one of the increasingly important research topics in the field of simulation. However, low modeling efficiency and lack of adaptability are acute problems of traditional CGF modeling. In this study, a method for modeling the agent behavior based on reinforcement learning and human in the loop is proposed to improve the ability and efficiency of agent behavior modeling. First, an overall framework for modeling the behavior of intelligent agents is constructed based on the deep reinforcement learning algorithm Soft Actor Critic (SAC) framework. Second, in order to overcome the slow convergence speed of the SAC framework, a method for human interaction and value evaluation in the loop is introduced, and the specific algorithm flow is designed. Third, in order to verify the performance of the proposed method, experiments are conducted and compared with algorithms using a pure SAC framework based on an example of agent completing specific tasks. Result shows that after 100 episodes of training, the task completion rate of the agent can approach 100% while a pure SAC framework require at least 500 episodes of training to gradually improve the completion rate. Finally, the results demonstrate that the proposed method can significantly improve the efficiency of agent behavior modeling and the task completion rate increases with the number of human interventions in the loop.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0152822"
+    },
+    {
+        "id": 31379,
+        "title": "SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning",
+        "authors": "Yifan Xu, Theodor Chakhachiro, Tribhi Kathuria, Maani Ghaffari",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160536"
+    },
+    {
+        "id": 31380,
+        "title": "Machine Learning for Slope Failure Prediction Based on Inverse Velocity and Dimensionless Inverse Velocity",
+        "authors": "Maral Malekian, Moe Momayez, Pat Bellett, Fernanda Carrea, Eranda Tennakoon",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42461-023-00781-7"
+    },
+    {
+        "id": 31381,
+        "title": "Alzheimer’s Disease Prediction with K-means Clustering and Reinforcement Learning Approach",
+        "authors": "Nijana. V, P. Selvi Rajendran",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdcece57866.2023.10151326"
+    },
+    {
+        "id": 31382,
+        "title": "Decentralized Multi-Agent Reinforcement Learning with Global State Prediction",
+        "authors": "Joshua Bloom, Pranjal Paliwal, Apratim Mukherjee, Carlo Pinciroli",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341563"
+    },
+    {
+        "id": 31383,
+        "title": "Trust-Region Inverse Reinforcement Learning",
+        "authors": "Kun Cao, Lihua Xie",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3274629"
+    },
+    {
+        "id": 31384,
+        "title": "A reinforcement learning-based weight fusion algorithm for house price prediction",
+        "authors": "Yige Zhang, Zongwen Fan, Jin Gou",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictai59109.2023.00105"
+    },
+    {
+        "id": 31385,
+        "title": "Based on Hierarchical Reinforcement Learning for Large-scale Pedestrian Trajectory Prediction",
+        "authors": "Guokang Gao, Yue Li",
+        "published": "2024-1-7",
+        "citations": 0,
+        "abstract": "This paper describes the construction of an airport terminal simulation model using AnyLogic simulation software. It considers the advantages of hierarchical reinforcement learning and divides the complete process of pedestrian trajectories at the airport into layers. Pedestrians are treated as intelligent agents for hierarchical reinforcement learning. A large-scale pedestrian trajectory planning algorithm based on hierarchical reinforcement learning is designed to match the hotspots in the airport region simulated by pedestrian trajectories with congested areas in the terminal scene. A comparison is made with traditional multi-agent Q-learning algorithms and single-table hierarchical reinforcement learning. The results show that our algorithm can accurately identify the pedestrian flow hotspots in the actual terminal, with improved matching accuracy compared to traditional multi-agent Q-learning algorithms and single-table hierarchical reinforcement learning. The algorithm also exhibits faster convergence speed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/ptsxludb"
+    },
+    {
+        "id": 31386,
+        "title": "Dynamic Service Composition Method Based on Zero-Sum Game Integrated Inverse Reinforcement Learning",
+        "authors": "Yuan Yuan, Yuhan Guo, Wanqing Ma",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3323584"
+    },
+    {
+        "id": 31387,
+        "title": "Modelling motorized and non-motorized vehicle conflicts using multiagent inverse reinforcement learning approach",
+        "authors": "Yan Liu, Rushdi Alsaleh, Tarek Sayed",
+        "published": "2024-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/21680566.2024.2314762"
+    },
+    {
+        "id": 31388,
+        "title": "An analytical and inverse analysis of the full-range behavior of embedded reinforcement based on a modified tri-linear bond-slip model",
+        "authors": "Faxiang Xie, Tianliang Chang, Geni Kuang, Feng Zhang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2024.106119"
+    },
+    {
+        "id": 31389,
+        "title": "InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning",
+        "authors": "Yutong Ye, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, Xiang Lian",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "Due to repetitive trial-and-error style interactions between agents and a fixed traffic environment during the policy learning, existing Reinforcement Learning (RL)-based Traffic Signal Control (TSC) methods greatly suffer from long RL training time and poor adaptability of RL agents to other complex traffic environments. To address these problems, we propose a novel Adversarial Inverse Reinforcement Learning (AIRL)-based pre-training method named InitLight, which enables effective initial model generation for TSC agents. Unlike traditional RL-based TSC approaches that train a large number of agents simultaneously for a specific multi-intersection environment, InitLight pre-trains only one single initial model based on multiple single-intersection environments together with their expert trajectories. Since the reward function learned by InitLight can recover ground-truth TSC rewards for different intersections at optimality, the pre-trained agent can be deployed at intersections of any traffic environments as initial models to accelerate subsequent overall global RL training. Comprehensive experimental results show that, the initial model generated by InitLight can not only significantly accelerate the convergence with much fewer episodes, but also own superior generalization ability to accommodate various kinds of complex traffic environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/550"
+    },
+    {
+        "id": 31390,
+        "title": "Inverse Reinforcement Learning with Graph Neural Networks for IoT Resource Allocation",
+        "authors": "Guangchen Wang, Peng Cheng, Zhuo Chen, Wei Xiang, Branka Vucetic, Yonghui Li",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096237"
+    },
+    {
+        "id": 31391,
+        "title": "Machine Learning Based Deflection Prediction and Inverse Design for Discrete Variable Stiffness Units",
+        "authors": "Jiaming Fu, Qianyu Guo, Dongming Gan",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "Abstract\nLarge deflection modeling is a crucial field of study in the analysis and design of compliant mechanisms (CM). This paper proposes a machine learning (ML) approach for predicting the deflection of discrete variable stiffness units (DSUs) that cover a range from small to large deflections. The primary structure of a DSU consists of a parallel guide beam with a hollow cavity that can change stiffness discretely by inserting or extracting a solid block. The principle is based on changing the cross-sectional area properties of the hollow section. Prior to model training, a large volume of data was collected using finite element analysis (FEA) under different loads and various dimensional parameters. Additionally, we present three widely used machine learning-based models for predicting beam deflection, taking into account prediction accuracy and speed. Several experiments are conducted to evaluate the performance of the ML models that were compared with the FEA and analytical model results. The optimal ML model, multilayer perceptron (MLP), can achieve a 7.9% maximum error compared to FEA. Furthermore, the model was employed in a practical application for inverse design, with various cases presented depending on the number of solved variables. This method provides a innovative perspective for studying the modeling of compliant mechanisms and may be extended to other mechanical mechanisms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-117322"
+    },
+    {
+        "id": 31392,
+        "title": "An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning",
+        "authors": "Qi Zhou, Sikai Li, Jingbo Qu, Jin Wu, Haomiao Xu, Youyi Bi",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "Abstract\nEfficient path planning methods for robot arms are crucial to ensure the quality and safety of their completing various tasks. Compared to traditional manual instruction, Reinforcement Learning (RL) based path planning methods show better adaptability for complex working scenarios. However, the training of RL is usually time-consuming with limited success rate. To tackle this problem, we propose an adaptive path planning approach for robot arm based on Inverse Kinematics (IK) and Deep Reinforcement Learning (DRL) in a pick-and-place context. A judgement mechanism is developed to adaptively select IK or RL based method according to the results of early-stage collision detection. We separate the pick and place task into three sequential curriculums (approaching, grabbing and placing) with modified reward functions to speed up the training process and achieve a higher success rate. The proposed approach is validated with a physical robot arm supported by a high-fidelity digital twin model. The experiment results show that our proposed approach outperforms traditional RL based method with improved training speed and guaranteed performance in collision avoidance and path accuracy. This work contributes to the practical deployment of RL based path planning method for digital twin-enabled robot arm in smart manufacturing.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/imece2023-113131"
+    },
+    {
+        "id": 31393,
+        "title": "A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards",
+        "authors": "Zhan Zhao, Yuebing Liang",
+        "published": "2023-4",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.trc.2023.104079"
+    },
+    {
+        "id": 31394,
+        "title": "Adversarial Behavior Exclusion for Safe Reinforcement Learning",
+        "authors": "Md Asifur Rahman, Tongtong Liu, Sarra Alqahtani",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Learning by exploration makes reinforcement learning (RL) potentially attractive for many real-world applications. However, this learning process makes RL inherently too vulnerable to be used in real-world applications where safety is of utmost importance. Most prior studies consider exploration at odds with safety and thereby restrict it using either joint optimization of task and safety or imposing constraints for safe exploration. This paper migrates from the current convention to using exploration as a key to safety by learning safety as a robust behavior that completely excludes any behavioral pattern responsible for safety violations. Adversarial Behavior Exclusion for Safe RL (AdvEx-RL) learns a behavioral representation of the agent's safety violations by approximating an optimal adversary utilizing exploration and later uses this representation to learn a separate safety policy that excludes those unsafe behaviors. In addition, AdvEx-RL ensures safety in a task-agnostic manner by acting as a safety firewall and therefore can be integrated with any RL task policy. We demonstrate the robustness of AdvEx-RL via comprehensive experiments in standard constrained Markov decision processes (CMDP) environments under 2 white-box action space perturbations as well as with changes in environment dynamics against 7 baselines. Consistently, AdvEx-RL outperforms the baselines by achieving an average safety performance of over 75% in the continuous action space with 10 times more variations in the testing environment dynamics. By using a standalone safety policy independent of conflicting objectives, AdvEx-RL also paves the way for interpretable safety behavior analysis as we show in our user study.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/54"
+    },
+    {
+        "id": 31395,
+        "title": "Deep LSTM and LSTM-Attention Q-learning based reinforcement learning in oil and gas sector prediction",
+        "authors": "David Opeoluwa Oyewola, Sulaiman Awwal Akinwunmi, Temidayo Oluwatosin Omotehinwa",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.111290"
+    },
+    {
+        "id": 31396,
+        "title": "RL-GCN: Traffic flow prediction based on graph convolution and reinforcement learning for smart cities",
+        "authors": "Hang Xing, An Chen, Xuan Zhang",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.displa.2023.102513"
+    },
+    {
+        "id": 31397,
+        "title": "Drone’s Objective Inference Using Policy Error Inverse Reinforcement Learning",
+        "authors": "Adolfo Perrusquía, Weisi Guo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3333551"
+    },
+    {
+        "id": 31398,
+        "title": "Behavior Analysis and Learning Outcomes Prediction Model Based on Blended Learning",
+        "authors": "Huiyan Ding, Yu Zhou",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icise60366.2023.00117"
+    },
+    {
+        "id": 31399,
+        "title": "PandoraRLO: Unveiling Protein-Ligand Interactions with Reinforcement Learning for Optimized Pose Prediction",
+        "authors": "Justin Jose, Ujjaini Alam, Divye Singh, Pooja Arora",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385676"
+    },
+    {
+        "id": 31400,
+        "title": "Show me What you want: Inverse Reinforcement Learning to Automatically Design Robot Swarms by Demonstration",
+        "authors": "Ilyes Gharbi, Jonas Kuckling, David Garzón Ramos, Mauro Birattari",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160947"
+    },
+    {
+        "id": 31401,
+        "title": "Inverse Reinforcement Learning with Attention-based Feature Extraction from Video Demonstrations",
+        "authors": "Weixin Zhang, Tao Lu, Yinghao Cai, Shuo Wang",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354995"
+    },
+    {
+        "id": 31402,
+        "title": "How do active road users act around autonomous vehicles? An inverse reinforcement learning approach",
+        "authors": "Abdul Razak Alozi, Mohamed Hussein",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.trc.2024.104572"
+    },
+    {
+        "id": 31403,
+        "title": "Machine Learning Prediction for Nanoparticles Behavior in Hydrocarbon Reservoirs",
+        "authors": "Mohamed F. El-Amin, Budoor Alwated",
+        "published": "2023-1-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lt58159.2023.10092310"
+    },
+    {
+        "id": 31404,
+        "title": "Identifying Reaction-Aware Driving Styles of Stochastic Model Predictive Controlled Vehicles by Inverse Reinforcement Learning",
+        "authors": "Ni Dang, Tao Shi, Zengjie Zhang, Wanxin Jin, Marion Leibold, Martin Buss",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422706"
+    },
+    {
+        "id": 31405,
+        "title": "Anomalous ride-hailing driver detection with deep transfer inverse reinforcement learning",
+        "authors": "Shan Liu, Zhengli Wang, Ya Zhang, Hai Yang",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.trc.2023.104466"
+    },
+    {
+        "id": 31406,
+        "title": "Adaptive Reward Shifting Based on Behavior Proximity for Offline Reinforcement Learning",
+        "authors": "Zhe Zhang, Xiaoyang Tan",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "One of the major challenges of the current offline reinforcement learning research is to deal with the distribution shift problem due to the change in state-action visitations for the new policy. To address this issue, we present a novel reward shifting-based method. Specifically, to regularize the behavior of the new policy at each state, we modify the reward to be received by the new policy by shifting it adaptively according to its proximity to the behavior policy, and apply the reward shifting along opposite directions for in-distribution actions and the ones not. In this way we are able to guide the learning procedure of the new policy itself by influencing the consequence of its actions explicitly, helping it to achieve a better balance between behavior constraints and policy improvement. Empirical results on the popular D4RL benchmarks show that the proposed method obtains competitive performance compared to the state-of-art baselines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/514"
+    },
+    {
+        "id": 31407,
+        "title": "GTP-Force: Game-Theoretic Trajectory Prediction through Distributed Reinforcement Learning",
+        "authors": "Negar Emami, Antonio Di Maio, Torsten Braun",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mass58611.2023.00036"
+    },
+    {
+        "id": 31408,
+        "title": "Ethereum Price Prediction Model Comparison Using HMM Models, HMM Pretrained and Custom Model Deep Reinforcement Learning and LSTM",
+        "authors": "Nour Ben Aouicha, Sarra Ayed",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4660098"
+    },
+    {
+        "id": 31409,
+        "title": "Emergent Resource Exchange and Tolerated Theft Behavior Using Multiagent Reinforcement Learning",
+        "authors": "Jack Garbus, Jordan Pollack",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "Abstract\nFor decades, the evolution of cooperation has piqued interest in numerous academic disciplines, such as game theory, economics, biology, and computer science. In this work, we demonstrate the emergence of a novel and effective resource exchange protocol formed by dropping and picking up resources in a foraging environment. This form of cooperation is made possible by the introduction of a campfire, which adds an extended period of congregation and downtime for agents to explore otherwise unlikely interactions. We find that the agents learn to avoid getting cheated by their exchange partners, but not always from a third party. We also observe the emergence of behavior analogous to tolerated theft, despite the lack of any punishment, combat, or larceny mechanism in the environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/artl_a_00423"
+    },
+    {
+        "id": 31410,
+        "title": "An Extended Inverse Reinforcement Learning Control For Target-Expert Systems With Different Parameters",
+        "authors": "Jin Lin, Yunjian Peng, Lei Zhang, Jinze Li",
+        "published": "2023-11-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ispce-asia60405.2023.10365777"
+    },
+    {
+        "id": 31411,
+        "title": "Research on Anthropomorphic Obstacle Avoidance Trajectory Planning for Adaptive Driving Scenarios Based on Inverse Reinforcement Learning Theory",
+        "authors": "Jian Wu, Yang Yan, Yulong Liu, Yahui Liu",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eng.2023.07.018"
+    },
+    {
+        "id": 31412,
+        "title": "Self-Supervised Reinforcement Learning for Proactive Prediction of Passive Intermodulation",
+        "authors": "Serene Banerjee, Pratyush Kiran Uppuluri, Rahul Sharma N, Subhadip Bandyopadhyay",
+        "published": "2023-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/comsnets56262.2023.10041311"
+    },
+    {
+        "id": 31413,
+        "title": "Integrated Hybrid Approaches for Stock Market Prediction with Deep Learning, Technical Analysis, and Reinforcement Learning",
+        "authors": "Quy Tran Van, Tram Nguyen Bao, Tu Pham Minh",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3628797.3629018"
+    },
+    {
+        "id": 31414,
+        "title": "A Framework for Human-Robot Teaming Performance Prediction: Reinforcement Learning and Eye Movement Analysis",
+        "authors": "Gustavo Martins Galvani, Soroush Korivand, Arash Ajoudani, Jiaqi Gong, Nader Jalili",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "Abstract\nIn modern manufacturing environments, mass customization demands a balance between automation and human involvement. Human performance is influenced by the task load, with high loads leading to stress and low loads leading to disengagement, both of which can negatively affect performance. Predicting human engagement and performance can allow for adjustments in the team’s actions, leading to optimal performance. This paper proposes a framework for predicting the performance of a human-robot team in a quality control task based on task load, engagement, and eye movement data. The proposed framework employs a computational pipeline and eye movement data to monitor task load. It uses the NASA TLX questionnaire to assess participants’ task load and reinforcement learning to derive task-specific weights based on their performance. Then, the eye movement data is used to classify performance. The framework is evaluated with data collected from 16 participants performing a quality control task with a collaborative robot, in two scenarios. The study found that the framework predicts human-robot team performance with an accuracy of 96.88%. It also explores the potential of replacing the physiological data with a wristband with eye gaze for performance prediction due to challenges to record the eye movement data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/imece2023-116636"
+    },
+    {
+        "id": 31415,
+        "title": "Intelligent Prediction of Network Security Situations based on Deep Reinforcement Learning Algorithm",
+        "authors": "Yan Lu, Yunxin Kuang, Qiufen Yang",
+        "published": "2024-1-4",
+        "citations": 0,
+        "abstract": "The limitations of traditional network security assessment methods characterized by manual definitions and measurements, data overload, poor performance, and non-negligible drawbacks are addressed in this research. A novel network security system employing a deep learning algorithm is proposed to overcome these challenges. The research unfolds in three key phases. First, a deep self-encoding model is developed to distinguish various network attacks effectively. Subsequently, the creation of missing measurement weights enhances pattern detection, even when dealing with a limited number of training samples. Finally, the model assesses and computes attack issues, assigns impact scores to each attack, and determines the overall network security value. Experimental results demonstrate that the deep auto encoder-based deep neural network (DAEDNN), in conjunction with the proposed unique oversampling weighting (UOSW) algorithm, significantly outperforms traditional methods such as decision trees (DT), support vector machines (SVM), and long short-term memory (LSTM) models. The F1 score of UOSW surpasses these models by approximately 2.77, 10.5, and 5.2, respectively. The deep self-encoding model employed in the proposed system offers superior accuracy and recall rates, leading to more precise and efficient measurement results.\n ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12694/scpe.v25i1.2329"
+    },
+    {
+        "id": 31416,
+        "title": "Game-Theoretic Inverse Reinforcement Learning: A Differential Pontryagin’s Maximum Principle Approach",
+        "authors": "Kun Cao, Lihua Xie",
+        "published": "2023-11",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3148376"
+    },
+    {
+        "id": 31417,
+        "title": "A Reinforcement Learning Based Grammatical Inference Algorithm Using Block-Based Delta Inverse Strategy",
+        "authors": "Farah Haneef, Muddassar Azam Sindhu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3242124"
+    },
+    {
+        "id": 31418,
+        "title": "Maximum entropy inverse reinforcement learning-based trajectory planning for autonomous driving",
+        "authors": "Puhao Zhang, Shumin Xie, XiaoYa Lv, Zuodong Zhong, Qing Li",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3026671"
+    },
+    {
+        "id": 31419,
+        "title": "Inverse Reinforcement Learning for Adversarial Apprentice Games",
+        "authors": "Bosen Lian, Wenqian Xue, Frank L. Lewis, Tianyou Chai",
+        "published": "2023-8",
+        "citations": 19,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3114612"
+    },
+    {
+        "id": 31420,
+        "title": "Heart Disease Prediction using Reinforcement Learning Technique",
+        "authors": "Kamepalli S L Prasanna, Nagendra Panini Challa, Jajam. Nagaraju",
+        "published": "2023-1-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaect57570.2023.10118232"
+    },
+    {
+        "id": 31421,
+        "title": "Imitation of piping warm-up operation and estimation of operational intention by inverse reinforcement learning",
+        "authors": "Yosuke Nakagawa, Hitoi Ono, Yusuke Hazui, Sachiyo Arai",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jprocont.2022.12.010"
+    },
+    {
+        "id": 31422,
+        "title": "Integration of Reinforcement Learning Based Behavior Planning With Sampling Based Motion Planning for Automated Driving",
+        "authors": "Marvin Klimke, Benjamin Völz, Michael Buchholz",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186736"
+    },
+    {
+        "id": 31423,
+        "title": "Learning behavior of hopping with robotic leg on particular height using model free reinforcement learning",
+        "authors": "Shiva Pandey, Avinash Bhashkar, Anuj Kumar Sharma",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0189079"
+    },
+    {
+        "id": 31424,
+        "title": "Deep reinforcement learning based spectrum prediction for bursty bands",
+        "authors": "Tao Peng, Chao Yang, Peiliang Zuo, Xinyue Wang, Rongrong Qian, Wenbo Wang",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/jcc.2023.00.035"
+    },
+    {
+        "id": 31425,
+        "title": "A Survey of the State-of-the-Art Reinforcement Learning-Based Techniques for Autonomous Vehicle Trajectory Prediction",
+        "authors": "Vibha Bharilya, Neetesh Kumar",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/elexcom58812.2023.10370504"
+    },
+    {
+        "id": 31426,
+        "title": "A Real-Time and Optimal Hypersonic Entry Guidance Method Using Inverse Reinforcement Learning",
+        "authors": "Linfeng Su, Jinbo Wang, Hongbo Chen",
+        "published": "2023-11-7",
+        "citations": 0,
+        "abstract": "The mission of hypersonic vehicles faces the problem of highly nonlinear dynamics and complex environments, which presents challenges to the intelligent level and real-time performance of onboard guidance algorithms. In this paper, inverse reinforcement learning is used to address the hypersonic entry guidance problem. The state-control sample pairs and state-rewards sample pairs obtained by interacting with hypersonic entry dynamics are used to train the neural network by applying the distributed proximal policy optimization method. To overcome the sparse reward problem in the hypersonic entry problem, a novel reward function combined with a sophisticated discriminator network is designed to generate dense optimal rewards continuously, which is the main contribution of this paper. The optimized guidance methodology can achieve good terminal accuracy and high success rates with a small number of trajectories as datasets while satisfying heating rate, overload, and dynamic pressure constraints. The proposed guidance method is employed for two typical hypersonic entry vehicles (Common Aero Vehicle-Hypersonic and Reusable Launch Vehicle) to demonstrate the feasibility and potential. Numerical simulation results validate the real-time performance and optimality of the proposed method and indicate its suitability for onboard applications in the hypersonic entry flight.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/aerospace10110948"
+    },
+    {
+        "id": 31427,
+        "title": "Inverse Reinforcement Learning-Based Fire-Control Command Calculation of an Unmanned Autonomous Helicopter Using Swarm Intelligence Demonstration",
+        "authors": "Haojie Zhu, Mou Chen, Zengliang Han, Mihai Lungu",
+        "published": "2023-3-20",
+        "citations": 1,
+        "abstract": "This paper concerns the fire-control command calculation (FCCC) of an unmanned autonomous helicopter (UAH). It determines the final effect of the UAH attack. Although many different FCCC methods have been proposed for finding optimal or near-optimal fire-control execution processes, most are either slow in calculational speed or low in attack precision. This paper proposes a novel inverse reinforcement learning (IRL) FCCC method to calculate the fire-control commands in real time without losing precision by considering wind disturbance. First, the adaptive step velocity-verlet iterative algorithm-based ballistic determination method is proposed for calculation of the impact point of the unguided projectile under wind disturbance. In addition, a swarm intelligence demonstration (SID) model is proposed to demonstrate teaching; this model is based on an improved particle swarm optimization (IPSO) algorithm. Benefiting from the global optimization capability of the IPSO algorithm, the SID model often leads to an exact solution. Furthermore, a reward function neural network (RFNN) is trained according to the SID model, and a reinforcement learning (RL) model using RFNN is used to generate the fire-control commands in real time. Finally, the simulation results verify the feasibility and effectiveness of the proposed FCCC method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/aerospace10030309"
+    },
+    {
+        "id": 31428,
+        "title": "A reinforcement learning-based transformed inverse model strategy for nonlinear process control",
+        "authors": "Debaprasad Dutta, Simant R. Upreti",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compchemeng.2023.108386"
+    },
+    {
+        "id": 31429,
+        "title": "Logic + Reinforcement Learning + Deep Learning: A Survey",
+        "authors": "Andreas Bueff, Vaishak Belle",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011746300003393"
+    },
+    {
+        "id": 31430,
+        "title": "Blood Glucose Prediction for Type-1 Diabetics using Deep Reinforcement Learning",
+        "authors": "Peter Domanski, Aritra Ray, Farshad Firouzi, Kyle Lafata, Krishnendu Chakrabarty, Dirk Pflüger",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdh60066.2023.00042"
+    },
+    {
+        "id": 31431,
+        "title": "Inverse reinforcement learning for identification of linear–quadratic zero-sum differential games",
+        "authors": "E. Martirosyan, M. Cao",
+        "published": "2023-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysconle.2022.105438"
+    },
+    {
+        "id": 31432,
+        "title": "Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications",
+        "authors": "Omey M. Manyar, Zachary McNulty, Stefanos Nikolaidis, Satyandra K. Gupta",
+        "published": "2023-5-29",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160687"
+    },
+    {
+        "id": 31433,
+        "title": "Neural scalarisation for multi-objective inverse reinforcement learning",
+        "authors": "Daiko Kishikawa, Sachiyo Arai",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/18824889.2023.2194234"
+    },
+    {
+        "id": 31434,
+        "title": "Development of Visual Smooth Pursuit Model Using Inverse Reinforcement Learning For Humanoid Robots",
+        "authors": "Hamad Ud Din, Wasif Muhammad, Nazam Siddique, Muhammad Jehanzeb Irshad, Ali Asghar, Muhammad Waqas Jabbar",
+        "published": "2023-3-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icepecc57281.2023.10209527"
+    },
+    {
+        "id": 31435,
+        "title": "Decision Making for Driving Agent in Traffic Simulation via Adversarial Inverse Reinforcement Learning",
+        "authors": "Naiting Zhong, Junyi Chen, Yining Ma, Wei Jiang",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10421936"
+    },
+    {
+        "id": 31436,
+        "title": "Selection of Inverse Kinematics Solution Type for Cooperative Robots and Singularity Avoidance Based on Reinforcement Learning",
+        "authors": "Daiki Kato, Naoki Maeda, Ayumu Takeuchi, Masataka Sekioka, Toshiki Hirogaki, Eiichi Aoyama",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "Abstract\nIn this study, we propose a method to avoid singularity by selecting solution types of inverse kinematics for a six-degree-of-freedom (6-DOF) manipulator based on reinforcement learning. A general 6-DOF manipulator has eight solution types of inverse kinematics for any position/posture of the end-effector. Owing to the complex structure of cooperative robots to prevent pinching during cooperative operations, inverse kinematics is often solved using numerical methods. Because the numerical solution depends on the initial values, it is difficult to select suitable solution types. According to the selection of the solution types, the robot may pass through a singularity, causing some joints to rotate rapidly. To avoid this, solution types must be selected considering the entire motion path of the robot. Therefore, we constructed Deep Q-Learning (DQN), a type of reinforcement learning, to select the solution types that minimize the angular velocity of each joint during the motion path. This was verified by a 6-DOF cooperative robot, where the robot was commanded to take a path through the singularity, and the solution types of inverse kinematics were selected by the DQN. Consequently, singularity was avoided by selecting suitable solution types, and the angular velocity was minimized.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-114868"
+    },
+    {
+        "id": 31437,
+        "title": "Deep Reinforcement Learning for Channel State Information Prediction in Internet of Vehicles",
+        "authors": "Xing Liu, Wei Yu, Cheng Qian, David Griffith, Nada Golmie",
+        "published": "2024-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccnc51664.2024.10454739"
+    },
+    {
+        "id": 31438,
+        "title": "Stock market prediction using reinforcement learning – A survey",
+        "authors": "Ganta Chamundeswari, Nerella Sameera, Suneetha Dwarapu, V. S. R. Pavan Kumar Neeli",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0158553"
+    },
+    {
+        "id": 31439,
+        "title": "Estimation of pedestrian-vehicle behavior using adversarial inverse reinforcement learning",
+        "authors": "Daichi Ogawa, Eiji Hato",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11361/journalcpij.58.1678"
+    },
+    {
+        "id": 31440,
+        "title": "Inverse design prediction of metasurface based on deep learning",
+        "authors": "Yaodong Ma, Xiaoqiang Chen, Yanwen Hu, Tingrong Zhang",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3010688"
+    },
+    {
+        "id": 31441,
+        "title": "Efficient Lane-changing Behavior Planning via Reinforcement Learning with Imitation Learning Initialization",
+        "authors": "Jiamin Shi, Tangyike Zhang, Junxiang Zhan, Shitao Chen, Jingmin Xin, Nanning Zheng",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186577"
+    },
+    {
+        "id": 31442,
+        "title": "Visual Explanation for Cooperative Behavior in Multi-Agent Reinforcement Learning",
+        "authors": "Hidenori Itaya, Tom Sagawa, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191563"
+    },
+    {
+        "id": 31443,
+        "title": "Combined Constraint on Behavior Cloning and Discriminator in Offline Reinforcement Learning",
+        "authors": "Shunya Kidera, Kosuke Shintani, Toi Tsuneda, Satoshi Yamane",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3361030"
+    },
+    {
+        "id": 31444,
+        "title": "Object-Location Prediction based on CIE Color Difference for Deep Reinforcement Learning",
+        "authors": "Kuan-Yi Li, Shu-Yen Lin",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcce59613.2023.10315341"
+    },
+    {
+        "id": 31445,
+        "title": "Analysis on quantum reinforcement learning algorithms for prediction of protein sequence",
+        "authors": "R. Kalpana, P. J. Sathishkumar, B. Shenbagavalli, S. Subburaj",
+        "published": "2024-1-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11082-023-06244-z"
+    },
+    {
+        "id": 31446,
+        "title": "An ensemble learning framework for click-through rate prediction based on a reinforcement learning algorithm with parameterized actions",
+        "authors": "Mengjuan Liu, Daiwei Zheng, Jiaxing Li, Zhengning Hu, Liu Liu, Yi Ding",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.111152"
+    },
+    {
+        "id": 31447,
+        "title": "Cooperative behavior of a heterogeneous robot team for planetary exploration using deep reinforcement learning",
+        "authors": "Andrew Barth, Ou Ma",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.actaastro.2023.11.014"
+    },
+    {
+        "id": 31448,
+        "title": "Co-optimization of Morphology and Behavior of Modular Robots via Hierarchical Deep Reinforcement Learning",
+        "authors": "Jieqiang Sun, Meibao Yao, Xueming Xiao, Zhibing Xie, Bo Zheng",
+        "published": "2023-7-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.096"
+    },
+    {
+        "id": 31449,
+        "title": "Deep Reinforcement Learning with Inverse Jacobian based Model-Free Path Planning for Deburring in Complex Industrial Environment",
+        "authors": "M. R. Rahul, Shital S. Chiddarwar",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10846-023-02030-x"
+    },
+    {
+        "id": 31450,
+        "title": "Inverse Reinforcement Learning and Gaussian Process Regression-based Real-Time Framework for Personalized Adaptive Cruise Control",
+        "authors": "Zhouqiao Zhao, Xishun Liao, Amr Abdelraouf, Kyungtae Han, Rohit Gupta, Matthew J. Barth, Guoyuan Wu",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422413"
+    },
+    {
+        "id": 31451,
+        "title": "Deep Reinforcement Learning: A Study of Reinforcement Learning with Neural Networks in Industrial Automation",
+        "authors": "Asiri Iroshan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4386667"
+    },
+    {
+        "id": 31452,
+        "title": "Improving the Performance of Backward Chained Behavior Trees that use Reinforcement Learning",
+        "authors": "Mart Kartasev, Justin Salér, Petter Ögren",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10342319"
+    },
+    {
+        "id": 31453,
+        "title": "Understanding e-bicycle overtaking strategy: insights from inverse reinforcement learning modelling",
+        "authors": "Lishengsa Yue, Mohamed Abdel-Aty, Mohamed H. Zaki, Ou Zheng, Yina Wu, Bo Yu",
+        "published": "2024-5-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/23249935.2023.2168506"
+    },
+    {
+        "id": 31454,
+        "title": "Characterizing Crowd Preferences on Stadium Facilities through Dynamic Inverse Reinforcement Learning",
+        "authors": "Yiwen Dong, Peide Huang, Hae Young Noh",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3600100.3626272"
+    },
+    {
+        "id": 31455,
+        "title": "A novel Congestion Control algorithm based on inverse reinforcement learning with parallel training",
+        "authors": "Pengcheng Luo, Yuan Liu, Zekun Wang, Jian Chu, Genke Yang",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.comnet.2023.110071"
+    },
+    {
+        "id": 31456,
+        "title": "E-learning Learning Behavior Evaluation and Prediction Method Based on Sentiment Analysis",
+        "authors": "Jiuting Yang, Juan Du",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14733/cadaps.2024.s22.236-250"
+    },
+    {
+        "id": 31457,
+        "title": "Advanced Prediction for Cyclic Bending Behavior of RC Columns Based on the Idealization of Reinforcement of Bond Properties",
+        "authors": "Peilun Shao, Gakuho Watanabe, Elfrido Elias Tita",
+        "published": "2023-5-23",
+        "citations": 1,
+        "abstract": "The bonding characteristics between steel bars and concrete in reinforced concrete (RC) structures are crucial for the prediction of load-bearing capacity for seismic design. Nevertheless, most previous studies on bond-slip performance focus on the bond strength based on the pull-out experiments, it is often overlooked that the effect on the failure modes of RC members and the deformation performance due to the bond characteristics. In this research, the effect of the diameter and its arrangement of the reinforcement of the RC column on the bond failure mode and load-bearing capacity based on the cyclic loading tests and the FE analysis are carried out. In the cyclic loading test, it was found that two RC columns with different diameters and reinforcement arrangements showed distinct load-bearing capacity, deformation performance, and failure mode. Despite those columns having the same longitudinal reinforcement ratios. In addition, by applying an advanced finite element analysis using a bond-slip model that induces splitting failure, we succeeded in reproducing the cyclic deformation behavior and local damage obtained in experiments with high accuracy. The proposed model brings in the advanced prediction of the seismic behavior of RC structures and the enhancement of seismic resistance of social infrastructure facilities to earthquake disasters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13116379"
+    },
+    {
+        "id": 31458,
+        "title": "Examining social reinforcement learning in social anxiety",
+        "authors": "Miranda L. Beltzer, Katharine E. Daniel, Alexander R. Daros, Bethany A. Teachman",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jbtep.2022.101810"
+    },
+    {
+        "id": 31459,
+        "title": "Reinforcement learning-based aggregation for robot swarms",
+        "authors": "Arash Sadeghi Amjadi, Cem Bilaloğlu, Ali Emre Turgut, Seongin Na, Erol Şahin, Tomáš Krajník, Farshad Arvin",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "Aggregation, the gathering of individuals into a single group as observed in animals such as birds, bees, and amoeba, is known to provide protection against predators or resistance to adverse environmental conditions for the whole. Cue-based aggregation, where environmental cues determine the location of aggregation, is known to be challenging when the swarm density is low. Here, we propose a novel aggregation method applicable to real robots in low-density swarms. Previously, Landmark-Based Aggregation (LBA) method had used odometric dead-reckoning coupled with visual landmarks and yielded better aggregation in low-density swarms. However, the method’s performance was affected adversely by odometry drift, jeopardizing its application in real-world scenarios. In this article, a novel Reinforcement Learning-based Aggregation method, RLA, is proposed to increase aggregation robustness, thus making aggregation possible for real robots in low-density swarm settings. Systematic experiments conducted in a kinematic-based simulator and on real robots have shown that the RLA method yielded larger aggregates, is more robust to odometry noise than the LBA method, and adapts better to environmental changes while not being sensitive to parameter tuning, making it better deployable under real-world conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10597123231202593"
+    },
+    {
+        "id": 31460,
+        "title": "Integrating state prediction into the Deep Reinforcement Learning for the Autoscaling of Core Network Functions",
+        "authors": "Yoichi Matsuo, Jatinder Singh, Shantanu Verma, Guillaume Fraysse",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/noms56928.2023.10154301"
+    },
+    {
+        "id": 31461,
+        "title": "Deep reinforcement learning‐based precise prediction model for <scp>Smart M‐Health</scp> system",
+        "authors": "Duraiswamy Jothinath Jagannath, Raveena Judie Dolly, James Dinesh Peter",
+        "published": "2023-9-8",
+        "citations": 1,
+        "abstract": "AbstractThe use of Android mobile phones and other wireless technology in the field of healthcare infers to mHealth (mobile health). Modern Science and technological developments have paved way for better and more sophisticated solutions towards Smart mHealth systems and preventive Smart Healthcare services for disease—treatment, surveillance, management of chronic disease and tracking epidemic outbreaks. Thus, the mHealth data can be collected from various end users, deposited in repository, perform analysis and suitable Smart Healthcare services can be made accessible to end users, anytime, anywhere, over the internet. This can be achieved by incorporating the methodologies of advanced Soft Computing methodologies, data communication, cloud storage and cloud computing, big data analysis, artificial intelligence, computer communication/networking and other engineering techniques. However, the analysis of such huge volumes of data and to provide precise Smart Healthcare services is a million‐dollar question. This research article exposes a Deep Reinforcement Learning model for precisely predicting the disease and offer precise Smart m‐Healthcare services to the end users. This research provides an intensive experimental analysis and investigation using synthetic health parameters that were simulated using various mHealth sensors. The dataset includes 15 varieties of mHealth metrics with a total dataset size of 285.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/exsy.13450"
+    },
+    {
+        "id": 31462,
+        "title": "Advancing spacecraft rendezvous and docking through safety reinforcement learning and ubiquitous learning principles",
+        "authors": "Kanta Prasad Sharma, Indradeep Kumar, Pavitar Parkash Singh, K. Anbazhagan, Hussain Mobarak Albarakati, Mohammed Wasim Bhatt, Avlokulov Anvar Ziyadullayevich, Arti Rana, Sivasankari S. A",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chb.2023.108110"
+    },
+    {
+        "id": 31463,
+        "title": "A Study on the Impact of Integrating Reinforcement Learning for Channel Prediction and Power Allocation Scheme in MISO-NOMA System",
+        "authors": "Mohamed Gaballa, Maysam Abbod, Ammar Aldallal",
+        "published": "2023-1-26",
+        "citations": 2,
+        "abstract": "In this study, the influence of adopting Reinforcement Learning (RL) to predict the channel parameters for user devices in a Power Domain Multi-Input Single-Output Non-Orthogonal Multiple Access (MISO-NOMA) system is inspected. In the channel prediction-based RL approach, the Q-learning algorithm is developed and incorporated into the NOMA system so that the developed Q-model can be employed to predict the channel coefficients for every user device. The purpose of adopting the developed Q-learning procedure is to maximize the received downlink sum-rate and decrease the estimation loss. To satisfy this aim, the developed Q-algorithm is initialized using different channel statistics and then the algorithm is updated based on the interaction with the environment in order to approximate the channel coefficients for each device. The predicted parameters are utilized at the receiver side to recover the desired data. Furthermore, based on maximizing the sum-rate of the examined user devices, the power factors for each user can be deduced analytically to allocate the optimal power factor for every user device in the system. In addition, this work inspects how the channel prediction based on the developed Q-learning model, and the power allocation policy, can both be incorporated for the purpose of multiuser recognition in the examined MISO-NOMA system. Simulation results, based on several performance metrics, have demonstrated that the developed Q-learning algorithm can be a competitive algorithm for channel estimation when compared to different benchmark schemes such as deep learning-based long short-term memory (LSTM), RL based actor-critic algorithm, RL based state-action-reward-state-action (SARSA) algorithm, and standard channel estimation scheme based on minimum mean square error procedure.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23031383"
+    },
+    {
+        "id": 31464,
+        "title": "Sample Efficient Deep Reinforcement Learning With Online State Abstraction and Causal Transformer Model Prediction",
+        "authors": "Yixing Lan, Xin Xu, Qiang Fang, Jianye Hao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3296642"
+    },
+    {
+        "id": 31465,
+        "title": "Supplemental Material for Partial Reinforcement Extinction and Omission Effects in the Elimination and Recovery of Discriminated Operant Behavior",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/xan0000354.supp"
+    },
+    {
+        "id": 31466,
+        "title": "Data-Driven Inverse Reinforcement Learning Control for Linear Multiplayer Games",
+        "authors": "Bosen Lian, Vrushabh S. Donge, Frank L. Lewis, Tianyou Chai, Ali Davoudi",
+        "published": "2024-2",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3186229"
+    },
+    {
+        "id": 31467,
+        "title": "A hybrid stock market prediction model based on GNG and reinforcement learning",
+        "authors": "Yongming Wu, Zijun Fu, ·Xiaoxuan Liu, ·Yuan Bing",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120474"
+    },
+    {
+        "id": 31468,
+        "title": "Active Exploration Deep Reinforcement Learning for Continuous Action Space with Forward Prediction",
+        "authors": "Dongfang Zhao, Xu Huanshi, Zhang Xun",
+        "published": "2024-1-8",
+        "citations": 1,
+        "abstract": "AbstractThe application of reinforcement learning (RL) to the field of autonomous robotics has high requirements about sample efficiency, since the agent expends for interaction with the environment. One method for sample efficiency is to extract knowledge from existing samples and used to exploration. Typical RL algorithms achieve exploration using task-specific knowledge or adding exploration noise. These methods are limited to current policy improvement level and lack of long-term planning. We propose a novel active exploration deep RL algorithm for the continuous action space problem named active exploration deep reinforcement learning (AEDRL). Our method uses the Gaussian process to model dynamic model, enabling the probability description of prediction sample. Action selection is formulated as the solution of the optimization problem. Thus, the optimization objective is specifically designed for selecting samples that can minimize the uncertainty of the dynamic model. Active exploration is achieved through long-term optimized action selection. This long-term considered action exploration method is more guidance for learning. Enable intelligent agents to explore more interesting action spaces. The proposed AEDRL algorithm is evaluated on several robotic control task including classic pendulum problem and five complex articulated robots. The AEDRL can learn a controller using fewer episodes and demonstrates performance and sample efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s44196-023-00389-1"
+    },
+    {
+        "id": 31469,
+        "title": "Dynamic QoS Prediction With Intelligent Route Estimation Via Inverse Reinforcement Learning",
+        "authors": "Jiahui Li, Hao Wu, Qiang He, Yiji Zhao, Xin Wang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tsc.2023.3342481"
+    },
+    {
+        "id": 31470,
+        "title": "Open RAN LSTM Traffic Prediction and Slice Management Using Deep Reinforcement Learning",
+        "authors": "Fatemeh Lotfi, Fatemeh Afghah",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieeeconf59524.2023.10476972"
+    },
+    {
+        "id": 31471,
+        "title": "Research on distributed photovoltaic power prediction method based on reinforcement learning",
+        "authors": "Chengjing Wang, Haitao Zhang, Zhenxing Chen",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe distributed photovoltaic power prediction is of great significance for reasonably adjusting and optimizing the power generation plan in the dispatching system. When using machine learning algorithms to construct photovoltaic power prediction models, there are usually problems such as poor prediction accuracy under default hyperparameters and high cost of human experience parameter adjustment experiments. Therefore, a reinforcement learning algorithm based on the long short-term memory network model (SARSA-LSTM) is proposed. Firstly, the reinforcement learning SARSA algorithm is used to tune the hyperparameters of LSTM automatically. Then, the optimal hyperparameter combination is used for regression prediction of photovoltaic power. The experiment compared the model results under default hyperparameters, Bayesian optimization, and grid search optimization hyperparameters. The results showed that the SARSA-LSTM proposed in this paper has better training efficiency and prediction performance compared to other models, which can meet the needs of practical prediction applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2728/1/012035"
+    },
+    {
+        "id": 31472,
+        "title": "Deep Reinforcement Learning Car-Following Control Based on Multivehicle Motion Prediction",
+        "authors": "Tao Wang, Dayi Qu, Kedong Wang, Shouchen Dai",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "Reinforcement learning (RL)–based car-following (CF) control strategies have attracted significant attention in academia, emerging as a prominent research topic in recent years. Most of these control strategies focus solely on the motion status of the immediately preceding vehicle. However, with the development of vehicle-to-vehicle (V2V) communication technologies, intelligent vehicles such as connected autonomous vehicles (CAVs) can gather information about surrounding vehicles. Therefore, this study proposes an RL-based CF control strategy that takes multivehicle scenarios into account. First, the trajectories of two preceding vehicles and one following vehicle relative to the subject vehicle (SV) are extracted from a highD dataset to construct the environment. Then the twin-delayed deep deterministic policy gradient (TD3) algorithm is implemented as the control strategy for the agent. Furthermore, a sequence-to-sequence (seq2seq) module is developed to predict the uncertain motion statuses of surrounding vehicles. Once integrated into the RL framework, this module enables the agent to account for dynamic changes in the traffic environment, enhancing its robustness. Finally, the performance of the CF control strategy is validated both in the highD dataset and in two traffic perturbation scenarios. In the highD dataset, the TD3-based prediction CF control strategy outperforms standard RL algorithms in terms of convergence speed and rewards. Its performance also surpasses that of human drivers in safety, efficiency, comfort, and fuel consumption. In traffic perturbation scenarios, the performance of the proposed CF control strategy is compared with the model predictive controller (MPC). The results show that the TD3-based prediction CF control strategy effectively mitigates undesired traffic waves caused by the perturbations from the head vehicle. Simultaneously, it maintains the desired traffic state and consistently ensures a stable and efficient traffic flow.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13061133"
+    },
+    {
+        "id": 31473,
+        "title": "Deep Reinforcement Learning Framework with Representation Learning for Concurrent Negotiation",
+        "authors": "Ryoga Miyajima, Katsuhide Fujita",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012336000003636"
+    },
+    {
+        "id": 31474,
+        "title": "Conditional Predictive Behavior Planning With Inverse Reinforcement Learning for Human-Like Autonomous Driving",
+        "authors": "Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv",
+        "published": "2023-7",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tits.2023.3254579"
+    },
+    {
+        "id": 31475,
+        "title": "RLAR: A Reinforcement Learning Abductive Reasoner",
+        "authors": "Mostafa ElHayani",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012425000003636"
+    },
+    {
+        "id": 31476,
+        "title": "Estimating Link Flows in Road Networks With Synthetic Trajectory Data Generation: Inverse Reinforcement Learning Approach",
+        "authors": "Miner Zhong, Jiwon Kim, Zuduo Zheng",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ojits.2022.3233904"
+    },
+    {
+        "id": 31477,
+        "title": "Inverse design of metal–organic frameworks for direct air capture of CO<sub>2</sub><i>via</i> deep reinforcement learning",
+        "authors": "Hyunsoo Park, Sauradeep Majumdar, Xiaoqi Zhang, Jihan Kim, Berend Smit",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "A reinforcement learning framework enables the design and discovery of novel metal–organic frameworks (MOFs) for direct air capture of CO2 (DAC) in terms of CO2 heat of adsorption and CO2/H2O selectivity.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1039/d4dd00010b"
+    },
+    {
+        "id": 31478,
+        "title": "Meta-IRLSOT++: A meta-inverse reinforcement learning method for fast adaptation of trajectory prediction networks",
+        "authors": "Biao Yang, Yanan Lu, Rui Wan, Hongyu Hu, Changchun Yang, Rongrong Ni",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122499"
+    },
+    {
+        "id": 31479,
+        "title": "Simulation of Vehicle Interaction Behavior in Merging Scenarios: A Deep Maximum Entropy-Inverse Reinforcement Learning Method Combined With Game Theory",
+        "authors": "Wenli Li, Fanke Qiu, Lingxi Li, Yinan Zhang, Kan Wang",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2023.3323138"
+    },
+    {
+        "id": 31480,
+        "title": "Behavior Estimation from Multi-Source Data for Offline Reinforcement Learning",
+        "authors": "Guoxi Zhang, Hisashi Kashima",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "Offline reinforcement learning (RL) have received rising interest due to its appealing data efficiency. The present study addresses behavior estimation, a task that aims at estimating the data-generating policy. In particular, this work considers a scenario where data are collected from multiple sources. Neglecting data heterogeneity, existing approaches cannot provide good estimates and impede policy learning. To overcome this drawback, the present study proposes a latent variable model and a model-learning algorithm to infer a set of policies from data, which allows an agent to use as behavior policy the policy that best describes a particular trajectory. To illustrate the benefit of such a fine-grained characterization for multi-source data, this work showcases how the proposed model can be incorporated into an existing offline RL algorithm. Lastly, with extensive empirical evaluation this work confirms the risks of neglecting data heterogeneity and the efficacy of the proposed model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i9.26326"
+    },
+    {
+        "id": 31481,
+        "title": "Student Behavior Simulation in English Online Education Based on Reinforcement Learning",
+        "authors": " Wenjing Wang",
+        "published": "2023-11-27",
+        "citations": 0,
+        "abstract": "In class, every student's action is not the same. In this era, most courses are taken online; tracking and identifying students’ behavior is a significant challenge, especially in language classes (English). In this study, Student Behaviors’ Simulation-Based on Reinforcement Learning Framework (SBS–BRLF) has been proposed to track and identify students’ online class behavior. The simulation model is generated with various trained sets of behavior that are categorized as positive and negative with Reinforcement Learning (RL). Reinforcement learning (RL) is a field of machine learning dealing with how intelligent agents act in an environment for cumulative rewards. With a web camera and microphone, the students are tracked in the simulation model, and collected data is executed with RL’s aid. If the action is assessed as good, the pupil is praised, or given a warning three times, and then, if repeated, suspended for a day. Hence, the pupil is monitored easily without complications. The research and comparative analysis of the proposed and the current framework have proved that SBSBRLF works efficiently and accurately with the behavioral rate of 93.2%, the performance rate of 96%, supervision rate of 92%, reliability rate of 89.7 % for students, and a higher action and reward acceptance rate of 89.9 %. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3991/ijim.v17i22.45303"
+    },
+    {
+        "id": 31482,
+        "title": "Generative inverse reinforcement learning for learning 2-opt heuristics without extrinsic rewards in routing problems",
+        "authors": "Qi Wang, Yongsheng Hao, Jiawei Zhang",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jksuci.2023.101787"
+    },
+    {
+        "id": 31483,
+        "title": "State-space Model Based Inverse Reinforcement Learning for Reward Function Estimation in Brain-machine Interfaces",
+        "authors": "Jieyuan Tan, Xiang Zhang, Shenghui Wu, Yiwen Wang",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/embc40787.2023.10340953"
+    },
+    {
+        "id": 31484,
+        "title": "Inverse design of intermediate band solar cell via a joint drift-diffusion simulator and deep reinforcement learning scheme",
+        "authors": "Kodai Shiba, Naoya Miyashita, Yoshitaka Okada, Tomah Sogabe",
+        "published": "2023-8-1",
+        "citations": 1,
+        "abstract": "Abstract\nIn this work, we developed an efficient inverse design approach for optimal intermediate band solar cells (IBSC) device design given a target performance by using a joint drift-diffusion simulator and deep reinforcement learning scheme. The drift-diffusion simulator for IBSC simulation was constructed by using the semiconductor module and wave optics module of COMSOL MultiPhysics®. The deep deterministic policy gradient (DDPG) algorithm was chosen as the learning algorithm to optimize the specified device structure. A GaAs quantum well-embedded \n\n\n\n\nGaAs\n/\n\nAl\n0.3\n\n\nGa\n0.7\n\nAs\n\n\n IBSC was used as the test candidate to verify the performance of the DDPG-based inverse design approach. A maximum efficiency of \n\n\n\n\nη\n=\n33.42\n%\n\n\n was reached for the device with optimal structure parameters searched by the DDPG agent, which exceeds the target efficiency of 30%. The subsequent optical analysis revealed that the electric field enhancement due to light absorption at the IB region with a wavelength between 450 nm and 600 nm is mainly contributing to the significantly increased short-circuit current for the optimized device. Meanwhile, a parameters correlation with target conversion efficiency evaluated by topological data analysis successfully identified all the positive and negative parameters with respect to the target parameter, indicating the physical soundness of the optimized structure parameters. Our work presented here demonstrates that a well-trained AI agent can fulfill the target efficiency by searching the optimal parameters for solar cell devices. The AI-based inverse design approach shows promising potential to serve as an efficient device design tool by greatly reducing the number of trial-and-error experiment demonstrations and replacing laborious human-guided device design workload.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35848/1347-4065/acd34f"
+    },
+    {
+        "id": 31485,
+        "title": "An Incremental Inverse Reinforcement Learning Approach for Motion Planning with Separated Path and Velocity Preferences",
+        "authors": "Armin Avaei, Linda van der Spaa, Luka Peternel, Jens Kober",
+        "published": "2023-4-20",
+        "citations": 2,
+        "abstract": "Humans often demonstrate diverse behaviors due to their personal preferences, for instance, related to their individual execution style or personal margin for safety. In this paper, we consider the problem of integrating both path and velocity preferences into trajectory planning for robotic manipulators. We first learn reward functions that represent the user path and velocity preferences from kinesthetic demonstration. We then optimize the trajectory in two steps, first the path and then the velocity, to produce trajectories that adhere to both task requirements and user preferences. We design a set of parameterized features that capture the fundamental preferences in a pick-and-place type of object transportation task, both in the shape and timing of the motion. We demonstrate that our method is capable of generalizing such preferences to new scenarios. We implement our algorithm on a Franka Emika 7-DoF robot arm and validate the functionality and flexibility of our approach in a user study. The results show that non-expert users are able to teach the robot their preferences with just a few iterations of feedback.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12020061"
+    },
+    {
+        "id": 31486,
+        "title": "An Inverse Reinforcement Learning Method to Infer Reward Function of Intelligent Jammer",
+        "authors": "Youlin Fan, Bo Jiu, Wenqiang Pu, Kang Li, Yu Zhang, Hongwei Liu",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/radar54928.2023.10371195"
+    },
+    {
+        "id": 31487,
+        "title": "AdaBoost-Bagging deep inverse reinforcement learning for autonomous taxi cruising route and speed planning",
+        "authors": "Shan Liu, Ya Zhang, Zhengli Wang, Shiyi Gu",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.tre.2023.103232"
+    },
+    {
+        "id": 31488,
+        "title": "Optimizing Drivers’ Revenue Efficiency for Ride-On-Demand Services: A Reinforcement Learning Approach with Dynamic Price Prediction",
+        "authors": "Baoying Deng, Suiming Guo, Chao Chen",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10448741"
+    },
+    {
+        "id": 31489,
+        "title": "Identifying Coordination in a Cognitive Radar Network - A Multi-Objective Inverse Reinforcement Learning Approach",
+        "authors": "Luke Snow, Vikram Krishnamurthy, Brian M. Sadler",
+        "published": "2023-6-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096376"
+    },
+    {
+        "id": 31490,
+        "title": "Meta-Inverse Reinforcement Learning for Mean Field Games via Probabilistic Context Variables",
+        "authors": "Yang Chen, Xiao Lin, Bo Yan, Libo Zhang, Jiamou Liu, Neset Özkan Tan, Michael Witbrock",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Designing suitable reward functions for numerous interacting intelligent agents is challenging in real-world applications. Inverse reinforcement learning (IRL) in mean field games (MFGs) offers a practical framework to infer reward functions from expert demonstrations. While promising, the assumption of agent homogeneity limits the capability of existing methods to handle demonstrations with heterogeneous and unknown objectives, which are common in practice. To this end, we propose a deep latent variable MFG model and an associated IRL method. Critically, our method can infer rewards from different yet structurally similar tasks without prior knowledge about underlying contexts or modifying the MFG model itself. Our experiments, conducted on simulated scenarios and a real-world spatial taxi-ride pricing problem, demonstrate the superiority of our approach over state-of-the-art IRL methods in MFGs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i10.29021"
+    },
+    {
+        "id": 31491,
+        "title": "A Reinforcement Learning-Based Multimodal Scenario Hazardous Behavior Recognition Method",
+        "authors": "Di Sun, Yanjing Li, Yuexia Han",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcistudies.2023.10053639"
+    },
+    {
+        "id": 31492,
+        "title": "QLDTI: A Novel Reinforcement Learning-based Prediction Model for Drug-Target Interaction",
+        "authors": "Jie Gao, Qiming Fu, Jiacheng Sun, Yunzhe Wang, Youbing Xia, You Lu, Hongjie Wu, Jianping Chen",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "\nBackground:\nPredicting drug-target interaction (DTI) plays a crucial role in drug research\nand development. More and more researchers pay attention to the problem of developing more powerful\nprediction methods. Traditional DTI prediction methods are basically realized by biochemical experiments,\nwhich are time-consuming, risky, and costly. Nowadays, DTI prediction is often solved by\nusing a single information source and a single model, or by combining some models, but the prediction\nresults are still not accurate enough.\n\n\nObjective:\nThe study aimed to utilize existing data and machine learning models to integrate heterogeneous\ndata sources and different models, further improving the accuracy of DTI prediction.\n\n\nMethods:\nThis paper has proposed a novel prediction method based on reinforcement learning, called\nQLDTI (predicting drug-target interaction based on Q-learning), which can be mainly divided into\ntwo parts: data fusion and model fusion. Firstly, it fuses the drug and target similarity matrices calculated\nby different calculation methods through Q-learning. Secondly, the new similarity matrix is inputted\ninto five models, NRLMF, CMF, BLM-NII, NetLapRLS, and WNN-GIP, for further training.\nThen, all sub-model weights are continuously optimized again by Q-learning, which can be used to\nlinearly weight all sub-model prediction results to output the final prediction result.\n\n\nResults:\nQLDTI achieved AUC accuracy of 99.04%, 99.12%, 98.28%, and 98.35% on E, NR, IC, and\nGPCR datasets, respectively. Compared to the existing five models NRLMF, CMF, BLM-NII,\nNetLapRLS, and WNN-GIP, the QLDTI method has achieved better results on four benchmark datasets\nof E, NR, IC, and GPCR.\n\n\nConclusion:\nData fusion and model fusion have been proven effective for DTI prediction, further improving\nthe prediction accuracy of DTI.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/0115748936264731230928112936"
+    },
+    {
+        "id": 31493,
+        "title": "Outperforming Cryptocurrency Price Prediction Using Deep Reinforcement Learning Approach",
+        "authors": "P V R Subba Rao, B Natarajan, R Bhuvaneswari, Vidyabharathi Dakshinamurthi, Oviya I R, Syed Husain",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccis60361.2023.10425123"
+    },
+    {
+        "id": 31494,
+        "title": "PARouting: Prediction-supported adaptive routing protocol for FANETs with deep reinforcement learning",
+        "authors": "Cunzhuang Liu, Yixuan Wang, Qi Wang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijin.2023.05.002"
+    },
+    {
+        "id": 31495,
+        "title": "Design of Hyperparameter Tuned Deep Reinforcement Learning Based Prediction Model for Financial Crisis",
+        "authors": "Mohammed Ayad Alkhafaji, S. Abdul Ameer, Ahmed Hussien Alawadi, Haider Sharif",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiceta57613.2023.10351362"
+    },
+    {
+        "id": 31496,
+        "title": "Deep Reinforcement Learning with Pedestrian Trajectory Prediction Model for Service Robot Navigation in Crowded Environments",
+        "authors": "Shih-Hao Wang, Yu-Hsiung Wu, Tzuu-Hseng S. Li",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aris59192.2023.10268571"
+    },
+    {
+        "id": 31497,
+        "title": "A Probabilistic Method for Behavior Prediction of Intelligent and Connected Vehicles in Freeway",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/autml.2023.040303"
+    },
+    {
+        "id": 31498,
+        "title": "Customer Behavior Prediction using Deep Learning Techniques for Online Purchasing",
+        "authors": " Nisha, Ajay Shanker Singh",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/inocon57975.2023.10101102"
+    },
+    {
+        "id": 31499,
+        "title": "Deep Reinforcement Learning with Modified Reward Function for Crop Yield Prediction",
+        "authors": "Nagendar Yamsani, R. Vijayarangan, V. Thirumurugan, Ghazi Mohamad Ramadan, Hassan M. Al-Jawahry",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aikiie60097.2023.10390279"
+    },
+    {
+        "id": 31500,
+        "title": "A multi-factor driven spatiotemporal wind power prediction model based on ensemble deep graph attention reinforcement learning networks",
+        "authors": "Yu Chengqing, Yan Guangxi, Yu Chengming, Zhang Yu, Mi Xiwei",
+        "published": "2023-1",
+        "citations": 42,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2022.126034"
+    },
+    {
+        "id": 31501,
+        "title": "Prediction model of students' learning behavior on learning effect in online live class based on machine learning algorithm",
+        "authors": "Ling Peng, Bangwen Jeang",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2669155"
+    },
+    {
+        "id": 31502,
+        "title": "A reinforcement learning approach to explore the role of social expectations in altruistic behavior",
+        "authors": "Rosendo Castañón, Fco. Alberto Campos, José Villar, Angel Sánchez",
+        "published": "2023-1-31",
+        "citations": 0,
+        "abstract": "AbstractWhile altruism has been studied from a variety of standpoints, none of them has proven sufficient to explain the richness of nuances detected in experimentally observed altruistic behavior. On the other hand, the recent success of behavioral economics in linking expectation formation to key behaviors in complex societies hints to social expectations having a key role in the emergence of altruism. This paper proposes an agent-based model based upon the Bush–Mosteller reinforcement learning algorithm in which agents, subject to stimuli derived from empirical and normative expectations, update their aspirations (and, consequently, their future cooperative behavior) after playing successive rounds of the Dictator Game. The results of the model are compared with experimental results. Such comparison suggests that a stimuli model based on empirical and normative expectations, such as the one presented in this work, has considerable potential for capturing the cognitive-behavioral processes that shape decision-making in contexts where cooperative behavior is relevant.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-28659-0"
+    },
+    {
+        "id": 31503,
+        "title": "Double-edged sword role of reinforcement learning based decision-makings on vaccination behavior",
+        "authors": "Jia-Qian Kan, Feng Zhang, Hai-Feng Zhang",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "Pre-emptive vaccination has been proven to be the most effective measure to control influenza outbreaks. However, when vaccination behavior is voluntary, individuals may face the vaccination dilemma owing to the two sides of vaccines. In view of this, many researchers began to use evolutionary game theory to model the vaccination decisions of individuals. Many existing models assume that individuals in networks use the Fermi function based strategy to update their vaccination decisions. As we know, human beings have strong learning capability and they may continuously search for the optimal strategy based on the surrounding environments. Hence, it is reasonable to use the reinforcement learning (RL) strategy to reflect the vaccination decisions of individuals. To this end, we here explore a mixed updating strategy for the vaccination decisions, specifically, some individuals called intelligent agents update their vaccination decisions based on the RL strategy, and the other individuals called regular agents update their decisions based on the Fermi function. We then investigate the impact of RL strategy on the vaccination behavior and the epidemic dynamics. Through extensive experiments, we find that the RL strategy plays a double-edged sword role: when the vaccination cost is not so high, more individuals are willing to choose vaccination if more individuals adopt the RL strategy, leading to the significant suppression of epidemics. On the contrary, when the vaccination cost is extremely high, the vaccination coverage is dramatically reduced, inducing the outbreak of the epidemic. We also analyze the underlying reasons for the double-edged sword role of the RL strategy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fphy.2023.1320255"
+    },
+    {
+        "id": 31504,
+        "title": "Modeling Interaction-Aware Driving Behavior using Graph-Based Representations and Multi-Agent Reinforcement Learning",
+        "authors": "Fabian Konstantinidis, Moritz Sackmann, Ulrich Hofmann, Christoph Stiller",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422230"
+    }
+]

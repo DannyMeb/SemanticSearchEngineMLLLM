@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 13305,
+        "title": "LEARNING THE STRUCTURE OF BAYESIAN NETWORKS FROM INCOMPLETE DATA USING A MIXTURE MODEL",
+        "authors": "Issam Salman, Jiří Vomlel",
+        "published": "2023-4-20",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31449/inf.v47i1.4497"
+    },
+    {
+        "id": 13306,
+        "title": "Bayesian Structure Learning and Sampling of Bayesian Networks with the <i>R</i> Package <b>BiDAG</b>",
+        "authors": "Polina Suter, Jack Kuipers, Giusi Moffa, Niko Beerenwinkel",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18637/jss.v105.i09"
+    },
+    {
+        "id": 13307,
+        "title": "An improved hybrid structure learning strategy for Bayesian networks based on ensemble learning",
+        "authors": "Wenlong Gao, Zhimei Zeng, Xiaojie Ma, Yongsong Ke, Minqian Zhi",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "In the application of Bayesian networks to solve practical problems, it is likely to encounter the situation that the data set is expensive and difficult to obtain in large quantities and the small data set is easy to cause the inaccuracy of Bayesian network (BN) scoring functions, which affects the BN optimization results. Therefore, how to better learn Bayesian network structures under a small data set is an important problem we need to pay attention to and solve. This paper introduces the idea of parallel ensemble learning and proposes a new hybrid Bayesian network structure learning algorithm. The algorithm adopts the elite-based structure learner using genetic algorithm (ESL-GA) as the base learner. Firstly, the adjacency matrices of the network structures learned by ESL-GA are weighted and averaged. Then, according to the preset threshold, the edges between variables with weak dependence are filtered to obtain a fusion matrix. Finally, the fusion matrix is modified as the adjacency matrix of the integrated Bayesian network so as to obtain the final Bayesian network structure. Comparative experiments on the standard Bayesian network data sets show that the accuracy and reliability of the proposed algorithm are significantly better than other algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/ida-226818"
+    },
+    {
+        "id": 13308,
+        "title": "Being Bayesian about learning Gaussian Bayesian networks from incomplete data",
+        "authors": "Marco Grzegorczyk",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijar.2023.108954"
+    },
+    {
+        "id": 13309,
+        "title": "Learning Bayesian Networks: A Copula Approach for Mixed-Type Data",
+        "authors": "Federico Castelletti",
+        "published": "2024-4-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11336-024-09969-2"
+    },
+    {
+        "id": 13310,
+        "title": "Bayesian DivideMix++ for Enhanced Learning with Noisy Labels",
+        "authors": "Bhalaji Nagarajan, Ricardo Marques, Eduardo Aguilar, Petia Radeva",
+        "published": "2024-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106122"
+    },
+    {
+        "id": 13311,
+        "title": "The dual PC algorithm and the role of Gaussianity for structure learning of Bayesian networks",
+        "authors": "Enrico Giudice, Jack Kuipers, Giusi Moffa",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijar.2023.108975"
+    },
+    {
+        "id": 13312,
+        "title": "A Comparative Evaluation of Bayesian Networks Structure Learning Using Falcon Optimization Algorithm",
+        "authors": "Hoshang Qasim Awla, Shahab Wahhab Kareem, Amin Salih Mohammed",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9781/ijimai.2023.01.004"
+    },
+    {
+        "id": 13313,
+        "title": "LSevoBN: a structure learning algorithm for large Bayesian networks",
+        "authors": "Yury Kaminsky, Irina Deeva",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3596346"
+    },
+    {
+        "id": 13314,
+        "title": "Reliability Analysis of Computer Communication Networks Taking into Account Bayesian Network Structure Learning Algorithm",
+        "authors": "Bixia Wu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4108/eai.17-11-2023.2342616"
+    },
+    {
+        "id": 13315,
+        "title": "Adapting Is Difficult! Introducing a Generic Adaptive Learning Framework for Learner Modeling and Task Recommendation Based on Dynamic Bayesian Networks",
+        "authors": "Florian Gnadlinger, André Selmanagić, Katharina Simbeck, Simone Kriglstein",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011964700003470"
+    },
+    {
+        "id": 13316,
+        "title": "Bayesian Generative Modelling of Student Results in Course Networks",
+        "authors": "Marcel R. Haas, Colin Caprani, Benji Van Beurden",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "We present an innovative modelling technique that simultaneously constrains student performance, course difficulty, and the sensitivity with which a course can differentiate between students by means of grades. Grade lists are the only necessary ingredient. Networks of courses will be constructed where the edges are populations of students that took both connected course nodes. Using idealized experiments and two real-world data sets, we show that the model, even though simple in its set-up, can constrain the properties of courses very well, as long as some basic requirements in the data set are met: (1) significant overlap in student populations, and thus information exchange through the network; (2) non-zero variance in the grades for a given course; and (3) some correlation between grades for different courses. The model can then be used to evaluate a curriculum, a course, or even subsets of students for a very wide variety of applications, ranging from program accreditation to exam fraud detection. We publicly release the code with examples that fully recreate the results presented here.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18608/jla.2023.7957"
+    },
+    {
+        "id": 13317,
+        "title": "Bayesian-Learning-Based Diffusion Least Mean Square Algorithms Over Networks",
+        "authors": "Fuyi Huang, Sheng Zhang, Wei Xing Zheng",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3266402"
+    },
+    {
+        "id": 13318,
+        "title": "Robust Bayesian Abstraction of Neural Networks",
+        "authors": "Amany Alshareef, Nicolas Berthier, Sven Schewe, Xiaowei Huang",
+        "published": "2023-7-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmlc58545.2023.10327954"
+    },
+    {
+        "id": 13319,
+        "title": "Comparing Active Learning Performance Driven by Gaussian Processes or Bayesian Neural Networks for Constrained Trajectory Exploration",
+        "authors": "Frances Zhu",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-4720"
+    },
+    {
+        "id": 13320,
+        "title": "Bayesian Sharpness-Aware Prompt Tuning for Cross-Domain Few-shot Learning",
+        "authors": "Shuo Fan, Liansheng Zhuang, Aodi Li",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191224"
+    },
+    {
+        "id": 13321,
+        "title": "Bayesian Network Structure Learning Algorithm Combining Improved Dragonfly Optimization",
+        "authors": "Dongmei Ji, Zheng Sun",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3308199"
+    },
+    {
+        "id": 13322,
+        "title": "Fast &amp; Efficient Learning of Bayesian Networks from Data: Knowledge Discovery and Causality",
+        "authors": "Sein Minn, Fu Shunkai",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdmw60847.2023.00128"
+    },
+    {
+        "id": 13323,
+        "title": "Deep Learning for Marginal Bayesian Posterior Inference with Recurrent Neural Networks",
+        "authors": "Thayer Fisher, Alex Luedtke, Marco Carone, Noah Simon",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5705/ss.202020.0348"
+    },
+    {
+        "id": 13324,
+        "title": "Retracted: Research on Moral Education Function of Music Art in College Students Based on Bayesian Learning Algorithm",
+        "authors": "",
+        "published": "2023-3-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9850121"
+    },
+    {
+        "id": 13325,
+        "title": "Can Data and Machine Learning Change the Future of Basic Income Models? A Bayesian Belief Networks Approach",
+        "authors": "Hamed Khalili",
+        "published": "2024-1-23",
+        "citations": 0,
+        "abstract": "Appeals to governments for implementing basic income are contemporary. The theoretical backgrounds of the basic income notion only prescribe transferring equal amounts to individuals irrespective of their specific attributes. However, the most recent basic income initiatives all around the world are attached to certain rules with regard to the attributes of the households. This approach is facing significant challenges to appropriately recognize vulnerable groups. A possible alternative for setting rules with regard to the welfare attributes of the households is to employ artificial intelligence algorithms that can process unprecedented amounts of data. Can integrating machine learning change the future of basic income by predicting households vulnerable to future poverty? In this paper, we utilize multidimensional and longitudinal welfare data comprising one and a half million individuals’ data and a Bayesian beliefs network approach to examine the feasibility of predicting households’ vulnerability to future poverty based on the existing households’ welfare attributes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/data9020018"
+    },
+    {
+        "id": 13326,
+        "title": "Application of Bayesian Learning Algorithm in the Design of Precise Funding Recognition Management System",
+        "authors": "Yue Su",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435793"
+    },
+    {
+        "id": 13327,
+        "title": "Retracted: Bayesian Network Structure Learning and Application",
+        "authors": "",
+        "published": "2023-7-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9894831"
+    },
+    {
+        "id": 13328,
+        "title": "Differentiable Bayesian Structure Learning with Acyclicity Assurance",
+        "authors": "Quang-Duy Tran, Phuoc Nguyen, Bao Duong, Thin Nguyen",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00069"
+    },
+    {
+        "id": 13329,
+        "title": "Bayesian learning for neural networks: an algorithmic survey",
+        "authors": "Martin Magris, Alexandros Iosifidis",
+        "published": "2023-10",
+        "citations": 10,
+        "abstract": "AbstractThe last decade witnessed a growing interest in Bayesian learning. Yet, the technicality of the topic and the multitude of ingredients involved therein, besides the complexity of turning theory into practical implementations, limit the use of the Bayesian learning paradigm, preventing its widespread adoption across different fields and applications. This self-contained survey engages and introduces readers to the principles and algorithms of Bayesian Learning for Neural Networks. It provides an introduction to the topic from an accessible, practical-algorithmic perspective. Upon providing a general introduction to Bayesian Neural Networks, we discuss and present both standard and recent approaches for Bayesian inference, with an emphasis on solutions relying on Variational Inference and the use of Natural gradients. We also discuss the use of manifold optimization as a state-of-the-art approach to Bayesian learning. We examine the characteristic properties of all the discussed methods, and provide pseudo-codes for their implementation, paying attention to practical aspects, such as the computation of the gradients.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10462-023-10443-1"
+    },
+    {
+        "id": 13330,
+        "title": "Uncertainty-Guided Active Reinforcement Learning with Bayesian Neural Networks",
+        "authors": "Xinyang Wu, Mohamed El-Shamouty, Christof Nitsche, Marco F. Huber",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160686"
+    },
+    {
+        "id": 13331,
+        "title": "Bayesian Community Detection for Networks with Covariates",
+        "authors": "Luyi Shen, Arash Amini, Nathaniel Josephs, Lizhen Lin",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/24-ba1415"
+    },
+    {
+        "id": 13332,
+        "title": "Scalable Bayesian High-dimensional Local Dependence Learning",
+        "authors": "Kyoungjae Lee, Lizhen Lin",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/21-ba1299"
+    },
+    {
+        "id": 13333,
+        "title": "Galaxy Morphology Classification Using Bayesian Neural Networks for LSST",
+        "authors": "Marina Dunn, Aleksandra Ciprijanovic, Brian Nord, Bahram Mobasher",
+        "published": "2023-3-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2172/1969686"
+    },
+    {
+        "id": 13334,
+        "title": "BOLT: A Bayesian Online Learning Framework for Time Sensitive Networks in Metaverse",
+        "authors": "Venkatraman Balasubramanian, Ouns Bouachir, Ala'a Al-Habashna",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/imeta59369.2023.10294503"
+    },
+    {
+        "id": 13335,
+        "title": "Bayesian Disturbance Injection: Robust imitation learning of flexible policies for robot manipulation",
+        "authors": "Hanbit Oh, Hikaru Sasaki, Brendan Michael, Takamitsu Matsubara",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.008"
+    },
+    {
+        "id": 13336,
+        "title": "Learning the Finer Things: Bayesian Structure Learning at the Instantiation Level",
+        "authors": "Chase Yakaboski, Eugene Santos, Jr",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "Successful machine learning methods require a trade-off between memorization and generalization. Too much memorization and the model cannot generalize to unobserved examples. Too much over-generalization and we risk under-fitting the data. While we commonly measure their performance through cross validation and accuracy metrics, how should these algorithms cope in domains that are extremely under-determined where accuracy is always unsatisfactory? We present a novel probabilistic graphical model structure learning approach that can learn, generalize and explain in these elusive domains by operating at the random variable instantiation level. Using Minimum Description Length (MDL) analysis, we propose a new decomposition of the learning problem over all training exemplars, fusing together minimal entropy inferences to construct a final knowledge base. By leveraging Bayesian Knowledge Bases (BKBs), a framework that operates at the instantiation level and inherently subsumes Bayesian Networks (BNs), we develop both a theoretical MDL score and associated structure learning algorithm that demonstrates significant improvements over learned BNs on 40 benchmark datasets. Further, our algorithm incorporates recent off-the-shelf DAG learning techniques enabling tractable results even on large problems. We then demonstrate the utility of our approach in a significantly under-determined domain by learning gene regulatory networks on breast cancer gene mutational data available from The Cancer Genome Atlas (TCGA).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i9.26269"
+    },
+    {
+        "id": 13337,
+        "title": "Model-based Bayesian reinforcement learning for enhancing primary user performance under jamming attack",
+        "authors": "Ahmed N. Elbattrawy, Ahmed H. Abd El-Malek, Sherif I. Rabia, Waheed K. Zahra",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.adhoc.2023.103206"
+    },
+    {
+        "id": 13338,
+        "title": "Data Augmentation for Bayesian Deep Learning",
+        "authors": "Yuexi Wang, Nicholas Polson, Vadim O. Sokolov",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1331"
+    },
+    {
+        "id": 13339,
+        "title": "Bayesian Network Reliability Modeling for Three-version Machine Learning Systems",
+        "authors": "Qiang Wen, Fumio Machida",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dsn-s58398.2023.00060"
+    },
+    {
+        "id": 13340,
+        "title": "Adaptive Mobile-Assisted Language Learning: A Bayesian Framework Study for Optimal Learning Content Selection",
+        "authors": "Yanmei Zhao, Mohd Mokhtar Muhamad, Siti Salina Mustakim, Wenling Li, Xuanyi Wu, Aiping Wang",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10436013"
+    },
+    {
+        "id": 13341,
+        "title": "A Bayesian Nonparametric Latent Space Approach to Modeling Evolving Communities in Dynamic Networks",
+        "authors": "Joshua Daniel Loyal, Yuguo Chen",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/21-ba1300"
+    },
+    {
+        "id": 13342,
+        "title": "Bayesian Learning of Graph Substructures",
+        "authors": "Willem van den Boom, Maria De Iorio, Alexandros Beskos",
+        "published": "2023-12-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1338"
+    },
+    {
+        "id": 13343,
+        "title": "Comparing Dependent Undirected Gaussian Networks",
+        "authors": "Hongmei Zhang, Xianzheng Huang, Hasan Arshad",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1337"
+    },
+    {
+        "id": 13344,
+        "title": "A Comparison of Learning Rate Selection Methods in Generalized Bayesian Inference",
+        "authors": "Pei-Shien Wu, Ryan Martin",
+        "published": "2023-3-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/21-ba1302"
+    },
+    {
+        "id": 13345,
+        "title": "A novel structure learning method of Bayesian networks based on the neighboring complete node ordering search",
+        "authors": "Chuchao He, Peng Wang, LinYu Tian, Ruohai Di, Zidong Wang, Yu Yang",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127620"
+    },
+    {
+        "id": 13346,
+        "title": "Bayesian Optimal Experimental Design for Inferring Causal Structure",
+        "authors": "Michele Zemplenyi, Jeffrey W. Miller",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1335"
+    },
+    {
+        "id": 13347,
+        "title": "Learning Quantum System Disturbance Models with Probabilistic Bayesian Neural Networks",
+        "authors": "Zhenhua Jiang, Linh Nguyen",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/naecon58068.2023.10365822"
+    },
+    {
+        "id": 13348,
+        "title": "PAC-Bayesian Learning of Aggregated Binary Activated Neural Networks with Probabilities over Representations",
+        "authors": "Louis Fortier-Dubois, Benjamin Leblanc, Gaël Letarte, François Laviolette, Pascal Germain",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21428/594757db.4cec07db"
+    },
+    {
+        "id": 13349,
+        "title": "Imposing Functional Priors on Bayesian Neural Networks",
+        "authors": "Bogdan Kozyrskiy, Dimitrios Milios, Maurizio Filippone",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011742900003411"
+    },
+    {
+        "id": 13350,
+        "title": "A MCMC Algorithm for Improved Bayesian Network Structure Learning",
+        "authors": "Nan Xia",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/scset58950.2023.00022"
+    },
+    {
+        "id": 13351,
+        "title": "A Spark-based Parallel Genetic Algorithm for Bayesian Network Structure Learning",
+        "authors": "Naixin Wu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcsm.2023.10061827"
+    },
+    {
+        "id": 13352,
+        "title": "Retracted: Research on Motor Bearing Fault Diagnosis Based on the AdaBoost Algorithm and the Ensemble Learning with Bayesian Optimization in the Industrial Internet of Things",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9867167"
+    },
+    {
+        "id": 13353,
+        "title": "Sparse Bayesian Learning Assisted Decision Fusion in Millimeter Wave Massive MIMO Sensor Networks",
+        "authors": "Apoorva Chawla, Domenico Ciuonzo, Pierluigi Salvo Rossi",
+        "published": "2023-6-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095996"
+    },
+    {
+        "id": 13354,
+        "title": "Bayesian Meta-Learning for Adaptive Traffic Prediction in Wireless Networks",
+        "authors": "Zihuan Wang, Vincent W.S. Wong",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2023.3325301"
+    },
+    {
+        "id": 13355,
+        "title": "Kalman Bayesian Neural Networks for Closed-Form Online Learning",
+        "authors": "Philipp Wagner, Xinyang Wu, Marco F. Huber",
+        "published": "2023-6-26",
+        "citations": 3,
+        "abstract": "Compared to point estimates calculated by standard neural networks, Bayesian neural networks (BNN) provide probability distributions over the output predictions and model parameters, i.e., the weights. Training the weight distribution of a BNN, however, is more involved due to the intractability of the underlying Bayesian inference problem and thus, requires efficient approximations. In this paper, we propose a novel approach for BNN learning via closed-form Bayesian inference. For this purpose, the calculation of the predictive distribution of the output and the update of the weight distribution are treated as Bayesian filtering and smoothing problems, where the weights are modeled as Gaussian random variables. This allows closed-form expressions for training the network's parameters in a sequential/online fashion without gradient descent. We demonstrate our method on several UCI datasets and compare it to the state of the art.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i8.26200"
+    },
+    {
+        "id": 13356,
+        "title": "Channel-Driven Decentralized Bayesian Federated Learning for Trustworthy Decision Making in D2D Networks",
+        "authors": "Luca Barbieri, Osvaldo Simeone, Monica Nicoli",
+        "published": "2023-6-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095158"
+    },
+    {
+        "id": 13357,
+        "title": "Learning the cognitive control structure in neural networks through alternating learning and inference",
+        "authors": "Ali Hummos, Matthew Nassar, Guangyu Robert Yang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1659-0"
+    },
+    {
+        "id": 13358,
+        "title": "Active Learning for Sound Event Classification Using Bayesian Neural Networks with Gaussian Variational Posterior",
+        "authors": "Stepan Shishkin, Danilo Hollosi, Stefan Goetze, Simon Doclo",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10446970"
+    },
+    {
+        "id": 13359,
+        "title": "Causal reinforcement learning based on Bayesian networks applied to industrial settings",
+        "authors": "Gabriel Valverde, David Quesada, Pedro Larrañaga, Concha Bielza",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106657"
+    },
+    {
+        "id": 13360,
+        "title": "Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation",
+        "authors": "Tongzhi Niu, Biao Chen, Qianhang Lyu, Bei Li, Wei Luo, Zhenrong Wang, Bin Li",
+        "published": "2024-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2023.113998"
+    },
+    {
+        "id": 13361,
+        "title": "Structure-Aware Sparse Bayesian Learning-Based Channel Estimation for Intelligent Reflecting Surface-Aided MIMO",
+        "authors": "Yanbin He, Geethu Joseph",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095932"
+    },
+    {
+        "id": 13362,
+        "title": "Bayesian Strategy Networks Based Soft Actor-Critic Learning",
+        "authors": "Qin Yang, Ramviyas Parasuraman",
+        "published": "2024-6-30",
+        "citations": 0,
+        "abstract": "A strategy refers to the rules that the agent chooses the available actions to achieve goals. Adopting reasonable strategies is challenging but crucial for an intelligent agent with limited resources working in hazardous, unstructured, and dynamic environments to improve the system’s utility, decrease the overall cost, and increase mission success probability. This article proposes a novel hierarchical strategy decomposition approach based on Bayesian chaining to separate an intricate policy into several simple sub-policies and organize their relationships as Bayesian strategy networks (BSN). We integrate this approach into the state-of-the-art DRL method—soft actor-critic (SAC), and build the corresponding Bayesian soft actor-critic (BSAC) model by organizing several sub-policies as a joint policy. Our method achieves the state-of-the-art performance on the standard continuous control benchmarks in the OpenAI Gym environment. The results demonstrate that the promising potential of the BSAC method significantly improves training efficiency. Furthermore, we extend the topic to the Multi-Agent systems (MAS), discussing the potential research fields and directions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3643862"
+    },
+    {
+        "id": 13363,
+        "title": "Distribution-free Bayesian regularized learning framework for semi-supervised learning",
+        "authors": "Jun Ma, Guolin Yu",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106262"
+    },
+    {
+        "id": 13364,
+        "title": "Hierarchical Stochastic Block Model for Community Detection in Multiplex Networks",
+        "authors": "Arash Amini, Marina Paez, Lizhen Lin",
+        "published": "2024-3-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1355"
+    },
+    {
+        "id": 13365,
+        "title": "Actively learning dynamical systems using Bayesian neural networks",
+        "authors": "Shengbing Tang, Kenji Fujimoto, Ichiro Maruta",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-023-05044-y"
+    },
+    {
+        "id": 13366,
+        "title": "Structural learning of mixed noisy-OR Bayesian networks",
+        "authors": "Jiří Vomlel, Václav Kratochvíl, František Kratochvíl",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijar.2023.108990"
+    },
+    {
+        "id": 13367,
+        "title": "QoS based Optimal Path Selection Using Adaptive Sparse Bayesian Find-FixFinish-Exploit-Analyze Based Extreme Learning Machine for SDN based IoT Networks",
+        "authors": "",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.1031.48"
+    },
+    {
+        "id": 13368,
+        "title": "Differentiating between Bayesian parameter learning and structure learning based on behavioural and pupil measures",
+        "authors": "Danaja Rutar, Olympia Colizoli, Luc Selen, Lukas Spieß, Johan Kwisthout, Sabine Hunnius",
+        "published": "2023-2-16",
+        "citations": 1,
+        "abstract": "Within predictive processing two kinds of learning can be distinguished: parameter learning and structure learning. In Bayesian parameter learning, parameters under a specific generative model are continuously being updated in light of new evidence. However, this learning mechanism cannot explain how new parameters are added to a model. Structure learning, unlike parameter learning, makes structural changes to a generative model by altering its causal connections or adding or removing parameters. Whilst these two types of learning have recently been formally differentiated, they have not been empirically distinguished. The aim of this research was to empirically differentiate between parameter learning and structure learning on the basis of how they affect pupil dilation. Participants took part in a within-subject computer-based learning experiment with two phases. In the first phase, participants had to learn the relationship between cues and target stimuli. In the second phase, they had to learn a conditional change in this relationship. Our results show that the learning dynamics were indeed qualitatively different between the two experimental phases, but in the opposite direction as we originally expected. Participants were learning more gradually in the second phase compared to the first phase. This might imply that participants built multiple models from scratch in the first phase (structure learning) before settling on one of these models. In the second phase, participants possibly just needed to update the probability distribution over the model parameters (parameter learning).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0270619"
+    },
+    {
+        "id": 13369,
+        "title": "Bayes Linear Bayes Networks with an Application to Prognostic Indices",
+        "authors": "Wael A. J. Al-Taie, Malcolm Farrow",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1314"
+    },
+    {
+        "id": 13370,
+        "title": "Examining the factors affecting students' science success with Bayesian networks",
+        "authors": "Hasan Aykut KARABOĞA, İbrahim DEMİR",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "Bayesian Networks (BNs) are probabilistic graphical statistical models that have been widely used in many fields over the last decade. This method, which can also be used for educational data mining (EDM) purposes, is a fairly new method in education literature. This study models students' science success using the BN approach. Science is one of the core areas in the PISA exam. To this end, we used the data set including the most successful 25% and the least successful 25% students from Turkey based on their scores from Program for International Student Assessment (PISA) survey. We also made the feature selection to determine the most effective variables on success. The accuracy value of the BN model created with the variables determined by the feature selection is 86.2%. We classified effective variables on success into three categories; individual, family-related and school-related. Based on the analysis, we found that family-related variables are very effective in science success, and gender is not a discriminant variable in this success. In addition, this is the first study in the literature on the evaluation of complex data made with the BN model. In this respect, it serves as a guide in the evaluation of international exams and in the use of the data obtained.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21449/ijate.1218659"
+    },
+    {
+        "id": 13371,
+        "title": "Inverse Bayesian Optimization: Learning Human Acquisition Functions in an Exploration vs Exploitation Search Task",
+        "authors": "Nathan Sandholtz, Yohsuke Miyamoto, Luke Bornn, Maurice A. Smith",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/21-ba1303"
+    },
+    {
+        "id": 13372,
+        "title": "BN-GEPSO: Learning Bayesian Network Structure Using Generalized Particle Swarm Optimization",
+        "authors": "Muhammad Saad Salman, Ibrahim M. Almanjahie, AmanUllah Yasin, Ammara Nawaz Cheema",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2023.034960"
+    },
+    {
+        "id": 13373,
+        "title": "An Application of Bayesian Networks to Cognitive Diagnostic Modeling of English Article Learning.",
+        "authors": "Sae Il Choi,  ",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14384/kals.2023.30.1.147"
+    },
+    {
+        "id": 13374,
+        "title": "Decentralized Learning of Bayesian Networks from Private Data with Applications to Global Pandemic",
+        "authors": "Oluwaseun T. Ajayi, Yu Cheng",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdcs57875.2023.00105"
+    },
+    {
+        "id": 13375,
+        "title": "Meta-Reinforcement Learning Based Resource Management in Software Defined Networks Using Bayesian Network",
+        "authors": "Ashish Sharma, Sanjiv Tokekar, Sunita Varma",
+        "published": "2023-2-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/temsmet56707.2023.10150107"
+    },
+    {
+        "id": 13376,
+        "title": "The damage level assessment of equipment function based on Bayesian networks and transfer learning",
+        "authors": "Mingchang Song, Xuxu Lv, Shihan Tan, Enzhi Dong, Quan Shi",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "The damage level assessment of equipment function is an important part of equipment battle damage assessment. In practice, it is often difficult to obtain accurate damage level assessment results due to a lack of damage test data and insufficient modeling. Aiming at this problem, a functional damage assessment method based on Bayesian networks and transfer learning is proposed in the case of small sample test data. First, a Bayesian network model considering the correlation of component damage is constructed, which can more accurately reflect the damage results of equipment when incomplete damage information is obtained. Then, an improved TrAdaboost transfer learning method is proposed for the Bayesian network model, which overcomes the disadvantage that the traditional TrAdaboost method is unable to transfer the results with randomization. Finally, the method proposed in this paper is applied to the Asia network and a certain type of radar vehicle functional damage level assessment process, and the results prove the effectiveness and superiority of the proposed method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0180257"
+    },
+    {
+        "id": 13377,
+        "title": "Bayesian Dictionary Learning on Robust Tubal Transformed Tensor Factorization",
+        "authors": "Qilun Luo, Wen Li, Mingqing Xiao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3248156"
+    },
+    {
+        "id": 13378,
+        "title": "Analogical inference from distributional structure: What recurrent neural networks can tell us about word learning",
+        "authors": "Philip A. Huebner, Jon A. Willits",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100478"
+    },
+    {
+        "id": 13379,
+        "title": "Machine Learning with Bayesian Networks for Covid-19 Data",
+        "authors": "Hüseyin Can YILMAZ, Serpil AKTAŞ",
+        "published": "2023-3-6",
+        "citations": 0,
+        "abstract": "Covid-19 pandemisi, 17 Kasım 2019 tarihinde Çin'in Vuhan Eyaleti'nde ilk defa görülmüştür. Küresel pandemi ilk başta Vuhan’daki deniz mahsülleri ve hayvan satışı yapılan yerlerde görülmüştür. Sonra insanlar arasında da yayılışını devam ettirerek ilk olarak Vuhan ve Çin’in diğer eyaletindeki bölgelere ve dünya üzerinde diğer ülkelere de yayılmıştır. 14 Ağustos 2022 tarihi itibariyle dünyada 590.624.000 vaka meydana gelmiştir ve 6.431.291 hasta ölmüştür. Ülkemizde ve dünya genelinde Covid-19 pandemisinin etkilerini gösteren birçok araştırma ve analiz çalışmaları yapılmıştır. Bu çalışmada dünya genelinde 104 ülkeden oluşan 215.968 adet dünya çapında meydana gelen vaka analiz edilmiştir ve Bayes Ağları (Bayesian Networks) ile makine öğrenimi tekniği kullanılarak hastalar sınıflandırılmaya çalışılmış ve dokuz adet değişkenle Covid-19 virüsüne yakalanan hastaların hayatta kalıp kalmayacağını araştırılmıştır. Böylelikle hangi hastaya öncelik verip tedavi edilmesi gerektiği veya gözlem altında tutulması gerektiği belirlenecektir. Sonuç olarak bu çalışmayla dünya genelindeki Covid-19 pandemisinden kaynaklı ölüm oranlarının düşürülmesi hedeflenmektedir.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28979/jarnas.1162578"
+    },
+    {
+        "id": 13380,
+        "title": "Learning Bayesian networks with heterogeneous agronomic data sets via mixed-effect models and hierarchical clustering",
+        "authors": "Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2024.107867"
+    },
+    {
+        "id": 13381,
+        "title": "dplbnDE: An R package for discriminative parameter learning of Bayesian Networks by Differential Evolution",
+        "authors": "Alejandro Platas-López, Alejandro Guerra-Hernández, Francisco Grimaldo, Nicandro Cruz-Ramírez, Efrén Mezura-Montes, Marcela Quiroz-Castellanos",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.softx.2023.101442"
+    },
+    {
+        "id": 13382,
+        "title": "Bayesian tensor network structure search and its application to tensor completion",
+        "authors": "Junhua Zeng, Guoxu Zhou, Yuning Qiu, Chao Li, Qibin Zhao",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106290"
+    },
+    {
+        "id": 13383,
+        "title": "A novel sequential structure for lightweight multi-scale feature learning under limited available images",
+        "authors": "Peng Liu, Jie Du, Chi-Man Vong",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.04.023"
+    },
+    {
+        "id": 13384,
+        "title": "Bayesian Network Structure Learning by Ensemble Learning and Frequent Item Mining",
+        "authors": "Guoxin Cao, Haomin Zhang",
+        "published": "2023-2-11",
+        "citations": 0,
+        "abstract": "Aiming at the common problem of low learning effect in single structure learning of a Bayesian network, a new algorithm EF-BNSL integrating ensemble learning and frequent item mining is proposed. Firstly, the sample set is obtained by sampling the original dataset using Bootstrap, which is mined using the Apriori algorithm to derive the maximum frequent items and association rules so that the black and white list can be determined. Secondly, considering that there may be wrong edges in the black and white list, the black and white list is used as the penalty term of the BDeu score and the initial network is obtained from the hill climbing algorithm. Finally, repeat the above steps 10 times to obtain 10 initial networks. The 10 initial networks were integrated and learned by the integrated strategy function to obtain the final Bayesian network. Experiments were carried out on six standard networks to calculate \n\n\n\nF\n\n\n1\n\n\n\n score and \n\nH\nD\n\n. The results show that the EF-BNSL algorithm can effectively improve \n\n\n\nF\n\n\n1\n\n\n\n score, reduce \n\nH\nD\n\n, and learn the network structure that is closer to the real network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/3119316"
+    },
+    {
+        "id": 13385,
+        "title": "A Risk-Based Approach to Prognostics and Health Management Combining Bayesian Networks and Continuous-Time Bayesian Networks",
+        "authors": "Jordan Schupbach, Elliott Pryor, Kyle Webster, John Sheppard",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mim.2023.10208251"
+    },
+    {
+        "id": 13386,
+        "title": "Learning Style Classification by Using Bayesian Networks Based on the Index of Learning Style",
+        "authors": "Yeimy Paola Valencia Usme, Marc Normann, Iryna Sapsai, Joerg Abke, Anders Madsen, Galia Weidl",
+        "published": "2023-6-19",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3593663.3593685"
+    },
+    {
+        "id": 13387,
+        "title": "Bi-objective evolutionary Bayesian network structure learning via skeleton constraint",
+        "authors": "Ting Wu, Hong Qian, Ziqi Liu, Jun Zhou, Aimin Zhou",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11704-023-2740-6"
+    },
+    {
+        "id": 13388,
+        "title": "Finding Community Structure in Bayesian Networks by Heuristic K-Standard Deviation Method",
+        "authors": "Chenfeng Wang, Xiaoguang Gao, Xinyu Li, Bo Li, Kaifang Wan",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.future.2024.03.047"
+    },
+    {
+        "id": 13389,
+        "title": "Structure learning of Bayesian network based on firefly hybrid optimization algorithm",
+        "authors": "Hao Wang, Yiwei Chen, Peng Wang, Xiaoyan Li, Ruohai Di",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsi58851.2023.10303992"
+    },
+    {
+        "id": 13390,
+        "title": "Scalable Moment Propagation and Analysis of Variational Distributions for Practical Bayesian Deep Learning",
+        "authors": "Yuki Hirayama, Shinya Takamaeda-Yamazaki",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3367363"
+    },
+    {
+        "id": 13391,
+        "title": "Multi-Sensor Fusion Boolean Bayesian Filtering for Stochastic Boolean Networks",
+        "authors": "Fangfei Li, Yang Tang",
+        "published": "2023-10",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3138132"
+    },
+    {
+        "id": 13392,
+        "title": "Structure-aware deep clustering network based on contrastive learning",
+        "authors": "Bowei Chen, Sen Xu, Heyang Xu, Xuesheng Bian, Naixuan Guo, Xiufang Xu, Xiaopeng Hua",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.020"
+    },
+    {
+        "id": 13393,
+        "title": "Risk Analysis of Laboratory Fire Accidents in Chinese Universities by Combining Association Rule Learning and Fuzzy Bayesian Networks",
+        "authors": "Fuqiang Yang, Xin Li, Shuaiqi Yuan, Genserik Reniers",
+        "published": "2023-8-7",
+        "citations": 0,
+        "abstract": "Targeting the challenges in the risk analysis of laboratory fire accidents, particularly considering fire accidents in Chinese universities, an integrated approach is proposed with the combination of association rule learning, a Bayesian network (BN), and fuzzy set theory in this study. The proposed approach has the main advantages of deriving conditional probabilities of BN nodes based on historical accident data and association rules (ARs) and making good use of expert elicitation by using an augmented fuzzy set method. In the proposed approach, prior probabilities of the cause nodes are determined based on expert elicitation with the help of an augmented fuzzy set method. The augmented fuzzy set method enables the effective aggregation of expert opinions and helps to reduce subjective bias in expert elicitations. Additionally, an AR algorithm is applied to determine the probabilistic dependency between the BN nodes based on the historical accident data of Chinese universities and further derive conditional probability tables. Finally, the developed fuzzy Bayesian network (FBN) model was employed to identify critical causal factors with respect to laboratory fire accidents in Chinese universities. The obtained results show that H4 (bad safety awareness), O1 (improper storage of hazardous chemicals), E1 (environment with hazardous materials), and M4 (inadequate safety checks) are the four most critical factors inducing laboratory fire accidents.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/fire6080306"
+    },
+    {
+        "id": 13394,
+        "title": "Trace-class Gaussian priors for Bayesian learning of neural networks with MCMC",
+        "authors": "Torben Sell, Sumeetpal Sidhu Singh",
+        "published": "2023-2-27",
+        "citations": 1,
+        "abstract": "AbstractThis paper introduces a new neural network based prior for real valued functions. Each weight and bias of the neural network has an independent Gaussian prior, with the key novelty that the variances decrease in the width of the network in such a way that the resulting function is well defined in the limit of an infinite width network. We show that the induced posterior over functions is amenable to Monte Carlo sampling using Hilbert space Markov chain Monte Carlo (MCMC) methods. This type of MCMC is stable under mesh refinement, i.e. the acceptance probability does not degenerate as more parameters of the function's prior are introduced, even ad infinitum. We demonstrate these advantages over other function space priors, for example in Bayesian Reinforcement Learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jrsssb/qkac005"
+    },
+    {
+        "id": 13395,
+        "title": "Inference and dynamic decision-making for deteriorating systems with probabilistic dependencies through Bayesian networks and deep reinforcement learning",
+        "authors": "P.G. Morato, C.P. Andriotis, K.G. Papakonstantinou, P. Rigo",
+        "published": "2023-7",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ress.2023.109144"
+    },
+    {
+        "id": 13396,
+        "title": "End-to-End Bayesian Networks Exact Learning in Shared Memory",
+        "authors": "Subhadeep Karan, Zainul Abideen Sayed, Jaroslaw Zola",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tpds.2024.3366471"
+    },
+    {
+        "id": 13397,
+        "title": "A comparative Bayesian optimization-based machine learning and artificial neural networks approach for burned area prediction in forest fires: an application in Turkey",
+        "authors": "Kübra Yazici, Alev Taskin",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11069-023-06187-4"
+    },
+    {
+        "id": 13398,
+        "title": "Bayesian nonparametric mixtures of Exponential Random Graph Models for ensembles of networks",
+        "authors": "Sa Ren, Xue Wang, Peng Liu, Jian Zhang",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.socnet.2023.03.005"
+    },
+    {
+        "id": 13399,
+        "title": "Bayesian Network Structure Learning Algorithm Based on Score Increment and Reduction",
+        "authors": "Xiaoguang Gao, Xuchen Yan, Zidong Wang, Xiaohan Liu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccre57112.2023.10155572"
+    },
+    {
+        "id": 13400,
+        "title": "Evidence Networks: simple losses for fast, amortized, neural Bayesian model comparison",
+        "authors": "Niall Jeffrey, Benjamin D Wandelt",
+        "published": "2024-3-1",
+        "citations": 1,
+        "abstract": "Abstract\nEvidence Networks can enable Bayesian model comparison when state-of-the-art methods (e.g. nested sampling) fail and even when likelihoods or priors are intractable or unknown. Bayesian model comparison, i.e. the computation of Bayes factors or evidence ratios, can be cast as an optimization problem. Though the Bayesian interpretation of optimal classification is well-known, here we change perspective and present classes of loss functions that result in fast, amortized neural estimators that directly estimate convenient functions of the Bayes factor. This mitigates numerical inaccuracies associated with estimating individual model probabilities. We introduce the leaky parity-odd power (l-POP) transform, leading to the novel ‘l-POP-Exponential’ loss function. We explore neural density estimation for data probability in different models, showing it to be less accurate and scalable than Evidence Networks. Multiple real-world and synthetic examples illustrate that Evidence Networks are explicitly independent of dimensionality of the parameter space and scale mildly with the complexity of the posterior probability density function. This simple yet powerful approach has broad implications for model inference tasks. As an application of Evidence Networks to real-world data we compute the Bayes factor for two models with gravitational lensing data of the Dark Energy Survey. We briefly discuss applications of our methods to other, related problems of model comparison and evaluation in implicit inference settings.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2632-2153/ad1a4d"
+    },
+    {
+        "id": 13401,
+        "title": "Advanced Approach for Distributions Parameters Learning in Bayesian Networks with Gaussian Mixture Models and Discriminative Models",
+        "authors": "Irina Deeva, Anna Bubnova, Anna V. Kalyuzhnaya",
+        "published": "2023-1-9",
+        "citations": 3,
+        "abstract": "Bayesian networks are a powerful tool for modelling multivariate random variables. However, when applied in practice, for example, for industrial projects, problems arise because the existing learning and inference algorithms are not adapted to real data. This article discusses two learning and inference problems on mixed data in Bayesian networks—learning and inference at nodes of a Bayesian network that have non-Gaussian distributions and learning and inference for networks that require edges from continuous nodes to discrete ones. First, an approach based on the use of mixtures of Gaussian distributions is proposed to solve a problem when the joint normality assumption is not confirmed. Second, classification models are proposed to solve a problem with edges from continuous nodes to discrete nodes. Experiments have been run on both synthetic datasets and real-world data and have shown gains in modelling quality.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11020343"
+    },
+    {
+        "id": 13402,
+        "title": "SP-GNN: Learning structure and position information from graphs",
+        "authors": "Yangrui Chen, Jiaxuan You, Jun He, Yuan Lin, Yanghua Peng, Chuan Wu, Yibo Zhu",
+        "published": "2023-4",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.01.051"
+    },
+    {
+        "id": 13403,
+        "title": "FuBay: An Integrated Fusion Framework for Hyperspectral Super-Resolution Based on Bayesian Tensor Ring",
+        "authors": "Yinjian Wang, Wei Li, Na Liu, Yuanyuan Gui, Ran Tao",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3281355"
+    },
+    {
+        "id": 13404,
+        "title": "Optimized Deep Networks Structure to Improve the Accuracy of estimator algorithm in Deep Networks learning",
+        "authors": "Hamideh Rezaei Nezhad, Farshid Keynia, Amir Sabagh Molahosseini",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24200/sci.2023.62337.7782"
+    },
+    {
+        "id": 13405,
+        "title": "Enhancing Carbon Capture, Utilization, and Storage(CCUS) Through AI-Enabled CNN and Bayesian Networks",
+        "authors": "Jasmine Sabeena",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscna58489.2023.10370286"
+    },
+    {
+        "id": 13406,
+        "title": "A Data-Driven Bayesian Koopman Learning Method for Modeling Hysteresis Dynamics",
+        "authors": "Xiang Huang, Hai-Tao Zhang, Jun Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3288752"
+    },
+    {
+        "id": 13407,
+        "title": "Efficient Bayesian Policy Reuse With a Scalable Observation Model in Deep Reinforcement Learning",
+        "authors": "Jinmei Liu, Zhi Wang, Chunlin Chen, Daoyi Dong",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3281604"
+    },
+    {
+        "id": 13408,
+        "title": "Risk-Informed Condition Evaluation of Solar-centered Energy Generation and Distribution Networks through Bayesian Learning and Inference",
+        "authors": "Dimitrios Pylorof, Humberto E. Garcia, Rojan Bhattarai",
+        "published": "2023-1-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isgt51731.2023.10066364"
+    },
+    {
+        "id": 13409,
+        "title": "Bayesian network structure learning based on HC-PSO algorithm",
+        "authors": "Wenlong Gao, Minqian Zhi, Yongsong Ke, Xiaolong Wang, Yun Zhuo, Anping Liu, Yi Yang",
+        "published": "2024-2-14",
+        "citations": 0,
+        "abstract": "Structure learning is the core of graph model Bayesian Network learning, and the current mainstream single search algorithm has problems such as poor learning effect, fuzzy initial network, and easy falling into local optimum. In this paper, we propose a heuristic learning algorithm HC-PSO combining the HC (Hill Climbing) algorithm and PSO (Particle Swarm Optimization) algorithm, which firstly uses HC algorithm to search for locally optimal network structures, takes these networks as the initial networks, then introduces mutation operator and crossover operator, and uses PSO algorithm for global search. Meanwhile, we use the DE (Differential Evolution) strategy to select the mutation operator and crossover operator. Finally, experiments are conducted in four different datasets to calculate BIC (Bayesian Information Criterion) and HD (Hamming Distance), and comparative analysis is made with other algorithms, the structure shows that the HC-PSO algorithm is superior in feasibility and accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-236454"
+    },
+    {
+        "id": 13410,
+        "title": "Microseismic Signal Reconstruction From Strong Complex Noise Using Low-Rank Structure Extraction and Dual Convolutional Neural Networks",
+        "authors": "Chao Zhang, Mirko van der Baan",
+        "published": "2024",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3288142"
+    },
+    {
+        "id": 13411,
+        "title": "Structure Induced by a Multiple Membership Transformation on the Conditional Autoregressive Model",
+        "authors": "Marco Gramatica, Silvia Liverani, Peter Congdon",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1370"
+    },
+    {
+        "id": 13412,
+        "title": "A decomposition hybrid structure learning algorithm for Bayesian network using expert knowledge",
+        "authors": "Huiping Guo, Hongru Li",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10115-023-01843-4"
+    },
+    {
+        "id": 13413,
+        "title": "BI-FedGNN: Federated graph neural networks framework based on Bayesian inference",
+        "authors": "Rufei Gao, Zhaowei Liu, Chenxi Jiang, Yingjie Wang, Shenqiang Wang, Pengda Wang",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.024"
+    },
+    {
+        "id": 13414,
+        "title": "Leveraging Demonstrations for Learning the Structure and Parameters of Hierarchical Task Networks",
+        "authors": "Philippe Hérail, Arthur Bit-Monnot",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "\r\nHierarchical Task Networks (HTNs) are a common formalism for automated planning, allowing to leverage the hierarchical structure of many activities.\r\nWhile HTNs have been used in many practical applications, building a complete and efficient HTN model remains a difficult and mostly manual task.\r\n\r\nIn this paper, we present an algorithm for learning such hierarchical models from a set of demonstrations.\r\nGiven an initial vocabulary of tasks and accompanying demonstrations of possible ways to achieve them, we present how each task can be associated with a set of methods capturing the knowledge of how to achieve it.\r\nWe focus on the algorithms used to learn the structure of the model and to efficiently parameterize it, as well as an evaluation in terms of planning performance.\r\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32473/flairs.36.133327"
+    },
+    {
+        "id": 13415,
+        "title": "Nested relation extraction via self-contrastive learning guided by structure and semantic similarity",
+        "authors": "Chengcheng Mai, Kaiwen Luo, Yuxiang Wang, Ziyan Peng, Yu Chen, Chunfeng Yuan, Yihua Huang",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.03.001"
+    },
+    {
+        "id": 13416,
+        "title": "Learning massive interpretable gene regulatory networks of the human brain by merging Bayesian networks",
+        "authors": "Niko Bernaola, Mario Michiels, Pedro Larrañaga, Concha Bielza",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "We present the Fast Greedy Equivalence Search (FGES)-Merge, a new method for learning the structure of gene regulatory networks via merging locally learned Bayesian networks, based on the fast greedy equivalent search algorithm. The method is competitive with the state of the art in terms of the Matthews correlation coefficient, which takes into account both precision and recall, while also improving upon it in terms of speed, scaling up to tens of thousands of variables and being able to use empirical knowledge about the topological structure of gene regulatory networks. To showcase the ability of our method to scale to massive networks, we apply it to learning the gene regulatory network for the full human genome using data from samples of different brain structures (from the Allen Human Brain Atlas). Furthermore, this Bayesian network model should predict interactions between genes in a way that is clear to experts, following the current trends in explainable artificial intelligence. To achieve this, we also present a new open-access visualization tool that facilitates the exploration of massive networks and can aid in finding nodes of interest for experimental tests.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pcbi.1011443"
+    },
+    {
+        "id": 13417,
+        "title": "Sparse Bayesian Learning With Weakly Informative Hyperprior and Extended Predictive Information Criterion",
+        "authors": "Kazuaki Murayama, Shuichi Kawano",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3131357"
+    },
+    {
+        "id": 13418,
+        "title": "Grouped Spherical Data Modeling Through Hierarchical Nonparametric Bayesian Models and Its Application to fMRI Data Analysis",
+        "authors": "Wentao Fan, Lin Yang, Nizar Bouguila",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3208202"
+    },
+    {
+        "id": 13419,
+        "title": "Separating the wheat from the chaff: Bayesian regularization in dynamic social networks",
+        "authors": "Diana Karimova, Roger Th.A.J. Leenders, Marlyne Meijerink-Bosman, Joris Mulder",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.socnet.2023.02.006"
+    },
+    {
+        "id": 13420,
+        "title": "Dynamic Bayesian Networks for Feature Learning and Transfer Applications in Remaining Useful Life Estimation",
+        "authors": "Lingquan Zeng, Junhua Zheng, Le Yao, Zhiqiang Ge",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tim.2022.3221142"
+    },
+    {
+        "id": 13421,
+        "title": "Bayesian Inference and Deep Learning for Inverse Problems",
+        "authors": "Ali Mohammad-Djafari, Ning Chu, Li Wang, Liang Yu",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/psf2023009014"
+    },
+    {
+        "id": 13422,
+        "title": "End-to-End Label Uncertainty Modeling in Speech Emotion Recognition using Bayesian Neural Networks and Label Distribution Learning",
+        "authors": "Navin Raj Prabhu, Nale Lehmann-Willenbrock, Timo Gerkmann",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/taffc.2023.3283595"
+    },
+    {
+        "id": 13423,
+        "title": "A Hybrid Bayesian Network Structure Learning Algorithm in Equivalence Class Space",
+        "authors": "Xiaohan Liu, Xiaoguang Gao, Xinxin Ru, Zidong Wang",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccre57112.2023.10155599"
+    },
+    {
+        "id": 13424,
+        "title": "PSO-K2PC: Bayesian structure learning using optimized K2 algorithm for parents-children detection",
+        "authors": "Samar Bouazizi, Emna Benmohamed, Hela Ltifi",
+        "published": "2023-9-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/1206212x.2023.2250143"
+    },
+    {
+        "id": 13425,
+        "title": "Flight Delay Prediction System Based on Bayesian Networks",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25236/ajets.2023.060603"
+    },
+    {
+        "id": 13426,
+        "title": "Causal Dynamic Bayesian Networks for Simulation Metamodeling",
+        "authors": "Pracheta Amaranath, Peter J. Haas, David Jensen, Sam Witty",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wsc60868.2023.10407746"
+    },
+    {
+        "id": 13427,
+        "title": "Parsimonious Bayesian model-based clustering with dissimilarities",
+        "authors": "Samuel Morrissette, Saman Muthukumarana, Maxime Turgeon",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2024.100528"
+    },
+    {
+        "id": 13428,
+        "title": "A Bayesian Networks Approach for Analyzing Voting Behavior",
+        "authors": "Miguel Calvin, Pilar Rey del Castillo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4676774"
+    },
+    {
+        "id": 13429,
+        "title": "Bayesian learning of parameterised quantum circuits",
+        "authors": "Samuel Duffield, Marcello Benedetti, Matthias Rosenkranz",
+        "published": "2023-6-1",
+        "citations": 2,
+        "abstract": "Abstract\nCurrently available quantum computers suffer from constraints including hardware noise and a limited number of qubits. As such, variational quantum algorithms that utilise a classical optimiser in order to train a parameterised quantum circuit have drawn significant attention for near-term practical applications of quantum technology. In this work, we take a probabilistic point of view and reformulate the classical optimisation as an approximation of a Bayesian posterior. The posterior is induced by combining the cost function to be minimised with a prior distribution over the parameters of the quantum circuit. We describe a dimension reduction strategy based on a maximum a posteriori point estimate with a Laplace prior. Experiments on the Quantinuum H1-2 computer show that the resulting circuits are faster to execute and less noisy than the circuits trained without the dimension reduction strategy. We subsequently describe a posterior sampling strategy based on stochastic gradient Langevin dynamics. Numerical simulations on three different problems show that the strategy is capable of generating samples from the full posterior and avoiding local optima.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2632-2153/acc8b7"
+    },
+    {
+        "id": 13430,
+        "title": "Predicting firm performance and size using machine learning with a Bayesian perspective",
+        "authors": "Debdatta Saha, Timothy M. Young, Jessica Thacker",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100453"
+    },
+    {
+        "id": 13431,
+        "title": "An efficient Bayesian network structure learning algorithm based on structural information",
+        "authors": "Wei Fang, Weijian Zhang, Li Ma, Yunlin Wu, Kefei Yan, Hengyang Lu, Jun Sun, Xiaojun Wu, Bo Yuan",
+        "published": "2023-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2022.101224"
+    },
+    {
+        "id": 13432,
+        "title": "Amortized Bayesian Model Comparison With Evidential Deep Learning",
+        "authors": "Stefan T. Radev, Marco D’Alessandro, Ulf K. Mertens, Andreas Voss, Ullrich Köthe, Paul-Christian Bürkner",
+        "published": "2023-8",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3124052"
+    },
+    {
+        "id": 13433,
+        "title": "Bayesian Network structure learning algorithm for highly missing and non imputable data: Application to breast cancer radiotherapy data",
+        "authors": "Mélanie Piot, Frédéric Bertrand, Sébastien Guihard, Jean-Baptiste Clavier, Myriam Maumy",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.artmed.2023.102743"
+    },
+    {
+        "id": 13434,
+        "title": "Energy Savings under Performance Constraints via Carrier Shutdown with Bayesian Learning",
+        "authors": "Lorenzo Maggi, Claudiu Mihailescu, Qike Cao, Alan Tetich, Saad Khan, Simo Aaltonen, Ryo Koblitz, Maunu Holma, Samuele Macchi, Maria Elena Ruggieri, Igor Korenev, Bjarne Klausen",
+        "published": "2023-6-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eucnc/6gsummit58263.2023.10188338"
+    },
+    {
+        "id": 13435,
+        "title": "Uncertainty-Aware QoT Forecasting in Optical Networks with Bayesian Recurrent Neural Networks",
+        "authors": "Nicola Di Cicco, Jacopo Talpini, Mëmëdhe Ibrahimi, Marco Savi, Massimo Tornatore",
+        "published": "2023-5-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10278767"
+    },
+    {
+        "id": 13436,
+        "title": "Robust simulation-based inference in cosmology with Bayesian neural networks",
+        "authors": "Pablo Lemos, Miles Cranmer, Muntazir Abidi, ChangHoon Hahn, Michael Eickenberg, Elena Massara, David Yallup, Shirley Ho",
+        "published": "2023-3-1",
+        "citations": 5,
+        "abstract": "Abstract\nSimulation-based inference (SBI) is rapidly establishing itself as a standard machine learning technique for analyzing data in cosmological surveys. Despite continual improvements to the quality of density estimation by learned models, applications of such techniques to real data are entirely reliant on the generalization power of neural networks far outside the training distribution, which is mostly unconstrained. Due to the imperfections in scientist-created simulations, and the large computational expense of generating all possible parameter combinations, SBI methods in cosmology are vulnerable to such generalization issues. Here, we discuss the effects of both issues, and show how using a Bayesian neural network framework for training SBI can mitigate biases, and result in more reliable inference outside the training set. We introduce cosmoSWAG, the first application of stochastic weight averaging to cosmology, and apply it to SBI trained for inference on the cosmic microwave background.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2632-2153/acbb53"
+    },
+    {
+        "id": 13437,
+        "title": "From Ensemble Clustering to Subspace Clustering: Cluster Structure Encoding",
+        "authors": "Zhiqiang Tao, Jun Li, Huazhu Fu, Yu Kong, Yun Fu",
+        "published": "2023-5",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3107354"
+    },
+    {
+        "id": 13438,
+        "title": "Contextual learning in Video Analytics for Human pose Detection using Bayesian Learning and LSTM",
+        "authors": "S. Jeevidha, S. Saraswathi, D Vishnuprasad.",
+        "published": "2023-4-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnwc57852.2023.10127440"
+    },
+    {
+        "id": 13439,
+        "title": "Layer adaptive node selection in Bayesian neural networks: Statistical guarantees and implementation details",
+        "authors": "Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.029"
+    },
+    {
+        "id": 13440,
+        "title": "Short Text Sentiment Classification Using Bayesian and Deep Neural Networks",
+        "authors": "Zhan Shi, Chongjun Fan",
+        "published": "2023-3-28",
+        "citations": 0,
+        "abstract": "The previous multi-layer learning network is easy to fall into local extreme points in supervised learning. If the training samples sufficiently cover future samples, the learned multi-layer weights can be well used to predict new test samples. This paper mainly studies the research and analysis of machine short text sentiment classification based on Bayesian network and deep neural network algorithm. It first introduces Bayesian network and deep neural network algorithms, and analyzes the comments of various social software such as Twitter, Weibo, and other popular emotional communication platforms. Using modeling technology popular reviews are designed to conduct classification research on unigrams, bigrams, parts of speech, dependency labels, and triplet dependencies. The results show that the range of its classification accuracy is the smallest as 0.8116 and the largest as 0.87. These values are obtained when the input nodes of the triple dependency feature are 12,000, and the reconstruction error range of the Boltzmann machine is limited between 7.3175 and 26.5429, and the average classification accuracy is 0.8301. The advantages of triplet dependency features for text representation in text sentiment classification tasks are illustrated. It shows that Bayesian and deep neural network show good advantages in short text emotion classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12071589"
+    },
+    {
+        "id": 13441,
+        "title": "An Energy-Efficient Bayesian Neural Network Implementation Using Stochastic Computing Method",
+        "authors": "Xiaotao Jia, Huiyi Gu, Yuhao Liu, Jianlei Yang, Xueyan Wang, Weitao Pan, Youguang Zhang, Sorin Cotofana, Weisheng Zhao",
+        "published": "2024",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3265533"
+    },
+    {
+        "id": 13442,
+        "title": "Sparse Bayesian learning based on spatio-temporal structure-aware for matched field processing",
+        "authors": "Jia Wang, Lanyue Zhang, Bo Hu, Di Wu, Xueru Hu",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "In the application of the matched field processing (MFP) algorithm for underwater acoustic source localization, the measurements at each time step are conventionally processed independently. This study incorporates the prior information about the continuous spatial changes of the source over time under realistic conditions, a factor anticipated to improve localization performance. In this paper, a sparse Bayesian learning (SBL) algorithm based on the spatio-temporal structure-aware is described. We exploit a structure prior for sparse coefficients to capture the continuous spatial structure between adjacent time steps. Moreover, the sparse coefficient can automatically select the update method, utilizing the statistical information from adjacent neighbors or updating independently. The hidden variables in the hierarchical Bayesian framework are inferred via variational Bayesian inference (VBI). Additionally, we extend the proposed method to the multi-frequency case. This method inherits the advantages of the SBL and further reduces position estimation errors. Compared to other approaches, the construction of an accurate motion model is not required. The efficacy of the proposed algorithm is demonstrated through simulation examples and an analysis of the SWellEx-96 experimental data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1121/10.0024352"
+    },
+    {
+        "id": 13443,
+        "title": "Clustering Hidden Markov Models With Variational Bayesian Hierarchical EM",
+        "authors": "Hui Lan, Ziquan Liu, Janet H. Hsiao, Dan Yu, Antoni B. Chan",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3105570"
+    },
+    {
+        "id": 13444,
+        "title": "Bayesian inference with finitely wide neural networks",
+        "authors": "Chi-Ken Lu",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physreve.108.014311"
+    },
+    {
+        "id": 13445,
+        "title": "Do Bayesian Neural Networks Weapon System Improve Predictive Maintenance?",
+        "authors": "Michael L. Potter, Miru D. Jun",
+        "published": "2024-1-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rams51492.2024.10457828"
+    },
+    {
+        "id": 13446,
+        "title": "A Bayesian model for genomic prediction using metabolic networks",
+        "authors": "Akio Onogi",
+        "published": "2023-1-5",
+        "citations": 1,
+        "abstract": "Abstract\n\nMotivation\nGenomic prediction is now an essential technique in breeding and medicine, and it is interesting to see how omics data can be used to improve prediction accuracy. Precedent work proposed a metabolic network-based method in biomass prediction of Arabidopsis; however, the method consists of multiple steps that possibly degrade prediction accuracy.\n\n\nResults\nWe proposed a Bayesian model that integrates all steps and jointly infers all fluxes of reactions related to biomass production. The proposed model showed higher accuracies than methods compared both in simulated and real data. The findings support the previous excellent idea that metabolic network information can be used for prediction.\n\n\nAvailability and implementation\nAll R and stan scripts to reproduce the results of this study are available at https://github.com/Onogi/MetabolicModeling.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioadv/vbad106"
+    },
+    {
+        "id": 13447,
+        "title": "Data-Driven Site Characterization for Benchmark Examples Using Sparse Bayesian Learning",
+        "authors": "Jianye Ching",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784484975.046"
+    },
+    {
+        "id": 13448,
+        "title": "Bayesian testing of scientific expectations under exponential random graph models",
+        "authors": "Joris Mulder, Nial Friel, Philip Leifeld",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.socnet.2023.11.004"
+    },
+    {
+        "id": 13449,
+        "title": "Tiny Federated Learning with Bayesian Classifiers",
+        "authors": "Ning Xiong, Sasikumar Punnekkat",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isie51358.2023.10228115"
+    },
+    {
+        "id": 13450,
+        "title": "Bayesian Deep Learning Detection of Anomalies and Failure: Application To Medical Images",
+        "authors": "Giuseppina Carannante, Nidhal C. Bouaynaya",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285922"
+    },
+    {
+        "id": 13451,
+        "title": "Optimization of power grid structure based on meta-reinforcement learning",
+        "authors": "Zhenglong Leng, Linyao Zhang, Zhimin Wang",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2679374"
+    },
+    {
+        "id": 13452,
+        "title": "Bayesian Network Structure Learning Using Improved A* with Constraints from Potential Optimal Parent Sets",
+        "authors": "Chuchao He, Ruohai Di, Xiangyuan Tan",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "Learning the structure of a Bayesian network and considering the efficiency and accuracy of learning has always been a hot topic for researchers. This paper proposes two constraints to solve the problem that the A* algorithm, an exact learning algorithm, is not efficient enough to search larger networks. On the one hand, the parent–child set constraints reduce the number of potential optimal parent sets. On the other hand, the path constraints are obtained from the potential optimal parent sets to constrain the search process of the A* algorithm. Both constraints are proposed based on the potential optimal parent sets. Experiments show that the time efficiency of the A* algorithm can be significantly improved, and the ability of the A* algorithm to search larger Bayesian networks can be improved by the two constraints. In addition, compared with the globally optimal Bayesian network learning using integer linear programming (GOBNILP) algorithm and the max–min hill-climbing (MMHC) algorithm, which are state of the art, the A* algorithm enhanced by constraints still performs well in most cases.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11153344"
+    },
+    {
+        "id": 13453,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3364780"
+    },
+    {
+        "id": 13454,
+        "title": "Improved Uncertainty Quantification for Neural Networks With Bayesian Last Layer",
+        "authors": "Felix Fiedler, Sergio Lucia",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3329685"
+    },
+    {
+        "id": 13455,
+        "title": "Bayesian inference of financial networks",
+        "authors": "Juan Sosa, Brenda Betancourt",
+        "published": "2023-12-27",
+        "citations": 0,
+        "abstract": "Network data arises naturally in a wide variety of applications in different fields. In this article we discuss in detail the statistical modeling of financial networks. The structure of such networks red has not been studied thoroughly in the past, mainly due to limited accessible data. We explore the structure of a real trading network corresponding to transactions within the natural gas future market over a four-year period. The detection of meaningful communities of actors within networks is particularly relevant to understand the topology of a complex system like this. We explore the usage of stochastic block models in conjunction with a nonparametric Bayesian approach in order to identify clusters of traders in a flexible modeling framework. Our findings strongly indicate that the proposed models are highly reliable at detecting community structures.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/mas-231456"
+    },
+    {
+        "id": 13456,
+        "title": "Hybrid Bayesian Networks for the Reliability Analysis of Systems with Continuous Variables",
+        "authors": "Luigi Portinale",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "The standard way of dealing with continuous variablesinto reliability models is to discretize (or even binarise)them, resulting in discrete state models. The presentpaper proposes an approach where continuous systemvariables can be directly exploited by resorting to HybridBayesian Networks (HBN), where both continuousand discrete variables can be mixed in a general way.This allows one to: model the inter-dependencies betweendiscrete state components or subsystems, modelthe inter-dependencies between continuous system variables,model the influence of contextual information onsystem variables and components, model the definitionof specific system events or conditions given specificvalues of the system variables. We will show how theabove issues can be captured in a principled way bythe HBN formalism, by making the final analyses moregrounded on the actual values of every system variable.We finally present a case study where the model of agranule storage tank system of a petrochemical plant isconsidered, and we present the results of specific analysesimplemented as inference on the HBN model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32473/flairs.36.133187"
+    },
+    {
+        "id": 13457,
+        "title": "Approximate blocked Gibbs sampling for Bayesian neural networks",
+        "authors": "Theodore Papamarkou",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractIn this work, minibatch MCMC sampling for feedforward neural networks is made more feasible. To this end, it is proposed to sample subgroups of parameters via a blocked Gibbs sampling scheme. By partitioning the parameter space, sampling is possible irrespective of layer width. It is also possible to alleviate vanishing acceptance rates for increasing depth by reducing the proposal variance in deeper layers. Increasing the length of a non-convergent chain increases the predictive accuracy in classification tasks, so avoiding vanishing acceptance rates and consequently enabling longer chain runs have practical benefits. Moreover, non-convergent chain realizations aid in the quantification of predictive uncertainty. An open problem is how to perform minibatch MCMC sampling for feedforward neural networks in the presence of augmented data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10285-5"
+    },
+    {
+        "id": 13458,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3275832"
+    },
+    {
+        "id": 13459,
+        "title": "Machine learning-driven pedestrian detection and classification for electric vehicles: integrating Bayesian component network analysis and reinforcement region-based convolutional neural networks",
+        "authors": "A. Devipriya, D. Prabakar, Laxman Singh, A. Sheryl Oliver, Shamimul Qamar, Abdul Azeem",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11760-023-02681-1"
+    },
+    {
+        "id": 13460,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3286498"
+    },
+    {
+        "id": 13461,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3323082"
+    },
+    {
+        "id": 13462,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3258243"
+    },
+    {
+        "id": 13463,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3343442"
+    },
+    {
+        "id": 13464,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3291887"
+    },
+    {
+        "id": 13465,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3229609"
+    },
+    {
+        "id": 13466,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3379711"
+    },
+    {
+        "id": 13467,
+        "title": "Algorithmic Biases in Causal Structure Learning for Gene Regulatory Networks",
+        "authors": "Dániel Sándor, Lili Nemes, Péter Antal",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3633083.3633101"
+    },
+    {
+        "id": 13468,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3267322"
+    },
+    {
+        "id": 13469,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3244375"
+    },
+    {
+        "id": 13470,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3316851"
+    },
+    {
+        "id": 13471,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3355596"
+    },
+    {
+        "id": 13472,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3237142"
+    },
+    {
+        "id": 13473,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3305212"
+    },
+    {
+        "id": 13474,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Publication Information",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3332181"
+    },
+    {
+        "id": 13475,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3275836"
+    },
+    {
+        "id": 13476,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3331482"
+    },
+    {
+        "id": 13477,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3323078"
+    },
+    {
+        "id": 13478,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3364784"
+    },
+    {
+        "id": 13479,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3237146"
+    },
+    {
+        "id": 13480,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3343446"
+    },
+    {
+        "id": 13481,
+        "title": "Calibration-Aware Bayesian Learning",
+        "authors": "Jiayi Huang, Sangwoo Park, Osvaldo Simeone",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285894"
+    },
+    {
+        "id": 13482,
+        "title": "Enhancing inverse design of nanophotonic devices through generative deep learning, Bayesian latent optimization, and transfer learning",
+        "authors": "Keisuke Kojima",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3001999"
+    },
+    {
+        "id": 13483,
+        "title": "Exploring Neural Network Structure through Sparse Recurrent Neural Networks: A Recasting and Distillation of Neural Network Hyperparameters",
+        "authors": "Quincy Hershey, Randy Paffenroth, Harsh Pathak",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00026"
+    },
+    {
+        "id": 13484,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3355600"
+    },
+    {
+        "id": 13485,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3229613"
+    },
+    {
+        "id": 13486,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3258247"
+    },
+    {
+        "id": 13487,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3286496"
+    },
+    {
+        "id": 13488,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3305216"
+    },
+    {
+        "id": 13489,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3244379"
+    },
+    {
+        "id": 13490,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3295051"
+    },
+    {
+        "id": 13491,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3267326"
+    },
+    {
+        "id": 13492,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3316855"
+    },
+    {
+        "id": 13493,
+        "title": "IEEE Transactions on Neural Networks and Learning Systems Information for Authors",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3379715"
+    },
+    {
+        "id": 13494,
+        "title": "An Algorithm for building a mathematical model in Bayesian belief networks for reliability analysis",
+        "authors": " ",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The application of Bayesian belief networks in the analysis of reliability is considered. An algorithm for constructing a mathematical model in Bayesian belief networks is developed. An example of reliability analysis of a radioelectronic system by using Bayesian belief networks is given. It is shown that the developed model of Bayesian networks allows estimating the probability of failure-free operation, identifying possible failures and modeling failure states.\n\nKeywords\nBayesian networks, reliability, reliability analysis, electronic system, fault tree analysis",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36652/0869-4931-2023-77-2-82-85"
+    },
+    {
+        "id": 13495,
+        "title": "Multi-objective machine training based on Bayesian hyperparameter tuning",
+        "authors": "Pedro J. Zufiria, Carlos Borrajo, Miguel Taibo",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191772"
+    },
+    {
+        "id": 13496,
+        "title": "Stochastic Risk Assessment with Bayesian Networks in Esfahan Refinery",
+        "authors": "Meysam Saeedi",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "Refineries are among the industrial centers that supply the energy and raw materials to downstream industries. To achieve sustainable development goals, creating appropriate balance between economic and environmental goals has always been the focus of managers and policy makers in the societies. Bayesian Network model has become a robust tool in the field of risk assessment and uncertainty management in refineries. The focus of this research is to prioritizing different units from the point of view of social and ecological aspects for facilitating the decision-making process in the context of waste material treatment in Esfahan refinery in line with the sustainable development goals. The methodology of this research is based on risk assessment with the aid of Bayesian Networks. To this end, first material flow analysis of the processes procured risk identification, subsequently influence diagram and Bayesian Network structure were designed. After completing conditional probability tables, risk factors were prioritized. According to the risk assessment results, Fuel unit was classified as the most significant risk factor, whereas Pipelines and Plant air & instrument air system were identified as the most environmentally friendly units.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31579/2766-2314/103"
+    },
+    {
+        "id": 13497,
+        "title": "Retracted: Study on Fault Diagnosis Method and Application of Automobile Power Supply Based on Fault Tree-Bayesian Network",
+        "authors": "",
+        "published": "2023-2-19",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9851259"
+    },
+    {
+        "id": 13498,
+        "title": "Entropy and the Kullback–Leibler Divergence for Bayesian Networks: Computational Complexity and Efficient Implementation",
+        "authors": "Marco Scutari",
+        "published": "2024-1-6",
+        "citations": 0,
+        "abstract": "Bayesian networks (BNs) are a foundational model in machine learning and causal inference. Their graphical structure can handle high-dimensional problems, divide them into a sparse collection of smaller ones, underlies Judea Pearl’s causality, and determines their explainability and interpretability. Despite their popularity, there are almost no resources in the literature on how to compute Shannon’s entropy and the Kullback–Leibler (KL) divergence for BNs under their most common distributional assumptions. In this paper, we provide computationally efficient algorithms for both by leveraging BNs’ graphical structure, and we illustrate them with a complete set of numerical examples. In the process, we show it is possible to reduce the computational complexity of KL from cubic to quadratic for Gaussian BNs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010024"
+    },
+    {
+        "id": 13499,
+        "title": "Integration of Structural Equation Models and Bayesian Networks for Cognitive Load Modeling",
+        "authors": "Olha Shaposhnyk, Svetlana Yanushkevich",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssci52147.2023.10372068"
+    },
+    {
+        "id": 13500,
+        "title": "Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks",
+        "authors": "Bing Han, Feifei Zhao, Yi Zeng, Wenxuan Pan, Guobin Shen",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Children possess the ability to learn multiple cognitive tasks sequentially, which is a major challenge toward the long-term goal of artificial general intelligence. Existing continual learning frameworks are usually applicable to Deep Neural Networks (DNNs) and lack the exploration on more brain-inspired, energy-efficient Spiking Neural Networks (SNNs). Drawing on continual learning mechanisms during child growth and development, we propose Dynamic Structure Development of Spiking Neural Networks (DSD-SNN) for efficient and adaptive continual learning. When learning a sequence of tasks, the DSD-SNN dynamically assigns and grows new neurons to new tasks and prunes redundant neurons, thereby increasing memory capacity and reducing computational overhead. In addition, the overlapping shared structure helps to quickly leverage all acquired knowledge to new tasks, empowering a single network capable of supporting multiple incremental tasks (without the separate sub-network mask for each task). We validate the effectiveness of the proposed model on multiple class incremental learning and task incremental learning benchmarks. Extensive experiments demonstrated that our model could significantly improve performance, learning speed and memory capacity, and reduce computational overhead. Besides, our DSD-SNN model achieves comparable performance with the DNNs-based methods, and significantly outperforms the state-of-the-art (SOTA) performance for existing SNNs-based continual learning methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/334"
+    },
+    {
+        "id": 13501,
+        "title": "Deep learning of electromechanical admittance data augmented by generative adversarial networks for flexural performance evaluation of RC beam structure",
+        "authors": "Demi Ai, Rui Zhang",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engstruct.2023.116891"
+    },
+    {
+        "id": 13502,
+        "title": "Bayesian Mesh Optimization for Graph Neural Networks to Enhance Engineering Performance Prediction",
+        "authors": "Jangseop Park, Namwoo Kang",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "Abstract\nIn the field of engineering design, surrogate models for 3D computer-aided design (CAD) have been widely used to replace computationally expensive simulations. However, the conventional surrogate modeling process, which relies on the geometric parameters (or design variables) of CAD, has limitations when dealing with complex structural shapes commonly found in industry datasets. These limitations include information loss in low dimensions and difficulty in parametrization. This study proposes a Bayesian graph neural network (GNN) framework for a 3D deep-learning-based surrogate model that predicts engineering performance by directly learning the geometric features of CAD with mesh representation. Our proposed framework derives the optimal size of the mesh elements, creating a high-accuracy surrogate model with Bayesian optimization. It also solves the heterogeneity problem of 3D CAD data in that 2D images have regular pixel structures, whereas 3D CADs have irregular structures. From the experimental results, the mesh quality is highly correlated with the prediction accuracy of the surrogate model, and there exists an optimal mesh size that satisfies the high-performance requirements of the surrogate model. We expect that our proposed framework has the potential to be applied to mesh-based simulations in various engineering fields, reflecting the physics-based information widely used in computer-aided engineering.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-113308"
+    },
+    {
+        "id": 13503,
+        "title": "Automatically Finding the Right Probabilities in Bayesian Networks",
+        "authors": "Bahare Salmani, Joost-Pieter Katoen",
+        "published": "2023-8-27",
+        "citations": 1,
+        "abstract": "This paper presents alternative techniques for inference on classical Bayesian networks in which all probabilities are fixed, and for synthesis problems when conditional probability tables (CPTs) in such networks contain symbolic parameters rather than concrete probabilities. The key idea is to exploit probabilistic model checking as well as its recent extension to parameter synthesis techniques for parametric Markov chains. To enable this, the Bayesian networks are transformed into Markov chains and their objectives are mapped onto probabilistic temporal logic formulas. \nFor exact inference, we compare probabilistic model checking to weighted model counting on various Bayesian network benchmarks. We contrast symbolic model checking using multi-terminal binary (aka: algebraic) decision diagrams to symbolic inference using proba- bilistic sentential decision diagrams, symbolic data structures that are tailored to Bayesian networks. \nFor the parametric setting, we describe how our techniques can be used for various synthesis problems such as computing sensitivity functions (and values), simple and difference parameter tuning and ratio parameter tuning. Our parameter synthesis techniques are applicable to arbitrarily many, possibly dependent, parameters that may occur in multiple CPTs. This lifts restrictions, e.g., on the number of parametrized CPTs, or on parameter dependencies between several CPTs, that exist in the literature. Experiments on several benchmarks show that our parameter synthesis techniques can treat parameter synthesis for Bayesian networks (with hundreds of unknown parameters) that are out of reach for existing techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1613/jair.1.14044"
+    },
+    {
+        "id": 13504,
+        "title": "Bayesian Network based Optimal Load Balancing in Software Defined Networks",
+        "authors": "Mohammed Rafi Rehman Shaikh",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esci56872.2023.10099730"
+    }
+]

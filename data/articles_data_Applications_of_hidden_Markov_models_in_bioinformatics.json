@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 11705,
+        "title": "NOISE-ADAPTIVE HIDDEN MARKOV MODELS",
+        "authors": "SV VASEGHI, BP MILNER",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20957"
+    },
+    {
+        "id": 11706,
+        "title": "Research Applications of Hidden Markov Models in Speech Recognition",
+        "authors": "Zeng Li, Zhenzhen Wang, Xiaofei Sun",
+        "published": "2023-11-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3603273.3634710"
+    },
+    {
+        "id": 11707,
+        "title": "A COMPARISON OF HIDDEN CONTROL NEURAL NETWORKS AND HIDDEN MARKOV MODELS",
+        "authors": "GD TATTERSALL, GE LEE, SG SMYTH",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20908"
+    },
+    {
+        "id": 11708,
+        "title": "Enhancing Indonesian Speech Synthesis: Embracing Naturalness and Expressiveness with Hidden Markov Models",
+        "authors": "Titin Winarti,  Supari, Edi Widodo",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icteca60133.2023.10490627"
+    },
+    {
+        "id": 11709,
+        "title": "AUTOMATIC SPEECH RECOGNITION EXPERIMENTS USING SEGMENTAL HIDDEN MARKOV MODELS",
+        "authors": "WJ HOLMES, MJ RUSSELL",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20357"
+    },
+    {
+        "id": 11710,
+        "title": "Hidden Markov models for longitudinal rating data with dynamic response styles",
+        "authors": "Roberto Colombi, Sabrina Giordano, Maria Kateri",
+        "published": "2023-9-28",
+        "citations": 1,
+        "abstract": "AbstractThis work deals with the analysis of longitudinal ordinal responses. The novelty of the proposed approach is in modeling simultaneously the temporal dynamics of a latent trait of interest, measured via the observed ordinal responses, and the answering behaviors influenced by response styles, through hidden Markov models (HMMs) with two latent components. This approach enables the modeling of (i) the substantive latent trait, controlling for response styles; (ii) the change over time of latent trait and answering behavior, allowing also dependence on individual characteristics. For the proposed HMMs, estimation procedures, methods for standard errors calculation, measures of goodness of fit and classification, and full-conditional residuals are discussed. The proposed model is fitted to ordinal longitudinal data from the Survey on Household Income and Wealth (Bank of Italy) to give insights on the evolution of households financial capability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10260-023-00717-x"
+    },
+    {
+        "id": 11711,
+        "title": "ICA and IVA bounded multivariate generalized Gaussian mixture based hidden Markov models",
+        "authors": "Ali H. Al-gumaei, Muhammad Azam, Manar Amayri, Nizar Bouguila",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106345"
+    },
+    {
+        "id": 11712,
+        "title": "LuxHMM: DNA methylation analysis with genome segmentation via hidden Markov model",
+        "authors": "Maia H. Malonzo, Harri Lähdesmäki",
+        "published": "2023-2-22",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nDNA methylation plays an important role in studying the epigenetics of various biological processes including many diseases. Although differential methylation of individual cytosines can be informative, given that methylation of neighboring CpGs are typically correlated, analysis of differentially methylated regions is often of more interest.\n\nResults\nWe have developed a probabilistic method and software, LuxHMM, that uses hidden Markov model (HMM) to segment the genome into regions and a Bayesian regression model, which allows handling of multiple covariates, to infer differential methylation of regions. Moreover, our model includes experimental parameters that describe the underlying biochemistry in bisulfite sequencing and model inference is done using either variational inference for efficient genome-scale analysis or Hamiltonian Monte Carlo (HMC).\n\nConclusions\nAnalyses of real and simulated bisulfite sequencing data demonstrate the competitive performance of LuxHMM compared with other published differential methylation analysis methods.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05174-7"
+    },
+    {
+        "id": 11713,
+        "title": "Hidden Markov random field models for cell-type assignment of spatially resolved transcriptomics",
+        "authors": "Cheng Zhong, Tian Tian, Zhi Wei",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Abstract\n\nMotivation\nThe recent development of spatially resolved transcriptomics (SRT) technologies has facilitated research on gene expression in the spatial context. Annotating cell types is one crucial step for downstream analysis. However, many existing algorithms use an unsupervised strategy to assign cell types for SRT data. They first conduct clustering analysis and then aggregate cluster-level expression based on the clustering results. This workflow fails to leverage the marker gene information efficiently. On the other hand, other cell annotation methods designed for single-cell RNA-seq data utilize the cell-type marker genes information but fail to use spatial information in SRT data.\n\n\nResults\nWe introduce a statistical spatial transcriptomics cell assignment model, SPAN, to annotate clusters of cells or spots into known types in SRT data with prior knowledge of predefined marker genes and spatial information. The SPAN model annotates cells or spots from SRT data using predefined overexpressed marker genes and combines a mixture model with a hidden Markov random field to model the spatial dependency between neighboring spots. We demonstrate the effectiveness of SPAN against spatial and nonspatial clustering algorithms through extensive simulation and real data experiments.\n\n\nAvailability and implementation\nhttps://github.com/ChengZ352/SPAN.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btad641"
+    },
+    {
+        "id": 11714,
+        "title": "Hidden Markov Models for Temporal Graph Representation Learning",
+        "authors": "Federico Errica, Alessio Gravina, Davide Bacciu, Alessio Micheli",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14428/esann/2023.es2023-35"
+    },
+    {
+        "id": 11715,
+        "title": "Inference of genomic landscapes using ordered Hidden Markov Models with emission densities (oHMMed)",
+        "authors": "Claus Vogl, Mariia Karapetiants, Burçin Yıldırım, Hrönn Kjartansdóttir, Carolin Kosiol, Juraj Bergman, Michal Majka, Lynette Caitlin Mikula",
+        "published": "2024-4-16",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nGenomes are inherently inhomogeneous, with features such as base composition, recombination, gene density, and gene expression varying along chromosomes. Evolutionary, biological, and biomedical analyses aim to quantify this variation, account for it during inference procedures, and ultimately determine the causal processes behind it. Since sequential observations along chromosomes are not independent, it is unsurprising that autocorrelation patterns have been observed e.g., in human base composition. In this article, we develop a class of Hidden Markov Models (HMMs) called oHMMed (ordered HMM with emission densities, the corresponding R package of the same name is available on CRAN): They identify the number of comparably homogeneous regions within autocorrelated observed sequences. These are modelled as discrete hidden states; the observed data points are realisations of continuous probability distributions with state-specific means that enable ordering of these distributions. The observed sequence is labelled according to the hidden states, permitting only neighbouring states that are also neighbours within the ordering of their associated distributions. The parameters that characterise these state-specific distributions are inferred. \n\nResults\n  We apply our oHMMed algorithms to the proportion of G and C bases (modelled as a mixture of normal distributions) and the number of genes (modelled as a mixture of poisson-gamma distributions) in windows along the human, mouse, and fruit fly genomes. This results in a partitioning of the genomes into regions by statistically distinguishable averages of these features, and in a characterisation of their continuous patterns of variation. In regard to the genomic G and C proportion, this latter result distinguishes oHMMed from segmentation algorithms based in isochore or compositional domain theory. We further use oHMMed to conduct a detailed analysis of variation of chromatin accessibility (ATAC-seq) and epigenetic markers H3K27ac and H3K27me3 (modelled as a mixture of poisson-gamma distributions) along the human chromosome 1 and their correlations.\n\nConclusions\n  Our algorithms provide a biologically assumption free approach to characterising genomic landscapes shaped by continuous, autocorrelated patterns of variation. Despite this, the resulting genome segmentation enables extraction of compositionally distinct regions for further downstream analyses.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-024-05751-4"
+    },
+    {
+        "id": 11716,
+        "title": "Bounding Counterfactuals in Hidden Markov Models and Beyond",
+        "authors": "Martin B. Haugh, Raghav Singal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4529724"
+    },
+    {
+        "id": 11717,
+        "title": "Understanding Learning Trajectories With Infinite Hidden Markov Models",
+        "authors": "Sebastian Bruijns, International Brain Laboratory, Peter Dayan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1632-0"
+    },
+    {
+        "id": 11718,
+        "title": "Bayesian Spline-Based Hidden Markov Models with Applications to Actimetry Data and Sleep Analysis",
+        "authors": "Sida Chen, Bärbel Finkenstädt",
+        "published": "2023-12-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01621459.2023.2279707"
+    },
+    {
+        "id": 11719,
+        "title": "Entangled Hidden Markov Models",
+        "authors": "Abdessatar Souissi, El Gheteb Soueidi",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chaos.2023.113804"
+    },
+    {
+        "id": 11720,
+        "title": "Hidden Markov Models and Flight Phase Identification",
+        "authors": "Rémi Perrichon, Xavier Gendre, Thierry Klein",
+        "published": "2024-1-21",
+        "citations": 0,
+        "abstract": "The use of Hidden Markov Models (HMMs) in segmenting flight phases is a compelling approach with significant implications for aviation and aerospace research. It leverages the temporal sequences of flight data to delineate various phases of an aircraft’s journey, making it a valuable tool for enhancing the anal- ysis of flight performance and safety. In this work, we implement a multivariate HMM to identify 6 flight phases: taxi, takeoff, climb, cruise, approach and rollout. We reach a median global accuracy of about 97% over a sample of several thousand flights with a very low number of decoded unlikely transitions. Regarding several performance metrics, our method is competitive with existing methods in the litera- ture, such as fuzzy logic. Additionally, it provides, for each point of the flight, a probability of belonging to each phase. Even in situations where there are missing values in the data, HMMs remain effective, ensuring that no critical information is lost during the segmentation process. We show that HMMs work seamlessly with the fine granularity of Flight Data Recorder (FDR) data. HMMs offer remarkable flex- ibility and adaptability, proving particularly effective when the number or order of phases is unknown or not predetermined, as is often the case with complex flight scenarios such as helicopter flights. This adaptability is crucial for handling the diverse range of flight operations that differ from one aircraft to another. An example is given with the segmentation of an Automatic Dependent Surveillance–Broadcast (ADS-B) helicopter flight operated by the Swedish National Police.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59490/joas.2024.7269"
+    },
+    {
+        "id": 11721,
+        "title": "Daily activity monitoring system designed for elderly people using hidden Markov models based on real world datasets",
+        "authors": "Olivier Habert, Chaima Bouali, Abderrahim Tahiri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijista.2023.10055774"
+    },
+    {
+        "id": 11722,
+        "title": "Daily activity monitoring system designed for elderly people using hidden Markov models based on real world datasets",
+        "authors": "Chaima Bouali, Olivier Habert, Abderrahim Tahiri",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijista.2023.130555"
+    },
+    {
+        "id": 11723,
+        "title": "[Poster] Hidden Markov Models and Flight Phase Identification",
+        "authors": "Rémi Perrichon, Xavier Gendre, Thierry Klein",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "The use of Hidden Markov Models (HMMs) in segmenting flight phases is a compelling approach with significant implications for aviation and aerospace research. It leverages the temporal sequences of flight data to delineate various phases of an aircraft's journey, making it a valuable tool for enhancing the analysis of flight performance and safety. In this work, we implement a multivariate HMM to identify 6 flight phases: taxi, takeoff, climb, cruise, approach and rollout. We reach a median global accuracy of about 97\\% over a sample of several thousand flights with a very low number of decoded unlikely transitions. Regarding several performance metrics, our method is competitive with existing methods in the literature, such as fuzzy logic. Additionally, it provides, for each point of the flight, a probability of belonging to each phase. Even in situations where there are missing values in the data, HMMs remain effective, ensuring that no critical information is lost during the segmentation process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59490/joas.2023.7211"
+    },
+    {
+        "id": 11724,
+        "title": "Modeling Markov sources and hidden Markov models by P systems",
+        "authors": "José M. Sempere",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41965-023-00129-6"
+    },
+    {
+        "id": 11725,
+        "title": "Divide-and-conquer Bayesian inference in hidden Markov models",
+        "authors": "Chunlei Wang, Sanvesh Srivastava",
+        "published": "2023-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ejs2118"
+    },
+    {
+        "id": 11726,
+        "title": "The Stock Prices Prediction Performance of Hidden Markov Models in the Luxury Category",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/ferm.2023.060613"
+    },
+    {
+        "id": 11727,
+        "title": "Flexible hidden Markov models for behaviour-dependent habitat selection",
+        "authors": "N. J. Klappstein, L. Thomas, T. Michelot",
+        "published": "2023-6-3",
+        "citations": 5,
+        "abstract": "AbstractBackgroundThere is strong incentive to model behaviour-dependent habitat selection, as this can help delineate critical habitats for important life processes and reduce bias in model parameters. For this purpose, a two-stage modelling approach is often taken: (i) classify behaviours with a hidden Markov model (HMM), and (ii) fit a step selection function (SSF) to each subset of data. However, this approach does not properly account for the uncertainty in behavioural classification, nor does it allow states to depend on habitat selection. An alternative approach is to estimate both state switching and habitat selection in a single, integrated model called an HMM-SSF.MethodsWe build on this recent methodological work to make the HMM-SSF approach more efficient and general. We focus on writing the model as an HMM where the observation process is defined by an SSF, such that well-known inferential methods for HMMs can be used directly for parameter estimation and state classification. We extend the model to include covariates on the HMM transition probabilities, allowing for inferences into the temporal and individual-specific drivers of state switching. We demonstrate the method through an illustrative example of plains zebra (Equus quagga), including state estimation, and simulations to estimate a utilisation distribution.ResultsIn the zebra analysis, we identified two behavioural states, with clearly distinct patterns of movement and habitat selection (“encamped” and “exploratory”). In particular, although the zebra tended to prefer areas higher in grassland across both behavioural states, this selection was much stronger in the fast, directed exploratory state. We also found a clear diel cycle in behaviour, which indicated that zebras were more likely to be exploring in the morning and encamped in the evening.ConclusionsThis method can be used to analyse behaviour-specific habitat selection in a wide range of species and systems. A large suite of statistical extensions and tools developed for HMMs and SSFs can be applied directly to this integrated model, making it a very versatile framework to jointly learn about animal behaviour, habitat selection, and space use.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40462-023-00392-3"
+    },
+    {
+        "id": 11728,
+        "title": "Reversed particle filtering for hidden markov models",
+        "authors": "Frank Rotiroti, Stephen G. Walker",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-024-10426-4"
+    },
+    {
+        "id": 11729,
+        "title": "EpiSegMix: a flexible distribution hidden markov model with duration modeling for chromatin state discovery",
+        "authors": "Johanna Elena Schmitz, Nihit Aggarwal, Lukas Laufer, Jörn Walter, Abdulrahman Salhab, Sven Rahmann",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "Abstract\n\nMotivation\nAutomated chromatin segmentation based on ChIP-seq data reveals insights into the epigenetic regulation of chromatin accessibility. Existing segmentation methods are constrained by simplifying modeling assumptions, which may have a negative impact on the segmentation quality.\n\n\nResults\nWe introduce EpiSegMix, a novel segmentation method based on a hidden Markov model with flexible read count distribution types and state duration modeling, allowing for a more flexible modeling of both histone signals and segment lengths. In a comparison with existing tools, ChromHMM, Segway and EpiCSeg, we show that EpiSegMix is more predictive of cell biology, such as gene expression. Its flexible framework enables it to fit an accurate probabilistic model, which has the potential to increase the biological interpretability of chromatin states.\n\n\nAvailability and implementation\nSource code: https://gitlab.com/rahmannlab/episegmix.\n\n\nSupplementary information\navailable online (PDF).\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btae178"
+    },
+    {
+        "id": 11730,
+        "title": "Heuristic Techniques for Constructing Hidden Markov Models of Stochastic Processes",
+        "authors": "Mikhail M. Gavrikov, Anna Y. Mezentseva, Roman M. Sinetsky",
+        "published": "2023-3-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smartindustrycon57312.2023.10110792"
+    },
+    {
+        "id": 11731,
+        "title": "MULTILEVEL HIDDEN MARKOV MODELS FOR STUDYING TYPE-1 DIABETES",
+        "authors": "Tirupathi Rao Padi, Surnam Narendra",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17654/0973514324011"
+    },
+    {
+        "id": 11732,
+        "title": "Bayesian change point prediction for downhole drilling pressures with hidden Markov models",
+        "authors": "Ochuko Erivwo, Viliam Makis, Roy Kwon",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "AbstractIn the drilling of oil wells, the need to accurately detect downhole formation pressure transitions has long been established as critical for safety and economics. In this article, we examine the application of Hidden Markov Models (HMMs) to oilwell drilling processes with a focus on the real time evolution of downhole formation pressures in its partially observed state. The downhole drilling pressure system can be viewed as a nonlinear, non‐degrading stochastic process whose optimum performance is in a region in its warning state prior to random failure in time. The differential pressure system  is modeled as a hidden 3 state continuous time Markov process. States 0 and 1 are not observable and represent the normally pressured (initiating ) and abnormally pressured or warning (reducing ) states respectively. State 2 is the observable failure state (from negative  and loss of well control). The signal process of the evolution of differential pressure  is identified in the changes in the observable rate of penetration (ROP) encoded in drilling performance data. The state and observation parameters of the HMM are estimated using the Expectation Maximization (EM) algorithm and we show, for a univariate system with a depth dependent time relationship, that the model parameter updates of the EM algorithm equation have explicit solutions. A Bayesian inference model, to determine the safety threshold of the system and early failure prediction at each sampling epoch, is thereafter proposed. The application of our stochastic model of the dynamic evolution of downhole pressures in operational time is illustrated with a hindcast case example. The analysis showed strong early indication of probable failure in real time and was validated in the field post drilling system failure that resulted in significant recovery costs. The potential to predict the differential pressure state transitions ahead of the bit represents a capability not currently available in the industry. This opens up significant opportunity for value creation from optimizing drilling operations to deliver substantial savings in well construction costs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/asmb.2835"
+    },
+    {
+        "id": 11733,
+        "title": "Bayesian mixed-effect higher-order hidden Markov models with applications to predictive healthcare using electronic health records",
+        "authors": "Ying Liao, Yisha Xiang, Zhigen Zhao, Di Ai",
+        "published": "2024-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/24725854.2024.2302368"
+    },
+    {
+        "id": 11734,
+        "title": "Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications to ion channels",
+        "authors": "Laura Jula Vanegas, Benjamin Eltzner, Daniel Rudolf, Miroslav Dura, Stephan E. Lehnart, Axel Munk",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-aoas1842"
+    },
+    {
+        "id": 11735,
+        "title": "An expectation maximization algorithm for the hidden markov models with multiparameter student-t observations",
+        "authors": "Emna Ghorbel, Mahdi Louati",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00180-023-01432-7"
+    },
+    {
+        "id": 11736,
+        "title": "Matrix-Variate Hidden Markov Regression Models: Fixed and Random Covariates",
+        "authors": "Salvatore D. Tomarchio, Antonio Punzo, Antonello Maruotti",
+        "published": "2023-6-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00357-023-09438-y"
+    },
+    {
+        "id": 11737,
+        "title": "MAXIMUM LIKELIHOOD AND MAXIMUM MUTUAL INFORMATION TRAINING OF CONTINUOUS DENSITY HIDDEN MARKOV MODELS - EXPERIMENTS ON THE E-SET",
+        "authors": "S KAPADIA, V VALTCHEV, SJ YOUNG",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20951"
+    },
+    {
+        "id": 11738,
+        "title": "Custom Hidden Markov Models for Effective Part-of-Speech Tagging",
+        "authors": "Hassan Bin Khalid, Abu Bakar Siddique, Raja Hashim Ali",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icet59753.2023.10374930"
+    },
+    {
+        "id": 11739,
+        "title": "Understanding Individual Differences in Reading Chinese Traditional Poetry Using Hidden Markov Models",
+        "authors": "Feng Xiong, Anran Ma, Xiaoxue Leng",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieir59294.2023.10391235"
+    },
+    {
+        "id": 11740,
+        "title": "Bayesian Approximations to Hidden Semi-Markov Models for Telemetric Monitoring of Physical Activity",
+        "authors": "Beniamino Hadj-Amar, Jack Jewson, Mark Fiecas",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1318"
+    },
+    {
+        "id": 11741,
+        "title": "Hidden Markov Models for early detection of cardiovascular diseases",
+        "authors": "Sebastián Núñez Mejía,  ",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "Introduction: This article, developed between 2022 and 2023 within the framework of Applied Stochastic Processes by the SciBas group at the Universidad Distrital Francisco José de Caldas, focuses on the role of Hidden Markov Models (HMM) in predicting cardiovascular diseases.  Problem: The addressed issue is the need to enhance the early detection of heart diseases, emphasizing how HMM can address uncertainty in clinical data and detect complex patterns.  Objective: To evaluate the use of Hidden Markov Models (HMM) in the analysis of electrocardiograms (ECG) for the early detection of cardiovascular diseases.  Methodology: The methodology comprises a literature review concerning the relationship between HMM and cardiovascular diseases, followed by the application of HMM to prevent heart attacks and address uncertainty in clinical data.  Results: The findings indicate that HMM is effective in preventing heart diseases, yet its effectiveness is contingent upon data quality. These results are promising but not universally applicable.  Conclusions: In summary, this study underscores the utility of HMM in early infarction detection and its statistical approach in medicine. It is emphasized that HMM is not infallible and should be complemented with other clinical options and assessment methods in real-world situations.  Originality: This work stands out for its statistical and probabilistic approach in the application of Hidden Markov Models (HMM) in medical analysis, offering an innovative perspective and enhancing the understanding of their utility in the field of medicine.  Limitations: It is recognized that there are limitations, such as dependence on data quality and variable applicability in clinical cases. These limitations should be considered in the context of their implementation in medical practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.16925/2357-6014.2024.01.02"
+    },
+    {
+        "id": 11742,
+        "title": "Compressed computations using wavelets for hidden Markov models with continuous observations",
+        "authors": "Luca Bello, John Wiedenhöft, Alexander Schliep",
+        "published": "2023-6-6",
+        "citations": 1,
+        "abstract": "Compression as an accelerant of computation is increasingly recognized as an important component in engineering fast real-world machine learning methods for big data; c.f., its impact on genome-scale approximate string matching. Previous work showed that compression can accelerate algorithms for Hidden Markov Models (HMM) with discrete observations, both for the classical frequentist HMM algorithms—Forward Filtering, Backward Smoothing and Viterbi—and Gibbs sampling for Bayesian HMM. For Bayesian HMM with continuous-valued observations, compression was shown to greatly accelerate computations for specific types of data. For instance, data from large-scale experiments interrogating structural genetic variation can be assumed to be piece-wise constant with noise, or, equivalently, data generated by HMM with dominant self-transition probabilities. Here we extend the compressive computation approach to the classical frequentist HMM algorithms on continuous-valued observations, providing the first compressive approach for this problem. In a large-scale simulation study, we demonstrate empirically that in many settings compressed HMM algorithms very clearly outperform the classical algorithms with no, or only an insignificant effect, on the computed probabilities and infered state paths of maximal likelihood. This provides an efficient approach to big data computations with HMM. An open-source implementation of the method is available from https://github.com/lucabello/wavelet-hmms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0286074"
+    },
+    {
+        "id": 11743,
+        "title": "Learning Gaussian Hidden Markov Models From Aggregate Data",
+        "authors": "Rahul Singh, Yongxin Chen",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2022.3187352"
+    },
+    {
+        "id": 11744,
+        "title": "Expectile hidden Markov regression models for analyzing cryptocurrency returns",
+        "authors": "Beatrice Foroni, Luca Merlo, Lea Petrella",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10377-2"
+    },
+    {
+        "id": 11745,
+        "title": "On the definitions of hidden Markov models",
+        "authors": "Stefane Saize, Xiangfeng Yang",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apm.2023.10.017"
+    },
+    {
+        "id": 11746,
+        "title": "Towards detecting TV customer frustration using Hidden Markov Models",
+        "authors": "Zhi Chen, Shuai Zhang, Sally McClean, Brahim Allan, Ian Kegel",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10449166"
+    },
+    {
+        "id": 11747,
+        "title": "Learning Transient Electromyographic Activities during Lower-limb Motion Initiation using Gaussian Mixture Hidden Markov Models",
+        "authors": "Huiwen Jin, Zhiping Lin, Yongming Chen, Haihong Zhang, Chuanchu Wang, Soon Huat Ng, Christina Ka Yin Tang, Kai Keng Ang",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241881"
+    },
+    {
+        "id": 11748,
+        "title": "HMC-COVID-19: Hidden Markov Chains Model for COVID-19 Diagnosis",
+        "authors": "Soumia Goumiri, Dalila Benboudjema",
+        "published": "2023-9-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dasa59624.2023.10286601"
+    },
+    {
+        "id": 11749,
+        "title": "Hidden Markov Models for Low-Frequency Earthquake Recurrence",
+        "authors": "Jessica Allen, Ting Wang",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00031305.2023.2282631"
+    },
+    {
+        "id": 11750,
+        "title": "Decoding MicroRNA Motifs: A Time Series Approach using Hidden Markov Models",
+        "authors": "Fatemeh Farhadi, Mohammad Allahbakhsh, Haleh Amintoosi, Mohammad Ghahri",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccke60553.2023.10326271"
+    },
+    {
+        "id": 11751,
+        "title": "Dynamic health status monitoring using aged care quality indicators for better care: An innovative approach using mixture hidden Markov models",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.silva"
+    },
+    {
+        "id": 11752,
+        "title": "Data-Driven Quickest Change Detection in Hidden Markov Models",
+        "authors": "Qi Zhang, Zhongchang Sun, Luis C. Herrera, Shaofeng Zou",
+        "published": "2023-6-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isit54713.2023.10206588"
+    },
+    {
+        "id": 11753,
+        "title": "Bayesian Semiparametric Hidden Markov Tensor Models for Time Varying Random Partitions with Local Variable Selection",
+        "authors": "Giorgio Paulon, Peter Müller, Abhra Sarkar",
+        "published": "2023-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1383"
+    },
+    {
+        "id": 11754,
+        "title": "Learning Dependencies of Discrete Speech Representations with Neural Hidden Markov Models",
+        "authors": "Sung-Lin Yeh, Hao Tang",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094772"
+    },
+    {
+        "id": 11755,
+        "title": "Erratum to: Variable Selection for Hidden Markov Models with Continuous Variables and Missing Data",
+        "authors": "Fulvia Pennoni, Francesco Bartolucci, Silvia Pandolfi",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00357-024-09464-4"
+    },
+    {
+        "id": 11756,
+        "title": "Exactly optimal Bayesian quickest change detection for hidden Markov models",
+        "authors": "Jason J. Ford, Jasmin James, Timothy L. Molloy",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.automatica.2023.111232"
+    },
+    {
+        "id": 11757,
+        "title": "Individualized post-crisis monitoring of psychiatric patients via Hidden Markov models",
+        "authors": "Roger Garriga, Vicenç Gómez, Gábor Lugosi",
+        "published": "2024-2-2",
+        "citations": 0,
+        "abstract": "IntroductionIndividuals in the midst of a mental health crisis frequently exhibit instability and face an elevated risk of recurring crises in the subsequent weeks, which underscores the importance of timely intervention in mental healthcare. This work presents a data-driven method to infer the mental state of a patient during the weeks following a mental health crisis by leveraging their historical data. Additionally, we propose a policy that determines the necessary duration for closely monitoring a patient after a mental health crisis before considering them stable.MethodsWe model the patient’s mental state as a Hidden Markov Process, partially observed through mental health crisis events. We introduce a closed-form solution that leverages the model parameters to optimally estimate the risk of future mental health crises. Our policy determines a patient should be closely monitored when their estimated risk of crisis exceeds a predefined threshold. The method’s performance is evaluated using both simulated data and a real-world dataset comprising 162 anonymized psychiatric patients.ResultsIn the simulations, 96.2% of the patients identified by the policy were in an unstable state, achieving a F1 score of 0.74. In the real-world dataset, the policy yielded an F1 score of 0.79, with a sensitivity of 79.8% and specificity of 88.9%. Under this policy, 67.3% of the patients should undergo close monitoring for one week, 21.6% during 2 weeks or more, while 11.1% do not need close monitoring.DiscussionThe simulation results provide compelling evidence that the method is effective under the specified assumptions. When applied to actual psychiatric patients, the proposed policy showed significant potential for providing an individualized assessment of the required duration for close and automatic monitoring after a mental health crisis to reduce the relapse risks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fdgth.2024.1322555"
+    },
+    {
+        "id": 11758,
+        "title": "Optimal Inference of Hidden Markov Models Through Expert-Acquired Data",
+        "authors": "Amirhossein Ravari, Seyede Fatemeh Ghoreishi, Mahdi Imani",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2024.3358261"
+    },
+    {
+        "id": 11759,
+        "title": "Feature subset selection in data-stream environments using asymmetric hidden Markov models and novelty detection",
+        "authors": "Carlos Puerto-Santana, Pedro Larrañaga, Concha Bielza",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126641"
+    },
+    {
+        "id": 11760,
+        "title": "Spatially Weighted Bayesian Classification of Spatio-Temporal Areal Data Based on Gaussian-Hidden Markov Models",
+        "authors": "Kęstutis Dučinskas, Marta Karaliutė, Laura Šaltytė-Vaisiauskė",
+        "published": "2023-1-9",
+        "citations": 0,
+        "abstract": "This article is concerned with an original approach to generative classification of spatiotemporal areal (or lattice) data based on implementation of spatial weighting to Hidden Markov Models (HMMs). In the framework of this approach data model at each areal unit is specified by conditionally independent Gaussian observations and first-order Markov chain for labels and call it local HMM. The proposed classification is based on modification of conventional HMM by the implementation of spatially weighted estimators of local HMMs parameters. We focus on classification rules based on Bayes discriminant function (BDF) with plugged in the spatially weighted parameter estimators obtained from the labeled training sample. For each local HMM, the estimators of regression coefficients and variances and two types of transition probabilities are used in two levels (higher and lower) of spatial weighting. The average accuracy rate (ACC) and balanced accuracy rate (BAC), computed from confusion matrices evaluated from a test sample, are used as performance measures of classifiers. The proposed methodology is illustrated for simulated data and for real dataset, i.e., annual death rate data collected by the Institute of Hygiene of the Republic of Lithuania from the 60 municipalities in the period from 2001 to 2019. Critical comparison of proposed classifiers is done. The experimental results showed that classifiers based on HMM with higher level of spatial weighting in majority cases have advantage in spatial–temporal consistency and classification accuracy over one with lower level of spatial weighting.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11020347"
+    },
+    {
+        "id": 11761,
+        "title": "Multispecies discrimination of seals (pinnipeds) using hidden Markov models (HMMs)",
+        "authors": "Marek B. Trawicki",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "Hidden Markov models (HMMs) were developed and implemented for the discrimination of five available Seals (Pinnipeds), namely, the Bearded Seal (Erignathus Barbatus), Harp Seal (Pagophilus Groenlandicus), Leopard Seal (Hydrurga Leptonyx), Ross Seal (Ommatophoca Rossii), and Weddell Seal (Leptonychotes Weddellii). The main objectives of the experiments were to study the impact of the frame size and step size and number of states for feature extraction and acoustic models on classification accuracy. Based on the experimentation using Mel-Frequency Cepstral Coefficients (MFCCs) extracted from the vocalizations (15 ms frame size and 4 ms step size), HMMs containing 20 states with single underlying Gaussian mixture model (GMM) produced discrimination of 95.77%. From the results, the framework could be applied to analysis for other marine mammals for both classification and detection of vocalizations and species.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1121/10.0018725"
+    },
+    {
+        "id": 11762,
+        "title": "State switching pattern of motor imagery revealed by hidden Markov models",
+        "authors": "Y. Liu, S. Sun, T. Zhang",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijpsycho.2023.05.325"
+    },
+    {
+        "id": 11763,
+        "title": "Hidden Semi-Markov Models-Based Visual Perceptual State Recognition for Pilots",
+        "authors": "Lina Gao, Changyuan Wang, Gongpu Wu",
+        "published": "2023-7-14",
+        "citations": 1,
+        "abstract": "Pilots’ loss of situational awareness is one of the human factors affecting aviation safety. Numerous studies have shown that pilot perception errors are one of the main reasons for a lack of situational awareness without a proper system to detect these errors. The main objective of this study is to examine the changes in pilots’ eye movements during various flight tasks from the perspective of visual awareness. The pilot’s gaze rule scanning strategy is mined through cSPADE, while a hidden semi-Markov model-based model is used to detect the pilot’s visuoperceptual state, linking the correlation between the hidden state and time. The performance of the proposed algorithm is then compared with that of the hidden Markov model (HMM), and the more flexible hidden semi-Markov model (HSMM) is shown to have an accuracy of 93.55%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23146418"
+    },
+    {
+        "id": 11764,
+        "title": "Analyzing the Rainfall Pattern in Honduras Through Non-Homogeneous Hidden Markov Models",
+        "authors": "Gustavo Alexis Sabillón, Daiane Aparecida Zuanetti",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "One of the major climatic interests of the last decades has been to understand and describe the rainfall patterns of specific areas of the world as functions of other climate covariates. We do it for the historical climate monitoring data from Tegucigalpa, Honduras, using non-homogeneous hidden Markov models (NHMMs), which are dynamic models usually used to identify and predict heterogeneous regimes. For estimating the NHMM in an efficient and scalable way, we propose the stochastic Expectation-Maximization (EM) algorithm and a Bayesian method, and compare their performance in synthetic data. Although these methodologies have already been used for estimating several other statistical models, it is not the case of NHMMs which are still widely fitted by the traditional EM algorithm. We observe that, under tested conditions, the performance of the Bayesian and stochastic EM algorithms is similar and discuss their slight differences. Analyzing the Honduras rainfall data set, we identify three heterogeneous rainfall periods and select temperature and humidity as relevant covariates for explaining the dynamic relation among these periods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.6339/23-jds1091"
+    },
+    {
+        "id": 11765,
+        "title": "Comparative Analysis of Spoken Telugu digits using MFCC and LPCC via Hidden Markov Models",
+        "authors": "Parabattina Bhagath, Meghana Pullagura, Pradip K Das",
+        "published": "2023-3-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/spin57001.2023.10116567"
+    },
+    {
+        "id": 11766,
+        "title": "Prognostics of rotating machines through generalized Gaussian hidden Markov models",
+        "authors": "Elia Soave, Gianluca D’Elia, Giorgio Dalpiaz",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymssp.2022.109767"
+    },
+    {
+        "id": 11767,
+        "title": "Lokatt: a hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network",
+        "authors": "Xuechun Xu, Nayanika Bhalla, Patrik Ståhl, Joakim Jaldén",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nBasecalling long DNA sequences is a crucial step in nanopore-based DNA sequencing protocols. In recent years, the CTC-RNN model has become the leading basecalling model, supplanting preceding hidden Markov models (HMMs) that relied on pre-segmenting ion current measurements. However, the CTC-RNN model operates independently of prior biological and physical insights.\n\nResults\nWe present a novel basecaller named Lokatt: explicit duration Markov model and residual-LSTM network. It leverages an explicit duration HMM (EDHMM) designed to model the nanopore sequencing processes. Trained on a newly generated library with methylation-free Ecoli samples and MinION R9.4.1 chemistry, the Lokatt basecaller achieves basecalling performances with a median single read identity score of 0.930, a genome coverage ratio of 99.750%, on par with existing state-of-the-art structure when trained on the same datasets.\n\nConclusion\nOur research underlines the potential of incorporating prior knowledge into the basecalling processes, particularly through integrating HMMs and recurrent neural networks. The Lokatt basecaller showcases the efficacy of a hybrid approach, emphasizing its capacity to achieve high-quality basecalling performance while accommodating the nuances of nanopore sequencing. These outcomes pave the way for advanced basecalling methodologies, with potential implications for enhancing the accuracy and efficiency of nanopore-based DNA sequencing protocols.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05580-x"
+    },
+    {
+        "id": 11768,
+        "title": "Automatic gender recognition and speaker identification of Rhesus Macaques (Macaca mulatta) using hidden Markov models (HMMs)",
+        "authors": "Marek B. Trawicki",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10772-024-10090-z"
+    },
+    {
+        "id": 11769,
+        "title": "Finite mixture of hidden Markov models for tensor-variate time series data",
+        "authors": "Abdullah Asilkalkan, Xuwen Zhu, Shuchismita Sarkar",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11634-023-00540-y"
+    },
+    {
+        "id": 11770,
+        "title": "Identifiability of discrete input–output hidden Markov models with external signals",
+        "authors": "Étienne David, Jean Bellot, Sylvain Le Corff, Luc Lehéricy",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10364-7"
+    },
+    {
+        "id": 11771,
+        "title": "Review and Responses for Hidden Markov Models and Flight Phase Identification",
+        "authors": "Emy Arts, Nicoletta Fala, Junzi Sun, Rémi Perrichon, Xavier Gendre, Thierry Klein",
+        "published": "2024-1-21",
+        "citations": 0,
+        "abstract": "See detailed reviews and responses in the PDF file.\r\nDOI for the original paper: https://doi.org/10.59490/joas.2024.7269",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59490/joas.2024.7368"
+    },
+    {
+        "id": 11772,
+        "title": "A secure adaptive Hidden Markov Model-based JPEG steganography method",
+        "authors": "Debina Laishram, Themrichon Tuithung",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17152-5"
+    },
+    {
+        "id": 11773,
+        "title": "An automatic college library book recommendation system using optimized Hidden Markov based weighted fuzzy ranking model",
+        "authors": "Monika Verma, Pawan Kumar Patnaik",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.107664"
+    },
+    {
+        "id": 11774,
+        "title": "Estimating Hidden Markov Models (HMMs) of the cognitive process in strategic thinking using eye-tracking",
+        "authors": "Xiaomin Li, Thomas Henning, Colin Camerer",
+        "published": "2023-10-19",
+        "citations": 0,
+        "abstract": "Hidden Markov Models (HMMs) are used to study language, sleep, macroeconomic states, and other processes that reflect probabilistic transitions between states that can't be observed directly. This paper applies HMMs to data from location-based game theory experiments. In these location games, players choose a pixel location from an image. These players either have a common goal (choose a matching location), or competing goals, to mismatch (hide) or match (seek) in hider-seeker games. We use eye-tracking to record where players look throughout the experimental decision. Each location's numerical salience is predicted using an accurate, specialized vision science-based neural network [the Saliency Attentive Model (SAM)]. The HMM shows the pattern of transitioning from hidden states corresponding to either high or low-salience locations, combining the eye-tracking and salience data. The transitions vary based on the player's strategic goal. For example, hiders transition more often to low-salience states than seekers do. The estimated HMM is then used to do two useful things. First, a continuous-time HMM (cHMM) predicts the salience level of each player's looking over several seconds. The cHMM can then be used to predict what would happen if the same process was truncated by time pressure: This calculation makes a specific numerical prediction about how often seekers will win, and it predicts an increase in win rate but underestimates the size of the change. Second, a discrete-time HMM (dHMM) can be used to infer levels of strategic thinking from high-to-low salience eye-tracking transitions. The resulting estimates are more plausible than some maximum-likelihood models, which underestimate strategic sophistication in these games. Other applications of HMM in experimental economics are suggested.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frbhe.2023.1225856"
+    },
+    {
+        "id": 11775,
+        "title": "Modeling three-dimensional T-cell motility using clustering and hidden Markov models",
+        "authors": "Elaheh Torkashvand",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": " Recent advances in imaging technologies now allow for real-time tracking of fast-moving immune cells as they search for targets such as pathogens and tumor cells through complex three-dimensional tissues. Cytotoxic T cells are specialized immune cells that continually scan tissues for such targets to engage and kill, and have emerged as the principle mediators of breakthrough immunotherapies against cancers. Modeling the way these T cells move is of great value in furthering our understanding of their collective search efficiency. T-cell motility is characterized by heterogeneity at two levels: (a) Individual cells display different distributions of translational speeds and turning angles, and (b) each cell can during a given track, its motility, switch between local search and directional motion. Despite a likely considerable influence on a motile population’s search performance, statistical models that accurately capture both such heterogeneities in a distinguishing manner are lacking. Here, we model three-dimensional T-cell trajectories through a spherical representation of their incremental steps and compare model outputs to real-world motility data from primary T cells navigating physiological environments. T cells in a population are clustered based on their directional persistence and characteristic “step lengths” therein capturing between-cell heterogeneity. The motility dynamics of cells within each cluster are individually modeled through hidden Markov model to capture within-cell transitions between local and more extensive search patterns. We explore the importance of explicitly capturing altered motility patterns when cells lie in close proximity to one another, through a non-homogenous hidden Markov model. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/09622802231172041"
+    },
+    {
+        "id": 11776,
+        "title": "Variational Bayesian analysis of nonhomogeneous hidden Markov models with long and ultralong sequences",
+        "authors": "Xinyuan Chen, Yiwei Li, Xiangnan Feng, Joseph T. Chang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-aoas1685"
+    },
+    {
+        "id": 11777,
+        "title": "Go Multivariate: Recommendations on Bayesian Multilevel Hidden Markov Models with Categorical Data",
+        "authors": "Sebastian Mildiner Moraga, Emmeke Aarts",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00273171.2023.2205392"
+    },
+    {
+        "id": 11778,
+        "title": "Approximate Bayesian Estimation of Stochastic Volatility in Mean Models Using Hidden Markov Models: Empirical Evidence from Emerging and Developed Markets",
+        "authors": "Carlos A. Abanto-Valle, Gabriel Rodríguez, Luis M. Castro Cepero, Hernán B. Garrafa-Aragón",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10614-023-10490-4"
+    },
+    {
+        "id": 11779,
+        "title": "Variable Selection for Hidden Markov Models with Continuous Variables and Missing Data",
+        "authors": "Fulvia Pennoni, Francesco Bartolucci, Silvia Pandolfi",
+        "published": "2024-1-23",
+        "citations": 0,
+        "abstract": "AbstractWe propose a variable selection method for multivariate hidden Markov models with continuous responses that are partially or completely missing at a given time occasion. Through this procedure, we achieve a dimensionality reduction by selecting the subset of the most informative responses for clustering individuals and simultaneously choosing the optimal number of these clusters corresponding to latent states. The approach is based on comparing different model specifications in terms of the subset of responses assumed to be dependent on the latent states, and it relies on a greedy search algorithm based on the Bayesian information criterion seen as an approximation of the Bayes factor. A suitable expectation-maximization algorithm is employed to obtain maximum likelihood estimates of the model parameters under the missing-at-random assumption. The proposal is illustrated via Monte Carlo simulation and an application where development indicators collected over eighteen years are selected, and countries are clustered into groups to evaluate their growth over time.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00357-023-09457-9"
+    },
+    {
+        "id": 11780,
+        "title": "Hidden markov models in reliability and maintenance",
+        "authors": "María Luz Gámiz, Nikolaos Limnios, María del Carmen Segovia-García",
+        "published": "2023-2",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejor.2022.05.006"
+    },
+    {
+        "id": 11781,
+        "title": "Some Generalized Entropy Ergodic Theorems for Nonhomogeneous Hidden Markov Models",
+        "authors": "Qifeng Yao, Longsheng Cheng, Wenhe Chen, Ting Mao",
+        "published": "2024-2-18",
+        "citations": 0,
+        "abstract": "Entropy measures the randomness or uncertainty of a stochastic process, and the entropy rate refers to the limit of the time average of entropy. The generalized entropy rate in the form of delayed averages can overcome the redundancy of initial information while ensuring stationarity. Therefore, it has better practical value. A Hidden Markov Model (HMM) contains two stochastic processes, a stochastic process in which all states can be observed and a Markov chain in which all states cannot be observed. The entropy rate is an important characteristic of HMMs. The transition matrix of a homogeneous HMM is unique, while a Nonhomogeneous Hidden Markov Model (NHMM) requires the transition matrices to be dependent on time variables. From the perspective of model structure, NHMMs are novel extensions of homogeneous HMMs. In this paper, the concepts of the generalized entropy rate and NHMMs are defined and fully explained, a strong limit theorem and limit properties of a norm are presented, and then generalized entropy ergodic theorems with an almost surely convergence for NHMMs are obtained. These results provide concise formulas for the computation and estimation of the generalized entropy rate for NHMMs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math12040605"
+    },
+    {
+        "id": 11782,
+        "title": "Malicious attack detection based on continuous Hidden Markov Models in Wireless sensor networks",
+        "authors": "Anselme Russel Affane Moundounga, Hassan Satori, Youssef Boutazart, Ezzine Abderrahim",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.micpro.2023.104888"
+    },
+    {
+        "id": 11783,
+        "title": "Combining Hidden Markov Models for Prognostics of Systems Subjected to Perfect and Imperfect Maintenance Operations",
+        "authors": "Mattia Zanotelli, J. Hines, Jamie Coble",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13182/npichmit23-40979"
+    },
+    {
+        "id": 11784,
+        "title": "Real‐time threat assessment based on hidden Markov models",
+        "authors": "Ourania Theodosiadou, Despoina Chatzakou, Theodora Tsikrika, Stefanos Vrochidis, Ioannis Kompatsiaris",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractAn essential factor toward ensuring the security of individuals and critical infrastructures is the timely detection of potentially threatening situations. To this end, especially in the law enforcement context, the availability of effective and efficient threat assessment mechanisms for identifying and eventually preventing crime‐ and terrorism‐related threatening situations is of utmost importance. Toward this direction, this work proposes a hidden Markov model‐based threat assessment framework for effectively and efficiently assessing threats in specific situations, such as public events. Specifically, a probabilistic approach is adopted to estimate the threat level of a situation at each point in time. The proposed approach also permits the reflection of the dynamic evolution of a threat over time by considering that the estimation of the threat level at a given time is affected by past observations. This estimation of the dynamic evolution of the threat is very useful, since it can support the decisions by security personnel regarding the taking of precautionary measures in case the threat level seems to adopt an upward trajectory, even before it reaches the highest level. In addition, its probabilistic basis allows for taking into account noisy data. The applicability of the proposed framework is showcased in a use case that focuses on the identification of potential threats in public events on the basis of evidence obtained from the automatic visual analysis of the footage of surveillance cameras.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/risa.14105"
+    },
+    {
+        "id": 11785,
+        "title": "Enhancing Human Action Recognition with Asymmetric Generalized Gaussian Mixture Model-Based Hidden Markov Models and Bounded Support",
+        "authors": "Hussein Al–Bazzaz, Muhammad Azam, Manar Amayri, Nizar Bouguila",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394608"
+    },
+    {
+        "id": 11786,
+        "title": "Large-scale dependent multiple testing via hidden semi-Markov models",
+        "authors": "Jiangzhou Wang, Pengfei Wang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00180-023-01367-z"
+    },
+    {
+        "id": 11787,
+        "title": "Modeling price dynamics and risk Forecasting in Tehran Stock Exchange: Conditional Variance Heteroscedasticity Hidden Markov Models",
+        "authors": "Moslem Nilchi, Daryush Farid, Moslem Peymany, Hamidreza Mirzaei",
+        "published": "2023-9-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30699/ijf.2023.383644.1399"
+    },
+    {
+        "id": 11788,
+        "title": "A multi-step APT attack detection using hidden Markov models by molecular magnetic sensors",
+        "authors": "U. Sakthivelu, C. N. S. Vinoth Kumar",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11082-023-05905-3"
+    },
+    {
+        "id": 11789,
+        "title": "DRL-HIFA: a dynamic recommendation system with deep reinforcement learning based Hidden Markov Weight Updation and factor analysis",
+        "authors": "Krishnamoorthi S, Gopal K. Shyam",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18296-8"
+    },
+    {
+        "id": 11790,
+        "title": "Hidden Markov models for presence detection based on CO2 fluctuations",
+        "authors": "Christos Karasoulas, Christoforos Keroglou, Eleftheria Katsiri, Georgios Ch. Sirakoulis",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "Presence sensing systems are gaining importance and are utilized in various contexts such as smart homes, Ambient Assisted Living (AAL) and surveillance technology. Typically, these systems utilize motion sensors or cameras that have a limited field of view, leading to potential monitoring gaps within a room. However, humans release carbon dioxide (CO2) through respiration which spreads within an enclosed space. Consequently, an observable rise in CO2 concentration is noted when one or more individuals are present in a room. This study examines an approach to detect the presence or absence of individuals indoors by analyzing the ambient air’s CO2 concentration using simple Markov Chain Models. The proposed scheme achieved an accuracy of up to 97% in both experimental and real data demonstrating its efficacy in practical scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frobt.2023.1280745"
+    },
+    {
+        "id": 11791,
+        "title": "Stochastic Precipitation Generation for the Xilingol League Using Hidden Markov Models with Variational Bayes Parameter Estimation",
+        "authors": "Shenyi Zhang, Mulati Tuerde, Xijian Hu",
+        "published": "2023-10-14",
+        "citations": 0,
+        "abstract": "Precipitation modeling holds significant importance in various fields such as agriculture, animal husbandry, weather derivatives, hydrology, and risk and disaster preparedness. Stochastic precipitation generators (SPGs) represent a class of statistical models designed to generate synthetic data capable of simulating dry and wet precipitation stretches for a long duration. The construction of Hidden Markov Models (HMMs), which treat latent meteorological circumstances as hidden states, is an efficient technique for simulating precipitation. Considering that there are many choices of emission distributions used to generate positive precipitation, the characteristics of different distributions for simulating positive precipitation have not been fully explored. The paper includes a simulation study that demonstrates how the Pareto distribution, when used as the distribution for generating positive precipitation, addresses the limitations of the exponential and gamma distributions in predicting heavy precipitation events. Additionally, the Pareto distribution offers flexibility through adjustable parameters, making it a promising option for precipitation modeling. We can estimate parameters in HMMs using forward–backward algorithms, Variational Bayes Expectation-Maximization (VBEM), and Stochastic Variational Bayes (SVB). In the Xilingol League, located in the central part of the Inner Mongolia Autonomous Region, China, our study involved data analysis to identify crucial locations demonstrating a robust correlation and notable partial correlation between the Normalized Difference Vegetation Index (NDVI) and annual precipitation. We performed fitting of monthly dry days ratios and monthly precipitation using seasonal precipitation and year-round precipitation data at these crucial locations. Subsequently, we conducted precipitation predictions for the daily, monthly, and annual time frames using the new test dataset observations. The study concludes that the SPG fits the monthly dry-day ratio better for annual daily precipitation data than for seasonal daily precipitation data. The fitting error for the monthly dry day ratio corresponding to annual daily precipitation data is 0.053 (exponential distribution) and 0.066 (Pareto distribution), while for seasonal daily precipitation data, the fitting error is 0.14 (exponential distribution) and 0.15 (Pareto distribution). The exponential distribution exhibits the poorest performance as a model for predicting future precipitation, with average errors of 2.49 (daily precipitation), 40.62 (monthly precipitation), and 130.40 (annual precipitation). On the other hand, the Pareto distribution demonstrates the best overall predictive performance, with average errors of 0.69 (daily precipitation), 34.69 (monthly precipitation), and 66.42 (annual precipitation). The results of this paper can provide decision support for future grazing strategies in the Xilingol League.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/w15203600"
+    },
+    {
+        "id": 11792,
+        "title": "Fuzzy Cognitive Maps and Hidden Markov Models: Comparative Analysis of Efficiency within the Confines of the Time Series Classification Task",
+        "authors": "Jakub Michal Bilski, Agnieszka Jastrzebska",
+        "published": "2023-8-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fuzz52849.2023.10309694"
+    },
+    {
+        "id": 11793,
+        "title": "Bayesian filtering for macroscopic hidden Markov models: Potential and limits of minimal informative priors to improve parameter inference",
+        "authors": "Jan L. Münch, Ralf Schmauder, Klaus Benndorf",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bpj.2023.11.3335"
+    },
+    {
+        "id": 11794,
+        "title": "Generalization of Auto-Regressive Hidden Markov Models to Non-Linear Dynamics and Unit Quaternion Observation Space",
+        "authors": "Michele Ginesi, Paolo Fiorini",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3301218"
+    },
+    {
+        "id": 11795,
+        "title": "Dynamic texture classification based on bag-of-models with mixture of student’s t-hidden Markov models",
+        "authors": "Zhengyi Xing, Yulong Qiao, Yue Zhao, Wenhui Liu",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cviu.2023.103653"
+    },
+    {
+        "id": 11796,
+        "title": "Prioritizing software regression testing using reinforcement learning and hidden Markov model",
+        "authors": "Neelam Rawat, Vikas Somani, Arun Kr. Tripathi",
+        "published": "2023-12-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/1206212x.2023.2273585"
+    },
+    {
+        "id": 11797,
+        "title": "Order selection for heterogeneous semiparametric hidden Markov models",
+        "authors": "Yudan Zou, Xinyuan Song, Qian Zhao",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "Hidden Markov models (HMMs), which can characterize dynamic heterogeneity, are valuable tools for analyzing longitudinal data. The order of HMMs (ie, the number of hidden states) is typically assumed to be known or predetermined by some model selection criterion in conventional analysis. As prior information about the order frequently lacks, pairwise comparisons under criterion‐based methods become computationally expensive with the model space growing. A few studies have conducted order selection and parameter estimation simultaneously, but they only considered homogeneous parametric instances. This study proposes a Bayesian double penalization (BDP) procedure for simultaneous order selection and parameter estimation of heterogeneous semiparametric HMMs. To overcome the difficulties in updating the order, we create a brand‐new Markov chain Monte Carlo algorithm coupled with an effective adjust‐bound reversible jump strategy. Simulation results reveal that the proposed BDP procedure performs well in estimation and works noticeably better than the conventional criterion‐based approaches. Application of the suggested method to the Alzheimer's Disease Neuroimaging Initiative research further supports its usefulness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/sim.10069"
+    },
+    {
+        "id": 11798,
+        "title": "Fast and Efficient Maximum Likelihood Estimation of Stochastic Copula Models via Discrete-State Hidden Markov Model Approximation",
+        "authors": "TaeHyung Kim, JeongMin Park",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21023/jmf.37.3.2"
+    },
+    {
+        "id": 11799,
+        "title": "MODELING THE MANY EARTHQUAKES IN SUMATRA USING POISSON HIDDEN MARKOV MODELS AND EXPECTATION MAXIMIZATION ALGORITHM",
+        "authors": "Muhammad Arib Alwansyah, Ramya Rachmawati",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Sumatra Island is one of the islands that are prone to earthquakes because Sumatra Island is located at the confluence of three plates, namely the large Indo-Australian plate, the Eurasian plate and the Philippine plate. In general, the number of earthquake events follows the Poisson distribution, but there are cases where there is overdispersion in the Poisson distribution. The Poisson Hidden Markov Models (PHMMs) method is used to overcome overdispersion, then applying the Expectation-Maximization Algorithm (EM algorithm) to each model to obtain the estimated parameters. From the models obtained, the best model will be selected based on the smallest Akaike Information Criterion (AIC) value. The data used is secondary data on earthquake events on the island of Sumatra from January 2000 to December 2022 with a depth of ≤ 70 Km and a magnitude of ≥ 4.4 Mw. From the research, the model with m = 3 is the best estimation model with an AIC value of 1503,286. From the best model, estimates are obtained for Poisson Hidden Markov Models with an average occurrence of earthquakes of 5.7633 ≈ 6 events within one month.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30598/barekengvol18iss1pp0163-10135"
+    },
+    {
+        "id": 11800,
+        "title": "Modeling matrix variate time series via hidden Markov models with skewed emissions",
+        "authors": "Michael P. B. Gallaugher, Xuwen Zhu",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "AbstractData collected today have increasingly become more complex and cannot be analyzed using regular statistical methods. Matrix variate time series data is one such example where the observations in the time series are matrices. Herein, we introduce a set of three hidden Markov models using skewed matrix variate emission distributions for modeling matrix variate time series data. Compared to the hidden Markov model with matrix variate normal emissions, the proposed models present greater flexibility and are capable of modeling skewness in time series data. Parameter estimation is performed using an expectation maximization algorithm. We then look at both simulated data and salary data for public Texas universities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/sam.11666"
+    },
+    {
+        "id": 11801,
+        "title": "Influence of prior knowledge on eye movements to scenes as revealed by hidden Markov models",
+        "authors": "Marek A. Pedziwiatr, Sophie Heer, Antoine Coutrot, Peter J. Bex, Isabelle Mareschal",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1167/jov.23.10.10"
+    },
+    {
+        "id": 11802,
+        "title": "Directional fault classification for correlated High-Dimensional data streams using hidden Markov models",
+        "authors": "Yan He, Yicheng Kang, Fugee Tsung, Dongdong Xiang",
+        "published": "2023-10-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00224065.2023.2210320"
+    },
+    {
+        "id": 11803,
+        "title": "Stock Price Forecasting using Hidden Markov Models",
+        "authors": "Attia Shabbir, Raja Hashim Ali, Muhammad Zeeshan Shabbir, Zain Ul Abideen, Ali Zeeshan Ijaz, Nisar Ali, Muhammad Huzaifa Shah, Said Nabi, Kiran Perveen",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icit59216.2023.10335889"
+    },
+    {
+        "id": 11804,
+        "title": "An unsupervised structural health monitoring framework based on Variational Autoencoders and Hidden Markov Models",
+        "authors": "Eduardo M. Coraça, Janito V. Ferreira, Eurípedes G.O. Nóbrega",
+        "published": "2023-3",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ress.2022.109025"
+    },
+    {
+        "id": 11805,
+        "title": "Finite-State Markov-Chain Approximations: A Hidden Markov Approach",
+        "authors": "Eva F. Janssens, Sean McCrary",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "This paper proposes a novel finite-state Markov chain approximation method for Markov processes with continuous support, providing both an optimal grid and transition probability matrix. The method can be used for multivariate processes, as well as non-stationary processes such as those with a life-cycle component. The method is based on minimizing the information loss between a Hidden Markov Model and the true data-generating process. We provide sufficient conditions under which this information loss can be made arbitrarily small if enough grid points are used. We compare our method to existing methods through the lens of an asset-pricing model, and a life-cycle consumption-savings model. We find our method leads to more parsimonious discretizations and more accurate solutions, and the discretization matters for the welfare costs of risk, the marginal propensities to consume, and the amount of wealth inequality a life-cycle model can generate.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17016/feds.2023.040"
+    },
+    {
+        "id": 11806,
+        "title": "Automatic block-wise genotype-phenotype association detection based on hidden Markov model",
+        "authors": "Jin Du, Chaojie Wang, Lijun Wang, Shanjun Mao, Bencong Zhu, Zheng Li, Xiaodan Fan",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nFor detecting genotype-phenotype association from case–control single nucleotide polymorphism (SNP) data, one class of methods relies on testing each genomic variant site individually. However, this approach ignores the tendency for associated variant sites to be spatially clustered instead of uniformly distributed along the genome. Therefore, a more recent class of methods looks for blocks of influential variant sites. Unfortunately, existing such methods either assume prior knowledge of the blocks, or rely on ad hoc moving windows. A principled method is needed to automatically detect genomic variant blocks which are associated with the phenotype.\n\nResults\nIn this paper, we introduce an automatic block-wise Genome-Wide Association Study (GWAS) method based on Hidden Markov model. Using case–control SNP data as input, our method detects the number of blocks associated with the phenotype and the locations of the blocks. Correspondingly, the minor allele of each variate site will be classified as having negative influence, no influence or positive influence on the phenotype. We evaluated our method using both datasets simulated from our model and datasets from a block model different from ours, and compared the performance with other methods. These included both simple methods based on the Fisher’s exact test, applied site-by-site, as well as more complex methods built into the recent Zoom-Focus Algorithm. Across all simulations, our method consistently outperformed the comparisons.\n\nConclusions\nWith its demonstrated better performance, we expect our algorithm for detecting influential variant sites may help find more accurate signals across a wide range of case–control GWAS.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05265-5"
+    },
+    {
+        "id": 11807,
+        "title": "Early Intention Prediction of Lane-Changing Based on Dual Gaussian-Mixed Hidden Markov Models",
+        "authors": "Zheng Li, Yijing Wang, Zhiqiang Zuo, Zhengxuan Liu, Yining Chen, Hongchao Li",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10384096"
+    },
+    {
+        "id": 11808,
+        "title": "Fetal states identification in cardiotocographic tracings through discrete emissions multivariate hidden Markov models",
+        "authors": "Edoardo Spairani, Giulio Steyde, Salvatore Tagliaferri, Maria G. Signorini, Giovanni Magenes",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cmpb.2023.107736"
+    },
+    {
+        "id": 11809,
+        "title": "A comparison between marginal likelihood and data augmented MCMC algorithms for Gaussian hidden Markov models",
+        "authors": "Daniele Tancini, Francesco Bartolucci, Silvia Pandolfi",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00949655.2023.2294098"
+    },
+    {
+        "id": 11810,
+        "title": "High-stake student drop-out prediction using hidden Markov models in fully asynchronous subscription-based MOOCs",
+        "authors": "Dries F. Benoit, Wai Kit Tsang, Kristof Coussement, Annelies Raes",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.techfore.2023.123009"
+    },
+    {
+        "id": 11811,
+        "title": "Packet loss concealment method based on hidden Markov model and decision tree for AMR-WB codec",
+        "authors": "Tarek Gueham, Fatiha Merazka",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15914-9"
+    },
+    {
+        "id": 11812,
+        "title": "Prediction of Equipment Consumption Based on Partial Least Squares Regression and Markov Chain Models",
+        "authors": "Xuexin Zhang",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbta60381.2023.00015"
+    },
+    {
+        "id": 11813,
+        "title": "Predicting the Health Status of a Pulp Press Based on Deep Neural Networks and Hidden Markov Models",
+        "authors": "Alexandre Martins, Balduíno Mateus, Inácio Fonseca, José Torres Farinha, João Rodrigues, Mateus Mendes, António Marques Cardoso",
+        "published": "2023-3-11",
+        "citations": 2,
+        "abstract": "The maintenance paradigm has evolved over the last few years and companies that want to remain competitive in the market need to provide condition-based maintenance (CBM). The diagnosis and prognosis of the health status of equipment, predictive maintenance (PdM), are fundamental strategies to perform informed maintenance, increasing the company’s profit. This article aims to present a diagnosis and prognosis methodology using a hidden Markov model (HMM) classifier to recognise the equipment status in real time and a deep neural network (DNN), specifically a gated recurrent unit (GRU), to determine this same status in a future of one week. The data collected by the sensors go through several phases, starting by cleaning them. After that, temporal windows are created in order to generate statistical features of the time domain to better understand the equipment’s behaviour. These features go through a normalisation to produce inputs for a feature extraction process, via a principal component analysis (PCA). After the dimensional reduction and obtaining new features with more information, a clustering is performed by the K-means algorithm, in order to group similar data. These clusters enter the HMM classifier as observable states. After training using the Baum–Welch algorithm, the Viterbi algorithm is used to find the best path of hidden states that represent the diagnosis of the equipment, containing three states: state 1—“State of Good Operation”; state 2—“Warning State”; state 3—“Failure State”. Once the equipment diagnosis is complete, the GRU model is used to predict the future, both of the observable states as well as the hidden states coming out from the HMM. Thus, through this network, it is possible to directly obtain the health states 7 days ahead, without the necessity to run the whole methodology from scratch.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en16062651"
+    },
+    {
+        "id": 11814,
+        "title": "Automatic age recognition, call-type classification, and speaker identification of Zebra Finches (Taeniopygia guttata) using hidden Markov models (HMMs)",
+        "authors": "Marek B. Trawicki",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10772-023-10041-0"
+    },
+    {
+        "id": 11815,
+        "title": "Jobs-housing balance and travel patterns among different occupations as revealed by Hidden Markov mixture models: the case of Hong Kong",
+        "authors": "Feiyang Zhang, Becky P. Y. Loo, Hui Lan, Antoni B. Chan, Janet H. Hsiao",
+        "published": "2023-4-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11116-023-10390-4"
+    },
+    {
+        "id": 11816,
+        "title": "Hidden Markov Models based intelligent health assessment and fault diagnosis of rolling element bearings",
+        "authors": "Yao Qifeng, Cheng Longsheng, Muhammad Tariq Naeem",
+        "published": "2024-2-7",
+        "citations": 1,
+        "abstract": "Hidden Markov Models (HMMs) have become an immensely popular tool for health assessment and fault diagnosis of rolling element bearings. The advantages of an HMM include its simplicity, robustness, and interpretability, while the generalization capability of the model still needs to be enhanced. The Dempster-Shafer theory of evidence can be used to conduct a comprehensive evaluation, and Stacking provides a novel training strategy. Therefore, the HMM-based fusion method and ensemble learning method are proposed to increase the credibility of quantitative analysis and optimize classifiers respectively. Firstly, vibration signals captured from bearings are decomposed into intrinsic mode functions (IMFs) using ensemble empirical mode decomposition (EEMD), and then the Hilbert envelope spectra of main components are obtained; Secondly, multi-domain features are extracted as model input from preprocessed signals; Finally, HMM-based intelligent health assessment framework and fault diagnosis framework are established. In this work, the life cycle health assessment modeling is performed using a few training samples, the bearing degradation state is quantitatively evaluated, normal and abnormal samples are effectively distinguished, and the accuracy of fault diagnosis is significantly improved.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0297513"
+    },
+    {
+        "id": 11817,
+        "title": "Design and fabrication of a GaN HEMT power amplifier based on hidden Markov model for wireless applications",
+        "authors": "Mohammad Soruri, S. Mohammad Razavi, Mehdi Forouzanfar, Paolo Colantonio",
+        "published": "2023-5-5",
+        "citations": 1,
+        "abstract": "Improvement of power amplifier’s performance is the desired topic in communication systems. There are many efforts are made to provide good input and output matching, high efficiency, sufficient power gain and appropriate output power. This paper presents a power amplifier with optimized input and output matching networks. In the proposed approach, a new structure of the Hidden Markov Model with 20 hidden states is used for modeling the power amplifier. The widths and lengths of the microstrip lines in the input and output matching networks are defined as the parameters that the Hidden Markov Model should optimize. For validating our algorithm, a power amplifier has been realized based on a 10W GaN HEMT with part number CG2H40010F from the Cree corporation. Measurement results have shown a PAE higher than 50%, a Gain of about 14 dB, and input and output return losses lower than -10 dB over the frequency range of 1.8–2.5 GHz. The proposed PA can be used in wireless applications such as radar systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0285186"
+    },
+    {
+        "id": 11818,
+        "title": "Continuous-Emission Markov Models for Real-Time Applications: Bounding Deadline Miss Probabilities",
+        "authors": "Anna Friebe, Filip Marković, Alessandro Vittorio Papadopoulos, Thomas Nolte",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rtas58335.2023.00009"
+    },
+    {
+        "id": 11819,
+        "title": "Estimate exponential memory decay in hidden Markov model and its applications to inference",
+        "authors": "Felix X.-F. Ye, Yi-an Ma, Hong Qian",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.physd.2024.134053"
+    },
+    {
+        "id": 11820,
+        "title": "Combining Mixed Effects Hidden Markov Models with Latent Alternating Recurrent Event Processes to Model Diurnal Active–Rest Cycles",
+        "authors": "Benny Ren, Ian Barnett",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Abstract\nData collected from wearable devices can shed light on an individual's pattern of behavioral and circadian routine. Phone use can be modeled as alternating processes, between the state of active use and the state of being idle. Markov chains and alternating recurrent event models are commonly used to model state transitions in cases such as these, and the incorporation of random effects can be used to introduce diurnal effects. While state labels can be derived prior to modeling dynamics, this approach omits informative regression covariates that can influence state memberships. We instead propose an alternating recurrent event proportional hazards (PH) regression to model the transitions between latent states. We propose an expectation–maximization algorithm for imputing latent state labels and estimating parameters. We show that our E-step simplifies to the hidden Markov model (HMM) forward–backward algorithm, allowing us to recover an HMM with logistic regression transition probabilities. In addition, we show that PH modeling of discrete-time transitions implicitly penalizes the logistic regression likelihood and results in shrinkage estimators for the relative risk. This new estimator favors an extended stay in a state and is useful for modeling diurnal rhythms. We derive asymptotic distributions for our parameter estimates and compare our approach against competing methods through simulation as well as in a digital phenotyping study that followed smartphone use in a cohort of adolescents with mood disorders.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/biom.13865"
+    },
+    {
+        "id": 11821,
+        "title": "Pattern Recognition for Hidden Markov Processes: Locality and Accuracy",
+        "authors": "Shieu-Hong Lin",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiiot58121.2023.10174326"
+    },
+    {
+        "id": 11822,
+        "title": "On adaptive learning paths using hidden Markov models",
+        "authors": "Hyunhee Choi, Yunji Lee, Hayun Lee,  ",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "Due to the global impact of COVID-19, the use of non-face-to-face learning is increasing. For non-face-to-face learning, it is important to create a learning path based on efficiency. This study introduces the hidden Markov model (HMM) as a method of creating a learning path known as a network in which knowledge concepts are arranged in order, that is, the path of experience that students may encounter in class. and it aims to improve the accuracy of path prediction by using a variable selection technique that includes least absolute shrinkage and selection operator (LASSO), and random forest (RF) before performing HMM. In addition, this study aims to show that the learning path based on higher-order concepts made of precedence relationships from HMM is more accurate than other candidate paths. As a result of using data shared by AI-hub (https://aihub.or.kr/), the performance of HMM when selecting relational pairs using LASSO, and RF was improved significantly, and the case of using HMM when evaluating the learning path consisting of higher concepts was excellent in terms of model goodness of fit compared to other models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37727/jkdas.2023.25.2.585"
+    },
+    {
+        "id": 11823,
+        "title": "Recursive Parameter Estimation and Its Convergence for Multivariate Normal Hidden Markov Inhomogeneous Models",
+        "authors": "Miftahul Fikri, Zulkurnain Abdul-Malek, Mona Riza Mohd Esa, Eko Supriyanto",
+        "published": "2023-10-19",
+        "citations": 0,
+        "abstract": "In this paper, will discussed parameter estimation and convergence analysis of multivariate normal hidden inhomogeneous Markov models. The results of this research show that by using the expectation maximization algorithm, a sequence of parameter estimators converges to a stationary point of the likelihood function in a monotonically increasing manner.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11113/mjfas.v19n5.3041"
+    },
+    {
+        "id": 11824,
+        "title": "Completing and Predicting Internet Traffic Matrices Using Adversarial Autoencoders and Hidden Markov Models",
+        "authors": "Alessio Sacco, Flavio Esposito, Guido Marchetto",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnsm.2023.3270166"
+    },
+    {
+        "id": 11825,
+        "title": "Analysis of Speaker Verification Method Based on Hidden Markov Models for Continuous Speech System",
+        "authors": "Mahdi Fadil Khaleeland",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26706/ijaefea.4.10.20231904"
+    },
+    {
+        "id": 11826,
+        "title": "Identifiability of Hidden Markov Models for Learning Trajectories in Cognitive Diagnosis",
+        "authors": "Ying Liu, Steven Andrew Culpepper, Yuguo Chen",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11336-023-09904-x"
+    },
+    {
+        "id": 11827,
+        "title": "A new hybrid model of convolutional neural networks and hidden Markov chains for image classification",
+        "authors": "Soumia Goumiri, Dalila Benboudjema, Wojciech Pieczynski",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08644-4"
+    },
+    {
+        "id": 11828,
+        "title": "Replica Analysis of the Linear Model With Markov or Hidden Markov Signal Priors",
+        "authors": "Lan V. Truong",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tit.2023.3299490"
+    },
+    {
+        "id": 11829,
+        "title": "Adversary decision-making using Markov models",
+        "authors": "Elizabeth Andreas, Jessica Dorismond, Marco Gamarra",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2655223"
+    },
+    {
+        "id": 11830,
+        "title": "Prediction of stock price by Hidden Markov model",
+        "authors": "Xin An",
+        "published": "2023-3-2",
+        "citations": 0,
+        "abstract": "Hidden Markov model is widely used in different fields, such as speech decoding, weather prediction, biometric, medical diagnosis and prediction. This paper explores the application of hidden Markov model in quantitative investment in the financial field, mainly in the field of securities trading. The main idea of this paper is to crack the different market states reflected in the price changes of securities. Price changes are affected by different market states at the same time, but this state is hidden and needs to be inferred. If people can calculate the relevant parameters of the state and its transition matrix, people can predict the stock price trend and establish the own trading strategy at the same time. The hidden Markov model is used as a theoretical basis in this paper, through the analysis of the fit between the stock market and the model, as well as various statistical knowledge as a tool. Through EM algorithm and machine learning as the programming basis, people finally selected Pingan and Moutai as the research objects, predicted the stock price changes through training. Therefore, when the training set is sufficiently large, hidden Markov model will have a bright performance in stock price prediction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54691/bcpbm.v38i.3709"
+    },
+    {
+        "id": 11831,
+        "title": "A Note on Hidden Markov Models with Application to Criminal Intelligence",
+        "authors": "P. Osatohanmwen, M. S. Omotayo-Tomo, F. O. Oyegue, V. Mazona, F. Ewere, A. Bilesanmi, N. L. Osawe",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "Hidden Markov Models (HMMs) which fall under the class of latent variable models have received widespread attention in many fields of applications. HMMs were initially developed and applied within the context of speech recognition. The theoretical framework underpinning the formalism of HMMs has also evolved over time and has found an exalted place in the theory of stochastic processes.  The three problems HMMs are used to resolve were discussed alongside their solutions in this paper. An application to criminal intelligence in unraveling the culprit in a situation involving theft was also carried out and results obtained indicated that the HMMs approach offered a similar result with that of the well-established Dynamic Programming approach.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4314/jasem.v27i2.13"
+    },
+    {
+        "id": 11832,
+        "title": "Validating hidden Markov models for seabird behavioural inference",
+        "authors": "Rebecca A. Akeresola, Adam Butler, Esther L. Jones, Ruth King, Víctor Elvira, Julie Black, Gail Robertson",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "AbstractUnderstanding animal movement and behaviour can aid spatial planning and inform conservation management. However, it is difficult to directly observe behaviours in remote and hostile terrain such as the marine environment. Different underlying states can be identified from telemetry data using hidden Markov models (HMMs). The inferred states are subsequently associated with different behaviours, using ecological knowledge of the species. However, the inferred behaviours are not typically validated due to difficulty obtaining ‘ground truth’ behavioural information. We investigate the accuracy of inferred behaviours by considering a unique data set provided by Joint Nature Conservation Committee. The data consist of simultaneous proxy movement tracks of the boat (defined as visual tracks as birds are followed by eye) and seabird behaviour obtained by observers on the boat. We demonstrate that visual tracking data is suitable for our study. Accuracy of HMMs ranging from 71% to 87% during chick‐rearing and 54% to 70% during incubation was generally insensitive to model choice, even when AIC values varied substantially across different models. Finally, we show that for foraging, a state of primary interest for conservation purposes, identified missed foraging bouts lasted for only a few seconds. We conclude that HMMs fitted to tracking data have the potential to accurately identify important conservation‐relevant behaviours, demonstrated by a comparison in which visual tracking data provide a ‘gold standard’ of manually classified behaviours to validate against. Confidence in using HMMs for behavioural inference should increase as a result of these findings, but future work is needed to assess the generalisability of the results, and we recommend that, wherever feasible, validation data be collected alongside GPS tracking data to validate model performance. This work has important implications for animal conservation, where the size and location of protected areas are often informed by behaviours identified using HMMs fitted to movement data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/ece3.11116"
+    },
+    {
+        "id": 11833,
+        "title": "Approximate hidden semi-Markov models for dynamic connectivity analysis in resting-state fMRI",
+        "authors": "Mark B. Fiecas, Christian Coffman, Meng Xu, Timothy J. Hendrickson, Bryon A. Mueller, Bonnie Klimes-Dougan, Kathryn R. Cullen",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4310/22-sii730"
+    },
+    {
+        "id": 11834,
+        "title": "Flexible Modelling of Diel and Other Periodic Variation in Hidden Markov Models",
+        "authors": "Carlina C. Feldmann, Sina Mews, Angelica Coculla, Ralf Stanewsky, Roland Langrock",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "AbstractAnimal behaviour is often characterised by periodic patterns such as seasonality or diel variation. Such periodic variation can be comprehensively studied from the increasingly detailed ecological time series that are nowadays collected, e.g. using GPS tracking. Within the class of hidden Markov models (HMMs), which is a popular tool for modelling time series driven by underlying behavioural modes, periodic variation is commonly modelled by including trigonometric functions in the linear predictors for the state transition probabilities. This parametric modelling can be too inflexible to capture complex periodic patterns, e.g. featuring multiple activity peaks per day. Here, we explore an alternative approach using penalised splines to model periodic variation in the state-switching dynamics of HMMs. The challenge of estimating the corresponding complex models is substantially reduced by the expectation–maximisation algorithm, which allows us to make use of the existing machinery (and software) for nonparametric regression. The practicality and potential usefulness of our approach is demonstrated in two real-data applications, modelling the movements of African elephants and of common fruit flies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42519-023-00342-7"
+    },
+    {
+        "id": 11835,
+        "title": "Algebraic Reduction of Hidden Markov Models",
+        "authors": "Tommaso Grigoletto, Francesco Ticozzi",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3279209"
+    },
+    {
+        "id": 11836,
+        "title": "Attentional heterogeneity in social anxiety disorder: Evidence from Hidden Markov Models",
+        "authors": "Mikael Rubin, Karl Muller, Mary M. Hayhoe, Michael J. Telch",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.brat.2023.104461"
+    },
+    {
+        "id": 11837,
+        "title": "Regularized hidden Markov modeling with applications to wind speed predictions in offshore wind",
+        "authors": "Anna Haensch, Eleonora M. Tronci, Bridget Moynihan, Babak Moaveni",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymssp.2024.111229"
+    },
+    {
+        "id": 11838,
+        "title": "Fuzzy random hidden Markov decision tree classification model for analyzing hourly integrated day-ahead locational marginal price secret trend in energy forecasting",
+        "authors": "G. Kavitha, K. Kalpana",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0149137"
+    },
+    {
+        "id": 11839,
+        "title": "State Estimation for Markov Jump Genetic Oscillator Networks Based on Hidden Markov Model <sup>†</sup>",
+        "authors": "Banming Ruan, Xiongbo Wan",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10239937"
+    },
+    {
+        "id": 11840,
+        "title": "Uncovering hidden patterns of design ideation using hidden Markov modeling and neuroimaging",
+        "authors": "Mo Hu, Christopher McComb, Kosa Goucher-Lambert",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "Abstract\nThe study presented in this paper applies hidden Markov modeling (HMM) to uncover the recurring patterns within a neural activation dataset collected while designers engaged in a design concept generation task. HMM uses a probabilistic approach that describes data (here, fMRI neuroimaging data) as a dynamic sequence of discrete states. Without prior assumptions on the fMRI data's temporal and spatial properties, HMM enables an automatic inference on states in neurocognitive activation data that are highly likely to occur in concept generation. The states with a higher likelihood of occupancy show more activation in the brain regions from the executive control network, the default mode network, and the middle temporal cortex. Different activation patterns and transfers are associated with these states, linking to varying cognitive functions, for example, semantic processing, memory retrieval, executive control, and visual processing, that characterize possible transitions in cognition related to concept generation. HMM offers new insights into cognitive dynamics in design by uncovering the temporal and spatial patterns in neurocognition related to concept generation. Future research can explore new avenues of data analysis methods to investigate design neurocognition and provide a more detailed description of cognitive dynamics in design.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0890060423000021"
+    },
+    {
+        "id": 11841,
+        "title": "A COMPARISON OF NEURAL-NETWORK AND HIDDEN-MARKOV-MODEL APPROACHES TO THE TIRED SEGMENTATION OF SPEECH",
+        "authors": "M HUCKVALE",
+        "published": "2024-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20928"
+    },
+    {
+        "id": 11842,
+        "title": "Altın Fiyatlarındaki Değişimin Saklı Markov Modeli İle İncelenmesi",
+        "authors": "Ayşenur AKIN VARGELOĞLU, Yaprak Arzu ÖZDEMİR",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "Önemli yatırım araçlarından biri olan altın, piyasalar üzerindeki etkisi sebebiyle dünya çapında birçok yatırımcı tarafından takip edilmektedir. Bu sebeple altın fiyatlarının tahmini ve etkileyen faktörlerin belirlenmesi önemli problemlerden biridir. Bu çalışmada, altın fiyatlarındaki yüzdesel değişim oranı ve sebepleri saklı Markov modelleri ile tahmin edilmiştir. Bunun için 2013-2023 yılları arası altın, dolar, faiz ve enflasyon oranı verileri kullanılmıştır. Altın fiyatlarındaki yüzdesel değişim gözlemler olarak tanımlanırken, altın fiyatlarını etkileyen dolar, faiz ve enflasyon oranlarından mümkün 18 saklı durum elde edilmiştir. Saklı Markov modeli birinci temel probleminin çözümünde ileri yön algoritması kullanılmıştır. Bu algoritma ile 2 aylık dönemlerde karşılaşılacak gözlem dizisi olasılıkları hesaplanmıştır. Bu dönemde altın fiyatlarındaki yüzdesel değişimin 0,5’ten büyük olması olasılığı %23,6 olarak bulunmuştur. Gözlem dizilerini en iyi açıklayan saklı durumlar Viterbi algoritması ile incelenmiştir. Elde edilen sonuçlar gerçek veriler ile karşılaştırdığında yüksek doğruluk oranlarının elde edildiği gözlenmiştir.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23834/isrjournal.1349186"
+    },
+    {
+        "id": 11843,
+        "title": "A method for constructing interpretable hidden Markov models for the task of identifying binding cores in sequences",
+        "authors": "D.A. Kleverov, A.A. Shalyto, M.N. Artyomov",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17586/2226-1494-2023-23-5-989-1000"
+    },
+    {
+        "id": 11844,
+        "title": "Markov Models on Share Price Movements in Nigeria Stock Market Capitalization",
+        "authors": "",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18576/jsap/130124"
+    },
+    {
+        "id": 11845,
+        "title": "Multiple testing in genome-wide association studies via hierarchical hidden Markov models",
+        "authors": "Pengfei Wang, Zhaofeng Tian",
+        "published": "2024-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jspi.2024.106161"
+    },
+    {
+        "id": 11846,
+        "title": "Taxonomic distribution of opsin families inferred from UniProt Reference Proteomes and a suite of opsin-specific hidden Markov models",
+        "authors": "Neil D. Clarke, John S. Taylor",
+        "published": "2023-7-4",
+        "citations": 0,
+        "abstract": "IntroductionOpsins are a large and sequence-diverse family of light-responsive G-protein coupled receptors involved in vision, circadian rhythm, and other processes. Numerous subfamilies have been defined based on sequence similarity, cell-type localization, signal transduction mechanism, or biological function, but there is no consensus classification system.MethodsWe used multiple hidden Markov models (HMMs) to identify opsins in the UniProt Reference Proteomes database. Opsin-specific HMMs were also used in an annotation procedure that represents sequences as a vector of HMM scores and assess the similarity of these vectors to those of annotated sequences. UniProt Reference Proteomes are built from genome sequences, allowing us to make meaningful comparisons of the number of opsins in each of the 260 species available at the time of the survey in absolute terms and relative to a larger superfamily of which opsins are a member.ResultsMore than 2,000 opsins were retrieved from 262 species (all metazoans).DiscussionMerging opsin counts into higher order taxa paints a broad view of the taxonomic distribution of opsins, and of opsin subfamilies, annotated according to three different schemes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fevo.2023.1190549"
+    },
+    {
+        "id": 11847,
+        "title": "A Latent Hidden Markov Model for Process Data",
+        "authors": "Xueying Tang",
+        "published": "2023-11-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11336-023-09938-1"
+    },
+    {
+        "id": 11848,
+        "title": "Use of Hidden Markov Model Technique to Characterize and Classify the Wideband Mobile Radio Channel in Different Environments",
+        "authors": "Rafael S. Azevedo, Edson Cataldo, Leni J. Matos",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1590/2179-10742024v23i1276299"
+    },
+    {
+        "id": 11849,
+        "title": "Using Markov Models And Fault Tree For Finding The Reliability Of Some Engineering Problems",
+        "authors": "Atika Hassan Abdulmunem, Zahir Al-Khafaji",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiceta57613.2023.10351249"
+    },
+    {
+        "id": 11850,
+        "title": "Improved Hidden Markov Algorithm Based on Bayes in Low Dose CT Images",
+        "authors": "",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.38007/ijmc.2023.040104"
+    },
+    {
+        "id": 11851,
+        "title": "Rule-based Matching and Hidden Markov Model-based Warning for Brushing Behavior",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/jaip.2024.070119"
+    },
+    {
+        "id": 11852,
+        "title": "Variational Bayes inference for hidden Markov diagnostic classification models",
+        "authors": "Kazuhiro Yamaguchi, Alfonso J. Martinez",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "AbstractDiagnostic classification models (DCMs) can be used to track the cognitive learning states of students across multiple time points or over repeated measurements. This study developed an effective variational Bayes (VB) inference method for hidden Markov longitudinal general DCMs. The simulations performed in this study verified the validity of the proposed algorithm for satisfactorily recovering true parameters. Simulation and applied data analyses were conducted to compare the proposed VB method to Markov chain Monte Carlo (MCMC) sampling. The results revealed that the parameter estimates provided by the VB method were consistent with the MCMC method with the additional benefit of a faster estimation time. The comparative simulation also indicated differences between the two methods in terms of posterior standard deviation and coverage of 95% credible intervals. Thus, with limited computational resources and time, the proposed VB method can output estimations comparable to that of MCMC.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/bmsp.12308"
+    },
+    {
+        "id": 11853,
+        "title": "Hidden Markov guided Deep Learning models for forecasting highly volatile agricultural commodity prices",
+        "authors": "G. Avinash, V. Ramasubramanian, Mrinmoy Ray, Ranjit Kumar Paul, Samarth Godara, G.H. Harish Nayak, Rajeev Ranjan Kumar, B. Manjunatha, Shashi Dahiya, Mir Asif Iquebal",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2024.111557"
+    },
+    {
+        "id": 11854,
+        "title": "Author Correction: Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models",
+        "authors": "Janet H. Hsiao, Jeehye An, Veronica Kit Sum Hui, Yueyuan Zheng, Antoni B. Chan",
+        "published": "2023-2-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41539-023-00154-1"
+    },
+    {
+        "id": 11855,
+        "title": "Fault Diagnosis for Industrial Alarm Floods Based on Discrete Hidden Markov Model",
+        "authors": "Xiwen Huang, Wenkai Hu, Weihua Cao",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240442"
+    },
+    {
+        "id": 11856,
+        "title": "Prediction Using Markov Model and Hidden Markov Model for the States of Banknotes",
+        "authors": "Mosaad Hendam, Khaled Mahfouz, Mohamed Genedi",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21608/ajbas.2024.241492.1190"
+    },
+    {
+        "id": 11857,
+        "title": "The continuous-time hidden Markov model based on discretization. Properties of estimators and applications",
+        "authors": "María Luz Gámiz, Nikolaos Limnios, Mari Carmen Segovia-García",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractIn this paper we consider continuous-time hidden Markov processes (CTHMM). The model considered is a two-dimensional stochastic process $$(X_t,Y_t)$$\n\n(\n\nX\nt\n\n,\n\nY\nt\n\n)\n\n, with $$X_t$$\n\nX\nt\n\n an unobserved (hidden) Markov chain defined by its generating matrix and $$Y_t$$\n\nY\nt\n\n an observed process whose distribution law depends on $$X_t$$\n\nX\nt\n\n and is called the emission function. In general, we allow the process $$Y_t$$\n\nY\nt\n\n to take values in a subset of the q-dimensional real space, for some q. The coupled process $$(X_t,Y_t)$$\n\n(\n\nX\nt\n\n,\n\nY\nt\n\n)\n\n is a continuous-time Markov chain whose generator is constructed from the generating matrix of X and the emission distribution. We study the theoretical properties of this two-dimensional process using a formulation based on semi-Markov processes. Observations of the CTHMM are obtained by discretization considering two different scenarii. In the first case we consider that observations of the process Y are registered regularly in time, while in the second one, observations arrive at random. Maximum-likelihood estimators of the characteristics of the coupled process are obtained in both scenarii and the asymptotic properties of these estimators are shown, such as consistency and normality. To illustrate the model a real-data example and a simulation study are considered.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11203-023-09292-0"
+    },
+    {
+        "id": 11858,
+        "title": "A Hidden Markov Model Reveals Neural Correlates of Motivation-States in Monkeys",
+        "authors": "Luke Priestley, Matthew Rushworth, Nima Khalighinejad",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32470/ccn.2023.1208-0"
+    },
+    {
+        "id": 11859,
+        "title": "Mapping care pathways in children with TBI using Markov Models",
+        "authors": "Viktor-Jan De Deken, Wilfried Cools, Helena van Deynse, Koen Putman, Kurt Barbé",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/memea57477.2023.10171883"
+    },
+    {
+        "id": 11860,
+        "title": "Developing a Hidden Markov Model - Gaussian Mixture Model Framework to Classify Gait Patterns in Huntington's Disease",
+        "authors": "Natalie Yeung",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4622913"
+    },
+    {
+        "id": 11861,
+        "title": "Prediction of Five-Year Survival Rate for Rectal Cancer using Markov Models of Convolutional Features of RhoB Expression on Tissue Microarray",
+        "authors": "Tuan D. Pham",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcbb.2023.3274211"
+    },
+    {
+        "id": 11862,
+        "title": "Statistical brand switching model: an Hidden Markov approach",
+        "authors": "K. Kumaraswamy, N. Ch. Bhatracharyulu",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12597-022-00613-0"
+    },
+    {
+        "id": 11863,
+        "title": "Learning Circular Hidden Quantum Markov Models: A Tensor Network Approach",
+        "authors": "Mohammad Ali Javidian, Vaneet Aggarwal, Zubin Jacob",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tqe.2023.3319254"
+    },
+    {
+        "id": 11864,
+        "title": "Research on Pig Sound Recognition Based on Deep Neural Network and Hidden Markov Models",
+        "authors": "Weihao Pan, Hualong Li, Xiaobo Zhou, Jun Jiao, Cheng Zhu, Qiang Zhang",
+        "published": "2024-2-16",
+        "citations": 0,
+        "abstract": "In order to solve the problem of low recognition accuracy of traditional pig sound recognition methods, deep neural network (DNN) and Hidden Markov Model (HMM) theory were used as the basis of pig sound signal recognition in this study. In this study, the sounds made by 10 landrace pigs during eating, estrus, howling, humming and panting were collected and preprocessed by Kalman filtering and an improved endpoint detection algorithm based on empirical mode decomposition-Teiger energy operator (EMD-TEO) cepstral distance. The extracted 39-dimensional mel-frequency cepstral coefficients (MFCCs) were then used as a dataset for network learning and recognition to build a DNN- and HMM-based sound recognition model for pig states. The results show that in the pig sound dataset, the recognition accuracy of DNN-HMM reaches 83%, which is 22% and 17% higher than that of the baseline models HMM and GMM-HMM, and possesses a better recognition effect. In a sub-dataset of the publicly available dataset AudioSet, DNN-HMM achieves a recognition accuracy of 79%, which is 8% and 4% higher than the classical models SVM and ResNet18, respectively, with better robustness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24041269"
+    },
+    {
+        "id": 11865,
+        "title": "Hidden Markov Model Based Stock Price Prediction: A Financial Research Report Based on Big Data Technology",
+        "authors": "Boyuan Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4622722"
+    },
+    {
+        "id": 11866,
+        "title": "A Hidden Markov Model-Based Network Security Posture Prediction Model",
+        "authors": "Xiaoping Yang",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nAs a key technology of network security situational awareness, this paper focuses on network security situational prediction technology and proposes a new network security situational prediction model based on Hidden Markov Model. The paper proposes a network security posture prediction method based on the improved Hidden Markov Model for the problem that the Baum-Welch parameter training method of the traditional Hidden Markov Model for posture prediction is sensitive to initial values and easily falls into local optimum. The method obtains the initial parameters by introducing the simulated annealing algorithm and using its excellent probabilistic burst-jump property to find the optimal in the global range. The Baum-Welch algorithm is used to optimize the initial parameters further to obtain the optimal model parameters, and then a more accurate posture prediction model is established. The probability of occurrence of the alarm information sequence corresponding to the network security posture value of 3 at t= 4 is obtained by simulating the network environment for testing, which is 0.000268, 0.000152, 0.000147, 0.000284, and 0.000187. Comparing the generated network security posture values with the real situation, it is found that the predicted results in this paper are highly similar to the real values. It is verified that the improved Hidden Markov method can effectively improve the accuracy of the network security posture prediction model and reflect the network security situation more objectively and realistically.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns.2023.2.00067"
+    },
+    {
+        "id": 11867,
+        "title": "Online Motion Planning for Safe Human–Robot Cooperation Using B-Splines and Hidden Markov Models",
+        "authors": "Giovanni Braglia, Matteo Tagliavini, Fabio Pini, Luigi Biagiotti",
+        "published": "2023-8-18",
+        "citations": 1,
+        "abstract": "When humans and robots work together, ensuring safe cooperation must be a priority. This research aims to develop a novel real-time planning algorithm that can handle unpredictable human movements by both slowing down task execution and modifying the robot’s path based on the proximity of the human operator. To achieve this, an efficient method for updating the robot’s motion is developed using a two-fold control approach that combines B-splines and hidden Markov models. This allows the algorithm to adapt to a changing environment and avoid collisions. The proposed framework is thus validated using the Franka Emika Panda robot in a simple start–goal task. Our algorithm successfully avoids collision with the moving hand of an operator monitored by a fixed camera.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040118"
+    },
+    {
+        "id": 11868,
+        "title": "Hidden Markov model based finite-time H<sub>∞</sub> guaranteed cost control for singular discrete-time Markov jump delay systems",
+        "authors": "Zhiwen Chen, Bo Li, Junjie Zhao, Feng Li, Youwu Du",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ddcls58216.2023.10166946"
+    },
+    {
+        "id": 11869,
+        "title": "Hidden-Markov-model-based event-triggered output consensus for Markov jump multi-agent systems with general information",
+        "authors": "Pengcheng Ding, Feng Li, Tian Fang, Jing Wang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jfranklin.2024.106655"
+    },
+    {
+        "id": 11870,
+        "title": "Approximating Intersections and Differences Between Linear Statistical Shape Models Using Markov Chain Monte Carlo",
+        "authors": "Maximilian Weiherer, Finn Klein, Bernhard Egger",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00624"
+    },
+    {
+        "id": 11871,
+        "title": "On cover times of Markov chains",
+        "authors": "Bruno Sericola",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15326349.2024.2319201"
+    },
+    {
+        "id": 11872,
+        "title": "A Hybrid Approach to Vulnerability Assessment Combining Attack Graph and Hidden Markov",
+        "authors": "Yikang Wang, Yuqing Zhai",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsip57908.2023.10271064"
+    },
+    {
+        "id": 11873,
+        "title": "A Hidden Markov Model for Statistical Arbitrage in International Crude Oil Futures Markets",
+        "authors": "Viviana Fanelli, Claudio Fontana, Francesco Rotondi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4558702"
+    },
+    {
+        "id": 11874,
+        "title": "Hidden Markov-based Pilot Condition Monitoring",
+        "authors": "Lina Gao, Changyuan Wang, Jinna Xue",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccnea60107.2023.00019"
+    },
+    {
+        "id": 11875,
+        "title": "Project Cost Overrun Risk Prediction Using Hidden Markov Chain Analysis",
+        "authors": "Sou-Sen Leu, Yanni Liu, Pei-Lin Wu",
+        "published": "2023-3-2",
+        "citations": 1,
+        "abstract": "Construction project cost overrun is a common problem in the construction industry. The cost of construction projects is thought to have increased by approximately 33% on average. Several types of research on construction project cost overrun have been conducted and these generally rely on historical data. However, whilst each project has its own project characteristics and cost trend, real-time project cost data are more reliable to forecast its own cost trend. This paper proposes a real-time hidden Markov chain (HMM) model to predict cost overrun risk based on project-owned cost performance data and the corrective actions if adopted. The cost overrun events occurrence in this model was assumed to follow a Poisson arrival pattern. Real-time HMM with a particle filter was used to run the simulation. One SRC building project in Taiwan was used for model validation and comparison. The posterior probabilities from the real-time HMM model were highly consistent with the cost overrun ratios of real construction projects. The proposed cost overrun prediction model could provide an early alert of cost overruns to the project manager. Based on the survey of cost overrun risk and significantly influential factors, we propose effective cost management plans to alleviate the frequency of project cost overrun.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/buildings13030667"
+    },
+    {
+        "id": 11876,
+        "title": "City-scale model for COVID-19 epidemiology with mobility and social activities represented by a set of hidden Markov models",
+        "authors": "Carlos M. Pais, Matias I. Godano, Emanuel Juarez, Abelardo del Prado, Jose Biurrun Manresa, H. Leonardo Rufiner",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2023.106942"
+    },
+    {
+        "id": 11877,
+        "title": "Application of Markov models to maintenance-required systems",
+        "authors": "Laith Abd Al Ameer Issa, Zahir Abdul Haddi Hassan",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0129687"
+    },
+    {
+        "id": 11878,
+        "title": "On the approximation of high-order binary Markov chains by parsimonious models",
+        "authors": "Yuriy S. Kharin, Valeriy A. Voloshko",
+        "published": "2024-4-25",
+        "citations": 0,
+        "abstract": "Abstract\nWe consider two parsimonious models of binary high-order Markov chains and discover their ability to approximate arbitrary high-order Markov chains. Two types of global measures for approximation accuracy are introduced, theoretical and experimental results are obtained for these measures and for the considered parsimonious models. New consistent statistical parameter estimator is constructed for parsimonious model based on two-layer artificial neural network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/dma-2024-0007"
+    },
+    {
+        "id": 11879,
+        "title": "FLAN: feature-wise latent additive neural models for biological applications",
+        "authors": "An-Phi Nguyen, Stefania Vasilaki, María Rodríguez Martínez",
+        "published": "2023-5-19",
+        "citations": 1,
+        "abstract": "Abstract\n\nMotivation\nInterpretability has become a necessary feature for machine learning models deployed in critical scenarios, e.g. legal system, healthcare. In these situations, algorithmic decisions may have (potentially negative) long-lasting effects on the end-user affected by the decision. While deep learning models achieve impressive results, they often function as a black-box. Inspired by linear models, we propose a novel class of structurally constrained deep neural networks, which we call FLAN (Feature-wise Latent Additive Networks). Crucially, FLANs process each input feature separately, computing for each of them a representation in a common latent space. These feature-wise latent representations are then simply summed, and the aggregated representation is used for the prediction. These feature-wise representations allow a user to estimate the effect of each individual feature independently from the others, similarly to the way linear models are interpreted.\n\n\nResults\nWe demonstrate FLAN on a series of benchmark datasets in different biological domains. Our experiments show that FLAN achieves good performances even in complex datasets (e.g. TCR-epitope binding prediction), despite the structural constraint we imposed. On the other hand, this constraint enables us to interpret FLAN by deciphering its decision process, as well as obtaining biological insights (e.g. by identifying the marker genes of different cell populations). In supplementary experiments, we show similar performances also on non-biological datasets.\n\n\nCode and data availability\nCode and example data are available at https://github.com/phineasng/flan_bio.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bib/bbad056"
+    },
+    {
+        "id": 11880,
+        "title": "Speech Recognition based Vending Machine using Hidden Markov Model",
+        "authors": "V. Prabhu, Jayasri S",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10467437"
+    },
+    {
+        "id": 11881,
+        "title": "Applications of transformer-based language models in bioinformatics: a survey",
+        "authors": "Shuang Zhang, Rui Fan, Yuti Liu, Shuang Chen, Qiao Liu, Wanwen Zeng",
+        "published": "2023-1-5",
+        "citations": 24,
+        "abstract": "AbstractSummaryThe transformer-based language models, including vanilla transformer, BERT and GPT-3, have achieved revolutionary breakthroughs in the field of natural language processing (NLP). Since there are inherent similarities between various biological sequences and natural languages, the remarkable interpretability and adaptability of these models have prompted a new wave of their application in bioinformatics research. To provide a timely and comprehensive review, we introduce key developments of transformer-based language models by describing the detailed structure of transformers and summarize their contribution to a wide range of bioinformatics research from basic sequence analysis to drug discovery. While transformer-based applications in bioinformatics are diverse and multifaceted, we identify and discuss the common challenges, including heterogeneity of training data, computational expense and model interpretability, and opportunities in the context of bioinformatics research. We hope that the broader community of NLP researchers, bioinformaticians and biologists will be brought together to foster future research and development in transformer-based language models, and inspire novel bioinformatics applications that are unattainable by traditional methods.Supplementary informationSupplementary data are available at Bioinformatics Advances online.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioadv/vbad001"
+    },
+    {
+        "id": 11882,
+        "title": "Hidden Markov Model Based on Logistic Regression",
+        "authors": "Byeongheon Lee, Joowon Park, Yongku Kim",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "A hidden Markov model (HMM) is a useful tool for modeling dependent heterogeneous phenomena. It can be used to find factors that affect real-world events, even when those factors cannot be directly observed. HMMs differ from traditional methods by using state variables and mixture distributions to model the hidden states. This allows HMMs to find relationships between variables even when the variables cannot be directly observed. HMM can be extended, allowing the transition probabilities to depend on covariates. This makes HMMs more flexible and powerful, as they can be used to model a wider range of sequential data. Modeling covariates in a hidden Markov model is particularly difficult when the dimension of the state variable is large. To avoid these difficulties, Markovian properties are achieved by implanting the previous state variables to the logistic regression model. We apply the proposed method to find the factors that affect the hidden state of matsutake mushroom growth, in which it is hard to find covariates that directly affect matsutake mushroom growth in Korea. We believe that this method can be used to identify factors that are difficult to find using traditional methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11204396"
+    },
+    {
+        "id": 11883,
+        "title": "Combining Similarity Measures and Left-Right Hidden Markov Models for Prognostics of Items Subjected to Perfect and Imperfect Maintenance",
+        "authors": "Mattia Zanotelli, J. Wesley Hines, Jamie B. Coble",
+        "published": "2024-2-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00295639.2024.2303165"
+    },
+    {
+        "id": 11884,
+        "title": "Nanocatalysts as fast and powerful medical intervention: Bridging cochlear implant therapies and advanced modelling using Hidden Markov Models (HMMs) for effective treatment of inner ear infections",
+        "authors": "Zhongguan Huang, Shuainan Chen, Guodao Zhang, Ahmad Almadhor, Rujie Li, Meixuan Li, Mohamed Abbas, Binh Nguyen Le, Jie Zhang, Yideng Huang",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.envres.2023.116285"
+    },
+    {
+        "id": 11885,
+        "title": "A Deep Learning and Hidden Hierarchical Markov Model based analysis of Polar Ice Depletions and effects on Movements of Vulnerable Polar Animals",
+        "authors": "Eesha Mukherjee, Catherine Barone",
+        "published": "2023-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/southeastcon51012.2023.10115081"
+    },
+    {
+        "id": 11886,
+        "title": "Non-Contact Blood Pressure Estimation Using Accurate Cardiac Movements Extracted by Hidden Semi-Markov Model",
+        "authors": "Shengze Wang, Mondher Boazizi, Tomoaki Ohtsuki",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10279060"
+    },
+    {
+        "id": 11887,
+        "title": "Identifying cues for self-organized nest wall-building behaviour in the rock ant, Temnothorax rugatulus, using hidden Markov models",
+        "authors": "E. Invernizzi, T. Michelot, V. Popov, N. Ng, E. Macqueen, A. Rouviere, M. Webster, T. Sasaki",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.anbehav.2024.01.008"
+    },
+    {
+        "id": 11888,
+        "title": "Comparing maximum likelihood and Bayesian methods for fitting hidden Markov models to multi-state capture-recapture data of invasive carp in the Illinois River",
+        "authors": "Charles J. Labuzzetta, Alison A. Coulter, Richard A. Erickson",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nHidden Markov Models (HMMs) are often used to model multi-state capture-recapture data in ecology. However, a variety of HMM modeling approaches and software exist, including both maximum likelihood and Bayesian methods. The diversity of these methods obscures the underlying HMM and can exaggerate minor differences in parameterization.\n\nMethods\nIn this paper, we describe a general framework for modelling multi-state capture-recapture data via HMMs using both maximum likelihood and Bayesian methods. We then apply an HMM to invasive silver carp telemetry data from the Illinois River and compare the results estimated by both methods.\n\nResults\nOur analysis demonstrates disadvantages of relying on a single approach and highlights insights obtained from implementing both methods together. While both methods often struggled to converge, our results show biologically informative priors for Bayesian methods and initial values for maximum likelihood methods can guide convergence toward realistic solutions. Incorporating prior knowledge of the system can successfully constrain estimation to biologically realistic movement and detection probabilities when dealing with sparse data.\n\nConclusions\nBiologically unrealistic estimates may be a sign of poor model convergence. In contrast, consistent convergence behavior across approaches can increase the credibility of a model. Estimates of movement probabilities can strongly influence the predicted population dynamics of a system. Therefore, thoroughly assessing results from HMMs is important when evaluating potential management strategies, particularly for invasive species.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40462-023-00434-w"
+    },
+    {
+        "id": 11889,
+        "title": "Aberrant dynamic properties of whole‐brain functional connectivity in acute mild traumatic brain injury revealed by hidden Markov models",
+        "authors": "Liyan Lu, Fengfang Li, Hui Li, Leilei Zhou, Xinying Wu, Fang Yuan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "AbstractObjectivesThis study aimed to investigate the temporal dynamics of brain activity and characterize the spatiotemporal specificity of transitions and large‐scale networks on short timescales in acute mild traumatic brain injury (mTBI) patients and those with cognitive impairment in detail.MethodsResting‐state functional magnetic resonance imaging (rs‐fMRI) was acquired for 71 acute mTBI patients and 57 age‐, sex‐, and education‐matched healthy controls (HCs). A hidden Markov model (HMM) analysis of rs‐fMRI data was conducted to identify brain states that recurred over time and to assess the dynamic patterns of activation states that characterized acute mTBI patients and those with cognitive impairment. The dynamic parameters (fractional occupancy, lifetime, interval time, switching rate, and probability) between groups and their correlation with cognitive performance were analyzed.ResultsTwelve HMM states were identified in this study. Compared with HCs, acute mTBI patients and those with cognitive impairment exhibited distinct changes in dynamics, including fractional occupancy, lifetime, and interval time. Furthermore, the switching rate and probability across HMM states were significantly different between acute mTBI patients and patients with cognitive impairment (all p < 0.05). The temporal reconfiguration of states in acute mTBI patients and those with cognitive impairment was associated with several brain networks (including the high‐order cognition network [DMN], subcortical network [SUB], and sensory and motor network [SMN]).ConclusionsHidden Markov models provide additional information on the dynamic activity of brain networks in patients with acute mTBI and those with cognitive impairment. Our results suggest that brain network dynamics determined by the HMM could reinforce the understanding of the neuropathological mechanisms of acute mTBI patients and those with cognitive impairment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/cns.14660"
+    },
+    {
+        "id": 11890,
+        "title": "Teaching agents to understand teamwork: Evaluating and predicting collective intelligence as a latent variable via Hidden Markov Models",
+        "authors": "Michelle Zhao, Fade R. Eadeh, Thuy-Ngoc Nguyen, Pranav Gupta, Henny Admoni, Cleotilde Gonzalez, Anita Williams Woolley",
+        "published": "2023-2",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chb.2022.107524"
+    },
+    {
+        "id": 11891,
+        "title": "Retracted: Modeling of Hidden Markov in Ultrasound Image-Assisted Diagnosis",
+        "authors": "",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9757438"
+    },
+    {
+        "id": 11892,
+        "title": "Retracted: Multimedia Recognition of Piano Music Based on the Hidden Markov Model",
+        "authors": "",
+        "published": "2023-8-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9807101"
+    },
+    {
+        "id": 11893,
+        "title": "Bayesian Heterogeneous Hidden Markov Models with an Unknown Number of States",
+        "authors": "Yudan Zou, Yiqi Lin, Xinyuan Song",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10618600.2023.2231055"
+    },
+    {
+        "id": 11894,
+        "title": "An unsupervised remote sensing image segmentation method based on hidden Markov model",
+        "authors": "Xinpeng Man, Yinglei Song",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2682584"
+    },
+    {
+        "id": 11895,
+        "title": "Computational issues in parameter estimation for hidden Markov models with template model builder",
+        "authors": "Timothée Bacri, Geir D. Berentsen, Jan Bulla, Bård Støve",
+        "published": "2023-12-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00949655.2023.2226788"
+    },
+    {
+        "id": 11896,
+        "title": "Recognition of home activities for incomplete spinal cord injury areas utilizing models of hidden Markov simulation",
+        "authors": "P. Kalyani, Y. Manasa, Baraa Riyadh Altahan, Sk. Hasane Ahammad, M. Suman, Md. Amzad Hossain, Ahmed Nabih Zaki Rashed",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11760-023-02521-2"
+    },
+    {
+        "id": 11897,
+        "title": "Using Multilevel Hidden Markov Models to Understand Driver Hazard Avoidance during the Takeover Process in Conditionally Automated Vehicles",
+        "authors": "Manhua Wang, Ravi Parikh, Myounghoon Jeon",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": " Ensuring a safe transition between the automation system and human operators is critical in conditionally automated vehicles. During the automation-to-human transition process, hazard avoidance plays an important role after human drivers regain the vehicle control. This study applies the multilevel Hidden Markov Model to understand the hazard avoidance processes in response to static road hazards as continuous processes. The three-state model—Approaching, Negotiating, and Recovering—had the best model fitness, compared to the four-state and five-state models. The trained model reaches an average of 66% accuracy rate on predicting hazard avoidance states on the testing data. The prediction performance reveals the possibility to use the hazard avoidance pattern to recognize driving behaviors. We further propose several improvements at the end to generalize our models into other scenarios, including the potential to model hazard avoidance as a basic driving skill across different levels of automation conditions. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/21695067231192612"
+    },
+    {
+        "id": 11898,
+        "title": "Parallel Algorithm for a Hidden Markov Model with an Indefinite Number of States and Heterogeneous Observation Data",
+        "authors": "Varvara Roubtsova",
+        "published": "2023-4-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3585341.3587954"
+    },
+    {
+        "id": 11899,
+        "title": "Unique Time-Series Patterns of Behavioral and Psychological Factors in Late-Life Depression: A Computational Psychiatry Approach with Hidden Markov Models",
+        "authors": "Saurab Faruque, Akiko Mizuno, Linghai Wang, Minjie Wu, Noah Schweitzer, Sarah Stahl, Howard Aizenstein",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jagp.2024.01.122"
+    },
+    {
+        "id": 11900,
+        "title": "Retracted: Automatic Classification and Analysis of Music Multimedia Combined with Hidden Markov Model",
+        "authors": "",
+        "published": "2023-8-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9820960"
+    },
+    {
+        "id": 11901,
+        "title": "Cluster Based Hidden Markov Model For Path Improvement In Mobile Wireless Sensor Network",
+        "authors": "Sakshi Pandey",
+        "published": "2023-3-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ihcsp56702.2023.10127196"
+    },
+    {
+        "id": 11902,
+        "title": "Nonparametric Identification and Estimation of Earnings Dynamics using a Hidden Markov Model: Evidence from the PSID",
+        "authors": "Tong Zhou",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaibd57115.2023.10206080"
+    },
+    {
+        "id": 11903,
+        "title": "Sentiment analysis incorporating convolutional neural network into hidden <scp>Markov</scp> model",
+        "authors": "Maryam Khanian Najafabadi",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "AbstractThe analysis of sentiments and mining of opinions have become more and more important in years because of the development of social media technologies. The methods that utilize natural language processing and lexicon‐based sentiment analysis techniques to analyze people's opinions in texts require the proper extraction of sentiment words to ensure accuracy. The current issue is tackled with a novel perspective in this paper by introducing a hybrid sentiment analysis technique. This technique brings together Convolutional Neural Network (CNN) and Hidden Markov Models (HMMs), to accurately categorize text data and pinpoint feelings. The proposed method involves 1D convolutional‐layer CNN to extract hidden features from comments and applying HMMs on a feature‐sentence matrix, allowing for the utilization of word sequences in extracting opinions. The method effectively captures diverse text patterns by extracting a range of features from texts using CNN. Text patterns are learned using text HMM by calculating the probabilities between sequences of feature vectors and clustering feature vectors. The paper's experimental evaluation employs benchmark datasets such as CR, MR, Subj, and SST2, demonstrating that the proposed method surpasses existing sentiment analysis techniques and traditional HMMs. One of its strengths is to analyze a range of text patterns and identify crucial features that recognize the emotion of different pieces of a sentence. Additionally, the research findings highlight the improved performance of sentiment analysis tasks through the strategic use of zero padding in conjunction with the masking technique.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/coin.12633"
+    },
+    {
+        "id": 11904,
+        "title": "Hidden Markov Model Based Updatable Reliability Assessment for Partially Monitored Systems",
+        "authors": "Luyao Wang, Wei Zhao, Yan-Fu Li",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/srse59585.2023.10336081"
+    }
+]

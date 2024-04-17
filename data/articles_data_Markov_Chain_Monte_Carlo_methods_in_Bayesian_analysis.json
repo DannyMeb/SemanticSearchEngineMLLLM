@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 11905,
+        "title": "Bayesian Analysis of Exponential Random Graph Models Using Stochastic Gradient Markov Chain Monte Carlo",
+        "authors": "Qian Zhang, Faming Liang",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1364"
+    },
+    {
+        "id": 11906,
+        "title": "BAYESIAN MARKOV CHAIN MONTE CARLO SIMULATION OF NONLIENAR MODEL FOR INFECTIOUS DISEASES WITH QUARANTINE",
+        "authors": "Ida Usman",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "The SIQS (Susceptible, Infective, Quarantine, and Susceptible) non-linear model is used to describe the dynamics of infectious diseases, especially optimizing individuals who are quarantined. Discretization of the SIQS model using the Runge-Kutta method and its physical interpretation is very useful if the model parameters can be estimated. Bayesian Markov Chain Monte Carlo for its numerical simulation. After 10,000 iterations, convergent and significant parameters were obtained, namely beta = 94.37, beta0 = -10.19, mu = -0.23 and b = 0.5.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22487/27765660.2023.v3.i1.16445"
+    },
+    {
+        "id": 11907,
+        "title": "An Investigation into an Alternative Transition Criterion of the Transitional Markov Chain Monte Carlo Method for Bayesian Model Updating",
+        "authors": "Adolphus Lye, Luca Marino",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3850/978-981-18-8071-1_p331-cd"
+    },
+    {
+        "id": 11908,
+        "title": "A SAS Macro for Automated Stopping of Markov Chain Monte Carlo Estimation in Bayesian Modeling with PROC MCMC",
+        "authors": "Wolfgang Wagner, Martin Hecht, Steffen Zitzmann",
+        "published": "2023-9-5",
+        "citations": 2,
+        "abstract": "A crucial challenge in Bayesian modeling using Markov chain Monte Carlo (MCMC) estimation is to diagnose the convergence of the chains so that the draws can be expected to closely approximate the posterior distribution on which inference is based. A close approximation guarantees that the MCMC error exhibits only a negligible impact on model estimates and inferences. However, determining whether convergence has been achieved can often be challenging and cumbersome when relying solely on inspecting the trace plots of the chain(s) or manually checking the stopping criteria. In this article, we present a SAS macro called %automcmc that is based on PROC MCMC and that automatically continues to add draws until a user-specified stopping criterion (i.e., a certain potential scale reduction and/or a certain effective sample size) is reached for the chain(s).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/psych5030063"
+    },
+    {
+        "id": 11909,
+        "title": "The Usage of Markov Chain Monte Carlo (MCMC) Methods in Time-varying Volatility Models",
+        "authors": "Emmanouil Garefalakis, Stefanos Giakoumatos, Antonios Rezitis",
+        "published": "2023-4-11",
+        "citations": 0,
+        "abstract": "Abstract\n\nMarkov Chain Monte Carlo (MCMC) techniques, in the context of Bayesian inference, constitute a practical and effective tool to produce samples from an arbitrary distribution. These algorithms are applied to calculate parameter values of predictive models of the phenomenon of varying volatility in data time series. For this purpose, 3 such research models of time-varying volatility are simulated in STAN a probabilistic programming language for statistical inference. The accuracy of these models’ predictive function is confirmed by applying in data time series with known prior values. Moreover, Stan models’ performance is illustrated by the real stock prices of two shares in the stock market of New York. Finally, an Information Criterion of the results is applied to each model as well, to evaluate their predictive ability, comparing and selecting the most effective one.\n\nKeywords: MCMC, Time-series, Time-varying volatility models, STAN.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47260/jrc/1011"
+    },
+    {
+        "id": 11910,
+        "title": "GANMCMCRO: A Generative Adversarial Network Markov Chain Monte Carlo Random Oversampling Algorithm for Imbalance Datasets",
+        "authors": "Najmeh Abedzadeh, Matthew Jacobs",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012259600003584"
+    },
+    {
+        "id": 11911,
+        "title": "MIMO Detection Using Gradient-Based Markov Chain Monte Carlo Methods",
+        "authors": "Xingyu Zhou, Le Liang, Jing Zhang, Chao-Kai Wen, Shi Jin",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10436955"
+    },
+    {
+        "id": 11912,
+        "title": "Bayesian calibration and fitting of nuclear thermal–hydraulic models by Markov chain Monte Carlo methods using the Gibbs sampler",
+        "authors": "José L. Muñoz-Cobo, César Berna-Escriche, David Blanco",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.anucene.2023.110318"
+    },
+    {
+        "id": 11913,
+        "title": "Bayesian backcalculation of pavement properties using parallel transitional Markov chain Monte Carlo",
+        "authors": "Keaton Coletti, Ryan C. Romeo, R. Benjamin Davis",
+        "published": "2023-11-16",
+        "citations": 0,
+        "abstract": "AbstractThis paper presents a novel Bayesian method for backcalculation of pavement dynamic modulus, stiffness, thickness, and damping using falling weight deflectometer (FWD) data. The backcalculation procedure yields estimates and uncertainties for each pavement property of interest. As a by‐product of the Bayesian procedure, information about measurement error is recovered. The Bayesian method is tested on simulated FWD backcalculations and compared with a state‐of‐the‐art trust‐region optimization algorithm, and it achieves estimation errors that are nearly an order of magnitude lower than the trust‐region solver. Confidence intervals are computed from thousands of simulated backcalculations and are shown to quantify uncertainty in estimated pavement properties. To cope with the computational expense of backcalculation, a fully parallel transitional Markov chain Monte Carlo procedure is developed. The fully parallel algorithm scales well to computation with many processor cores, and it yields up to a 50% reduction in computation time when compared to existing parallel implementations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/mice.13123"
+    },
+    {
+        "id": 11914,
+        "title": "Estimation of Reservoir Fracture Properties from Seismic Data Using Markov Chain Monte Carlo Methods",
+        "authors": "Runhai Feng, Klaus Mosegaard, Tapan Mukerji, Dario Grana",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11004-023-10129-y"
+    },
+    {
+        "id": 11915,
+        "title": "Efficient Bayesian inversion of borehole geophysical measurements with a gradient‐based Markov chain Monte Carlo method",
+        "authors": "Tianqi Deng, Joaquín Ambía, Carlos Torres‐Verdín",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "AbstractWell logs are geophysical measurements of rock properties acquired continuously along a borehole. Because of the physics underlying their operation, borehole logging instruments perform local spatial averages of rock properties in the vicinity of the borehole, yielding well logs that are often affected by tool design, layer boundaries, borehole environmental conditions and mud‐filtrate invasion. Such environmental effects are ubiquitous and can lead to errors in petrophysical–property estimations from well logs if not accounted for in the interpretation. Separate well‐log inversion mitigates environmental effects by matching well logs with their numerical simulations. The latter simulations rely on specific assumptions about the relative geometry of the borehole and the rocks penetrated by the well. For vertical wells penetrating horizontal layers, it is common to assume piecewise‐constant layer properties that we collectively refer to as the earth model; some of these properties have a direct relationship to well logs (e.g. resistivity, gamma ray, density and acoustic slowness). Well‐log inversion is traditionally approached with deterministic methods such as the Levenberg–Marquardt algorithm to minimize the differences between well logs and their numerical simulations, often without accounting for the relationship between measurement noise and model uncertainty. Bayesian inversion, on the other hand, yields the posterior probability distribution of estimated properties and intrinsically quantifies their uncertainty. However, Bayesian Well‐log inversion usually involves the implementation of Markov chain Monte Carlo sampling, which requires a prohibitive number of forward simulations and is therefore not suitable for rapid petrophysical and/or elastic and mechanical evaluations of rocks. We introduce an efficient Bayesian Well‐log inversion method using a gradient‐based Markov chain Monte Carlo method. Gradient‐based Markov chain Monte Carlo is a group of relatively new Markov chain Monte Carlo algorithms that combine gradient updates with Hessian‐based sampling. gradient‐based Markov chain Monte Carlo draws samples efficiently from the posterior probability distribution using the gradient information to guide samples towards high‐probability regions and the Hessian to approximate the posterior probability distribution locally. We verify the gradient‐based Markov chain Monte Carlo inversion method with the inversion of synthetic well logs, including gamma ray, resistivity, density, neutron porosity, photoelectric factor and compressional/shear‐wave slowness. Results show that gradient‐based Markov chain Monte Carlo decreases the computational cost by more than 90% compared to conventional Markov chain Monte Carlo sampling. Next, gradient‐based Markov chain Monte Carlo inversion is applied to a field example from the Central North Sea, where conventional interpretation methods yield shale concentration, sandstone porosity and water saturation with errors up to 19.2%, 14.9% and 48.8%, respectively. Gradient‐based Markov chain Monte Carlo inversion products satisfactorily reproduce the available measurements with only a modest increase in computational cost compared to deterministic inversion approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/1365-2478.13311"
+    },
+    {
+        "id": 11916,
+        "title": "Parameter estimation of thermal response test: A Bayesian inference using Markov chain Monte Carlo - Metropolis Hastings (MCMC-MH) approach",
+        "authors": "Siva K. Bathina, Sudheer Siddapureddy",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijthermalsci.2023.108545"
+    },
+    {
+        "id": 11917,
+        "title": "A Markov chain Monte Carlo-based Bayesian framework for system identification and uncertainty estimation of full-scale structures",
+        "authors": "Zeng-Yu Liu, Jia-Hua Yang, Heung-Fai Lam, Lin-Xin Peng",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engstruct.2023.116886"
+    },
+    {
+        "id": 11918,
+        "title": "Gaussian process metamodel and Markov chain Monte Carlo-based Bayesian inference framework for stochastic nonlinear model updating with uncertainties",
+        "authors": "Ya-Jie Ding, Zuo-Cai Wang, Yu Xin",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2023.103576"
+    },
+    {
+        "id": 11919,
+        "title": "A fast asynchronous Markov chain Monte Carlo sampler for sparse Bayesian inference",
+        "authors": "Yves Atchadé, Liwei Wang",
+        "published": "2024-2-2",
+        "citations": 0,
+        "abstract": "Abstract\nWe propose a very fast approximate Markov chain Monte Carlo sampling framework that is applicable to a large class of sparse Bayesian inference problems. The computational cost per iteration in several regression models is of order O(n(s+J)), where n is the sample size, s is the underlying sparsity of the model, and J is the size of a randomly selected subset of regressors. This cost can be further reduced by data sub-sampling when stochastic gradient Langevin dynamics are employed. The algorithm is an extension of the asynchronous Gibbs sampler of Johnson et al. [(2013). Analyzing Hogwild parallel Gaussian Gibbs sampling. In Proceedings of the 26th International Conference on Neural Information Processing Systems (NIPS’13) (Vol. 2, pp. 2715–2723)], but can be viewed from a statistical perspective as a form of Bayesian iterated sure independent screening [Fan, J., Samworth, R., & Wu, Y. (2009). Ultrahigh dimensional feature selection: Beyond the linear model. Journal of Machine Learning Research, 10, 2013–2038]. We show that in high-dimensional linear regression problems, the Markov chain generated by the proposed algorithm admits an invariant distribution that recovers correctly the main signal with high probability under some statistical assumptions. Furthermore, we show that its mixing time is at most linear in the number of regressors. We illustrate the algorithm with several models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jrsssb/qkad078"
+    },
+    {
+        "id": 11920,
+        "title": "Estimation of boundary heat flux in Micro-Channels Via Bayesian Inference By The Transitional Markov Chain Monte Carlo Algorithm",
+        "authors": "Lucas Asth, Luiz A. S. Abreu, Diego Knupp, Leonardo Stutz, Eduardo Cunha Classe",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-1816"
+    },
+    {
+        "id": 11921,
+        "title": "Bayesian machine learning analysis with Markov Chain Monte Carlo techniques for assessing characteristics and risk factors of Covid-19 in Erbil City-Iraq 2020–2021",
+        "authors": "Hewir Abdulqadir Khidir, İlker Etikan, Dler Hussein Kadir, Nozad H. Mahmood, R. Sabetvand",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aej.2023.07.052"
+    },
+    {
+        "id": 11922,
+        "title": "An investigation into Markov chain Monte Carlo algorithms for Subset simulation: Emphasizing uncertainty analysis",
+        "authors": "Zihan Liao, Weili Xia, Xiao He",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compstruc.2023.107268"
+    },
+    {
+        "id": 11923,
+        "title": "Parallel Monte Carlo Markov Chain Decoding of Linear Codes",
+        "authors": "Jiun-Ting Huang, Young-Han Kim",
+        "published": "2023-6-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isit54713.2023.10206897"
+    },
+    {
+        "id": 11924,
+        "title": "Digital core reconstruction based on discrete element and Markov chain-Monte Carlo methods",
+        "authors": "Chunqi Wang, Jun Yao, Zhaoqin Huang, Fugui Liu, Yongfei Yang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.geoen.2023.212422"
+    },
+    {
+        "id": 11925,
+        "title": "Computation of the steady-state probability of Markov chain evolving on a mixed state space",
+        "authors": "Az-eddine Zakrad, Abdelaziz Nasroallah",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe partitioning algorithm is an iterative procedure that computes explicitly the steady-state probability of a finite Markov chain 𝑋.\nIn this paper, we propose to adapt this algorithm to the case where the state space \n\n\n\nE\n:=\n\nC\n∪\nD\n\n\n\n\nE:=C\\cup D\n\n is composed of a continuous part 𝐶 and a finite part 𝐷 such that \n\n\n\n\nC\n∩\nD\n\n=\n∅\n\n\n\nC\\cap D=\\emptyset\n\n.\nIn this case, the steady-state probability 𝜋 of 𝑋 is a convex combination of two steady-state probabilities \n\n\n\nπ\nC\n\n\n\n\\pi_{C}\n\n and \n\n\n\nπ\nD\n\n\n\n\\pi_{D}\n\n of two Markov chains on 𝐶 and 𝐷 respectively.\nThe obtained algorithm allows to compute explicitly \n\n\n\nπ\nD\n\n\n\n\\pi_{D}\n\n.\nIf \n\n\n\nπ\nC\n\n\n\n\\pi_{C}\n\n cannot be computed explicitly, our algorithm approximates it by numerical resolution of successive integral equations.\nSome numerical examples are studied to show the usefulness and proper functioning of our proposal.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2003"
+    },
+    {
+        "id": 11926,
+        "title": "Using Markov transition matrices to generate trial configurations in Markov chain Monte Carlo simulations",
+        "authors": "Joël Mabillard, Isha Malhotra, Bortolo Matteo Mognetti",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cpc.2022.108641"
+    },
+    {
+        "id": 11927,
+        "title": "Delayed rejection Hamiltonian Monte Carlo for sampling multiscale distributions",
+        "authors": "Chirag Modi, Alex Barnett, Bob Carpenter",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1360"
+    },
+    {
+        "id": 11928,
+        "title": "A Prefetching Multiple Proposals Markov Chain Monte Carlo Algorithm",
+        "authors": "Guifeng Ye, Shaowen Lu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2024.3385384"
+    },
+    {
+        "id": 11929,
+        "title": "PxMCMC: A Python package for proximal Markov Chain\nMonte Carlo",
+        "authors": "Augustin Marignier",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21105/joss.05582"
+    },
+    {
+        "id": 11930,
+        "title": "Prediction of extreme rainfall events in 21st century - The results based on Bayesian Markov Chain Monte Carlo",
+        "authors": "Zhichao Jiao, Md Ashraful Alam, Jihui Yuan, Craig Farnham, Kazuo Emura",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.uclim.2024.101822"
+    },
+    {
+        "id": 11931,
+        "title": "Identification of pollution sources in rivers using a hydrodynamic diffusion wave model and improved Bayesian-Markov chain Monte Carlo algorithm",
+        "authors": "Hailong Yin, Yiyuan Lin, Huijin Zhang, Ruibin Wu, Zuxin Xu",
+        "published": "2023-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11783-023-1685-1"
+    },
+    {
+        "id": 11932,
+        "title": "An in-depth analysis of Markov-Chain Monte Carlo ensemble samplers for inverse vadose zone modeling",
+        "authors": "Giuseppe Brunetti, Jiri Šimunek, Thomas Wöhling, Christine Stumpp",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jhydrol.2023.129822"
+    },
+    {
+        "id": 11933,
+        "title": "A Markov Chain Monte Carlo (MCMC) Multivariate Analysis of the Association of Vital Parameter Variation With the Lunar Cycle in Patients Hospitalized With COVID-19",
+        "authors": "Supriya Koya, Sreeja Ponnam, Sharon Salenius, Sayanu Pamidighantam",
+        "published": "2023-1-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7759/cureus.34290"
+    },
+    {
+        "id": 11934,
+        "title": "Surface Extraction in Coherence Scanning Interferometry by Gauss-Markov Monte-Carlo Method and Teager-Kaiser Operator",
+        "authors": "Fabien Salzenstein, Abdel-Ouahab Boudraa",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012450400003654"
+    },
+    {
+        "id": 11935,
+        "title": "Sequential Monte Carlo with 3σ limits for Bayesian estimation of latent Markov processes",
+        "authors": "Nagasubhadra D. Uppalapati, Praveen B. Choppala, Lakshmi Krishnan",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/spa59660.2023.10274461"
+    },
+    {
+        "id": 11936,
+        "title": "Marginalized myopic deconvolution of adaptive optics corrected images using Markov chain Monte Carlo methods",
+        "authors": "Alix Yan, Laurent M. Mugnier, Jean-François Giovannelli, Romain Fétick, Cyril Petit",
+        "published": "2023-11-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jatis.9.4.048004"
+    },
+    {
+        "id": 11937,
+        "title": "Non-parametric generation of multivariate cross-correlated random fields directly from sparse measurements using Bayesian compressive sensing and Markov chain Monte Carlo simulation",
+        "authors": "Peiping Li, Yu Wang, Zheng Guan",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00477-023-02523-z"
+    },
+    {
+        "id": 11938,
+        "title": "Bayesian inference of pit corrosion in prestressing strands using Markov Chain Monte Carlo method",
+        "authors": "Jaebeom Lee, Chi-Ho Jeon, Chang-Su Shim, Young-Joo Lee",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2023.103512"
+    },
+    {
+        "id": 11939,
+        "title": "SwISS: A scalable Markov chain Monte Carlo divide‐and‐conquer strategy",
+        "authors": "Callum Vyner, Christopher Nemeth, Chris Sherlock",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "Divide‐and‐conquer strategies for Monte Carlo algorithms are an increasingly popular approach to making Bayesian inference scalable to large data sets. In its simplest form, the data are partitioned across multiple computing cores and a separate Markov chain Monte Carlo algorithm on each core targets the associated partial posterior distribution, which we refer to as a sub‐posterior, that is, the posterior given only the data from the segment of the partition associated with that core. Divide‐and‐conquer techniques reduce computational, memory and disk bottle necks but make it difficult to recombine the sub‐posterior samples. We propose SwISS: Sub‐posteriors with Inflation, Scaling and Shifting; a new approach for recombining the sub‐posterior samples, which is simple to apply, scales to high‐dimensional parameter spaces and accurately approximates the original posterior distribution through affine transformations of the sub‐posterior samples. We prove that our transformation is asymptotically optimal across a natural set of affine transformations and illustrate the efficacy of SwISS against competing algorithms on synthetic and real‐world data sets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/sta4.523"
+    },
+    {
+        "id": 11940,
+        "title": "Markov Chain Monte Carlo Parameter Estimation of Deflagration Losses in a Rotating Detonation Engine",
+        "authors": "Riley Huff, Mirko Gamba",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-1293"
+    },
+    {
+        "id": 11941,
+        "title": "Optimization of financial market risk prediction system based on computer data simulation and Markov chain Monte Carlo",
+        "authors": "Zhang Yuanfang",
+        "published": "2023-5-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08370-y"
+    },
+    {
+        "id": 11942,
+        "title": "A Markov Chain Monte Carlo (MCMC) Gibbs Sampler Augmented with Zero Forcing Detection for OTFS Reception",
+        "authors": "Avinash Subramaniam M, Yash Vasavada",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wams57261.2023.10242942"
+    },
+    {
+        "id": 11943,
+        "title": "Analysis of Wide Modified Rankin Score Dataset using Markov Chain Monte Carlo Simulation",
+        "authors": "Pranjal Kumar Pandey, Priya Dev, Akanksha Gupta, Abhishek Pathak, V.K. Shukla, S.K. Upadhyay",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "Brain hemorrhage and strokes are serious medical conditions that can have devastating effects on a person's overall well-being and are influenced by several factors. We often encounter such scenarios specially in medical field where a single variable is associated with several other features. Visualizing such datasets with a higher number of features poses a challenge due to their complexity. Additionally, the presence of a strong correlation structure among the features makes it hard to determine the impactful variables with the usual statistical procedure. The present paper deals with analysing real life wide Modified Rankin Score dataset within a Bayesian framework using a logistic regression model by employing Markov chain Monte Carlo simulation. Latterly, multiple covariates in the model are subject to testing against zero in order to simplify the model by utilizing a model comparison tool based on Bayes Information Criterion.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.6000/1929-6029.2024.13.02"
+    },
+    {
+        "id": 11944,
+        "title": "Markov chain Monte Carlo for seismic facies classification",
+        "authors": "Dario Grana, Leandro de Figueiredo, Klaus Mosegaard",
+        "published": "2023-5-1",
+        "citations": 6,
+        "abstract": " Seismic facies classification aims to predict a facies model, or a set of facies models, from measured seismic data. We focus on stochastic classification methods to estimate the probability distribution of facies conditioned on seismic data. Bayesian classification methods based on analytical solutions are generally applied to seismically inverted elastic attributes or petrophysical properties rather than measured seismic data, and they do not include spatial correlation models in the prior distribution. Instead, iterative stochastic methods, such as Monte Carlo acceptance-rejection sampling and approximate Bayesian computation, can be directly applied to seismic data and can be implemented with complex prior models; however, their convergence is generally slow because it requires the simulation of a large number of facies models from the prior distribution. We develop an efficient implementation of a Markov chain Monte Carlo (MCMC) approach that adopts complex prior models, such as multiple-point statistics simulations based on a training image, to generate geologically realistic facies realizations. The novelty of the approach is that the proposal distribution of the proposed MCMC method is based on a gradual deformation algorithm, in which the proposal distribution is expressed as a linear combination of the indicator variables of the previously accepted model and a random prior simulation, according to a uniform random weight. The synthetic examples indicate accurate facies predictions with a success rate of approximately 80% for well-log facies classification based on elastic attributes and approximately 60% for seismic facies classification based on seismic data. The inversion is compared to an MCMC method with prior models sampled from a first-order Markov chain and Bayesian facies classification. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2022-0442.1"
+    },
+    {
+        "id": 11945,
+        "title": "Lagged couplings diagnose Markov chain Monte Carlo phylogenetic inference",
+        "authors": "Luke J. Kelly, Robin J. Ryder, Grégoire Clarté",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-aoas1676"
+    },
+    {
+        "id": 11946,
+        "title": "Reversible Jump Markov Chain Monte Carlo for Pulse Fitting",
+        "authors": "Fred Goodyer, Bashar I. Ahmad, Simon Godsill",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448493"
+    },
+    {
+        "id": 11947,
+        "title": "Nuclear PDF Determination Using Markov Chain Monte Carlo Methods",
+        "authors": "N. Derakhshanian, P. Risse, T. Ježo, M. Klasen, K. Kovařík, A. Kusina, F.I. Olness, I. Schienbein",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5506/aphyspolbsupp.16.7-a33"
+    },
+    {
+        "id": 11948,
+        "title": "The Valuation and Assessment of Retirement Income Products: a Unified Markov Chain Monte Carlo Framework",
+        "authors": "Yang Shen, Michael Sherris, Yawei Wang, Jonathan Ziveyi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4595961"
+    },
+    {
+        "id": 11949,
+        "title": "Towards derandomising Markov chain Monte Carlo",
+        "authors": "Weiming Feng, Heng Guo, Chunyang Wang, Jiaheng Wang, Yitong Yin",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/focs57990.2023.00120"
+    },
+    {
+        "id": 11950,
+        "title": "Preconditioned Monte Carlo for Gradient-Free Bayesian Inference in the Physical Sciences",
+        "authors": "Minas Karamanis, Uroš Seljak",
+        "published": "2024-1-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/psf2023009023"
+    },
+    {
+        "id": 11951,
+        "title": "Improving Bayesian Model Averaging for Ensemble Flood Modeling Using Multiple Markov Chains Monte Carlo Sampling",
+        "authors": "Tao Huang, Venkatesh Merwade",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "AbstractAs all kinds of numerical models are emerging in hydrologic and hydraulic engineering, Bayesian model averaging (BMA) is one of the popular multi‐model methods used to account for various uncertainties in the flood modeling process and generate robust ensemble predictions. The reliability of BMA parameters (weights and variances) determines the accuracy of BMA predictions. However, the uncertainty in BMA parameters with fixed values, which are usually obtained from Expectation‐Maximization (EM) algorithm, has not been adequately investigated in BMA‐related applications over the past few decades. Given the limitations of the default EM algorithm, Metropolis‐Hastings (M‐H) algorithm, which is one of the most widely used algorithms in Markov Chain Monte Carlo (MCMC), is proposed to estimate BMA parameters. Both numerical experiments and one‐dimensional Hydrologic Engineering Center‐River Analysis System models are employed to examine the applicability of M‐H algorithm with multiple independent Markov chains. The performances of EM and M‐H algorithms are compared based on the daily water stage predictions from 10 model members. Results show that BMA weights estimated from both algorithms are comparable, while BMA variances obtained from M‐H algorithm are closer to the given variances in the numerical experiment. Moreover, the normal proposal distribution used in M‐H algorithm can yield narrower distributions for BMA weights than those from the uniform proposal distribution. Overall, MCMC approach with multiple chains can provide more information associated with the uncertainty of BMA parameters and its performance is better than the default EM algorithm in terms of both deterministic and probabilistic evaluation metrics as well as algorithm flexibility.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1029/2023wr034947"
+    },
+    {
+        "id": 11952,
+        "title": "PTFS06-04-23 Multivariate Markov Chain Monte Carlo Method for Evaluating Diet Quality and General Usual Intake Analysis",
+        "authors": "Xiaoshu Zhu, Jill DeMatteis, Christine Borger, Brenda Sun, Thea Zimmerman",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cdnut.2023.101199"
+    },
+    {
+        "id": 11953,
+        "title": "A Markov chain Monte Carlo analysis of carbon-phenolic ablation through a lumped physical model",
+        "authors": "Pedro Guilherme Silva Pesci, Humberto Araujo Machado",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.icheatmasstransfer.2023.106812"
+    },
+    {
+        "id": 11954,
+        "title": "CA mortar void identification for slab track utilizing time-domain Markov chain Monte Carlo-based Bayesian approach",
+        "authors": "Qin Hu, Yi-Jun Shen",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": " This paper investigates the feasibility and practicability study on the use of Markov chain Monte Carlo (MCMC)-based Bayesian approach for identifying the cement-emulsified asphalt (CA) void of the slab track system utilizing the measured vibration data. A newly developed model class identification algorithm was extended and integrated with the MCMC-based Bayesian approach for the first time to identify the CA mortar void that may partly extend to a neighborhood region. Not only the most probable values of the scaling factors to the mortar stiffness can be calculated, but also the damage probability of model parameters using the posterior probability density function (PDF) can be estimated, and the void can be clearly identified by the MCMC-based Bayesian approach. The proposed methodology was experimentally verified and positive outcomes were obtained. The detection results illustrate that the proposed method not only can successfully assess the void location of the CA mortar but also provide the information of the damage severity, and the posterior PDFs of model parameters can be also calculated by using kernel density estimation to quantitatively describe the uncertainty of the model. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14759217231166117"
+    },
+    {
+        "id": 11955,
+        "title": "An empirical application of Particle Markov Chain Monte Carlo to frailty correlated default models",
+        "authors": "Ha Nguyen",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jempfin.2023.03.003"
+    },
+    {
+        "id": 11956,
+        "title": "Research on Intrusion Detection Based on Markov Chain Monte Carlo Method",
+        "authors": "Dan Zhou, Shan Gao, Fei Long",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cbase60015.2023.10439107"
+    },
+    {
+        "id": 11957,
+        "title": "Bootstrap, Markov Chain Monte Carlo, and LP/SDP hierarchy for the lattice Ising model",
+        "authors": "Minjae Cho, Xin Sun",
+        "published": "2023-11-9",
+        "citations": 0,
+        "abstract": "Abstract\nBootstrap is an idea that imposing consistency conditions on a physical system may lead to rigorous and nontrivial statements about its physical observables. In this work, we discuss the bootstrap problem for the invariant measure of the stochastic Ising model defined as a Markov chain where probability bounds and invariance equations are imposed. It is described by a linear programming (LP) hierarchy whose asymptotic convergence is shown by explicitly constructing the invariant measure from the convergent sequence of moments. We also discuss the relation between the LP hierarchy for the invariant measure and a recently introduced semidefinite programming (SDP) hierarchy for the Gibbs measure of the statistical Ising model based on reflection positivity and spin-flip equations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/jhep11(2023)047"
+    },
+    {
+        "id": 11958,
+        "title": "Parameter Inversion in Geothermal Reservoir Using Markov Chain Monte Carlo and Deep Learning",
+        "authors": "Zhen Zhang, Xupeng He, Yiteng Li, Marwa AlSinan, Hyung Kwak, Hussein Hoteit",
+        "published": "2023-3-21",
+        "citations": 0,
+        "abstract": "AbstractTraditional history-matching process suffers from non-uniqueness solutions, subsurface uncertainties, and high computational cost. This work proposes a robust history-matching workflow utilizing the Bayesian Markov Chain Monte Carlo (MCMC) and Bidirectional Long-Short Term Memory (BiLSTM) network to perform history matching under uncertainties for geothermal resource development efficiently. There are mainly four steps. Step 1: Identifying uncertainty parameters. Step 2: The BiLSTM is built to map the nonlinear relationship between the key uncertainty parameters (e.g., injection rates, reservoir temperature, etc.) and time series outputs (temperature of producer). Bayesian optimization is used to automate the tuning process of the hyper-parameters. Step 3: The Bayesian MCMC is performed to inverse the uncertainty parameters. The BiLSTM is served as the forward model to reduce the computational expense. Step 4: If the errors of the predicted response between the high-fidelity model and Bayesian MCMC are high, we need to revisit the accuracy of the BiLSTM and the prior information on the uncertainty parameters. We demonstrate the proposed method using a 3D fractured geothermal reservoir, where the cold water is injected into a geothermal reservoir, and the energy is extracted by producing hot water in a producer. Results show that the proposed Bayesian MCMC and BiLSTM method can successfully inverse the uncertainty parameters with narrow uncertainties by comparing the inversed parameters and the ground truth. We then compare its superiority with models like PCE, Kriging, and SVR, and our method achieves the highest accuracy. We propose a Bayesian MCMC and BiLSTM-based history matching method for uncertainty parameters inversion and demonstrate its accuracy and robustness compared with other models. This approach provides an efficient and practical history-matching method for geothermal extraction with significant uncertainties.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/212185-ms"
+    },
+    {
+        "id": 11959,
+        "title": "Markov chain Monte Carlo approach to the analysis of response patterns in data collection process",
+        "authors": "Young H. Chun, Edward F. Watson",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03155986.2023.2245304"
+    },
+    {
+        "id": 11960,
+        "title": "Multilevel Markov Chain Monte Carlo for Bayesian inverse problem for Navier-Stokes equation",
+        "authors": "Juntao Yang,  , Viet Ha Hoang,  ",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/ipi.2022033"
+    },
+    {
+        "id": 11961,
+        "title": "Practical guidelines for Bayesian phylogenetic inference using Markov Chain Monte Carlo (MCMC)",
+        "authors": "Joëlle Barido-Sottani, Orlando Schwery, Rachel C. M. Warnock, Chi Zhang, April Marie Wright",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "Phylogenetic estimation is, and has always been, a complex endeavor. Estimating a phylogenetic tree involves evaluating many possible solutions and possible evolutionary histories that could explain a set of observed data, typically by using a model of evolution. Modern statistical methods involve not just the estimation of a tree, but also solutions to more complex models involving fossil record information and other data sources. Markov Chain Monte Carlo (MCMC) is a leading method for approximating the posterior distribution of parameters in a mathematical model. It is deployed in all Bayesian phylogenetic tree estimation software. While many researchers use MCMC in phylogenetic analyses, interpreting results and diagnosing problems with MCMC remain vexing issues to many biologists. In this manuscript, we will offer an overview of how MCMC is used in Bayesian phylogenetic inference, with a particular emphasis on complex hierarchical models, such as the fossilized birth-death (FBD) model. We will discuss strategies to diagnose common MCMC problems and troubleshoot difficult analyses, in particular convergence issues. We will show how the study design, the choice of models and priors, but also technical features of the inference tools themselves can all be adjusted to obtain the best results. Finally, we will also discuss the unique challenges created by the incorporation of fossil information in phylogenetic inference, and present tips to address them.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12688/openreseurope.16679.1"
+    },
+    {
+        "id": 11962,
+        "title": "Solutions to small datasets in defects detection based on Markov chain Monte Carlo simulations",
+        "authors": "Xin Yan Wang, Hua Fan",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2679161"
+    },
+    {
+        "id": 11963,
+        "title": "A Quantum Parallel Markov Chain Monte Carlo",
+        "authors": "Andrew J. Holbrook",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10618600.2023.2195890"
+    },
+    {
+        "id": 11964,
+        "title": "A Markov Chain Monte Carlo approach for Pseudo-Input selection in Sparse Gaussian Processes",
+        "authors": "Anna Scampicchio, Sanjay Chandrasekaran, Melanie N. Zeilinger",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.1072"
+    },
+    {
+        "id": 11965,
+        "title": "How Trustworthy Is Your Tree? Bayesian Phylogenetic Effective Sample Size Through the Lens of Monte Carlo Error",
+        "authors": "Andrew Magee, Michael Karcher, Frederick A. Matsen IV, Volodymyr M. Minin",
+        "published": "2024-6-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1339"
+    },
+    {
+        "id": 11966,
+        "title": "Computational efficiency study of a micro-macro Markov chain Monte Carlo method for molecular dynamics",
+        "authors": "Hannes Vandecasteele, Giovanni Samaey",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.amc.2024.128683"
+    },
+    {
+        "id": 11967,
+        "title": "Approximating Intersections and Differences Between Linear Statistical Shape Models Using Markov Chain Monte Carlo",
+        "authors": "Maximilian Weiherer, Finn Klein, Bernhard Egger",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00624"
+    },
+    {
+        "id": 11968,
+        "title": "Markov Chain Monte Carlo Based MIMO Detection with Reduced Complexity",
+        "authors": "Bowen Wang, Shan Yang, Nanxi Li, Hang Yin, Xiaoming She, Jianxiu Wang, Peng Chen",
+        "published": "2023-8-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccc57788.2023.10233340"
+    },
+    {
+        "id": 11969,
+        "title": "Accelerating Markov Chain Monte Carlo sampling with diffusion models",
+        "authors": "N.T. Hunt-Smith, W. Melnitchouk, F. Ringer, N. Sato, A.W. Thomas, M.J. White",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cpc.2023.109059"
+    },
+    {
+        "id": 11970,
+        "title": "Digital Core Reconstruction Method Based on Markov Chain Monte Carlo Algorithm and Generative Adversarial Network",
+        "authors": "Yangbing Li, Shengli Gong, Litao Ma, Weiqiang Hu, Cheng Liu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsi58851.2023.10303855"
+    },
+    {
+        "id": 11971,
+        "title": "3D digital core reconstruction for deep shale gas reservoirs based on Markov chain-Monte Carlo method",
+        "authors": "Shengzhen Wang, Junjie Ren",
+        "published": "2023-1-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2656792"
+    },
+    {
+        "id": 11972,
+        "title": "Quantum-enhanced Markov chain Monte Carlo",
+        "authors": "David Layden, Guglielmo Mazzola, Ryan V. Mishmash, Mario Motta, Pawel Wocjan, Jin-Sung Kim, Sarah Sheldon",
+        "published": "2023-7-13",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41586-023-06095-4"
+    },
+    {
+        "id": 11973,
+        "title": "Markov Chain Monte Carlo Methods Applied to a Synchronous Generator Model",
+        "authors": "Kushila Jayamanne, Zhe Ban, Madhusudhan Pandey, Ali Ghaderi, Bernt Lie",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3326360"
+    },
+    {
+        "id": 11974,
+        "title": "Analysis of autocorrelation times in neural Markov chain Monte Carlo simulations",
+        "authors": "Piotr Białas, Piotr Korcyl, Tomasz Stebel",
+        "published": "2023-1-12",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physreve.107.015303"
+    },
+    {
+        "id": 11975,
+        "title": "MSR29 A Comparative Analysis of Missing Value Imputation Techniques: Parametric Imputation with eCDF (PIE) Vs Markov Chain Monte Carlo Imputation (MCMC)",
+        "authors": "S. Paul Choudhury, A. Dutta Majumdar, A. Sil, S. Dutta",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2088"
+    },
+    {
+        "id": 11976,
+        "title": "A multilevel Bayesian Markov Chain Monte Carlo Poisson modelling of factors associated with components of antenatal care offered to pregnant women in Nigeria",
+        "authors": "Omon Stellamaris Fagbamigbe, Olugbenga Sunday Olaseinde, Oluwasomidoyin O. Bello, Vincent Setlhare, Jackline Mosinya Nyaberi, Anthony Ike Wegbom, Ayo Stephen Adebowale, Adeniyi Francis Fagbamigbe",
+        "published": "2023-7-5",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nThe most recent WHO guideline on antenatal care (ANC) utilization reaffirmed the necessary and compulsory care and services a pregnant woman should receive to maximize the importance and gains of ANC. While most studies focused on the time of initiation and number of ANC contacts, emphasis was rarely placed on the components of ANC offered to women. This study assessed how complete the components of ANC received by pregnant women are as a proxy for the quality of ANC services offered in Nigeria. We also assessed the clustering of the components and state-level differentials and inequalities in the components of ANC received in Nigeria.\n\nMethods\nWe used nationally representative cross-sectional data from the 2018 Nigeria Demographic Health Survey. We analysed the data of 11,867 women who had at least one ANC contact during the most recent pregnancy within five years preceding the survey. The assessed components were tetanus injection, blood pressure, urine test, blood test, iron supplement, malaria intermittent preventive treatment in pregnancy (IPTp), and told about danger signs. Others are intestinal parasite drugs (IPD)intermittent and HIV/PMTCT counsel. Descriptive statistics, bivariable and multivariable multilevel Bayesian Monte Carlo Poisson models were used.\n\nResults\nIn all, 94% had blood pressure measured, 91% received tetanus injection, had iron supplement-89%, blood test-87%, urine test-86%, IPTp-24%, danger signs-80%, HIV/PMTC-82% and IPD-22%. The overall prevalence of receiving all 9 components was 5% and highest in Ogun (24%) and lowest in Kebbi state (0.1%). The earlier the initiation of ANC, the higher the number of contacts, and the higher the quality of ANC received. Respondents with higher education have a 4% (adjusted incidence risk ratio (aIRR): 1.04, 95% credible interval (CrI): 1.01–1.09) higher risk of receiving more components of ANC relative to those with no education. The risk of receiving more ANC components was 5% (aIRRR: 1.05, 95% CI: 1.01–1.10) higher among pregnant women aged 40 to 49 years than those aged 15 to 19 years. Women who decide their healthcare utilization alone had a 2% higher risk of getting more components than those whose spouses are the only decision taker of healthcare use. Other significant factors were household wealth status, spouse education, ethnicity, place of ANC, and skill of ANC provider. Pregnant women who had their blood pressure measured were very likely to have blood and urine tests, tetanus injections, iron supplements, and HIV talks.\n\nConclusions\nOnly one in every 20 pregnant women received all the 9 ANC components with wide disparities and inequalities across the background characteristics and the States of residence in Nigeria. There is a need to ensure that all pregnant women receive adequate components. Stakeholders should increase supplies, train, and create awareness among ANC providers and pregnant women in particular.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12913-023-09710-2"
+    },
+    {
+        "id": 11977,
+        "title": "Parameter identification in bioheat transfer models using the transitional Markov Chain Monte Carlo method",
+        "authors": "Eduardo Cunha Classe, Luiz A. S. Abreu, Diego Knupp, Leonardo Stutz, Lucas Asth",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-0635"
+    },
+    {
+        "id": 11978,
+        "title": "A Serverless Architecture for Efficient and Scalable Monte Carlo Markov Chain Computation",
+        "authors": "Fabio Castagna, Alberto Trombetta, Marco Landoni, Stefano Andreon",
+        "published": "2023-8-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3616131.3616141"
+    },
+    {
+        "id": 11979,
+        "title": "Pemodelan Magnitude Gempa Bumi di Indonesia Menggunakan Generalized Extreme Value (GEV) Berbasis Simulasi Markov Chain Monte Carlo (MCMC)",
+        "authors": "Fadhela Anindya Rahmadani, Pratnya Paramitha Oktaviana",
+        "published": "2023-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12962/j23373520.v11i6.92341"
+    },
+    {
+        "id": 11980,
+        "title": "Markov Chain Monte Carlo optimization applied to double stars from Miller &amp; Pitman research",
+        "authors": "Maksym Ersteniuk, Timothy Banks, Edwin Budding, Michael D. Rhodes",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12036-024-09997-5"
+    },
+    {
+        "id": 11981,
+        "title": "Pseudo-marginal approximation to the free energy in a micro–macro Markov chain Monte Carlo method",
+        "authors": "Hannes Vandecasteele, Giovanni Samaey",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "We introduce a generalized micro–macro Markov chain Monte Carlo (mM-MCMC) method with pseudo-marginal approximation to the free energy that is able to accelerate sampling of the microscopic Gibbs distributions when there is a time-scale separation between the macroscopic dynamics of a reaction coordinate and the remaining microscopic degrees of freedom. The mM-MCMC method attains this efficiency by iterating four steps: (i) propose a new value of the reaction coordinate, (ii) accept or reject the macroscopic sample, (iii) run a biased simulation that creates a microscopic molecular instance that lies close to the newly sampled macroscopic reaction coordinate value, and (iv) microscopic accept/reject step for the new microscopic sample. In the present paper, we eliminate the main computational bottleneck of earlier versions of this method: the necessity to have an accurate approximation of free energy. We show that the introduction of a pseudo-marginal approximation significantly reduces the computational cost of the microscopic accept/reject step while still providing unbiased samples. We illustrate the method’s behavior on several molecular systems with low-dimensional reaction coordinates.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0199562"
+    },
+    {
+        "id": 11982,
+        "title": "Application of the Markov chain Monte Carlo analysis through a lumped model in ablation test results of ablative and reradiative materials",
+        "authors": "Pedro Guilherme Silva Pesci, Humberto Araujo Machado",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.icheatmasstransfer.2023.106955"
+    },
+    {
+        "id": 11983,
+        "title": "Markov chain Monte Carlo methods for graph refinement in spinfoam cosmology",
+        "authors": "Pietropaolo Frisoni, Francesco Gozzini, Francesca Vidotto",
+        "published": "2023-5-18",
+        "citations": 4,
+        "abstract": "Abstract\nWe study the behavior of the Lorentzian Engle-Pereira-Rovelli-Livine spinfoam amplitude with homogeneous boundary data, under a graph refinement going from five to twenty boundary tetrahedra. This can be interpreted as a wave function of the Universe, for which we compute boundary geometrical operators, correlation functions, and entanglement entropy. The numerical calculation is made possible by adapting the Metropolis-Hastings algorithm, along with recently developed computational methods appropriate for the deep quantum regime. We confirm that the transition amplitudes are stable against such refinement. We find that the average boundary geometry does not change, but the new degrees of freedom correct the quantum fluctuations of the boundary and the correlations between spatial patches. The expectation values are compatible with their geometrical interpretation and the correlations between neighboring patches decay when computed across different spinfoam vertices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6382/acc5d6"
+    },
+    {
+        "id": 11984,
+        "title": "Low-Complexity Markov Chain Monte Carlo Detector for Single-Carrier Underwater Acoustic Communications",
+        "authors": "Zhiheng Zhang, Jun Tao, Le Yang, Weimin Huang",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/oceans52994.2023.10337053"
+    },
+    {
+        "id": 11985,
+        "title": "Markov Chain Monte Carlo and Neural Sampling Inference for Graphical Models at the Edge using the SpiNNaker2 Neuromorphic Chip-Multiprocessor",
+        "authors": "Hee Young Chae, Daniel R. Mendat, Andreas G. Andreou",
+        "published": "2024-3-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cae59785.2024.10487118"
+    },
+    {
+        "id": 11986,
+        "title": "Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective",
+        "authors": "Bo Yuan, Jiaojiao Fan, Yuqing Wang, Molei Tao, Yongxin Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3285140"
+    },
+    {
+        "id": 11987,
+        "title": "Parametrization of the stochastic SIRD model for COVID-19 outbreak using Markov Chain Monte Carlo method",
+        "authors": "Muhammad Fahmi, Norhayati Rosli, Noryanti Muhammad",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0152265"
+    },
+    {
+        "id": 11988,
+        "title": "Dynamic Shrinkage Priors for Large Time-Varying Parameter Regressions Using Scalable Markov Chain Monte Carlo Methods",
+        "authors": "Niko Hauzenberger, Florian Huber, Gary Koop",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "Abstract\nTime-varying parameter (TVP) regression models can involve a huge number of coefficients. Careful prior elicitation is required to yield sensible posterior and predictive inferences. In addition, the computational demands of Markov Chain Monte Carlo (MCMC) methods mean their use is limited to the case where the number of predictors is not too large. In light of these two concerns, this paper proposes a new dynamic shrinkage prior which reflects the empirical regularity that TVPs are typically sparse (i.e. time variation may occur only episodically and only for some of the coefficients). A scalable MCMC algorithm is developed which is capable of handling very high dimensional TVP regressions or TVP Vector Autoregressions. In an exercise using artificial data we demonstrate the accuracy and computational efficiency of our methods. In an application involving the term structure of interest rates in the eurozone, we find our dynamic shrinkage prior to effectively pick out small amounts of parameter change and our methods to forecast well.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/snde-2022-0077"
+    },
+    {
+        "id": 11989,
+        "title": "Source identification in river pollution incidents using a cellular automata model and Bayesian Markov chain Monte Carlo method",
+        "authors": "Wei Wang, Chao Ji, Chuanqi Li, Wenxin Wu, Jacqueline Isabella Anak Gisen",
+        "published": "2023-6-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11356-023-27988-x"
+    },
+    {
+        "id": 11990,
+        "title": "Stochastic simulation of geological cross-sections from boreholes: A random field approach with Markov Chain Monte Carlo method",
+        "authors": "Hao-Qing Yang, Jian Chu, Xiaohui Qi, Shifan Wu, Kiefer Chiam",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enggeo.2023.107356"
+    },
+    {
+        "id": 11991,
+        "title": "Manifold lifting: scaling Markov chain Monte Carlo to the vanishing noise regime",
+        "authors": "Khai Xiang Au, Matthew M Graham, Alexandre H Thiery",
+        "published": "2023-7-12",
+        "citations": 0,
+        "abstract": "Abstract\nStandard Markov chain Monte Carlo methods struggle to explore distributions that concentrate in the neighbourhood of low-dimensional submanifolds. This pathology naturally occurs in Bayesian inference settings when there is a high signal-to-noise ratio in the observational data but the model is inherently over-parametrised or nonidentifiable. In this paper, we propose a strategy that transforms the original sampling problem into the task of exploring a distribution supported on a manifold embedded in a higher-dimensional space; in contrast to the original posterior this lifted distribution remains diffuse in the limit of vanishing observation noise. We employ a constrained Hamiltonian Monte Carlo method, which exploits the geometry of this lifted distribution, to perform efficient approximate inference. We demonstrate in numerical experiments that, contrarily to competing approaches, the sampling efficiency of our proposed methodology does not degenerate as the target distribution to be explored concentrates near low-dimensional submanifolds. Python code reproducing the results is available at https://doi.org/10.5281/zenodo.6551654.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jrsssb/qkad023"
+    },
+    {
+        "id": 11992,
+        "title": "A Micro-Macro Markov Chain Monte Carlo Method for Molecular Dynamics using Reaction Coordinate Proposals",
+        "authors": "Hannes S. Vandecasteele, Giovanni Samaey",
+        "published": "2023-4-30",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/20m1322443"
+    },
+    {
+        "id": 11993,
+        "title": "Reliability analysis and redundancy optimization of k-out-of-n systems with random variable k using continuous time Markov chain and Monte Carlo simulation",
+        "authors": "Mateusz Oszczypała, Jakub Konwerski, Jarosław Ziółkowski, Jerzy Małachowski",
+        "published": "2024-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ress.2023.109780"
+    },
+    {
+        "id": 11994,
+        "title": "Supplemental Material for A General Monte Carlo Method for Sample Size Analysis in the Context of Network Models",
+        "authors": "",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000555.supp"
+    },
+    {
+        "id": 11995,
+        "title": "Digital core reconstruction for shale gas reservoirs based on Markov chain-Monte Carlo method and large-field splicing technology",
+        "authors": "Shengzhen Wang, Junjie Ren, Shuai Wu",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2691841"
+    },
+    {
+        "id": 11996,
+        "title": "Reducing rejection exponentially improves Markov chain Monte Carlo sampling",
+        "authors": "Hidemaro Suwa",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.physa.2023.129368"
+    },
+    {
+        "id": 11997,
+        "title": "Application of Monte Carlo Markov Chain and GMDH Neural Network for Estimating the Behavior of Suction Caissons in Clay",
+        "authors": "Hadi Fattahi, Nastaran Zandy Ilghani",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10706-023-02455-z"
+    },
+    {
+        "id": 11998,
+        "title": "Effect of Learning Function on Reliability Analysis of Geotechnical Engineering Systems Using Adaptive Bayesian Compressive Sensing and Monte Carlo Simulation",
+        "authors": "Peiping Li, Yu Wang",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784484975.036"
+    },
+    {
+        "id": 11999,
+        "title": "Photometric Calibrations of M-dwarf Metallicity with Markov Chain Monte Carlo and Bayesian Inference",
+        "authors": "C. Duque-Arribas, D. Montes, H. M. Tabernero, J. A. Caballero, J. Gorgas, E. Marfil",
+        "published": "2023-2-1",
+        "citations": 3,
+        "abstract": "Abstract\nKnowledge of stellar atmospheric parameters (T\neff, \n\n\n\n\nlog\ng\n\n\n, [Fe/H]) of M dwarfs can be used to constrain both theoretical stellar models and Galactic chemical evolutionary models, and guide exoplanet searches, but their determination is difficult due to the complexity of the spectra of their cool atmospheres. In our ongoing effort to characterize M dwarfs, and in particular their chemical composition, we carried out multiband photometric calibrations of metallicity for early- and intermediate-type M dwarfs. The third Gaia data release provides high-precision astrometry and three-band photometry. This information, combined with the 2MASS and CatWISE2020 infrared photometric surveys and a sample of 4919 M dwarfs with metallicity values determined with high-resolution spectroscopy by The Cannon and APOGEE spectra, allowed us to study the effect of the metallicity in color–color and color–magnitude diagrams. We divided this sample into two subsamples: we used 1000 stars to train the calibrations with Bayesian statistics and Markov Chain Monte Carlo techniques, and the remaining 3919 stars to check the accuracy of the estimations. We derived several photometric calibrations of metallicity applicable to M dwarfs in the range of −0.45 ≤ [Fe/H] ≤ + 0.45 dex and spectral types down to M5.0 V that yield uncertainties down to the 0.10 dex level. Lastly, we compared our results with other photometric estimations published in the literature for an additional sample of 46 M dwarfs in wide binary systems with FGK-type primary stars and found a great predictive performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3847/1538-4357/acacf6"
+    },
+    {
+        "id": 12000,
+        "title": "Use of the reversible jump Markov chain Monte Carlo algorithm to select multiplicative terms in the AMMI-Bayesian model",
+        "authors": "Carlos Pereira da Silva, Cristian Tiago Erazo Mendes, Alessandra Querino da Silva, Luciano Antonio de Oliveira, Renzo Garcia Von Pinho, Marcio Balestre",
+        "published": "2023-1-3",
+        "citations": 0,
+        "abstract": "The model selection stage has become a central theme in applying the additive main effects and multiplicative interaction (AMMI) model to determine the optimal number of bilinear components to be retained to describe the genotype-by-environment interaction (GEI). In the Bayesian context, this problem has been addressed by using information criteria and the Bayes factor. However, these procedures are computationally intensive, making their application unfeasible when the model’s parametric space is large. A Bayesian analysis of the AMMI model was conducted using the Reversible Jump algorithm (RJMCMC) to determine the number of multiplicative terms needed to explain the GEI pattern. Three a priori distributions were assigned for the singular value scale parameter under different justifications, namely: i) the insufficient reason principle (uniform); ii) the invariance principle (Jeffreys’ prior) and iii) the maximum entropy principle. Simulated and real data were used to exemplify the method. An evaluation of the predictive ability of models for simulated data was conducted and indicated that the AMMI analysis, in general, was robust, and models adjusted by the Reversible Jump method were superior to those in which sampling was performed only by the Gibbs sampler. In addition, the RJMCMC showed greater feasibility since the selection and estimation of parameters are carried out concurrently in the same sampling algorithm, being more attractive in terms of computational time. The use of the maximum entropy principle makes the analysis more flexible, avoiding the use of procedures for correcting prior degrees of freedom and obtaining improper posterior marginal distributions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0279537"
+    },
+    {
+        "id": 12001,
+        "title": "A unique Markov chain Monte Carlo method for forecasting wind power utilizing time series model",
+        "authors": "Fuad S. Al-Duais, Razaz S. Al-Sharpi",
+        "published": "2023-7",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aej.2023.05.019"
+    },
+    {
+        "id": 12002,
+        "title": "Triangulated irregular network-based probabilistic 3D geological modelling using Markov Chain and Monte Carlo simulation",
+        "authors": "Jinwu Ouyang, Cuiying Zhou, Zhen Liu, Guijin Zhang",
+        "published": "2023-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enggeo.2023.107131"
+    },
+    {
+        "id": 12003,
+        "title": "A search for short-period Tausworthe generators over Fb with application to Markov chain quasi-Monte Carlo",
+        "authors": "Shin Harase",
+        "published": "2024-2-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00949655.2024.2312951"
+    },
+    {
+        "id": 12004,
+        "title": "Ideal Observer Computation by Use of Markov-Chain Monte Carlo With Generative Adversarial Networks",
+        "authors": "Weimin Zhou, Umberto Villa, Mark A. Anastasio",
+        "published": "2023-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmi.2023.3304907"
+    },
+    {
+        "id": 12005,
+        "title": "Energy optimization of wind turbines via a neural control policy based on reinforcement learning Markov chain Monte Carlo algorithm",
+        "authors": "Vahid Tavakol Aghaei, Arda Ağababaoğlu, Biram Bawo, Peiman Naseradinmousavi, Sinan Yıldırım, Serhat Yeşilyurt, Ahmet Onat",
+        "published": "2023-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apenergy.2023.121108"
+    },
+    {
+        "id": 12006,
+        "title": "Bayesian Estimation as an Alternative to Monte Carlo Analysis in Financial Planning: An Application Using S&amp;amp;P 500 Returns",
+        "authors": "Donald Lacombe, Dean Diavatopoulos",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4624779"
+    },
+    {
+        "id": 12007,
+        "title": "Combining Chains of Bayesian Models with Markov Melding",
+        "authors": "Andrew A. Manderson, Robert J. B. Goudie",
+        "published": "2023-9-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1327"
+    },
+    {
+        "id": 12008,
+        "title": "Assessment of Seabream Fisheries Stock of Oman Using the Monte Carlo Catch Maximum Sustainable Yield and the Bayesian Schaefer Model Methods",
+        "authors": "Yasmin Al Alawi, Sachinandan Dutta",
+        "published": "2023-11-7",
+        "citations": 0,
+        "abstract": "The establishment of managerial approaches for the sustainable use of fishery resources depends on a critical understanding of the stock status. The Monte Carlo catch maximum sustainable yield (CMSY) method and a Bayesian state–space implementation of the Schaefer model (BSM) are recent, but widely used, stock assessment methods for data-limited situations. Here, CMSY and BSM were used to evaluate the state and exploitation level of the seabream population. Collections of catch and effort data from 1988 to 2021, pertaining to time series, were obtained from the Fishery Statistics Book published by the Ministry of Agriculture, Fisheries and Water Resources of Oman. The CMSY and BSM results were similar, indicating that the seabream stock of Oman was overfished, as B/BMSY = 0.96 (<1) and F/FMSY = 1.25 (>1). The probability that the stock was being overfished and undergoing overfishing in 2021 was 53%, while the probability that the stock was healthy (high biomass and low fishing pressure) was only 16.2%, when the target should be higher than 75%. The conclusions are of a preliminary nature owing to the utilization of comparatively new methodologies employed to generate them, which commonly validate the condition and utilization of the populations under investigation. Our research suggests that the seabream population in Oman is overfished, and reducing fishing activity is necessary to restore its abundance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su152215692"
+    },
+    {
+        "id": 12009,
+        "title": "Feature Identification and Statistical Characteristics of Quasi-periodic Pulsation in Solar Flares using the Markov-Chain-Monte-Carlo Approach",
+        "authors": "Yangfan Guo, Bo Liang, Song Feng, Ding Yuan, Valery M. Nakariakov, Wei Dai, Yunfei Yang",
+        "published": "2023-2-1",
+        "citations": 3,
+        "abstract": "Abstract\nQuasi-periodic pulsation (QPP) is a common phenomenon in solar flares. Studying QPP is important to further our understanding of the physical processes operating in flares. However, detection of QPP is complicated by the presence of noise in flaring lightcurves. In this study, we apply the Bayesian-based Markov-Chain-Monte-Carlo (MCMC) technique to the QPP detection. We use MCMC to fit the Fourier power spectral density (PSD) profiles of flaring lightcurves, aiming to determine a quasi-periodic component by model comparison and test statistics. Two models fitting the PSD were compared: the first model consists of colored and white noise only, and the second model adds a spectral peak of a Gaussian shape representing a short-living oscillatory signal. To evaluate MCMC of the QPP detection, we test it on 100 synthetic signals with spectral properties similar to those observed in flares. Subsequently, we analyzed QPP events in 699 flare signals in the 1–8 Å channel recorded by the Geostationary Operational Environmental Satellite from 2010 to 2017, including 250 B-class, 250 C-class, 150 M-class, and 49 X-class flares. Approximately 57% X-class, 39% M-class, 20% C-class, and 16% B-class flares are found to show a strong evidence of QPP, whose periods range mainly from 6.2 to 75.3 s. The results demonstrate that QPP events are easier to detect in more powerful flares. The distribution of the detected QPP periods is found to follow a logarithmic normal distribution. The distributions in the four flare classes are similar. This suggests that the established distribution is a common feature for flares of different classes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3847/1538-4357/acb34f"
+    },
+    {
+        "id": 12010,
+        "title": "Multi-phase hybrid bidirectional deep learning model integrated with Markov chain Monte Carlo bivariate copulas function for streamflow prediction",
+        "authors": "Asif Iqbal, Tanveer Ahmed Siddiqi",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00477-023-02632-9"
+    },
+    {
+        "id": 12011,
+        "title": "A Markov Chain Monte Carlo approach for the estimation of photovoltaic system parameters",
+        "authors": "Benjamin P.M. Laevens, Frank P. Pijpers, Harm Jan Boonstra, Wilfried G.J.H.M. van Sark, Olav ten Bosch",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.solener.2023.112132"
+    },
+    {
+        "id": 12012,
+        "title": "Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo",
+        "authors": "Qiang Heng, Hua Zhou, Eric C. Chi",
+        "published": "2023-7-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10618600.2023.2170089"
+    },
+    {
+        "id": 12013,
+        "title": "Revisiting the universal texture zero of flavour: a Markov chain Monte Carlo analysis",
+        "authors": "Jordan Bernigaud, Ivo de Medeiros Varzielas, Miguel Levy, Jim Talbert",
+        "published": "2023-6-8",
+        "citations": 1,
+        "abstract": "AbstractWe revisit the phenomenological predictions of the Universal Texture Zero (UTZ) model of flavour originally presented in [1], and update them in light of both improved experimental constraints and numerical analysis techniques. In particular, we have developed an in-house Markov Chain Monte Carlo (MCMC) algorithm to exhaustively explore the UTZ’s viable parameter space, considering both leading- and next-to-leading contributions in the model’s effective operator product expansion. We also extract – for the first time – reliable UTZ predictions for the (poorly constrained) leptonic CP-violating phases, and ratio observables that characterize neutrino masses probed by (e.g.) oscillation, $$\\beta $$\nβ\n-decay, and cosmological processes. We therefore dramatically improve on the proof-in-principle phenomenological analysis originally presented in [1], and ultimately show that the UTZ remains a minimal, viable, and appealing theory of flavour. Our results also further demonstrate the potential of robustly examining multi-parameter flavour models with MCMC routines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1140/epjc/s10052-023-11654-0"
+    },
+    {
+        "id": 12014,
+        "title": "Monte Carlo estimates of extremes of stationary/nonstationary Gaussian processes",
+        "authors": "Mircea Dan Grigoriu",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nFinite-dimensional (FD) models \n\n\n\n\nX\nd\n\n⁢\n\n(\nt\n)\n\n\n\n\nX_{d}(t)\n\n, i.e., deterministic functions of time and finite sets of 𝑑 random variables, are constructed for stationary and nonstationary Gaussian processes \n\n\n\nX\n⁢\n\n(\nt\n)\n\n\n\n\nX(t)\n\n with continuous samples defined on a bounded time interval \n\n\n\n[\n0\n,\nτ\n]\n\n\n\n[0,\\tau]\n\n.\nThe basis functions of these FD models are finite sets of eigenfunctions of the correlation functions of \n\n\n\nX\n⁢\n\n(\nt\n)\n\n\n\n\nX(t)\n\n and of trigonometric functions.\nNumerical illustrations are presented for a stationary Gaussian process \n\n\n\nX\n⁢\n\n(\nt\n)\n\n\n\n\nX(t)\n\n with exponential correlation function and a nonstationary version of this process obtained by time distortion.\nIt was found that the FD models are consistent with the theoretical results in the sense that their samples approach the target samples as the stochastic dimension is increased.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2006"
+    },
+    {
+        "id": 12015,
+        "title": "Application of Markov Chain Monte Carlo to the Optical Critical Dimension with Multiple Observation Vectors in Semiconductor Manufacturing",
+        "authors": "Hyngjin Kim, Chuljin Park",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7737/kmsr.2023.40.4.021"
+    },
+    {
+        "id": 12016,
+        "title": "Simulating skylight polarization patterns using the backward Markov Chain Monte Carlo method",
+        "authors": "Shuai Li, Rui Wang, Jiuming Cheng, Congming Dai, Wenqing Xu, Heli Wei, Jie Zhan",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ascom.2023.100772"
+    },
+    {
+        "id": 12017,
+        "title": "Dimension‐independent Markov chain Monte Carlo on the sphere",
+        "authors": "Han Cheng Lie, Daniel Rudolf, Björn Sprungk, T. J. Sullivan",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "AbstractWe consider Bayesian analysis on high‐dimensional spheres with angular central Gaussian priors. These priors model antipodally symmetric directional data, are easily defined in Hilbert spaces and occur, for instance, in Bayesian density estimation and binary level set inversion. In this paper we derive efficient Markov chain Monte Carlo methods for approximate sampling of posteriors with respect to these priors. Our approaches rely on lifting the sampling problem to the ambient Hilbert space and exploit existing dimension‐independent samplers in linear spaces. By a push‐forward Markov kernel construction we then obtain Markov chains on the sphere which inherit reversibility and spectral gap properties from samplers in linear spaces. Moreover, our proposed algorithms show dimension‐independent efficiency in numerical experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/sjos.12653"
+    },
+    {
+        "id": 12018,
+        "title": "Nitrate budget of a terrestrial-to-marine continuum in South China: Insights from isotopes and a Markov chain Monte Carlo model",
+        "authors": "Shaomei Yang, Yan Deng, Junlin Shu, Xin Luo, Xiaoyan Peng, Ke Pan, Hao Jiang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpolbul.2023.116000"
+    },
+    {
+        "id": 12019,
+        "title": "Bayesian Approximations to Hidden Semi-Markov Models for Telemetric Monitoring of Physical Activity",
+        "authors": "Beniamino Hadj-Amar, Jack Jewson, Mark Fiecas",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1318"
+    },
+    {
+        "id": 12020,
+        "title": "Direct inversion for shale brittleness index using a delayed rejection adaptive Metropolis-Markov chain Monte Carlo method",
+        "authors": "Yinghao Zuo, Zhaoyun Zong, Kun Li, Qianhao Sun, Yaming Yang",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": " The reservoir brittleness index can characterize the relative brittleness of shale oil and gas reservoirs, which provides guidance for hydraulic fracturing in the later stage of oil and gas exploration and development. It is a significant index to evaluate the sweet spot of oil and gas reservoirs. Most research on the brittleness index involves laboratory measurements and petrophysical quantitative analysis, but few studies directly predict the reservoir brittleness index from prestack seismic data. The Markov chain Monte Carlo (MCMC) probabilistic algorithm incorporating the delayed rejection adaptive Metropolis (DRAM) strategy has been developed to invert the reservoir brittleness index directly. The different brittleness indexes are analyzed and compared by using the constructed rock-physics model of the shale gas exploration area to select the most sensitive one. Based on the chosen brittleness index, the approximate equation of the PP-wave reflection coefficient for the brittleness index is deduced, and the correctness and achievability of the modeling operator are indicated by theoretical analysis. To analyze the uncertainty of the brittleness index and enhance computational efficiency, an improved MCMC probabilistic inversion algorithm is introduced, which aims to optimize the sampling process of the general MCMC algorithm by delayed rejection and adaptive Metropolis strategies. Our study finds that the DRAM strategy improves the efficiency of the algorithm by nearly 30%. Synthetic examples and field seismic data verify the applicability and effectiveness of our inversion method. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2022-0567.1"
+    },
+    {
+        "id": 12021,
+        "title": "Markov Chain Monte Carlo Simulation to Estimate Material Properties of a Layered Half-space",
+        "authors": "Jin Ho Lee, Hieu Van Nguyen, Se Hyeok Lee",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7734/coseik.2023.36.3.203"
+    },
+    {
+        "id": 12022,
+        "title": "Failure probability estimation with failure samples: An extension of the two-stage Markov chain Monte Carlo simulation",
+        "authors": "Sinan Xiao, Wolfgang Nowak",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymssp.2024.111300"
+    },
+    {
+        "id": 12023,
+        "title": "Bayesian Semiparametric Hidden Markov Tensor Models for Time Varying Random Partitions with Local Variable Selection",
+        "authors": "Giorgio Paulon, Peter Müller, Abhra Sarkar",
+        "published": "2023-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1383"
+    },
+    {
+        "id": 12024,
+        "title": "Analysis of mathematical methods and principles of molecular dynamics and monte carlo method",
+        "authors": "Ruiqing Zhang",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "In this era, molecular dynamics and Monte Carlo methods have become the primary simulation methods. With the emergence of computer simulation research methods, it has been possible to solve the sizeable computational volume and some other problems in the simulation process. At present, molecular dynamics simulations have taken an essential place in the substantial computational system and have a remarkable ability to solve multi-body problems. Therefore, researchers widely use it in many fields such as physics, chemistry, and materials science. Meanwhile, the Monte Carlo method is also a very effective statistical simulation method. This method can far surpass ordinary integration in efficiency with guaranteed computational accuracy. Furthermore, the derived kinetic Monte Carlo method can simulate and study dynamics problems. It can be seen that both simulation methods play an vital role in various disciplines. Therefore, it is very significant to understand the mathematical principles behind them and to know their advantages and disadvantages.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2753-8818/5/20230252"
+    },
+    {
+        "id": 12025,
+        "title": "Analysis of a Class of Multilevel Markov Chain Monte Carlo Algorithms Based on Independent Metropolis–Hastings",
+        "authors": "Juan P. Madrigal-Cianci, Fabio Nobile, Raúl Tempone",
+        "published": "2023-3-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/21m1420927"
+    },
+    {
+        "id": 12026,
+        "title": "DEVELOPMENT OF DYNAMIC PRA METHODOLOGY FOR EXTERNAL HAZARDS IN SODIUM-COOLED FAST REACTOR VIA APPLYING MARKOV CHAIN MONTE CARLO METHOD TO SEVERE ACCIDENT ANALYSIS CODE:",
+        "authors": "Chunyen LI, Akira WATANABE, Akihiro UCHIBORI, Yasushi OKANO",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1299/jsmeicone.2023.30.1015"
+    },
+    {
+        "id": 12027,
+        "title": "A general Monte Carlo method for sample size analysis in the context of network models.",
+        "authors": "Mihai A. Constantin, Noémi K. Schuurman, Jeroen K. Vermunt",
+        "published": "2023-7-10",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000555"
+    },
+    {
+        "id": 12028,
+        "title": "Conditional normalizing flow for Markov chain Monte Carlo sampling in the critical region of lattice field theory",
+        "authors": "Ankur Singha, Dipankar Chakrabarti, Vipul Arora",
+        "published": "2023-1-25",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physrevd.107.014512"
+    },
+    {
+        "id": 12029,
+        "title": "Optimising CH<sub>4</sub> simulations from the LPJ-GUESS model v4.1 using an adaptive Markov chain Monte Carlo algorithm",
+        "authors": "Jalisha T. Kallingal, Johan Lindström, Paul A. Miller, Janne Rinne, Maarit Raivonen, Marko Scholze",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "Abstract. The processes responsible for methane (CH4) emissions from boreal wetlands are complex; hence, their model representation is complicated by a large number of parameters and parameter uncertainties. The arctic-enabled dynamic global vegetation model LPJ-GUESS (Lund–Potsdam–Jena General Ecosystem Simulator) is one such model that allows quantification and understanding of the natural wetland CH4 fluxes at various scales, ranging from local to regional and global, but with several uncertainties. The model contains detailed descriptions of the CH4 production, oxidation, and transport controlled by several process parameters. Complexities in the underlying environmental processes, warming-driven alternative paths of meteorological phenomena, and changes in hydrological and vegetation conditions highlight the need for a calibrated and optimised version of LPJ-GUESS. In this study, we formulated the parameter calibration as a Bayesian problem, using knowledge of reasonable parameters values as priors. We then used an adaptive Metropolis–Hastings (MH)-based Markov chain Monte Carlo (MCMC) algorithm to improve predictions of CH4 emission by LPJ-GUESS and to quantify uncertainties. Application of this method on uncertain parameters allows for a greater search of their posterior distribution, leading to a more complete characterisation of the posterior distribution with a reduced risk of the sample impoverishment that can occur when using other optimisation methods. For assimilation, the analysis used flux measurement data gathered during the period from 2005 to 2014 from the Siikaneva wetlands in Southern Finland with an estimation of measurement uncertainties. The data are used to constrain the processes behind the CH4 dynamics, and the posterior covariance structures are used to explain how the parameters and the processes are related. To further support the conclusions, the CH4 flux and the other component fluxes associated with the flux are examined. The results demonstrate the robustness of MCMC methods to quantitatively assess the interrelationship between objective function choices, parameter identifiability, and data support. The experiment using real observations from Siikaneva resulted in a reduction in the root-mean-square error (RMSE), from 0.044 to 0.023 gC m−2 d−1, and a 93.89 % reduction in the cost function value. As a part of this work, knowledge about how CH4 data can constrain the parameters and processes is derived. Although the optimisation is performed based on a single site's flux data from Siikaneva, the algorithm is useful for larger-scale multi-site studies for a more robust calibration of LPJ-GUESS and similar models, and the results can highlight where model improvements are needed.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/gmd-17-2299-2024"
+    },
+    {
+        "id": 12030,
+        "title": "Accurate Estimation of Circuit Delay Variance with Limited Monte Carlo Simulations Using Bayesian Inference",
+        "authors": "Chithira P. R.",
+        "published": "2023-4-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isqed57927.2023.10129384"
+    },
+    {
+        "id": 12031,
+        "title": "Reliability analysis of the stress intensity factor using multilevel Monte Carlo methods",
+        "authors": "Khader M. Hamdia, Hamid Ghasemi",
+        "published": "2023-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2023.103497"
+    },
+    {
+        "id": 12032,
+        "title": "SA80 Priors on Between-Study Heterogeneity in Bayesian Meta-Analysis Models: A Simulation Study Using Hamiltonian Monte Carlo Sampling",
+        "authors": "N. Dunnewind, C. Ainsworth, S. Ren, S. Kroep",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2989"
+    },
+    {
+        "id": 12033,
+        "title": "Supplemental Material for A Simple Monte Carlo Method for Estimating Power in Multilevel Designs",
+        "authors": "",
+        "published": "2023-11-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000614.supp"
+    },
+    {
+        "id": 12034,
+        "title": "Monte Carlo Experiments and a Few Observations on Bayesian Quantile Regression",
+        "authors": "Justin L. Tobias",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4236/tel.2024.141015"
+    },
+    {
+        "id": 12035,
+        "title": "Monte Carlo method for parabolic equations involving fractional Laplacian",
+        "authors": "Caiyu Jiao, Changpin Li",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "Abstract\nWe apply the Monte Carlo method to solving the Dirichlet problem of linear parabolic equations with fractional\nLaplacian. This method exploits the idea of weak approximation of related stochastic differential equations\ndriven by the symmetric stable Lévy process with jumps. We utilize the jump-adapted scheme to approximate\nLévy process which gives exact exit time to the boundary. When the solution has low regularity, we establish\na numerical scheme by removing the small jumps of the Lévy process and then show the convergence order. When\nthe solution has higher regularity, we build up a higher-order numerical scheme by replacing small jumps with a\nsimple process and then display the higher convergence order. Finally, numerical experiments including\nten- and one hundred-dimensional cases are presented, which confirm the theoretical estimates and show the numerical\nefficiency of the proposed schemes for high-dimensional parabolic equations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2022-2129"
+    },
+    {
+        "id": 12036,
+        "title": "IsoFrog: a reversible jump Markov Chain Monte Carlo feature selection-based method for predicting isoform functions",
+        "authors": "Yiwei Liu, Changhuo Yang, Hong-Dong Li, Jianxin Wang",
+        "published": "2023-9-2",
+        "citations": 0,
+        "abstract": "Abstract\n\nMotivation\nA single gene may yield several isoforms with different functions through alternative splicing. Continuous efforts are devoted to developing machine-learning methods to predict isoform functions. However, existing methods do not consider the relevance of each feature to specific functions and ignore the noise caused by the irrelevant features. In this case, we hypothesize that constructing a feature selection framework to extract the function-relevant features might help improve the model accuracy in isoform function prediction.\n\n\nResults\nIn this article, we present a feature selection-based approach named IsoFrog to predict isoform functions. First, IsoFrog adopts a reversible jump Markov Chain Monte Carlo (RJMCMC)-based feature selection framework to assess the feature importance to gene functions. Second, a sequential feature selection procedure is applied to select a subset of function-relevant features. This strategy screens the relevant features for the specific function while eliminating irrelevant ones, improving the effectiveness of the input features. Then, the selected features are input into our proposed method modified domain-invariant partial least squares, which prioritizes the most likely positive isoform for each positive MIG and utilizes diPLS for isoform function prediction. Tested on three datasets, our method achieves superior performance over six state-of-the-art methods, and the RJMCMC-based feature selection framework outperforms three classic feature selection methods. We expect this proposed methodology will promote the identification of isoform functions and further inspire the development of new methods.\n\n\nAvailability and implementation\nIsoFrog is freely available at https://github.com/genemine/IsoFrog.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btad530"
+    },
+    {
+        "id": 12037,
+        "title": "Physics-informed deep Monte Carlo quantile regression method for interval multilevel Bayesian Network-based satellite circuit board reliability analysis",
+        "authors": "Xiaohu Zheng, Wen Yao, Yunyang Zhang, Xiaoya Zhang, Zhiqiang Gong",
+        "published": "2023-11",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apm.2023.06.024"
+    },
+    {
+        "id": 12038,
+        "title": "Improving the stability of bivariate correlations using informative Bayesian priors: a Monte Carlo simulation study",
+        "authors": "Carl Delfin",
+        "published": "2023-9-7",
+        "citations": 0,
+        "abstract": "ObjectiveMuch of psychological research has suffered from small sample sizes and low statistical power, resulting in unstable parameter estimates. The Bayesian approach offers a promising solution by incorporating prior knowledge into statistical models, which may lead to improved stability compared to a frequentist approach.MethodsSimulated data from four populations with known bivariate correlations (ρ = 0.1, 0.2, 0.3, 0.4) was used to estimate the sample correlation as samples were sequentially added from the population, from n = 10 to n = 500. The impact of three different, subjectively defined prior distributions (weakly, moderately, and highly informative) was investigated and compared to a frequentist model.ResultsThe results show that bivariate correlation estimates are unstable, and that the risk of obtaining an estimate that is exaggerated or in the wrong direction is relatively high, for sample sizes for below 100, and considerably so for sample sizes below 50. However, this instability can be constrained by informative Bayesian priors.ConclusionInformative Bayesian priors have the potential to significantly reduce sample size requirements and help ensure that obtained estimates are in line with realistic expectations. The combined stabilizing and regularizing effect of a weakly informative prior is particularly useful when conducting research with small samples. The impact of more informative Bayesian priors depends on one’s threshold for probability and whether one’s goal is to obtain an estimate merely in the correct direction, or to obtain a high precision estimate whose associated interval falls within a narrow range. Implications for sample size requirements and directions for future research are discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fpsyg.2023.1253452"
+    },
+    {
+        "id": 12039,
+        "title": "Gene regulatory network inference based on a nonhomogeneous dynamic Bayesian network model with an improved Markov Monte Carlo sampling",
+        "authors": "Jiayao Zhang, Chunling Hu, Qianqian Zhang",
+        "published": "2023-6-24",
+        "citations": 0,
+        "abstract": "AbstractA nonhomogeneous dynamic Bayesian network model, which combines the dynamic Bayesian network and the multi-change point process, solves the limitations of the dynamic Bayesian network in modeling non-stationary gene expression data to a certain extent. However, certain problems persist, such as the low network reconstruction accuracy and poor model convergence. Therefore, we propose an MD-birth move based on the Manhattan distance of the data points to increase the rationality of the multi-change point process. The underlying concept of the MD-birth move is that the direction of movement of the change point is assumed to have a larger Manhattan distance between the variance and the mean of its left and right data points. Considering the data instability characteristics, we propose a Markov chain Monte Carlo sampling method based on node-dependent particle filtering in addition to the multi-change point process. The candidate parent nodes to be sampled, which are close to the real state, are pushed to the high probability area through the particle filter, and the candidate parent node set to be sampled that is far from the real state is pushed to the low probability area and then sampled. In terms of reconstructing the gene regulatory network, the model proposed in this paper (FC-DBN) has better network reconstruction accuracy and model convergence speed than other corresponding models on the Saccharomyces cerevisiae data and RAF data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05381-2"
+    },
+    {
+        "id": 12040,
+        "title": "Over-the-Air Antenna Array Calibration for mmWave Hybrid Beamforming Systems Based on Monte Carlo Markov Chain Method",
+        "authors": "Manlin Wang, Jienan Chen, Jiyun Tao, Hongye Li",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tvt.2022.3230460"
+    },
+    {
+        "id": 12041,
+        "title": "Statistical landslide susceptibility assessment using Bayesian logistic regression and Markov Chain Monte Carlo (MCMC) simulation with consideration of model class selection",
+        "authors": "Tengyuan Zhao, Hongzhen Peng, Ling Xu, Pingping Sun",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/17499518.2023.2288600"
+    },
+    {
+        "id": 12042,
+        "title": "Friction Identification of Heavy-Duty Manipulator CMOR Using Markov Chain Monte Carlo Method",
+        "authors": "Qi Wang, Huapeng Wu, Yuntao Song, Yong Cheng, Guodong Qin, Zhixin Yao, Yang Yang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tps.2024.3358304"
+    },
+    {
+        "id": 12043,
+        "title": "Stochastic seismic acoustic impedance inversion via a Markov-chain Monte Carlo method using a single GPU card",
+        "authors": "Seokjoon Moon, Yongchae Cho, Yongwoo Sim, Donghak Lee, Hyunggu Jun",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jappgeo.2024.105357"
+    },
+    {
+        "id": 12044,
+        "title": "Frontmatter",
+        "authors": "",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-frontmatter4"
+    },
+    {
+        "id": 12045,
+        "title": "Frontmatter",
+        "authors": "",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-frontmatter2"
+    },
+    {
+        "id": 12046,
+        "title": "Frontmatter",
+        "authors": "",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-frontmatter1"
+    },
+    {
+        "id": 12047,
+        "title": "Frontmatter",
+        "authors": "",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-frontmatter3"
+    },
+    {
+        "id": 12048,
+        "title": "Frontmatter",
+        "authors": "",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2024-frontmatter1"
+    },
+    {
+        "id": 12049,
+        "title": "Sensitivity analysis of risk assessment for continuous Markov process Monte Carlo method using correlated sampling method",
+        "authors": "Yuki Morishita, Akio Yamamoto, Tomohiro Endo",
+        "published": "2023-12-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00223131.2023.2231464"
+    },
+    {
+        "id": 12050,
+        "title": "MONTE CARLO VARIANCE REDUCTION METHODS WITH APPLICATIONS IN STRUCTURAL RELIABILITY ANALYSIS",
+        "authors": "CHENXIAO SONG",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0004972723000874"
+    },
+    {
+        "id": 12051,
+        "title": "A Bayesian tune of the Herwig Monte Carlo event generator",
+        "authors": "Salvatore La Cagnina, Kevin Kröninger, Stefan Kluth, Andrii Verbytskyi",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe optimisation (tuning) of the free parameters of Monte\n  Carlo event generators by comparing their predictions with data is\n  important since the simulations are used to calculate experimental\n  efficiency and acceptance corrections, or provide predictions for\n  signatures of hypothetical new processes in experiments. We present\n  a tuning procedure that is based on Bayesian reasoning and that\n  allows for a proper statistical interpretation of the results. The\n  parameter space is fully explored using Markov Chain Monte Carlo. We\n  apply the tuning procedure to the Herwig7 event generator with both\n  the cluster and the string hadronization models and a large set of\n  measurements from hadronic Z-boson decays produced at LEP in\n   e\n+\ne\n- collisions. Furthermore, we introduce a coherent\n  propagation of uncertainties from the realm of parameters to the\n  realm of observables and we show the effects of including\n  experimental correlations of the measurements. To allow comparison\n  with the approaches of other groups, we repeat the tuning\n  considering weights for individual measurements.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1748-0221/18/10/p10033"
+    },
+    {
+        "id": 12052,
+        "title": "Monte Carlo Simulation and Scenario Analysis Based Limestone Quarry Production Planning",
+        "authors": "Kausar Sultan Shah, Safi Ur Rehman",
+        "published": "2024-2-13",
+        "citations": 0,
+        "abstract": "The key factor behind raw mix design in the cement factory is the appropriate production planning, resultingin high-quality raw material. Quarry managers usually come up with uncertainty-related raw materials due to variationsin chemical composition. These uncertainties required efficient planning in terms of useful insight into this problem.This research provides a detailed explanation of scenario analysis of raw materials used in cement manufacturing usingMonte Carlo simulation (MCS) and indices. Scenario analysis is used to predict the possibility of best, worst and mostlikely cases of raw material’s quality. Whereas, Monte Carlo simulation is used to evaluate the inherent uncertaintyassociated with chemical composition values in order to analyze the impact of truly unpredictable scenarios. Thepredictive results help in decisions related to production planning, raw mix design optimization and increasing theprobability of designing the best plan.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46660/ijeeg.v12i1.145"
+    },
+    {
+        "id": 12053,
+        "title": "QUASI-MONTE CARLO METHODS FOR CALCULATING DERIVATIVES SENSITIVITIES ON THE GPU",
+        "authors": "Sergei Kucherenko",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "        The calculation of option Greeks is vital for risk management. Traditional pathwise and finite-difference methods work poorly for higher-order Greeks and options with discontinuous payoff functions. The Quasi-Monte Carlo-based conditional pathwise method (QMC-CPW) for options Greeks allows the payoff function of options to be effectively smoothed, allowing for increased efficiency when calculating sensitivities. Another way to increase efficiency is to utilize the increased computational speed by applying GPUs to highly parallelisable finance problems such as calculating Greeks. We pair QMC-CPW with simulation on the GPU using the CUDA platform. We estimate the delta, vega and gamma Greeks of three exotic options: arithmetic Asian, binary Asian, and look-back. The increased computational speed through usage of the GPU is also shown with achieved speedups over sequential CPU implementations of more than 200x for our most accurate method.  ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54946/wilm.11171"
+    },
+    {
+        "id": 12054,
+        "title": "Spontaneous clustering in Markov chains. III. Monte Carlo Algorithms",
+        "authors": "Vladimir Vasilyevich Uchaikin, E. V. Kozhemyakina",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36535/0233-6723-2023-222-115-133"
+    },
+    {
+        "id": 12055,
+        "title": "LoopSage: An energy-based Monte Carlo approach for the loop extrusion modeling of chromatin",
+        "authors": "Sevastianos Korsak, Dariusz Plewczynski",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymeth.2024.01.015"
+    },
+    {
+        "id": 12056,
+        "title": "A SEQUENTIAL MONTE CARLO ANALYSIS METHOD FOR BAT BIOSONAR SIGNALS",
+        "authors": "S NAGAPPA, JR HOPGOOD",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/17443"
+    },
+    {
+        "id": 12057,
+        "title": "Proposed Maintenance Scheduling Using Failure Mode and Effect Analysis and Monte Carlo Methods on Critical Components",
+        "authors": "Diana Andriani, Muhammad Faris Fakhrullah, Muhammad Yani Syafei",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icspis59665.2023.10402655"
+    },
+    {
+        "id": 12058,
+        "title": "Modeling Uncertainty in Hyperspectral Image Classification Using Neural Networks with Bayesian Monte Carlo Dropout",
+        "authors": "Jade Preston, William Basener",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/whispers61460.2023.10430587"
+    },
+    {
+        "id": 12059,
+        "title": "Research on leakage detection technology of natural gas pipeline based on modified Gaussian plume model and Markov chain Monte Carlo method",
+        "authors": "Jinpeng Zhao, Junlei Li, Yunlong Bai, Wenjing Zhou, Yonghai Zhang, Jinjia Wei",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.psep.2023.11.082"
+    },
+    {
+        "id": 12060,
+        "title": "The development of Petri net-based continuous Markov chain Monte Carlo methodology applying to dynamic probability risk assessment for multi-state resilience systems with repairable multi-component interdependency under longtermly thereat",
+        "authors": "Chun-Yen Li, Akira Watanabe, Akihiro Uchibori, Yasushi Okano",
+        "published": "2023-12-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00223131.2023.2290067"
+    },
+    {
+        "id": 12061,
+        "title": "Bayesian parameter inference in hydrological modelling using a Hamiltonian Monte Carlo approach with a stochastic rain model",
+        "authors": "Simone Ulzega, Carlo Albert",
+        "published": "2023-8-9",
+        "citations": 1,
+        "abstract": "Abstract. Stochastic models in hydrology are very useful and widespread tools for making reliable probabilistic predictions. However, such models are only accurate at making predictions if model parameters are first of all calibrated to measured data in a consistent framework such as the Bayesian one, in which knowledge about model parameters is described through probability distributions. Unfortunately, Bayesian parameter calibration, a. k. a. inference, with stochastic models, is often a computationally intractable problem with traditional inference algorithms, such as the Metropolis algorithm, due to the expensive likelihood functions. Therefore, the prohibitive computational cost is often overcome by employing over-simplified error models, which leads to biased parameter estimates and unreliable predictions. However, thanks to recent advancements in algorithms and computing power, fully fledged Bayesian inference with stochastic models is no longer off-limits for hydrological applications.\nOur goal in this work is to demonstrate that a computationally efficient Hamiltonian Monte Carlo algorithm with a timescale separation makes Bayesian parameter inference with stochastic models feasible. Hydrology can potentially take great advantage of this powerful data-driven inference method as a sound calibration of model parameters is essential for making robust probabilistic predictions, which can certainly be useful in planning and policy-making. We demonstrate the Hamiltonian Monte Carlo approach by detailing a case study from urban hydrology. Discussing specific hydrological models or systems is outside the scope of our present work and will be the focus of further studies.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/hess-27-2935-2023"
+    },
+    {
+        "id": 12062,
+        "title": "The early days of Monte Carlo methods",
+        "authors": "Iulia Georgescu",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s42254-023-00608-w"
+    },
+    {
+        "id": 12063,
+        "title": "Multi-index Sequential Monte Carlo Ratio Estimators for Bayesian Inverse problems",
+        "authors": "Ajay Jasra, Kody J. H. Law, Neil Walton, Shangda Yang",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "AbstractWe consider the problem of estimating expectations with respect to a target distribution with an unknown normalising constant, and where even the un-normalised target needs to be approximated at finite resolution. This setting is ubiquitous across science and engineering applications, for example in the context of Bayesian inference where a physics-based model governed by an intractable partial differential equation (PDE) appears in the likelihood. A multi-index sequential Monte Carlo (MISMC) method is used to construct ratio estimators which provably enjoy the complexity improvements of multi-index Monte Carlo (MIMC) as well as the efficiency of sequential Monte Carlo (SMC) for inference. In particular, the proposed method provably achieves the canonical complexity of $$\\hbox {MSE}^{-1}$$\n\nMSE\n\n-\n1\n\n\n, while single-level methods require $$\\hbox {MSE}^{-\\xi }$$\n\nMSE\n\n-\nξ\n\n\n for $$\\xi >1$$\n\nξ\n>\n1\n\n. This is illustrated on examples of Bayesian inverse problems with an elliptic PDE forward model in 1 and 2 spatial dimensions, where $$\\xi =5/4$$\n\nξ\n=\n5\n/\n4\n\n and $$\\xi =3/2$$\n\nξ\n=\n3\n/\n2\n\n, respectively. It is also illustrated on more challenging log-Gaussian process models, where single-level complexity is approximately $$\\xi =9/4$$\n\nξ\n=\n9\n/\n4\n\n and multilevel Monte Carlo (or MIMC with an inappropriate index set) gives $$\\xi = 5/4 + \\omega $$\n\nξ\n=\n5\n/\n4\n+\nω\n\n, for any $$\\omega > 0$$\n\nω\n>\n0\n\n, whereas our method is again canonical. We also provide novel theoretical verification of the product-form convergence results which MIMC requires for Gaussian processes built in spaces of mixed regularity defined in the spectral domain, which facilitates acceleration with fast Fourier transform methods via a cumulant embedding strategy, and may be of independent interest in the context of spatial statistics and machine learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10208-023-09612-z"
+    },
+    {
+        "id": 12064,
+        "title": "Equivalence testing to judge model fit: A Monte Carlo simulation.",
+        "authors": "James L. Peugh, Kaylee Litson, David F. Feldon",
+        "published": "2023-8-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000591"
+    },
+    {
+        "id": 12065,
+        "title": "COMPARISON OF WEIGHTED MARKOV CHAIN AND FUZZY TIME SERIES-MARKOV CHAIN METHODS IN AIR TEMPERATURE PREDICTION IN BANDA ACEH CITY",
+        "authors": "Siti Rusdiana, Diana Febriana, Ikhsan Maulidi, Vina Apriliani",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "Air temperature prediction is needed for various needs such as helping plan daily activities, agricultural planning, and disaster prevention. In this research, Weighted Markov Chain (WMC) method and Fuzzy Time Series-Markov Chain (FTS-MC) method are applied to predict the weekly air temperature in Banda Aceh city. The purpose of this study is to find out how the results of the application and comparison of the accuracy of the WMC method and the FTS-MC method on weekly air temperature prediction in Banda Aceh City. The prediction result of air temperature in Banda Aceh city using the WMC method for the next three weeks obtained an air temperature of 26,5℃. The prediction results of air temperature in Banda Aceh city using the FTS-MC method for the next three weeks obtained predicted values of 26,66℃ for the 105th week, 26,79℃ for the 106th week, and 26,83℃ for the 107th week. The MAPE accuracy level of the WMC method is 1,5% and the FTS-MC method is 1,7%. This shows that the MAPE of the WMC method is smaller than the FTS-MC method so it can be concluded that air temperature prediction using the WMC method is better than the FTS-MC method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30598/barekengvol17iss3pp1301-1312"
+    },
+    {
+        "id": 12066,
+        "title": "Food Grain Trade Prospect of India: Markov Chain Analysis",
+        "authors": "Sachin Kumar Verma, Shiv Kumar, Deepshikha Verma, Monmath Gopal, Deep Narayan Yadav",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21276/ssr-iijls.2024.10.2.8"
+    },
+    {
+        "id": 12067,
+        "title": "Validation of Monte Carlo Simulations for an analysis chain in H.E.S.S.",
+        "authors": "Fabian Leuschner, Johannes Schäfer, Simon Steinmassl, Tim Lukas Holch, Konrad Bernlöhr, Stefan Funk, Jim Hinton, Stefan Ohm, Gerd Pühlhofer",
+        "published": "2023-4-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22323/1.417.0231"
+    },
+    {
+        "id": 12068,
+        "title": "A Review of Stochastic Analysis of the Seepage Through Earth Dams with a Focus on the Application of Monte Carlo Simulation",
+        "authors": "Farhoud Kalateh, Milad Kheiry",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11831-023-09972-3"
+    },
+    {
+        "id": 12069,
+        "title": "Gauging Gerrymandering in Pennsylvania",
+        "authors": "James Russell, Benjamin Lieberman",
+        "published": "2023-1-30",
+        "citations": 0,
+        "abstract": "There is currently no widely accepted standard method to determine whether gerrymandering has occurred. To determine a cutoff for unreasonable gerrymandering, simulating collections of districting plans in the absence of partisan bias has been proposed. In simulation-based methods, real-world election outcomes are compared to results from simulated districting plans. Here, a simulation method that creates possible districts in continuous space is proposed. Existing methods use preliminary spatial discretization of the state to perform simulations. This spatial discretization can result in biased estimates, which could lead to inaccurate conclusions regarding gerrymandering. We use our continuous-space method to analyze the political districts in Pennsylvania. All of our simulated elections result in fewer than 13 Republican seats, indicating that the districting plan used in Pennsylvania prior to 2018 was likely gerrymandered. This finding agrees with and confirms the results of simulation-based discrete-space gerrymandering studies without the presence of discretization bias.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15367/com.v22i1.640"
+    },
+    {
+        "id": 12070,
+        "title": "Monte-Carlo Methods and Stochastic Processes: From Linear to Non-Linear\n            <b>Monte-Carlo Methods and Stochastic Processes: From Linear to Non-Linear</b>\n            , by Emmanuel Gobet, Chapman &amp; Hall (2020). Hardback. ISBN 9780367658465.",
+        "authors": "Aurélien Alfonsi, Stefano De Marco",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/14697688.2024.2310568"
+    },
+    {
+        "id": 12071,
+        "title": "APPLICATION OF FEM, ESEA AND MONTE CARLO METHODS TO DETERMINE SEA COUPLING LOSS FACTORS BETWEEN CONCRETE/MASONRY PLATES",
+        "authors": "C HOPKINS",
+        "published": "2024-1-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/18557"
+    },
+    {
+        "id": 12072,
+        "title": "Complex Valued Markov Random Field (CMRF) Based Monte Carlo Metropolis (MCM) for Monitoring Surface Deformation",
+        "authors": "Li Meng, Li Xiaoguang, Yang Yang, Wang Hongxia, Zhao Puzhi",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435707"
+    },
+    {
+        "id": 12073,
+        "title": "A Comparison of Learning Rate Selection Methods in Generalized Bayesian Inference",
+        "authors": "Pei-Shien Wu, Ryan Martin",
+        "published": "2023-3-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/21-ba1302"
+    },
+    {
+        "id": 12074,
+        "title": "Conditional density estimation using population Monte Carlo based approximate Bayesian computation",
+        "authors": "Faiza AFZAAL, Dr. Maryam ILYAS",
+        "published": "2023-8-15",
+        "citations": 0,
+        "abstract": "Most statistical methods require likelihood evaluation to draw a statistical inference. However, in some situations, likelihood evaluation becomes difficult analytically or computationally.  Different likelihood-free methods are available that eliminate the need to compute the likelihood function. Approximate Bayesian Computation (ABC) is a framework that implements likelihood-free inference and replaces the likelihood evaluation with simulations by using forward modeling. The goal of ABC methods is to approximate the posterior distribution. However, posterior approximation via ABC methods is still considerably expensive for high dimensions. ABC requires many simulations that become computationally infeasible for complex models. Here, a technique is proposed that combines a somewhat more efficient form of ABC (Population Monte Carlo, PMC) with a Conditional Density Estimation (CDE) approach. The proposed framework provides an estimation of the posterior distribution which is referred to as PMC-CDE. A simulation study is performed that provides empirical evidence to show the efficiency of PMC-CDE in terms of integrated squared error loss. Furthermore, real-life datasets manifest the application of the proposed method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15672/hujms.1055050"
+    },
+    {
+        "id": 12075,
+        "title": "Quantifying the Impact of Sea Level on Coastal Cities using Bayesian optimized Monte Carlo Simulation model",
+        "authors": "",
+        "published": "2024-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18576/amis/180316"
+    },
+    {
+        "id": 12076,
+        "title": "Imaging Upper-Mantle Anisotropy with Transdimensional Bayesian Monte Carlo Sampling",
+        "authors": "Gianmarco Del Piccolo, Brandon P. VanderBeek, Manuele Faccenda, Andrea Morelli, Joseph S. Byrnes",
+        "published": "2024-1-30",
+        "citations": 0,
+        "abstract": "ABSTRACT\nUnderdetermination is a condition affecting all problems in seismic imaging. It manifests mainly in the nonuniqueness of the models inferred from the data. This condition is exacerbated if simplifying hypotheses like isotropy are discarded in favor of more realistic anisotropic models that, although supported by seismological evidence, require more free parameters. Investigating the connections between underdetermination and anisotropy requires the implementation of solvers which explore the whole family of possibilities behind nonuniqueness and allow for more informed conclusions about the interpretation of the seismic models. Because these aspects cannot be investigated using traditional iterative linearized inversion schemes with regularization constraints that collapse the infinite possible models into a unique solution, we explore the application of transdimensional Bayesian Monte Carlo sampling to address the consequences of underdetermination in anisotropic seismic imaging. We show how teleseismic waves of P and S phases can constrain upper-mantle anisotropy and the amount of additional information these data provide in terms of uncertainty and trade-offs among multiple fields.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1785/0120230233"
+    },
+    {
+        "id": 12077,
+        "title": "Evaluation method of supply chain operation risk of logistics enterprises based on Monte Carlo algorithm",
+        "authors": "Zheng Xie",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijsd.2023.10060398"
+    },
+    {
+        "id": 12078,
+        "title": "A weight Monte Carlo estimation of fluctuations in branching processes",
+        "authors": "Vladimir Uchaikin, Elena Kozhemiakina",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "Abstract\nIt is well known that shortened modeling of particle trajectories with the use multiplicative statistical weights, as a rule, increases the efficiency of the program (in terms of accuracy/time ratio).\nThis trick is often used in non-branching schemes simulating transfer processes without multiplication (for example, the transfer of X-ray radiation), in which it is sufficient to confine ourselves to studying only the average values of the field characteristics.\nWith an increase in energy, however, multiplication processes begin to play a significant role (the production of electron-photon pairs by gamma quanta with energies above 1.022 MeV, etc.), when the resulting trajectory is not just a broken curve in the phase space, but a branched tree.\nThis technique is also applicable to this process, but only if the study of statistical fluctuations and correlations is not the purpose of the calculation.\nThe present review contains the basic concepts of the Monte Carlo method as applied to the theory of particle transport, demonstration of the weighting method in non-branching processes, and ends with a discussion of unbiased estimates of the second moment and covariance of additive functionals.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2015"
+    },
+    {
+        "id": 12079,
+        "title": "Supply chain network design",
+        "authors": "Oyshik Bhowmik, Shohel Parvez",
+        "published": "2024-2-10",
+        "citations": 0,
+        "abstract": "Goal: This study aims to minimize the total cost of a supply chain network and determine the optimal product flow under demand uncertainty.\nDesign / Methodology / Approach: A mathematical model is presented to minimize the total supply chain cost by identifying the optimal facility locations and product flows. The applicability of the proposed model is evaluated through a real-life case study of a multinational sporting goods retailer with sensitivity analysis. Moreover, Monte Carlo simulation is used to capture the demand uncertainty and test the robustness of the model.\nResults: The minimized cost is achieved with optimal facility locations and product flows. The optimal result shows a 3% reduction in the total cost, making it the most robust solution under demand uncertainty.\nLimitations of the investigation: The proposed model is only applicable to a single-commodity supply chain network. In addition, the cost components of the network are limited to facility costs and transportation costs, disregarding the other cost components.\nPractical implications: This research demonstrates a methodology that can be used as a decision support system by managers to make strategic and tactical decisions in a supply chain network when demand is uncertain.\nOriginality / Value: The MILP and simulation techniques used together to construct a three-tiered supply chain under uncertainty receive little attention in the literature. In addition to developing a novel three-echelon MILP model, this research makes use of a real-world case study to illustrate the methodology's performance in the context of demand uncertainty through simulation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14488/bjopm.1936.2024"
+    },
+    {
+        "id": 12080,
+        "title": "Examination of the SVSWR methods using the Monte Carlo Method",
+        "authors": "Alexander Kriz",
+        "published": "2023-7-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/emcsipi50001.2023.10241557"
+    },
+    {
+        "id": 12081,
+        "title": "A Bayesian-driven Monte Carlo approach for managing construction schedule risks of infrastructures under uncertainty",
+        "authors": "Long Chen, Qiuchen Lu, Daguang Han",
+        "published": "2023-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.118810"
+    },
+    {
+        "id": 12082,
+        "title": "Code/Data for \"Monte Carlo Methods for Economic Capital\"",
+        "authors": "Yajaun Li, Zachary Kaplan, Marvin Nakayama",
+        "published": "2023-9-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/ijoc.2021.0261.cd"
+    },
+    {
+        "id": 12083,
+        "title": "When Monte-Carlo Dropout Meets Multi-Exit: Optimizing Bayesian Neural Networks on FPGA",
+        "authors": "Hongxiang Fan, Mark Chen, Liam Castelli, Zhiqiang Que, He Li, Kenneth Long, Wayne Luk",
+        "published": "2023-7-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dac56929.2023.10247954"
+    },
+    {
+        "id": 12084,
+        "title": "Electricity Price Forecasting Based on Bayesian Network and Monte Carlo Simulation",
+        "authors": "Wang Yuanchen, Huang Yizhi, Guo Tong, Dai Lei, Wang Ying, Xie Wenbin",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/auteee60196.2023.10408080"
+    },
+    {
+        "id": 12085,
+        "title": "An Enhanced Approach for Load Behavior and Battery Residual Capacity Prediction Using Markov Chain and Monte Carlo Method",
+        "authors": "Yujie Wang, Caijie Zhou, Zonghai Chen",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jestie.2021.3115468"
+    },
+    {
+        "id": 12086,
+        "title": "Fast Resampling and Monte Carlo Methods in\nPython",
+        "authors": "Matt Haberland",
+        "published": "2023-6-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21105/joss.05092"
+    },
+    {
+        "id": 12087,
+        "title": "Gradient-Based Markov Chain Monte Carlo for MIMO Detection",
+        "authors": "Xingyu Zhou, Le Liang, Jing Zhang, Chao-Kai Wen, Shi Jin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/twc.2023.3342618"
+    },
+    {
+        "id": 12088,
+        "title": "A simple Monte Carlo method for estimating power in multilevel designs.",
+        "authors": "Craig K. Enders, Brian T. Keller, Michael P. Woller",
+        "published": "2023-11-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000614"
+    },
+    {
+        "id": 12089,
+        "title": "Supplemental Material for Data Aggregation Can Lead to Biased Inferences in Bayesian Linear Mixed Models and Bayesian Analysis of Variance",
+        "authors": "",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000621.supp"
+    },
+    {
+        "id": 12090,
+        "title": "Analysis of UTM Tracking Performance for Conformance Monitoring via Hybrid SITL Monte Carlo Methods",
+        "authors": "Wei Dai, Zhi Hao Quek, Bizhao Pang, Mir Feroskhan",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "Conformance monitoring supports UTM safety by observing if unmanned aircraft (UA) are adhering to declared operational intent. As a supporting system, robust cooperative tracking is critical. Nevertheless, tracking systems for UAS traffic management (UTM) are in an early stage and under-standardized, and existing literature hardly addresses the problem. To bridge this gap, this study aims to probabilistically evaluate the impact of the change in tracking performances on the effectiveness of conformance monitoring. We propose a Monte Carlo simulation-based method. To ensure a realistic simulation environment, we use a hybrid software-in-the-loop (SITL) scheme. The major uncertainties contributing to the stochastic evaluation are measured separately and are integrated into the final Monte Carlo simulation. Latency tests were conducted to assess the performance of different communication technologies for cooperative tracking. Flight technical error generation via SITL simulations and navigational system error generation based on flight experiments were employed to model UA trajectory uncertainty. Based on these tests, further Monte Carlo simulations were used to study the overall impacts of various tracking key performance indicators in UTM conformance monitoring. Results suggest that the extrapolation of UA position enables quicker non-conformance detection, but introduces greater variability in detection delay, and exacerbates the incidence of nuisance alerts and missed detections, particularly when latencies are high and velocity errors are severe. Recommendations for UA position update rates of ≥1 Hz remain consistent with previous studies, as investments in increasing the update rate do not lead to corresponding improvements in conformance monitoring performance according to simulation results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7100597"
+    },
+    {
+        "id": 12091,
+        "title": "Design of Cyber Risk Calculation Methods Using Monte Carlo Simulation in Marketspace",
+        "authors": "Hafizh Fianto Putra,  Suhardi",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceei59426.2023.10346964"
+    },
+    {
+        "id": 12092,
+        "title": "Partitions for stratified sampling",
+        "authors": "François Clément, Nathan Kirk, Florian Pausinger",
+        "published": "2024-1-11",
+        "citations": 0,
+        "abstract": "Abstract\nClassical jittered sampling partitions \n\n\n\n\n[\n0\n,\n1\n]\n\nd\n\n\n\n{[0,1]^{d}}\n\n into \n\n\n\nm\nd\n\n\n\n{m^{d}}\n\n cubes for a positive integer m and randomly places a point inside each of them, providing a point set of size \n\n\n\nN\n=\n\nm\nd\n\n\n\n\n{N=m^{d}}\n\n with small discrepancy.\nThe aim of this note is to provide a construction of partitions that works for arbitrary N and improves straight-forward constructions. We show how to construct equivolume partitions of the d-dimensional unit cube with hyperplanes that are orthogonal to the main diagonal of the cube.\nWe investigate the discrepancy of such point sets and optimise the expected discrepancy numerically by relaxing the equivolume constraint using different black-box optimisation techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2025"
+    },
+    {
+        "id": 12093,
+        "title": "Markov Chain analysis of rainfall of Coimbatore",
+        "authors": "C. NANDHINI, S. G. PATIL",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Rainfall is considered one of the most important weather parameters which helps in deciding the time of sowing, pest and disease management and harvesting. Markov chain analysis deals with predicting future values based on past values. In the present study, Markov Chain analysis was used to predict the future probability of monthly rainfall and examine the pattern and distribution of rainfall using daily rainfall data from the year 1982 to 2016 (34 years) in the Coimbatore district. This study mainly analysed the probability of rainfall in the Coimbatore district of Tamil Nadu based on Markov chain process. Based on the National Center for Hydrology and Meteorology, the intensity of rainfall per day was categorized and a day is considered as no rain if rainfall was less than 0.1 mm, low rain if rainfall was between 0.1 mm to 10 mm, moderate rain if rainfall was between 10 mm to 20 mm and heavy rain if rainfall was above 20 mm. By calculating the transition probability matrices and steady-state probability matrices for each month based on the conditional probability of rain on a particular day given that rain on the previous day which is to predict the state of rainfall on the next day. This study reported that the availability of water for crop production is higher during the winter, pre-monsoon, the onset of the southwest monsoon, and at the end of the northeast monsoon. There may be a scarcity of water from August to November for agricultural activities. Based on this study, farmers can plan for a better cropping system in advance to get a better yield.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54302/mausam.v75i2.3497"
+    },
+    {
+        "id": 12094,
+        "title": "Stationary Bayesian Markov Equilibria in Bayesian Stochastic Games with Periodic Revelation",
+        "authors": "Eunmi Ko",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4541607"
+    },
+    {
+        "id": 12095,
+        "title": "Analysis of wall-modelled particle/mesh PDF methods for turbulent parietal flows",
+        "authors": "Guilhem Balvet, Jean-Pierre Minier, Yelva Roustan, Martin Ferrand",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Abstract\nLagrangian stochastic methods are widely used to model turbulent flows.\nScarce consideration has, however, been devoted to the treatment of the near-wall region and to the formulation of a proper wall-boundary condition.\nWith respect to this issue, the main purpose of this paper is to present an in-depth analysis of such flows when relying on particle/mesh formulations of the probability density function (PDF) model.\nThis is translated into three objectives.\nThe first objective is to assess the existing an-elastic wall-boundary condition and present new validation results.\nThe second objective is to analyse the impact of the interpolation of the mean fields at particle positions on their dynamics.\nThe third objective is to investigate the spatial error affecting covariance estimators when they are extracted on coarse volumes.\nAll these developments allow to ascertain that the key dynamical statistics of wall-bounded flows are properly captured even for coarse spatial resolutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2017"
+    },
+    {
+        "id": 12096,
+        "title": "EFFICIENT MODELING OF RADIATIVE TRANSFER IN HETEROGENEOUS MEDIA WITH HOT POINT BY COMBINING MONTE CARLO METHOD AND BAYESIAN NEURAL NETWORKS",
+        "authors": "Alex Royer, Olivier Farges, Pascal Boulet, Daria Burot",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1615/tfec2023.cmd.045769"
+    },
+    {
+        "id": 12097,
+        "title": "Estimating the Time Required for Virtual Safety Assessments by Monte Carlo Methods Using Traffic Simulations",
+        "authors": "Christian Siebke, Günther Prokop",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4794002"
+    },
+    {
+        "id": 12098,
+        "title": "Option pricing: Examples and open problems",
+        "authors": "Nikolaos Halidias",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nThere is no method of predicting the price of an option other than hedging strategies such as the binomial hedging strategy, the Black–Scholes hedging strategy and others.\nWe will study these two basic hedging strategies in terms of their feasibility, and we will see that the Black–Scholes hedging strategy is not feasible because this strategy demands instantaneously rebuilding the replicating portfolio.\nConsequently, the real world prices of the options are not relevant at all with the Black–Scholes hedging strategy!\nWe will suitably redefine the binomial hedging strategy so that it will be practically useful and present other feasible and generally more effective hedging strategies with some of them practically useful for options with no tradable underlying assets.\nFinally, we will mention some open questions related to the above.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2014"
+    },
+    {
+        "id": 12099,
+        "title": "An improved unbiased particle filter",
+        "authors": "Ajay Jasra, Mohamed Maama, Hernando Ombao",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "Abstract\nIn this paper, we consider the filtering of partially observed multi-dimensional diffusion processes that are observed regularly at discrete times.\nWe assume that, for numerical reasons, one has to time-discretize the diffusion process, which typically leads to filtering that is subject to discretization bias.\nThe approach in [A. Jasra, K. J. H. Law and F. Yu,\nUnbiased filtering of a class of partially observed diffusions,\nAdv. Appl. Probab.\n54 (2022), 3, 661–687] establishes that, when only having access to the time discretized diffusion, it is possible to remove the discretization bias with an estimator of finite variance.\nWe improve on this method by introducing a modified estimator based on the recent work [A. Jasra, M. Maama and H. Ombao,\nAntithetic multilevel particle filters, preprint (2023), https://arxiv.org/abs/2301.12371].\nWe show that this new estimator is unbiased and has finite variance.\nMoreover, we conjecture and verify in numerical simulations that substantial gains are obtained.\nThat is, for a given mean square error (MSE) and a particular class of multi-dimensional diffusion, the cost to achieve the said MSE falls.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2024"
+    },
+    {
+        "id": 12100,
+        "title": "Seasonal Adjustment Methods for Daily Time Series. A Comparison by a Monte Carlo Experiment",
+        "authors": "Ángel Cuevas, Enrique M. Quilis",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4670922"
+    },
+    {
+        "id": 12101,
+        "title": "Linking the Monte Carlo radiative transfer algorithm to the radiative transfer equation",
+        "authors": "Patricio J. Valades-Pelayo, Manuel A. Ramirez-Cabrera, Argelia Balbuena-Ortega",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nThis manuscript presents a short route to justify the widely used Monte Carlo Radiative Transfer (MCRT) algorithm straight from the Radiative Transfer Equation (RTE). In this regard, this paper starts deriving a probability measure obtained from the integral formulation of the RTE under a unidirectional point source in an infinite domain. This derivation only requires the analytical integration of the first two terms of a perturbation expansion. Although derivations have been devised to clarify the relationship between the MCRT and the RTE, they tend to be rather long and elaborate. Considering how simple it is to justify the MCRT from a loose probabilistic interpretation of the photon’s physical propagation process, the decay in popularity of former approaches relating MCRT to the RTE is entirely understandable. Unfortunately, all of this has given the false impression that MCRT and the RTE are not that closely related, to the point that recent works have explicitly stated that no direct link exists between them.\nThis work presents a simpler route demonstrating how the MCRT algorithm emerges to statistically sample the RTE explicitly through Markov chains, further clarifying the method’s foundations.\nAlthough compact, the derivation proposed in this work does not skip any fundamental step, preserving mathematical rigor while giving specific expressions and functions.\nThus, this derivation can help devise efficient ways to statistically sample the RTE for different scenarios or when coupling the MCRT method with other methods traditionally grounded in the RTE, such as the Spherical Harmonics and Discrete Ordinates methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2001"
+    },
+    {
+        "id": 12102,
+        "title": "Bibliometric Analysis of the Studies Determined By the Monte Carlo Simulation Technique of the Power of the Test",
+        "authors": "Malik ERGİN, Rabia ALBAYRAK DELİALİOĞLU, Yasin ALTAY, Özgür KOŞKAN",
+        "published": "2023-10-15",
+        "citations": 1,
+        "abstract": "In order to give detailed information about the characteristics of scientific studies related to the power of the test, a bibliometric analysis of studies in which the power of the tests used in statistical data analysis was determined with the aid of Monte Carlo simulation techniques was carried out. The Web of Science (WoS) database's 1309 scientific studies in which the power of the test was determined by using Monte Carlo simulation techniques served as the study's material of data. The analysis includes the number of studies by year, average citation count by year, the number of articles published in scientific journals, countries of responsible authors, and the most relevant words in the studies. It was observed that Communications in Statistics-Simulation and Computation and Journal of Statistical Computation and Simulation are the journals with the highest number of published articles. The United States of America (USA) takes the lead when considering the countries of corresponding authors, while Türkiye is in 8th place. The most used keywords in the ten-year time period of scientific studies were respectively “power”, “test”, “skewness”, “model” and “inference”. As a result, it can be concluded that test power studies can be obtained safely using the Monte Carlo simulation technique.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34248/bsengineering.1335977"
+    },
+    {
+        "id": 12103,
+        "title": "A wavelet-based method in aggregated functional data analysis",
+        "authors": "Alex Rodrigo dos Santos Sousa",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn this paper, we consider aggregated functional data composed by a linear combination of component curves and the problem of estimating these component curves.\nWe propose the application of a bayesian wavelet shrinkage rule based on a mixture of a point mass function at zero and the logistic distribution as prior to wavelet coefficients to estimate mean curves of components.\nThis procedure has the advantage of estimating component functions with important local characteristics such as discontinuities, spikes and oscillations for example, due the features of wavelet basis expansion of functions.\nSimulation studies were done to evaluate the performance of the proposed method, and its results are compared with a spline-based method.\nAn application on the so-called Tecator dataset is also provided.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2023-2016"
+    },
+    {
+        "id": 12104,
+        "title": "Investigating Barriers to Supply Chain Resilience Strategies: A Monte-Carlo Simulation Approach",
+        "authors": "Emad El-din Hassan, Anwar Anwar",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21608/msamsj.2024.264833.1052"
+    }
+]

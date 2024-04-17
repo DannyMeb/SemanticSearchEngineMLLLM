@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 17305,
+        "title": "Evaluating Critical Weather Parameters Using Machine Learning Models",
+        "authors": "Maede Najian, Navid Goudarzi",
+        "published": "2023-8-6",
+        "citations": 1,
+        "abstract": "Abstract\nWind speed and temperature forecasting accurately for an urban area are two critical elements to mitigate cost and energy in engineering calculations. Recently, researchers have employed a combination of mesoscale Weather Research and Forecasting (WRF) and microscale models of Computational Fluid Dynamics (CFD) to simulate wind flow in urban areas. Employing machine learning algorithms is also introduced as another promising alternative/complementary tool. In this work, a WRF model is developed to calculate wind speed at 10m above the ground in two different residential regions with different upwind roughness in Singapore. The results are validated by the literature. Using the validated model, Recurrent Neural Network (RNN) models are developed to compare with numerical weather models and evaluate their performance in prediction. Prediction results’ accuracy is evaluated using Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE), and obtained errors below 0.19 and 5%, respectively. The models can provide high-resolution data as boundary conditions for CFD modeling at the local/building scale, which leads to understanding the more realistic behavior of the flow field in a built environment. In addition, they support an extended range of urban microclimate analysis, renewable energy integration practices, and smart city planning efforts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/power2023-108893"
+    },
+    {
+        "id": 17306,
+        "title": "Evaluating Machine Learning performance for seismic-based porosity prediction using synthetic models",
+        "authors": "E. Salomonsen, N. Cardozo, L. Schulte",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202310233"
+    },
+    {
+        "id": 17307,
+        "title": "Evaluating fire resistance of timber columns using explainable machine learning models",
+        "authors": "Mohsen Zaker Esteghamati, Thomas Gernay, Srishti Banerji",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engstruct.2023.116910"
+    },
+    {
+        "id": 17308,
+        "title": "Evaluating the Efficacy of Traditional Machine Learning Models in Speaker Recognition: A Comparative Study Using the LibriSpeech Dataset",
+        "authors": "Gregorius Airlangga",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "The efficacy of machine learning models in speaker recognition tasks is critical for advancements in security systems, biometric authentication, and personalized user interfaces. This study provides a comparative analysis of three prominent machine learning models: Naive Bayes, Logistic Regression, and Gradient Boosting, using the LibriSpeech test-clean dataset—a corpus of read English speech from audiobooks designed for training and evaluating speech recognition systems. Mel-Frequency Cepstral Coefficients (MFCCs) were extracted as features from the audio samples to represent the power spectrum of the speakers’ voices. The models were evaluated based on precision, recall, F1-score, and accuracy to determine their performance in correctly identifying speakers. Results indicate that Logistic Regression outperformed the other models, achieving nearly perfect scores across all metrics, suggesting its superior capability for linear classification in high-dimensional spaces. Naive Bayes also demonstrated high efficiency and robustness, despite the inherent assumption of feature independence, while Gradient Boosting showed slightly lower performance, potentially due to model complexity and overfitting. The study underscores the potential of simpler machine learning models to achieve high accuracy in speaker recognition tasks, particularly where computational resources are limited. However, limitations such as the controlled nature of the dataset and the focus on a single feature type were noted, with recommendations for future research to include more diverse environmental conditions and feature sets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47709/brilliance.v3i2.3488"
+    },
+    {
+        "id": 17309,
+        "title": "Evaluating the effectiveness of machine learning models for detecting AI-generated art",
+        "authors": "Yunjiao Xiao, Jenny Zhao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "Breakthroughs in technology mean the creation of new programs that can produce results startlingly close to human creations. AI-generated art, for example, has garnered attention and debate by redefining artistic creations, originality, and the ethics of artificial intelligence. By training on existing artwork, these programs can generate images startlingly close to the intended art style and topic and can fool the ordinary person. In this paper, we examine whether the type and style of the input image will impact the accuracy of existing AI-detection machine learning models. The first part of the hypothesis is that the existing models are more accurate in classifying whether an image is AI or human-created if the image is centered around human subjects rather than the environment. The second part of the hypothesis is that the models are more accurate in classifying realistic images compared to images in animation style and traditional mediums. The data show that current models are slightly better at classifying images of the environment, with 84.7% accuracy, compared to images of human characters, with 81.9% accuracy, which doesn’t support the first part of our hypothesis. However, most models have greater success with realism style than with traditional and animation styles, which supports the second part of our hypothesis. These results may serve as suggestions for further improvements in current models. With efficient machine learning models, artists and the general public can discern between AI and human-created art, which may help improve the regulation and usage of AI-generated art.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59720/23-132"
+    },
+    {
+        "id": 17310,
+        "title": "Evaluating the effectiveness of supervised learning models for antibiotic pollution detection from biochip data",
+        "authors": "Ruben Ng, Paul Craig",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3017922"
+    },
+    {
+        "id": 17311,
+        "title": "Evaluating Machine Learning and Statistical Models for Greenland Subglacial Bed Topography",
+        "authors": "Katherine Yi, Angelina Dewar, Tartela Tabassum, Jason Lu, Ray Chen, Homayra Alam, Omar Faruque, Sikan Li, Mathieu Morlighem, Jianwu Wang",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00097"
+    },
+    {
+        "id": 17312,
+        "title": "Evaluating Machine Learning Models on Predicting Change in Enzyme Thermostability",
+        "authors": "Avnith Vijayram, Jacklyn Luu",
+        "published": "2023-5-31",
+        "citations": 1,
+        "abstract": "Enzymes are efficient catalysts for biological reactions and can potentially be designed to speed up non-biological reactions, such as reactions in industrial processes. However, physically experimenting with new protein designs is time consuming, and an efficient method to predict protein stability is needed. Our research problem is finding the best machine learning model to predict the change in enzyme thermostability after a single point mutation in the amino acid sequence. We trained several machine learning models and found that the XGBoost model had the best performance with an R2 score of 0.593 (R2 score is a metric where higher is better and a perfect model would have a score of 1).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47611/jsrhs.v12i2.4364"
+    },
+    {
+        "id": 17313,
+        "title": "Evaluating Machine Learning Models for Age Group Classification Through Human Gait",
+        "authors": "Vincentius Tandra, Nunung Nurul Qomariyah",
+        "published": "2023-9-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciss59129.2023.10291408"
+    },
+    {
+        "id": 17314,
+        "title": "Evaluating the Use of Satellite Data and Machine Learning Models for PV Performance Monitoring",
+        "authors": "Daniel Fregosi, Rabin Dhakal, Devin Widrick",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pvsc48320.2023.10359946"
+    },
+    {
+        "id": 17315,
+        "title": "Evaluating Machine Learning and Deep Learning Models for Enhanced DDoS Attack Detection",
+        "authors": "Mohand Adnan Owaid, Asmaa Salih Hammoodi",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/mmep.110221"
+    },
+    {
+        "id": 17316,
+        "title": "Evaluating Machine Learning Models for Healthcare Services Efficiency",
+        "authors": "Ani Sukiasyan",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14571/brajets.v16.n4.1280-1289"
+    },
+    {
+        "id": 17317,
+        "title": "Evaluating Impact of Wearing Masks in Face Recognition Using Deep Learning Algorithms",
+        "authors": "Mustafa Atay, Megh Poudyel",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00217"
+    },
+    {
+        "id": 17318,
+        "title": "Evaluating the Utility of Selected Machine Learning Models for Predicting Stormwater Levels in Small Streams",
+        "authors": "Mariusz Starzec, Sabina Kordana-Obuch",
+        "published": "2024-1-16",
+        "citations": 0,
+        "abstract": "The consequences of climate change include extreme weather events, such as heavy rainfall. As a result, many places around the world are experiencing an increase in flood risk. The aim of this research was to assess the usefulness of selected machine learning models, including artificial neural networks (ANNs) and eXtreme Gradient Boosting (XGBoost) v2.0.3., for predicting peak stormwater levels in a small stream. The innovation of the research results from the combination of the specificity of small watersheds with machine learning techniques and the use of SHapley Additive exPlanations (SHAP) analysis, which enabled the identification of key factors, such as rainfall depth and meteorological data, significantly affect the accuracy of forecasts. The analysis showed the superiority of ANN models (R2 = 0.803–0.980, RMSE = 1.547–4.596) over XGBoost v2.0.3. (R2 = 0.796–0.951, RMSE = 2.304–4.872) in terms of forecasting effectiveness for the analyzed small stream. In addition, conducting the SHAP analysis allowed for the identification of the most crucial factors influencing forecast accuracy. The key parameters affecting the predictions included rainfall depth, stormwater level, and meteorological data such as air temperature and dew point temperature for the last day. Although the study focused on a specific stream, the methodology can be adapted for other watersheds. The results could significantly contribute to improving real-time flood warning systems, enabling local authorities and emergency management agencies to plan responses to flood threats more accurately and in a timelier manner. Additionally, the use of these models can help protect infrastructure such as roads and bridges by better predicting potential threats and enabling the implementation of appropriate preventive measures. Finally, these results can be used to inform local communities about flood risk and recommended precautions, thereby increasing awareness and preparedness for flash floods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su16020783"
+    },
+    {
+        "id": 17319,
+        "title": "Making and Evaluating Visible Light Splitters Using Polyethylene Kitchen Wrap",
+        "authors": "",
+        "published": "2024-2-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14738/tecs.121.16170"
+    },
+    {
+        "id": 17320,
+        "title": "Evaluating machine learning models for prediction of coronary artery disease",
+        "authors": "Rejath Jose, Anvin Thomas, Jennifer Guo, Robert Steinberg, Milan Toma",
+        "published": "2024-3-22",
+        "citations": 0,
+        "abstract": "Coronary artery disease (CAD) is a prevailing global health issue and a leading cause of death worldwide. Its accurate and timely diagnosis is crucial for effectively managing the disease and improving patient outcomes. In this study, we conducted a comparative analysis of machine learning (ML)-based approaches to detect and diagnose CAD. A dataset of 918 instances from the UCI ML repository, comprising 11 typical risk factors and CAD predictors, was used for this investigation. The study deployed ML models in Google Colaboratory and PyCaret, testing their efficacy in diagnosing CAD. Our study provides a detailed overview of these ML methodologies, their strengths, and limitations, underscoring the potential of these algorithms to revolutionize CAD diagnosis and treatment. The overall goal of the study is to create a model that can predict the presence or chance of presence of CAD based on different parameters of the patient&rsquo;s history. Findings include the showcased logistic regression model, which was proven to be particularly effective, with an area under curve of 0.88, indicating a high ability to differentiate between patients with and without CAD, and a successful ability to identify clinically key features of CAD such as the presence of exertional angina and chest pain. This study emphasizes the importance of further research in this field to establish ML as a cornerstone of modern healthcare diagnostics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36922/gtm.2669"
+    },
+    {
+        "id": 17321,
+        "title": "Prediction of Heart Disease Severity Using Hierarchically-Structured Machine-Learning Models with Feature Space Reduction",
+        "authors": "Ayami Kiuchi, Tomoya Fujita, Hayato Yamana",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012436700003657"
+    },
+    {
+        "id": 17322,
+        "title": "Predictive Models for Oil in Place for Oil Rim Reservoirs in the Niger Delta Using Machine Learning Approach",
+        "authors": "Livinus A",
+        "published": "2023-7-20",
+        "citations": 1,
+        "abstract": "One of the key factors that analysts consider when calculating the economics of oil field development is the amount of oil in place (OIP). Conventional methods used for its estimation have some features affecting their predictive capabilities and applications. In addition, Oil bidders have limited time to evaluate and rank reservoirs from complex and large reservoir data packages - which sometimes fees are paid for their access. In this study, data-driven machine learning models - artificial neural network (ANN), support vector regression (SVR) and multiple linear regression (MLR) were developed for quick estimation of OIP for oil rim reservoirs in the Niger Delta. The models were evaluated using statistical error tools, and the results showed reasonable predictions. The sensitivity analysis performed on the selected input parameters showed that areal extent has the greatest impact on the estimation of the OIP with 29.94 %, oil formation volume factor has 22.74 % impact, oil column thickness was 16.61 %, m-factor has 13.29 %, water saturation was 9.01 %, and lastly porosity has 8.38 %. Comparison with recovery factor surrogate models existing in open literature were also carried out. The newly developed models can be helpful for oil bidders in ranking and evaluation of oil rim reservoirs in the Niger Delta.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23880/ppej-16000361"
+    },
+    {
+        "id": 17323,
+        "title": "Analysis of Stacked Ensemble Classification Models in Cervical Cancer Prediction using Machine learning",
+        "authors": "",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.19.nq99296"
+    },
+    {
+        "id": 17324,
+        "title": "Evaluating Different Machine Learning Models for Runoff Modelling",
+        "authors": "Alaa Ali Slieman, Dmitry V. Kozlov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Estimation and forecasting of hydrological factors are of particular importance in hydrological modelling, and surface runoff is one of the most important of these factors. Machine learning (ML) models have attracted the attention of researchers in this field. So, this article aims to evaluate several types of ML models such as autoregressive integrated moving average (ARIMA), feed forward back propagation artificial neural network (FFBP-ANN), and adaptive neuro-fuzzy inference system (ANFIS) models in order to estimate runoff values at Al-Jawadiya meteostation in the Orontes River basin in Syria. A large number of ARIMA models were built and the seasonal effect on the models also verified. After that, FFBP-ANN models were used with the change in the number of inputs, the number of hidden layers, and the number of neurons in the hidden layer. Also, a large number of FIS models have been built and artificial neural algorithms have been used in the process of model parameters optimization. The results showed a preference for artificial intelligence models in general over ARIMA models, as well as a slight preference for FFBP-ANN models over ANFIS models. This study recommends expanding the use of ML models to reach the best models for forecasting hydrological factors.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/e3sconf/202345702040"
+    },
+    {
+        "id": 17325,
+        "title": "Evaluating and Predicting Deterioration of Bridges Using Machine Learning Applications",
+        "authors": "Ruel Sabellano, Zeinab Bandpey, Mehdi Shokouhian",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784484777.014"
+    },
+    {
+        "id": 17326,
+        "title": "Evaluating Student Knowledge Assessment Using Machine Learning Techniques",
+        "authors": "Nuha Alruwais, Mohammed Zakariah",
+        "published": "2023-4-4",
+        "citations": 4,
+        "abstract": "The process of learning about a student’s knowledge and comprehension of a particular subject is referred to as student knowledge assessment. It helps to identify areas where students need additional support or challenge and can be used to evaluate the effectiveness of instruction, make important decisions such as on student placement and curriculum development, and monitor the quality of education. Evaluating student knowledge assessment is essential to measuring student progress, informing instruction, and providing feedback to improve student performance and enhance the overall teaching and learning experience. This research paper is designed to create a machine learning (ML)-based system that assesses student performance and knowledge throughout the course of their studies and pinpoints the key variables that have the most significant effects on that performance and expertise. Additionally, it describes the impact of running models with data that only contains key features on their performance. To classify the students, the paper employs seven different classifiers, including support vector machines (SVM), logistic regression (LR), random forest (RF), decision tree (DT), gradient boosting machine (GBM), Gaussian Naive Bayes (GNB), and multi-layer perceptron (MLP). This paper carries out two experiments to see how best to replicate the automatic classification of student knowledge. In the first experiment, the dataset (Dataset 1) was used in its original state, including all five properties listed in the dataset, to evaluate the performance indicators. In the second experiment, the least correlated variable was removed from the dataset to create a smaller dataset (Dataset 2), and the same set of performance indicators was evaluated. Then, the performance indicators using Dataset 1 and Dataset 2 were compared. The GBM exhibited the highest prediction accuracy of 98%, according to Dataset 1. In terms of prediction error, the GBM also performed well. The accuracy of optimistic forecasts on student performance, denoted as the performance indicator ‘precision’, was highest in GBM at 99%, while DT, RF, and SVM were 98% accurate in their optimistic forecasts for Dataset 1. The second experiment’s findings demonstrated that practically no classifiers showed appreciable improvements in prediction accuracy with a reduced feature set in Dataset 2. It showed that the time required for related learning objects and the knowledge level corresponding to a goal learning object have less impact.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15076229"
+    },
+    {
+        "id": 17327,
+        "title": "Short-Term Electricity Demand Forecasting: Evaluating the Effectiveness of Statistical, Machine Learning, and Deep Learning Models",
+        "authors": "Felix Morales-Mareco, Carlos Sauer Ayala, Diego H. Stalder, Luis Salgueiro, Sebastian A. Grillo",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/clei60451.2023.10346118"
+    },
+    {
+        "id": 17328,
+        "title": "A novel approach for introducing basic elementary disturbances for evaluating machine learning models",
+        "authors": " S.Jayachitra, Sushma Jaiswal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "This study looks at the testing of models for computer training. The issue with the existing research methods is that testing is mostly case-specific and requires considerable extra work. A new approach is used to introduce basic elementary interference to the input data. The approach is commonly used to work with many types of data and machine learning models. Simple disruptions can be used to forecast the handling of unexposed disturbances by a learning model. An overall test method can be helpful as a clear predictor of the tolerance of the model to intangible disorders.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58599/ijsmem.2023.1108"
+    },
+    {
+        "id": 17329,
+        "title": "HOAX DETECTION USING MACHINE LEARNING MODELS",
+        "authors": "",
+        "published": "2024-4-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets51618"
+    },
+    {
+        "id": 17330,
+        "title": "Evaluating multivariate time-series clustering using simulated ecological momentary assessment data",
+        "authors": "Mandani Ntekouli, Gerasimos Spanakis, Lourens Waldorp, Anne Roefs",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100512"
+    },
+    {
+        "id": 17331,
+        "title": "Efficient Representation of Biochemical Structures for Supervised and Unsupervised Machine Learning Models Using Multi-Sensoric Embeddings",
+        "authors": "Katrin Bohnsack, Alexander Engelsberger, Marika Kaden, Thomas Villmann",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011644000003414"
+    },
+    {
+        "id": 17332,
+        "title": "IoT Device Classification Using Link-Level Features for Traditional Machine Learning and Large Language Models",
+        "authors": "Gabriel Morales, Farhan Romit, Adam Bienek-Parrish, Patrick Jenkins, Rocky Slavin",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012365700003648"
+    },
+    {
+        "id": 17333,
+        "title": "Water Quality Monitoring and Prediction Using Machine Learning Models",
+        "authors": "Omkar Bhalerao, Allam Mohan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4487070"
+    },
+    {
+        "id": 17334,
+        "title": "Stroke prediction using machine learning models",
+        "authors": "Junyi Li",
+        "published": "2023-9-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2692928"
+    },
+    {
+        "id": 17335,
+        "title": "Predicting the Cycle Life of Lithium-Ion Batteries Using Data-Driven Machine Learning Based on Discharge Voltage Curves",
+        "authors": "Yinfeng Jiang, Wenxiang Song",
+        "published": "2023-8-7",
+        "citations": 3,
+        "abstract": "Battery degradation is a complex nonlinear problem, and it is crucial to accurately predict the cycle life of lithium-ion batteries to optimize the usage of battery systems. However, diverse chemistries, designs, and degradation mechanisms, as well as dynamic cycle conditions, have remained significant challenges. We created 53 features from discharge voltage curves, 18 of which were newly developed. The maximum relevance minimum redundancy (MRMR) algorithm was used for feature selection. Robust linear regression (RLR) and Gaussian process regression (GPR) algorithms were deployed on three different datasets to estimate battery cycle life. The RLR and GPR algorithms achieved high performance, with a root-mean-square error of 6.90% and 6.33% in the worst case, respectively. This work highlights the potential of combining feature engineering and machine learning modeling based only on discharge voltage curves to estimate battery degradation and could be applied to onboard applications that require efficient estimation of battery cycle life in real time.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/batteries9080413"
+    },
+    {
+        "id": 17336,
+        "title": "Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study",
+        "authors": "Vitor dos Santos Amorim, Wyctor Fogos da Rocha, Flávio Tongo da Silva, AALAH Adam",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00290"
+    },
+    {
+        "id": 17337,
+        "title": "Evaluating and Improving Context Attention Distribution on Multi-Turn response generation using Self-Contained Distractions",
+        "authors": "Yujie Xing, Jon Atle Gulla",
+        "published": "2023-1-28",
+        "citations": 0,
+        "abstract": "Despite the rapid progress of open-domain generation-based conversational agents, most deployed systems treat dialogue contexts as single-turns, while systems dealing with multi-turn contexts are less studied. There is a lack of a reliable metric for evaluating multi-turn modelling, as well as an effective solution for improving it. In this paper, we focus on an essential component of multi-turn generation-based conversational agents: context attention distribution, i.e. how systems distribute their attention on dialogue’s context. For evaluation of this component, We introduce a novel attention-mechanism-based metric: DAS ratio. To improve performance on this component, we propose an optimization strategy that employs selfcontained distractions. Our experiments on the Ubuntu chatlogs dataset show that models with comparable perplexity can be distinguished by their ability on context attention distribution. Our proposed optimization strategy improves both non-hierarchical and hierarchical models on the proposed metric by about 10% from baselines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.130210"
+    },
+    {
+        "id": 17338,
+        "title": "Deciphering Genetic Overlaps: A Comprehensive Study On Viral Host Determination Using Machine Learning And Deep Learning Models",
+        "authors": "Pankaj Agarwal, Sapna Yadav",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53555/jaz.v45i3.4451"
+    },
+    {
+        "id": 17339,
+        "title": "Prediction of crop yield in India using machine learning and hybrid deep learning models",
+        "authors": "Krithikha Sanju Saravanan, Velammal Bhagavathiappan",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11600-024-01312-8"
+    },
+    {
+        "id": 17340,
+        "title": "Raisin Grain Classification Using Machine Learning Models",
+        "authors": "Onur Sahin",
+        "published": "2023-2-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sceecs57921.2023.10063039"
+    },
+    {
+        "id": 17341,
+        "title": "Sentiment Analysis of Financial Textual data Using Machine Learning and Deep Learning Models",
+        "authors": "Hero O. Ahmad, Shahla U. Umar",
+        "published": "2023-5-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31449/inf.v47i5.4673"
+    },
+    {
+        "id": 17342,
+        "title": "Early Warning System of Attrition in the BPO Industry Using Machine Learning Classification Models",
+        "authors": "Sandrilito Abogada, Laurence Usona",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "Employee attrition is one of the factors affecting gross margin erosion in the BPO industry, the fastest-growing industry in the Philippines, due to hiring and training costs. The cost of employee attrition depends on the employee's role and salary/wage level. This study proposed shifting the retention approach from reactive to proactive with the use of an early warning system for employee attrition. The early warning system was powered by Machine Learning Classification Models. The data used in this study are employees hired in 2021 and 2022 from one of the Telco/Communication programs in the BPO Industry. The data attributes considered in this study are composed of Employee status, Employee Performance, Employee Satisfaction, Payroll, Time Off History, Schedule, and employee Observation data. The data is trained and tested in the classification models (Decision Trees, rule-based classification, naïve Bayes, KNN, Logistic Regression, and Random Forest). Models are evaluated using the classification performance metrics (AUC, Accuracy, Precision, Recall, and F1 Score). The model with the highest predictive accuracy is selected and deployed to produce employee classification (Risk of Termination, Neutral, and Positive). This study mainly helps the company reduce turnover and costs and increase gross margin with the help of the early warning system that can predict the status of the employees using significant indicators.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55529/jaimlnn.43.18.30"
+    },
+    {
+        "id": 17343,
+        "title": "A Machine Learning Approach Using Interpretable Models for Predicting Success of NCAA Basketball Players to Reach NBA",
+        "authors": "Dante Costa, Joseana Fechine, José Brito, João Ferro, Evandro Costa, Roberta Lopes",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012390000003636"
+    },
+    {
+        "id": 17344,
+        "title": "Experimental Evaluation Of Machine Learning Algorithms For The Automatic Detection Of Exoplanets Using Light Curves",
+        "authors": "Bruno Henrique Dourado Macedo, Patricia Oliveira Montanger, Willian Zalewski",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4607638"
+    },
+    {
+        "id": 17345,
+        "title": "Employee turnover prediction using machine learning models",
+        "authors": "Chenyu Liao",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2672733"
+    },
+    {
+        "id": 17346,
+        "title": "Heart disease prediction using machine learning models",
+        "authors": "HengYuan Zhang",
+        "published": "2023-9-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2692214"
+    },
+    {
+        "id": 17347,
+        "title": "Evaluating the feasibility of batteries for second-life applications using machine learning",
+        "authors": "Aki Takahashi, Anirudh Allam, Simona Onori",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.isci.2023.106547"
+    },
+    {
+        "id": 17348,
+        "title": "Sentimental analysis of COVID-19 twitter data using deep learning and machine learning models",
+        "authors": "Simran Darad, Sridhar Krishnan",
+        "published": "2023-1-1",
+        "citations": 2,
+        "abstract": "The novel coronavirus disease (COVID-19) is an ongoing pandemic with large global attention. However, spreading fake news on social media sites like Twitter is creating unnecessary anxiety and panic among people towards this disease. In this paper, we applied machine learning (ML) techniques to predict the sentiment of the people using social media such as Twitter during the COVID-19 peak in April 2021. The data contains tweets collected on the dates between 16 April 2021 and 26 April 2021 where the text of the tweets has been labelled by training the models with an already labelled dataset of corona virus tweets as positive, negative, and neutral. Sentiment analysis was conducted by a deep learning model known as Bidirectional Encoder Representations from Transformers (BERT) and various ML models for text analysis and performance which were then compared among each other. ML models used were Naïve Bayes, Logistic Regression, Random Forest, Support Vector Machines, Stochastic Gradient Descent and Extreme Gradient Boosting. Accuracy for every sentiment was separately calculated. The classification accuracies of all the ML models produced were 66.4%, 77.7%, 74.5%, 74.7%, 78.6%, and 75.5\\%, respectively and BERT model produced 84.2%. Each sentiment-classified model has accuracy around or above 75%, which is a quite significant value in text mining algorithms. We could infer that most people tweeting are taking positive and neutral approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17163/ings.n29.2023.10"
+    },
+    {
+        "id": 17349,
+        "title": "Comparative Analysis of Machine Learning Models for PDF Malware Detection: Evaluating Different Training and Testing Criteria",
+        "authors": "Bilal Khan, Muhammad Arshad, Sarwar Shah Khan",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/jcs.2023.042501"
+    },
+    {
+        "id": 17350,
+        "title": "Re-Evaluating Machine Learning for MRP Given the Comparable Performance of (Deep) Hierarchical Models",
+        "authors": "MAX GOPLERUD",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "Multilevel regression and post-stratification (MRP) is a popular use of hierarchical models in political science. Multiple papers have suggested that relying on machine learning methods can provide substantially better performance than traditional approaches that use hierarchical models. However, these comparisons are often unfair to traditional techniques as they omit possibly important interactions or nonlinear effects. I show that complex (“deep”) hierarchical models that include interactions can nearly match or outperform state-of-the-art machine learning methods. Combining multiple models into an ensemble can improve performance, although deep hierarchical models are themselves given considerable weight in these ensembles. The main limitation to using deep hierarchical models is speed. This paper derives new techniques to further accelerate estimation using variational approximations. I provide software that uses weakly informative priors and can estimate nonlinear effects using splines. This allows flexible and complex hierarchical models to be fit as quickly as many comparable machine learning techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0003055423000035"
+    },
+    {
+        "id": 17351,
+        "title": "Comparing Explainable Machine Learning Approaches With Traditional Statistical Methods for Evaluating Stroke Risk Models: Retrospective Cohort Study",
+        "authors": "Sermkiat Lolak, John Attia, Gareth J McKay, Ammarin Thakkinstian",
+        "published": "2023-7-26",
+        "citations": 1,
+        "abstract": "\nBackground\nStroke has multiple modifiable and nonmodifiable risk factors and represents a leading cause of death globally. Understanding the complex interplay of stroke risk factors is thus not only a scientific necessity but a critical step toward improving global health outcomes.\n\n\nObjective\nWe aim to assess the performance of explainable machine learning models in predicting stroke risk factors using real-world cohort data by comparing explainable machine learning models with conventional statistical methods.\n\n\nMethods\nThis retrospective cohort included high-risk patients from Ramathibodi Hospital in Thailand between January 2010 and December 2020. We compared the performance and explainability of logistic regression (LR), Cox proportional hazard, Bayesian network (BN), tree-augmented Naïve Bayes (TAN), extreme gradient boosting (XGBoost), and explainable boosting machine (EBM) models. We used multiple imputation by chained equations for missing data and discretized continuous variables as needed. Models were evaluated using C-statistics and F1-scores.\n\n\nResults\nOut of 275,247 high-risk patients, 9659 (3.5%) experienced a stroke. XGBoost demonstrated the highest performance with a C-statistic of 0.89 and an F1-score of 0.80 followed by EBM and TAN with C-statistics of 0.87 and 0.83, respectively; LR and BN had similar C-statistics of 0.80. Significant factors associated with stroke included atrial fibrillation (AF), hypertension (HT), antiplatelets, HDL, and age. AF, HT, and antihypertensive medication were common significant factors across most models, with AF being the strongest factor in LR, XGBoost, BN, and TAN models.\n\n\nConclusions\nOur study developed stroke prediction models to identify crucial predictive factors such as AF, HT, or systolic blood pressure or antihypertensive medication, anticoagulant medication, HDL, age, and statin use in high-risk patients. The explainable XGBoost was the best model in predicting stroke risk, followed by EBM.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2196/47736"
+    },
+    {
+        "id": 17352,
+        "title": "Enhancing Machine Learning Capabilities in Injection Molded Part Quality Prediction Using Transfer Learning Models",
+        "authors": "Ming-Shyan Huang, Chia-Chin Chen",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmt59920.2023.10373654"
+    },
+    {
+        "id": 17353,
+        "title": "Development of Judgment Classification Models using Machine Learning",
+        "authors": "Shashank Ganti, Mantha Anirudh",
+        "published": "2023-1-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aisc56616.2023.10085124"
+    },
+    {
+        "id": 17354,
+        "title": "Predicting the Occurrence of Metabolic Syndrome Using Machine Learning Models",
+        "authors": "Maria Trigka, Elias Dritsas",
+        "published": "2023-9-3",
+        "citations": 2,
+        "abstract": "The term metabolic syndrome describes the clinical coexistence of pathological disorders that can lead to the development of cardiovascular disease and diabetes in the long term, which is why it is now considered an initial stage of the above clinical entities. Metabolic syndrome (MetSyn) is closely associated with increased body weight, obesity, and a sedentary lifestyle. The necessity of prevention and early diagnosis is imperative. In this research article, we experiment with various supervised machine learning (ML) models to predict the risk of developing MetSyn. In addition, the predictive ability and accuracy of the models using the synthetic minority oversampling technique (SMOTE) are illustrated. The evaluation of the ML models highlights the superiority of the stacking ensemble algorithm compared to other algorithms, achieving an accuracy of 89.35%; precision, recall, and F1 score values of 0.898; and an area under the curve (AUC) value of 0.965 using the SMOTE with 10-fold cross-validation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/computation11090170"
+    },
+    {
+        "id": 17355,
+        "title": "Forecasting models for monthly energy consumption using machine learning in Burkina Faso",
+        "authors": "Constantin ZONGO, Frederic T OUEDRAOGO, Sadouanouan MALO",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/africon55910.2023.10293286"
+    },
+    {
+        "id": 17356,
+        "title": "Fingerprint-Based Localization Approach for WSN Using Machine Learning Models",
+        "authors": "Tareq Alhmiedat",
+        "published": "2023-2-27",
+        "citations": 8,
+        "abstract": "The area of localization in wireless sensor networks (WSNs) has received considerable attention recently, driven by the need to develop an accurate localization system with the minimum cost and energy consumption possible. On the other hand, machine learning (ML) algorithms have been employed widely in several WSN-based applications (data gathering, clustering, energy-harvesting, and node localization) and showed an enhancement in the obtained results. In this paper, an efficient WSN-based fingerprinting localization system for indoor environments based on a low-cost sensor architecture, through establishing an indoor fingerprinting dataset and adopting four tailored ML models, is presented. The proposed system was validated by real experiments conducted in complex indoor environments with several obstacles and walls and achieves an efficient localization accuracy with an average of 1.4 m. In addition, through real experiments, we analyze and discuss the impact of reference point density on localization accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13053037"
+    },
+    {
+        "id": 17357,
+        "title": "Early Stage Alzheimer Disease Prediction Using Machine Learning Models",
+        "authors": "",
+        "published": "2024-4-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets52182"
+    },
+    {
+        "id": 17358,
+        "title": "Processing of Polymers Stress Relaxation Curves Using Machine Learning Methods",
+        "authors": "Anton S. Chepurnenko, Tatiana N. Kondratieva, Ebrahim Al-Wali",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "Currently, one of the topical areas of application of machine learning methods is the prediction of material characteristics. The aim of this work is to develop machine learning models for determining the rheological properties of polymers from experimental stress relaxation curves. The paper presents an overview of the main directions of metaheuristic approaches (local search, evolutionary algorithms) to solving combinatorial optimization problems. Metaheuristic algorithms for solving some important combinatorial optimization problems are described, with special emphasis on the construction of decision trees. A comparative analysis of algorithms for solving the regression problem in CatBoost Regressor has been carried out. The object of the study is the generated data sets obtained on the basis of theoretical stress relaxation curves. Tables of initial data for training models for all samples are presented, a statistical analysis of the characteristics of the initial data sets is carried out. The total number of numerical experiments for all samples was 346020 variations. When developing the models, CatBoost artificial intelligence methods were used, regularization methods (Weight Decay, Decoupled Weight Decay Regularization, Augmentation) were used to improve the accuracy of the model, and the Z-Score method was used to normalize the data. As a result of the study, intelligent models were developed to determine the rheological parameters of polymers included in the generalized non-linear Maxwell-Gurevich equation (initial relaxation viscosity, velocity modulus) using generated data sets for the EDT-10 epoxy binder as an example. Based on the results of testing the models, the quality of the models was assessed, graphs of forecasts for trainees and test samples, graphs of forecast errors were plotted. Intelligent models are based on the CatBoost algorithm and implemented in the Jupyter Notebook environment in Python. The constructed models have passed the quality assessment according to the following metrics: MAE, MSE, RMSE, MAPE. The maximum value of model error predictions was 0.86 for the MAPE metric, and the minimum value of model error predictions was 0.001 for the MSE metric. Model performance estimates obtained during testing are valid.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21123/bsj.2023.8819"
+    },
+    {
+        "id": 17359,
+        "title": "Using machine learning models to predict win rate of NBA teams",
+        "authors": "Jieyu Han",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsai61474.2023.10423336"
+    },
+    {
+        "id": 17360,
+        "title": "Detection Of DDOS Attack using Machine Learning Models",
+        "authors": "S. Santhosh, M. Sambath, J. Thangakumar",
+        "published": "2023-4-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnwc57852.2023.10127537"
+    },
+    {
+        "id": 17361,
+        "title": "Models Comparison Based On Intrusion Detection Using Machine Learning",
+        "authors": "Maimuna Yusuf Ma’aji",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "Network security is the greatest challenges in our current generation. Network intrusion detection (NID) is one of the fundamental  techniques  used  to  protect  computer  networks  from  threads.  However,  there  is  contemplation  on  the possibility  and  sustainability  of  the  traditional  approaches  employed  especially  with the  current  modern  networks. Recently, majority of the researchers employ the application of machine learning models such as logistic regression (LR), random forest (RF), K-nearest neighbor (KNN) and Support Vector Machines (SVM) among others to address the NID problem. In this research, the Network intrusion classification system has been analyzed based on KDD Cup ’99 data set. In the classifier implementation section, the three most widely used models were employed; K-nearest neighbor, random forest and logistic regression as our classification algorithms. The attack detection accuracy and training time was used to evaluate the models. The random forest provides the best detection accuracy of 99.5% and 74 second training time provide by logistic regression",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56471/slujst.v6i.358"
+    },
+    {
+        "id": 17362,
+        "title": "A Novel System for Regional Twitter Hate Speech Analysis and Detection using Deep Learning Models and Web Scraping",
+        "authors": "Nicole Ma, Yu Sun",
+        "published": "2023-1-28",
+        "citations": 1,
+        "abstract": "Instances of hate speech on popular social media platforms such as Twitter are becoming increasingly common and intense. However, there still exists a lack of comprehensive deeplearning models to combat Twitter hate speech. In this project, a comprehensive detection and reporting platform, entitled “TweetWatch,” was created to solve this issue. A binary classification CNN (Convolutional Neural Network) and a multi-class CNN were created to detect hate speech from real-time Twitter data and classify tweets with hate speech into five categories. The binary classification model has an AUC score of 98.95% and an F1 score of 97.88%. The multi-class classification model has an AUC score of 89.46%. All metrics reached over a targeted 5% increase from previous models in multiple papers, validating the proposed solution. Additionally, the only real-time choropleth map for hate speech in the United States was successfully created.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.130207"
+    },
+    {
+        "id": 17363,
+        "title": "Credit Risk Analysis Using Fuzzy Logic with Machine Learning Models",
+        "authors": "G.Arutjothi -, C.Senthamarai -",
+        "published": "2023-5-31",
+        "citations": 0,
+        "abstract": "Credit Risk is an important issue in the Banking Industry. Credit risk Prediction and assessment of credit is a difficult task for credit managers. Banking Industry has large amount of data related to the behavior of the customer and their credit history, but this raw data is not useful for making correct judgment in credit decisions. The banking industry is need of a correct credit decision making system, to distinguish between good customers and default customers. The data mining domain is suitable for assessing credit risk and making good decisions on credit. Feature selection is one of the main pre-processing step in the data mining. This paper use FuzzyRoughSetTheory (FRST) for finding feature subset. Four other feature selection methods are used to find the optimal feature subset. The four feature selection methods are Information Gain, Relief, Chi-Squared and Wrapper subset model. These different feature selection methods are compared in terms of accuracy and efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36948/ijfmr.2023.v05i03.3298"
+    },
+    {
+        "id": 17364,
+        "title": "Forecasting Indoor Air Quality Using Machine Learning Models",
+        "authors": "Ashay Singh, Mohaiminul Islam, Nga Dinh",
+        "published": "2024-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icce59016.2024.10444387"
+    },
+    {
+        "id": 17365,
+        "title": "Co-Seismic Landslide Mobility Assessment Using Machine Learning Models",
+        "authors": "Jhih-Rou Huang, Dimitrios Zekkos, Marin Clark",
+        "published": "2024-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784485347.048"
+    },
+    {
+        "id": 17366,
+        "title": "Defining and evaluating potentially preventable ED visits in oncology patients including using early machine learning models.",
+        "authors": "Sonal Gandhi, Lauren Fleshner, Monika K. Krzyzanowska, Alex Kiss, Ivy Cheng, William Tran",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": " 463  Background: Cancer patients are frequent users of the emergency department (ED); preventing such visits is important for improving the quality of cancer care and decreasing health care system burden. This study describes oncology ED visits at a single institution, and seeks to define a novel definition of potentially preventable ED visits (PPEDs), particularly considering novel cancer therapies. It also uses machine learning (ML) to create early models to predict patients at highest risk of PPEDs. Methods: A retrospective study of ED visits by oncology patients between April 1st, 2019 and April 1st, 2021 at a single academic institution was completed. PPEDs were defined as ED visits resulting in discharge from the ED or an admission of less than 48 hours. PPEDs versus non-PPEDs were evaluated using descriptive statistics, logistic regression, and machine learning (ML) modelling. Results: 17% of cancer patients (n=6,689) had 13,415 ED visits during the study period. PPEDs differed in characteristics from non-PPEDs. Stage 1-3 patients with breast cancer, and those on IV systemic therapy were more likely to have PPEDs.Logistic regression models of pre-ED visit variables showed that stage, distance, and neoadjuvant systemic therapy were associated with PPEDs. Logistic regression of ED visit-related variables revealed that genitourinary, eye, or skin-related diagnoses were associated with PPEDs. The highest-performing ML model scored an AUC of 0.819, and combined pre-ED visit and ED visit related variables; stage 1-3 breast cancer patients, all IV chemotherapy patients, and stage 4 patients living within 15km of the ED, or with GI, oral or female gynecologic cancers were associated with PPEDs. ED diagnoses of “cancer” and MSK issues were associated with PPEDs. For those patients on IV systemic therapy specifically, having breast cancer, having a palliative consult within 60 days of the ED visit, or presenting with ED diagnoses of toxicities from therapy or blood disorders, pain, or rash were associated with PPEDs. Conclusions: Our novel definition of PPEDs versus non-PPEDs appears reasonable, and using machine learning has helped to describe groups of patients at highest likelihood of such visits at our institution. Future work to validate and advance these models into clinical prediction tools and algorithms could help proactively target high risk patients, and ideally decrease preventable ED visits in oncology. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1200/op.2023.19.11_suppl.463"
+    },
+    {
+        "id": 17367,
+        "title": "Evaluating Multi-Core Performance of Machine Learning Models Across Different Computing Environments",
+        "authors": "Md Saeem Hossain Shanto, Md Ulfat Tahsin, Sarah Jasim, Mohammad Ashrafuzzaman Khan",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10307025"
+    },
+    {
+        "id": 17368,
+        "title": "Predictive Analysis in Nephrology: Evaluating Machine Learning Models for Chronic Kidney Disease Prediction",
+        "authors": " Metun, Geethanjali P, Ajay V",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "Abstract: In the realm of healthcare, early detection and accurate diagnosis are critical for effective treatment, especially for diseases that are often undiagnosed until later stages. This research presents an Automated Classification System focused on Chronic Kidney Disease (CKD), a prevalent condition frequently undetected in its early stages. Leveraging advanced machine learning techniques, the study aims to overcome the traditional reliance on doctors' intuition and experience by providing a data-driven approach for CKD diagnosis. Utilizing a comprehensive dataset, the research explores various data pre-processing methods, including innovative approaches for handling missing values and data integrity, which surpass the conventional mean and mode-based imputation methods prevalent in existing literature. Through exploratory data analysis and the application of diverse machine learning algorithms, the study seeks to identify the most effective model for predicting CKD risk. The findings of this research have significant implications for enhancing clinical decisions, offering a path towards more accessible, efficient, and accurate diagnosis of Chronic Kidney Disease, ultimately contributing to improved patient outcomes and healthcare practices",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22214/ijraset.2024.58102"
+    },
+    {
+        "id": 17369,
+        "title": "Evaluating the Sensitivity of Machine Learning Models to Data Preprocessing Technique in Concrete Compressive Strength Estimation",
+        "authors": "Maan Habib, Maan Okayli",
+        "published": "2024-2-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-024-08776-2"
+    },
+    {
+        "id": 17370,
+        "title": "Performance Analysis of Machine Learning Models in Solar Energy Forecasting",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18178/ijml.2023.13.3.1140"
+    },
+    {
+        "id": 17371,
+        "title": "IMU-based Human Activity Recognition using Machine Learning and Deep Learning models",
+        "authors": "Saad AlKharji, Aysha Alteneiji, Kin Poon",
+        "published": "2023-11-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icspis60075.2023.10343567"
+    },
+    {
+        "id": 17372,
+        "title": "Traditional Machine Learning Models for Building Energy Performance Prediction: A Comparative Research",
+        "authors": "Zeyu Wu, Hongyang He",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11648/j.mlr.20230801.11"
+    },
+    {
+        "id": 17373,
+        "title": "Evaluating the screening value of serum light chain ratio, β2 microglobulin, lactic dehydrogenase and immunoglobulin in patients with multiple myeloma using ROC curves",
+        "authors": "Limei Ying, Xiaochang Zhang, Nina Lu, Lei Zhao, Yanfang Nie, Guofen Wang, Sai Chen, Linglong Xu",
+        "published": "2023-2-16",
+        "citations": 1,
+        "abstract": "\nObjective\nSeveral laboratory and imaging assays are required to diagnose multiple myeloma (MM). Serum and urine immunofixation electrophoresis are two key assays to diagnose MM, while they have not been extensively utilized in Chinese hospitals. Serum light chain (sLC), β2 microglobulin (β2-MG), lactic dehydrogenase (LDH), and immunoglobulin (Ig) are routinely measured in the majority of Chinese hospitals. Imbalance of sLC ratio (involved light chain/uninvolved light chain) is frequently observed in MM patients. This study aimed to evaluate the screening value of sLC ratio, β2-MG, LDH, and Ig in MM patients using receiver operating characteristic (ROC) curves.\n\n\nMethods\nData of 303 suspected MM patients, who were admitted to the Taizhou Central Hospital between March 2015 and July 2021, were retrospectively analyzed. In total, 69 patients (MM arm) met the International Myeloma Working Group (IMWG) updated criteria for the diagnosis of MM, while 234 patients were non-MM (non-MM arm). All patients’ sLC, β2-MG, LDH, and Ig were measured using commercially available kits according to the manufacturer’s instructions. The ROC curve analysis was employed to assess the screening value of sLC ratio, β2-MG, LDH, creatinine (Cr) and Ig. The statistical analysis was carried out by SPSS 26.0 (IBM, Armonk, NY, USA) and MedCalc 19.0.4 (Ostend, Belgium) software.\n\n\nResults\nThere was no significant difference between the MM and non-MM arms in terms of gender, age and Cr. The median sLC ratio in the MM arm was 11.5333, which was significantly higher than that of 1.9293 in the non-MM arm (P<0.001). The area under the curve (AUC) of sLC ratio was 0.875, which indicated a robust screening value. The optimal sensitivity and specificity were 81.16% and 94.87% respectively, when the sLC ratio was set as 3.2121. The serum levels of β2-MG and Ig were higher in the MM arm than those in the non-MM arm (P<0.001). The AUC values of β2-MG, LDH, and Ig were 0.843 (P<0.001), 0.547 (P = 0.2627), and 0.723 (P<0.001), respectively. The optimal cutoff values of β2-MG, LDH, and Ig were 1.95 mg/L, 220 U/L, and 46.4 g/L respectively, in the context of screening value. The triple combination of sLC ratio (3.2121), β2-MG (1.95 mg/L), and Ig (46.4 g/L) yielded a higher screening value compared with that of sLC ratio alone (AUC, 0.952; P<0.0001). The triple combination had a sensitivity of 94.20% and a specificity of 86.75%. The addition of LDH to the triple combination and formation of quadruple combination did not optimize the screening value, with AUC, sensitivity, and specificity of 0.952, 94.20%, and 85.47%, respectively.\n\n\nConclusion\nThe triple combination strategy (sLC ratio, 3.2121; β2-MG, 1.95 mg/L; Ig, 46.4 g/L) is accompanied by remarkable sensitivity and specificity for screening MM in Chinese hospitals.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0281743"
+    },
+    {
+        "id": 17374,
+        "title": "Unraveling fundamental properties of power system resilience curves using unsupervised machine learning",
+        "authors": "Bo Li, Ali Mostafavi",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.egyai.2024.100351"
+    },
+    {
+        "id": 17375,
+        "title": "Keyword Data Analysis Using Generative Models Based on Statistics and Machine Learning Algorithms",
+        "authors": "Sunghae Jun",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "For text big data analysis, we preprocessed text data and constructed a document–keyword matrix. The elements of this matrix represent the frequencies of keywords occurring in a document. The matrix has a zero-inflation problem because many elements are zero values. Also, in the process of preprocessing, the data size of the document–keyword matrix is reduced. However, various machine learning algorithms require a large amount of data, so to solve the problems of data shortage and zero inflation, we propose the use of generative models based on statistics and machine learning. In our experimental tests, we compared the performance of the models using simulation and practical data sets. Thus, we verified the validity and contribution of our research for keyword data analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13040798"
+    },
+    {
+        "id": 17376,
+        "title": "Forecasting stock close price using machine learning models",
+        "authors": "",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "Forecasting is about determining which variables contribute to the prediction of other variables. The stock forecasting problem is difficult due to its unpredictable and non-linear nature. Prediction and evaluation are two of the most challenging tasks. A machine learning (ML) classifier was used to address prediction issues in this paper. Linear Regression (LR) was used to develop the new Stock Close Price Prediction (SCPP) algorithm. The model was built using Yahoo Finance's data of different stocks using LR, Bernoulli Naïve Bayes (BNB), and Support Vector Machine (SVM). Among these, the model forecasts the stock close price effectively with LR. In this, the Apple stock’s close price was predicted with the features: Low, Open, High, Volume, and Close. From the results, LR outperforms the SVM and BNB in close price prediction with an accuracy of 99.97 %.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59018/022361"
+    },
+    {
+        "id": 17377,
+        "title": "Classifying Air Quality Using Machine Learning Models",
+        "authors": "Eman Abdelfattah, Yuval Ashkenazi",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/uemcon59035.2023.10316018"
+    },
+    {
+        "id": 17378,
+        "title": "Sentiment Analysis using Machine Learning Models on Shopee  Reviews",
+        "authors": "",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33168/jsms.2024.0213"
+    },
+    {
+        "id": 17379,
+        "title": "Forecasting PM10 Concentrations in the Caribbean Area Using Machine Learning Models",
+        "authors": "Thomas Plocoste, Sylvio Laventure",
+        "published": "2023-1-7",
+        "citations": 11,
+        "abstract": "In the Caribbean basin, particulate matter lower or equal to 10 μm in diameter (PM10) has a huge impact on human mortality and morbidity due to the African dust. For the first time in this geographical area, the theoretical framework of artificial intelligence is applied to forecast PM10 concentrations. The aim of this study is to forecast PM10 concentrations using six machine learning (ML) models: support vector regression (SVR), k-nearest neighbor regression (kNN), random forest regression (RFR), gradient boosting regression (GBR), Tweedie regression (TR), and Bayesian ridge regression (BRR). Overall, with MBEmax = −2.8139, the results showed that all the models tend to slightly underestimate PM10 empirical data. GBR is the model that gives the best performance (r = 0.7831, R2 = 0.6132, MAE = 6.8479, RMSE = 10.4400, and IOA = 0.7368). By comparing our results to other PM10 ML studies in megacities, we found similar performance using only three input variables, whereas previous studies use many input variables with Artificial Neural Network (ANN) models. All these results showed the features of PM10 concentrations in the Caribbean area.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/atmos14010134"
+    },
+    {
+        "id": 17380,
+        "title": "Rainfall Prediction for North Maharashtra, India Using Advanced Machine Learning Models",
+        "authors": "Husain H Dawoodi,  , Manoj P Patil",
+        "published": "2023-4-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17485/ijst/v16i13.2235"
+    },
+    {
+        "id": 17381,
+        "title": "Performance Evaluation of Text Document Using Machine Learning Models for Information Retrieval",
+        "authors": "Subhasish Chowdhury, Suresh Kumar",
+        "published": "2023-5-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt57929.2023.10150858"
+    },
+    {
+        "id": 17382,
+        "title": "Predicting Jet Count in Proton-Proton Collisions using Machine Learning and Deep Learning Models",
+        "authors": "Canda Deniz Sag, Onur Sahin",
+        "published": "2023-9-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ubmk59864.2023.10286647"
+    },
+    {
+        "id": 17383,
+        "title": "Higgs event classification using Machine Learning",
+        "authors": "Mysha Khan, Pushpa Bhat",
+        "published": "2023-8-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2172/1997111"
+    },
+    {
+        "id": 17384,
+        "title": "Evaluating Online Learning Adaptability in Students Using Machine Learning-Based Techniques: A Novel Analytical Approach",
+        "authors": "A.B Feroz Khan, Saleem Raja Abdul Samad",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56578/esm020103"
+    },
+    {
+        "id": 17385,
+        "title": "Evaluating Employee Attrition And Its Factors Using Machine Learning Approaches",
+        "authors": "A.Sheik Abdullah, P.Je Sai Kailash, Deepthi Ramesh, Prithviraj Guntha",
+        "published": "2023-9-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276069"
+    },
+    {
+        "id": 17386,
+        "title": "Optimization of Operating Rooms Using Machine Learning Models and Artificial Intelligence",
+        "authors": "Saurabh Lahoti",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icosec58147.2023.10276178"
+    },
+    {
+        "id": 17387,
+        "title": "Optimization Heart Disease Prediction using Machine Learning Models",
+        "authors": "Syahrul Tuba",
+        "published": "2023-1-31",
+        "citations": 0,
+        "abstract": "Healthcare is currently one of the most pressing global issues, with an increase in the incidence of cardiac disease affecting all age groups, particularly the young. Rapid identification and treatment of heart problems can potentially save lives. Artificial intelligence has the potential to significantly aid in this effort. In this study, we aimed to develop a heart disease prediction model using machine learning techniques. We utilized several models, including Support Vector Machine (SVM), K-Neighbors Classifier, Random Forest Classifier, Decision Tree, and Logistic Regression. Based on our experiments, the logistic regression and K-NN models produced the best results, with accuracies of 0.95592% and 0.956194%, respectively. Our findings suggest that machine learning models can be optimized for heart disease prediction and have the potential to improve healthcare outcomes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52005/fidelity.v5i1.142"
+    },
+    {
+        "id": 17388,
+        "title": "Soft sensing of water quality parameters in indoor shrimp farming using machine learning models",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.rahman28"
+    },
+    {
+        "id": 17389,
+        "title": "Ransomware Threat Detection and Mitigation using Machine Learning Models",
+        "authors": "Shivam Khurana",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictbig59752.2023.10456343"
+    },
+    {
+        "id": 17390,
+        "title": "IRI Prediction using Machine Learning Models",
+        "authors": "Ankit Sharma, Praveen Aggarwal",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "Road infrastructure is the backbone of the economy of any country. The recent increase in the length of roads has never been matched in history. The increase in length comes with huge demand for the maintenance of pavements in an orderly fashion. The pavement management system is used for planning maintenance based on pavement performance evaluation. The international roughness index (IRI) is considered a standard parameter for the functional evaluation of flexible pavements. In the present study, IRI is predicted through machine learning models using the LTPP database. The main objective of the study is to find the optimal machine learning which can be used for IRI prediction. Three machine learning models, (i) linear regression, (ii) optimised trees, and (iii) optimised Gaussian process regression (GPR), has been used for predicting IRI. Different models have been compared based on various statistical parameters. The optimised GPR model performed best per the R-Squared value (0.89).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37394/232018.2023.11.10"
+    },
+    {
+        "id": 17391,
+        "title": "Evaluating the effectiveness of machine learning models for performance forecasting in basketball: a comparative study",
+        "authors": "George Papageorgiou, Vangelis Sarlis, Christos Tjortjis",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "AbstractSports analytics (SA) incorporate machine learning (ML) techniques and models for performance prediction. Researchers have previously evaluated ML models applied on a variety of basketball statistics. This paper aims to benchmark the forecasting performance of 14 ML models, based on 18 advanced basketball statistics and key performance indicators (KPIs). The models were applied on a filtered pool of 90 high-performance players. This study developed individual forecasting scenarios per player and experimented using all 14 models. The models’ performance ranking was developed using a bespoke evaluation metric, called weighted average percentage error (WAPE), formulated from the weighted mean absolute percentage error (MAPE) evaluation results of each forecasted statistic and model. Moreover, we employed a comprehensive forecasting approach to improve KPI's results. Results showed that Tree-based models, namely Extra Trees, Random Forest, and Decision Tree, are the best performers in most of the forecasted performance indicators, with the best performance achieved by Extra Trees with a WAPE of 34.14%. In conclusion, we achieved a 3.6% MAPE improvement for the selected KPI with our approach on unseen data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10115-024-02092-9"
+    },
+    {
+        "id": 17392,
+        "title": "Evaluating the machine learning models based on natural language processing tasks",
+        "authors": "Meeradevi Meeradevi, Sowmya B. J., Swetha B. N.",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "<span lang=\"EN-US\">In the realm of natural language processing (NLP), a diverse array of language models has emerged, catering to a wide spectrum of tasks, ranging from speaker recognition and auto-correction to sentiment analysis and stock prediction. The significance of language models in enabling the execution of these NLP tasks cannot be overstated. This study proposes an approach to enhance accuracy by leveraging a hybrid language model, combining the strengths of long short-term memory (LSTM) and gated recurrent unit (GRU). LSTM excels in preserving long-term dependencies in data, while GRU's simpler gating mechanism expedites the training process. The research endeavors to evaluate four variations of this hybrid model: LSTM, GRU, <a name=\"_Hlk158992630\"></a>bidirectional long short-term memory (Bi-LSTM), and a combination of LSTM with GRU. These models are subjected to rigorous testing on two distinct datasets: one focused on IBM stock price prediction, and the other on Jigsaw toxic comment classification (sentiment analysis). This work represents a significant stride towards democratizing NLP capabilities, ensuring that even in resource-constrained settings, NLP models can exhibit improved performance. The anticipated implications of these findings span a wide spectrum of real-world applications and hold the potential to stimulate further research in the field of NLP. </span>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijai.v13.i2.pp1954-1968"
+    },
+    {
+        "id": 17393,
+        "title": "Analysis and Early Diagnosing Tool for Learning Disability using Machine Learning Models",
+        "authors": "Nandha D Anand, Sanitha Lakshmi K Das, Rajalakshmi V R",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conit59222.2023.10205649"
+    },
+    {
+        "id": 17394,
+        "title": "Mathematical Models for Seizure Source Localization in Neonates Using Machine Learning and Finite Element Method",
+        "authors": "A. Jeremic",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/piers59004.2023.10221518"
+    },
+    {
+        "id": 17395,
+        "title": "Breast Cancer Prediction Using Classical Machine Learning Models",
+        "authors": "Khawla Almazrouei, Ali Bou Nassif",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/irce59430.2023.10254778"
+    },
+    {
+        "id": 17396,
+        "title": "Geomagnetic Storm Forecasting Using Machine Learning Models",
+        "authors": "Shree Ram Abayankar Balaji, Prakash Ranganathan",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccwc60891.2024.10427789"
+    },
+    {
+        "id": 17397,
+        "title": "Prediction of survival probability of cancer using machine learning models",
+        "authors": "Mingxin Li",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2672658"
+    },
+    {
+        "id": 17398,
+        "title": "Prediction and analysis of lung cancer using machine learning models",
+        "authors": "Yapeng Chen",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2672647"
+    },
+    {
+        "id": 17399,
+        "title": "Electricity Demand Forecasting In Kerala Using Machine Learning Models",
+        "authors": "Anna Saji, Arya Prakash, M Soumya Krishnan",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conit59222.2023.10205925"
+    },
+    {
+        "id": 17400,
+        "title": "Evaluating Machine Learning Models for Predicting Graduation Timelines in Moroccan Universities",
+        "authors": "Azeddine Sadqui, Merouane Ertel, Hicham Sadiki, Said Amali",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14569/ijacsa.2023.0140734"
+    },
+    {
+        "id": 17401,
+        "title": "Energy Prediction in IoT Systems Using Machine Learning Models",
+        "authors": "S. Balaji, S. Karthik",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2023.035275"
+    },
+    {
+        "id": 17402,
+        "title": "Advancing tourism demand forecasting in Sri Lanka: evaluating the performance of machine learning models and the impact of social media data integration",
+        "authors": "Isuru Udayangani Hewapathirana",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "PurposeThis study explores the pioneering approach of utilising machine learning (ML) models and integrating social media data for predicting tourist arrivals in Sri Lanka.Design/methodology/approachTwo sets of experiments are performed in this research. First, the predictive accuracy of three ML models, support vector regression (SVR), random forest (RF) and artificial neural network (ANN), is compared against the seasonal autoregressive integrated moving average (SARIMA) model using historical tourist arrivals as features. Subsequently, the impact of incorporating social media data from TripAdvisor and Google Trends as additional features is investigated.FindingsThe findings reveal that the ML models generally outperform the SARIMA model, particularly from 2019 to 2021, when several unexpected events occurred in Sri Lanka. When integrating social media data, the RF model performs significantly better during most years, whereas the SVR model does not exhibit significant improvement. Although adding social media data to the ANN model does not yield superior forecasts, it exhibits proficiency in capturing data trends.Practical implicationsThe findings offer substantial implications for the industry's growth and resilience, allowing stakeholders to make accurate data-driven decisions to navigate the unpredictable dynamics of Sri Lanka's tourism sector.Originality/valueThis study presents the first exploration of ML models and the integration of social media data for forecasting Sri Lankan tourist arrivals, contributing to the advancement of research in this domain.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1108/jtf-06-2023-0149"
+    },
+    {
+        "id": 17403,
+        "title": "Evaluating Machine Learning Models for Engagement Prediction in Different Photograph Types",
+        "authors": "Alan Galván Espinoza, Silvestre Guillermo Puebla Serrano, Armida Gonzales Lorence",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56581/ijlera.8.6.47-51"
+    },
+    {
+        "id": 17404,
+        "title": "A Comparison of Deep Learning and Machine Learning Models for Speech Emotion Recognition Using Multiple Features",
+        "authors": "Kumar Bhawesh, Debjani Mustafi",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10307514"
+    },
+    {
+        "id": 17405,
+        "title": "COVID-19 detection using machine learning and fusion-based deep learning models",
+        "authors": "Fatima Raheem,  Manaf K. Hussein",
+        "published": "2023-8-8",
+        "citations": 0,
+        "abstract": "The COVID-19 pandemic has been one of the most challenging crises attacking the world in the last three years. Many systems have been introduced in the field of COVID-19 detection.\r\nIn this research, machine learning and deep learning models for the detection of COVID-19 with a probability of the presence of COVID-19 are proposed. In the machine learning scenario, the COVID-19 dataset is split into 70% training and 30% testing, and a segmentation process is applied to the CT images in order to get the lung ROI only. The features of CT images are then extracted using Gabor-Wavelet and deep-based features. The SVM classifier is then trained and evaluated. For the deep learning model, the CT images are fed into the model without feature extraction, and three different DL models (CNN, GoogleNet, and ResNet50) are trained and evaluated. Other scenarios are proposed in which the SVM Gabor-Wavelet and deep features are fused, and the three deep learning models are also fused to get better performance. The experiments show that the best model is the deep-based fusion model by which the system achieved 96.4156%, 96.1905%, and 96.1905% for accuracy, precision, and recall, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31185/ejuow.vol11.iss2.439"
+    },
+    {
+        "id": 17406,
+        "title": "Diabetes Prediction Using Supervised Machine Learning Models",
+        "authors": "V.Manohar Chand Naik, M. Prakash, B. Shakila",
+        "published": "2023-8-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indiscon58499.2023.10270102"
+    },
+    {
+        "id": 17407,
+        "title": "Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models",
+        "authors": "Venkatesh Sumukh",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaica58456.2023.10405550"
+    },
+    {
+        "id": 17408,
+        "title": "Quantification of golgi dispersal and classification using machine learning models",
+        "authors": "Rutika Sansaria, Krishanu Dey Das, Alwin Poulose",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.micron.2023.103547"
+    },
+    {
+        "id": 17409,
+        "title": "Airbnb Rental Price Prediction Using Machine Learning Models",
+        "authors": "Alexander Lektorov, Eman Abdelfattah, Shreehar Joshi",
+        "published": "2023-3-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccwc57344.2023.10099266"
+    },
+    {
+        "id": 17410,
+        "title": "iHyptn: Predicting Hypertension using PPG signal for Cardiovascular Disease with Machine Learning Models",
+        "authors": "Nidhi Sinha, Amit Joshi",
+        "published": "2023-10-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tencon58879.2023.10322322"
+    },
+    {
+        "id": 17411,
+        "title": "Machine Learning and Explainable Artificial Intelligence Using Counterfactual Explanations for Evaluating Posture Parameters",
+        "authors": "Carlo Dindorf, Oliver Ludwig, Steven Simon, Stephan Becker, Michael Fröhlich",
+        "published": "2023-4-24",
+        "citations": 1,
+        "abstract": "Postural deficits such as hyperlordosis (hollow back) or hyperkyphosis (hunchback) are relevant health issues. Diagnoses depend on the experience of the examiner and are, therefore, often subjective and prone to errors. Machine learning (ML) methods in combination with explainable artificial intelligence (XAI) tools have proven useful for providing an objective, data-based orientation. However, only a few works have considered posture parameters, leaving the potential for more human-friendly XAI interpretations still untouched. Therefore, the present work proposes an objective, data-driven ML system for medical decision support that enables especially human-friendly interpretations using counterfactual explanations (CFs). The posture data for 1151 subjects were recorded by means of stereophotogrammetry. An expert-based classification of the subjects regarding the presence of hyperlordosis or hyperkyphosis was initially performed. Using a Gaussian progress classifier, the models were trained and interpreted using CFs. The label errors were flagged and re-evaluated using confident learning. Very good classification performances for both hyperlordosis and hyperkyphosis were found, whereby the re-evaluation and correction of the test labels led to a significant improvement (MPRAUC = 0.97). A statistical evaluation showed that the CFs seemed to be plausible, in general. In the context of personalized medicine, the present study’s approach could be of importance for reducing diagnostic errors and thereby improving the individual adaptation of therapeutic measures. Likewise, it could be a basis for the development of apps for preventive posture assessment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/bioengineering10050511"
+    },
+    {
+        "id": 17412,
+        "title": "Evaluating the Role of Machine Learning in Defense Applications and Industry",
+        "authors": "Evaldo Jorge Alcántara Suárez, Victor Monzon Baeza",
+        "published": "2023-10-22",
+        "citations": 0,
+        "abstract": "Machine learning (ML) has become a critical technology in the defense sector, enabling the development of advanced systems for threat detection, decision making, and autonomous operations. However, the increasing ML use in defense systems has raised ethical concerns related to accountability, transparency, and bias. In this paper, we provide a comprehensive analysis of the impact of ML on the defense sector, including the benefits and drawbacks of using ML in various applications such as surveillance, target identification, and autonomous weapons systems. We also discuss the ethical implications of using ML in defense, focusing on privacy, accountability, and bias issues. Finally, we present recommendations for mitigating these ethical concerns, including increased transparency, accountability, and stakeholder involvement in designing and deploying ML systems in the defense sector.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5040078"
+    },
+    {
+        "id": 17413,
+        "title": "Exploring the Integration of Machine Learning Models in Programming Languages on GitHub: Impact on Compatibility to Address Them",
+        "authors": "",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "GitHub repositories are often used for collaborative development, allowing multiple developers to work on the same codebase and contribute their changes. Each repository is typically associated with a specific project, and it can contain everything from code files to documentation, bug reports, and feature requests. Depending on the context, it can contain files, directories, other resources related to a project, and it is often associated with a particular programming language. By default, GitHub automatically detects the primary programming language used in a repository based on the file extensions and content within the repository. However, this detection is not true all the time; there are some potential issues to consider. One of these problems is that the detected language may not accurately reflect the actual programming languages used in the project, especially if the project utilizes multiple programming languages or has undergone language migrations. In this study, we apply an alternative technology to resolve problems with classifying the programming language of a GitHub repository by analysing file extensions and identifying all programming languages used in the project. We also determine the appropriate primary programming language for the repository. This paper investigates how this technology can address the issues surrounding GitHub’s automatic detection of a repository’s primary programming language and how it can provide information on all the programming languages used in a project.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/amlai.04.02.06"
+    },
+    {
+        "id": 17414,
+        "title": "Evaluating the pedestrian level of service for varying trip purposes using machine learning algorithms",
+        "authors": "Deborah Paul, Sara Moridpour, Srikanth Venkatesan, Nuwan Withanagamage",
+        "published": "2024-2-2",
+        "citations": 0,
+        "abstract": "AbstractThe pedestrians’ feeling of comfort while walking on footpaths varies according to the time of day, environment, and the purpose of the trip. The quality of service offered by pedestrian facilities such as walkways, intersections, and public places is evaluated by the Pedestrian level of service (PLOS) and has been measured from time to time, to upgrade and maintain the sustainable travel choice of people. This paper aims to focus on the level of service based on three main trip purposes such as work, education, and recreation, while considering various path characteristics and pedestrian flow characteristics that affect the pedestrian’s feeling of comfort on the walkways. The data has been collected using pedestrian questionnaire surveys and pedestrian sensors in the Melbourne central business district and the significant factors that influence the PLOS for each trip purpose will be chosen using the Mutual Information gain, which is found to be different for each trip purpose. The major influencing factors that affect the PLOS will be used to develop machine learning models for three trip purposes separately using Random Forest and Light-GBM algorithm in Python. The accuracy of prediction using the light GBM model is 0.74 for education, 0.80 for recreation, and 0.70 for work trip purposes. It is found using SHAP which stands for Shapely Additive explanations that the factors such as interpersonal distance, distance from vehicles, construction sites, vehicle volume, traffic noise, and footpath surface are the most influencing variables that affect the PLOS based on three different trip purposes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-024-53403-7"
+    },
+    {
+        "id": 17415,
+        "title": "Explanation of machine learning models for predicting obesity level using Shapley values",
+        "authors": "Lorella Bottino, Mario Cannataro",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385994"
+    },
+    {
+        "id": 17416,
+        "title": "Abstractive Text Summarization Models Using Machine Learning Algorithms",
+        "authors": "Yogita P. Narwadkar, Anant M. Bagade",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccubea58933.2023.10392142"
+    },
+    {
+        "id": 17417,
+        "title": "Analysis of Nanodrug Delivery in Blood Flowing through Blood Vessels Using Machine Learning Models",
+        "authors": "Spurthi Joanna Selladurai, Neetu Srivastava, Ioannis E. Sarris",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023050008"
+    },
+    {
+        "id": 17418,
+        "title": "Predicting Academic Performance of Students Using Machine Learning Models",
+        "authors": "Neeta Sharma, Mk Sharma, Umang Garg",
+        "published": "2023-1-27",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aisc56616.2023.10085214"
+    },
+    {
+        "id": 17419,
+        "title": "Culvert Condition Prediction via Artificial Neural Network Machine Learning-Based Models using SMOTE",
+        "authors": "Christopher Schultz, Cullen McNinch, Jingyi Qi, Michael Smith, Nicole Barclay",
+        "published": "2023-4-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/southeastcon51012.2023.10115085"
+    },
+    {
+        "id": 17420,
+        "title": "The Investigation of Prediction for Stroke Using Multiple Machine Learning Models",
+        "authors": "Jingrui Wen",
+        "published": "2024-1-26",
+        "citations": 0,
+        "abstract": "The primary objective of this research is to forecast stroke occurrence on an individual patient level. Through exploratory data analysis, the study has brought to light noteworthy disparities in the distribution of stroke and non-stroke cases, shedding light on the influence of diverse health and lifestyle factors on stroke susceptibility. This project underscores the immense potential of machine learning in the realm of medical prediction, serving to aid patients in risk assessment and aiding medical practitioners in devising treatment strategies. Concerning the predictive models employed, this research leveraged two distinct models, namely RandomForest and DecisionTree. Additionally, it utilized evaluation metrics such as the Confusion Matrix, Receiver Operator Characteristic (ROC) curve, and Precision-Recall curve, each of which provided comprehensive insights into the performance of the prediction models. One noteworthy aspect of this study is the presence of missing data within certain features, underscoring the challenges posed by data gaps in medical prediction and the imperative need for effective methods to handle missing data. The experimental outcomes unveiled an Area Under the Curve (AUC) of 95% for RandomForest and 92% for DecisionTree, indicating robust predictive capabilities. Future endeavors may concentrate on refining prediction models, achieving greater balance, and expanding the dataset to enhance prediction precision.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hpwbp429"
+    },
+    {
+        "id": 17421,
+        "title": "Different Machine Learning Prediction Models using Pregnancy Risk Prediction Systems",
+        "authors": "Pritika Goel, Sachin Ahuja",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392435"
+    },
+    {
+        "id": 17422,
+        "title": "Intelligent Decision Support System in Healthcare using Machine Learning\nModels",
+        "authors": "Anup Patnaik, Krishna Prasad K.",
+        "published": "2024-7",
+        "citations": 2,
+        "abstract": "\nBackground:\nThe use of intelligent decision support systems (IDSS) is widespread in the\nhealthcare industry, particularly for real-time data, client and family history datasets, and prevalent\npatient features.\n\n\nObjective:\nA massive chunk of various kinds of health data sets, including sensor information, medical\nevidence, and omic statistics, are produced by the modern techniques in this field and eventually\ntransferred to a machine learning (ML) element for extracting data, categorization, as well as mining.\n\n\nMethod:\nIn recent times, many patents have been focused on healthcare monitoring; however, they\ndo not adequately incorporate appropriate algorithms for data collection, analysis, and prediction.\nThe data collected is used for predictive modelling, then additionally, machine learning techniques\nare assisting to compare acquired datasets mathematically for decision-making platforms that may\nlearn to recognise the recent trend and anticipated future problems. Depending on the dataset type,\nML-based techniques can assess the circumstances. Training datasets are crucial for correctly anticipating\nboth current and emerging events as well as new challenges.\n\n\nResults:\nSince the importance of data acquisition determines how well learning models function,\nany deformed data of the types of dirty data, noisy data, unstructured data, and inadequate information\nresults in inaccurate detection, estimate, and prediction.\n\n\nConclusion:\nAdditionally, in contrast to other approaches, the experimental findings demonstrate\nthe usefulness of the proposed method as a widespread implementation of machine learning algorithms\nwithin healthcare systems.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/1872212118666230606145738"
+    },
+    {
+        "id": 17423,
+        "title": "Smart Disease Predicting Platform with Patient management system using Machine Learning Models",
+        "authors": "",
+        "published": "2023-5-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets40225"
+    },
+    {
+        "id": 17424,
+        "title": "Prediction of Student’s Performance With Learning Coefficients Using Regression Based Machine Learning Models",
+        "authors": "Pallavi Asthana, Sumita Mishra, Nishu Gupta, Mohammad Derawi, Anil Kumar",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3294700"
+    },
+    {
+        "id": 17425,
+        "title": "Facial Expressions as Behavioral Indicators for Assessing Pain using Machine Learning Models",
+        "authors": "Uma Nath",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "Pain is a symptom of a condition or disease. Pain experienced in the body is verbally reported to a health care giver. Currently there is no objective way to measure physical pain or discomfort one may be feeling. And so consequently, there is no way for caregivers to adequately assess patients in pain who cannot verbalize it, such as non-verbal, adult patients and young children. Facial expressions may be used as a behavioral indicator for evidence of pain which can then be used to communicate a patient's distress and pain severity. These facial expressions can be recognized through jaw clenching, eyebrow raising, and eye squinting. Machine learning with vision based algorithms may differentiate these behavioral face-indicators and assess the pain levels of nonverbal patients. There have emerged many vision based methods for predicting pain from face images. This review summarizes the development of pain recognition from facial expressive images or videos, datasets available for research, an overview of vision based methods using conventional and deep learning, the current challenges and limitations, and scope for improvement in future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47611/jsrhs.v12i4.5139"
+    },
+    {
+        "id": 17426,
+        "title": "Detection and Classification of Oral Cancer Using Machine Learning Models",
+        "authors": "Amit Kumar, Neha Sharma",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictacs59847.2023.10390071"
+    },
+    {
+        "id": 17427,
+        "title": "Integrating machine learning models with cross-validation and bootstrapping for evaluating groundwater quality in Kanchanaburi Province, Thailand",
+        "authors": "Nguyen Ngoc Thanh, Srilert Chotpantarat, Nguyen Huu Ngu, Pongsathron Thunyawatcharakul, Narongsak Kaewdum",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.envres.2024.118952"
+    },
+    {
+        "id": 17428,
+        "title": "Real-time Detection of Taikyoku Shodan Karate Kata Poses Using Classical Machine Learning and Deep Learning Models",
+        "authors": "Mazen Walid, Mostafa Ameen, Ayman Atia",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/miucc58832.2023.10278373"
+    },
+    {
+        "id": 17429,
+        "title": "A New Approach Towards Deployment and Management of Machine Learning Models Using K-serve Platform for Building Robust Machine Learning Systems",
+        "authors": "Kanwarpartap Singh Gill, Vatsala Anand, Rupesh Gupta, Charu Khosla, Pao-Ann Hsiung",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353291"
+    },
+    {
+        "id": 17430,
+        "title": "Predictive Analysis in Education: Using Machine Learning Models to Identify Learning Difficulties",
+        "authors": "Tripti Tiwari, Daljeet Singh Bawa",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/upcon59197.2023.10434522"
+    },
+    {
+        "id": 17431,
+        "title": "Metamorphic Testing of Machine Translation Models using Back Translation",
+        "authors": "Wentao Gao, Jiayuan He, Van-Thuan Pham",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/deeptest59248.2023.00008"
+    },
+    {
+        "id": 17432,
+        "title": "COMPARING ACCURACY OF LOGISTIC REGRESSION, K-NEAREST NEIGHBOR, SUPPORT VECTOR MACHINE, AND NAÏVE BAYES MODELS USING TRACKING ENSEMBLE MACHINE LEARNING",
+        "authors": "Kuntoro Kuntoro",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17654/0973514324001"
+    },
+    {
+        "id": 17433,
+        "title": "Performance Prediction of Contact Separation Mode Triboelectric nanogenerators using Machine Learning Models",
+        "authors": "Ravi Sankar Puppala, K. Prakash, R. Rakesh Kumar, Md. Farukh Hashmi, K. Uday Kumar",
+        "published": "2023-4-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pcems58491.2023.10136029"
+    },
+    {
+        "id": 17434,
+        "title": "Forecasting the Consumer Price Index in the Regions of the Philippines using Machine Learning for Time Series Models",
+        "authors": "John Philip Omol Echevarria, Peter John Berces Aranas",
+        "published": "2023-9-13",
+        "citations": 0,
+        "abstract": "The core objective of this study is to showcase the enhanced forecasting capabilities of a hybrid model that combines the strengths of Artificial Neural Networks (ANN) and Autoregressive Integrated Moving Average (ARIMA) in predicting the Consumer Price Index (CPI). By harnessing the intricate non-linear pattern capturing ability of ANN and the capabilities of ARIMA in modeling linear and autoregressive components, the hybrid model aims to outperform the standalone ARIMA model in accurately forecasting the CPI. Real-world CPI data will be utilized for empirical evaluation and comparison, providing valuable insights into the effectiveness and practical applicability of the hybrid ARIMA-ANN approach in improving CPI forecasting accuracy. The performance of Box Jenkins Models which gives the resulted value of R-squared values for both stationary and non-stationary data are high, indicating that the models explain a significant portion of the variability in the CPI data. The RMSE, MAPE, and MAE values are relatively low, suggesting that the Box-Jenkins models' predictions are close to the actual values. The Ljung-Box Q statistic indicates that all Box-Jenkins models best fit their respective CPI data. The study also employs rigorous statistical methods of machine learning model accuracy assessment, including the Akaike Information Criterion (AIC), Mean Absolute Percentage Error (MAPE), and Root Mean Square Error (RMSE), to assess the forecasting performance of both models. The results demonstrate that the hybrid ARIMA-ANN model consistently outperforms the standalone ARIMA model, delivering more accurate and reliable forecasts over an extended forecast horizon. The integration of Artificial Neural Networks (ANN) using Multilayer Perceptron (MLP) in the ARIMA models improved the accuracy of the fitted and forecasted values. RMSE and MSE values for the Hybrid ARIMA-ANN models are lower compared to the original Box-Jenkins/ARIMA models, validating the goal of enhancing accuracy through ANN integration.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55529/jaimlnn.36.11.22"
+    },
+    {
+        "id": 17435,
+        "title": "Predictive modeling of dose-volume parameters of carcinoma tongue cases using machine learning models",
+        "authors": "Mani Prasannakumar, Velayudham Ramasubramanian",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.meddos.2023.09.002"
+    },
+    {
+        "id": 17436,
+        "title": "Performance of Machine Learning Models for Pandemic Detection Using COVID-19 Dataset",
+        "authors": "Sunday Adeola Ajagbe, Adekanmi Adeyinka Adegun, Pragasen Mudali, Matthew Olusegun Adigun",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/africon55910.2023.10293525"
+    },
+    {
+        "id": 17437,
+        "title": "Evaluating the performance of machine learning CFD-based and hybrid analytical models for transient flow prediction in temperature-compensated digital flow units",
+        "authors": "Essam Elsaed, Matti Linjama",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.flowmeasinst.2023.102511"
+    },
+    {
+        "id": 17438,
+        "title": "Evaluating the Performance of Machine Learning Models for Dynamic Resource Allocation in NFV",
+        "authors": "Gameel Gamal, Marya Al-Shaikh, Mogeeb A. Saeed, Ahmed G. Hazza'a, Ahmed Alomary, Reem Alshehabi",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esmarta59349.2023.10293558"
+    },
+    {
+        "id": 17439,
+        "title": "Checklist for Medical Imaging using Artificial Intelligence by Evaluation of Machine Learning Models",
+        "authors": "Sanjay Bhatnagar",
+        "published": "2023-8-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icirca57980.2023.10220939"
+    },
+    {
+        "id": 17440,
+        "title": "Stock Market Price Prediction Using Machine Learning Models",
+        "authors": "Zijie Guo",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Stock forecasting has historically been a popular and lucrative field of study. It has been demonstrated that machine learning applications improve accuracy and return in the area of finance forecasting and prediction. This study chose data from the Yahoo Finance database that represented Apple's (AAPL) close price for research. This study categorized articles using a series of machine learning models, encompassing Linear Regression, Random Forest and so on. This paper also examines each article's dataset, variable, model, and findings. The survey in use showcases the findings using the most popular performance metrics. Recent models that combine LSTM with other techniques, For instance, RF has received a lot of study. Deep learning techniques like reinforcement learning and others produced excellent results. In conclusion, the use of deep learning-based techniques for financial modeling has become growing in popularity over the past few years.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2754-1169/45/20230266"
+    },
+    {
+        "id": 17441,
+        "title": "Credit Card Default Prediction Using Machine Learning Models",
+        "authors": "Hritwiz Yash,  Affan, Kumar Saurav, Sumit Singh Dhanda",
+        "published": "2023-9-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cisct57197.2023.10351316"
+    },
+    {
+        "id": 17442,
+        "title": "Evaluating Machine Learning Techniques for Carbonate Formation Permeability Prediction Using Well Log Data",
+        "authors": "Usama Alameedy, Ahmed Almomen, Najah Abd",
+        "published": "2023-4-30",
+        "citations": 5,
+        "abstract": "Machine learning has a significant advantage for many difficulties in the oil and gas industry, especially when it comes to resolving complex challenges in reservoir characterization. Permeability is one of the most difficult petrophysical parameters to predict using conventional logging techniques. Clarifications of the work flow methodology are presented alongside comprehensive models in this study. The purpose of this study is to provide a more robust technique for predicting permeability; previous studies on the Bazirgan field have attempted to do so, but their estimates have been vague, and the methods they give are obsolete and do not make any concessions to the real or rigid in order to solve the permeability computation. To verify the reliability of training data for zone-by-zone modeling, we split the scenario into two scenarios and applied them to seven wells' worth of data. Moreover, all wellbore intervals were processed, for instance, all five units of Mishrif formation. According to the findings, the more information we have, the more accurate our forecasting model becomes. Multi-resolution graph-based clustering has demonstrated its forecasting stability in two instances by comparing it to the other five machine learning models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46717/igj.56.1d.14ms-2023-4-23"
+    },
+    {
+        "id": 17443,
+        "title": "Prediction of Acceleration Amplification Ratio of Rocking Foundations Using Machine Learning and Deep Learning Models",
+        "authors": "Sivapalan Gajan",
+        "published": "2023-11-29",
+        "citations": 0,
+        "abstract": "Experimental results reveal that rocking shallow foundations reduce earthquake-induced force and flexural displacement demands transmitted to structures and can be used as an effective geotechnical seismic isolation mechanism. This paper presents data-driven predictive models for maximum acceleration transmitted to structures founded on rocking shallow foundations during earthquake loading. Results from base-shaking experiments on rocking foundations have been utilized for the development of artificial neural network regression (ANN), k-nearest neighbors regression, support vector regression, random forest regression, adaptive boosting regression, and gradient boosting regression models. Acceleration amplification ratio, defined as the maximum acceleration at the center of gravity of a structure divided by the peak ground acceleration of the earthquake, is considered as the prediction parameter. For five out of six models developed in this study, the overall mean absolute percentage error in predictions in repeated k-fold cross validation tests vary between 0.128 and 0.145, with the ANN model being the most accurate and most consistent. The cross validation mean absolute error in predictions of all six models vary between 0.08 and 0.1, indicating that the maximum acceleration of structures supported by rocking foundations can be predicted within an average error limit of 8% to 10% of the peak ground acceleration of the earthquake.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app132312791"
+    },
+    {
+        "id": 17444,
+        "title": "Machine Learning Models for Prostate Cancer Identification",
+        "authors": "Elias Dritsas, Maria Trigka, Phivos Mylonas",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012236800003598"
+    },
+    {
+        "id": 17445,
+        "title": "SUBSPACE MODELS FOR SPEECH TRANSITIONS USING PRINCIPAL CURVES",
+        "authors": "K REINHARD, M NIRANJAN",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/18972"
+    },
+    {
+        "id": 17446,
+        "title": "Evaluating the Effectiveness of Machine Learning Models for Classifying Chemical Inhibitors: A Case Study of Aromatase Inhibitors and Pubchem's Molecular Fingerprint Descriptors",
+        "authors": "Ali Abdelkrim, Abdelkrim Bouramoul, Imene Zenbout, Said Brahimi",
+        "published": "2023-10-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnas59892.2023.10330448"
+    },
+    {
+        "id": 17447,
+        "title": "Forecasting of Energy Balance in Prosumer Micro-Installations Using Machine Learning Models",
+        "authors": "Tomasz Popławski, Sebastian Dudzik, Piotr Szeląg",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "It is indisputable that power systems are being transformed around the world to increase the use of RES and reduce the use of fossil fuels in overall electricity production. This year, the EU Parliament adopted the Fit for 55 package, which should significantly reduce the use of fossil fuels in the energy balance of EU countries while increasing the use of RES. At the end of 2022, the total number of prosumer installations in Poland amounted to about one million two hundred thousand. Such a high saturation of prosumer micro-installations in the power system causes many threats resulting from their operation. These threats result, among others, from the fact that photovoltaics are classified as unstable sources and the expected production of electricity from such installations is primarily associated with highly variable weather conditions and is only dependent on people to a minor extent. Currently, there is a rapid development of topics related to forecasting the volume of energy production from unstable sources such as wind and photovoltaic power plants. This issue is being actively developed by research units around the world. Scientists use a whole range of tools and models related to forecasting techniques, from physical models to artificial intelligence. According to our findings, the use of machine learning models has the greatest chance of obtaining positive prognostic effects for small, widely distributed prosumer installations. The present paper presents the research results of two energy balance prediction algorithms based on machine learning models. For forecasting, we proposed two regression models, i.e., regularized LASSO regression and random forests. The work analyzed scenarios taking into account both endogenous and exogenous variables as well as direct multi-step forecasting and recursive multi-step forecasting. The training was carried out on real data obtained from a prosumer micro-installation. Finally, it was found that the best forecasting results are obtained with the use of a random forest model trained using a recursive multi-step method and an exogenous scenario.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en16186726"
+    },
+    {
+        "id": 17448,
+        "title": "Customer Churn Prediction using Machine Learning Models",
+        "authors": "Glory Sam, Philip Asuquo, Bliss Stephen",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "Customer churn is a critical concern for the telecommunication industry. Understanding and predicting customer churn can lead to more effective retention strategies and an increase in profitability. Predicting customer churn allows telecommunication companies to identify potentially dissatisfied customers early on and take proactive measures to retain them. Due to a large client base, the telecom industry generates a large volume of data on a daily basis. Decision makers and business analysts stressed that acquiring new customers is more expensive than retaining existing ones. Business analysts and customer relationship management (CRM) analysts must understand the reasons for customer churn as well as behaviour patterns from existing churn data. This paper proposes a churn prediction model that uses classication and clustering techniques to identify churn customers and provides the factors that contribute to customer churning in the telecom sector. The results presented shows that XBoost and Random Forest achieved higher prediction accuracy when compared to K- Nearest Neighbours, Support Vector Machines and Decision Trees in terms of accuracy, precision, F1-Score and recall.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9734/jerr/2024/v26i21081"
+    },
+    {
+        "id": 17449,
+        "title": "Predicting PKB/Akt Downstream Signaling Blockers Using Machine Learning Models",
+        "authors": "Anik Ghosh, Md. Bashir Uddin",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10308283"
+    },
+    {
+        "id": 17450,
+        "title": "Music Recommendation System Using Multiple Machine Learning Models",
+        "authors": "Mudit Kumar Tyagi, Muhammad Ali, Garvit Kaim, Tripti Lamba, Gunjan Chugh",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4638629"
+    },
+    {
+        "id": 17451,
+        "title": "Customer Churn Prediction in Telecommunication, Medical Industry Using Machine Learning Classification Models",
+        "authors": "Nikita Khandelal, Vikas Sakalle",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic3i59117.2023.10398008"
+    },
+    {
+        "id": 17452,
+        "title": "Study of nonlinear optical diffraction patterns using machine learning models based on ResNet 152 architecture",
+        "authors": "Behnam Pishnamazi, Ehsan Koushki",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "As the advancements in the field of artificial intelligence and nonlinear optics continues, new methods can be used to better describe and determine nonlinear optical phenomena. In this research, we aimed to analyze the diffraction patterns of an organic material and determine the nonlinear optical phase change and nonlinear refraction index of the material in question by utilizing the ResNet 152 convolutional neural network architecture in the regions of laser intensity that the diffraction rings are not clearly distinguishable. This approach can open new sights for optical material characterization in situations where the conventional methods do not apply.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0135380"
+    },
+    {
+        "id": 17453,
+        "title": "Human Brain Penetration Prediction Using Scaling Approach from Animal Machine Learning Models",
+        "authors": "Siyu Liu, Yohei Kosugi",
+        "published": "2023-9-5",
+        "citations": 2,
+        "abstract": "AbstractMachine learning (ML) approaches have been applied to predicting drug pharmacokinetic properties. Previously, we predicted rat unbound brain-to-plasma ratio (Kpuu,brain) by ML models. In this study, we aimed to predict human Kpuu,brain through animal ML models. First, we re-evaluated ML models for rat Kpuu,brain prediction by using trendy open-source packages. We then developed ML models for monkey Kpuu,brain prediction. Leave-one-out cross validation was utilized to rationally build models using a relatively small dataset. After establishing the monkey and rat ML models, human Kpuu,brain prediction was achieved by implementing the animal models considering appropriate scaling methods. Mechanistic NeuroPK models for the identical monkey and human dataset were treated as the criteria for comparison. Results showed that rat Kpuu,brain predictivity was successfully replicated. The optimal ML model for monkey Kpuu,brain prediction was superior to the NeuroPK model, where accuracy within 2-fold error was 78% (R2 = 0.76). For human Kpuu,brain prediction, rat model using relative expression factor (REF), scaled transporter efflux ratios (ERs), and monkey model using in vitro ERs can provide comparable predictivity to the NeuroPK model, where accuracy within 2-fold error was 71% and 64% (R2 = 0.30 and 0.52), respectively. We demonstrated that ML models can deliver promising Kpuu,brain prediction with several advantages: (1) predict reasonable animal Kpuu,brain; (2) prospectively predict human Kpuu,brain from animal models; and (3) can skip expensive monkey studies for human prediction by using the rat model. As a result, ML models can be a powerful tool for drug Kpuu,brain prediction in the discovery stage.\nGraphical abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1208/s12248-023-00850-1"
+    },
+    {
+        "id": 17454,
+        "title": "Heart Attack Prediction Using Machine Learning Classification Models",
+        "authors": "Jesslyn Audrey, Mochammad Haldi Widianto",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ice3is59323.2023.10335233"
+    },
+    {
+        "id": 17455,
+        "title": "Dysphonic Voice Pattern Based Parkinson Disease Detection Using Machine Learning Models",
+        "authors": " Rhythm, Rajat Khandelwal, Prerna Badlani, Bhawna Saxena",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdt61202.2024.10489334"
+    },
+    {
+        "id": 17456,
+        "title": "IOT Devices Using Supervised Machine Learning Models for Anomaly Based Intrusion Detection",
+        "authors": "Usha Divakarla, Chandrasekaran. K",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esci56872.2023.10099676"
+    },
+    {
+        "id": 17457,
+        "title": "Estimating pier scour depth under combined waves and current using boosting machine-learning models",
+        "authors": "Lalit Kumar, Mohammad Saud Afzal",
+        "published": "2023-5-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11600-023-01089-2"
+    },
+    {
+        "id": 17458,
+        "title": "Preprocessing Effects in Road Traffic Scene Analysis Using Machine Learning Models",
+        "authors": "Daehyon Kim",
+        "published": "2023-11-21",
+        "citations": 0,
+        "abstract": "Image-based real-time object detection is a key issue in integrated automatic traffic monitoring and control systems and is one of the main research topics in Intelligent Transportation Systems (ITS). Despite the growing interest in the application of image processing techniques for traffic scene analysis, vehicle detection algorithms are still unreliable in complex real-world backgrounds. Machine learning models are increasingly being applied to automatic video-based object detection and traffic scene analysis due to their excellent performance in real-time pattern recognition. However, the performance of machine learning models is highly dependent on the properties of the input vectors. Studies have shown that the preprocessing of raw image data obtained from digital video can improve the predictive performance of machine learning models. The purpose of this study is to investigate the predictive performance of machine learning models using preprocessing methods such as image size reduction and image filtering. The experiment was performed with the Backpropagation model, which is one of the most popular machine learning models, and the predictive performance was compared to see how it could be affected by different preprocessing techniques.\n \nDeteksi objek real-time berbasis gambar adalah isu kunci dalam sistem pemantauan dan kontrol lalu lintas otomatis terintegrasi dan merupakan salah satu topik penelitian utama dalam Sistem Transportasi Cerdas. Meskipun minat yang meningkat dalam penerapan teknik pemrosesan gambar untuk analisis scene lalu lintas, algoritma deteksi kendaraan masih belum dapat diandalkan dalam latar belakang dunia nyata yang kompleks. Model pembelajaran mesin semakin diterapkan pada deteksi objek berbasis video otomatis dan analisis scene lalu lintas karena kinerja mereka yang sangat baik dalam pengenalan pola real-time. Namun, kinerja model pembelajaran mesin sangat bergantung pada sifat vektor masukan. Studi telah menunjukkan bahwa pra-pemrosesan data gambar mentah yang diperoleh dari video digital dapat meningkatkan kinerja prediktif dari model pembelajaran mesin. Tujuan dari penelitian ini adalah untuk menyelidiki kinerja prediktif dari model pembelajaran mesin menggunakan metode pra-pemrosesan seperti reduksi ukuran gambar dan penyaringan gambar. Percobaan dilakukan dengan model Backpropagation, yang merupakan salah satu model pembelajaran mesin paling populer, dan kinerja prediktifnya dibandingkan untuk melihat bagaimana hal itu dapat dipengaruhi oleh berbagai teknik pra-pemrosesan.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58777/ise.v1i2.148"
+    },
+    {
+        "id": 17459,
+        "title": "Forecasting Heart Disease Risk Using Revised Machine Learning Models",
+        "authors": "Afrina Sultana, Afroza Akter, Ayesha Aziz Prova",
+        "published": "2023-11-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecet58911.2023.10389224"
+    },
+    {
+        "id": 17460,
+        "title": "Discriminative features-based trustworthiness prediction in IoT devices using machine learning models",
+        "authors": "Muhammad Aaqib, Aftab Ali, Liming Chen, Omar Nibouche",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10449175"
+    },
+    {
+        "id": 17461,
+        "title": "Predicting soil water retention curves using machine learning: A study of model architecture and input variables",
+        "authors": "Xun Ding, Abbas El-Zein",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2024.108122"
+    },
+    {
+        "id": 17462,
+        "title": "Botnet Detection by Integrating Multiple Machine Learning Models",
+        "authors": "Thanawat Tejapijaya, Prarinya Siritanawan, Karin Sumongkayothin, Kazunori Kotani",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012317700003648"
+    },
+    {
+        "id": 17463,
+        "title": "Hybrid deep learning and GARCH-family models for forecasting volatility of cryptocurrencies",
+        "authors": "Bahareh Amirshahi, Salim Lahmiri",
+        "published": "2023-6",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100465"
+    },
+    {
+        "id": 17464,
+        "title": "Development of surrogate models for evaluating energy transfer quality of high-speed railway pantograph-catenary system using physics-based model and machine learning",
+        "authors": "Guizao Huang, Guangning Wu, Zefeng Yang, Xing Chen, Wenfu Wei",
+        "published": "2023-3",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apenergy.2022.120608"
+    },
+    {
+        "id": 17465,
+        "title": "Early Detection of Anxiety, Depression and Stress among Potential Patients using machine learning and deep learning models",
+        "authors": "Alphonsa Sini P. J, Sherly K. K",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsc56913.2023.10143026"
+    },
+    {
+        "id": 17466,
+        "title": "Breast cancer prediction using machine learning models",
+        "authors": "Zhiqi Li, Shirui Tian, Tai Ya, Zhenning Yang",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2672652"
+    },
+    {
+        "id": 17467,
+        "title": "Power Demand Prediction of North Cyprus using Machine Learning Regressor Models",
+        "authors": "Kamil Dimililer, Devrim Kayali, Samuel Nii Tackie",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asyu58738.2023.10296786"
+    },
+    {
+        "id": 17468,
+        "title": "Multimodal Medical Image Fusion Using DeepLearning Models in Fuzzy Domain",
+        "authors": "Mayukhmala Jana, Arpita Das",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccmla58983.2023.10346826"
+    },
+    {
+        "id": 17469,
+        "title": "Analysis of Cardiovascular Arrhythmia Prediction Using Different Machine Learning Models",
+        "authors": "Keerthana N, Ashwin Kumar V, Veena S",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic3i59117.2023.10397659"
+    },
+    {
+        "id": 17470,
+        "title": "Prediction of the concentrations of PM2.5 and NOx using machine learning-based models",
+        "authors": "S. Goyal, R. Sharma",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2023.07.121"
+    },
+    {
+        "id": 17471,
+        "title": "Enhanced Heart Failure Prediction Using Feature Selection-based Machine Learning Models",
+        "authors": "Nour Ayman Abujabal, Ali Bou Nassif",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aset56582.2023.10180853"
+    },
+    {
+        "id": 17472,
+        "title": "Forecasting of Stock Prices Using Machine Learning Models",
+        "authors": "Albert Wong, Juan Figini, Amatul Raheem, Gaétan Hains, Youry Khmelevsky, Pak Chun Chu",
+        "published": "2023-4-17",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/syscon53073.2023.10131091"
+    },
+    {
+        "id": 17473,
+        "title": "Predicting Lumpy Skin Disease using Various Machine Learning Models",
+        "authors": "Ashwani Kumar, Bhawnesh Kumar, Harendra Singh Negi",
+        "published": "2023-4-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cises58720.2023.10183604"
+    },
+    {
+        "id": 17474,
+        "title": "Identifying Michel Electrons in Liquid Argon TPCs Using Machine Learning",
+        "authors": "Riya Shah",
+        "published": "2023-8-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2172/1996940"
+    },
+    {
+        "id": 17475,
+        "title": "Security Models of cloud computing using Machine Learning &amp; Network Security Application",
+        "authors": "Manjusha Gundale, Anju Mishra",
+        "published": "2023-4-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cises58720.2023.10183415"
+    },
+    {
+        "id": 17476,
+        "title": "Determination of Tumor Marker Screening for Lung Cancer Using ROC Curves",
+        "authors": "Xiaofeng Dou, Jiachen Lu, Yingying Yu, Yaohui Yi, Ling Zhou",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "Introduction. Lung cancer ranks first among malignant tumors worldwide and is a leading cause of cancer-related mortality in both men and women. Combining tumor marker testing is a strategy to screen individuals at high risk of pulmonary cancer and minimize pulmonary cancer mortality. Therefore, tumor marker screening is crucial. In this study, we analyzed combinations of tumor markers for lung cancer screening using receiver operating characteristic (ROC) curve analysis. Methods. A retrospective descriptive study was conducted on patients diagnosed with lung cancer, as well as healthy and benign lung diseases, using data from the China Huludao Central Hospital database between January 2016 and July 2022. The t-test and ROC curve were utilized to assess the effectiveness of individual tumor marker and the combination of multiple tumor markers. Tumor markers are molecular products metabolized and secreted by tumor tissues, characterized by cells or body fluids. They serve as indicators of tumor stage and grading, monitor treatment response, and predict recurrence. Results. In this study, 267 healthy participants, 385 patients with benign lesions, and 296 patients with lung cancer underwent tumor marker screening. The sensitivity of five tumor markers—CEA, CYFRA21-1, NSE, pro-GRP, and CA125—was found to be <55%. This study revealed that a single tumor marker had limited value in lung cancer screening. However, combining two or more markers yielded varying area under the curves (AUC), with no significant impact on screening accuracy. The combination of CEA + CA125 demonstrated the highest accuracy for lung cancer screening in healthy participants. At a cutoff of 0.447 for CEA + CA125, the combination showed a sensitivity of 0.676 and specificity of 0.846 for lung cancer screening. Conversely, for patients with benign lung lesions, the optimal combination was CEA + NSE, with a cutoff of 0.393, yielding a sensitivity of 0.645 and specificity of 0.766 for lung cancer screening. Conclusion. The five tumor markers—CEA, CA125, CY211, NSE, GRP—show promising results in screening healthy individuals and patients with lung cancer. However, only CEA, NSE, and GRP effectively differentiate patients with benign lung lesions from those with lung cancer. A single tumor marker has limited utility in detecting and screening for lung cancer and should be combined with other tumor markers. CEA + CA125 emerges as a superior tumor marker for distinguishing healthy individuals from those with lung cancer, whereas the CEA + NSE combination is more effective in identifying tumor markers in patients with benign lung lesions and lung cancer.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2024/4782618"
+    },
+    {
+        "id": 17477,
+        "title": "Imputing ADS-B/GPS Dropouts using Machine Learning Models",
+        "authors": "Barathwaja Subash Chandar, Prakash Ranganathan, William Semke",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccwc60891.2024.10427858"
+    },
+    {
+        "id": 17478,
+        "title": "Using Machine Learning Models to Predict the Uber Stock",
+        "authors": "Jingyu Gao",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "This paper aims to describe how to use machine learning models to predict the situation changing of stocks. This paper will use linear regression and random forest model to predict the Uber stocks stock's future closing price and probability of rise and fall. This paper firstly collected stock related information from Kaggle. The data of Uber stocks are from May 10, 2019 to March 24, 2022.  The closing price and the future closing price are divided by taking 80% as the training set and 20% as the proportion of the test set. Then setting some technical indicators to analyze the accuracy and deviation of the prediction, such as root mean square error (RMSE), mean deviation error (MBE) and R-square. In future research, these methods could be used to apply machine learning models in stock forecasting, as well as other more accurate methods such as radio frequency technology and neural networks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2754-1169/45/20230269"
+    },
+    {
+        "id": 17479,
+        "title": "Investigation of herding behavior using machine learning models",
+        "authors": "Muhammad Asim, Muhammad Yar Khan, Khuram Shafi",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "PurposeThe study aims to investigate the presence of herding behavior in the stock market of UK with a special emphasis on news sentiment regarding the economy. The authors focus on the news sentiment because in the current digital era, investors take their decision making on the basis of current trends projected by news and media platforms.Design/methodology/approachFor empirical modeling, the authors use machine learning models to investigate the presence of herding behavior in UK stock market for the period starting from 2006 to 2021. The authors use support vector regression, single layer neural network and multilayer neural network models to predict the herding behavior in the stock market of the UK. The authors estimate the herding coefficients using all the models and compare the findings with the linear regression model.FindingsThe results show a strong evidence of herding behavior in the stock market of the UK during different time regimes. Furthermore, when the authors incorporate the economic uncertainty news sentiment in the model, the results show a significant improvement. The results of support vector regression, single layer perceptron and multilayer perceptron model show the evidence of herding behavior in UK stock market during global financial crises of 2007–08 and COVID’19 period. In addition, the authors compare the findings with the linear regression which provides no evidence of herding behavior in all the regimes except COVID’19. The results also provide deep insights for both individual investors and policy makers to construct efficient portfolios and avoid market crashes, respectively.Originality/valueIn the existing literature of herding behavior, news sentiment regarding economic uncertainty has not been used before. However, in the present era this parameter is quite critical in context of market anomalies hence and needs to be investigated. In addition, the literature exhibits varying results about the existence of herding behavior when different methodologies are used. In this context, the use of machine learning models is quite rare in the herding literature. The machine learning models are quite robust and provide accurate results. Therefore, this research study uses three different models, i.e. single layer perceptron model, multilayer perceptron model and support vector regression model to investigate the herding behavior in the stock market of the UK. A comparative analysis is also presented among the results of all the models. The study sheds light on the importance of economic uncertainty news sentiment to predict the herding behavior.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1108/rbf-05-2023-0121"
+    },
+    {
+        "id": 17480,
+        "title": "Exploring The Learning Analytics Of Skill-Based Course Using Machine Learning Classification Models",
+        "authors": "Jermine G. Valen-Dacanay, Thelma D. Palaoag",
+        "published": "2023-3-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciet56899.2023.10111210"
+    },
+    {
+        "id": 17481,
+        "title": "Bus Dwell Time Forecasting using Machine Learning Models",
+        "authors": "Aswini B P, Savithramma R M, R Sumathi",
+        "published": "2023-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icoei56765.2023.10125868"
+    },
+    {
+        "id": 17482,
+        "title": "Maximizing Prediction Accuracy in Wildfire Severity: A Comprehensive Analysis of Machine Learning Models Using Environmental Features",
+        "authors": "Michael Nocerino, Smita Ghosh",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ghtc56179.2023.10354838"
+    },
+    {
+        "id": 17483,
+        "title": "Automated Glaucoma Detection in Retinal Fundus Images Using Machine Learning Models",
+        "authors": "Et al. Nagaratna P Hegde",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "Glaucoma, a neurodegenerative eye disorder, stands as a major global health concern, ranking second in causing blindness. The urgency for early detection is paramount to mitigate its irreversible effects on vision. This research presents an innovative model adept at analyzing retinal fundus images, aiming to assist ophthalmologists in early diagnosis. By harnessing the capabilities of Convolutional Neural Networks (CNN), Support Vector Machines (SVM), and k-Nearest Neighbors (KNN), our model demonstrated an impressive 86% accuracy in identifying diabetic retinopathy from retinal images. Focusing on glaucoma detection, we utilized the RIGA dataset, comprising 2,664 images, which are categorized into non-glaucoma (1,488 images) and glaucoma (1,176 images). Our model showcased a commendable testing accuracy of 94%. This endeavor not only amplifies the potential of machine learning in glaucoma prediction but also signifies a step forward in creating a user-centric, efficient diagnostic tool. Such innovations are pivotal in enhancing global eye care and reducing the prevalence of vision impairment due to glaucoma.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.640"
+    },
+    {
+        "id": 17484,
+        "title": "Road Surface Monitoring System Using Semi-Supervised Machine Learning Ensemble Models",
+        "authors": "Luis A. Arce-Sáenz, Javier Izquierdo-Reyes, Rogelio Bustamante-Bello",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isem59023.2023.10334656"
+    },
+    {
+        "id": 17485,
+        "title": "Enhancing Customer Retention: A Study on Churn Prediction Models for MTC Namibia Using Machine Learning Algorithms",
+        "authors": "Lionel Hamuntenya, Gloria Iyawa",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4648707"
+    },
+    {
+        "id": 17486,
+        "title": "Evaluating online health information quality using machine learning and deep learning: A systematic literature review",
+        "authors": "Yousef Khamis Ahmed Baqraf, Pantea Keikhosrokiani, Manal Al-Rawashdeh",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "Background Due to the large volume of online health information, while quality remains dubious, understanding the usage of artificial intelligence to evaluate health information and surpass human-level performance is crucial. However, the existing studies still need a comprehensive review highlighting the vital machine, and Deep learning techniques for the automatic health information evaluation process. Objective Therefore, this study outlines the most recent developments and the current state of the art regarding evaluating the quality of online health information on web pages and specifies the direction of future research. Methods In this article, a systematic literature is conducted according to the PRISMA statement in eight online databases PubMed, Science Direct, Scopus, ACM, Springer Link, Wiley Online Library, Emerald Insight, and Web of Science to identify all empirical studies that use machine and deep learning models for evaluating the online health information quality. Furthermore, the selected techniques are compared based on their characteristics, such as health quality criteria, quality measurement tools, algorithm type, and achieved performance. Results The included papers evaluate health information on web pages using over 100 quality criteria. The results show no universal quality dimensions used by health professionals and machine or deep learning practitioners while evaluating health information quality. In addition, the metrics used to assess the model performance are not the same as those used to evaluate human performance. Conclusions This systemic review offers a novel perspective in approaching the health information quality in web pages that can be used by machine and deep learning practitioners to tackle the problem more effectively. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/20552076231212296"
+    },
+    {
+        "id": 17487,
+        "title": "Generating New Production Type Curves through Machine Learning Utilizing Dimensional Analysis",
+        "authors": "Gene Michael Mask, Xingru Wu",
+        "published": "2023-4-17",
+        "citations": 0,
+        "abstract": "AbstractGenerating production-type curves for new horizontal wells in unconventional reservoirs is an evolving process that requires continuous calibration to maintain the most accurate forecast over time. History matching production alone is no longer sufficient to maintain such models. Obstacles to creating production type curves are attributed to the complexities in heterogeneous reservoir properties, improved drilling and completion techniques, and evolving production and operation procedures. This paper will highlight improvements to a proposed machine-learning algorithm to generate production type curves for new wells in oil and gas unconventional reservoirs.The algorithm utilizes dimensionless groups created from the raw data in different categories and scales, thus reducing the dimension of the problem, decreasing the processing time, and improving the efficiency of the machine-learning model. The dimensionless groups are developed using inspectional and dimensional analysis depending on the data available for feature inputs. Many of the dimensionless groups have physical meanings and can be upscaled. We advanced the ability of the previously developed algorithm utilizing production, completion, and petrophysical data from both oil and gas reservoirs to generate new type curves by using the \"engineering\" code that was laid out in our previous case study. The algorithm incorporates physics into the machine learning (ML) process supporting the outputs with math and science.When using multiple reservoirs from different formations in the data, the algorithm utilizes logic in the code to determine between oil and gas wells. The quality of the results is impacted when using data from reservoirs with phase envelopes that are not similar, for example, a heavy oil and a dry gas reservoir. The algorithm is updated to include logic that can determine the major phase to predict oil and gas production more accurately. The quantity of oil and gas production is more accurately predicted using cumulative production rates rather than over time. The machine learning model maintains an R2 &gt;= 0.8 when cross-validating both cumulative oil and gas production. The algorithm consistently predicts cumulative production over time on test data with R2 &gt;=0.8. The predicted rates for new type curves are compared to conventional production type curves, thus validating the quality and goodness of fit for production rates, decline profile, and ultimate recovery. The results demonstrate how late-time production can be either extrapolated using the machine learning algorithm or combining traditional methods by utilizing hyperbolic and exponential declines where training data is unavailable for the machine learning model to perform late-time forecasting.The algorithm of the ML model is proving to be a supplementary tool when generating new production type curves. The speed and efficiency provide support to the DCA generated type curves. It is versatile in its ability to combine data from multiple formations and discern between the major phase, thus providing production type curves we have confidence. The scalability of the dimensionless input parameters can account for changes in completions and reservoir properties within minutes of updating the database hence providing insight in near real-time for engineers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/213080-ms"
+    },
+    {
+        "id": 17488,
+        "title": "Deriving New Type Curves through Machine Learning in the Wolfcamp Formation",
+        "authors": "Gene Michael Mask, Xingru Wu",
+        "published": "2023-1-24",
+        "citations": 1,
+        "abstract": "Abstract\nForecasting production from unconventional reservoirs is a slippery slope that could lead to unrealistic results even though a model has been history matched with production history and vetted by experienced engineers. The reasons for failing conventional decline curves lie in convoluting and heterogeneous reservoir properties, advancing drilling and completion techniques, and dynamic production and operations management. However, the initial rates, declining rate, and ultimate recovery of a well can be viewed as relatively static and predetermined properties of a declining profile. This paper will propose a machine learning-based framework to determine these properties for unconventional reservoir development.\nIn the proposed algorithm, instead of directly data mining on the raw data from different categories and scales, we propose to convert these data into dimensionless variable groups to reduce the dimension of the problem. The dimensionless variables are developed using inspection analysis; most have physical meanings and are easy to upscale. In the case study, we used the production, completion, and petrophysical data to generate new type curves and developed a step-by-step process to explain the aspect of \"engineering\" code that incorporates physics into the machine learning (ML) process.\nDimensionless variables are used in the machine learning process giving physical meaning and reducing the number of predictors, thus improving the speed and efficiency of the code. The results show that the quantity of cumulative oil production over time can be determined using machine learning models with R2 &gt;= 0.90 for individual wells and R2&gt;=0.80 for cross-validated cumulative production forecasts. We can use these determined values to assess the quality of initial rates, declining rates, and ultimate recovery to derive new type curves that incorporate physics and engineering practices. The work emphasizes the importance of accounting for completion parameters, fluid properties and rock quality, thus improving the confidence in results obtained through traditional engineering methods. The machine learning model results provide credibility and support to rates and recoveries for DCA forecasted wells. When modeling hundreds if not thousands of wells, this work shows the importance of utilizing machine learning to harness the power of the data that has been collected on them.\nThe machine-learning-based declining profile is a promising technique and has some advantages over the classical methods based on averaging historical data. First, the determining parameters are highly scalable for newly drilled wells as the main input parameters are dimensionless variables derived from reservoir properties and well completions. Secondly, this algorithm explores not only the production data but also reservoir properties and completion data to capitalize on the advancing techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/212624-ms"
+    },
+    {
+        "id": 17489,
+        "title": "Evaluating Binary Classification Algorithms on Data Lakes Using Machine Learning",
+        "authors": "Nataliya Boyko",
+        "published": "2023-12-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/ria.370606"
+    },
+    {
+        "id": 17490,
+        "title": "Evaluating and mitigating bias in machine learning models for cardiovascular disease prediction",
+        "authors": "Fuchen Li, Patrick Wu, Henry H. Ong, Josh F. Peterson, Wei-Qi Wei, Juan Zhao",
+        "published": "2023-2",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jbi.2023.104294"
+    },
+    {
+        "id": 17491,
+        "title": "A Comparative Study of Machine Learning and Automatic Machine Learning Models for Facial Mask Recognition",
+        "authors": "Yuxin Pei",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccs57501.2023.10151333"
+    },
+    {
+        "id": 17492,
+        "title": "evalPM: a framework for evaluating machine learning models for particulate matter prediction",
+        "authors": "Lucas Woltmann, Jonas Deepe, Claudio Hartmann, Wolfgang Lehner",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "AbstractAir pollution through particulate matter (PM) is one of the largest threats to human health. To understand the causes of PM pollution and enact suitable countermeasures, reliable predictions of future PM concentrations are required. In the scientific literature, many methods exist for machine learning (ML)-based PM prediction, though their quality is difficult to compare because, among other things, they use different data sets and evaluate the resulting predictions differently. For a new data set, it is not apparent which of the existing prediction methods is best suited. In order to ease the assessment of said models, we present evalPM, a framework to easily create, evaluate, and compare different ML models for immission-based PM prediction. To achieve this, the framework provides flexibility regarding data sets, input features, target variables, model types, hyperparameters, and model evaluation. It has a modular design consisting of several components, each providing at least one required flexibility. The individual capabilities of the framework are demonstrated using 16 different models from the related literature by means of temporal prediction of PM concentrations for four European data sets, showing the capabilities and advantages of the evalPM framework. In doing so, it is shown that the framework allows fast creation and evaluation of ML-based PM prediction models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10661-023-11996-y"
+    },
+    {
+        "id": 17493,
+        "title": "Evaluating Machine Learning Models for Predicting Football Players' Market Values: A Review",
+        "authors": "Aswin P S,  ",
+        "published": "2024-3-30",
+        "citations": 0,
+        "abstract": "In the realm of football management, the accurate assessment of player market values stands as a critical managerial task. Traditional methods reliant on expert opinions often lack transparency and can be prone to inaccuracies. This study proposes a data-driven approach employing machine learning algorithms to determine football players' market values objectively. Utilizing FIFA 20 data from sofifa.com, four regression models - linear regression, multiple linear regression, decision trees, and random forests - were evaluated for their efficacy in estimating market values. This research offers a robust framework for football clubs and player agents to enhance negotiation strategies and make well- informed decisions in the dynamic football transfer market.     Key Words: Linear regression, multiple linear regression, decision trees, random forests, machine learning , FIFA video game data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55041/ijsrem29748"
+    },
+    {
+        "id": 17494,
+        "title": "Evaluating the Efficacy of Supervised Machine Learning Models in Inflation Forecasting in Sri Lanka",
+        "authors": "W M S Bandara, W A R De Mel",
+        "published": "2024-2-12",
+        "citations": 0,
+        "abstract": "This study aims to forecast the inflation rate using supervised machine learning models (SMLM). While SMLMs are widely used in various fields, they have not been widely applied in forecasting inflation rates. Therefore, the main objective of this study is to identify the best model for forecasting inflation among four different SMLMs: LASSO regression (LR), Bayesian Ridge Regression (BRR), Support Vector Machine Regression (SVR), and Random Forest Regression (RFR) models. To achieve this objective, two different types of cross-validation techniques were employed: The k-fold cross-validation method (CVK) and walk forward validation (WFV) methods. These techniques were used to estimate the parameters and hyper-parameters for each machine learning model with root mean square error. The mean absolute percentage error (MAPE) was used to compare the performance of the different SMLMs. Empirical evidence from Sri Lanka between 1988 and 2021 was used to test the performance of the SMLMs in forecasting inflation rates. The results show that the SVR model with walk-forward validation is the best method for forecasting the future inflation rate of Sri Lanka based on the MAPE value. Overall, this study showcases the effectiveness of Supervised Machine Learning Models (SMLMs) in forecasting inflation rates, emphasizing the critical role of precise cross-validation techniques. These findings are invaluable for policymakers and investors, offering advanced tools for more informed economic decision-making and highlighting the potential of machine learning in enhancing macroeconomic stability and forecasting accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54536/ajase.v3i1.2385"
+    },
+    {
+        "id": 17495,
+        "title": "Using Machine Learning to Predict Heart Failure: Evaluating Model Performance on Clinical Data",
+        "authors": "Peeraya Wetchasit, Patararin Phaisakamas, Suphornthip Pongsuwan, Piyaon Sapphaphab, Oraya Rinthon, Suejit Pechprasarn",
+        "published": "2023-10-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bmeicon60347.2023.10322059"
+    },
+    {
+        "id": 17496,
+        "title": "Using Machine Learning to Predict Permeability from Well Logs: A Comparative Study of Different Models",
+        "authors": "Nicholas Walson Asimiea, Emmanuella Nkiruka Ebere",
+        "published": "2023-7-30",
+        "citations": 1,
+        "abstract": "Abstract\nPermeability is a crucial parameter in reservoir engineering, as it determines how easily fluids can flow through subsurface rocks. Traditional methods of measuring permeability are expensive, error-prone and time-consuming, which has led to the development of machine learning models that can predict permeability based on well-log data. This study aims to determine the most effective machine learning models for predicting permeability based on available well-log data. The study covers a detailed explanation of the data-gathering and pre-processing techniques used. Four input features were used in the models, namely gamma ray (GR), bulk density (RHOB), neutron porosity (NPHI), and resistivity (RT). Six different models were trained and evaluated based on their performance, namely linear regression, support vector machine, decision trees, gradient boosting, multi-layer perceptron, and random forest models. The models were evaluated based on their Mean Squared Error and RSquare values. Our results showed that the random forest model outperformed the other models, achieving a Mean Squared Error (MSE) value of 0.88. The multi-layer perceptron and gradient boosting models also showed promising results, achieving MSE values of 0.81 each. These findings suggest that machine learning models can be a powerful tool for predicting permeability from well-log data, and the random forest model, in particular, holds great promise for future modelling efforts in this area.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/217158-ms"
+    },
+    {
+        "id": 17497,
+        "title": "Prediction of Diseases in Potato Plant using Pre-trained and Traditional Machine Learning Models",
+        "authors": "Swati Laxmi Sahu, Renta Chintala Bhargavi",
+        "published": "2023-5-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incet57972.2023.10170149"
+    },
+    {
+        "id": 17498,
+        "title": "Crop Yield Prediction using Regression Models in Machine Learning",
+        "authors": "A. Lakshmanarao, M.Naveen Kumar, K.S.V. Ratnakar, Y. Satwika",
+        "published": "2023-5-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaaic56838.2023.10141462"
+    },
+    {
+        "id": 17499,
+        "title": "Early Prediction of Cardiac Arrest Using Hybrid Machine Learning Models",
+        "authors": "Abhishek Bajpai, Suhani Sinha, Amitabha Yadav, Vivek Srivastava",
+        "published": "2023-6-1",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecco58239.2023.10147157"
+    },
+    {
+        "id": 17500,
+        "title": "Diabetes prediction and analysis using machine learning models",
+        "authors": "Yunjiu Li, Helin Wang, Zhirui Ye, Haina Zhou",
+        "published": "2023-3-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2672671"
+    },
+    {
+        "id": 17501,
+        "title": "Mortality prediction of patients with sepsis in the emergency department using machine learning models: a retrospective cohort study according to the Sepsis-3 definitions",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Although clinical scoring systems and biomarkers have been used to predict outcomes in sepsis, their prognostic value is limited. Therefore, machine learning (ML) models have been proposed to predict the outcomes of sepsis. This study aims to propose ML algorithms that create robust models for predicting mortality in patients with sepsis diagnosed using the Sepsis-3 definitions in the emergency department. This study was performed using a prospectively collected registry of adult patients with sepsis between January 2016 and February 2020. Among the 810 patients, 607 (75%) and 203 (25%) patients were assigned to the training and test sets, respectively. The primary outcome was 30-day mortality. Using the values of the area under the receiver operating characteristic curve (AUROC), the area under the precision-recall curve (AUPRC), balanced accuracy, and Brier score, we compared the performances of different ML algorithms with that of the logistic regression models and clinical scoring systems. The ML models’ performance was superior to that of the clinical scoring systems. A light gradient boosting machine achieved the highest AUROC among the ML models in predicting 30-day mortality. Most of the ML models had significantly higher AUROC and balanced accuracy than the logistic regression models. All the ML models exhibited higher AUPRC and lower Brier scores compared to the scoring systems and logistic regression model. The ML models can be used as supportive tools for predicting mortality in sepsis patients. In future studies, the performance of the proposed models will be validated using more data from different hospitals or departments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22514/sv.2023.046"
+    },
+    {
+        "id": 17502,
+        "title": "Cyclone Prediction Visualization Tools Using Machine Learning Models and Optical Flow",
+        "authors": "Sabbir Rahman, Nusrat Sharmin, Md. Mahbubur Rahman",
+        "published": "2023-2-23",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecce57851.2023.10101589"
+    },
+    {
+        "id": 17503,
+        "title": "Diabetics Prediction Using Ensembled and Hyper Tuned Machine Learning Models",
+        "authors": "Divya Jennifer Dsouza, Anisha P Rodrigues, Roshan Fernandes",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276344"
+    },
+    {
+        "id": 17504,
+        "title": "Fake Profile Detection in Online Social Networks Using Machine Learning Models",
+        "authors": "Jyothis Joseph, Vineetha S",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rasse60029.2023.10363482"
+    }
+]

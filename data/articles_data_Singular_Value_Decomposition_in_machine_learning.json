@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 19305,
+        "title": "Multilinear multitask learning by transformed tensor singular value decomposition",
+        "authors": "Xiongjun Zhang, Jin Wu, Michael K. Ng",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100479"
+    },
+    {
+        "id": 19306,
+        "title": "An Improved Intrusion Detection System Using Machine Learning with Singular Value Decomposition and Principal Component Analysis",
+        "authors": "",
+        "published": "2023-8-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.0831.03"
+    },
+    {
+        "id": 19307,
+        "title": "Singular value decomposition and unsupervised machine learning for virtual strain sensing: Application to an operational railway bridge",
+        "authors": "Emmanuel Akintunde, Saeed Eftekhar Azam, Daniel G. Linzell",
+        "published": "2023-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2023.105417"
+    },
+    {
+        "id": 19308,
+        "title": "Self-organizing interval type-2 fuzzy neural network based on  singular value decomposition and QR decomposition",
+        "authors": "panchao wang, taoyan N. zhao",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2678977"
+    },
+    {
+        "id": 19309,
+        "title": "A Conditional Singular Value Decomposition",
+        "authors": "Qi Deng",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4736134"
+    },
+    {
+        "id": 19310,
+        "title": "SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition",
+        "authors": "Haolin Wang, Xuefeng Liu, Jianwei Niu, Shaojie Tang",
+        "published": "2023-5-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/infocom53939.2023.10229042"
+    },
+    {
+        "id": 19311,
+        "title": "Transfer Learning With Singular Value Decomposition of Multichannel Convolution Matrices",
+        "authors": "Tak Shing Au Yeung, Ka Chun Cheung, Michael K. Ng, Simon See, Andy Yip",
+        "published": "2023-9-8",
+        "citations": 1,
+        "abstract": "Abstract\nThe task of transfer learning using pretrained convolutional neural networks is considered. We propose a convolution-SVD layer to analyze the convolution operators with a singular value decomposition computed in the Fourier domain. Singular vectors extracted from the source domain are transferred to the target domain, whereas the singular values are fine-tuned with a target data set. In this way, dimension reduction is achieved to avoid overfitting, while some flexibility to fine-tune the convolution kernels is maintained. We extend an existing convolution kernel reconstruction algorithm to allow for a reconstruction from an arbitrary set of learned singular values. A generalization bound for a single convolution-SVD layer is devised to show the consistency between training and testing errors. We further introduce a notion of transfer learning gap. We prove that the testing error for a single convolution-SVD layer is bounded in terms of the gap, which motivates us to develop a regularization model with the gap as the regularizer. Numerical experiments are conducted to demonstrate the superiority of the proposed model in solving classification problems and the influence of various parameters. In particular, the regularization is shown to yield a significantly higher prediction accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/neco_a_01608"
+    },
+    {
+        "id": 19312,
+        "title": "Fractional Norm Regularization Using Truncated Singular Value Decomposition",
+        "authors": "Bamrung Tausiesakul, Krissada Asavaskulkiet",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3372424"
+    },
+    {
+        "id": 19313,
+        "title": "Image Fusion Technique Using Singular Value Decomposition Based Undecimated Subband Decomposition",
+        "authors": "Julia Evers",
+        "published": "2023-11-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecet58911.2023.10389383"
+    },
+    {
+        "id": 19314,
+        "title": "Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis",
+        "authors": "Honghui Xu, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2024.3373388"
+    },
+    {
+        "id": 19315,
+        "title": "Integrating singular value decomposition with deep learning for enhanced travel time estimation in multimodal freight transportation networks",
+        "authors": "Mohanad R. Aljanabi, Keivan Borna, Shamsollah Ghanbari, Ahmed J. Obaid",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "AbstractMultimodal freight transport allows switching among various modes of transportation to efficiently utilize transport facilities. A multimodal transport system incorporates geographical scales from global to local. Travel time estimation in a multi‐modal cargo transportation network is essential for enhancing supply chain (SC) and logistics operations. Accurate travel time prediction is of great importance for cargo transportation, as it enables SC participants to increase logistics efficiency and quality. It requires adequate input data, which can be generated. In recent times, the machine learning (ML) algorithm has been well‐suited to resolve complex and nonlinear relationships in the collected tracking data. This study designs a deep learning‐powered travel time estimation in multimodal freight transportation networks (DLTTE‐MFTN) technique. The goal of the DLTTE‐MFTN technique is to estimate the travel time using a hyperparameter‐tuned ensemble learning approach. To achieve this, the DLTTE‐MFTN method initially undergoes data pre‐processing to convert the input raw data into a useful format. In addition, the singular value decomposition (SVD) model can be applied for feature dimensionality reduction in multimodal transport data, considerably improving travel time prediction. Besides, the DLTTE‐MFTN method estimates travel time using an ensemble of three DL approaches including one‐dimensional convolutional neural network (1D‐CNN), stacked autoencoder (SAE) attention, and recurrent neural network (RNN). Finally, the hyperparameter tuning of the DL models takes place using the whale optimization algorithm (WOA). The performance analysis of the DLTTE‐MFTN method takes place using the Kaggle dataset. The experimental results stated that the DLTTE‐MFTN technique attains superior performance over other ML and DL models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/exsy.13581"
+    },
+    {
+        "id": 19316,
+        "title": "Melanoma diagnosis using singular value decomposition based on empirical mode decomposition",
+        "authors": "Fatimah Shamsulddin Abdulsattar, Walaa Mohammed Khalaf",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0156855"
+    },
+    {
+        "id": 19317,
+        "title": "Enhancing Recommender Systems with NLP-based Biased Singular Value Decomposition",
+        "authors": "Hong Xu",
+        "published": "2023-7-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isctis58954.2023.10213075"
+    },
+    {
+        "id": 19318,
+        "title": "Watermark Based on Singular Value Decomposition",
+        "authors": "Ali Abdulazeez Mohammed Baqer Qazzaz, Neamah Enad Kadhim",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "Watermarking operation can be defined as a process of embedding special wanted and reversible information in important secure files to protect the ownership or information of the wanted cover file based on the proposed singular value decomposition (SVD) watermark. The proposed method for digital watermark has very huge domain for constructing final number and this mean protecting watermark from conflict. The cover file is the important image need to be protected. A hidden watermark is a unique number extracted from the cover file by performing proposed related and successive operations, starting by dividing the original image into four various parts with unequal size. Each part of these four treated as a separate matrix and applying SVD on it, the diagonal matrix is selected to determine its norm. The four norms will be processed to produce one unique number used as a watermark and this number can be developed  in future by exploiting some other features in constructing watermark number other than SVD process to construct two watermark numbers, each one of them owned special methodology, for avoiding some challenges and changings in the transformation process. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21123/bsj.2023.7168"
+    },
+    {
+        "id": 19319,
+        "title": "Application of singular value decomposition in image compression",
+        "authors": "Jiansong Wu",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "The field of computer graphics and multimedia technologies places significant emphasis on the study path of image compression. The increasing prevalence of digital photographs has led to a significant growth in the size of image files, hence presenting storage and transmission issues. The Singular Value Decomposition (SVD) is a matrix decomposition method that possesses significant computational capacity and finds utility in various domains. In recent years, SVD has emerged as a prevalent technique in the domain of image processing, particularly in the context of image compression, yielding notable outcomes. This work primarily employs a literature review research methodology to explore the application of SVD. Specifically, SVD is applied to image compression using Matlab. The approach holds significance due to its ability to achieve efficient compression of digital images, hence enhancing transmission efficiency without compromising image quality.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2753-8818/25/20240959"
+    },
+    {
+        "id": 19320,
+        "title": "Partial Discharge Signal Denoising Algorithm Based on Aquila Optimizer–Variational Mode Decomposition and K-Singular Value Decomposition",
+        "authors": "Jun Zhong, Zhenyu Liu, Xiaowen Bi",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "Partial discharge (PD) is a primary factor leading to the deterioration of insulation in electrical equipment. However, it is hard for traditional methods to precisely extract PD signals in increasingly complex engineering environments. This paper proposes a new PD signal denoising method combining Aquila Optimizer–Variational Mode Decomposition (AO-VMD) and K-Singular Value Decomposition (K-SVD) algorithms. Firstly, the AO algorithm optimizes critical parameters of the VMD algorithm. For the PD signal overwhelmed by noise, the AO-VMD algorithm can decompose it and reconstruct it by using kurtosis. In this process, the majority of the noise is removed, and the characteristics of the original signal are shown. Subsequently, the K-SVD algorithm performs sparse decomposition on the signal after OA-VMD, constructs a learned dictionary, and captures the characteristics of the signal for continuous learning and updating. After the dictionary learning is completed, the best matching atoms from the dictionary are selected to precisely reconstruct the original noiseless signal. Finally, the proposed method is compared with three traditional algorithms, Adaptive Ensemble Empirical Mode Decomposition (AEEMD), SVD-VMD, and the Adaptive Wavelet Multilevel Soft Threshold algorithm, on the simulated signal and the actual engineering signal. The results both demonstrate that the algorithm proposed by this paper has superior noise reduction and signal extraction performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14072755"
+    },
+    {
+        "id": 19321,
+        "title": "Games Recommender System Using Singular Value Decomposition",
+        "authors": "Arfan Jadulhaq, Z. K. A. Baizal",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicyta60173.2023.10428876"
+    },
+    {
+        "id": 19322,
+        "title": "Unfolding a composed ensemble of energy spectra using singular value decomposition",
+        "authors": "Richard Berkovits",
+        "published": "2023-6-1",
+        "citations": 1,
+        "abstract": "Abstract\nIn comparing the behavior of an energy spectrum to the predictions of random matrix theory one must transform the spectrum such that the averaged level spacing is constant, a procedure known as unfolding. Once energy spectra belong to an ensemble where there are large realization-to-realization fluctuations the canonical methods for unfolding fail. Here we show that singular value decomposition can be used even for the challenging situations where the ensemble is composed out of realizations originating from a different range of parameters resulting in a non-monotonous local density of states. This can be useful in experimental situations for which the physical parameters cannot be tightly controlled, or for situations for which the local density of states is strongly fluctuating.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1209/0295-5075/acd5fa"
+    },
+    {
+        "id": 19323,
+        "title": "Binary data in matrices with singular value decomposition method",
+        "authors": "Rihab H. Sahib",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0191716"
+    },
+    {
+        "id": 19324,
+        "title": "Using the Singular Value Decomposition to Generate Composite NFTs",
+        "authors": "Jack Davies, Craig Steven Wright",
+        "published": "2023-7-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/coins57856.2023.10189323"
+    },
+    {
+        "id": 19325,
+        "title": "Rayleigh-Ritz Based Updates of the Multilinear Singular Value Decomposition",
+        "authors": "Vasileios Kalantzis, Panagiotis A. Traganitis",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieeeconf59524.2023.10476799"
+    },
+    {
+        "id": 19326,
+        "title": "Joint multi-subspace feature learning with singular value decomposition for robust single-sample face recognition",
+        "authors": "Rong Fei, Jian Zhang, Liling Bo, Heng Zhang, Hongran Li, Ming Li",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compeleceng.2024.109085"
+    },
+    {
+        "id": 19327,
+        "title": "Identifying groundwater-dependent vegetation in arid zone Australia using imagery time series and singular value decomposition",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.box387"
+    },
+    {
+        "id": 19328,
+        "title": "Improvement in Transformer Differential Protection Using Singular Value Decomposition",
+        "authors": "Het Bhalja, Bhavesh R. Bhalja, Pramod Agarwal",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gtd49768.2023.00068"
+    },
+    {
+        "id": 19329,
+        "title": "Edge Detection Scheme Based on the Multi-Resolution form of Singular Value Decomposition",
+        "authors": "Julia Evers",
+        "published": "2023-11-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecet58911.2023.10389471"
+    },
+    {
+        "id": 19330,
+        "title": "Online Course Recommender System using Singular Value Decomposition",
+        "authors": "Musthafa Zaki Bahar, Z. K. A. Baizal",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icodsa58501.2023.10276431"
+    },
+    {
+        "id": 19331,
+        "title": "Componentwise Perturbation Analysis of the Singular Value Decomposition of a Matrix",
+        "authors": "Vera Angelova, Petko Petkov",
+        "published": "2024-2-8",
+        "citations": 0,
+        "abstract": "A rigorous perturbation analysis is presented for the singular value decomposition (SVD) of a real matrix with full column rank. It is proved that the SVD perturbation problem is well posed only when the singular values are distinct. The analysis involves the solution of symmetric coupled systems of linear equations. It produces asymptotic (local) componentwise perturbation bounds on the entries of the orthogonal matrices participating in the decomposition of the given matrix and on its singular values. Local bounds are derived for the sensitivity of the singular subspaces measured by the angles between the unperturbed and perturbed subspaces. Determining the asymptotic bounds of the orthogonal matrices and the sensitivity of singular subspaces requires knowing only the norm of the perturbation of the given matrix. An iterative scheme is described to find global bounds on the respective perturbations, and results from numerical experiments are presented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14041417"
+    },
+    {
+        "id": 19332,
+        "title": "BPTTD: Block-Parallel Singular Value Decomposition(SVD) Based Tensor Train Decomposition",
+        "authors": "Fanshuo Meng, Peng Li, Weibei Fan, Hongjun Zhang, Zhuangzhuang Xue, Haitao Cheng",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cscwd57460.2023.10152799"
+    },
+    {
+        "id": 19333,
+        "title": "Novel Objective Function and Expectation Value Estimation Method for the Variational Quantum Singular Value Decomposition Algorithm",
+        "authors": "Jezer Jojo, Ankit Khandelwal, M Girish Chandra",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/comsnets59351.2024.10427083"
+    },
+    {
+        "id": 19334,
+        "title": "Use of Singular Value Decomposition for a Deep Learning-Based Fast Intrusion Detection System",
+        "authors": " انبثاق احمد شاكر,  أ.د. احمد أبو الفتوح صالح (2),  أ.د.حازم مختار البكري(3)",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "An artificial intelligence technique based on artificial neural networks for identifying risks. A range of professions, including the recognition of specific patterns or categories, have adopted deep learning methodologies. Data from intrusion detection assessments and security event monitoring were used to evaluate the network situation. The performance and accuracy of the detection must be improved. We decided to test a range of approaches utilizing an open data set in order to identify the best approach for intrusion detection. The current study aims to explore the possibility of using singular value decomposition (SVD) as a pre-processing step to reduce the dimensionality of the data. In addition to reducing the noise from the data, this pre-processing step reduces the dimensionality of the data to save time on calculations. The proposed strategy can help other currently used methods perform better. We test reduction strategies on the UNSW-NB15 dataset, and the outcomes are very positive.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35950/cbej.v30i123.11337"
+    },
+    {
+        "id": 19335,
+        "title": "Enhancing wind speed forecasting through synergy of machine learning, singular spectral analysis, and variational mode decomposition",
+        "authors": "Sinvaldo Rodrigues Moreno, Laio Oriel Seman, Stefano Frizzo Stefenon, Leandro dos Santos Coelho, Viviana Cocco Mariani",
+        "published": "2024-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.energy.2024.130493"
+    },
+    {
+        "id": 19336,
+        "title": "Partial Discharge Signal Denoising Analysis Using Wavelet Transformation with Singular Value Decomposition Method",
+        "authors": "Kanaparti Bhavya Sri, Kandasamy Chandrasekaran",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conit59222.2023.10205551"
+    },
+    {
+        "id": 19337,
+        "title": "Sensitivity Matrix Reconstruction in Ultrasound Transmission Tomography Using Singular Value Decomposition",
+        "authors": "Bartosz Przysucha, Dariusz Wójcik, Tomasz Rymarczyk, Bartlomiej Baran, Krzysztof Król",
+        "published": "2023-5-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiphdw54739.2023.10124408"
+    },
+    {
+        "id": 19338,
+        "title": "Efficient Denoising of Multi-modal Medical Image using Wavelet Transform and Singular Value Decomposition",
+        "authors": "Rajesh Patil, Surendra Bhosale",
+        "published": "2023-5-19",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globconet56651.2023.10150051"
+    },
+    {
+        "id": 19339,
+        "title": "Optimization design of configurable standard-type coils based on singular value decomposition for transcranial magnetic stimulation",
+        "authors": "Lianyong Wei, Jun Zou",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Objective: This study aims to introduce a configurable standard-type (CST) coil design methodology that can accommodate different stimulation needs through the overlapping of standard coil components, while ensuring the performance of CST coil approaches the existing optimal physical limit as closely as possible. Approach: The study utilizes planar, spherical, and hemispherical stream function to represent the spatial geometry of the coils. Singular value decomposition is employed to design the standard coil components while minimizing the number of coil components. Initially, this study delineates the relationship between singular vectors and coil geometry, defining a multi-objective optimization problem for the research. By contrasting the decay characteristics of singular values in the inductance and electric field matrices of the stream functions, the singular vectors of the electric field matrix are utilized as the foundation for CST coil optimization. Subsequently, the relationships between the number of singular vectors and the coil’s Pareto fronts are determined through the optimization algorithms, and the geometric patterns of the singular vectors, i.e., the standard coil components, are analyzed. Main results: By constructing the CST coil components using seven singular vectors and comparing with the Pareto front of the performance of over 50 existing coil types, the stimulation depth range of the CST coil based on the planar stream function decreased by only 7.7%; the focality performance of the CST coil based on the spherical stream function improved by 22.4%; the focality performance of the CST coil based on the hemispherical stream function decreased by only 1.6%. Significance: The construction of CST coils with a minimal number of components is explored to approximate the performance at any discrete point on the physical limit curve. This approach overcomes the limitation of one coil associating with one performance point in traditional designs, presenting a novel perspective on coil design.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0194758"
+    },
+    {
+        "id": 19340,
+        "title": "An approach for movie recommendation using collaborative filtering with Singular Value Decomposition",
+        "authors": "",
+        "published": "2023-9-13",
+        "citations": 0,
+        "abstract": "Movie recommendation systems help movie enthusiasts by suggesting movies to watch without the hassle of having to go through the time-consuming process of deciding from a large collection of movie streaming platforms that recommend movies and TV episodes. News organizations that suggest articles to readers, and online stores that suggest products to customers all benefit from these recommendation systems. The algorithms implemented in this research train their models on the MovieLens dataset and provide users with tailored movie recommendations. The study compares different machine learning algorithms, which include a Content-based model, item-item and user-user collaborative filtering (CF), Collaborative filtering with Singular Value Decomposition (SVD), K Nearest Neighbors, and Non-negative Factorization. The algorithms are evaluated using Root Mean Square Error (RMSE) and Mean Absolute Error (MAE) to measure their accuracy and performance. While the proposed system which is based on a collaborative approach using SVD determines the connection between various users and, depending on their ratings, recommends movies to others with similar tastes, subsequently allowing users to explore more. The proposed approach using collaborative filtering with SVD performs better with a minimal RMSE of 0. 880258 by giving accurate and appropriate recommendations to the user. The model is further evaluated using performance metrics like Precision, Recall, and f1 score. So, CF with the SVD recommendation model is chosen for implementation and is integrated into a web application that allows the platform users to rate and review the available digital content as well as allows them to restrict screen time using a parental control system. The results of the study in this paper are presented in the form of tables, graphs, and statistical analyses, and can be used to guide the development of new and improved recommendation algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59018/0723196"
+    },
+    {
+        "id": 19341,
+        "title": "Noise Reduction Using Singular Value Decomposition with Jensen–Shannon Divergence for Coronary Computed Tomography Angiography",
+        "authors": "Ryosuke Kasai, Hideki Otsuka",
+        "published": "2023-3-15",
+        "citations": 0,
+        "abstract": "Coronary computed tomography angiography (CCTA) is widely used due to its improvements in computed tomography (CT) diagnostic performance. Unlike other CT examinations, CCTA requires shorter rotation times of the X-ray tube, improving the temporal resolution and facilitating the imaging of the beating heart in a stationary state. However, reconstructed CT images, including those of the coronary arteries, contain insufficient X-ray photons and considerable noise. In this study, we introduce an image-processing technique for noise reduction using singular value decomposition (SVD) for CCTA images. The threshold of SVD was determined on the basis of minimization of Jensen–Shannon (JS) divergence. Experiments were performed with various numerical phantoms and varying levels of noise to reduce noise in clinical CCTA images using the determined threshold value. The numerical phantoms produced 10% higher-quality images than the conventional noise reduction method when compared on a quantitative SSIM basis. The threshold value determined by minimizing the JS–divergence was found to be useful for efficient noise reduction in actual clinical images, depending on the level of noise.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics13061111"
+    },
+    {
+        "id": 19342,
+        "title": "Incremental singular value decomposition for some numerical aspects of multiblock redundancy analysis",
+        "authors": "Alba Martinez-Ruiz, Natale Carlo Lauro",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00180-023-01418-5"
+    },
+    {
+        "id": 19343,
+        "title": "Accurate and Safe Drug Recommendations based on Singular Value Decomposition",
+        "authors": "Panagiotis Symeonidis, Grigorios Manitaras, Markus Zanker",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cbms58004.2023.00210"
+    },
+    {
+        "id": 19344,
+        "title": "Detecting Singular Value Decomposition-based WatermarkEmbedded Medical Images using ResNet Neural Network",
+        "authors": "Abirami R, Malathy C",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/accai58221.2023.10201092"
+    },
+    {
+        "id": 19345,
+        "title": "SEVDA: Singular Value Decomposition Based Parallel Write Scheme for Memristive CNN Accelerators",
+        "authors": "Ali Al-shaarawy, Roman Genov, Amirali Amirsoleimani",
+        "published": "2023-5-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscas46773.2023.10182097"
+    },
+    {
+        "id": 19346,
+        "title": "Modified Ridge Logistic Estimator Based on Singular Value Decomposition",
+        "authors": "Mostafa Kamal, Monira Hussein",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21608/esju.2023.206494.1012"
+    },
+    {
+        "id": 19347,
+        "title": "Acceleration of iterative refinement for singular value decomposition",
+        "authors": "Yuki Uchino, Takeshi Terao, Katsuhisa Ozaki",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "AbstractWe propose fast numerical algorithms to improve the accuracy of singular vectors for a real matrix. Recently, Ogita and Aishima proposed an iterative refinement algorithm for singular value decomposition that is constructed with highly accurate matrix multiplications carried out six times per iteration. The algorithm runs for the problem that has no multiple and clustered singular values. In this study, we show that the same algorithm can be run with highly accurate matrix multiplications carried out five times. Also, we proposed four algorithms constructed with highly accurate matrix multiplications, two algorithms with the multiplications carried out four times, and the other two with the multiplications carried out five times. These algorithms adopt the idea of a mixed-precision iterative refinement method for linear systems. Numerical experiments demonstrate speed-up and quadratic convergence of the proposed algorithms. As a result, the fastest algorithm is 1.7 and 1.4 times faster than the Ogita-Aishima algorithm per iteration on a CPU and GPU, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11075-023-01596-9"
+    },
+    {
+        "id": 19348,
+        "title": "Chatbot-Based Book Recommender System Using Singular Value Decomposition",
+        "authors": "Muhammad Attalariq, Z. K. A. Baizal",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "In the era of information overload, finding the right book that matches one's preferences and interests has become a challenging task for users as many online book provider service websites such as Amazon, Goodreads, and Gramedia provide books of various types and choices. Recommender systems can be used in addressing such issues, it works by filtering information that provides predictions and suggests the best product or service to the user. Currently, various book recommender systems have been developed, but the systems do not provide interaction between the user and the system. Therefore, we propose a recommender system built with a conversational approach so that it can interact with natural language. Recommender system built using matrix factorization method with Singular Value Decomposition (SVD) algorithm, SVD is proven to have advantages for handling large datasets, extracting features, reducing noise and dimensionality so as to speed up computation. We performed two types of evaluation on the system. First, we tested the prediction accuracy using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) metrics. Second, we use questionnaires to measure user satisfaction levels. The evaluation of the system shows that the results of the prediction accuracy obtain an MAE value of 0.6481 and an RMSE value of 0.8287. Then, the accuracy performance of the system found that 83.2% of users get recommendations according to their interests. The user satisfaction with the whole system is 87.9%. The system built can provide a fairly good recommendation performance, and the chatbot can interact well with users based on the evaluation results obtained.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47065/josh.v4i4.3817"
+    },
+    {
+        "id": 19349,
+        "title": "IoMT-based Automated Leukemia Classification using CNN and Higher Order Singular Value Decomposition",
+        "authors": "Shabnam Bagheri Marzijarani, Mohammad Zolfaghari, Hedieh Sajedi",
+        "published": "2023-5-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icwr57742.2023.10139301"
+    },
+    {
+        "id": 19350,
+        "title": "Differential privacy protection algorithm for network sensitive information based on singular value decomposition",
+        "authors": "Xuan Ma, Xing Chang, Hongxiu Chen",
+        "published": "2023-4-13",
+        "citations": 0,
+        "abstract": "AbstractIn order to reduce the risk of data privacy disclosure and improve the effect of information privacy protection, a differential privacy protection algorithm for network sensitive information based on singular value decomposition is proposed. TF-IDF method is used to extract network sensitive information text. By comparing the word frequency of network sensitive information, high word frequency word elements in network information content are collected to obtain the mining results of network sensitive information text. According to the decision tree theory, the equal difference privacy budget allocation mechanism is improved to achieve equal difference privacy budget allocation. By discarding some small singular values and corresponding spectral vectors, the data can be disturbed, and the availability of the original data can be retained, so that it can truly represent the original data set structure. According to the results of equal difference privacy budget allocation and singular value decomposition disturbance, the data of high-dimensional network graph is reduced by random projection, singular value decomposition is performed on the reduced data, and Gaussian noise is added to the singular value. Finally, the matrix to be published is generated through the inverse operation of singular value decomposition to achieve differential privacy protection of network sensitive information. The experimental results show that the privacy protection quality of this algorithm is high and the data availability is effectively improved.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-33030-4"
+    },
+    {
+        "id": 19351,
+        "title": "Singular value decomposition for channel enhancement in MIMO systems",
+        "authors": "Pavithra Prabakaran, K. N. Meera",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0148351"
+    },
+    {
+        "id": 19352,
+        "title": "Respiratory Rate Measurement Method Based on Singular Value Decomposition",
+        "authors": "Dongting Chu, Bingyou Liu, Guoyang Wan, Jingjing Qi, Luanfei Wan",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451115"
+    },
+    {
+        "id": 19353,
+        "title": "Forecasting of the true satellite carbon monoxide data with ensemble empirical mode decomposition, singular value decomposition and moving average",
+        "authors": "Sameer Poongadan, M. C. Lineesh",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02664763.2023.2277115"
+    },
+    {
+        "id": 19354,
+        "title": "A hybrid multimedia image encryption technique using singular value decomposition-linear sparsity regularization (SVD-LSR)",
+        "authors": "M. Hema, S. Prayla Shyry",
+        "published": "2023-3-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-07937-z"
+    },
+    {
+        "id": 19355,
+        "title": "Retracted: Differentially Private Singular Value Decomposition for Training Support Vector Machines",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9760375"
+    },
+    {
+        "id": 19356,
+        "title": "Hybrid Coefficient Fusion in Multi-resolution Singular Value Decomposition Domain for Medical Images",
+        "authors": "Zhihua Jin, Kangjian He, Dan Xu",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icivc58118.2023.10270796"
+    },
+    {
+        "id": 19357,
+        "title": "Fault Feature Extraction Method of Ball Screw Based on Singular Value Decomposition, CEEMDAN and 1.5DTES",
+        "authors": "Qin Wu, Jun Niu, Xinglian Wang",
+        "published": "2023-11-7",
+        "citations": 0,
+        "abstract": "In this article, a method is proposed to effectively extract weak fault features and accurately diagnose faults in ball screws, even in the presence of strong background noise. This method combines singular value decomposition (SVD), complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN), and the 1.5-dimensional spectrum (1.5D) to process and analyze fault vibration signals. The first step involves decomposing the fault signal using the SVD algorithm. The singular values are then screened, and the part of the screen containing more noise information is extracted to complete the first denoising step. The second step involves decomposing the signal after the initial denoising process using CEEMDAN and removing some of the false components from the intrinsic mode function (IMF) components, based on the kurtosis correlation function index. The signal is then reconstructed to complete the second denoising step. Finally, the denoised signal is analyzed using Teager energy operator demodulation and 1.5D spectral analysis to extract the fault frequency and determine the location of the fault in the ball screw. This method has been compared with other denoising methods, such as wavelet packet decomposition combined with CEEMDAN or SVD combined with variational mode decomposition (VMD), and the results show that under the condition of strong background noise, the proposed method can better extract the fault frequency of ball screw.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/act12110416"
+    },
+    {
+        "id": 19358,
+        "title": "Golub Kahan Based Methods for Partial Multidimensional Singular Value Decomposition",
+        "authors": "Anas El Hachimi, Mustapha Hached, Khalide Jbilou, Ahmed Ratnani",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dessert61349.2023.10416541"
+    },
+    {
+        "id": 19359,
+        "title": "A new method to improve the efficiency and accuracy of incremental singular value decomposition",
+        "authors": "Hansi Jiang, Arin Chaudhuri",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "Singular value decomposition (SVD) has been widely used in machine learning. It lies at the root of data analysis, and it provides the mathematical basis for many data mining techniques. Recently, interest in incremental SVD has been on the rise because it is well suited to streaming data. In this paper, we propose a new algorithm of incremental SVD that is designed to improve both efficiency and accuracy during computation. More specifically, our proposed algorithm takes advantage of the special structures of arrowhead and diagonal-plus-rank-one matrices involved in updating SVD models to expedite the updating process. Moreover, because the singular values are computed independently, the proposed method can be easily parallelized. In addition, as this paper shows, increasing rank can lead to more accurate singular values in the updating process. Experimental results from synthetic and real data sets demonstrate gains in efficiency and accuracy in the updating process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13001/ela.2023.7325"
+    },
+    {
+        "id": 19360,
+        "title": "Retracted: Research on Digital Image Watermarking Algorithm Based on Scrambling and Singular Value Decomposition",
+        "authors": "",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9814149"
+    },
+    {
+        "id": 19361,
+        "title": "Face Identification Approach Using Legendre Moment and Singular Value Decomposition",
+        "authors": "Mohammed Hasan Abdulameer, Raaed Kareem",
+        "published": "2023-3-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12785/ijcds/130132"
+    },
+    {
+        "id": 19362,
+        "title": "PCSVD: A hybrid feature extraction technique based on principal component analysis and singular value decomposition",
+        "authors": "Vineeta Gulati, Neeraj Raheja",
+        "published": "2023-7-18",
+        "citations": 0,
+        "abstract": "<p>Feature extraction plays an important role in accurate preprocessing and real-world applications. High-dimensional features in the data have a significant impact on the machine learning classification system. Relevant feature extraction is a fundamental step not only to reduce the dimensionality but also to improve the performance of the classifier. In this paper, the author proposes a hybrid dimensionality reduction technique using principal component analysis (PCA) and singular value decomposition (SVD) in a machine classification system with a support vector classifier (SVC). To evaluate the performance of PCSVD, the results are compared without using feature extraction techniques or with existing methods of independent component analysis (ICA), PCA, linear discriminant analysis (LDA), and SVD. In addition, the efficiency of the PCSVD method is measured on an increased scale of 1.54% accuracy, 2.70% sensitivity, 3.71% specificity, and 3.58% precision. In addition, reduce the 15% dimensionality and 40.60% RMSE, which are better than existing techniques found in the literature.</p>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32629/jai.v6i2.586"
+    },
+    {
+        "id": 19363,
+        "title": "Characterizing the transverse modes of optical fibers by singular value decomposition",
+        "authors": "Yiming Tu, Christian Pfleghar, Cesar Jauregui, Jens Limpert",
+        "published": "2023-3-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2650107"
+    },
+    {
+        "id": 19364,
+        "title": "An efficient randomized QLP algorithm for approximating the singular value decomposition",
+        "authors": "M.F. Kaloorazi, K. Liu, J. Chen, R.C. de Lamare",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.119464"
+    },
+    {
+        "id": 19365,
+        "title": "A Combined Method for Diabetes Mellitus Diagnosis Using Deep Learning, Singular Value Decomposition, and Self-Organizing Map Approaches",
+        "authors": "Mehrbakhsh Nilashi, Rabab Ali Abumalloh, Sultan Alyami, Abdullah Alghamdi, Mesfer Alrizq",
+        "published": "2023-5-22",
+        "citations": 0,
+        "abstract": "Diabetes in humans is a rapidly expanding chronic disease and a major crisis in modern societies. The classification of diabetics is a challenging and important procedure that allows the interpretation of diabetic data and diagnosis. Missing values in datasets can impact the prediction accuracy of the methods for the diagnosis. Due to this, a variety of machine learning techniques has been studied in the past. This research has developed a new method using machine learning techniques for diabetes risk prediction. The method was developed through the use of clustering and prediction learning techniques. The method uses Singular Value Decomposition for missing value predictions, a Self-Organizing Map for clustering the data, STEPDISC for feature selection, and an ensemble of Deep Belief Network classifiers for diabetes mellitus prediction. The performance of the proposed method is compared with the previous prediction methods developed by machine learning techniques. The results reveal that the deployed method can accurately predict diabetes mellitus for a set of real-world datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics13101821"
+    },
+    {
+        "id": 19366,
+        "title": "Proposed Preprocessing for High–Performance Complex Singular Value Decomposition",
+        "authors": "Miho Chiyonobu, Masami Takata, Jun Harayama, Kinji Kimura, Yoshimasa Nakamura",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csce60160.2023.00357"
+    },
+    {
+        "id": 19367,
+        "title": "Singular Value Decomposition Representation of Color Image Based on Quaternion Equivalent Complex Matrix",
+        "authors": "Xiu He, Lina Zhang, Feng Ding",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci57876.2023.10176429"
+    },
+    {
+        "id": 19368,
+        "title": "Fiber-Modes Characterization Using Singular Value Decomposition",
+        "authors": "Yiming Tu, Christian Pfleghar, Cesar Jauregui, Jens Limpert",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cleo/europe-eqec57999.2023.10232076"
+    },
+    {
+        "id": 19369,
+        "title": "HURST EXPONENT ESTIMATION FOR SHORT-TIME SERIES BASED ON SINGULAR VALUE DECOMPOSITION ENTROPY",
+        "authors": "J. ALVAREZ-RAMIREZ, E. RODRIGUEZ, L. CASTRO",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": " Complex time series appear commonly in a large diversity of the science, engineering, economy, financial and social fields. In many instances, complex time series exhibit scaling behavior over a wide range of scales. The traditional rescaled-range (R/S) analysis and the detrended fluctuation analysis (DFA) are commonly used to characterize the scaling behavior via the Hurst exponent. These methods perform well for long-time series. However, the performance may be poor for short times resulting from scarce measurements (e.g. less than a hundred). This work proposes an approach based on singular value decomposition (SVD) entropy for estimating the Hurst exponent for short-time series. In the first step, synthetic time series were used to find the relationship between Hurst exponent and SVD entropy. In the second step, an empirical relationship was proposed to estimate the Hurst exponent from SVD entropy computations of the time series. The performance of the approach was illustrated with two examples of real-time series (consumer price index (CPI) and El Niño Oceanic Index), showing that the estimated Hurst exponent provides valuable insights into the physical mechanisms involved in the generation of the time series. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218348x23501323"
+    },
+    {
+        "id": 19370,
+        "title": "COLLABORATIVE FILTERING APPROACH: SKINCARE PRODUCT RECOMMENDATION USING SINGULAR VALUE DECOMPOSITION (SVD)",
+        "authors": "Farhatun Nissa, Arum Handini Primandari, Achmad Kurniansyah Thalib",
+        "published": "2023-4-6",
+        "citations": 1,
+        "abstract": "The recommendation system provides recommendations for something, be it goods, songs, or movies. The term system is not limited to a service system but concerns a model that can provide recommendations. With recent technological advances, many companies provide various skincare products because current generations are increasingly aware of self-care. With various choices, someone may experience confusion in determining the product they want to buy. Therefore, we need a system that can provide product recommendations run on any platform we use. The most common method for recommendation systems often comes with Collaborating Filtering (CF) where it relies on the past user and item dataset. The singular value decomposition (SVD) method uses a matrix factorization technique that predict the user's rating based on historical ratings. The measurement of the model's accuracy is the RMSE average of 1.01276, indicating that this value results from the best parameters. The results focus on showing skincare product recommendations to users sorted based on rating predictions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14710/medstat.15.2.139-150"
+    },
+    {
+        "id": 19371,
+        "title": "Text encryption by image encryption key with based on generalized singular value decomposition (GSVD)",
+        "authors": "Mohammed Abdul-Hameed",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "This paper we will address the encryption process text is generally through a number of processes of dispersion of the later values in a matrix is A through remittances linear in addition to the use of GSVD enters, including one key which is gray image or to be possible colored but to be converted to a grayscale image, where work will begin the application process distracting initial. In a compound to generate new matrices B1 and B2 of the original text matrix and which enters the mean of the matrix of images key.The second phase of the dispersion is using GSVD on the last matrices with the matrix of the key and switch C matrix among the two spectral for the new matrices B1 with key and B2 with key to generation new matrices B11,B22, which represents putting as correlative F = [B11;B22] who represents the matrix of the initial of the encoded text. For purpose of ascertaining the accuracy of the work we calculated the matrix of absolute value of the difference between the matrix of numbers for original text characters lettering before encryption and matrix of numbers for text characters after decryption to show us zero matrix, as well as the calculation of the average values of this matrix was zero.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47974/jim-1630"
+    },
+    {
+        "id": 19372,
+        "title": "Retracted: Multiresolution-Based Singular Value Decomposition Approach for Breast Cancer Image Classification",
+        "authors": "BioMed Research International",
+        "published": "2024-1-9",
+        "citations": 0,
+        "abstract": "",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2024/9836827"
+    },
+    {
+        "id": 19373,
+        "title": "Note on a rank-one modification of the singular value decomposition",
+        "authors": "James Baglama, Vasilije Perović, Timothy Toolan",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.amc.2023.128170"
+    },
+    {
+        "id": 19374,
+        "title": "Efficient implementation of singular value decomposition on shared memory computing systems",
+        "authors": "A.A. Chekushkin,  , V.A. Egunov, A.G. Kravets",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The problem of increasing the speed of big data analytics applications remains relevant. The solution may be to create new algorithms, or to increase the efficiency of existing implementations. Many studies are being conducted to optimize the operation of well-known algorithms in application to the computing complex as a whole, including the communications subsystem. At the same time, there is a need for efficient operation of the power of each node of the computing complex. In particular, the question of cache optimization and vectorization of a number of linear algebra algorithms that are part of the big data analytics software on parallel computing systems remains open. The purpose of this work is to increase the efficiency of the software implementation of a parallel linear algebra algorithm using the proposed optimization method. The proposed method was applied to the Jacobi method of singular decomposition of dense matrices. Computational experiments were carried out to determine the speedup of the proposed modification in relation to other software implementations. The results of computational experiments have shown the effectiveness of the proposed method",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34219/2078-8320-2023-14-1-112-119"
+    },
+    {
+        "id": 19375,
+        "title": "Singular Value Decomposition with Optimal Rank Thresholding and RUSTICO in Burr Classification",
+        "authors": "Valerie Vanora Susilo, Naramia Wijaya, Vachell Christiansen Chai, Dyah Erny Herwindiati",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icic60109.2023.10382076"
+    },
+    {
+        "id": 19376,
+        "title": "Optical coherence tomography image despeckling based on tensor singular value decomposition and fractional edge detection",
+        "authors": "Ying Fang, Xia Shao, Bangquan Liu, Hongli Lv",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2023.e17735"
+    },
+    {
+        "id": 19377,
+        "title": "Improving collaborative recommender system using hybrid clustering and optimized singular value decomposition",
+        "authors": "Zahra Movafegh, Abdoreza Rezapour",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.107109"
+    },
+    {
+        "id": 19378,
+        "title": "Performance Analysis of Machine Learning Singular Spectrum Analysis for Forecasting Air Contamination",
+        "authors": "",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscan58655.2023.10395309"
+    },
+    {
+        "id": 19379,
+        "title": "An Internal Defect Detection Algorithm for Concrete Blocks Based on Local Mean Decomposition-Singular Value Decomposition and Weighted Spatial-Spectral Entropy",
+        "authors": "Xu Tian, Jun Ao, Zizhu Ma, Chunbo Ma, Junjie Shi",
+        "published": "2023-7-9",
+        "citations": 1,
+        "abstract": "Within the scope of concrete internal defect detection via laser Doppler vibrometry (LDV), the acquired signals frequently suffer from low signal-to-noise ratios (SNR) due to the heterogeneity of the concrete’s material properties and its rough surface structure. Consequently, these factors make the defect signal characteristics challenging to discern precisely. In response to this challenge, we propose an internal defect detection algorithm that incorporates local mean decomposition-singular value decomposition (LMD-SVD) and weighted spatial-spectral entropy (WSSE). Initially, the LDV vibration signal undergoes denoising via LMD and the SVD algorithms to reduce noise interference. Subsequently, the distribution of each frequency in the scan plane is analyzed utilizing the WSSE algorithm. Since the vibrational energy of the frequencies caused by the defect resonance is concentrated in the defect region, its energy distribution in the scan plane is non-uniform, resulting in a significant difference between the defect resonance frequencies’ SSE values and the other frequencies’ SSE values. This feature is used to estimate the resonant frequencies of internal defects. Ultimately, the defects are characterized based on the modal vibration patterns of the defect resonant frequencies. Tests were performed on two concrete blocks with simulated cavity defects, using an ultrasonic transducer as the excitation device to generate ultrasonic vibrations directly from the back of the blocks and applying an LDV as the acquisition device to collect vibration signals from their front sides. The results demonstrate the algorithm’s capacity to effectively pinpoint the information on the location and shape of shallow defects within the concrete, underscoring its practical significance for concrete internal defect detection in practical engineering scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e25071034"
+    },
+    {
+        "id": 19380,
+        "title": "Multilinear singular value decomposition of a tensor with fibers observed along one mode<sup>*</sup>",
+        "authors": "Stijn Hendrikx, Mikael Sørensen, Lieven De Lathauwer",
+        "published": "2023-7-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssp53291.2023.10207967"
+    },
+    {
+        "id": 19381,
+        "title": "Accelerated augmented Lagrangian full-waveform inversion based on truncated randomized singular value decomposition",
+        "authors": "Jiahang Li, Hitoshi Mikada, Junichi Takekawa",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/image2023-3910542.1"
+    },
+    {
+        "id": 19382,
+        "title": "Optical coherence tomography image despeckling based on edge feature-guided higher-order singular value decomposition",
+        "authors": "Hongli Lv",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.optlaseng.2022.107314"
+    },
+    {
+        "id": 19383,
+        "title": "Singular Value Decomposition (SVD) Based Optimal Image Compression Technique",
+        "authors": " Kiran, B D Parameshachari, D S Sunil Kumar, P S Prafulla, J Yashwanth",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392294"
+    },
+    {
+        "id": 19384,
+        "title": "Analysis and improvement of star identification algorithm based on singular value decomposition for star sensor",
+        "authors": "Mona Zahednamazi, Alireza toloui",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30699/jsst.2023.1445"
+    },
+    {
+        "id": 19385,
+        "title": "Digital Images Authentication Technique Based on Multi-Blocks DCT and Singular Value Decomposition",
+        "authors": "Eman I. Abd El-Latif, Ahmed Taha, Hala H. Zayed",
+        "published": "2023-10-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/niles59815.2023.10296670"
+    },
+    {
+        "id": 19386,
+        "title": "Blockwise Robust Singular Value Decomposition for MRI Brain Image Denoising",
+        "authors": "Nishith Kumar -, Md. Najibul Hasan -, Md. Mamunar Rashid -, Shethika Paul -, Md. Asraful Alam -",
+        "published": "2023-1-11",
+        "citations": 0,
+        "abstract": "MRI is one of the high-dimensional high-throughput technologies that are playing a major role for diagnosing brain tumor. With the help of MRI images, brain tumor is diagnosed at advanced stages. Correct identification of brain tumor or abnormality, image processing in MRI of brain is highly essential that can reduce the chance of fatal stage. Occasionally, these MR images are introduced with noise during acquisition which reduces the image quality and limits the accuracy in diagnosis. Therefore, preliminary diagnosis of MRI brain images from the hospital may not be always reliable for further analysis because of the presence of noise. Reduction/Elimination of noise in medical images is an important task in preprocessing which is one of the previous crucial parts for further image analysis. Although, several denoising techniques are available in the literature including median filter, box filter, low pass filter, and high pass filter. In this paper, we have measured the influence of the above methods for denoising. We have also proposed a new blockwise robust singular value decomposition technique for denoising image. The results of our analysis showed that blockwise robust singular value decomposition technique gives the better performance compared to the other methods. Therefore, our recommendation is to use the Blockwise robust singular value decomposition technique for brain image denoising.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36948/ijfmr.2023.v05i01.1348"
+    },
+    {
+        "id": 19387,
+        "title": "Investigating difficulties and enhancing understanding in linear algebra: Leveraging SageMath and ChatGPT for (orthogonal) diagonalization and singular value decomposition",
+        "authors": "Natanael Karjanto",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>We explored some common challenges faced by undergraduate students when studying linear algebra, particularly when dealing with algorithmic thinking skills required for topics such as matrix factorization, focusing on (orthogonal) diagonalization and singular value decomposition (SVD). To address these challenges, we introduced SageMath, a Python-based open-source computer algebra system, as a supportive tool for students performing computational tasks despite its static output nature. We further examined the potential of dynamic ChatGPT, an AI-based chatbot, by requesting examples or problem-solving assistance related to (orthogonal) diagonalization or the SVD of a specific matrix. By reinforcing essential concepts in linear algebra and enhancing computational skills through effective practice, mastering these topics can become more accessible while minimizing mistakes. Although static in nature, SageMath proved valuable for confirming calculations and handling tedious computations because of its easy-to-understand syntax and accurate solutions. However, although dynamic ChatGPT may not be fully reliable for solving linear algebra problems, the errors it produces can serve as a valuable resource for improving critical thinking skills.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mbe.2023738"
+    },
+    {
+        "id": 19388,
+        "title": "Inexact augmented Lagrangian method-based full-waveform inversion with randomized singular value decomposition",
+        "authors": "Jiahang Li, Hitoshi Mikada, Junichi Takekawa",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "Abstract\nThe main advantage of full-waveform inversion (FWI) is the ability to obtain useful subsurface structure information, such as velocity and density, from complex seismic data. We have developed a novel inversion algorithm to improve the capability of FWI to achieve high-resolution imaging, even under complex conditions caused by random noise contamination, initial model dependence, or the selection of parameters to be estimated. Our algorithm considers an effective image processing and dimension reduction tool, randomized singular value decomposition-weighted truncated nuclear norm regularization, for embedding FWI to achieve high-resolution imaging results. This algorithm obtains a truncated matrix approximating the original matrix by reducing the rank of the velocity increment matrix, thus achieving the truncation of noisy data, with the truncation range controlled by weighted truncated nuclear norm regularization. Subsequently, we employ an inexact augmented Lagrangian method algorithm in the optimization to compress the solution space range, thus relaxing the dependence of FWI and randomized singular value decomposition-weighted truncated nuclear norm regularization on the initial model and accelerating the convergence rate of the objective function. We tested on one set of synthetic data, and the results show that, compared with traditional FWI, our method can more effectively suppress the impact of random noise, thus obtaining higher resolution and more accurate subsurface model information. This work indicates that the combination of randomized singular value decomposition-weighted truncated nuclear norm regularization and FWI is an effective imaging strategy that can help to solve the challenges faced by traditional FWI.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jge/gxae015"
+    },
+    {
+        "id": 19389,
+        "title": "Research of Extended Dimension Embedded CKF-SLAM Base on Truncated Singular Value Decomposition",
+        "authors": "Shibo Zheng, Kai He, Shuo Meng, Fangchencan Liu, Qiang Guo",
+        "published": "2024-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/crc60659.2023.10488618"
+    },
+    {
+        "id": 19390,
+        "title": "Novel Personalized Multimedia Recommendation Systems Using Tensor Singular-Value-Decomposition",
+        "authors": "Shih Yu Chang, Hsiao-Chun Wu, Kun Yan, Xinjia Chen, Yiyan Wu",
+        "published": "2023-6-14",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bmsb58369.2023.10211188"
+    },
+    {
+        "id": 19391,
+        "title": "Singular value decomposition and applications in data processing and artificial intelligence",
+        "authors": "Thanh-Xuan Cao Thi",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "Computing matrices is a crucial and prevalent topic in the field of data processing and artificial intelligence. One of the significant and effective methods for matrix manipulation is Singular Value Decomposition (SVD). Based on matrix computations using SVD, we can perform various complex operations such as dimensionality reduction, hidden information detection, optimization, and many other applications. Singular Value Decomposition is a valuable method in data science, allowing us to decompose a matrix into its fundamental components. Similar to Principal Component Analysis (PCA), SVD helps reduce the dimensionality of data while preserving the most important information. However, SVD can be applied to non-square, non-invertible matrices, and its ability to separate fundamental components enables us to analyze more complex data. SVD has a wide range of applications in practical scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56764/hpu2.jos.2023.2.3.34-41"
+    },
+    {
+        "id": 19392,
+        "title": "Missing value imputation in a data matrix using the regularised singular value decomposition",
+        "authors": "Sergio Arciniegas-Alarcón, Marisol García-Peña, Wojtek J. Krzanowski, Camilo Rengifo",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mex.2023.102289"
+    },
+    {
+        "id": 19393,
+        "title": "A Method for Selecting a Representative Image of a Dataset Based on the Singular Value Decomposition",
+        "authors": "Pablo Soto-Quiros, Geovanni Figueroa-Mata, Nelson Zamora-Villalobos",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bip60195.2023.10379342"
+    },
+    {
+        "id": 19394,
+        "title": "Serial vs parallel execution of Principal Component Analysis using Singular Value Decomposition",
+        "authors": "Mallegowda M, Tanupriya R, Vishnupriya C, Anita Kanavalli",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10467693"
+    },
+    {
+        "id": 19395,
+        "title": "Frequency-weighted and frequency interval Gramian framework-based model reduction using singular value decomposition",
+        "authors": "Vineet Sharma, Deepak Kumar",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "Abstract\nIt is observed that the reduced-order models (ROMs) by some existing limited Gramians-based techniques deviate significantly from the high-order model, resulting in a large approximation inaccuracy. Therefore, this paper introduces a novel solution for finite-frequency model reduction using new frequency-weighted Gramians by employing balanced truncation. This work provides a novel structure of fictitious input and output matrices, resulting in the proposed continuous-time system Gramians. The suggested strategy provides stable ROMs even when input and output weightings are incorporated into the system. Furthermore, the proposed approach is extended with the frequency-interval Gramians, ensuring stable ROMs. The proposed simulation outcomes are compared with other well-known frequency-weighted and frequency-interval Gramians-based techniques using numerical examples to demonstrate the efficacy of the suggested strategies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/imamci/dnad036"
+    },
+    {
+        "id": 19396,
+        "title": "Properties and Structure of the Analytic Singular Value Decomposition",
+        "authors": "S. Weiss, I.K. Proudler, G. Barbarino, J. Pestana, J.G. McWhirter",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tsp.2024.3387726"
+    },
+    {
+        "id": 19397,
+        "title": "Singular value decomposition for complex matrices using two-sided Jacobi method",
+        "authors": "Miho Chiyonobu, Takahiro Miyamae, Masami Takata, Jun Harayama, Kinji Kimura, Yoshimasa Nakamura",
+        "published": "2024-2-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11227-024-05903-6"
+    },
+    {
+        "id": 19398,
+        "title": "Deep learning combined with singular value decomposition to reconstruct databases in fluid dynamics",
+        "authors": "P. Díaz-Morales, A. Corrochano, M. López-Martín, S. Le Clainche",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121924"
+    },
+    {
+        "id": 19399,
+        "title": "MDSVDNV: predicting microbe–drug associations by singular value decomposition and Node2vec",
+        "authors": "Huilin Tan, Zhen Zhang, Xin Liu, Yiming Chen, Zinuo Yang, Lei Wang",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "IntroductionRecent researches have demonstrated that microbes are crucial for the growth and development of the human body, the movement of nutrients, and human health. Diseases may arise as a result of disruptions and imbalances in the microbiome. The pathological investigation of associated diseases and the advancement of clinical medicine can both benefit from the identification of drug-associated microbes.MethodsIn this article, we proposed a new prediction model called MDSVDNV to infer potential microbe-drug associations, in which the Node2vec network embedding approach and the singular value decomposition (SVD) matrix decomposition method were first adopted to produce linear and non-linear representations of microbe interactions.Results and discussionCompared with state-of-the-art competitive methods, intensive experimental results demonstrated that MDSVDNV could achieve the best AUC value of 98.51% under a 5-fold CV, which indicated that MDSVDNV outperformed existing competing models and may be an effective method for discovering latent microbe–drug associations in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fmicb.2023.1303585"
+    },
+    {
+        "id": 19400,
+        "title": "A GPU-based singular value decomposition algorithm",
+        "authors": "S.S. Sukharskyi,  ",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "In this research paper we present an implementation of a singular value decomposition algorithm designed specifically for the graphics processing unit. It consists of two parts: orthogonal matrix decomposition and matrix diagonalization. Presented an implementation of bidiagonalization algorithm where we calculate the main bidiagonal matrix and two orthogonal multipliers using a series of House- holder transformations, as well as diagonalization algorithm with the help of Givens rotation matrices. Bothe these parts are implemented in jCUDA environment. Experiments have been conducted, the results of which have been thoroughly investigated on the matter of time consumption and calculations error. We’ve also compared our implementation with alternatives both on central and graphic processors.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15407/pp2023.01.030"
+    },
+    {
+        "id": 19401,
+        "title": "Retraction Note: An improved privacy-preserving data mining technique using singular value decomposition with three-dimensional rotation data perturbation",
+        "authors": "N. Kousika, K. Premalatha",
+        "published": "2024-2-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11227-024-05968-3"
+    },
+    {
+        "id": 19402,
+        "title": "Electric shock feature extraction method based on adaptive variational mode decomposition and singular value decomposition",
+        "authors": "Hongzhang Zhu, Chuanping Wu, Yang Zhou, Yao Xie, Tiannian Zhou",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "AbstractThis paper proposes a feature extraction method combining adaptive variational mode decomposition (AVMD) and singular value decomposition (SVD) for electric shock fault‐type identification. The AVMD algorithm is utilized to adaptively decompose the electric shock signal into intrinsic mode components, each containing distinct frequency information. Subsequently, the correlation coefficient is employed to extract the intrinsic mode component with amplitudes greater than or equal to 0.1 ( ≥ 0.1). Feature extraction is then performed using SVD on the  ≥ 0.1 intrinsic mode component, based on its maximum singular value and singular entropy. This approach effectively overcomes the limitation of the traditional VMD that necessitates manual K value setting. Moreover, it achieves dimensionality reduction and feature extraction of the intrinsic mode components through SVD, resulting in enhanced computational efficiency and fault identification accuracy. Extensive simulations demonstrate the remarkable recognition rates of electric shock fault types in animals and plants using the proposed AVMD‐SVD method, achieving a recognition rate as high as 99.25%. Comparative performance analysis further verifies the superiority of AVMD‐SVD over similar empirical mode decomposition‐SVD feature extraction techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/smt2.12157"
+    },
+    {
+        "id": 19403,
+        "title": "SVDroid: Singular Value Decomposition with CNN for Android Malware Classification",
+        "authors": "Franklin Tchakount, Jean Ebongue, Raıssa Manfouo, Didier Bassol, Marcellin Atemkeng",
+        "published": "2023-8-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12785/ijcds/140145"
+    },
+    {
+        "id": 19404,
+        "title": "Color image watermarking based on a fast structure-preserving algorithm of quaternion singular value decomposition",
+        "authors": "Mingcui Zhang, Wenxv Ding, Ying Li, Jianhua Sun, Zhihong Liu",
+        "published": "2023-7",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.108971"
+    },
+    {
+        "id": 19405,
+        "title": "Iterative refinement method by higher-order singular value decomposition for solving multi-linear systems",
+        "authors": "Lu-Bin Cui, Wen-Li Hu, Jin-Yun Yuan",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aml.2023.108819"
+    },
+    {
+        "id": 19406,
+        "title": "Detection of Sensors Fault Using Singular Value Decomposition Technique in Power Plant",
+        "authors": "Helen R, Nikei Antony Miekle A, Thenmozhi T, Suhail Ahmed A, Aravindh R",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icssas57918.2023.10331814"
+    },
+    {
+        "id": 19407,
+        "title": "Synchrophasor network-based detection and classification of power system events: A singular value decomposition approach",
+        "authors": "Reza Pourramezan, Houshang Karimi, Jean Mahseredjian",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.epsr.2023.109645"
+    },
+    {
+        "id": 19408,
+        "title": "A Tensor Singular Value Decomposition Accelerator for Hyperspectral Imaging Applications",
+        "authors": "Shabirahmed Badashasab Jigalur, Yen-Cheng Kuan",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecs58634.2023.10382816"
+    },
+    {
+        "id": 19409,
+        "title": "Power Transformer Fault Classification Based On Cumulative Distribution Transformation Utilizing Singular Value Decomposition",
+        "authors": "Abu Nayem Md. Noman, Md Mahmud Hassan Sohan, Md Sakib Khan",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iecres57315.2023.10209454"
+    },
+    {
+        "id": 19410,
+        "title": "APPLICATION OF BIPLOT ANALYSIS WITH ROBUST SINGULAR VALUE  DECOMPOSITION TO POVERTY DATA IN SULAWESI ISLAND",
+        "authors": "Febriyana Taki, Lailany Yahya, Muhammad Rezky Friesta Payu",
+        "published": "2023-4-6",
+        "citations": 0,
+        "abstract": "Poverty is defined as an inability of the individual to meet basic needs for a decent life. According to BPS data in2020, Sulawesi Island ranks fifth as the poorest island in Indonesia. This study aims to find out the mapping of areas and indicators of poverty in Sulawesi Island using Biplot Analysis with Robust Singular Value Decomposition approach for outlier research data. Based on the results of the study, there are five objects that are outlier and the information provided by the biplot amounted 98.45%. District/city that have similar characteristics are divided into 4 groups. The indicator of poverty that has the most diversity is the School Old Expectations Numbers (Var 4) and the one with the least diversity is Poor Households Using Clean Water (Var 8). Indicators of poverty that are positively correlated are Literacy Numbers (Var 1) and Non-Working Poor Population (Var 5), while the negative correlated are The Non-Working Poor Population (Var 5) and Poor Households Using Clean Water (Var 8). There are 19 districts/cities that have literacy values above the average of all districts/cities and 11 districts/cities that have a per capita expenditure value below the average of all districts/cities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14710/medstat.15.2.220-230"
+    },
+    {
+        "id": 19411,
+        "title": "Application of Singular Value Decomposition and Adaptive Noise Cancellation Method in AUV Sonar Pulse",
+        "authors": "Leilei Deng, Kaijing Leng",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe detection signal-to-noise ratio determines the underwater acoustic reconnaissance ability of AUV in complex marine environments. In this paper, the singular value decomposition method and adaptive noise cancellation method are used to improve the signal-to-noise ratio of dual channel sonar signal. The experimental data processing results show that the singular value decomposition method has a stronger noise reduction ability, but the noise reduction effect is greatly affected by the singular value threshold, and the performance of the algorithm is unstable; Although the noise reduction ability of adaptive noise cancellation method is limited, it has strong environmental adaptability and more stable algorithm performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2419/1/012060"
+    },
+    {
+        "id": 19412,
+        "title": "Fast algorithms for singular value decomposition and the inverse of nearly low-rank matrices",
+        "authors": "Chen Xu, Weiwei Xu, Kaili Jing",
+        "published": "2023-5-10",
+        "citations": 2,
+        "abstract": "This perspective focuses on the fast algorithm design for singular value decomposition and inverse computation of nearly low-rank matrices that are potentially of big sizes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/nsr/nwad083"
+    },
+    {
+        "id": 19413,
+        "title": "A robust audio watermarking algorithm based on graph Fourier transform and singular value decomposition",
+        "authors": "Shuang Han, Meihong Huang",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2682443"
+    },
+    {
+        "id": 19414,
+        "title": "A Randomized Singular Value Decomposition for Third-Order Oriented Tensors",
+        "authors": "Minghui Ding, Yimin Wei, Pengpeng Xie",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10957-023-02177-5"
+    },
+    {
+        "id": 19415,
+        "title": "Determination of all hydrodynamic added properties resulting from fluid structure interactions using singular value decomposition",
+        "authors": "Mehrdad Raisee, Michel J. Cervantes",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jfluidstructs.2023.103898"
+    },
+    {
+        "id": 19416,
+        "title": "Var-HR: Noncontact Heart Rate Measurement Using an RGB Camera Based on Adaptive Region Selection With Singular Value Decomposition",
+        "authors": "Hemant Sharma, Amita Kumari Sharma",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lsens.2024.3375892"
+    },
+    {
+        "id": 19417,
+        "title": "Singular value decomposition for physiological motion removal in acoustic-radiation-force-based cardiac shear wave elastography",
+        "authors": "Xufei Chen, Yizhou Huang, Rogier R. Wildeboer, Massimo Mischi, Ruud J. G. van Sloun",
+        "published": "2023-9-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ius51837.2023.10307610"
+    },
+    {
+        "id": 19418,
+        "title": "Aeromagnetic Compensation Using an Improved Truncated Singular Value Decomposition Method",
+        "authors": "Wenhua Song, Zhicheng Yang, Bin Li, Yan Ma",
+        "published": "2023-9-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicsp59554.2023.10390640"
+    },
+    {
+        "id": 19419,
+        "title": "Complementary waveforms for range sidelobe suppression based on a singular value decomposition approach",
+        "authors": "Jiahuan Wang, Pingzhi Fan, Des McLernon, Zhiguo Ding",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "AbstractWhile Doppler resilient complementary waveforms (DRCWs) have previously been considered to suppress range sidelobes within a Doppler interval of interest in radar systems, their ability to provide Doppler resilience can be further improved. A new singular value decomposition (SVD)‐based DRCW construction is proposed, in which both transmit pulse trains (made up of complementary pairs) and receive pulse weights are jointly considered. Besides, using the proposed SVD‐based method, a theoretical bound is derived for the range sidelobes within the Doppler interval of interest. Moreover, based on the SVD solutions, a challenging non‐convex optimization problem is formulated and solved to maximise the signal‐to‐noise ratio (SNR) with the constraint of low range sidelobes. It is shown that, compared with existing DRCWs, the proposed SVD‐based DRCW has better Doppler resilience. Further, the new optimised SVD‐based DRCW has a higher SNR while maintaining the same Doppler resilience.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/sil2.12218"
+    },
+    {
+        "id": 19420,
+        "title": "Big Data implementation in the tourism industry with the integration of Singular Value Decomposition (SVD)",
+        "authors": "Tanvinur Rahman Siam, Md Sakiluzzaman, Sanji Sahlan Gazi, Asef Hassan Amiz",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccit60459.2023.10441537"
+    },
+    {
+        "id": 19421,
+        "title": "Automatic Detection and Tracking of Infrared Aerial Targets via Singular Value Decomposition in the Event of Infrared Jamming",
+        "authors": "Bader Algahtani, Adnan Affandi",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29322/ijsrp.13.09.2023.p14111"
+    },
+    {
+        "id": 19422,
+        "title": "Randomized singular value decomposition based Real-time Wide Area Voltage Stability (WAVS) Assessment",
+        "authors": "Manish Pandit, Ranjana Sodhi",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.epsr.2024.110310"
+    },
+    {
+        "id": 19423,
+        "title": "Research on Singular Value Decomposition Recommendation Algorithm Based on Data Filling",
+        "authors": "Yarong Liu, Feiyang Huang, Xiaolan Xie, Haibin Huang",
+        "published": "2023-3-24",
+        "citations": 0,
+        "abstract": "In the era of big data, the problem of information overload has become increasingly prominent. Recommendation systems are widely studied due to the problem. Due to the sparseness of data, the recommendation effect is not always ideal. To alleviate the problem of data sparsity, a singular value decomposition recommendation algorithm based on data filling is proposed. First, an improved Tanimoto similarity coefficient calculation method is proposed to calculate the similarity, and effective interpolation data is generated for the singular value decomposition model according to the proposed prediction formula. The experimental results show that when using the same dataset MovieLens100K, compared with several commonly used recommendation algorithms, the improved algorithm improves the prediction accuracy of the model, In the best case, RMSE is 10.1% lower than KNNBasic, 7.8% lower than Slope One algorithm, 6.9% lower than SVD algorithm, and 4.8% lower than SVD++ algorithm, verifying that this method can improve the recommendation quality.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4018/ijitsa.320222"
+    },
+    {
+        "id": 19424,
+        "title": "Ambiguity attacks on the digital image watermarking using discrete wavelet transform and singular value decomposition",
+        "authors": "Amar El Maadi, Khaled Loukhaoukha, Mahmoud Benmami, Khalil Zebbiche, Noureddine Mehallegue",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18980-9"
+    },
+    {
+        "id": 19425,
+        "title": "A Trust-Region Method for Solving Truncated Complex Singular Value Decomposition",
+        "authors": "Jiaofen Li, Lingchang Kong, Xuefeng Duan, Xuelin Zhou null, Qilun Luo",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4208/jcm.2211-m2021-0043"
+    },
+    {
+        "id": 19426,
+        "title": "A Denoising Method for Partial Discharge Based on Wavelet Transformation and Singular Value Decomposition",
+        "authors": "Lin He, Heli Ni",
+        "published": "2023-5-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icempe57831.2023.10139606"
+    },
+    {
+        "id": 19427,
+        "title": "Optimization of human gait using singular-value decomposition-based design variables",
+        "authors": "Cem Guzelbulut, Satoshi Shimono, Katsuyuki Suzuki",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "AbstractAge, walking speed, the presence of walking problems, the slope of the ground, and many other parameters affect human gait. Understanding gait variations and obtaining a reference behavior under different conditions is important for identifying abnormal walking behaviors and designing walking assistive devices, orthoses, and prostheses. Predictive dynamics can be used to determine a reference motion for a given task. In the predictive dynamics approach, the motion of a human is generated using design variables, and the equation of motion is considered a constraint. Several design variables were used to generate the motion, and the biological limits of the joints were considered additional constraints in previous studies. A foot-ground contact model was used to generate vertical and horizontal ground reaction forces using the nonlinear spring-damper model. This study proposed a singular value decomposition-based joint angle generation method to reduce the number of design variables and additional constraints. First, the joint angles were calculated using the motion capture data of 225 participants. Then, a joint angle matrix containing the joint angles of all participants in the experiments was created. The modes of the joint angles were extracted using singular-value decomposition. The joint angles were generated by summing the multiplication of the first nine modes of the joint angles and their corresponding design variables. Therefore, the number of design variables was significantly reduced. Moreover, the constraints related to the joint angle limits were intrinsically satisfied. Joint angles, moments, and power were obtained for the optimal energy and moment square cases at different walking speeds. The optimal results were found to be consistent with experimental results in the literature.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11044-023-09885-w"
+    },
+    {
+        "id": 19428,
+        "title": "Multiple vehicles tracking and detection using weight high order singular value decomposition dimensionality reduction and double classifiers",
+        "authors": "C. Ranjeeth Kumar, M. Kalaiarasu",
+        "published": "2023-3-9",
+        "citations": 0,
+        "abstract": "Controlling and managing city traffic is one of them. In order to use image processing to prevent accidents on the road, vehicle tracking and detection are essential. By following moving objects, surveillance video monitoring and human activity recording are carried out. By taking this into account, a useful technique for image processing that detects automobiles from the image is suggested. For numerous vehicle tracking and detection systems, the ECNN-SVM (Enhanced Convolution Neural Network with Support Vector Machine) has just been introduced. However, the larger dimensional data space and inaccurate edge recognition make this system’s performance difficult. The WHOSVD (Weight High Order Singular Value Decomposition) approach, which reduces the dimension and breaks up the positive and negative training picture samples, is established to improve training speed and visual vehicle recognition. To effectively identify the edges at corners, improved canny edge detection is used for edge detection. Mean Kernel Fuzzy C Means (MKFCM) clustering algorithm-based three-dimensional bounding box estimation is used to identify the vehicle items. By merging the feature value of samples with their class labels, the Speed Factor Based Cuckoo Search Algorithm (SFCSA) is introduced for feature selection. The WHOSVD algorithm was used as the input for the enhanced convolutional neural network (ECNN), which is introduced for low-dimensional space and is used for vehicle detection and tracking. Occlusion problems are resolved and target features are further identified using a machine learning classifier. For common algorithms like CNN+SVM, Support Vector Machine (SVM), and the proposed technique, experimentation is done in regards to the metrics of accuracy, f-measure, precision, and recall for performance evaluation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-222795"
+    },
+    {
+        "id": 19429,
+        "title": "A Randomized Algorithm for Tensor Singular Value Decomposition Using an Arbitrary Number of Passes",
+        "authors": "Salman Ahmadi-Asl, Anh-Huy Phan, Andrzej Cichocki",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10915-023-02411-2"
+    },
+    {
+        "id": 19430,
+        "title": "A tensor bidiagonalization method for higher‐order singular value decomposition with applications",
+        "authors": "A. El Hachimi, K. Jbilou, A. Ratnani, L. Reichel",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "AbstractThe need to know a few singular triplets associated with the largest singular values of a third‐order tensor arises in data compression and extraction. This paper describes a new method for their computation using the t‐product. Methods for determining a couple of singular triplets associated with the smallest singular values also are presented. The proposed methods generalize available restarted Lanczos bidiagonalization methods for computing a few of the largest or smallest singular triplets of a matrix. The methods of this paper use Ritz and harmonic Ritz lateral slices to determine accurate approximations of the largest and smallest singular triplets, respectively. Computed examples show applications to data compression and face recognition.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/nla.2530"
+    },
+    {
+        "id": 19431,
+        "title": "Ensemble-Based Context-Aware Recommender System Using Clustering And Singular Value Decomposition",
+        "authors": "Mohammed Danlami, Abdulsalam Ya'u Gital, Kabiru Musa Ibrahim, Isah Muhammad Lamir, Mustapha Abdulrahman Lawal, Ismail Zahraddeen Yakubu",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asiancon58793.2023.10270346"
+    },
+    {
+        "id": 19432,
+        "title": "An improved adaptive periodical segment matrix algorithm for ECG denoising based on singular value decomposition",
+        "authors": "Xinggu Liu, Zhiming Long, Zongyuan Li, Shudong Huang, Zhuqing Wang",
+        "published": "2023-1-6",
+        "citations": 0,
+        "abstract": "BACKGROUND: Wearable devices that monitor heart health of cardiac disease patients in real time are in great demand. OBJECTIVE: We propose an algorithm of improved segment periodical matrix construction for irregular electrocardiogram (ECG) signal denoising. METHOD: While splitting the heartbeat based on each RR interval for periodical segments matrix construction, the as-filtered ECG signal is reconstructed by the maximum singular value after a singular value decomposition. RESULTS: The results demonstrate a higher noise reduction effect with lower signal distortions of our methods compared to several singular value decomposition counterpart approaches. CONCLUSION: Our method has great potential to enhance wearable devices diagnosis accuracy by denoising the complex noises such as electromyography artifacts in real-time ECG sensing.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/thc-220316"
+    },
+    {
+        "id": 19433,
+        "title": "Low-rank plus sparse joint smoothing model based on tensor singular value decomposition for dynamic MRI reconstruction",
+        "authors": "Xiaotong Liu, Jingfei He, Chenghu Mi, Xiaoyue Zhang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mri.2023.09.003"
+    },
+    {
+        "id": 19434,
+        "title": "Discrete wavelet transform based digital image watermarking for satellite image security in comparison with singular value decomposition",
+        "authors": "K. V. Vaisnavi, P. R. Yaashikaa",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0173438"
+    },
+    {
+        "id": 19435,
+        "title": "A Hybrid CM-BEM Formulation for Solving Large-Scale 3D Eddy-Current Problems Based on ℋ-Matrices and Randomized Singular Value Decomposition for BEM Matrix Compression",
+        "authors": "Federico Moro, Lorenzo Codecasa",
+        "published": "2023-3-9",
+        "citations": 0,
+        "abstract": "We present a novel a,v-q hybrid method for solving large-scale time-harmonic eddy-current problems. This method combines a hybrid unsymmetric formulation based on the cell method and the boundary element method with a hierarchical matrix-compression technique based on randomized singular value decomposition. The main advantage is that the memory requirements are strongly reduced compared to the corresponding hybrid method without matrix compression while retaining the same robust solution strategy consisting of a simple construction of the preconditioner. In addition, the matrix-compression accuracy and efficiency are enhanced compared to traditional compression methods, such as adaptive cross approximation. The numerical results show that the proposed hybrid approach can also be effectively used to analyze large-scale eddy-current problems of engineering interest.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11061324"
+    },
+    {
+        "id": 19436,
+        "title": "Single-channel fetal ECG extraction method based on extended Kalman filtering with singular value decomposition algorithm",
+        "authors": "Smitha Bandi, V. B. S. Srilatha Indira Dutt",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08421-4"
+    },
+    {
+        "id": 19437,
+        "title": "Visual Quality Improvement of Watermarked Image Based on Singular Value Decomposition Using Walsh Hadamard Transform",
+        "authors": "Aris Marjuni, Ahmad Zainul Fanani, Oky Dwi Nurhayati",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "Abstract\nEmbedding the watermark is still a challenge in image watermarking. The watermark should not reduce the visual quality of the image being watermarked and hard to distinguish from its original. Embedding a watermark of a small size might be a good solution. However, the watermark might be easy to lose if there is any tampering with the watermarked image. This research proposes to increase the visual quality of the watermarked image using the Walsh Hadamard transform, which is applied to the singular value decomposition-based image watermarking. Technically, the watermark image is converted into a low bit-rate signal before being embedded in the host image. Using various watermark sizes, experimental results show that the proposed method could produce a good imperceptibility with 47.10 dB on average and also gives robustness close to the original watermark with a normalized correlation close to 1 on average. The proposed method can also recognize the original watermark from the tampered watermarked image at different levels of robustness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/cait-2023-0006"
+    },
+    {
+        "id": 19438,
+        "title": "Retracted: Using Factor Decomposition Machine Learning Method to Music Recommendation",
+        "authors": "",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9820718"
+    },
+    {
+        "id": 19439,
+        "title": "An Augmented Matrix-Based CJ-FEAST SVDsolver for Computing a Partial Singular Value Decomposition with the Singular Values in a Given Interval",
+        "authors": "Zhongxiao Jia, Kailiang Zhang",
+        "published": "2024-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/23m1547500"
+    },
+    {
+        "id": 19440,
+        "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
+        "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam, Asif Karim",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "AbstractThe automatic assessment of perceived image quality is crucial in the field of image processing. To achieve this idea, we propose an image quality assessment (IQA) method for blurriness. The features of gradient and singular value were extracted in this method instead of the single feature in the traditional IQA algorithms. According to the insufficient size of existing public image quality assessment datasets to support deep learning, machine learning was introduced to fuse the features of multiple domains, and a new no-reference (NR) IQA method for blurriness denoted Feature fusion IQA(Ffu-IQA) was proposed. The Ffu-IQA uses a probabilistic model to estimate the probability of each edge detection blur in the image, and then uses machine learning to aggregate the probability information to obtain the edge quality score. After that uses the singular value obtained by singular value decomposition of the image matrix to calculate the singular value score. Finally, machine learning pooling is used to obtain the true quality score. Ffu-IQA achieves PLCC scores of 0.9570 and 0.9616 on CSIQ and TID2013, respectively, and SROCC scores of 0.9380 and 0.9531, which are better than most traditional image quality assessment methods for blurriness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00138-024-01522-6"
+    },
+    {
+        "id": 19441,
+        "title": "LDA-VGHB: identifying potential lncRNA–disease associations with singular value decomposition, variational graph auto-encoder and heterogeneous Newton boosting machine",
+        "authors": "Lihong Peng, Liangliang Huang, Qiongli Su, Geng Tian, Min Chen, Guosheng Han",
+        "published": "2023-11-22",
+        "citations": 3,
+        "abstract": "Abstract\nLong noncoding RNAs (lncRNAs) participate in various biological processes and have close linkages with diseases. In vivo and in vitro experiments have validated many associations between lncRNAs and diseases. However, biological experiments are time-consuming and expensive. Here, we introduce LDA-VGHB, an lncRNA–disease association (LDA) identification framework, by incorporating feature extraction based on singular value decomposition and variational graph autoencoder and LDA classification based on heterogeneous Newton boosting machine. LDA-VGHB was compared with four classical LDA prediction methods (i.e. SDLDA, LDNFSGB, IPCARF and LDASR) and four popular boosting models (XGBoost, AdaBoost, CatBoost and LightGBM) under 5-fold cross-validations on lncRNAs, diseases, lncRNA–disease pairs and independent lncRNAs and independent diseases, respectively. It greatly outperformed the other methods with its prominent performance under four different cross-validations on the lncRNADisease and MNDR databases. We further investigated potential lncRNAs for lung cancer, breast cancer, colorectal cancer and kidney neoplasms and inferred the top 20 lncRNAs associated with them among all their unobserved lncRNAs. The results showed that most of the predicted top 20 lncRNAs have been verified by biomedical experiments provided by the Lnc2Cancer 3.0, lncRNADisease v2.0 and RNADisease databases as well as publications. We found that HAR1A, KCNQ1DN, ZFAT-AS1 and HAR1B could associate with lung cancer, breast cancer, colorectal cancer and kidney neoplasms, respectively. The results need further biological experimental validation. We foresee that LDA-VGHB was capable of identifying possible lncRNAs for complex diseases. LDA-VGHB is publicly available at https://github.com/plhhnu/LDA-VGHB.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bib/bbad466"
+    },
+    {
+        "id": 19442,
+        "title": "MSR17 Can Machine Learning Accurately Predict Payer Behavior?",
+        "authors": "K. Anstee, D. Muniandy",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2076"
+    },
+    {
+        "id": 19443,
+        "title": "Data-driven modal analysis of nonlinear quantities in turbulent plasmas using multi-field singular value decomposition",
+        "authors": "Go Yatomi, Motoki Nakata, Makoto Sasaki",
+        "published": "2023-9-1",
+        "citations": 1,
+        "abstract": "Abstract\nNonlinear dynamics in the two-dimensional multi-component plasma turbulence described by the Hasegawa–Wakatani equation is investigated by using a data-driven modal analysis with the singular value decomposition (SVD). The conventional SVD is extended to ‘multi-field SVD’ which can decompose multiple turbulence fields simultaneously by a single set of orthonormal basis functions without imposing a priori scale separations. Then, in addition to the mode amplitude labeled by the singular value, the information on the phase relations in the nonlinear quantities such as a transport flux or a triad energy transfer is extracted in the mode space. Through applications to the two-dimensional plasma turbulence, it is revealed that the multi-field SVD can extract the dominant spatial structures for the turbulent transport and the nonlinear energy transfer, preserving the multi-scale nature of the original turbulent fields. It is also demonstrated that one can reduce the dimensionality or information using the multi-field SVD through comparisons with the conventional Fourier decomposition.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6587/ace993"
+    },
+    {
+        "id": 19444,
+        "title": "Joint Improved Fast Independent Component Analysis and Singular Value Decomposition for Fetal Electrocardiogram Extraction",
+        "authors": "Tan Li, Lin Sun, Lei Zhao, Tongtong Wang, Bolin Xie",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "Combined the improved fast independent component analysis (FastICA) algorithm with the singular value decomposition algorithm, a single-channel fetal electrocardiogram (fECG) extraction method is proposed. First, the improved FastICA algorithm is used to estimate the maternal ECG component from a single-channel abdominal signal of pregnant women using an overrelaxation factor. Then, a preliminary estimate of the fECG signal is obtained by subtracting from the single-channel abdominal signal. Subsequently, the singular value decomposition algorithm is used to denoise the preliminarily estimated fECG signal to obtain a high signal-to-noise ratio. In addition, in the singular value decomposition algorithm for fetal arrhythmia, an improved method for constructing the ECG signal reconstruction matrix is proposed. Finally, the fECG extraction experiments on synthetic abdominal signals and actual abdominal signals (data from 49 abdominal channels sourced from DAISY database and the non-invasive fECG database in PhysioNet) are carried out. The experimental results show that the method in this paper can effectively improve the signal-to-noise ratio and the accuracy of fECG signal extraction, and is suitable for maternal or fetal arrhythmias. Compared with the FastICA algorithm, the signal-to-noise ratio of the fECG signal extracted by the method in this paper is improved by about 5 dB, and the accuracy of fECG extraction in the PhysioNet database can reach 96.54&#37;.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1615/critrevbiomedeng.2023046922"
+    },
+    {
+        "id": 19445,
+        "title": "Design Optimization of Combined Function Accelerator Magnet Using Truncated Singular Value Decomposition",
+        "authors": "M. Dhakarwal, M. Abe, T. Ogitsu, M. Sugano",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tasc.2023.3264957"
+    },
+    {
+        "id": 19446,
+        "title": "Analysis of a nonuniform guiding structure by the adaptive finite‐difference and singular value decomposition methods",
+        "authors": "Abdolshakoor Tamandani, Mohammad G. H. Alijani",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "AbstractThis paper presents a flexible finite‐difference technique for analyzing the nonuniform guiding structures. Because the voltage and current variations along the nonuniform structure differ for each segment, this work considers the adaptable discretization steps. This technique increases the accuracy of the final response. Moreover, by applying the singular value decomposition and discarding the nonprincipal singular values, an optimal lower rank approximation of the discretization matrix is obtained. The computational cost of the introduced method is significantly reduced using the optimal discretization matrix. Also, the proposed method can be extended to the nonuniform waveguides. The technique is verified by analyzing several practical transmission lines and waveguides with nonuniform profiles.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4218/etrij.2022-0076"
+    },
+    {
+        "id": 19447,
+        "title": "Weighted IMF-based denoising and multi-scale kurtosis weighted K singular value decomposition dictionary learning model for bearing fault diagnosis",
+        "authors": "Aiming Wang, Tingxi Gou, Wei Cui, Rui Xiao, Xingwei Wan, Tianle Han, Xueying Lan",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": " Generally, bearing early failure-induced impulses is weak and easily submerged by strong background noise. How to extract weak impulses is a big challenge. In this paper, based on the K Singular Value Decomposition (KSVD) algorithm, an improved dictionary learning model (WID-MSKW-KSVD) is proposed, which integrates a special denoising method and a multi-scale transformation into a typical dictionary learning model and it successfully overcomes two major shortcomings of traditional KSVD model including the lack of multi-scale learning process and the ability of dictionary atoms to resist strong noise interference. Furthermore, the kurtosis of the envelope spectrum is weighted into the proposed model as a fault matrix to enhance the fault feature. Finally, the feasibility of the proposed model is demonstrated by numerical simulation and practical experiments, and the superiority and reliability of this model in suppressing noise interference and extracting fault features are verified by comparison with other state-of-the-art methods. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10775463231205362"
+    },
+    {
+        "id": 19448,
+        "title": "Hybrid singular value decomposition based alpha trimmed mean-median filter in eliminating high density salt and pepper noise from grayscale image",
+        "authors": "Mohd Saifunnaim Mat Zain, Ahmad Kadri Junoh, Achmad Abdurrazzaq",
+        "published": "2024-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17902-5"
+    },
+    {
+        "id": 19449,
+        "title": "Singular Value Decomposition Based Pedestrian Trajectory Prediction",
+        "authors": "Heng Wang, Guijuan Zhang, Hong Liu, Dianjie Lu",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cscwd57460.2023.10152709"
+    },
+    {
+        "id": 19450,
+        "title": "A novel structure-preserving algorithm for the singular value decomposition of biquaternion matrices",
+        "authors": "Wenxv Ding, Anli Wei, Ying Li, Mingcui Zhang, Zhihong Liu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03081087.2024.2336191"
+    },
+    {
+        "id": 19451,
+        "title": "Vectorization of a Thread-Parallel Jacobi Singular Value Decomposition Method",
+        "authors": "Vedran Novaković",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/22m1478847"
+    },
+    {
+        "id": 19452,
+        "title": "A secure fractional-order polar harmonic transforms based image watermarking scheme using funk singular value decomposition",
+        "authors": "G. Thirugnanam, Jennathu Beevi Sahul Hameed, B. Bharathidasan",
+        "published": "2023-12-2",
+        "citations": 0,
+        "abstract": "In addition to existing cryptographic systems, watermarking technologies have been developed to add extra security. Digital watermarking utilizes embedding or hiding techniques to protect multimedia files from copyright violations. Fundamental procedures of digital watermarking techniques are embedding and extraction. Singular value decomposition (SVD) based Image watermarking schemes become popular owing to its better trade-off among robustness and imperceptibility. Nevertheless, false positive problem (FPP) is a major issue of SVD-based watermarking schemes. The singular value that is a fixed value and does not contain structural information about image is the primary cause of FPP problem. Therefore, Message Digest algorithm image watermarking scheme based on Funk Singular Value Decomposition and Fractional-Order Polar Harmonic Transform (FSVD-FOPHT) is proposed in this paper to address this problem. The MD-5 algorithm is used to extract data from the host and watermark imageries and then create secret key. The FSVD-FOPHT method is utilized to hide watermark information in host image. The secret keys are extracted from hided image using inverse process of Fractional-Order Polar Harmonic Transforms with Funk Singular Value Decomposition algorithm. By using the extraction procedure, watermark image is extracted, and then reconstructs original watermarked image. During extraction procedure, the secret key is used for authentication to address FPP. Then, the proposed method is implemented in MATLAB and performance is analyzed with evaluation metrics, such as Embedding capacity, MSE, PSNR, and NC. The proposed method provide 14.6%, 17.34%, 19.53%, 21.46% and 23.89% high PSNR for cold-snow-landscape-water test image, 14.29%, 16.47%, 18.39%, 20.16% and 21.93% high PSNR for landscape-nature-sky-blue Test image, 16.85%, 19.99%, 22.70%, 27.22% and 29.16% high Embedding Capacity for cold-snow-landscape-water test image 22.83%, 24.64%, 27.92%, 29.60% and 31.77% high Embedding Capacity for landscape-nature-sky-blue Test image 35.38%, 32.63%, 30.95%, 28.61% and 26.08% low extraction time compared with existing methods SVD-CMSF-SIW, FE-IWS-DNN, AR-IWS-DNN, BBET-SHA1-SIW and LSB-DWT-SIW respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-222182"
+    },
+    {
+        "id": 19453,
+        "title": "Robust estimation of synchronized spontaneous otoacoustic emission via singular value decomposition and optimal shrinkage",
+        "authors": "Hao-Ping Lin, Yi-Wen Liu",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "We investigate matrix signal processing techniques for estimating synchronized spontaneous otoacoustic emission (OAE) in noise. Responses to repeated clicks are first stored in a matrix, and singular value decomposition is either applied in the time domain or the frequency domain after constructing a Hankel matrix at every frequency. The singular values are subject to optimal shrinkage (OS) which maximizes the signal-to-noise ratio. Human OAE data were analyzed, and the Hankel matrix method outperforms the time-domain OS method in synchronized spontaneous otoacoustic emission estimation, but not in the estimation of transient-evoked otoacoustic emission. Reasons for the performance discrepancy are discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1121/10.0022336"
+    },
+    {
+        "id": 19454,
+        "title": "Seismic wavefield information extraction method based on adaptive local singular value decomposition",
+        "authors": "Jinsheng Jiang, Wencai Yang, Haoran Ren",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jappgeo.2023.104965"
+    },
+    {
+        "id": 19455,
+        "title": "Fixed-precision randomized quaternion singular value decomposition algorithm for low-rank quaternion matrix approximations",
+        "authors": "Yonghe Liu, Fengsheng Wu, Maolin Che, Chaoqian Li",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127490"
+    },
+    {
+        "id": 19456,
+        "title": "Iterative Decomposition Method for solving Singular differential, Singular integral and Singular integro-differential equations",
+        "authors": "Omotayo. A. TAIWO, Joshua O. OKORO",
+        "published": "2023-4-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/seb-sdg57117.2023.10124603"
+    },
+    {
+        "id": 19457,
+        "title": "An Application of a Relative Gain Array and Singular Value Decomposition for the Synthesis of Control Systems for Multivariable Processes",
+        "authors": "Ivan B. Tsekhmestruk, Roman L. Barashkin, Vladimir E. Popadko",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/scm58628.2023.10159045"
+    },
+    {
+        "id": 19458,
+        "title": "Acoustic Tomography of Temperature Field by Finite Element Method and Improved Singular Value Decomposition-Based Tikhonov Regularization",
+        "authors": "Haitao Zhang, Qiang Li, Liming Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3382130"
+    },
+    {
+        "id": 19459,
+        "title": "Analysis of fast and slow dynamics of chemical kinetics using singular value decomposition",
+        "authors": "J. Alvarez-Ramirez, M. Meraz, F. Martinez-Martinez",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11144-023-02379-y"
+    },
+    {
+        "id": 19460,
+        "title": "A complex structure-preserving algorithm for computing the singular value decomposition of a quaternion matrix and its applications",
+        "authors": "Dong Zhang, Tongsong Jiang, Chuan Jiang, Gang Wang",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11075-023-01571-4"
+    },
+    {
+        "id": 19461,
+        "title": "Weighted singular value decomposition basis of Szegő kernel and its applications to signal reconstruction and denoising",
+        "authors": "Wenhua Xu, Lihui Tan, Rongrong Lin",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cam.2023.115067"
+    },
+    {
+        "id": 19462,
+        "title": "Bridging efficacy and efficiency: Innovations in Shapley value estimation for model-agnostic data valuation in machine learning",
+        "authors": "Yilu Yang",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3027116"
+    },
+    {
+        "id": 19463,
+        "title": "HTA343 Machine Learning Prediction of Drug Overdoses Among Young People",
+        "authors": "L.L. Dai-Woodys",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2026"
+    },
+    {
+        "id": 19464,
+        "title": "Machine learning meets singular optics: speckle-based structured light demultiplexing",
+        "authors": "Venugopal Raskatla, Purnesh S. Badavath, Vijay Kumar",
+        "published": "2024-1-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3013401"
+    },
+    {
+        "id": 19465,
+        "title": "Value of Purchase Prediction using Machine Learning Algorithms",
+        "authors": "Fidelis Egbuna, Chukwuemeka Omerenna",
+        "published": "2024-2-24",
+        "citations": 0,
+        "abstract": "The aim is to analyze the sales of a supermarket as well as predict the impact of future sales on profit increase andcustomers satisfaction in the organization. The technique used for value of purchase is Linear Regression Algorithm,a widely acclaimed Algorithm in the field of Machine Learning. Linear Regression was compared with K- Nearest Neighbors Algorithm as well as with Gradient Descent and Random Forest. The actual data of the year, 2019, was compared to the predicted value and the accuracy of prediction calculated. The results testify to the trustworthiness and accuracy of the different prediction algorithms used. The study showed Random Forest as the best model with the prediction's highest accuracy. Random forests accuracy rate based on multiple decision trees and prediction taken from average output from various trees; generalized well and achieved a higher accuracy of 94% than other models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2024.140411"
+    },
+    {
+        "id": 19466,
+        "title": "Iris Biometric Watermarking for Authentication Using Multiband Discrete Wavelet Transform and Singular-Value Decomposition",
+        "authors": "S. Joyce, S. Veni",
+        "published": "2023-3-28",
+        "citations": 0,
+        "abstract": "The most advanced technology, watermarking enables intruders to access the database. Various techniques have been developed for information security. Watermarks and histories are linked to many biometric techniques such as fingerprints, palm positions, gait, iris and speech are recommended. Digital watermarking is the utmost successful approaches among the methods available. In this paper the multiband wavelet transforms and singular value decomposition are discussed to establish a watermarking strategy rather than biometric information. The use of biometrics instead of conservative watermarks can enhance information protection. The biometric technology being used is iris. The iris template can be viewed as a watermark, while an iris mode of communication may be used to help information security with the addition of a watermark to the image of the iris. The research involves verifying authentication against different attacks such as no attacks, Jpeg Compression, Gaussian, Median Filtering and Blurring. The Algorithm increases durability and resilience when exposed to geometric and frequency attacks. Finally, the proposed framework can be applied not only to the assessment of iris biometrics, but also to other areas where privacy is critical.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32985/ijeces.14.3.3"
+    },
+    {
+        "id": 19467,
+        "title": "A new robust bootstrapped singular value decomposition algorithm using the sample myriad estimate",
+        "authors": "Chisimkwuo John, Emmanuel J. Ekpenyong, Charles Chinedu Nworu, Chukwuemeka O. Omekara",
+        "published": "2023-9-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41060-023-00444-2"
+    },
+    {
+        "id": 19468,
+        "title": "Recurrent Forecasting in Singular Spectrum Decomposition",
+        "authors": "Maryam Movahedifar, Hossein Hassani, Mahdi Kalantari",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023039068"
+    },
+    {
+        "id": 19469,
+        "title": "Reduced-order modeling of solid-liquid mixing in a stirred tank using data-driven singular value decomposition",
+        "authors": "Yu Jiang, Edmond Byrne, Jarka Glassey, Xizhong Chen",
+        "published": "2023-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cherd.2023.06.019"
+    },
+    {
+        "id": 19470,
+        "title": "ECG Signal Extraction Method Based on Singular Value Selection and Wavelet",
+        "authors": "Fuyu Luo, Xue Han, Zihao Zhang, Ruigang Li, Huixi Wang, Fanrong Kong",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/prmvia58252.2023.00052"
+    },
+    {
+        "id": 19471,
+        "title": "COMBINED MACHINE LEARNING AND DECOMPOSITION MODELS BY PREDICTING URBAN WATER CONSUMPTION IN CURITIBA",
+        "authors": "Wilton Brayner",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-2036"
+    },
+    {
+        "id": 19472,
+        "title": "Using singular value decomposition to study near electromagnetic field of the 3D through silicon via array with high aspect ratio",
+        "authors": "Song-En Chen, Chih-Chung Wang, Jia-Han Li",
+        "published": "2023-8-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2673676"
+    },
+    {
+        "id": 19473,
+        "title": "Convex Robust Recovery of Corrupted Tensors via Tensor Singular Value Decomposition and Local Low-Rank Approximation",
+        "authors": "Yuanxiang Jiang, Qixiang Zhang, Zhanjiang Yuan, Chen Wang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Abstract\nThis paper discusses the recovery of tensor data corrupted by random noise. Our approach assumes that the potential structure of data is a linear combination of several low-rank tensor subspaces. The goal is to recover exactly these local low-rank tensors and remove random noise as much as possible. Non-parametric kernel smoothing technique is employed to establish an effective mathematical notion of local models. After that, each local model can be robustly separated into a low-rank tensor and a sparse tensor. The low-rank tensor can be recovered by minimizing a weighted combination of the norm and the tensor nuclear norm (TNN) obtained as the tightest convex relaxation of tensor multi-linear rank defined in Tensor Singular Value Decomposition (TSVD). Numerical simulation experiments verify that our proposed approach can effectively denoise the tensor data such as color images with random noise and has superior performance compared to the existing methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2670/1/012026"
+    },
+    {
+        "id": 19474,
+        "title": "An approximate tensor singular value decomposition approach for the fast grouping of whole-body human poses",
+        "authors": "M.S. Subodh Raj, Sudhish N. George",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103960"
+    },
+    {
+        "id": 19475,
+        "title": "A hybrid domain-based watermarking for vector maps utilizing a complementary advantage of discrete fourier transform and singular value decomposition",
+        "authors": "Chengyi Qu, Jinglong Du, Xu Xi, Huimin Tian, Jie Zhang",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cageo.2023.105515"
+    },
+    {
+        "id": 19476,
+        "title": "Vehicle scanning-based enhanced modal identification of a bridge using singular value decomposition",
+        "authors": "K Lakshmi, Appala Srinivas, A K Farvaze Ahmed",
+        "published": "2024-4-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12046-024-02466-3"
+    },
+    {
+        "id": 19477,
+        "title": "Separating seismic diffractions by an improved Cook-distance singular value decomposition method",
+        "authors": "Zongnan Chen, Jingtao Zhao, Suping Peng, Tongjie Sheng",
+        "published": "2023-1-1",
+        "citations": 2,
+        "abstract": " When seismic waves encounter abrupt points of stratum or lithology in the process of propagation, such as fault edges, pinch-out points, or the protrusion of unconformity surfaces, the Snell law will break down and many diffractions will be generated. However, the diffraction information is typically masked by strong reflections; thus, separating diffractions is one key issue for diffraction imaging. The traditional singular value decomposition (SVD) method with the ability for wavefield decomposition and reconstruction is useful in removing strong reflections of large singular values. However, the continuously changing characteristics of the singular value of steep-slope reflections make it difficult to choose a suitable parameter for separating diffractions. To solve the problem of singular value selection in diffractions reconstruction by the SVD method, we have developed a Cook-distance SVD method by mathematically least-squares measuring the contribution of every singular value. The Cook-distance SVD can amplify the difference between continuously changing singular values and easily find the singular values representing diffractions. Synthetic examples and field data applications demonstrate that our Cook-distance SVD method can avoid parameter testing and has good performance in diffraction separation and can highlight reservoir-involved small-scale geologic edges and scatterers. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2022-0284.1"
+    },
+    {
+        "id": 19478,
+        "title": "Ultrasonic defect detection of high-density polyethylene pipe materials using FIR filtering and block-wise singular value decomposition",
+        "authors": "Jing Rao, Liang Zeng, Menglong Liu, Hailing Fu",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ultras.2023.107088"
+    },
+    {
+        "id": 19479,
+        "title": "A masking-based federated singular value decomposition method for anomaly detection in industrial internet of things",
+        "authors": "Olena Hordiichuk Bublivska, Halyna Beshley, Natalia Kryvinska, Mykola Beshley",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijwgs.2023.133502"
+    },
+    {
+        "id": 19480,
+        "title": "High-Precision On-Board Capacity Estimation of Lithium-Ion Cells Using a Fractional-Order Cell Model and Singular Value Decomposition",
+        "authors": "Yassine Bensaad, Fabian Friedrichs, Thorsten Baumhöfer, Judith Bähr, Alexander Fill, Kai Peter Birke",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vppc60535.2023.10403222"
+    },
+    {
+        "id": 19481,
+        "title": "Quaternion tensor singular value decomposition using a flexible transform-based approach",
+        "authors": "Jifei Miao, Kit Ian Kou",
+        "published": "2023-5",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2022.108910"
+    },
+    {
+        "id": 19482,
+        "title": "A new image/video encryption scheme based on fractional discrete Tchebichef transform and singular value decomposition",
+        "authors": "Omar El Ogri, Hicham Karmouni, Mhamed Sayyouri, Hassan Qjidaa",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-14573-0"
+    },
+    {
+        "id": 19483,
+        "title": "Improving the Calibration by Power Balancing in Truncated Singular Value Decomposition for Wide-Band Scattering Parameter Data",
+        "authors": "Semih Doğu,  ",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5152/electrica.2024.23089"
+    },
+    {
+        "id": 19484,
+        "title": "A masking-based federated singular value decomposition method for anomaly detection in industrial internet of things",
+        "authors": "Natalia Kryvinska, Mykola Beshley, Olena Hordiichuk Bublivska, Halyna Beshley",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijwgs.2023.10059066"
+    },
+    {
+        "id": 19485,
+        "title": "SA28 Review of Machine Learning Based Disease Diagnosis Modeling",
+        "authors": "O. Baser, F. Mete, E. Baser",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.2244"
+    },
+    {
+        "id": 19486,
+        "title": "A solar irradiance prediction method based on signal decomposition and Informer",
+        "authors": "Zhiwu Xu",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424737"
+    },
+    {
+        "id": 19487,
+        "title": "Color ghost imaging based on optimized random speckles and truncated singular value decomposition",
+        "authors": "Liu-Ya Chen, Yi-Ning Zhao, Lin-Shan Chen, Chong Wang, Cheng Ren, De-Zhong Cao",
+        "published": "2024-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.optlastec.2023.110007"
+    },
+    {
+        "id": 19488,
+        "title": "An Estimator for Aircraft Actuator Characteristics Using Singular Value Decomposition",
+        "authors": "Felix Larsson, Ludvig Knöös Franzén, Christopher Reichenwallner, Alessandro Dell’Amico",
+        "published": "2023-3-23",
+        "citations": 0,
+        "abstract": "This paper illustrates how a Singular Value Decomposition (SVD) and regression analyses can be used to create estimation models for aircraft actuator components by use of industrial data. The estimation models are at the end used to show how an electromechanical actuator´s weight and size will evolve with respect to output force. An essential step in the early design of aircraft is to be able to predict the weight and size of a resulting concept. This weight and size typically include contributions of main components such as wing and fuselage. Weight and size estimations at this stage can also range down to components at a sub-system level, for example, the aircraft actuators. The weight and size of an actuator depends on many parameters, and it is desirable to understand any underlying relationship to make qualified estimations of an actuator’s characteristics. However, the knowledge about a design is often limited at an early design stage and the required information is not always available. Consequently, estimations must be made from limited information and desired properties of the actuator. One way to approach this problem is to use SVD. An SVD analysis determines the most influential parameters in a data set and uses these to create an estimation model that only requires a few inputs for estimating the remaining parameters in the data set. An SVD can thereby be used for both identifying the driving parameters in a statistical dataset of existing solutions and to estimate the characteristics of new designs to be developed. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3384/ecp196004"
+    },
+    {
+        "id": 19489,
+        "title": "MSR102 Advancing Causal Inference With Machine Learning and Real-World Data: An Application of Targeted Machine Learning and Super Learners on Hospital-Acquired Pressure Injuries From MIMIC IV",
+        "authors": "A. Wilson, M. Gregg, E. Streja, J. Alderden, J. Vanderpuye-Orgle, M. Roessner",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.09.2161"
+    },
+    {
+        "id": 19490,
+        "title": "Singular Value Decomposition Method: Application to Design of Observer-Based Control for Uncertain Atangana-Baleanu-Caputo Fractional-Order One-Sided Lipschitz Nonlinear Systems",
+        "authors": "Duong Thi Hong",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5890/dnc.2024.06.015"
+    },
+    {
+        "id": 19491,
+        "title": "Privacy-Preserving Federated Singular Value Decomposition",
+        "authors": "Bowen Liu, Balázs Pejó, Qiang Tang",
+        "published": "2023-6-21",
+        "citations": 2,
+        "abstract": "Singular value decomposition (SVD) is a fundamental technique widely used in various applications, such as recommendation systems and principal component analyses. In recent years, the need for privacy-preserving computations has been increasing constantly, which concerns SVD as well. Federated SVD has emerged as a promising approach that enables collaborative SVD computation without sharing raw data. However, existing federated approaches still need improvements regarding privacy guarantees and utility preservation. This paper moves a step further towards these directions: we propose two enhanced federated SVD schemes focusing on utility and privacy, respectively. Using a recommendation system use-case with real-world data, we demonstrate that our schemes outperform the state-of-the-art federated SVD solution. Our utility-enhanced scheme (utilizing secure aggregation) improves the final utility and the convergence speed by more than 2.5 times compared with the existing state-of-the-art approach. In contrast, our privacy-enhancing scheme (utilizing differential privacy) provides more robust privacy protection while improving the same aspect by more than 25%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13137373"
+    },
+    {
+        "id": 19492,
+        "title": "Enhancing Scene Text Segmentation through Subtask Decomposition",
+        "authors": "Yong Wang, Youguang Chen",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424830"
+    },
+    {
+        "id": 19493,
+        "title": "A novel joint denoising method for gear fault diagnosis with improved quaternion singular value decomposition",
+        "authors": "Yanli Ma, Junsheng Cheng",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2024.114165"
+    },
+    {
+        "id": 19494,
+        "title": "99m-Tc TRODAT single-photon emission computerized tomography scan image compression using singular value decomposition",
+        "authors": "AnilKumar Pandey, Jagrati Chaudhary, Angel Hemrom, ParamDev Sharma, Chetan Patel, Rakesh Kumar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4103/ijnm.ijnm_84_22"
+    },
+    {
+        "id": 19495,
+        "title": "Research on singular value decomposition denoising algorithm based on a genetic algorithm and FFT and its application",
+        "authors": "Zheng Li, Bo Hou, Yuchen Cai, Sheng Zhou, Yuanqin Yu, Jingsong Li",
+        "published": "2023-4-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2662881"
+    },
+    {
+        "id": 19496,
+        "title": "Singular value decomposition for longitudinal, transverse and mixed ray transforms of 2D tensor fields",
+        "authors": "Anna P Polyakova, Ivan E Svetov",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "Abstract\nThe operators of longitudinal, transverse and mixed ray transforms acting on two-dimensional symmetric tensor fields of arbitrary degree m in an unit disk are considered in the article. The singular value decompositions of the operators for a parallel scheme of data acquisition are constructed. Orthogonal bases in original spaces and image spaces are constructed using harmonic, Jacobi and Gegenbauer polynomials. Based on the obtained decompositions the polynomial expressions for the (pseudo)inverse and adjoint operators are obtained.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6420/acf155"
+    },
+    {
+        "id": 19497,
+        "title": "Optical double-image cryptosystem based on generalized singular value decomposition and five-dimensional hyperchaotic maps",
+        "authors": "Liao Zhang, Chen Tang, Yuxin Shen, Rui Han",
+        "published": "2023-1-20",
+        "citations": 4,
+        "abstract": "In this paper, we propose an asymmetric optical double-image cryptosystem based on generalized singular value decomposition (GSVD) and five-dimensional (5D) hyperchaotic maps. In the proposed cryptosystem, the two plain images are first decomposed into five components by the GSVD operation. The two unitary matrices obtained by GSVD are encoded as a complex function, which is then modulated by the chaotic random phase masks (CRPMs). The private key and the final encryption result are generated by phase-truncation and amplitude-truncation operations. The GSVD operation can decompose two images at the same time and is used to generate the private key that enables the encryption process to be asymmetric. Compared with the existing phase-truncated-based cryptosystems, our cryptosystem can improve security against a special attack. In addition, the CRPMs are generated by 5D hyperchaotic maps, which have a larger parameter space and better randomness. Numerical simulation results are shown to verify the feasibility and robustness of our cryptosystem. Furthermore, the proposed cryptosystem can be extended to encrypt multiple images conveniently.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1364/ao.476236"
+    },
+    {
+        "id": 19498,
+        "title": "Federated singular value decomposition for high-dimensional data",
+        "authors": "Anne Hartebrodt, Richard Röttger, David B. Blumenthal",
+        "published": "2023-10-26",
+        "citations": 3,
+        "abstract": "AbstractFederated learning (FL) is emerging as a privacy-aware alternative to classical cloud-based machine learning. In FL, the sensitive data remains in data silos and only aggregated parameters are exchanged. Hospitals and research institutions which are not willing to share their data can join a federated study without breaching confidentiality. In addition to the extreme sensitivity of biomedical data, the high dimensionality poses a challenge in the context of federated genome-wide association studies (GWAS). In this article, we present a federated singular value decomposition algorithm, suitable for the privacy-related and computational requirements of GWAS. Notably, the algorithm has a transmission cost independent of the number of samples and is only weakly dependent on the number of features, because the singular vectors corresponding to the samples are never exchanged and the vectors associated with the features are only transmitted to an aggregator for a fixed number of iterations. Although motivated by GWAS, the algorithm is generically applicable for both horizontally and vertically partitioned data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10618-023-00983-z"
+    },
+    {
+        "id": 19499,
+        "title": "High-Quality Evaluation for Invisible Watermarking Based on Discrete Cosine Transform (DCT) and Singular Value Decomposition (SVD)",
+        "authors": "Ega Adiasa Sofyan, Christy Atika Sari, Eko Hari Rachmawanto, Nur Ryan Dwi Cahyo",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": ". In this research, we propose an innovative approach that integrates Discrete Cosine Transform (DCT) and Singular Value Decomposition (SVD) to enhance the quality and security of digital images. The purpose of this technique is to embed imperceptible watermarks into images, preserving their integrity and authenticity. The integration of DCT allows for an efficient transformation of image data into frequency components, forming the basis for embedding watermarks that are nearly invisible to the human eye. In this context, SVD offers an advantage by separating singular values and corresponding vectors, facilitating a more sophisticated watermarking process. The quality evaluation using metrics such as MSE, PSNR, UQI, and MSSIM demonstrates the effectiveness of this approach. Low average MSE values, ranging from 0.0058 to 0.0064, indicate minimal distortion in the watermarked images. Additionally, high PSNR values, ranging from 67.20 dB to 67.22 dB, affirm the high image quality achieved after watermarking. These results validate that the integration of DCT and SVD provides a high level of security while maintaining optimal visual quality in digital images. This approach is highly relevant and effective in addressing the challenges of image protection in this digital era.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26877/asset.v6i1.17186"
+    },
+    {
+        "id": 19500,
+        "title": "Singular value decomposition entropy of the standing matrix for quantifying competitiveness of soccer leagues",
+        "authors": "E.J. Vernon-Carter, J.A. Ochoa-Tapia, J. Alvarez-Ramirez",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.physa.2023.129007"
+    },
+    {
+        "id": 19501,
+        "title": "Singular Value Decomposition of the Wave Forward Operator with Radial Variable Coefficients",
+        "authors": "Minam Moon, Injo Hur, Sunghwan Moon",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/22m1511643"
+    },
+    {
+        "id": 19502,
+        "title": "Low resolution face image adaptive recognition method based on high order singular value decomposition and DNN model",
+        "authors": "Yingchun Du, Tingting Hou, Yongxin Zhang, Chao Wu, Xiao Wang",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3011419"
+    },
+    {
+        "id": 19503,
+        "title": "A screen-shooting resilient data-hiding algorithm based on two-level singular value decomposition",
+        "authors": "Bin Ma, Kaixin Du, Jian Xu, Chunpeng Wang, Jian Li, Linna Zhou",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jisa.2023.103605"
+    },
+    {
+        "id": 19504,
+        "title": "Extraction of pipeline defect feature based on variational mode and optimal singular value decomposition",
+        "authors": "Min Zhang, Yan-Bao Guo, Zheng Zhang, Ren-Bi He, De-Guo Wang, Jin-Zhong Chen, Tie Yin",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.petsci.2022.11.007"
+    }
+]

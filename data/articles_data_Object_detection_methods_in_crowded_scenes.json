@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 27305,
+        "title": "A Component for Query-based Object Detection in Crowded Scenes",
+        "authors": "Shuo Mao",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3590003.3590039"
+    },
+    {
+        "id": 27306,
+        "title": "Multiple object tracking with behavior detection in crowded scenes using deep learning",
+        "authors": "Aparna Gullapelly, Barnali Gupta Banik",
+        "published": "2023-3-9",
+        "citations": 0,
+        "abstract": "Multi-object tracking (MOT) is essential for solving the majority of computer vision issues related to crowd analytics. In an MOT system designing object detection and association are the two main steps. Every frame of the video stream is examined to find the desired objects in the first step. Their trajectories are determined in the second step by comparing the detected objects in the current frame to those in the previous frame. Less missing detections are made possible by an object detection system with high accuracy, which results in fewer segmented tracks. We propose a new deep learning-based model for improving the performance of object detection and object tracking in this research. First, object detection is performed by using the adaptive Mask-RCNN model. After that, the ResNet-50 model is used to extract more reliable and significant features of the objects. Then the effective adaptive feature channel selection method is employed for selecting feature channels to determine the final response map. Finally, an adaptive combination kernel correlation filter is used for multiple object tracking. Extensive experiments were conducted on large object-tracking databases like MOT-20 and KITTI-MOTS. According to the experimental results, the proposed tracker performs better than other cutting-edge trackers when faced with various problems. The experimental simulation is carried out in python. The overall success rate and precision of the proposed algorithm are 95.36% and 93.27%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-223516"
+    },
+    {
+        "id": 27307,
+        "title": "Swin-JDE: Joint Detection and Embedding Multi-Object Tracking in Crowded Scenes Based on Swin-Transformer",
+        "authors": "Chi-Yi Tsai, Guan-Yu Shen, Humaira Nisar",
+        "published": "2023-3",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2022.105770"
+    },
+    {
+        "id": 27308,
+        "title": "Human Detection in Crowded Scenes Using Hybrid ResNet",
+        "authors": "Bandar M. Alghamdi",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscna58489.2023.10370582"
+    },
+    {
+        "id": 27309,
+        "title": "Knowledge-Aware Object Detection in Traffic Scenes",
+        "authors": "Jean-Francois Nies, Syed Tahseen Raza Rizvi, Mohsin Munir, Ludger Elst, Andreas Dengel",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012378100003636"
+    },
+    {
+        "id": 27310,
+        "title": "Recurrent DETR: Transformer-Based Object Detection for Crowded Scenes",
+        "authors": "Hyeong Kyu Choi, Chong Keun Paik, Hyun Woo Ko, Min-Chul Park, Hyunwoo J. Kim",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3293532"
+    },
+    {
+        "id": 27311,
+        "title": "CSMOT: Make One-Shot Multi-Object Tracking in Crowded Scenes Great Again",
+        "authors": "Haoxiong Hou, Chao Shen, Ximing Zhang, Wei Gao",
+        "published": "2023-4-6",
+        "citations": 0,
+        "abstract": "The current popular one-shot multi-object tracking (MOT) algorithms are dominated by the joint detection and embedding paradigm, which have high inference speeds and accuracy, but their tracking performance is unstable in crowded scenes. Not only does the detection branch have difficulty in obtaining the accurate object position, but the ambiguous appearance of features extracted by the re-identification (re-ID) branch also leads to identity switches. Focusing on the above problems, this paper proposes a more robust MOT algorithm, named CSMOT, based on FairMOT. First, on the basis of the encoder–decoder network, a coordinate attention module is designed to enhance the information interaction between channels (horizontal and vertical coordinates), which improves its object-detection abilities. Then, an angle-center loss that effectively maximizes intra-class similarity is proposed to optimize the re-ID branch, and the extracted re-ID features are made more discriminative. We further redesign the re-ID feature dimension to balance the detection and re-ID tasks. Finally, a simple and effective data association mechanism is introduced, which associates each detection instead of just the high-score detections during the tracking process. The experimental results show that our one-shot MOT algorithm achieves excellent tracking performance on multiple public datasets and can be effectively applied to crowded scenes. In particular, CSMOT decreases the number of ID switches by 11.8% and 33.8% on the MOT16 and MOT17 test datasets, respectively, compared to the baseline.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23073782"
+    },
+    {
+        "id": 27312,
+        "title": "A General Context Learning and Reasoning Framework for Object Detection in Urban Scenes",
+        "authors": "Xuan Wang, Hao Tang, Zhigang Zhu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011637600003417"
+    },
+    {
+        "id": 27313,
+        "title": "Object detection in crowded scenes via joint prediction",
+        "authors": "Hong-hui Xu, Xin-qing Wang, Dong Wang, Bao-guo Duan, Ting Rui",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dt.2021.10.007"
+    },
+    {
+        "id": 27314,
+        "title": "Crowded people detection for occluded classroom surveillance scenes based on relation model",
+        "authors": "Yuping Li, Fengqin Yao, Xuan Guo, Shengke Wang",
+        "published": "2023-6-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2680205"
+    },
+    {
+        "id": 27315,
+        "title": "Real-Time High-Resolution Pedestrian Detection in Crowded Scenes via Parallel Edge Offloading",
+        "authors": "Hao Wang, Hao Bao, Liekang Zeng, Ke Luo, Xu Chen",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10278678"
+    },
+    {
+        "id": 27316,
+        "title": "A Super-Resolution Method for Small Object Detection in Road Scenes",
+        "authors": "Zida Song, Zhengfa Liu",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarm58088.2023.10218750"
+    },
+    {
+        "id": 27317,
+        "title": "Chronological ant lion optimizer-based deep convolutional neural network for panic behavior detection in crowded scenes",
+        "authors": "Juginder Pal Singh, Manoj Kumar",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-14598-5"
+    },
+    {
+        "id": 27318,
+        "title": "Real-Time 3D Object Detection on Crowded Pedestrians",
+        "authors": "Bin Lu, Qing Li, Yanju Liang",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "In the field of autonomous driving, object detection under point clouds is indispensable for environmental perception. In order to achieve the goal of reducing blind spots in perception, many autonomous driving schemes have added low-cost blind-filling LiDAR on the side of the vehicle. Unlike point cloud target detection based on high-performance LiDAR, the blind-filling LiDARs have low vertical angular resolution and are mounted on the side of the vehicle, resulting in easily mixed point clouds of pedestrian targets in close proximity to each other. These characteristics are harmful for target detection. Currently, many research works focus on target detection under high-density LiDAR. These methods cannot effectively deal with the high sparsity of the point clouds, and the recall and detection accuracy of crowded pedestrian targets tend to be low. To overcome these problems, we propose a real-time detection model for crowded pedestrian targets, namely RTCP. To improve computational efficiency, we utilize an attention-based point sampling method to reduce the redundancy of the point clouds, then we obtain new feature tensors by the quantization of the point cloud space and neighborhood fusion in polar coordinates. In order to make it easier for the model to focus on the center position of the target, we propose an object alignment attention module (OAA) for position alignment, and we utilize an additional branch of the targets’ location occupied heatmap to guide the training of the OAA module. These methods improve the model’s robustness against the occlusion of crowded pedestrian targets. Finally, we evaluate the detector on KITTI, JRDB, and our own blind-filling LiDAR dataset, and our algorithm achieved the best trade-off of detection accuracy against runtime efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23218725"
+    },
+    {
+        "id": 27319,
+        "title": "Improving Crowded Object Detection via Copy-Paste",
+        "authors": "Jiangfan Deng, Dewen Fan, Xiaosong Qiu, Feng Zhou",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "Crowdedness caused by overlapping among similar objects is a ubiquitous challenge in the field of 2D visual object detection. In this paper, we first underline two main effects of the crowdedness issue: 1) IoU-confidence correlation disturbances (ICD) and 2) confused de-duplication (CDD). Then we explore a pathway of cracking these nuts from the perspective of data augmentation. Primarily, a particular copy- paste scheme is proposed towards making crowded scenes. Based on this operation, we first design a \"consensus learning\" method to further resist the ICD problem and then find out the pasting process naturally reveals a pseudo \"depth\" of object in the scene, which can be potentially used for alleviating CDD dilemma. Both methods are derived from magical using of the copy-pasting without extra cost for hand-labeling. Experiments show that our approach can easily improve the state-of-the-art detector in typical crowded detection task by more than 2% without any bells and whistles. Moreover, this work can outperform existing data augmentation strategies in crowded scenario.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i1.25124"
+    },
+    {
+        "id": 27320,
+        "title": "Surveillance detection of anomalous activities with optimized deep learning technique in crowded scenes",
+        "authors": "Omobayo Ayokunle Esan, Dorcas Oladayo Esan, Munienge Mbodila, Femi Abiodun Elegbeleye, Kesewaa Koranteng",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "The performance of conventional surveillance systems is challenged by high error detection rates in busy scenes, which has significantly affected the accurate detection of the current surveillance system. Feature representation and object pattern extraction from different scenes have made deep learning (DL) promising methods in surveillance systems, compared to the approaches where features are created manually. To improve the detection accuracy, this paper presents an intelligent DL technique that combines convolutional neural network (CNN) and long short-term memory (LSTM). CNN extracts and learns the object features from a set of raw images, while the LSTM is then used by gated mechanisms to store important information from the extracted features. The proposed method was validated using datasets from the University of California San Diego (UCSD). The result shows that the model achieves 95% accuracy, which is superior compared to other conventional detection models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/eei.v12i3.4471"
+    },
+    {
+        "id": 27321,
+        "title": "Dynamic Adoptive Gaussian Mixture Model for Multi-Object Detection Over Natural Scenes",
+        "authors": "Muhammad Waqas Ahmed, Ahmad Jalal",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacs60934.2024.10473231"
+    },
+    {
+        "id": 27322,
+        "title": "Improving Multiple Pedestrian Tracking in Crowded Scenes with Hierarchical Association",
+        "authors": "Changcheng Xiao, Zhigang Luo",
+        "published": "2023-2-19",
+        "citations": 2,
+        "abstract": "Recently, advances in detection and re-identification techniques have significantly boosted tracking-by-detection-based multi-pedestrian tracking (MPT) methods and made MPT a great success in most easy scenes. Several very recent works point out that the two-step scheme of first detection and then tracking is problematic and propose using the bounding box regression head of an object detector to realize data association. In this tracking-by-regression paradigm, the regressor directly predicts each pedestrian’s location in the current frame according to its previous position. However, when the scene is crowded and pedestrians are close to each other, the small and partially occluded targets are easily missed. In this paper, we follow this pattern and design a hierarchical association strategy to obtain better performance in crowded scenes. To be specific, at the first association, the regressor is used to estimate the positions of obvious pedestrians. At the second association, we employ a history-aware mask to filter out the already occupied regions implicitly and look carefully at the remaining regions to find out the ignored pedestrians during the first association. We integrate the hierarchical association in a learning framework and directly infer the occluded and small pedestrians in an end-to-end way. We conduct extensive pedestrian tracking experiments on three public pedestrian tracking benchmarks from less crowded to crowded scenes, demonstrating the proposed strategy’s effectiveness in crowded scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e25020380"
+    },
+    {
+        "id": 27323,
+        "title": "R-YOLOv5: A Lightweight Rotational Object Detection Algorithm for Real-Time Detection of Vehicles in Dense Scenes",
+        "authors": "Zhengwei Li, Chengxin Pang, Chenhang Dong, Xinhua Zeng",
+        "published": "2023",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3262601"
+    },
+    {
+        "id": 27324,
+        "title": "A neural learning approach for simultaneous object detection and grasp detection in cluttered scenes",
+        "authors": "Yang Zhang, Lihua Xie, Yuheng Li, Yuan Li",
+        "published": "2023-2-20",
+        "citations": 4,
+        "abstract": "Object detection and grasp detection are essential for unmanned systems working in cluttered real-world environments. Detecting grasp configurations for each object in the scene would enable reasoning manipulations. However, finding the relationships between objects and grasp configurations is still a challenging problem. To achieve this, we propose a novel neural learning approach, namely SOGD, to predict a best grasp configuration for each detected objects from an RGB-D image. The cluttered background is first filtered out via a 3D-plane-based approach. Then two separate branches are designed to detect objects and grasp candidates, respectively. The relationship between object proposals and grasp candidates are learned by an additional alignment module. A series of experiments are conducted on two public datasets (Cornell Grasp Dataset and Jacquard Dataset) and the results demonstrate the superior performance of our SOGD against SOTA methods in predicting reasonable grasp configurations “from a cluttered scene.”",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fncom.2023.1110889"
+    },
+    {
+        "id": 27325,
+        "title": "Towards better small object detection in UAV scenes: Aggregating more object-oriented information",
+        "authors": "Chenyue Yang, Yichao Cao, Xiaobo Lu",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2024.04.002"
+    },
+    {
+        "id": 27326,
+        "title": "Novel Scenes &amp; Classes: Towards Adaptive Open-set Object Detection",
+        "authors": "Wuyang Li, Xiaoqing Guo, Yixuan Yuan",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01446"
+    },
+    {
+        "id": 27327,
+        "title": "CRNet: Combining CenterNet and R-CNN for Object Detection in Traffic Scenes",
+        "authors": "Zeyu Cui, Jun Yu",
+        "published": "2023-7-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnc-fskd59587.2023.10281000"
+    },
+    {
+        "id": 27328,
+        "title": "Human Group Clustering in a Crowded Public Place Using Multiple Object Detection and Tracking",
+        "authors": "Donggoo Kang, Yeongheon Mok, Yeongjoon Kim, Sunkyu Kwon, Joonki Paik",
+        "published": "2023-2-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceic57457.2023.10049978"
+    },
+    {
+        "id": 27329,
+        "title": "YOLO V5-MAX: A Multi-object Detection Algorithm in Complex Scenes",
+        "authors": "Xingkun Li, Guangyu Tian, Zhenghong Lu, Guojun Zhang",
+        "published": "2023-5-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icps58381.2023.10128009"
+    },
+    {
+        "id": 27330,
+        "title": "Object-based Classification of Natural Scenes Using Machine Learning Methods",
+        "authors": "Mohammed Saaduldeen Jasim, Mohammed Chachan Younis",
+        "published": "2023-2-8",
+        "citations": 0,
+        "abstract": "The replication of human intellectual processes by machines, particularly computer systems, is known as artificial intelligence (AI). AI is an intelligent tool that is utilized across sectors to improve decision making, increase productivity, and eliminate repetitive tasks. Machine learning (ML) is a key component of AI since it includes understanding and developing ways that can learn or improve performance on tasks. For the last decade, ML has been applied in computer vision (CV) applications. In computer vision, systems and computers extract meaningful data from digital videos, photos, and other visual sources and use that information to conduct actions or make suggestions. In this work, we have solved the image segmentation problem for the natural images to segment out water, land, and sky. Instead of applying image segmentation directly to the images, images are pre-processed, and statistical and textural features are then passed through a neural network for the pixel-wise semantic segmentation of the images. We chose the 5X5 window over the pixel-by-pixel technique since it requires less resources and time for training and testing.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47577/technium.v6i.8286"
+    },
+    {
+        "id": 27331,
+        "title": "Research on pedestrian object detection algorithm in urban road scenes based on improved YOLOv5",
+        "authors": "Zhaohui Liu, Xiao Wang",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "Pedestrians have random distribution and dynamic characteristics. Aiming to this problem, this paper proposes a pedestrian object detection method based on improved YOLOv5 in urban road scenes. Firstly, the last C3 module was replaced in the Backbone with the SE attention mechanism to enhance the network’s extraction of pedestrian object features and improve the detection accuracy of small-scale pedestrians. Secondly, the EIOU loss function was introduced to optimize the object detection performance of the detection network. To validate the effectiveness of the algorithm, experiments were conducted on a dataset composed of filtered Caltech pedestrian detection data and images taken by ourselves. The experiments showed that the improved algorithm has P-value, R-value, and mAP of 98.4%, 95.5%, and 98%, respectively. Compared to the YOLOv5 model, it has increased P-value by 1.4%, R-value by 2.7%, and mAP by 1.3%. The improved algorithm also boosts the detection speed. The detection speed is 0.8 ms faster than the YOLOv5 model. It is also faster than other mainstream algorithms including Faster R-CNN and SSD. The improved algorithm enhances the effectiveness of pedestrian detection significantly and has important application value.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-240537"
+    },
+    {
+        "id": 27332,
+        "title": "SF-YOLO: RGB-T Fusion Object Detection in UAV Scenes",
+        "authors": "Shoulong Zhang, Ting Xie, Yiqi Wang, Yingying Liu, Yuling Dou, Shengke Wang",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icivc58118.2023.10270358"
+    },
+    {
+        "id": 27333,
+        "title": "Improved YOLOv5s Network for Traffic Object Detection with Complex Road Scenes",
+        "authors": "Yi Cao, Yuning Wang, Huijie Fan",
+        "published": "2023-7-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cyber59472.2023.10256488"
+    },
+    {
+        "id": 27334,
+        "title": "ISA: Ingenious Siamese Attention for object detection algorithms towards complex scenes",
+        "authors": "Lianjun Liu, Ziyu Hu, Yan Dai, Xuemin Ma, Pengwei Deng",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.isatra.2023.09.001"
+    },
+    {
+        "id": 27335,
+        "title": "Inverse Universal Traffic Quality - a Criticality Metric for Crowded Urban Traffic Scenes",
+        "authors": "Barbara Schütt, Maximilian Zipfl, J. Marius Zöllner, Eric Sax",
+        "published": "2023-6-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iv55152.2023.10186802"
+    },
+    {
+        "id": 27336,
+        "title": "Object Detection Algorithm for Railway Scenes Based on Infrared and RGB Image Fusion",
+        "authors": "Xin Xu, HaiXia Pan, Hongqiang Wang, Yefan Cao",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/prmvia58252.2023.00015"
+    },
+    {
+        "id": 27337,
+        "title": "AD-DETR: DETR with asymmetrical relation and decoupled attention in crowded scenes",
+        "authors": "Yueming Huang, Guowu Yuan",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "<abstract><p>Pedestrian detection in crowded scenes is widely used in computer vision. However, it still has two difficulties: 1) eliminating repeated predictions (multiple predictions corresponding to the same object); 2) false detection and missing detection due to the high scene occlusion rate and the small visible area of detected pedestrians. This paper presents a detection framework based on DETR (detection transformer) to address the above problems, and the model is called AD-DETR (asymmetrical relation detection transformer). We find that the symmetry in a DETR framework causes synchronous prediction updates and duplicate predictions. Therefore, we propose an asymmetric relationship fusion mechanism and let each query asymmetrically fuse the relative relationships of surrounding predictions to learn to eliminate duplicate predictions. Then, we propose a decoupled cross-attention head that allows the model to learn to restrict the range of attention to focus more on visible regions and regions that contribute more to confidence. The method can reduce the noise information introduced by the occluded objects to reduce the false detection rate. Meanwhile, in our proposed asymmetric relations module, we establish a way to encode the relative relation between sets of attention points and improve the baseline. Without additional annotations, combined with the deformable-DETR with Res50 as the backbone, our method can achieve an average precision of 92.6%, MR$ ^{-2} $ of 40.0% and Jaccard index of 84.4% on the challenging CrowdHuman dataset. Our method exceeds previous methods, such as Iter-E2EDet (progressive end-to-end object detection), MIP (one proposal, multiple predictions), etc. Experiments show that our method can significantly improve the performance of the query-based model for crowded scenes, and it is highly robust for the crowded scene.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mbe.2023633"
+    },
+    {
+        "id": 27338,
+        "title": "Accurate and real-time object detection in crowded indoor spaces based on the fusion of DBSCAN algorithm and improved YOLOv4-tiny network",
+        "authors": "Jianing Shen, Yang Zhou",
+        "published": "2023-7-10",
+        "citations": 1,
+        "abstract": "Abstract\nReal-time object detection is an integral part of internet of things (IoT) application, which is an important research field of computer vision. Existing lightweight algorithms cannot handle target occlusions well in target detection tasks in indoor narrow scenes, resulting in a large number of missed detections and misclassifications. To this end, an accurate real-time multi-scale detection method that integrates density-based spatial clustering of applications with noise (DBSCAN) clustering algorithm and the improved You Only Look Once (YOLO)-v4-tiny network is proposed. First, by improving the neck network of the YOLOv4-tiny model, the detailed information of the shallow network is utilized to boost the average precision of the model to identify dense small objects, and the Cross mini-Batch Normalization strategy is adopted to improve the accuracy of statistical information. Second, the DBSCAN clustering algorithm is fused with the modified network to achieve better clustering effects. Finally, Mosaic data enrichment technique is adopted during model training process to improve the capability of the model to recognize occluded targets. Experimental results show that compared to the original YOLOv4-tiny algorithm, the mAP values of the improved algorithm on the self-construct dataset are significantly improved, and the processing speed can well meet the requirements of real-time applications on embedded devices. The performance of the proposed model on public datasets PASCAL VOC07 and PASCAL VOC12 is also better than that of other advanced lightweight algorithms, and the detection ability for occluded objects is significantly improved, which meets the requirements of mobile terminals for real-time detection in crowded indoor environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/jisys-2022-0268"
+    },
+    {
+        "id": 27339,
+        "title": "PODB: A learning-based polarimetric object detection benchmark for road scenes in adverse weather conditions",
+        "authors": "Zhen Zhu, Xiaobo Li, Jingsheng Zhai, Haofeng Hu",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.inffus.2024.102385"
+    },
+    {
+        "id": 27340,
+        "title": "Object detection and localization algorithm in agricultural scenes based on YOLOv5",
+        "authors": "Jiachen Yang, Mengqi Han, Jingyi He, Jiabao Wen, Desheng Chen, Yibo Wang",
+        "published": "2023-3-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jei.32.5.052402"
+    },
+    {
+        "id": 27341,
+        "title": "Multi-object detection for crowded road scene based on ML-AFP of YOLOv5",
+        "authors": "Yiming Li, Kaiwen Wu, Wenshuo Kang, Yuhui Zhou, Fan Di",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "AbstractAiming at the problem of multi-object detection such as target occlusion and tiny targets in road scenes, this paper proposes an improved YOLOv5 multi-object detection model based on ML-AFP (multi-level aggregation feature perception) mechanism. Since tiny targets such as non-motor vehicle and pedestrians are not easily detected, this paper adds a micro target detection layer and a double head mechanism to improve the detection ability of tiny targets. Varifocal loss is used to achieve a more accurate ranking in the process of non-maximum suppression to solve the problem of target occlusion, and this paper also proposes a ML-AFP mechanism. The adaptive fusion of spatial feature information at different scales improves the expression ability of network model features, and improves the detection accuracy of the model as a whole. Our experimental results on multiple challenging datasets such as KITTI, BDD100K, and show that the accuracy, recall rate and mAP value of the proposed model are greatly improved, which solves the problem of multi-object detection in crowded road scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-43458-3"
+    },
+    {
+        "id": 27342,
+        "title": "Multi-Class Industrial Texture-less Object Detection Method in Cluttered and Occluded Scenes",
+        "authors": "Sicong Li, Feng Zhu, Qingxiao Wu",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wrcsara60131.2023.10261807"
+    },
+    {
+        "id": 27343,
+        "title": "UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes",
+        "authors": "Sunwook Hwang, Youngseok Kim, Seongwon Kim, Saewoong Bahk, Hyung-Sin Kim",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.02134"
+    },
+    {
+        "id": 27344,
+        "title": "Towards Better 3D Visual Lane Detection in Traffic Scenes via Leveraging Object Semantics",
+        "authors": "Zhiyao Lu, Haolin Zhang, Ruotong Wang, Shitao Chen, Linhai Xu, Nanning Zheng",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422191"
+    },
+    {
+        "id": 27345,
+        "title": "Anchor-Free Spatio-Temporal Attention Pyramid Network for Object Detection in Driving Scenes",
+        "authors": "Shuyang Liu, Liang Si, Pengchao Liu, Haihong Lang, Kuizhi Mei",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451005"
+    },
+    {
+        "id": 27346,
+        "title": "Comparative study on object detection in visual scenes using deep learning",
+        "authors": " Kapil Kumar,  Kamal Kant Verma",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "Object detection is a crucial aspect of computer vision, enabling machines to identify and locate various objects within images or videos. This paper provides an in-depth review of the subject, discussing its importance and applications across diverse fields, including autonomous vehicles, surveillance, augmented reality, healthcare, retail, and environmental monitoring. The object detection framework is outlined, highlighting key steps such as image acquisition, preprocessing, feature extraction, object detection models, and post-processing. Deep learning techniques have significantly improved object detection, making it more accurate and faster. Various state-of-the-art models, such as YOLOv4, YOLOv5, and MobileNetV3, are presented with their respective performance metrics. The paper also explores recent developments in object detection, including novel loss functions, neural architecture search (NAS), and advancements in handling challenging conditions like occlusions and low lighting. Despite the progress, there remain challenges in the field, such as improving object detection in complex environments. Looking to the future, the paper predicts that object detection models will become more accurate and versatile, capable of handling challenging conditions and detecting a wider range of objects. Deep learning will continue to play a vital role in advancing object detection, leading to further breakthroughs in the field. The provided references offer a comprehensive overview of the literature on object detection, making this paper a valuable resource for researchers and practitioners in the field.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30574/wjaets.2023.10.2.0262"
+    },
+    {
+        "id": 27347,
+        "title": "A Dataset for Object Detection in Night Rainy Scenes",
+        "authors": "Haoyuan Zhang, Tingtao Liu, Zhenyu Wu, Danwei Wang",
+        "published": "2023-6-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cis-ram55796.2023.10370963"
+    },
+    {
+        "id": 27348,
+        "title": "Detection-Friendly Dehazing: Object Detection in Real-World Hazy Scenes",
+        "authors": "Chengyang Li, Heng Zhou, Yang Liu, Caidong Yang, Yongqiang Xie, Zhongbo Li, Liping Zhu",
+        "published": "2023",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tpami.2023.3234976"
+    },
+    {
+        "id": 27349,
+        "title": "Overlap Loss: Rethinking Weakly Supervised Instance Segmentation in Crowded Scenes",
+        "authors": "Shanghang Jiang, Shichao Zhao, Meng Wu, Le Zhang, Feng Zhou",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222709"
+    },
+    {
+        "id": 27350,
+        "title": "CoSumNet: A video summarization-based framework for COVID-19 monitoring in crowded scenes",
+        "authors": "Ambreen Sabha, Arvind Selwal",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.artmed.2023.102544"
+    },
+    {
+        "id": 27351,
+        "title": "ATT-YOLOv5-Ghost: water surface object detection in complex scenes",
+        "authors": "Liwei Deng, Zhen Liu, Jiandong Wang, Baisong Yang",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11554-023-01354-z"
+    },
+    {
+        "id": 27352,
+        "title": "Unexpected object detection based on class correlation in semantic segmentation for automatic driving scenes",
+        "authors": "Lina Ling, Mi Wen, Haizhou Wang, Zhou Zhu, Xiangjie Meng",
+        "published": "2024-3-23",
+        "citations": 0,
+        "abstract": "The detection of out-of-distribution (OoD) samples in semantic segmentation is crucial for autonomous driving, as deep learning models are typically trained under the assumption of a closed environment, whereas the real world presents an open and diverse set of scenarios. Existing methods employ uncertainty estimation, image reconstruction, and other techniques for OoD sample detection. We have observed that different classes may exhibit connections and associations in varying contexts. For example, objects encountered by autonomous vehicles differ in rural road scenes compared to urban environments, and the likelihood of encountering novel objects varies. This aspect is missing in current anomaly detection methods and is vital for OoD sample detection. Existing approaches solely consider the relative significance of each prediction class, overlooking the inter-object correlation. Although prediction scores (e.g., max logits) obtained from the segmentation network are applicable for OoD sample detection, the same problem persists, particularly for OoD objects. To address this issue, we propose the utilization of the Mahalanobis distance of max logits to evaluate the final predicted score. By calculating the Mahalanobis distance, the paper aims to uncover correlations between different classes, thus enhancing the effectiveness of OoD detection. To this end, we also extend the state-of-the-art segmentation model, DeepLabV3+, to enable OoD sample detection in this paper. Specifically, this paper proposes a novel backbone network, SOD-ResNet101, for extracting contextual and multi-scale semantic information, leveraging the class correlation feature of the Mahalanobis distance to enhance the detection performance of out-of-distribution objects. Notably, our approach eliminates the need for external datasets or separate network training, making it highly applicable to existing pretraining segmentation models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-237799"
+    },
+    {
+        "id": 27353,
+        "title": "HDR-YOLO: Adaptive Object Detection in Haze, Dark, and Rain Scenes Based on YOLO",
+        "authors": "Zonglei Lyu, Wei An",
+        "published": "2024-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s021800142450006x"
+    },
+    {
+        "id": 27354,
+        "title": "Design Strategy for Identification and Tracking of Video Objects Over Crowded Video Scenes using a Novel Feature-Learning Algorithm",
+        "authors": " Divyaprabha, Guruprasad S",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435734"
+    },
+    {
+        "id": 27355,
+        "title": "Context feature fusion and enhanced non-maximum suppression for pedestrian detection in crowded scenes",
+        "authors": "Yu Shao, Jianhua Hu, Lihua Hu, Jifu Zhang, Xinbo Wang",
+        "published": "2024-3-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18865-x"
+    },
+    {
+        "id": 27356,
+        "title": "Object Recognition in Atmospheric Turbulence Scenes",
+        "authors": "Disen Hu, Nantheera Anantrasirichai",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289748"
+    },
+    {
+        "id": 27357,
+        "title": "A Review of Object Detection in Traffic Scenes Based on Deep Learning",
+        "authors": "Ruixin Zhao, SaiHong Tang, Eris Elianddy Bin Supeni, Sharafiz Bin Abdul Rahim, Luxin Fan",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nAt the current stage, the rapid Development of autonomous driving has made object detection in traffic scenarios a vital research task. Object detection is the most critical and challenging task in computer vision. Deep learning, with its powerful feature extraction capabilities, has found widespread applications in safety, military, and medical fields, and in recent years has expanded into the field of transportation, achieving significant breakthroughs. This survey is based on the theory of deep learning. It systematically summarizes the Development and current research status of object detection algorithms, and compare the characteristics, advantages and disadvantages of the two types of algorithms. With a focus on traffic signs, vehicle detection, and pedestrian detection, it summarizes the applications and research status of object detection in traffic scenarios, highlighting the strengths, limitations, and applicable scenarios of various methods. It introduces techniques for optimizing object detection algorithms, summarizes commonly used object detection datasets and traffic scene datasets, along with evaluation criteria, and performs comparative analysis of the performance of deep learning algorithms. Finally, it concludes the development trends of object detection algorithms in traffic scenarios, providing research directions for intelligent transportation and autonomous driving.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns-2024-0322"
+    },
+    {
+        "id": 27358,
+        "title": "Multimodal pedestrian detection using metaheuristics with deep convolutional neural network in crowded scenes",
+        "authors": "Deepak Kumar Jain, Xudong Zhao, Germán González-Almagro, Chenquan Gan, Ketan Kotecha",
+        "published": "2023-7",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.inffus.2023.02.014"
+    },
+    {
+        "id": 27359,
+        "title": "Kalman-Based Scene Flow Estimation for Point Cloud Densification and 3D Object Detection in Dynamic Scenes",
+        "authors": "Junzhe Ding, Jin Zhang, Luqin Ye, Cheng Wu",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "Point cloud densification is essential for understanding the 3D environment. It provides crucial structural and semantic information for downstream tasks such as 3D object detection and tracking. However, existing registration-based methods struggle with dynamic targets due to the incompleteness and deformation of point clouds. To address this challenge, we propose a Kalman-based scene flow estimation method for point cloud densification and 3D object detection in dynamic scenes. Our method effectively tackles the issue of localization errors in scene flow estimation and enhances the accuracy and precision of shape completion. Specifically, we introduce a Kalman filter to correct the dynamic target’s position while estimating long sequence scene flow. This approach helps eliminate the cumulative localization error during the scene flow estimation process. Extended experiments on the KITTI 3D tracking dataset demonstrate that our method significantly improves the performance of LiDAR-only detectors, achieving superior results compared to the baselines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24030916"
+    },
+    {
+        "id": 27360,
+        "title": "Bayesian Optimisation of Existing Object Detection Methods for New Contexts",
+        "authors": "Tim Willems, Jan Aelterman, David Van Hammel",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sensors56945.2023.10325317"
+    },
+    {
+        "id": 27361,
+        "title": "Learned Fusion: 3D Object Detection Using Calibration-Free Transformer Feature Fusion",
+        "authors": "Michael Fürst, Rahul Jakkamsetty, René Schuster, Didier Stricker",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012311400003654"
+    },
+    {
+        "id": 27362,
+        "title": "Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes",
+        "authors": "Fabien Delattre, David Dirnfeld, Phat Nguyen, Stephen Scarano, Michael J. Jones, Pedro Miraldo, Erik Learned-Miller",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00894"
+    },
+    {
+        "id": 27363,
+        "title": "Bagging R-CNN: Ensemble for Object Detection in Complex Traffic Scenes",
+        "authors": "Pengteng Li, Ying He, Dongfu Yin, F Richard Yu, Pinhao Song",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10097085"
+    },
+    {
+        "id": 27364,
+        "title": "Severity of Catastrophic Forgetting in Object Detection for Autonomous Driving",
+        "authors": "Christian Witte, René Schuster, Syed Bukhari, Patrick Trampert, Didier Stricker, Georg Schneider",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011634500003411"
+    },
+    {
+        "id": 27365,
+        "title": "The types of Pn-crowded and Pna-crowded sets",
+        "authors": "Yiezi Kadham AL Talkany, Luay A. AL-swidi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0114666"
+    },
+    {
+        "id": 27366,
+        "title": "MirrorVision: Light-Weight Floor Detection System for an Autonomous Robot in a Crowded Elevator",
+        "authors": "Azimbek Khudoyberdiev, Jihoon Ryoo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "Delivering robots impact many facets of our life, including food delivery and restaurant services, with advancements enabling obstacle overcome, faster delivery, and minimizing human intervention. However, delivering robots remained to experience poor vertical mobility-elevator usage in multi-floor buildings. Incorporating new elevator models into the robot’s elevator usage capabilities involves a long process of manufacturer approval and authentication. Furthermore, strict fire-code regulations pose communication barriers between the robot and the elevator. In this paper, we introduce MirrorVision-a novel approach designed for accurate floor detection during vertical mobility, regardless of obstructions blocking the robot’s direct line of sight to the elevator number panel. First, we collected and pre-processed a dataset of direct and reflective views of elevator number panels via the pre-installed mirrors. Then, we trained mirrored images in various possibilities to accomplish accurate floor detection. MirrorVision provides a solid mechanism to understand floor numbers at the level of distorted images. Extensive evaluations show that MirrorVision achieves 98.8% accuracy for floor detection in a crowded elevator, while state-of-the-art EfficientDet and YOLOv5 achieved 90.8% and 93.3%, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18178/joig.12.1.1-9"
+    },
+    {
+        "id": 27367,
+        "title": "An improved anchor-free object detection method applied in complex scenes based on SDA-DLA34",
+        "authors": "Kun Sun, Yifan Zhen, Bin Zhang, Zhenqiang Song",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17848-8"
+    },
+    {
+        "id": 27368,
+        "title": "A condensed review: Detection of fruits using SOTA object detection methods in deep learning",
+        "authors": "Chitra Bhole, Chandani Joshi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0175613"
+    },
+    {
+        "id": 27369,
+        "title": "Comparing Deep Learning Object detection Methods for Real Time Cow Detection",
+        "authors": "Gichuki Wambui Martha, Ronald Waweru Mwangi, Supavadee Aramvith, Richard Rimiru",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tencon58879.2023.10322403"
+    },
+    {
+        "id": 27370,
+        "title": "A Survey of Object Detection Methods in Inclement Weather Conditions",
+        "authors": "Wenbo Zhao, Jian Li",
+        "published": "2023-10-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icus58632.2023.10318342"
+    },
+    {
+        "id": 27371,
+        "title": "Performance and Challenges of 3D Object Detection Methods in Complex Scenes for Autonomous Driving",
+        "authors": "Ke Wang, Tianqiang Zhou, Xingcan Li, Fan Ren",
+        "published": "2023-2",
+        "citations": 28,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2022.3213796"
+    },
+    {
+        "id": 27372,
+        "title": "Improved YOLOX for pedestrian detection in crowded scenes",
+        "authors": "Fei Gao, Changxin Cai, Ruohui Jia, Xinzhong Hu",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11554-023-01287-7"
+    },
+    {
+        "id": 27373,
+        "title": "Research on multitask model of object detection and road segmentation in unstructured road scenes",
+        "authors": "Chengfei Gao, Fengkui Zhao, Yong Zhang, Maosong Wan",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nWith the rapid development of artificial intelligence and computer vision technology, autonomous driving technology has become a hot area of concern. The driving scenarios of autonomous vehicles can be divided into structured scenarios and unstructured scenarios. Compared with structured scenes, unstructured road scenes lack the constraints of lane lines and traffic rules, and the safety awareness of traffic participants is weaker. Therefore, there are new and higher requirements for the environment perception tasks of autonomous vehicles in unstructured road scenes. The current research rarely integrates the target detection and road segmentation to achieve the simultaneous processing of target detection and road segmentation of autonomous vehicle in unstructured road scenes. Aiming at the above issues, a multitask model for object detection and road segmentation in unstructured road scenes is proposed. Through the sharing and fusion of the object detection model and road segmentation model, multitask model can complete the tasks of multi-object detection and road segmentation in unstructured road scenes while inputting a picture. Firstly, MobileNetV2 is used to replace the backbone network of YOLOv5, and multi-scale feature fusion is used to realize the information exchange layer between different features. Subsequently, a road segmentation model was designed based on the DeepLabV3+ algorithm. Its main feature is that it uses MobileNetV2 as the backbone network and combines the binary classification focus loss function for network optimization. Then, we fused the object detection algorithm and road segmentation algorithm based on the shared MobileNetV2 network to obtain a multitask model and trained it on both the public dataset and the self-built dataset NJFU. The training results demonstrate that the multitask model significantly enhances the algorithm’s execution speed by approximately 10 frames per scond while maintaining the accuracy of object detection and road segmentation. Finally, we conducted validation of the multitask model on an actual vehicle.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6501/ad35dd"
+    },
+    {
+        "id": 27374,
+        "title": "Human pose estimation in crowded scenes using Keypoint Likelihood Variance Reduction",
+        "authors": "Longsheng Wei, Xuefu Yu, Zhiheng Liu",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.displa.2024.102675"
+    },
+    {
+        "id": 27375,
+        "title": "3D object detection in road scenes by pseudo-LiDAR point cloud augmentation",
+        "authors": "Jin Shuai,  , Li Xuanpeng, Yang Feng, Zhang Weigong",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11834/jig.220986"
+    },
+    {
+        "id": 27376,
+        "title": "MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes",
+        "authors": "Han Wang, Jiayuan Zhang, Lipeng Wan, Xingyu Chen, Xuguang Lan, Nanning Zheng",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161450"
+    },
+    {
+        "id": 27377,
+        "title": "Comparative study of subset selection methods for rapid prototyping of 3D object detection algorithms",
+        "authors": "Konrad Lis, Tomasz Kryjak",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242454"
+    },
+    {
+        "id": 27378,
+        "title": "Moving Object Path Prediction in Traffic Scenes Using Contextual Information",
+        "authors": "Jaime B. Fernandez, Suzanne Little, Noel E. O’Connor",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023039054"
+    },
+    {
+        "id": 27379,
+        "title": "Object Detection Using Deep Learning Methods: A Review",
+        "authors": "",
+        "published": "2023-6-29",
+        "citations": 0,
+        "abstract": "Target  detection,  one  of  the  key  functions  of  computer  vision,  has  grown  in  importance  as  a  study  area  over  the  past  two  decades  and  is  currently  often  employed.  In  a  certain  video,  it  seeks  to  rapidly  and  precisely  detect  and  locate  a  huge  amount  of  the  objects  according  to  redetermined  categories.  The  two  forms  of  deep  learning  (DL)  algorithms  that  are  used  in  the  model  training  algorithm  are  single-stage  and  2-stage  algorithms  of  detection.  The  representative  algorithms  for  every  level  have  been  thoroughly  discussed  in  this  work.  The  analysis  and  comparison  of  numerous  representative  algorithms  in  this  subject  is  after  that  explained.  Last  but  not  least,  potential  obstacles  to  target  detection  are  anticipated.\n\nIndex Terms—   Object detection, Deep   learning, Regions   of   interest (ROI), Convolutional Neural  Networks  (CNNs).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33103/uot.ijccce.23.2.11"
+    },
+    {
+        "id": 27380,
+        "title": "An Improved YOLOv5 Method for Small Object Detection in UAV Capture Scenes",
+        "authors": "Zhen Liu, Xuehui Gao, Yu Wan, Jianhao Wang, Hao Lyu",
+        "published": "2023",
+        "citations": 24,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3241005"
+    },
+    {
+        "id": 27381,
+        "title": "3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes",
+        "authors": "Zhiyi Zhu, Sheng Liu, Jianghai Shuai, Sidan Du, Yang Li",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3603781.3603804"
+    },
+    {
+        "id": 27382,
+        "title": "An Improved VGG-19 Network Induced Enhanced Feature Pooling for Precise Moving Object Detection in Complex Video Scenes",
+        "authors": "Prabodh Kumar Sahoo, Manoj Kumar Panda, Upasana Panigrahi, Ganapati Panda, Prince Jain, Md. Shabiul Islam, Mohammad Tariqul Islam",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3381612"
+    },
+    {
+        "id": 27383,
+        "title": "SEEING BEYOND SIGHT: AN EXPLORATION OF OBJECT DETECTION METHODS FOR BLIND NAVIGATION",
+        "authors": "",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets50164"
+    },
+    {
+        "id": 27384,
+        "title": "Object feedback and feature information retention for small object detection in intelligent transportation scenes",
+        "authors": "Di Tian, Yi Han, Shu Wang",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121811"
+    },
+    {
+        "id": 27385,
+        "title": "DDNet: Density and depth-aware network for object detection in foggy scenes",
+        "authors": "Boyi Xiao, Jin Xie, Jing Nie",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191795"
+    },
+    {
+        "id": 27386,
+        "title": "AFRNet: Anchor-Free Object Detection Using Roadside LiDAR in Urban Scenes",
+        "authors": "Luyang Wang, Jinhui Lan, Min Li",
+        "published": "2024-2-24",
+        "citations": 0,
+        "abstract": "In urban settings, roadside infrastructure LiDAR is a ground-based remote sensing system that collects 3D sparse point clouds for the traffic object detection of vehicles, pedestrians, and cyclists. Current anchor-free algorithms for 3D point cloud object detection based on roadside infrastructure face challenges related to inadequate feature extraction, disregard for spatial information in large 3D scenes, and inaccurate object detection. In this study, we propose AFRNet, a two-stage anchor-free detection network, to address the aforementioned challenges. We propose a 3D feature extraction backbone based on the large sparse kernel convolution (LSKC) feature set abstraction module, and incorporate the CBAM attention mechanism to enhance the large scene feature extraction capability and the representation of the point cloud features, enabling the network to prioritize the object of interest. After completing the first stage of center-based prediction, we propose a refinement method based on attentional feature fusion, where fused features incorporating raw point cloud features, voxel features, BEV features, and key point features are used for the second stage of refinement to complete the detection of 3D objects. To evaluate the performance of our detection algorithms, we conducted experiments using roadside LiDAR data from the urban traffic dataset DAIR-V2X, based on the Beijing High-Level Automated Driving Demonstration Area. The experimental results show that AFRNet has an average of 5.27 percent higher detection accuracy than CenterPoint for traffic objects. Comparative tests further confirm that our method achieves high accuracy in roadside LiDAR object detection.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs16050782"
+    },
+    {
+        "id": 27387,
+        "title": "Non-Maximum Suppression Guided Label Assignment for Object Detection in Crowd Scenes",
+        "authors": "Hangzhi Jiang, Xin Zhang, Shiming Xiang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmm.2023.3293333"
+    },
+    {
+        "id": 27388,
+        "title": "Video Object Segmentation in Panoptic Wild Scenes",
+        "authors": "Yuanyou Xu, Zongxin Yang, Yi Yang",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "In this paper, we introduce semi-supervised video object segmentation (VOS) to panoptic wild scenes and present a large-scale benchmark as well as a baseline method for it. Previous benchmarks for VOS with sparse annotations are not sufficient to train or evaluate a model that needs to process all possible objects in real-world scenarios. Our new benchmark (VIPOSeg) contains exhaustive object annotations and covers various real-world object categories which are carefully divided into subsets of thing/stuff and seen/unseen classes for comprehensive evaluation. Considering the challenges in panoptic VOS, we propose a strong baseline method named panoptic object association with transformers (PAOT), which associates multiple objects by panoptic identification in a pyramid architecture on multiple scales. Experimental results show that VIPOSeg can not only boost the performance of VOS models by panoptic training but also evaluate them comprehensively in panoptic scenes. Previous methods for classic VOS still need to improve in performance and efficiency when dealing with panoptic scenes, while our PAOT achieves SOTA performance with good efficiency on VIPOSeg and previous VOS benchmarks. PAOT also ranks 1st in the VOT2022 challenge. Our dataset and code are available at https://github.com/yoxu515/VIPOSeg-Benchmark.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/178"
+    },
+    {
+        "id": 27389,
+        "title": "Extreme Sport Analysis Using Object Detection Methods and Unscented Kalman Filters",
+        "authors": "Jayden McGillivray, Richard Green",
+        "published": "2023-11-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ivcnz61134.2023.10344282"
+    },
+    {
+        "id": 27390,
+        "title": "A Review on Traditional and Deep Learning based Object Detection Methods",
+        "authors": "Babruvan R. Solunke, Sachin R. Gengaje",
+        "published": "2023-3-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/esci56872.2023.10099639"
+    },
+    {
+        "id": 27391,
+        "title": "A Hybrid CNN-DSP Algorithm for Package Detection in Distance Maps",
+        "authors": "Elena Vasileva, Zoran A. Ivanovski",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3324058"
+    },
+    {
+        "id": 27392,
+        "title": "Hybrid Attention and Motion Constraint for Anomaly Detection in Crowded Scenes",
+        "authors": "Xinfeng Zhang, Jinpeng Fang, Baoqing Yang, Shuhan Chen, Bin Li",
+        "published": "2023-5",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcsvt.2022.3221622"
+    },
+    {
+        "id": 27393,
+        "title": "Deep Learning-Based Spatial Detection of Drainage Structures using Advanced Object Detection Methods",
+        "authors": "Shayan Jalalipour, Sriharshitha Ayyalasomayjula, Hashem Damrah, Junfan Lin, Banafsheh Rekabdar, Ruopu Li",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/transai60598.2023.00007"
+    },
+    {
+        "id": 27394,
+        "title": "A Multi-Scale Traffic Object Detection Algorithm for Road Scenes Based on Improved YOLOv5",
+        "authors": "Ang Li, Shijie Sun, Zhaoyang Zhang, Mingtao Feng, Chengzhong Wu, Wang Li",
+        "published": "2023-2-9",
+        "citations": 13,
+        "abstract": "Object detection in road scenes is a task that has recently become popular and it is also an important part of intelligent transportation systems. Due to the different locations of cameras in the road scenes, the size of the traffic objects captured varies greatly, which imposes a burden on the network optimization. In addition, in some dense traffic scenes, the size of the traffic objects captured is extremely small and it is easy to miss detection and to encounter false detection. In this paper, we propose an improved multi-scale YOLOv5s algorithm based on the YOLOv5s algorithm. In detail, we add a detection head for extremely small objects to the original YOLOv5s model, which significantly improves the accuracy in detecting extremely small traffic objects. A content-aware reassembly of features (CARAFE) module is introduced in the feature fusion part to enhance the feature fusion. A new SPD-Conv CNN Module is introduced instead of the original convolutional structure to enhance the overall computational efficiency of the model. Finally, the normalization-based attention module (NAM) is introduced, allowing the model to focus on more useful information during training and significantly improving detection accuracy. The experimental results demonstrate that compared with the original YOLOv5s algorithm, the detection accuracy of the multi-scale YOLOv5s model proposed in this paper is improved by 7.1% on the constructed diverse traffic scene datasets. The improved multi-scale YOLOv5s algorithm also maintains the highest detection accuracy among the current mainstream object detection algorithms and is superior in accomplishing the task of detecting traffic objects in complex road scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12040878"
+    },
+    {
+        "id": 27395,
+        "title": "MSFE-PANet: Improved YOLOv4-Based Small Object Detection Method in Complex Scenes",
+        "authors": "Xiaoying Pan, Ningxin Jia, Yuanzhen Mu, Weidong Bai",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": " With the rapid development of computer vision and artificial intelligence technology, visual object detection has made unprecedented progress, and small object detection in complex scenes has attracted more and more attention. To solve the problems of ambiguity, overlap and occlusion in small object detection in complex scenes. In this paper, a multi-scale fusion feature enhanced path aggregation network MSFE-PANet is proposed. By adding attention mechanism and feature fusion, the fusion of strong positioning information of deep feature map and strong semantic information of shallow feature map is enhanced, which helps the network to find interesting areas in complex scenes and improve its sensitivity to small objects. The rejection loss function and network prediction scale are designed to solve the problems of missing detection and false detection of overlapping and blocking small objects in complex backgrounds. The proposed method achieves an accuracy of 40.7% on the VisDrone2021 dataset and 89.7% on the PASCAL VOC dataset. Comparative analysis with mainstream object detection algorithms proves the superiority of this method in detecting small objects in complex scenes. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218001423500246"
+    },
+    {
+        "id": 27396,
+        "title": "Moving Object Detection for Complex Scenes by Merging BG Modeling and Deep Learning Method",
+        "authors": "Chih-Yang Lin, Han-Yi Huang, Wei-Yang Lin, Hui-Fuang Ng, Kahlil Muchtar, Nadhila Nurdin",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn recent years, many studies have attempted to use deep learning for moving object detection. Some research also combines object detection methods with traditional background modeling. However, this approach may run into some problems with parameter settings and weight imbalances. In order to solve the aforementioned problems, this paper proposes a new way to combine ViBe and Faster-RCNN for moving object detection. To be more specific, our approach is to confine the candidate boxes to only retain the area containing moving objects through traditional background modeling. Furthermore, in order to make the detection able to more accurately filter out the static object, the probability of each region proposal then being retained. In this paper, we compare four famous methods, namely GMM and ViBe for the traditional methods, and DeepBS and SFEN for the deep learning-based methods. The result of the experiment shows that the proposed method has the best overall performance score among all methods. The proposed method is also robust to the dynamic background and environmental changes and is able to separate stationary objects from moving objects. Especially the overall F-measure with the CDNET 2014 dataset (like in the dynamic background and intermittent object motion cases) was 0,8572.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/jaiscr-2023-0012"
+    },
+    {
+        "id": 27397,
+        "title": "Assessing thermal imagery integration into object detection methods on air-based collection platforms",
+        "authors": "James E. Gallagher, Edward J. Oughton",
+        "published": "2023-5-25",
+        "citations": 3,
+        "abstract": "AbstractObject detection models commonly focus on utilizing the visible spectrum via Red–Green–Blue (RGB) imagery. Due to various limitations with this approach in low visibility settings, there is growing interest in fusing RGB with thermal Long Wave Infrared (LWIR) (7.5–13.5 µm) images to increase object detection performance. However, we still lack baseline performance metrics evaluating RGB, LWIR and RGB-LWIR fused object detection machine learning models, especially from air-based platforms. This study undertakes such an evaluation, finding that a blended RGB-LWIR model generally exhibits superior performance compared to independent RGB or LWIR approaches. For example, an RGB-LWIR blend only performs 1–5% behind the RGB approach in predictive power across various altitudes and periods of clear visibility. Yet, RGB fusion with a thermal signature overlay provides edge redundancy and edge emphasis, both which are vital in supporting edge detection machine learning algorithms (especially in low visibility environments). This approach has the ability to improve object detection performance for a range of use cases in industrial, consumer, government, and military applications. This research greatly contributes to the study of multispectral object detection by quantifying key factors affecting model performance from drone platforms (including distance, time-of-day and sensor type). Finally, this research additionally contributes a novel open labeled training dataset of 6300 images for RGB, LWIR, and RGB-LWIR fused imagery, collected from air-based platforms, enabling further multispectral machine-driven object detection research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-34791-8"
+    },
+    {
+        "id": 27398,
+        "title": "Object Detection and Classification Based on their 3D Models",
+        "authors": "Victor Sineglazov, Kirill Ryazanovskiy",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/msnmc61017.2023.10329099"
+    },
+    {
+        "id": 27399,
+        "title": "MCCANet: A multispectral class-constraint attentional neural network for object detection in mining scenes",
+        "authors": "Zhenbang Wu, Hengkai Li, Yuqing Wang, Beiping Long",
+        "published": "2024-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2024.123233"
+    },
+    {
+        "id": 27400,
+        "title": "SMFF-YOLO: A Scale-Adaptive YOLO Algorithm with Multi-Level Feature Fusion for Object Detection in UAV Scenes",
+        "authors": "Yuming Wang, Hua Zou, Ming Yin, Xining Zhang",
+        "published": "2023-9-18",
+        "citations": 4,
+        "abstract": "Object detection in images captured by unmanned aerial vehicles (UAVs) holds great potential in various domains, including civilian applications, urban planning, and disaster response. However, it faces several challenges, such as multi-scale variations, dense scenes, complex backgrounds, and tiny-sized objects. In this paper, we present a novel scale-adaptive YOLO framework called SMFF-YOLO, which addresses these challenges through a multi-level feature fusion approach. To improve the detection accuracy of small objects, our framework incorporates the ELAN-SW object detection prediction head. This newly designed head effectively utilizes both global contextual information and local features, enhancing the detection accuracy of tiny objects. Additionally, the proposed bidirectional feature fusion pyramid (BFFP) module tackles the issue of scale variations in object sizes by aggregating multi-scale features. To handle complex backgrounds, we introduce the adaptive atrous spatial pyramid pooling (AASPP) module, which enables adaptive feature fusion and alleviates the negative impact of cluttered scenes. Moreover, we adopt the Wise-IoU(WIoU) bounding box regression loss to enhance the competitiveness of different quality anchor boxes, which offers the framework a more informed gradient allocation strategy. We validate the effectiveness of SMFF-YOLO using the VisDrone and UAVDT datasets. Experimental results demonstrate that our model achieves higher detection accuracy, with AP50 reaching 54.3% for VisDrone and 42.4% for UAVDT datasets. Visual comparative experiments with other YOLO-based methods further illustrate the robustness and adaptability of our approach.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15184580"
+    },
+    {
+        "id": 27401,
+        "title": "False positive elimination in object detection methods for videos",
+        "authors": "Shubham Kumar Dubey, J V Satyanarayana, C Krishna Mohan",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3023362"
+    },
+    {
+        "id": 27402,
+        "title": "Analysis of deep learning object detection methods",
+        "authors": "Xiaofei Ai, Qiwen He, Pan Zhang",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2675099"
+    },
+    {
+        "id": 27403,
+        "title": "Spatially-Constrained Anomaly Detection in Crowded Environments using Meta-Heuristic Algorithm",
+        "authors": "RJ Anandhi",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icosec58147.2023.10276052"
+    },
+    {
+        "id": 27404,
+        "title": "Visuomotor Control in Multi-Object Scenes Using Object-Aware Representations",
+        "authors": "Negin Heravi, Ayzaan Wahid, Corey Lynch, Pete Florence, Travis Armstrong, Jonathan Tompson, Pierre Sermanet, Jeannette Bohg, Debidatta Dwibedi",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160888"
+    },
+    {
+        "id": 27405,
+        "title": "Multi-object behaviour recognition based on object detection cascaded image classification in classroom scenes",
+        "authors": "Min Dang, Gang Liu, Hao Li, Qijie Xu, Xu Wang, Rong Pan",
+        "published": "2024-4-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10489-024-05409-x"
+    },
+    {
+        "id": 27406,
+        "title": "Visual Inertia SLAM Algorithm for Multi Object Tracking in Dynamic Scenes",
+        "authors": "Xuan Li, Yulin Xu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icemce60359.2023.10490531"
+    },
+    {
+        "id": 27407,
+        "title": "Multi-scale feature fusion with attention mechanism for crowded road object detection",
+        "authors": "Jingtao Wu, Guojun Dai, Wenhui Zhou, Xudong Zhu, Zengguan Wang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11554-023-01409-1"
+    },
+    {
+        "id": 27408,
+        "title": "DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles",
+        "authors": "Zhanteng Xie, Philip Dames",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tro.2023.3257549"
+    },
+    {
+        "id": 27409,
+        "title": "Identification of the normative use of medical protective equipment by fusion of object detection and keypoints detection",
+        "authors": "Ziyu Pei, Qiang Zhang, Ying Qi, Zexin Wen, Zheng Zhang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cmpb.2023.107972"
+    },
+    {
+        "id": 27410,
+        "title": "A Qualitative Study on Image Quality Enhancement, Object Detection Methods to Assist Visually Impaired Users",
+        "authors": "S. Sajini, B. Pushpa",
+        "published": "2023-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icecct56650.2023.10179630"
+    },
+    {
+        "id": 27411,
+        "title": "Virtual Sample Generation Methods and Application in Few-Shot Object Detection for Industrial Scenarios",
+        "authors": "Xiuwen Tao, Guoyang Wan, Ming Jiang, Jian Zhang, Qianqian Wang, Qin He",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450262"
+    },
+    {
+        "id": 27412,
+        "title": "Object Detection for Signboard using Deep Neural Network",
+        "authors": "Vijendra Pratap Singh, S Hasan Hussain, Sushma Jaiswal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The goal of this work is to help the visually impaired by making it possible for them to recognize hidden images on signs, which will hopefully lead to fewer accidents. Although traffic signs are essential for maintaining order, they can also increase the risk of accidents if they are obstructed. Individuals who are visually impaired, such as the blind, can benefit greatly from this technique. Furthermore, the proposed system is conducive to the operation of autonomous cars, as the billboards can be read automatically and the vehicles may be directed by the proposed system. When a potentially dangerous image is received, a warning is displayed to the driver. Throughout this piece, ”input image” will refer to the footage recorded by a camera situated at the front of the car. After converting the image to grayscale, a resizing method is applied, and a filter is used to get rid of any noticeable noise that remains. In the end, feature extraction and feature reduction methods are used to priorities certain features over others. Hence, the DNN procedure is an integral aspect of the system, as it is used for both speech recognition and image recognition. This project’s main goal is to recognize incoming photos by comparing them to data sets stored in a database, with successful matches sounding an alarm for the driver.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58599/ijsmien.2023.1303"
+    },
+    {
+        "id": 27413,
+        "title": "An Improved SSD-Like Deep Network-Based Object Detection Method for Indoor Scenes",
+        "authors": "Jianjun Ni, Kang Shen, Yan Chen, Simon X. Yang",
+        "published": "2023",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tim.2023.3244819"
+    },
+    {
+        "id": 27414,
+        "title": "Theoretical analysis of the network structure of two mainstream object detection methods: YOLO and Fast RCNN",
+        "authors": "Bodong Hou",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "Object detection technology has a wide range of practical applications, and it is a very challenging field. Countless researchers have developed many important ideas in this area. This article reviews the important milestones of object detection in the first part. In the second and third parts, the first-order detection, such as the YOLO series, and the second-order detection, including RCNN and pyramid structure, are comprehensively analyzed. This paper describes the development process of these algorithms in detail and systematically analyzes the network structure, training effect, loss function, advantages, and disadvantages, among other factors.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/17/20230943"
+    },
+    {
+        "id": 27415,
+        "title": "Complementary Object Detection: Improving Reliability of Object Candidates Using Redundant Detection Approaches",
+        "authors": "Waldemar Boschmann, Fateme Bakhshande, Dirk Söffker",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3850/978-981-18-8071-1_p261-cd"
+    },
+    {
+        "id": 27416,
+        "title": "Does the Aubert-Fleischl phenomenon affect perceived object speed in realistic virtual scenes?",
+        "authors": "Bjoern Joerges, Laurence R. Harris",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1167/jov.23.9.5043"
+    },
+    {
+        "id": 27417,
+        "title": "Multi-Object Recognition and Segmentation using Enhanced Mask R-CNN for Intricate Image Scenes",
+        "authors": "R. Rajarajeswari, Veeramalai Sankaradass",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsaai59313.2023.10452453"
+    },
+    {
+        "id": 27418,
+        "title": "ConSOR: A Context-Aware Semantic Object Rearrangement Framework for Partially Arranged Scenes",
+        "authors": "Kartik Ramachandruni, Max Zuo, Sonia Chernova",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341873"
+    },
+    {
+        "id": 27419,
+        "title": "Progress in Object Detection: An In-Depth Analysis of Methods and Use Cases",
+        "authors": "Suaibia Tasnim, Wang Qi",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "Object detection, a fundamental task in computer vision, involves identifying and localizing objects within images or videos. This paper provides a comprehensive review of traditional and deep learning-based object detection techniques and their applications, challenges, and future directions. We first discuss traditional object detection methods, which rely on handcrafted features and classical machine learning algorithms. We then explore the advancements brought by deep learning, including convolutional neural networks (CNNs) and transformer-based architectures, which have significantly improved the accuracy and efficiency of object detection tasks. A thorough comparison and evaluation of different object detection techniques are presented, considering performance metrics, speed, and robustness to object size, orientation, and occlusion variations. We also examine the diverse applications of object detection across various domains, such as robotics, autonomous vehicles, surveillance, medical imaging, and augmented reality. We outline open challenges and future research directions, emphasizing the need to combine object detection with other tasks, develop few-shot and zero-shot learning approaches, and address issues related to fairness, accountability, and transparency. This paper aims to comprehensively review the most prominent object detection techniques, their evolution, and their applications in diverse domains. We discussed traditional methods and recent deep learning-based approaches, emphasizing their strengths and limitations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24018/ejece.2023.7.4.537"
+    },
+    {
+        "id": 27420,
+        "title": "Image Enhancement Guided Object Detection in Visually Degraded Scenes",
+        "authors": "Hongmin Liu, Fan Jin, Hui Zeng, Huayan Pu, Bin Fan",
+        "published": "2024",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3274926"
+    },
+    {
+        "id": 27421,
+        "title": "Language guided 3D object detection in point clouds for MEP scenes",
+        "authors": "Junjie Li, Shengli Du, Jianfeng Liu, Weibiao Chen, Manfu Tang, Lei Zheng, Lianfa Wang, Chunle Ji, Xiao Yu, Wanli Yu",
+        "published": "2023-12-12",
+        "citations": 0,
+        "abstract": "AbstractIn recent years, contrastive language‐image pre‐training (CLIP) has gained popularity for processing 2D data. However, the application of cross‐modal transferable learning to 3D data remains a relatively unexplored area. In addition, high‐quality, labelled point cloud data for Mechanical, Electrical, and Plumbing (MEP) scenarios are in short supply. To address this issue, the authors introduce a novel object detection system that employs 3D point clouds and 2D camera images, as well as text descriptions as input, using image‐text matching knowledge to guide dense detection models for 3D point clouds in MEP environments. Specifically, the authors put forth the proposition of a language‐guided point cloud modelling (PCM) module, which leverages the shared image weights inherent in the CLIP backbone. This is done with the aim of generating pertinent category information for the target, thereby augmenting the efficacy of 3D point cloud target detection. After sufficient experiments, the proposed point cloud detection system with the PCM module is proven to have a comparable performance with current state‐of‐the‐art networks. The approach has 5.64% and 2.9% improvement in KITTI and SUN‐RGBD, respectively. In addition, the same good detection results are obtained in their proposed MEP scene dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/cvi2.12261"
+    },
+    {
+        "id": 27422,
+        "title": "A Multi-Object Detection Method Based on Adaptive Feature Adjustment of 3D Point Cloud in Indoor Scenes",
+        "authors": "Haiyan Sun, Keng Chen, Shun Zhou, Sichen Jia, Xingquan Cai",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": " Due to the complexity and diversity of indoor environment objects and interference occlusions, the accuracy of multi-object target detection based on 3D point cloud is limited. To address this issue, we present a multi-target detection method based on adaptive feature adjustment (AFA) of 3D point cloud. First, our method preprocesses the dataset and constructs a backbone module. Afterwards, our method uses an improved PointNet[Formula: see text] network for feature adaptive learning, where an AFA module is added to learn the influence relationship between point pairs. The proposed method then establishes the relationship between contexts in the local point set area and extracts the feature of point cloud. Using the idea of Hough voting, our method can generate some votes close to the particle. Using these votes to generate proposal, the proposed method adds CBAM attention mechanisms to both modules of voting and proposal, which can fuse the feature information of the channel and expand the receptive field in space. Our method can enhance the important features and weaken the unimportant features, making the extracted features more directional and enhancing the expressiveness of the network. Finally, the generated results are visualized to complete the multi-target detection of 3D point cloud. To verify the effectiveness of our proposed method, two large datasets with real 3D scanning, scanNet2 and SunRGB-D, are used for training the network. The experimental results show that the proposed method can improve the effectiveness of point cloud target detection in indoor scenes, getting a higher detection accuracy. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218001422550217"
+    },
+    {
+        "id": 27423,
+        "title": "A robust RGB‐D visual odometry with moving object detection in dynamic indoor scenes",
+        "authors": "Xianglong Zhang, Haiyang Yu, Yan Zhuang",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "AbstractSimultaneous localisation and mapping (SLAM) are the basis for many robotic applications. As the front end of SLAM, visual odometry is mainly used to estimate camera pose. In dynamic scenes, classical methods are deteriorated by dynamic objects and cannot achieve satisfactory results. In order to improve the robustness of visual odometry in dynamic scenes, this paper proposed a dynamic region detection method based on RGB‐D images. Firstly, all feature points on the RGB image are classified as dynamic and static using a triangle constraint and the epipolar geometric constraint successively. Meanwhile, the depth image is clustered using the K‐Means method. The classified feature points are mapped to the clustered depth image, and a dynamic or static label is assigned to each cluster according to the number of dynamic feature points. Subsequently, a dynamic region mask for the RGB image is generated based on the dynamic clusters in the depth image, and the feature points covered by the mask are all removed. The remaining static feature points are applied to estimate the camera pose. Finally, some experimental results are provided to demonstrate the feasibility and performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/csy2.12079"
+    },
+    {
+        "id": 27424,
+        "title": "Fixated Object Detection Based on Saliency Prior in Traffic Scenes",
+        "authors": "Yi Shi, Shixuan Zhao, Jiang Wu, Zhangbi Wu, Hongmei Yan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcsvt.2023.3295058"
+    },
+    {
+        "id": 27425,
+        "title": "BANet: Small and multi-object detection with a bidirectional attention network for traffic scenes",
+        "authors": "Sheng-ye Wang, Zhong Qu, Cui-jin Li, Le-yuan Gao",
+        "published": "2023-1",
+        "citations": 20,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2022.105504"
+    },
+    {
+        "id": 27426,
+        "title": "A Quarter Century Journey: Evolution of Object Detection Methods",
+        "authors": "Shreya Jain, Samta Gajbhiye, Achala Jain, Shrikant Tiwari, Kanchan Naithani",
+        "published": "2024-1-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaect60202.2024.10469334"
+    },
+    {
+        "id": 27427,
+        "title": "Exploring automated object detection methods for manholes using classical computer vision and deep learning",
+        "authors": "Shika Rao, Nitya Mitnala",
+        "published": "2023-3-7",
+        "citations": 1,
+        "abstract": "Open, broken, and improperly closed manholes can pose problems for autonomous vehicles and thus need to be included in obstacle avoidance and lane-changing algorithms. In this work, we propose and compare multiple approaches for manhole localization and classification like classical computer vision, convolutional neural networks like YOLOv3 and YOLOv3-Tiny, and vision transformers like YOLOS and ViT. These are analyzed for speed, computational complexity, and accuracy in order to determine the model that can be used with autonomous vehicles. In addition, we propose a size detection pipeline using classical computer vision to determine the size of the hole in an improperly closed manhole with respect to the manhole itself. The evaluation of the data showed that convolutional neural networks are currently better for this task, but vision transformers seem promising.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22630/mgv.2023.32.1.2"
+    },
+    {
+        "id": 27428,
+        "title": "A Comparison of Finetune and Meta Learning Methods for Few-Shot Object Detection in Sonar Images",
+        "authors": "Wei Wei, Feng Zang, Liben Huang, Wei Xue",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nana60121.2023.00095"
+    },
+    {
+        "id": 27429,
+        "title": "Fish age reading using deep learning methods for object-detection and segmentation",
+        "authors": "Arjay Cayetano, Christoph Stransky, Andreas Birk, Thomas Brey",
+        "published": "2024-2-27",
+        "citations": 1,
+        "abstract": "Abstract\nDetermination of individual age is one essential step in the accurate assessment of fish stocks. In non-tropical environments, the manual count of ring-like growth patterns in fish otoliths (ear stones) is the standard method. It relies on visual means and individual judgment and thus is subject to bias and interpretation errors. The use of automated pattern recognition based on machine learning may help to overcome this problem. Here, we employ two deep learning methods based on Convolutional Neural Networks (CNNs). The first approach utilizes the Mask R-CNN algorithm to perform object detection on the major otolith reading axes. The second approach employs the U-Net architecture to perform semantic segmentation on the otolith image in order to segregate the regions of interest. For both methods, we applied a simple postprocessing to count the rings on the output masks returned, which corresponds to the age prediction. Multiple benchmark tests indicate the promising performance of our implemented approaches, comparable to recently published methods based on classical image processing and traditional CNN implementation. Furthermore, our algorithms showed higher robustness compared to the existing methods, while also having the capacity to extrapolate missing age groups and to adapt to a new domain or data source.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/icesjms/fsae020"
+    },
+    {
+        "id": 27430,
+        "title": "A Review on Object Detection Algorithms based Deep Learning Methods",
+        "authors": "Wan Xing, Mohd Rizman Sultan Mohd, Juliana Johari, Fazlina Ahmat Ruslan",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24191/jeesr.v23i1.001"
+    },
+    {
+        "id": 27431,
+        "title": "Object-Aware 3D Scene Reconstruction from Single 2D Images of Indoor Scenes",
+        "authors": "Mingyun Wen, Kyungeun Cho",
+        "published": "2023-1-12",
+        "citations": 2,
+        "abstract": "Recent studies have shown that deep learning achieves excellent performance in reconstructing 3D scenes from multiview images or videos. However, these reconstructions do not provide the identities of objects, and object identification is necessary for a scene to be functional in virtual reality or interactive applications. The objects in a scene reconstructed as one mesh are treated as a single object, rather than individual entities that can be interacted with or manipulated. Reconstructing an object-aware 3D scene from a single 2D image is challenging because the image conversion process from a 3D scene to a 2D image is irreversible, and the projection from 3D to 2D reduces a dimension. To alleviate the effects of dimension reduction, we proposed a module to generate depth features that can aid the 3D pose estimation of objects. Additionally, we developed a novel approach to mesh reconstruction that combines two decoders that estimate 3D shapes with different shape representations. By leveraging the principles of multitask learning, our approach demonstrated superior performance in generating complete meshes compared to methods relying solely on implicit representation-based mesh reconstruction networks (e.g., local deep implicit functions), as well as producing more accurate shapes compared to previous approaches for mesh reconstruction from single images (e.g., topology modification networks). The proposed method was evaluated on real-world datasets. The results showed that it could effectively improve the object-aware 3D scene reconstruction performance over existing methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11020403"
+    },
+    {
+        "id": 27432,
+        "title": "DOP-SLAM: A Visual SLAM for Dynamic Scenes with Dynamic Object Priori",
+        "authors": "Zhexin Dai, Junjie Meng, Junlin Xiong",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450240"
+    },
+    {
+        "id": 27433,
+        "title": "Object Detection in Images: A Survey",
+        "authors": "Sabyasachi Moitra, Sambhunath Biswas",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21275/sr23330184650"
+    },
+    {
+        "id": 27434,
+        "title": "Dense Object Grounding in 3D Scenes",
+        "authors": "Wencan Huang, Daizong Liu, Wei Hu",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3581783.3611902"
+    },
+    {
+        "id": 27435,
+        "title": "Fruit Detection and Counting in Apple Orchards Based on Improved Yolov7 and Multi-Object Tracking Methods",
+        "authors": "Jing Hu, Chuang Fan, Zhoupu Wang, Jinglin Ruan, Suyin Wu",
+        "published": "2023-6-25",
+        "citations": 6,
+        "abstract": "With the increasing popularity of online fruit sales, accurately predicting fruit yields has become crucial for optimizing logistics and storage strategies. However, existing manual vision-based systems and sensor methods have proven inadequate for solving the complex problem of fruit yield counting, as they struggle with issues such as crop overlap and variable lighting conditions. Recently CNN-based object detection models have emerged as a promising solution in the field of computer vision, but their effectiveness is limited in agricultural scenarios due to challenges such as occlusion and dissimilarity among the same fruits. To address this issue, we propose a novel variant model that combines the self-attentive mechanism of Vision Transform, a non-CNN network architecture, with Yolov7, a state-of-the-art object detection model. Our model utilizes two attention mechanisms, CBAM and CA, and is trained and tested on a dataset of apple images. In order to enable fruit counting across video frames in complex environments, we incorporate two multi-objective tracking methods based on Kalman filtering and motion trajectory prediction, namely SORT, and Cascade-SORT. Our results show that the Yolov7-CA model achieved a 91.3% mAP and 0.85 F1 score, representing a 4% improvement in mAP and 0.02 improvement in F1 score compared to using Yolov7 alone. Furthermore, three multi-object tracking methods demonstrated a significant improvement in MAE for inter-frame counting across all three test videos, with an 0.642 improvement over using yolov7 alone achieved using our multi-object tracking method. These findings suggest that our proposed model has the potential to improve fruit yield assessment methods and could have implications for decision-making in the fruit industry.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23135903"
+    },
+    {
+        "id": 27436,
+        "title": "Object detection methods on compressed domain videos: An overview, comparative analysis, and new directions",
+        "authors": "Donghai Zhai, Xiaobo Zhang, Xun Li, Xichen Xing, Yuxin Zhou, Changyou Ma",
+        "published": "2023-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2022.112371"
+    },
+    {
+        "id": 27437,
+        "title": "Robustness of Deep Learning Methods for Occluded Object Detection - A Study Introducing a Novel Occlusion Dataset",
+        "authors": "Ziling Wu, Armaghan Moemeni, Simon Castle-Green, Praminda Caleb-Solly",
+        "published": "2023-6-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191368"
+    },
+    {
+        "id": 27438,
+        "title": "Crowded pedestrian detection with optimal bounding box relocation",
+        "authors": "Ren Han, Meiqi Xu, Songwen Pei",
+        "published": "2024-1-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-18019-5"
+    },
+    {
+        "id": 27439,
+        "title": "Dual Graph Networks for Pose Estimation in Crowded Scenes",
+        "authors": "Jun Tu, Gangshan Wu, Limin Wang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11263-023-01901-y"
+    },
+    {
+        "id": 27440,
+        "title": "Spatio-Temporal FFT Based Approach for Arbitrarily Moving Object Classification in Videos of Protected and Sensitive Scenes",
+        "authors": "Maryam Asadzadehkaljahi, Arnab Halder, Palaiahnakote Shivakumara, Umapada Pal",
+        "published": "2023-4-24",
+        "citations": 1,
+        "abstract": "Arbitrary moving object detection including vehicles and human beings in the real environment, such as protected and sensitive areas, is challenging due to the arbitrary deformation and directions caused by shaky camera and wind. This work aims at adopting a spatio-temporal approach for classifying arbitrarily moving objects. The proposed method segments foreground objects from the background using the frame difference between the median frame and individual frames. This step outputs several different foreground information. The mean of foreground images is computed, which is referred to as the mean activation map. For the mean activation map, the method employs the fast Fourier transform, which outputs amplitude and frequencies. The mean of frequencies is computed for moving objects in using activation maps of temporal frames, which is considered as a frequency feature vector. The features are normalized to avoid the problems of imbalanced features and class sizes. For classification, the work uses 10-fold cross-validation to choose the number of training and testing samples and the random forest classifier is used for the final classification of arbitrary moving and static videos. For evaluating the proposed method, we construct our dataset, which contains videos of static and arbitrarily moving objects caused by shaky cameras and wind. The results of the video dataset show that the proposed method achieves the state-of-the-art performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47852/bonviewaia3202553"
+    },
+    {
+        "id": 27441,
+        "title": "A fully automatic target detection and quantification strategy based on object detection convolutional neural network YOLOv3 for one-step X-ray image grading",
+        "authors": "Nan Chen, Zhichao Feng, Fei Li, Haibo Wang, Ruqin Yu, Jianhui Jiang, Lijuan Tang, Pengfei Rong, Wei Wang",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "A novel modeling strategy based on YOLO version 3 (YOLOv3) for automatic simultaneous localization of knee joints and quantification of radiographic knee OA.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1039/d2ay01526a"
+    },
+    {
+        "id": 27442,
+        "title": "Multi-Object Detection Using YOLOv7 Object Detection Algorithm on Mobile Device",
+        "authors": "Patricia Citranegara Kusuma, Benfano Soewito",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "This research discusses the importance of enhancing real-time object detection on mobile devices by introducing a new multi-object detection system that uses the quantified YOLOv7 model. Focusing on the complexities of food item detection, particularly in diverse and intricate contexts, our study uses a dataset that includes five food classes. By investigating the influence of data quantity on the detection model, we demonstrate the superiority of larger datasets in both YOLOv5 and YOLOv7. In addition, our comparison shows that YOLOv7 has better precision, recall, and F1-score values compared to YOLOv5. The crucial methodological contribution lies in the successful quantification of the YOLOv7 model, reducing the model size from 28.6 KB to 14.3 KB and enabling seamless mobile application development. This high-performance mobile application displays a real-time interface response time of 235ms, with precision, recall, and F1-score values of 0.923, 0.9, and 0.911, respectively. Beyond the practical implications for informed dietary choices and improved health outcomes, our study develops object detection techniques theoretically, offering valuable insights that can be applied across various domains and emphasizing the potential impact of our approach on both theory and practice",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37385/jaets.v5i1.3207"
+    },
+    {
+        "id": 27443,
+        "title": "A Novel Approach to Object Detection: Object Search",
+        "authors": "Madhav Singh",
+        "published": "2023-1-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icct56969.2023.10076212"
+    },
+    {
+        "id": 27444,
+        "title": "Text-Guided Salient Object Detection",
+        "authors": "Zixian Xu, Luanqi Liu, Yingxun Wang, Xue Wang, Pu Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012284400003807"
+    },
+    {
+        "id": 27445,
+        "title": "GSMR-CNN: An End-to-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes",
+        "authors": "Valerija Holomjova, Andrew J. Starkey, Pascal Meißner",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161009"
+    },
+    {
+        "id": 27446,
+        "title": "Does gender affect the processing of object classification in natural scenes",
+        "authors": "Weiqiang Peng, Xin Wang, Dongjie Lang, Weina Zhu",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2671092"
+    },
+    {
+        "id": 27447,
+        "title": "TenebrioVision: A Fully Annotated Dataset of Tenebrio Molitor Larvae Worms in a Controlled Environment for Accurate Small Object Detection and Segmentation",
+        "authors": "Angelos-Michael Papadopoulos, Paschalis Melissas, Anestis Kastellos, Panagiotis Katranitsiotis, Panagiotis Zaparas, Konstantinos Stavridis, Petros Daras",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012295900003654"
+    },
+    {
+        "id": 27448,
+        "title": "Neural Network-based Positioning System for Localisation and 3D Shape Detection in Crowded IoT Networks",
+        "authors": "Anand Singh, Rishu Raj, Dan Kilper",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/apscon60364.2024.10466181"
+    },
+    {
+        "id": 27449,
+        "title": "Object detection method based on lightweight YOLOv4 and attention mechanism in security scenes",
+        "authors": "Peng Ding, Huaming Qian, Yipeng Zhou, Shuai Chu",
+        "published": "2023-4",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11554-023-01263-1"
+    },
+    {
+        "id": 27450,
+        "title": "Ensuring Safe and Reliable Wireless Charging of Unmanned Aerial Vehicles: The Imperative for Foreign Object Detection Methods",
+        "authors": "Sushan Pradhan, Avishek Munsi, Kunwar Aditya",
+        "published": "2023-8-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sefet57834.2023.10245524"
+    },
+    {
+        "id": 27451,
+        "title": "Efficient Object Detection and Classification Approach Using an Enhanced Moving Object Detection Algorithm in Motion Videos",
+        "authors": "K. Madhan, N. Shanmugapriya",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "Object detection and classification have become prominent research topics in computer vision due to their applications in areas such as visual tracking. Despite advancements, vision-based methods for detecting smaller targets and densely packed objects with high accuracy in complex dynamic environments still encounter challenges. This paper introduces a novel and enhanced approach for hyperbolic shadow detection and object classification based on the Enhanced Moving Object Detection (EMOD) algorithm and an improved manta ray-based convolutional neural network optimized for search. In the preprocessing phase, the video data transforms into a sequence of frames, with polynomial adaptive antialiasing applied to maintain frame size and reduce noise. Additionally, an enhanced boundary area preservation algorithm improves the contrast of noise-free edited image sequences. To achieve high-precision detection of smaller objects, the Grib profile of each detected object is also tracked. Finally, a convolutional neural network method employing an enhanced Manta search optimization is deployed for target detection and classification. Comparative experiments conducted across diverse datasets and benchmark methods demonstrate significantly improved accuracy and expanded capabilities in detection and classification.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.51983/ijiss-2024.14.1.3895"
+    },
+    {
+        "id": 27452,
+        "title": "Two-stage filtering method to improve the performance of object detection trained by synthetic dataset in heavily cluttered industry scenes",
+        "authors": "Pengzhou Tang, Yu Guo, Guanguan Zheng, Liangliang Zheng, Jun Pu, Jian Wang, Zifan Chen",
+        "published": "2024-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00371-023-02899-7"
+    },
+    {
+        "id": 27453,
+        "title": "Learning Mutually in Crowd Scenes for Pedestrian Detection",
+        "authors": "Ruonan Wei, Yuehuan Wang, Jinpu Zhang",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222019"
+    },
+    {
+        "id": 27454,
+        "title": "Research on dense object detection methods in congested environments of urban streets and roads based on DCYOLO",
+        "authors": "Shuhai Jiang, Bowen Luo, Haoyue Jiang, Zhongkai Zhou, Shangjie Sun",
+        "published": "2024-1-11",
+        "citations": 0,
+        "abstract": "AbstractThe urban street is a congested environment that contains a large number of occluded and size-differentiated objects. Aiming at the problems of the loss of the target to be detected and low detection accuracy resulting from this situation, a newly improved algorithm, based on YOLOv4, DCYOLO is proposed. Firstly, a Difference sensitive network (DSN) is introduced to extract the edge features of objects from the original image. Then, assign the edge features back to increase the edge intensity of the object in the original image and ultimately improve the detection performance. Secondly, the feature fusion module (CFFB) based on context information is introduced to realize the cross-scale fusion of shallow fine-grained features and deep-level features, to strengthen the cross-scale semantic information fusion of feature maps and eventually improve the performance of object detection. At last, in the network prediction part, the SIOU loss function replaces the original CIOU loss function to improve the convergence speed and accuracy of object detection. The experiments based on MS COCO 2017 and self-made datasets show that, compared with the YOLOv4, the detection accuracy of DCYOLO models is greatly improved with an increase of 9.1 percentage points in AP and 10.4 percentage points in APs. Compared with YOLOv5x and Faster R-CNN, DCYOLO shows higher accuracy and better detection performance. The experiment result proves that the DCYOLO algorithm can adapt to the dense object detection requirements in the congested environment of urban streets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-024-51868-0"
+    },
+    {
+        "id": 27455,
+        "title": "Research on 3D Point Cloud Object Detection Methods Based on Deep Learning",
+        "authors": "Shangsong Lv, Xuemei Li, Bin Liu",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bdicn58493.2023.00014"
+    },
+    {
+        "id": 27456,
+        "title": "MOSE: A New Dataset for Video Object Segmentation in Complex Scenes",
+        "authors": "Henghui Ding, Chang Liu, Shuting He, Xudong Jiang, Philip H.S. Torr, Song Bai",
+        "published": "2023-10-1",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01850"
+    },
+    {
+        "id": 27457,
+        "title": "Human Object Interaction Detection Primed with Context",
+        "authors": "Maya Antoun, Daniel Asmar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011612200003417"
+    },
+    {
+        "id": 27458,
+        "title": "Sph2Pob: Boosting Object Detection on Spherical Images with Planar Oriented Boxes Methods",
+        "authors": "Xinyuan Liu, Hang Xu, Bin Chen, Qiang Zhao, Yike Ma, Chenggang Yan, Feng Dai",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "Object detection on panoramic/spherical images has been developed rapidly in the past few years, where IoU-calculator is a fundamental part of various detector components, i.e. Label Assignment, Loss and NMS. Due to the low efficiency and non-differentiability of spherical Unbiased IoU, spherical approximate IoU methods have been proposed recently. We find that the key of these approximate methods is to map spherical boxes to planar boxes. However, there exists two problems in these methods: (1) they do not eliminate the influence of panoramic image distortion; (2) they break the original pose between bounding boxes. They lead to the low accuracy of these methods. Taking the two problems into account, we propose a new sphere-plane boxes transform, called Sph2Pob. Based on the Sph2Pob, we propose (1) an differentiable IoU, Sph2Pob-IoU, for spherical boxes with low time-cost and high accuracy and (2) an agent Loss, Sph2Pob-Loss, for spherical detection with high flexibility and expansibility. Extensive experiments verify the effectiveness and generality of our approaches, and Sph2Pob-IoU and Sph2Pob-Loss together boost the performance of spherical detectors. The source code is available at https://github.com/AntXinyuan/sph2pob.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/137"
+    },
+    {
+        "id": 27459,
+        "title": "Pseudoneglect during object search in naturalistic scenes",
+        "authors": "Antje Nuthmann, Christopher N. L. Clark",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "AbstractPseudoneglect, that is the tendency to pay more attention to the left side of space, is typically assessed with paper-and-pencil tasks, particularly line bisection. In the present study, we used an everyday task with more complex stimuli. Subjects’ task was to look for pre-specified objects in images of real-world scenes. In half of the scenes, the search object was located on the left side of the image (L-target); in the other half of the scenes, the target was on the right side (R-target). To control for left–right differences in the composition of the scenes, half of the scenes were mirrored horizontally. Eye-movement recordings were used to track the course of pseudoneglect on a millisecond timescale. Subjects’ initial eye movements were biased to the left of the scene, but less so for R-targets than for L-targets, indicating that pseudoneglect was modulated by task demands and scene guidance. We further analyzed how horizontal gaze positions changed over time. When the data for L- and R-targets were pooled, the leftward bias lasted, on average, until the first second of the search process came to an end. Even for right-side targets, the gaze data showed an early left-bias, which was compensated by adjustments in the direction and amplitude of later saccades. Importantly, we found that pseudoneglect affected search efficiency by leading to less efficient scan paths and consequently longer search times for R-targets compared with L-targets. It may therefore be prudent to take spatial asymmetries into account when studying visual search in scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00221-023-06679-6"
+    },
+    {
+        "id": 27460,
+        "title": "HOKEM: Human and Object Keypoint-Based Extension Module for Human-Object Interaction Detection",
+        "authors": "Yoshiki Ito",
+        "published": "2023-10-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222203"
+    },
+    {
+        "id": 27461,
+        "title": "Regulating confidence by corner discrepancy and center score in corner-based object detection methods",
+        "authors": "Zihang He, Kaiyan Zhao, Bohan Li, Yong Li",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "This paper proposes an approach that regulates the confidence of predicted boxes for corner-based detection methods. Corner-based methods have achieved state-of-the-art performance on MS-COCO by predicting corners and grouping them to generate boxes. However, the box confidence is simply defined to be the average score of grouped corners, ignoring the score and tag discrepancy between them. The discrepancy may lead to the generation of more false positives (FPs) since a larger discrepancy often means that the grouped corners less likely belong to the same object. Observing this, this paper proposes introducing the discrepancy of corners (DoC) to decrease the box confidence. Also, the score and location of center (SLoC) of a detection box is utilized to further finely regulate the confidence. DoC and SLoC can effectively reduce FPs and missings and hence improve the detection performance without changing any model parameter. Experimental results on MS-COCO also show improvements.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-212804"
+    },
+    {
+        "id": 27462,
+        "title": "Object Detection Methods for a Robot Soccer",
+        "authors": "Ramir Sultanov, Roman Lavrenov, Shifa Sulaiman, Yang Bai, Mikhail Svinin, Evgeni Magid",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icct58878.2023.10347064"
+    },
+    {
+        "id": 27463,
+        "title": "Enhancing the interpretability of anomaly detection methods for the prediction of foreign object contamination",
+        "authors": "Takashi OHNISHI, Keiichi WATANUKI",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1299/jsmeidecon.2023.0_49"
+    },
+    {
+        "id": 27464,
+        "title": "Self-supervised Human-Object Interaction of Complex Scenes with Context-aware Mixing: Towards In-store Consumer Behavior Analysis",
+        "authors": "Takashi Kikuchi, Shun Takeuchi",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacvw60836.2024.00086"
+    },
+    {
+        "id": 27465,
+        "title": "Detection of surreptitious photography based on object detection",
+        "authors": "C. Shenwei, C. Lin",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/icp.2024.0071"
+    },
+    {
+        "id": 27466,
+        "title": "A Deep Multi-Object Tracking Technique in Swimming Video Scenes",
+        "authors": "Dong-Yeon Shin, Timothy Woinoski, Ivan V. Bajić, Seong-Won Lee",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icce-asia59966.2023.10326403"
+    },
+    {
+        "id": 27467,
+        "title": "Hybrid 3D Reconstruction of Indoor Scenes Integrating Object Recognition",
+        "authors": "Mingfan Li, Minglei Li, Li Xu, Mingqiang Wei",
+        "published": "2024-2-8",
+        "citations": 0,
+        "abstract": "Indoor 3D reconstruction is particularly challenging due to complex scene structures involving object occlusion and overlap. This paper presents a hybrid indoor reconstruction method that segments the room point cloud into internal and external components, and then reconstructs the room shape and the indoor objects in different ways. We segment the room point cloud into internal and external points based on the assumption that the room shapes are composed of some large external planar structures. For the external, we seek for an appropriate combination of intersecting faces to obtain a lightweight polygonal surface model. For the internal, we define a set of features extracted from the internal points and train a classification model based on random forests to recognize and separate indoor objects. Then, the corresponding computer aided design (CAD) models are placed in the target positions of the indoor objects, converting the reconstruction into a model fitting problem. Finally, the indoor objects and room shapes are combined to generate a complete 3D indoor model. The effectiveness of this method is evaluated on point clouds from different indoor scenes with an average fitting error of about 0.11 m, and the performance is validated by extensive comparisons with state-of-the-art methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs16040638"
+    },
+    {
+        "id": 27468,
+        "title": "Data-Efficient Transformer-Based 3D Object Detection",
+        "authors": "Aidana Nurakhmetova, Jean Lahoud, Hisham Cholakkal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011673200003417"
+    },
+    {
+        "id": 27469,
+        "title": "Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection",
+        "authors": "Feng Gao, Jiaxu Leng, Ji Gan, Xinbo Gao",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3581783.3612189"
+    },
+    {
+        "id": 27470,
+        "title": "Survey and systematization of 3D object detection models and methods",
+        "authors": "Moritz Drobnitzky, Jonas Friederich, Bernhard Egger, Patrick Zschech",
+        "published": "2024-3",
+        "citations": 2,
+        "abstract": "AbstractStrong demand for autonomous vehicles and the wide availability of 3D sensors are continuously fueling the proposal of novel methods for 3D object detection. In this paper, we provide a comprehensive survey of recent developments from 2012–2021 in 3D  object detection covering the full pipeline from input data, over data representation and feature extraction to the actual detection modules. We introduce fundamental concepts, focus on a broad range of different approaches that have emerged over the past decade, and propose a systematization that provides a practical framework for comparing these approaches with the goal of guiding future development, evaluation, and application activities. Specifically, our survey and systematization of 3D object detection models and methods can help researchers and practitioners to get a quick overview of the field by decomposing 3DOD solutions into more manageable pieces.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00371-023-02891-1"
+    },
+    {
+        "id": 27471,
+        "title": "Anomaly Detection in Surveillance Scenes Using Autoencoders",
+        "authors": "Kinjal V. Joshi, Narendra M. Patel",
+        "published": "2023-10-16",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02260-8"
+    },
+    {
+        "id": 27472,
+        "title": "A Multi object Tracking Method for Complex Scenes Based on Edge Feature Extraction of Video Images",
+        "authors": "Wei Li, Haidi Yuan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijris.2024.10061379"
+    },
+    {
+        "id": 27473,
+        "title": "Vehicle Detection in Complex Scenes based on YOLOV5",
+        "authors": "Hongbo Zhang, Junhan Mu",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "The purpose of the algorithm is to effectively detect vehicles in different conditions, especially in scenes recorded by vehicle recorders. The proposed method is designed to handle complex scenarios with high accuracy and efficiency. Through the use of YOLOV5, the algorithm is able to identify and locate vehicles despite occlusions, density, and low lighting.  The intermediate hidden layer's activation function is achieved by using the Leaky ReLU, and data enhancement strategies are utilized to enhance detection performance. By recognizing 100 images of traffic vehicles in complex scenes, the validation results show that the recognition rate of this recognition method is 78.87%, 89.11% and 91.88% for occluded vehicles, crowded vehicles and independent vehicles, respectively. Furthermore, the recognition speed reached 0.012 s/a, which was reduced by 0.005s compared to the original time. All the results demonstrate that the proposed algorithm has a high recognition rate and real-time speed for the complex scenes, indicating that the convolutional neural network has a promising future in the vehicle detection of complex application scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/wk2n8712"
+    },
+    {
+        "id": 27474,
+        "title": "Pedestrian Detection Algorithm Using Local Feature Cascade Classifier in Traffic Scenes",
+        "authors": "Lixia Liu",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ipec57296.2023.00019"
+    },
+    {
+        "id": 27475,
+        "title": "Hybrid Cross-Feature Interaction Attention Module for Object Detection in Intelligent Mobile Scenes",
+        "authors": "Di Tian, Yi Han, Yongtao Liu, Jiabo Li, Ping Zhang, Ming Liu",
+        "published": "2023-10-17",
+        "citations": 0,
+        "abstract": "Object detection is one of the fundamental tasks in computer vision, holding immense significance in the realm of intelligent mobile scenes. This paper proposes a hybrid cross-feature interaction (HCFI) attention module for object detection in intelligent mobile scenes. Firstly, the paper introduces multiple kernel (MK) spatial pyramid pooling (SPP) based on SPP and improves the channel attention using its structure. This results in a hybrid cross-channel interaction (HCCI) attention module with better cross-channel interaction performance. Additionally, we bolster spatial attention by incorporating dilated convolutions, leading to the creation of the cross-spatial interaction (CSI) attention module with superior cross-spatial interaction performance. By seamlessly combining the above two modules, we achieve an improved HCFI attention module without resorting to computationally expensive operations. Through a series of experiments involving various detectors and datasets, our proposed method consistently demonstrates superior performance. This results in a performance improvement of 1.53% for YOLOX on COCO and a performance boost of 2.05% for YOLOv5 on BDD100K. Furthermore, we propose a solution that combines HCCI and HCFI to address the challenge of extremely small output feature layers in detectors, such as SSD. The experimental results indicate that the proposed method significantly improves the attention capability of object detection in intelligent mobile scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15204991"
+    },
+    {
+        "id": 27476,
+        "title": "Detection and analyzing the quality of thermal imager for moving object at different ranges",
+        "authors": "Ahmed Fadhil Abdul Raheem, Azhr Abdulzahraa Raheem, Fadhil Khaddam Fuliful",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0114843"
+    },
+    {
+        "id": 27477,
+        "title": "Antipodal-points-aware dual-decoding network for robotic visual grasp detection oriented to multi-object clutter scenes",
+        "authors": "Hongkun Tian, Kechen Song, Jing Xu, Shuai Ma, Yunhui Yan",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.120545"
+    },
+    {
+        "id": 27478,
+        "title": "3D Object Detection Based on Neighborhood Graph Search in Dense Scenes",
+        "authors": "Liangji Chen, Zhiling Wang, Hanqi Wang, Pengfei Zhou",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3598151.3598182"
+    },
+    {
+        "id": 27479,
+        "title": "Research on Mask Wearing Detection Algorithm in Complex Scenes",
+        "authors": "Dongzhao Zhang, Hongqiong Huang",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ispds58840.2023.10235428"
+    },
+    {
+        "id": 27480,
+        "title": "Rethinking the Backbone Architecture for Tiny Object Detection",
+        "authors": "Jinlai Ning, Haoyan Guan, Michael Spratling",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011643500003417"
+    },
+    {
+        "id": 27481,
+        "title": "An Experimental Analysis of Object Recognition Performance Under Different Lighting Scenes for Varying CCT of LED Light Sources",
+        "authors": "Aiswarya Dev Goswami, Jyotipriya Roy, Suddhasatwa Chakraborty, Pallav Dutta",
+        "published": "2023-6-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ls1858153.2023.10170594"
+    },
+    {
+        "id": 27482,
+        "title": "ScanEnts3D: Exploiting Phrase-to-3D-Object Correspondences for Improved Visio-Linguistic Models in 3D Scenes",
+        "authors": "Ahmed Abdelreheem, Kyle Olszewski, Hsin-Ying Lee, Peter Wonka, Panos Achlioptas",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00349"
+    },
+    {
+        "id": 27483,
+        "title": "Edge Device Verification Techniques for Updated Object Detection AI via Target Object Existence Detector",
+        "authors": "Akira Kitayama, Goichi Ono, Hiroaki Ito",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10448610"
+    },
+    {
+        "id": 27484,
+        "title": "A Dual-Branch Awareness Network for Small Object Segmentation in Large-Scale Remote Sensing Scenes",
+        "authors": "Qianpeng Chong, Jindong Xu",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10281868"
+    },
+    {
+        "id": 27485,
+        "title": "Towards Industry 4.0: Color-Based Object Sorting Using a Robot Arm and  Real-Time Object Detection",
+        "authors": "Ong ZeChern",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "With the introduction of Industry 4.0, automation and robotics have made great strides, enabling \r\nenterprises to improve their manufacturing processes for increased productivity and efficiency. This project \r\nintroduces a novel method for implementing Industry 4.0 concepts through color-based object sorting employing \r\na robot arm with real-time object identification capabilities. Creating a reliable and effective system that can \r\nautomatically categorize items based on their color properties is the main goal of this project. To enable seamless \r\nobject recognition and manipulation in real time, the suggested system integrates robotic manipulation with \r\ncomputer vision algorithms. The system makes use of a convolutional neural network (CNN) for precise object \r\ndetection, using recent advancements in deep learning and image processing, allowing the robot arm to interact \r\nwith a variety of items effectively. The training phase and the sorting phase are the two key phases of the \r\napproach. The CNN model is trained on a sizable dataset of labeled objects during the training phase to recognize \r\nvarious colors and forms. In order for the robotic arm to recognize things as they go along the conveyor belt and \r\nsort them into predetermined bins according to their respective colors, the trained model must be integrated with \r\nthe robotic arm during the sorting phase. Several experiments are carried out with various lighting setups and \r\nobject arrangements to evaluate the performance of the suggested system. The outcomes show how well the \r\nsystem performs in terms of exact object detection and reliable sorting. The system's capacity to effectively \r\nhandle a variety of objects and adapt to changing environmental conditions further emphasizes its suitability for \r\nuse in actual industrial scenarios. This project has important ramifications for the manufacturing sector, enabling \r\nimproved automation capabilities and cost-efficiency. An important step towards implementing Industry 4.0 \r\nprinciples is the seamless integration of color-based object sorting and real-time object detection using a robotic \r\narm. This will allow industries to optimize their production processes, minimize human intervention, and \r\nincrease overall productivity. Further developments in robotics and computer vision are anticipated to push the \r\nlimits of automation and open the door for more advanced and intelligent industrial systems as technology \r\ndevelops.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59429/ima.v1i1.125"
+    },
+    {
+        "id": 27486,
+        "title": "Object-Oriented Cutout Data Augmentation for Tiny Object Detection",
+        "authors": "Sunhyuk Yim, MyeongAh Cho, Sangyoun Lee",
+        "published": "2023-6-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itc-cscc58803.2023.10212481"
+    },
+    {
+        "id": 27487,
+        "title": "Research on Target Detection Algorithm for Complex Scenes",
+        "authors": "Changyu Yang, Honghui Fan, Hongjin Zhu",
+        "published": "2023-2-24",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itnec56291.2023.10082670"
+    },
+    {
+        "id": 27488,
+        "title": "Object-Level Feature Memory and Aggregation for Live-Stream Video Object Detection",
+        "authors": "Yi Li, Sile Ma, Zhenyu Li, Yizhong Luan, Zecui Jiang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450768"
+    },
+    {
+        "id": 27489,
+        "title": "A multi-target cow face detection model in complex scenes",
+        "authors": "Xuemei Lei, Xiaowei Wen, Zheng Li",
+        "published": "2024-3-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00371-024-03301-w"
+    },
+    {
+        "id": 27490,
+        "title": "Implementation of an Object Detection System using Convolutional Neural Networks",
+        "authors": "P. Divakar, V. Pavani",
+        "published": "2024-3-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.5.0324.0769"
+    },
+    {
+        "id": 27491,
+        "title": "Free and open-source software for object detection, size, and colour determination for use in plant phenotyping",
+        "authors": "Harry Charles Wright, Frederick Antonio Lawrence, Anthony John Ryan, Duncan Drummond Cameron",
+        "published": "2023-11-15",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nObject detection, size determination, and colour detection of images are tools commonly used in plant science. Key examples of this include identification of ripening stages of fruit such as tomatoes and the determination of chlorophyll content as an indicator of plant health. While methods exist for determining these important phenotypes, they often require proprietary software or require coding knowledge to adapt existing code.\n\nResults\nWe provide a set of free and open-source Python scripts that, without any adaptation, are able to perform background correction and colour correction on images using a ColourChecker chart. Further scripts identify objects, use an object of known size to calibrate for size, and extract the average colour of objects in RGB, Lab, and YUV colour spaces. We use two examples to demonstrate the use of these scripts. We show the consistency of these scripts by imaging in four different lighting conditions, and then we use two examples to show how the scripts can be used. In the first example, we estimate the lycopene content in tomatoes (Solanum lycopersicum) var. Tiny Tim using fruit images and an exponential model to predict lycopene content. We demonstrate that three different cameras (a DSLR camera and two separate mobile phones) are all able to model lycopene content. The models that predict lycopene or chlorophyll need to be adjusted depending on the camera used. In the second example, we estimate the chlorophyll content of basil (Ocimum basilicum) using leaf images and an exponential model to predict chlorophyll content.\n\nConclusion\nA fast, cheap, non-destructive, and inexpensive method is provided for the determination of the size and colour of plant materials using a rig consisting of a lightbox, camera, and colour checker card and using free and open-source scripts that run in Python 3.8. This method accurately predicted the lycopene content in tomato fruit and the chlorophyll content in basil leaves.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13007-023-01103-0"
+    },
+    {
+        "id": 27492,
+        "title": "Object Detection Using Tensorflow Lite",
+        "authors": "Anand Kumar Kashyap, Himanshu Srivastava, Devanand Yadav, Abhishek Nishad, Shivam Verma, Abhishek Shahi",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.4.523.40694"
+    },
+    {
+        "id": 27493,
+        "title": "PanoTherm: Panoramic Thermal Imaging for Object Detection and Tracking",
+        "authors": "Thomas Kernbauer, Philipp Fleck, Clemens Arth",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012330400003660"
+    },
+    {
+        "id": 27494,
+        "title": "PASSD: an improved SSD object detection algorithm based on feature fusion with feedback-based loss for small object detection",
+        "authors": "SiQi Pei, Zhong SongYi, YunHao Liu, JiaSheng Pan",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2684313"
+    },
+    {
+        "id": 27495,
+        "title": "Application of Cascade Methods as a Universal Object Detection Tool",
+        "authors": "D. P. Matalov, S. A. Usilin, D. P. Nikolaev, V. V. Arlazarov",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1134/s1054661823040302"
+    },
+    {
+        "id": 27496,
+        "title": "One-Stage Methods of Computer Vision Object Detection to Classify Carious Lesions from Smartphone Imaging",
+        "authors": "S. M. Siamus Salahin, M. D. Shefat Ullaa, Saif Ahmed, Nabeel Mohammed, Taseef Hasan Farook, James Dudley",
+        "published": "2023-4-4",
+        "citations": 5,
+        "abstract": "The current study aimed to implement and validate an automation system to detect carious lesions from smartphone images using different one-stage deep learning techniques. 233 images of carious lesions were captured using a smartphone camera system at 1432 × 1375 pixels, then classified and screened according to a visual caries classification index. Following data augmentation, the YOLO v5 model for object detection was used. After training the model with 1452 images at 640 × 588 pixel resolution, which included the ones that were created via image augmentation, a discrimination experiment was performed. Diagnostic indicators such as true positive, true negative, false positive, false negative, and mean average precision were used to analyze object detection performance and segmentation of systems. YOLO v5X and YOLO v5M models achieved superior performance over the other models on the same dataset. YOLO v5X’s mAP was 0.727, precision was 0.731, and recall was 0.729, which was higher than other models of YOLO v5, which generated 64% accuracy, with YOLO v5M producing slightly inferior results. Overall mAPs of 0.70, precision of 0.712, and recall of 0.708 were achieved. Object detection through the current YOLO models was able to successfully extract and classify regions of carious lesions from smartphone photographs of in vitro tooth specimens with reasonable accuracy. YOLO v5M was better fit to detect carious microcavitations while YOLO v5X was able to detect carious changes without cavitation. No single model was capable of adequately diagnosing all classifications of carious lesions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/oral3020016"
+    },
+    {
+        "id": 27497,
+        "title": "Vehicular/Non-Vehicular Multi-Class Multi-Object Tracking in Drone-based Aerial Scenes",
+        "authors": "Igor Bisio, Chiara Garibotto, Halar Haleem, Fabio Lavagetto, Andrea Sciarrone",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tvt.2023.3332132"
+    },
+    {
+        "id": 27498,
+        "title": "A High-Precision Fall Detection Model Based on Dynamic Convolution in Complex Scenes",
+        "authors": "Yong Qin, Wuqing Miao, Chen Qian",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "Falls can cause significant harm, and even death, to elderly individuals. Therefore, it is crucial to have a highly accurate fall detection model that can promptly detect and respond to changes in posture. The YOLOv8 model may not effectively address the challenges posed by deformation, different scale targets, and occlusion in complex scenes during human falls. This paper presented ESD-YOLO, a new high-precision fall detection model based on dynamic convolution that improves upon the YOLOv8 model. The C2f module in the backbone network was replaced with the C2Dv3 module to enhance the network’s ability to capture complex details and deformations. The Neck section used the DyHead block to unify multiple attentional operations, enhancing the detection accuracy of targets at different scales and improving performance in cases of occlusion. Additionally, the algorithm proposed in this paper utilized the loss function EASlideloss to increase the model’s focus on hard samples and solve the problem of sample imbalance. The experimental results demonstrated a 1.9% increase in precision, a 4.1% increase in recall, a 4.3% increase in mAP0.5, and a 2.8% increase in mAP0.5:0.95 compared to YOLOv8. Specifically, it has significantly improved the precision of human fall detection in complex scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13061141"
+    },
+    {
+        "id": 27499,
+        "title": "Object localization and edge refinement network for salient object detection",
+        "authors": "Zhaojian Yao, Luping Wang",
+        "published": "2023-3",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.118973"
+    },
+    {
+        "id": 27500,
+        "title": "Color-Object Semantics Affects Object Detection",
+        "authors": "Karen B. Schloss, Carter M. Thompson, Jingming Xue, Mary A. Peterson",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1167/jov.23.9.5528"
+    },
+    {
+        "id": 27501,
+        "title": "Clutter Detection and Removal in 3D Scenes with View-Consistent Inpainting",
+        "authors": "Fangyin Wei, Thomas Funkhouser, Szymon Rusinkiewicz",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01662"
+    },
+    {
+        "id": 27502,
+        "title": "Evaluation of SSD Architecture for Small Size Object Detection: A Case Study on UAV Oil Pipeline MonitoringEvaluation of SSD Architecture for Small Size Object Detection: A Case Study on UAV Oil Pipeline Monitoring",
+        "authors": "Annisa Istiqomah Arrahmah, Rissa Rahmania, Dany Eka Saputra",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "Oil pipeline monitoring using Unmanned Airborne Vehicles (UAV) can be done by utilizing Deep Learning. Deep Learning can be used to automatically detect harmed or unauthorized objects near the pipeline for further action by the authority. Input video in the pipeline area taken from the UAV has unique characteristics. It has low resolution with dense composition object in the image. The detected object also has a small scale as the objects are far away from the UAV. Thus, the selection of the Deep Learning algorithm is important to get a desirable result with the following conditions. Single Shot Multi-Box (SSD) is one of the popular Deep Learning algorithms with fast calculation compared to others and suitable for real-time object detection. Previous works on this topic using low to medium altitude dataset (20–200 m). This paper provides an evaluation of SSD implementation to detect vehicles on high-altitude dataset (300 m). As much as 2482 dataset is fed into SSD architecture and trained to detect 3 class of vehicles. The result shows the mAP and mAR are 0.026360 and 0.067377, respectively. However, the low lost function value shows that the model is able to classify the object correctly. In conclusion, the SSD cannot process low density information to correctly locate the object.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18178/joig.11.4.384-390"
+    },
+    {
+        "id": 27503,
+        "title": "Image Augmentation for Object Detection and Segmentation with Diffusion Models",
+        "authors": "Leon Useinov, Valeria Efimova, Sergey Muravyov",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012474500003660"
+    },
+    {
+        "id": 27504,
+        "title": "Image Quality Assessment for Object Detection Performance in Surveillance Videos",
+        "authors": "Poonam Beniwal, Pranav Mantini, Shishir Shah",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011697300003417"
+    }
+]

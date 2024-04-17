@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 30305,
+        "title": "Localization of a Mobile Fastening Robot Based on a Single Camera and two Ultrasonic Sensors",
+        "authors": "Jiefeng Jiang, Fengfeng Xi",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610429"
+    },
+    {
+        "id": 30306,
+        "title": "Reliable Monte Carlo localization for mobile robots",
+        "authors": "Naoki Akai",
+        "published": "2023-5",
+        "citations": 5,
+        "abstract": "AbstractReliability is a key factor for realizing safety guarantee of fully autonomous robot systems. In this paper, we focus on reliability in mobile robot localization. Monte Carlo localization (MCL) is widely used for mobile robot localization. However, it is still difficult to guarantee its safety because there are no methods determining reliability for MCL estimate. This paper presents a novel localization framework that enables robust localization, reliability estimation, and quick relocalization, simultaneously. The presented method can be implemented using a similar estimation manner to that of MCL. The method can increase localization robustness to environment changes by estimating known and unknown obstacles while performing localization; however, localization failure of course occurs by unanticipated errors. The method also includes a reliability estimation function that enables a robot to know whether localization has failed. Additionally, the method can seamlessly integrate a global localization method via importance sampling. Consequently, quick relocalization from a failure state can be realized while mitigating noisy influence of global localization. We conduct three types of experiments using wheeled mobile robots equipped with a two‐dimensional LiDAR. Results show that reliable MCL that performs robust localization, self‐failure detection, and quick failure recovery can be realized.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22149"
+    },
+    {
+        "id": 30307,
+        "title": "Mapping, Localization and Navigation for an Assistive Mobile Robot in a Robot-Inclusive Space",
+        "authors": "Prabhu Naraharisetti, Michael Saliba, Simon Fabri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012172900003543"
+    },
+    {
+        "id": 30308,
+        "title": "Redundant and Loosely Coupled LiDAR-Wi-Fi Integration for Robust Global Localization in Autonomous Mobile Robotics",
+        "authors": "Nikolaos Stathoulopoulos, Emanuele Pagliari, Luca Davoli, George Nikolakopoulos",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406402"
+    },
+    {
+        "id": 30309,
+        "title": "Ad Hoc Mesh Network Localization Using Ultra-Wideband for Mobile Robotics",
+        "authors": "Marius F. R. Juston, William R. Norris",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "This article explores the implementation of high-accuracy GPS-denied ad hoc localization. Little research exists on ad hoc ultra-wideband-enabled localization systems with mobile and stationary nodes. This work aims to demonstrate the localization of bicycle-modeled robots in a non-static environment through a mesh network of mobile, stationary robots, and ultra-wideband sensors. The non-static environment adds a layer of complexity when actors can enter and exit the node’s field of view. The method starts with an initial localization step where each unmanned ground vehicle (UGV) uses the surrounding, available anchors to derive an initial local or, if possible, global position estimate. The initial localization uses a simplified implementation of the iterative multi-iteration ad hoc localization system (AHLos). This estimate was refined using an unscented Kalman filter (UKF) following a constant turn rate and velocity magnitude model (CTRV). The UKF then fuses the robot’s odometry and the range measurements from the Decawave ultra-wideband receivers stationed on the network nodes. Through this position estimation stage, the robot broadcasts its estimated position to its neighbors to help the others further improve their localization estimates and localize themselves. This wave-like cycle of nodes helping to localize each other allows the network to act as a mobile ad hoc localization network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24041154"
+    },
+    {
+        "id": 30310,
+        "title": "Leader Following Control of Non-holonomic Mobile Robots Using EKF-based Localization",
+        "authors": "Arpit Joon, Wojciech Kowalczyk",
+        "published": "2023-8-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242474"
+    },
+    {
+        "id": 30311,
+        "title": "Mobile Robot Self-localization and Table Tennis Detection Via RGB-D Camera and YOLOv8",
+        "authors": "Zirui Miao, Gengyu Ge",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rcae59706.2023.10398813"
+    },
+    {
+        "id": 30312,
+        "title": "Preference Based Multi-Objective Optimization Techniques for Coverage Path Planning of a Mobile Robot",
+        "authors": "Monex Sharma, Hari Kumar Voruganti",
+        "published": "2023-7-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610438"
+    },
+    {
+        "id": 30313,
+        "title": "Building Digital Twin of Mobile Robotics Testbed Using Centralized Localization System",
+        "authors": "Junru Ren, Lazaros Nalpantidis, Nils Axel Andersen, Ole Ravn",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccma59762.2023.10375050"
+    },
+    {
+        "id": 30314,
+        "title": "A Review of Common Techniques for Visual Simultaneous Localization and Mapping",
+        "authors": "Yong Dai, Jiaxin Wu, Duo Wang",
+        "published": "2023-2-17",
+        "citations": 1,
+        "abstract": "Mobile robots are widely used in medicine, agriculture, home furnishing, and industry. Simultaneous localization and mapping (SLAM) is the working basis of mobile robots, so it is extremely necessary and meaningful for making researches on SLAM technology. SLAM technology involves robot mechanism kinematics, logic, mathematics, perceptual detection, and other fields. However, it faces the problem of classifying the technical content, which leads to diverse technical frameworks of SLAM. Among all sorts of SLAM, visual SLAM (V-SLAM) has become the key academic research due to its advantages of low price, easy installation, and simple algorithm model. Firstly, we illustrate the superiority of V-SLAM by comparing it with other localization techniques. Secondly, we sort out some open-source V-SLAM algorithms and compare their real-time performance, robustness, and innovation. Then, we analyze the frameworks, mathematical models, and related basic theoretical knowledge of V-SLAM. Meanwhile, we review the related works from four aspects: visual odometry, back-end optimization, loop closure detection, and mapping. Finally, we prospect the future development trend and make a foundation for researchers to expand works in the future. All in all, this paper classifies each module of V-SLAM in detail and provides better readability to readers. This is undoubtedly the most comprehensive review of V-SLAM recently.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/8872822"
+    },
+    {
+        "id": 30315,
+        "title": "Observation Model for Robust Localization of  Mobile Robots based on Particle Filter in Changing Environments",
+        "authors": "Ryo Kobayashi, Satoshi Hoshino",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7210/jrsj.41.92"
+    },
+    {
+        "id": 30316,
+        "title": "Monte Carlo localization based on off-line feature matching and improved particle swarm optimization for mobile robots",
+        "authors": "Yuqi Xia, Yanyan Huang, Huchen Qin, Yuang Shi",
+        "published": "2024-4-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11370-024-00524-7"
+    },
+    {
+        "id": 30317,
+        "title": "A review of Multisensor Fusion techniques used in the development of Mobile Robotic Systems",
+        "authors": "Balasubramaniyan Chandrasekaran",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrae59816.2023.10458543"
+    },
+    {
+        "id": 30318,
+        "title": "Wheel-Inertial Fusion Localization Strategy for Mobile Robots in Confined Pipeline Spaces",
+        "authors": "Hongpeng Liang, Shuyue Zhang, Jianliang Mao, Chuanlin Zhang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ricai60863.2023.10489630"
+    },
+    {
+        "id": 30319,
+        "title": "Enhancing Indoor Mobile Robot Localization through the Integration of Multi-Sensor Fusion Algorithms",
+        "authors": "Rut Yatigul, Noppadol Pudchuen, Aran Blattler, Wisanu Jitviriya",
+        "published": "2024-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/restcon60981.2024.10463559"
+    },
+    {
+        "id": 30320,
+        "title": "Deep Learning based Visual Simultaneous Localization and Mapping for a Mobile Robot",
+        "authors": "Yu-Hsiang Zhuang, Cheng-Zong Yuan, Greta Vedovato, Min-Fan Ricky Lee",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aris59192.2023.10268511"
+    },
+    {
+        "id": 30321,
+        "title": "Isolation Forest Based Anomaly Detection and Fault Localization for Solar PV System",
+        "authors": "Shaharier Kabir, Abu Shufian, Md. Saniat Rahman Zishan",
+        "published": "2023-1-7",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070033"
+    },
+    {
+        "id": 30322,
+        "title": "Update on the Study of Alzheimer´s Disease Through Artificial Intelligence Techniques",
+        "authors": "Eduardo Garea-Llano",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "Alzheimer's disease is the most common form of dementia that can cause a brain neurological disorder with progressive memory loss as a result of brain cell damage. Prevention and treatment of disease is a key challenge in today's aging society. Accurate diagnosis of Alzheimer's disease plays an important role in patient management, especially in the early stages of the disease, because awareness of risk allows patients to undergo preventive measures even before brain damage occurs irreversible. \nOver the years, techniques such as statistical modeling or machine learning algorithms have been used to improve understanding of this condition. The objective of the work is the study of the methods of detection and progression of Alzheimer's disease through artificial intelligence techniques that have been proposed in the last three years.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313//jamris/2-2023/15"
+    },
+    {
+        "id": 30323,
+        "title": "A systematic literature review on long‐term localization and mapping for mobile robots",
+        "authors": "Ricardo B. Sousa, Héber M. Sobreira, António Paulo Moreira",
+        "published": "2023-8",
+        "citations": 6,
+        "abstract": "AbstractLong‐term operation of robots creates new challenges to Simultaneous Localization and Mapping (SLAM) algorithms. Long‐term SLAM algorithms should adapt to recent changes while preserving older states, when dealing with appearance variations (lighting, daytime, weather, or seasonal) or environment reconfiguration. When also operating robots for long periods and trajectory lengths, the map should readjust to environment changes but not grow indefinitely. The map size should depend only on updating the map with new information of interest, not on the operation time or trajectory length. Although several studies in the literature review SLAM algorithms, none of the studies focus on the challenges associated to lifelong SLAM. Thus, this paper presents a systematic literature review on long‐term localization and mapping following the Preferred Reporting Items for Systematic reviews and Meta‐Analysis guidelines. The review analyzes 142 works covering appearance invariance, modeling the environment dynamics, map size management, multisession, and computational topics such as parallel computing and timing efficiency. The analysis also focus on the experimental data and evaluation metrics commonly used to assess long‐term autonomy. Moreover, an overview over the bibliographic data of the 142 records provides analysis in terms of keywords and authorship co‐occurrence to identify the terms more used in long‐term SLAM and research networks between authors, respectively. Future studies can update this paper thanks to the systematic methodology presented in the review and the public GitHub repository with all the documentation and scripts used during the review process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22170"
+    },
+    {
+        "id": 30324,
+        "title": "Efficient human 3D localization and free space segmentation for human-aware mobile robots in warehouse facilities",
+        "authors": "Dimitrios Arapis, Milad Jami, Lazaros Nalpantidis",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "Real-time prediction of human location combined with the capability to perceive obstacles is crucial for socially-aware navigation in robotics. Our work focuses on localizing humans in the world and predicting the free space around them by incorporating other static and dynamic obstacles. We propose a multi-task learning strategy to handle both tasks, achieving this goal with minimal computational demands. We use a dataset captured in a typical warehouse environment by mounting a perception module consisting of a Jetson Xavier AGX and an Intel L515 LiDAR camera on a MiR100 mobile robot. Our method, which is built upon prior works in the field of human detection and localization demonstrates improved results in difficult cases that are not tackled in other works, such as human instances at a close distance or at the limits of the field of view of the capturing sensor. We further extend this work by using a lightweight network structure and integrating a free space segmentation branch that can independently segment the floor space without any prior maps or 3D data, relying instead on the characteristics of the floor. In conclusion, our method presents a lightweight and efficient solution for predicting human 3D location and segmenting the floor space for low-energy consumption platforms, tested in an industrial environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frobt.2023.1283322"
+    },
+    {
+        "id": 30325,
+        "title": "A Cloud-Based Urban Monitoring System by Using a Quadcopter and Intelligent Learning Techniques",
+        "authors": "Sohrab Khanmohammadi, Mohammad Samadi",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "The application of quadcopter and intelligent learning techniques in urban monitoring systems can improve the flexibility and efficiency features. This paper proposes a cloud-based urban monitoring system that uses deep learning, fuzzy system, image processing, pattern recognition, and Bayesian network. Main objectives of this system are to monitor the climate status, temperature, humidity, and smoke as well as to detect the fire occurrences based on the above intelligent techniques. The quadcopter transmits sensing data of the temperature, humidity, and smoke sensors, geographical coordinates, image frames, and videos to a control station via RF communications. In the control station side, the monitoring capabilities are designed by graphical tools to show urban areas with RGB colors according to the pre-determined data ranges. The evaluation process illustrates simulation results of the deep neural network applied to climate status, effects of the sensors’ data changes on climate status. An illustrative example is used to draw the simulated area by RGB colors. Furthermore, circuit of the quadcopter side is designed using electric devices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/2-2022/11"
+    },
+    {
+        "id": 30326,
+        "title": "WiMAX Network Optimization Using Frame Period with Channel Allocation Techniques",
+        "authors": " Mubeen Ahmed Khan,  Awanit Kumar,  Kailash Chandra Bandhu",
+        "published": "2024-3-7",
+        "citations": 0,
+        "abstract": "Internet connectivity in WiMAX networks, along with various applications, is increasing rapidly, so the connectivity of internet and data transfer speed are always challenge for effective data transmission in wireless networks. Several factors affect the performance of networks. One important factor is to choose a suitable frame period for effective data transmissions. The performance of different frame period with round-robin and strict priority are evaluated in this work. A frame period in round robin performs better than a strict priority in terms of throughput, but a strict priority performs better in terms of drop rates is observed. This paper also demonstrates that an effective frame period, when combined with a proper bandwidth allocation algorithm, yields better results. This work gives the analysis that round robin performs 83.8847% better while strict priority performs 86.0020% better than the earliest deadline first algorithms for 10 subscriber stations in terms of throughput. This work is helpful to researchers and industrialists for actual implementations in WiMAX networks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/4-2023/31"
+    },
+    {
+        "id": 30327,
+        "title": "Enhanced resampling scheme for Monte Carlo localization",
+        "authors": "Suat Karakaya",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11370-024-00530-9"
+    },
+    {
+        "id": 30328,
+        "title": "INDOOR LOCALIZATION SYSTEM OF ROS MOBILE ROBOT BASED ON VISIBLE LIGHT COMMUNICATION, 1-12.",
+        "authors": "Shihuan Chen, Wanlin Liang, Shangsheng Wen, Mouxiao Huang, Ruihong Cen, Weipeng Guan",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2316/j.2023.206-0321"
+    },
+    {
+        "id": 30329,
+        "title": "A compact RTK‐GNSS device for high‐precision localization of outdoor mobile robots",
+        "authors": "Sung‐Jin Lee, Bit Kim, Dong‐Wook Yang, Junseo Kim, Tom Parkinson, Johsan Billingham, Chulwoo Park, Jinsung Yoon, Dae‐Young Lee",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "AbstractAccurate location information is crucial for ensuring the reliability of service robots, such as field vehicles and agricultural robots. These practical robots often encounter fluctuating or inclined terrains in dynamic conditions during operation. Additionally, the performance of mobile robots depends on the physical size and weight of the localization system–physically heavy systems may degrade performance. In this paper, we present a compact, lightweight RTK‐GNSS device weighing under 40 g, which achieves centimeter‐level accuracy across different attitudes and dynamic situations. To enhance signal reception and positioning performance, we lessen noise levels in the power circuit and radio‐frequency signal conditioning using a low‐dropout regulator and low‐noise amplifier. Utilizing the configured device, we verified centimeter‐level accuracy through experiments of tracking an unmanned ground vehicle. The potential of the device is substantiated via three application scenarios—a localization of a moving human for a wearable device, a heading estimation of a mobile robot in stationary conditions, and practical field tests in various signal‐reception environments. Attributable to its compact dimensions and lightweight features, the proposed device can yield a low system strain while maintaining high accuracy and reliable performance, rendering it highly adaptable for various robotic applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22317"
+    },
+    {
+        "id": 30330,
+        "title": "Ultra-Wideband Localization of Mobile Robots Based on Moving Horizon Optimization",
+        "authors": "Wenqi He, Yuhao Sun, Huazhong Zhu, Andong Liu",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarm58088.2023.10218874"
+    },
+    {
+        "id": 30331,
+        "title": "Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques",
+        "authors": "Linda Dotto De Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333028"
+    },
+    {
+        "id": 30332,
+        "title": "Machine Learning and Artificial Intelligence Techniques for Detecting Driver Drowsiness",
+        "authors": "Prathap Rudra Boppuru, Pradeep Kumar Kukatlapalli, Pradeep Kumar Kukatlapalli, Cherukuri Ravindranath Chowdary",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "The number of vehicles on the road rises in tandem with the development of vehicle manufacture. With the rapid growth of automobiles, the number of road accidents appears to be steadily increasing. Accidents are a typical occurrence in our daily lives. Road accidents are the top cause of death from injuries worldwide in the top 10. It now forms an amazingly important part of the global burden of illness. An estimated 1.2 million people are killed in accidents every year, and an estimated 50 million are injured while receiving bone marrow transplants in leading countries. Drowsiness, along with fatigue of drivers, are some of the major causes of road accidents. Every year, we see an increase in death numbers worldwide. This study also looks into automatically detecting driver drowsiness with AI, visuals, and CNN. The Driver Drowsiness System works on the concept of Multi-Layer Feed Forward Network, especially on Convolutional Neural Networks (CNN). CNN was developed with the help of around 7000 images of eyes in both drowsiness and non-drowsiness states with different facial architectures. These images were split into training (80 percent of images) and testing (20 percent of images) datasets. The images under the training dataset are given as the input for the network for training purposes. Backpropagation algorithms and optimizers are used to reduce the loss as much as possible. We created an algorithm for detecting, tracking, and analysing motor and visual effects to measure ROI.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/2-2022/17"
+    },
+    {
+        "id": 30333,
+        "title": "Exploring Reinforcement Learning Techniques in the Realm of Mobile Robotics",
+        "authors": "Saim Ahmed, Ahmad Taher Azar, Muhammad Zeeshan Sardar, Zeeshan Haider, Nashwa Ahmad Kamal",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijaac.2024.10062261"
+    },
+    {
+        "id": 30334,
+        "title": "Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot",
+        "authors": "Muhammad Shalihan, Zhiqiang Cao, Khattiya Pongsirijinda, Lin Guo, Billy Pik Lik Lau, Ran Liu, Chau Yuen, U-Xuan Tan",
+        "published": "2023-12-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354904"
+    },
+    {
+        "id": 30335,
+        "title": "Applications of Artificial Intelligence Techniques for trajectories optimization in robotics mobile platforms",
+        "authors": "Juan Escobar-Naranjo, Gustavo Caiza, Carlos A. Garcia, Paulina Ayala, Marcelo V. Garcia",
+        "published": "2023",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2022.12.250"
+    },
+    {
+        "id": 30336,
+        "title": "Portable Multi-Hypothesis Monte Carlo Localization for Mobile Robots",
+        "authors": "Alberto García, Francisco Martín, José Miguel Guerrero, Francisco J. Rodríguez, Vicente Matellán",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160957"
+    },
+    {
+        "id": 30337,
+        "title": "Accuracy improvement of cooperative localization using UAV and UGV",
+        "authors": "Ryoga Shimizu, Yasunori Sugita",
+        "published": "2023-8-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01691864.2023.2228869"
+    },
+    {
+        "id": 30338,
+        "title": "Retracted: Intelligent Control System Design of Ring Light via IOT Mobile Robot",
+        "authors": "Journal of Robotics",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2024/9898409"
+    },
+    {
+        "id": 30339,
+        "title": "Retracted: Reinforcement Learning-Based Continuous Action Space Path Planning Method for Mobile Robots",
+        "authors": "Journal of Robotics",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2024/9819037"
+    },
+    {
+        "id": 30340,
+        "title": "A Survey of Machine Learning Approaches for Mobile Robot Control",
+        "authors": "Monika Rybczak, Natalia Popowniak, Agnieszka Lazarowska",
+        "published": "2024-1-9",
+        "citations": 1,
+        "abstract": "Machine learning (ML) is a branch of artificial intelligence that has been developing at a dynamic pace in recent years. ML is also linked with Big Data, which are huge datasets that need special tools and approaches to process them. ML algorithms make use of data to learn how to perform specific tasks or make appropriate decisions. This paper presents a comprehensive survey of recent ML approaches that have been applied to the task of mobile robot control, and they are divided into the following: supervised learning, unsupervised learning, and reinforcement learning. The distinction of ML methods applied to wheeled mobile robots and to walking robots is also presented in the paper. The strengths and weaknesses of the compared methods are formulated, and future prospects are proposed. The results of the carried out literature review enable one to state the ML methods that have been applied to different tasks, such as the following: position estimation, environment mapping, SLAM, terrain classification, obstacle avoidance, path following, learning to walk, and multirobot coordination. The survey allowed us to associate the most commonly used ML algorithms with mobile robotic tasks. There still exist many open questions and challenges such as the following: complex ML algorithms and limited computational resources on board a mobile robot; decision making and motion control in real time; the adaptability of the algorithms to changing environments; the acquisition of large volumes of valuable data; and the assurance of safety and reliability of a robot’s operation. The development of ML algorithms for nature-inspired walking robots also seems to be a challenging research issue as there exists a very limited amount of such solutions in the recent literature.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010012"
+    },
+    {
+        "id": 30341,
+        "title": "FPGA-based Accelerator for Convolutional Neural Network Application in Mobile Robotics",
+        "authors": "Lucas F. R. Mazzetto, José E. C. Castanho",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333052"
+    },
+    {
+        "id": 30342,
+        "title": "3D localization of objects of daily living activities for rehabilitation applications",
+        "authors": "Abhinav Sudhakar, Anirban Chowdhury",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610468"
+    },
+    {
+        "id": 30343,
+        "title": "Semi Embedded Architecture for a mobile indoor localization system",
+        "authors": "Youssef Ibnatta, Mohammed Khaldoun, Mohammed Sadik, Othmane Benhmammouch",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iwcmc58020.2023.10182774"
+    },
+    {
+        "id": 30344,
+        "title": "Haptic Localization with a Soft Whisker from Moment Readings at the Base",
+        "authors": "Mohammad Sheikh Sofla, Srikishan Vayakkattil, Marcello Calisti",
+        "published": "2024-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1089/soro.2023.0098"
+    },
+    {
+        "id": 30345,
+        "title": "3-Dimensional Sonic Phase-invariant Echo Localization",
+        "authors": "Christopher Hahne",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161199"
+    },
+    {
+        "id": 30346,
+        "title": "Drone-Based Real- Time Air Pollution Monitoring for Low-Access Areas by Developing Mobile-Smart Sensing Technology",
+        "authors": "Istiak Ahammad Limon, Ali Daud Hossain, Khan Farhan Ibne Faruque, Mohammad Rejwan Uddin, Mahady Hasan",
+        "published": "2023-1-7",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070050"
+    },
+    {
+        "id": 30347,
+        "title": "A Distributed Algorithmic Approach for Simultaneous Localization and Mapping With Acoustic Sensors",
+        "authors": "Yuvaraj George, Abhishek Sarkar",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610446"
+    },
+    {
+        "id": 30348,
+        "title": "Classical and Heuristic Approaches for Mobile Robot Path Planning: A Survey",
+        "authors": "Jaafar Ahmed Abdulsaheb, Dheyaa Jasim Kadhim",
+        "published": "2023-6-27",
+        "citations": 9,
+        "abstract": "The most important research area in robotics is navigation algorithms. Robot path planning (RPP) is the process of choosing the best route for a mobile robot to take before it moves. Finding an ideal or nearly ideal path is referred to as “path planning optimization.” Finding the best solution values that satisfy a single or a number of objectives, such as the shortest, smoothest, and safest path, is the goal. The objective of this study is to present an overview of navigation strategies for mobile robots that utilize three classical approaches, namely: the roadmap approach (RM), cell decomposition (CD), and artificial potential fields (APF), in addition to eleven heuristic approaches, including the genetic algorithm (GA), ant colony optimization (ACO), artificial bee colony (ABC), gray wolf optimization (GWO), shuffled frog-leaping algorithm (SFLA), whale optimization algorithm (WOA), bacterial foraging optimization (BFO), firefly (FF) algorithm, cuckoo search (CS), and bat algorithm (BA), which may be used in various environmental situations. Multiple issues, including dynamic goals, static and dynamic environments, multiple robots, real-time simulation, kinematic analysis, and hybrid algorithms, are addressed in a different set of articles presented in this study. A discussion, as well as thorough tables and charts, will be presented at the end of this work to help readers understand what types of strategies for path planning are developed for use in a wide range of ecological contexts. Therefore, this work’s main contribution is that it provides a broad view of robot path planning, which will make it easier for scientists to study the topic in the near future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040093"
+    },
+    {
+        "id": 30349,
+        "title": "Intelligent path planning for cognitive mobile robot based on Dhouib-Matrix-SPP method",
+        "authors": "Souhail Dhouib",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cogr.2024.02.001"
+    },
+    {
+        "id": 30350,
+        "title": "LSVL: Large-scale season-invariant visual localization for UAVs",
+        "authors": "Jouko Kinnari, Riccardo Renzulli, Francesco Verdoja, Ville Kyrki",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104497"
+    },
+    {
+        "id": 30351,
+        "title": "Driving Strategies for Omnidirectional Mobile Robots with Offset Differential Wheels",
+        "authors": "Joan Badia Torres, Alba Perez Gracia, Carles Domenech-Mestres",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "In this work, we present an analysis of, as well as driving strategies and design considerations for, a type of omnidirectional mobile robot: the offset-differential robot. This system presents omnidirectionality while using any type of standard wheel, allowing for applications in uneven and rough terrains, as well as cluttered environments. The known fact that these robots, as well as simple differential robots, have an unstable driving zone, has mostly been dealt with by designing driving strategies in the stable zone of internal dynamics. However, driving in the unstable zone may be advantageous when dealing with rough and uneven terrains. This work is based on the full kinematic and dynamic analysis of a robot, including its passive elements, to explain the unexpected behaviors that appear during its motion due to instability. Precise torque calculations taking into account the configuration of the passive elements were performed for better torque control, and design recommendations are included. The stable and unstable behaviors were characterized, and driving strategies were described in order to achieve the desired performance regarding precise positioning and speed. The model and driving strategies were validated through simulations and experimental testing. This work lays the foundation for the design of better control strategies for offset-differential robots.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010019"
+    },
+    {
+        "id": 30352,
+        "title": "Development of IoT-enabled Mobile Robotic System for Monitoring",
+        "authors": "Ravi Kant Jain",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610441"
+    },
+    {
+        "id": 30353,
+        "title": "Indoor Positioning Systems of Mobile Robots: A Review",
+        "authors": "Jiahao Huang, Steffen Junginger, Hui Liu, Kerstin Thurow",
+        "published": "2023-3-24",
+        "citations": 17,
+        "abstract": "Recently, with the in-depth development of Industry 4.0 worldwide, mobile robots have become a research hotspot. Indoor localization has become a key component in many fields and the basis for all actions of mobile robots. This paper screened 147 papers in the field of indoor positioning of mobile robots from 2019 to 2021. First, 12 mainstream indoor positioning methods and related positioning technologies for mobile robots are introduced and compared in detail. Then, the selected papers were summarized. The common attributes and laws were discovered. The development trend of indoor positioning of mobile robots is obtained.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12020047"
+    },
+    {
+        "id": 30354,
+        "title": "Augmented Reality system for Immersive Mobile Robot Simulation and Trajectory Estimation",
+        "authors": "Pedro Henrique Birais, Elvira Rafikova",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10332951"
+    },
+    {
+        "id": 30355,
+        "title": "Deep Adaptive Nonlinear H<sub>∞</sub> Control for Wheeled Mobile Robots",
+        "authors": "Jose Ceron Neto, Roberto Santos Inoue",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333000"
+    },
+    {
+        "id": 30356,
+        "title": "A Compact DQN Model for Mobile Agents with Collision Avoidance",
+        "authors": "Mariusz Kamola",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "This paper presents a complete simulation and reinforcement learning solution to train mobile agents’ strategy of route tracking and avoiding mutual collisions. The aim was to achieve such functionality with limited resources, w.r.t. model input and model size itself. The designed models prove to keep agents safely on the track. Collision avoidance agent’s skills developed in the course of model training are primitive but rational. Small size of the model allows fast training with limited computational resources.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/2-2023/13"
+    },
+    {
+        "id": 30357,
+        "title": "Smart Wheelchair for COVID-19 Patients with Mobile Application Based Health Monitoring System",
+        "authors": "A. Z. M. Tahmidul Kabir, Al Mamun Mizar, Plabon Kumar Saha, Md. Golam Sarowar, Rajat Saha, Istiak Ahmad, Md. Saniat Rahman Zishan",
+        "published": "2023-1-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070087"
+    },
+    {
+        "id": 30358,
+        "title": "Applicability of Augmented and Virtual Reality for Education in Robotics",
+        "authors": "Norbert Prokopiuk, Piotr Falkowski",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "The rapid development of automatic control and robotics requires an innovative approach to teaching. This is especially important in the case of studies at the academic level and in vocational schools, where training with expensive robotic stations is necessary. A solution for the problem may be substituting these with augmented reality (AR) and virtual reality (VR) due to their significantly lower costs. Therefore, AR/VR technologies have an advantage in terms of low-cos and effective practice in robotics. The described content is an outcome of the MILAN project, wherein those technologies are used for the online course purpose. This includes providing access to virtual laboratories via a mobile application and the real-life training stations connected to the network. The paper provides an overview of the available AR/VR applications implemented into robotics education and a detailed description of related best practices. The main sections contain a detailed methodology of designing an AR mobile tool for learning robotics in the AR environment. Moreover, the main challenges encountered during the development phase were listed and analysed. Additionally, the paper presents the possible future use of the application with the associated benefits. The literature overview and conclusions may be used to design similar online courses with an interactive form of teaching practical industrial robots programming.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/3-2022/25"
+    },
+    {
+        "id": 30359,
+        "title": "HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO",
+        "authors": "Giovanni Cioffi, Leonard Bauersfeld, Davide Scaramuzza",
+        "published": "2023-7-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.071"
+    },
+    {
+        "id": 30360,
+        "title": "Dataset and Baseline Experiments for Self-Localization and Tracking in the RoboCup Small Size League",
+        "authors": "João G. Melo, Lucas Cavalcanti, Riei Joaquim, Victor Araújo, Edna Barros",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333068"
+    },
+    {
+        "id": 30361,
+        "title": "An Efficient Guiding Manager for Ground Mobile Robots in Agriculture",
+        "authors": "Luis Emmi, Roemi Fernández, Pablo Gonzalez-de-Santos",
+        "published": "2023-12-26",
+        "citations": 1,
+        "abstract": "Mobile robots have become increasingly important across various sectors and are now essential in agriculture due to their ability to navigate effectively and precisely in crop fields. Navigation involves the integration of several technologies, including robotics, control theory, computer vision, and artificial intelligence, among others. Challenges in robot navigation, particularly in agriculture, include mapping, localization, path planning, obstacle detection, and guiding control. Accurate mapping, localization, and obstacle detection are crucial for efficient navigation, while guiding the robotic system is essential to execute tasks accurately and for the safety of crops and the robot itself. Therefore, this study introduces a Guiding Manager for autonomous mobile robots specialized for laser-based weeding tools in agriculture. The focus is on the robot’s tracking, which combines a lateral controller, a spiral controller, and a linear speed controller to adjust to the different types of trajectories that are commonly followed in agricultural environments, such as straight lines and curves. The controllers have demonstrated their usefulness in different real work environments at different nominal speeds, validated on a tracked mobile platform with a width of about 1.48 m, in complex and varying field conditions including loose soil, stones, and humidity. The lateral controller presented an average absolute lateral error of approximately 0.076 m and an angular error of about 0.0418 rad, while the spiral controller presented an average absolute lateral error of about 0.12 m and an angular error of about 0.0103 rad, with a horizontal accuracy of about ±0.015 m and an angular accuracy of about ±0.009 rad, demonstrating its effectiveness in real farm tests.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010006"
+    },
+    {
+        "id": 30362,
+        "title": "Comparative Analysis of Fuzzy Inference Systems Applications on Mobile Robot Navigation in Unknown Environments",
+        "authors": "Leandro Daros Oliveira, Armando Alves Neto",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333047"
+    },
+    {
+        "id": 30363,
+        "title": "Detection of Hidden Moving Targets by a Group of Mobile Agents with Deep Q-Learning",
+        "authors": "Barouch Matzliach, Irad Ben-Gal, Evgeny Kagan",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "In this paper, we propose a solution for the problem of searching for multiple targets by a group of mobile agents with sensing errors of the first and the second types. The agents’ goal is to plan the search and follow its trajectories that lead to target detection in minimal time. Relying on real sensors’ properties, we assume that the agents can detect the targets in various directions and distances; however, they are exposed to first- and second-type statistical errors. Furthermore, we assume that the agents in the group have errorless communication with each other. No central station or coordinating agent is assumed to control the search. Thus, the search follows a fully distributed decision-making process, in which each agent plans its path independently based on the information about the targets, which is collected independently or received from the other agents. The suggested solution includes two algorithms: the Distributed Expected Information Gain (DEIG) algorithm, which implements dynamic Voronoi partitioning of the search space and plans the paths by maximizing the expected one-step look-ahead information per region, and the Collective Q-max (CQM) algorithm, which finds the shortest paths of the agents in the group by maximizing the cumulative information about the targets’ locations using deep Q-learning techniques. The developed algorithms are compared against previously developed reactive and learning methods, such as the greedy centralized Expected Information Gain (EIG) method. It is demonstrated that these algorithms, specifically the Collective Q-max algorithm, considerably outperform existing solutions. In particular, the proposed algorithms improve the results by 20% to 100% under different scenarios of noisy environments and sensors’ sensitivity.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040103"
+    },
+    {
+        "id": 30364,
+        "title": "Efficient LiDAR/inertial-based localization with prior map for autonomous robots",
+        "authors": "Jian Song, Yutian Chen, Xun Liu, Nan Zheng",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11370-023-00490-6"
+    },
+    {
+        "id": 30365,
+        "title": "PSO based Amorphous algorithm to reduce localization error in Wireless Sensor Network",
+        "authors": "Pujasuman Tripathy, P.M. Khilar",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.pmcj.2024.101890"
+    },
+    {
+        "id": 30366,
+        "title": "Power solutions for autonomous mobile robots: A survey",
+        "authors": "Muhammad Umar Farooq, Amre Eizad, Hyun-Ki Bae",
+        "published": "2023-1",
+        "citations": 19,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2022.104285"
+    },
+    {
+        "id": 30367,
+        "title": "Real-Time Simultaneous Localization and Mapping with LiDAR Intensity",
+        "authors": "Wenqiang Du, Giovanni Beltrame",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160713"
+    },
+    {
+        "id": 30368,
+        "title": "Barometric Soft Tactile Sensor for Depth Independent Contact Localization",
+        "authors": "Leone Costi, Fumiya Iida",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354941"
+    },
+    {
+        "id": 30369,
+        "title": "Retracted: Application of 5G Mobile Communication Technology Integrating Robot Controller Communication Method in Communication Engineering",
+        "authors": "",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9780273"
+    },
+    {
+        "id": 30370,
+        "title": "Efficient semidefinite solutions for TDOA-based source localization under unknown PS",
+        "authors": "Xiaoping Wu, Li Zhao, Xuefen Zhu",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.pmcj.2023.101783"
+    },
+    {
+        "id": 30371,
+        "title": "Virtual Reality Teleoperation System for Mobile Robot Manipulation",
+        "authors": "Bryan R. Galarza, Paulina Ayala, Santiago Manzano, Marcelo V. Garcia",
+        "published": "2023-11-29",
+        "citations": 1,
+        "abstract": "Over the past few years, the industry has experienced significant growth, leading to what is now known as Industry 4.0. This advancement has been characterized by the automation of robots. Industries have embraced mobile robots to enhance efficiency in specific manufacturing tasks, aiming for optimal results and reducing human errors. Moreover, robots can perform tasks in areas inaccessible to humans, such as hard-to-reach zones or hazardous environments. However, the challenge lies in the lack of knowledge about the operation and proper use of the robot. This work presents the development of a teleoperation system using HTC Vive Pro 2 virtual reality goggles. This allows individuals to immerse themselves in a fully virtual environment to become familiar with the operation and control of the KUKA youBot robot. The virtual reality experience is created in Unity, and through this, robot movements are executed, followed by a connection to ROS (Robot Operating System). To prevent potential damage to the real robot, a simulation is conducted in Gazebo, facilitating the understanding of the robot’s operation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12060163"
+    },
+    {
+        "id": 30372,
+        "title": "Indoor Localization Method of Mobile Educational Robot Based on Visual Sensor",
+        "authors": "Weiping Zhu Weiping Zhu, Xiaoling Cheng Weiping Zhu",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "\n                        <p>This article aims to study the mobile positioning method of mobile educational robots indoors. In order for robots to be able to unblocked indoors, they can avoid obstacles well. Vision sensors are the direct source of information for the entire machine vision system, and are mainly composed of one or two graphics sensors, sometimes accompanied by light projectors and other auxiliary equipment. This paper presents an indoor positioning method for mobile educational robots based on visual sensors. Build some models to compare which algorithm is more in line with the positioning of indoor mobile educational robots. The experimental results in this paper show that the positioning accuracy of the optical flow meter and the odometer on the short-haired carpet is equivalent (both are less than the index 4.52%); the positioning error of the optical flowmeter on the long-haired carpet is the largest 7%, and the positioning error of the odometer is the largest it reached 83%. The error of the algorithm positioning method after the visual odometer fusion is obviously smaller than that of the optical flow method. This shows that the algorithm after visual process fusion is more suitable for indoor mobile educational robot positioning than this optical flow method.</p>\n<p>&nbsp;</p>\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53106/160792642023012401019"
+    },
+    {
+        "id": 30373,
+        "title": "Active Collaborative Localization in Heterogeneous Robot Teams",
+        "authors": "Igor Spasojevic, Xu Liu, Alejandro Ribeiro, George Pappas, Vijay Kumar",
+        "published": "2023-7-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.112"
+    },
+    {
+        "id": 30374,
+        "title": "Online simultaneous localization and mapping with parallelization for dynamic line segments based on moving horizon estimation",
+        "authors": "Haziq Muhammad, Yasumasa Ishikawa, Kazuma Sekiguchi, Kenichiro Nonaka",
+        "published": "2024-3-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10015-024-00937-8"
+    },
+    {
+        "id": 30375,
+        "title": "Optimal Design of Energy Sources for a Photovoltaic/Fuel Cell Extended-Range Agricultural Mobile Robot",
+        "authors": "Amin Ghobadpour, Alben Cardenas, German Monsalve, Hossein Mousazadeh",
+        "published": "2023-1-17",
+        "citations": 7,
+        "abstract": "Powertrain electrification in the agricultural vehicles is still in the initial stages. This article analyzes the energy behavior of a Photovoltaic/Fuel Cell Agricultural Mobile Robot (PV/FCAMR) as the preliminary step before development. This concept incorporates three energy storage sources for the powertrain: a battery pack, a Fuel Cell (FC) system, and a Photovoltaic (PV) system. This paper proposes an approach based on the Grey Wolf Optimization (GWO) and Particle Swarm Optimization (PSO) algorithms to determine the sizes of the FC and battery of an FCAMR. A differential drive mobile robot was used as a case study to extract the typical working cycles of farming applications. The FCAMR vehicle model was developed in MATLAB/Simulink to evaluate vehicle energy consumption and performance. For the energy analysis and evaluation, the FCAMR was tested based on two realistic working cycles comprising circular and rectangular moving patterns. The results showed that the proposed arrangement could extend the FCAMR autonomy by 350% as opposed to the pure electric system. This allows for at least 8 h of work with a tank filled with 150 g hydrogen and a PV system with a 0.5 m2 monocrystalline solar panel. The simulation results have demonstrated the relevance and robustness of this approach in relation to various working cycles. The cost comparison between the theoretical and optimization sizing methods showed at least an 8% decrease for the FCAMR. Furthermore, adding the PV system extended the vehicle’s range by up to 5%. This study provides an optimal solution for energy sources sizing of mobile robots as futuristic agricultural vehicles.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12010013"
+    },
+    {
+        "id": 30376,
+        "title": "A novel collaborative path planning algorithm for 3-wheel omnidirectional Autonomous Mobile Robot",
+        "authors": "Meltem Eyuboglu, Gokhan Atali",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104527"
+    },
+    {
+        "id": 30377,
+        "title": "User-Conditioned Neural Control Policies for Mobile Robotics",
+        "authors": "Leonard Bauersfeld, Elia Kaufmann, Davide Scaramuzza",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160851"
+    },
+    {
+        "id": 30378,
+        "title": "Keyframe Selection for Visual Localization and Mapping Tasks: A Systematic Literature Review",
+        "authors": "Nigel Joseph Bandeira Dias, Gustavo Teodoro Laureano, Ronaldo Martins Da Costa",
+        "published": "2023-6-15",
+        "citations": 1,
+        "abstract": "Visual localization and mapping algorithms attempt to estimate, from images, geometrical models that explain ego motion and the positions of objects in a real scene. The success of these tasks depends directly on the quality and availability of visual data, since the information is recovered from visual changes in images. Keyframe selection is a commonly used approach to reduce the amount of data to be processed as well as to prevent useless or wrong information to be considered during the optimization. This study aims to identify, analyze, and summarize the methods present in the literature for keyframe selection within the context of visual localization and mapping. We adopt a systematic literature review (SLR) as the basis of our work, built on top of a well-defined methodology. To the best of our knowledge, this is the first review related to this topic. The results show that there is a lack of studies present in the literature that directly address the keyframe selection problem in this application context and a deficiency in the testing and validation of the proposed methods. In addition to these findings, we also propose an updated categorization of the proposed methods on top of the well-discussed categories present in the literature. We believe that this SLR is a step toward developing a body of knowledge in keyframe selection within the context of visual localization and mapping tasks by encouraging the development of more theoretical and less heuristic methods and a systematic testing and validation process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12030088"
+    },
+    {
+        "id": 30379,
+        "title": "Low-Cost Domain Adaptive Experience Based Localization for Autonomous Robots",
+        "authors": "Utkarsh Kumar, Rahul Kala, G C Nandi",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610430"
+    },
+    {
+        "id": 30380,
+        "title": "Special Issue on the 10th European Conference on Mobile Robots (ECMR 2021)",
+        "authors": "Chris McCool, Emanuele Menegatti, Sven Behnke",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104380"
+    },
+    {
+        "id": 30381,
+        "title": "Trilateration-Based Robot Localization with Learned Visual Landmarks",
+        "authors": "Valeria Salas, Alfredo Weitzenfeld",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5038/vujq7843"
+    },
+    {
+        "id": 30382,
+        "title": "Retracted: Combined GNSS/SLAM-Based High Accuracy Indoor Dynamic Target Localization Method",
+        "authors": "",
+        "published": "2023-8-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9861829"
+    },
+    {
+        "id": 30383,
+        "title": "On Mobile-Agent-based Swarm Reinforcement Learning in a Heterogeneous Robotic Network",
+        "authors": "Gayathri Rangu, Shivashankar B. Nair",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610499"
+    },
+    {
+        "id": 30384,
+        "title": "Single-shot global localization via graph-theoretic correspondence matching",
+        "authors": "Shigemichi Matsuzaki, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01691864.2024.2307607"
+    },
+    {
+        "id": 30385,
+        "title": "Experiments on the Artificial Potential Field with Local Attractors for Mobile Robot Navigation",
+        "authors": "Matteo Melchiorre, Laura Salamina, Leonardo Sabatino Scimmi, Stefano Mauro, Stefano Pastorelli",
+        "published": "2023-6-7",
+        "citations": 4,
+        "abstract": "Obstacle avoidance is a challenging task in robot navigation, as it requires efficient and reliable methods to avoid collision and reach the desired goal. Artificial potential field methods are widely used for this purpose, as they are efficient, effective, and easy to implement. However, they are limited by the use of only one global attractor at the goal. This paper introduces and evaluates experimentally a novel technique that enhances the artificial potential field method with local attractors. Local attractors can be positioned around the obstacle so as to guide the robot detouring through preferred regions. Thus, the side the robot will pass by can be determined in advance, making the collision-free path predictable. The technique is formulated by modelling local attractors as optimal inflections, i.e., regions that do not show local minima, which coexist with the potential field generated by the obstacle and the global attractor. The method is validated using a laboratory setup that employs a camera and markers to track the poses of the robot, the obstacle, and the target. A series of experiments are conducted to examine the effect of the local attractor under different test conditions, obtained by varying the obstacle pose, the attraction intensity, and the robot velocity. The experimental results demonstrate the effectiveness of the proposed technique and highlight the aspects that require further investigation for its improvement and application.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12030081"
+    },
+    {
+        "id": 30386,
+        "title": "Real-Time 3D Map Building in a Mobile Robot System with Low-Bandwidth Communication",
+        "authors": "Alfin Junaedy, Hiroyuki Masuta, Kei Sawai, Tatsuo Motoyoshi, Noboru Takagi",
+        "published": "2023-11-22",
+        "citations": 2,
+        "abstract": "This paper presents a new 3D map building technique using a combination of 2D SLAM and 3D objects that can be implemented on relatively low-cost hardware in real-time. Recently, 3D visualization of the real world became increasingly important. In robotics, it is not only required for intelligent control, but also necessary for operators to provide intuitive visualization. SLAM is generally applied for this purpose, as it is considered a basic ability for truly autonomous robots. However, due to the increase in the amount of data, real-time processing is becoming a challenge. Therefore, in order to address this problem, we combine 2D data and 3D objects to create a new 3D map. The combination is simple yet robust based on rotation, translation, and clustering techniques. The proposed method was applied to a mobile robot system for indoor observation. The results show that real-time performance can be achieved by the system. Furthermore, we also combine high and low-bandwidth networks to deal with network problems that usually occur in wireless communication. Thus, robust wireless communication can be established, as it ensures that the missions can be continued even if the system loses the main network.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12060157"
+    },
+    {
+        "id": 30387,
+        "title": "PASSIVE ACOUSTIC LOCALIZATION OF MARINE MAMMALS FROM MOBILE PLATFORMS",
+        "authors": "SD RICHARDS, DA MILES, T CLARKE, EJ HARLAND",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/17766"
+    },
+    {
+        "id": 30388,
+        "title": "Learning Decoupled Multi-touch Force Estimation, Localization and Stretch for Soft Capacitive E-skin",
+        "authors": "Abu Bakar Dawood, Claudio Coppola, Kaspar Althoefer",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160961"
+    },
+    {
+        "id": 30389,
+        "title": "Mobile robotics platform for strawberry sensing and harvesting within precision indoor farming systems",
+        "authors": "Guoqiang Ren, Tianhao Wu, Tao Lin, Liangjing Yang, Girish Chowdhary, K. C. Ting, Yibin Ying",
+        "published": "2023-5-25",
+        "citations": 2,
+        "abstract": "AbstractIndoor farming is expected to have an increasing impact on future food and agricultural systems. It can produce crops year‐round without relying on weather patterns, bringing crop production systems closer to advanced manufacturing systems for industrial and consumer goods. Indoor farming also provides an ideal platform for implementing intelligence‐driven and empowered agricultural systems that can autonomously gather/process data, build a knowledge base, provide management decision support, and execute crop cultural tasks. Towards that goal, a mobile robotics platform (MRP) has been under development. This platform will provide new capabilities for implementing indoor farming cyber–physical systems. The ultimate purpose is to equip the MRP with systematically integrated capabilities of perception, reasoning, learning, communication, and task planning/execution for use in precision indoor farming systems. This presentation reports the current state of MRP's development. The MRP can monitor the growing status of individual strawberry plants and fruit with a perception system and nondestructively harvest individual ripe strawberries with an onboard robot. The robotic system has a stereo camera, a six‐degrees of freedom robotic manipulator, and a pneumatically actuated soft gripper (i.e., end‐effector) mounted on an autonomous mobile base. These subsystems were specifically chosen from commercially available products. An open‐loop fruit positioning and handling algorithm, in a software form, capable of performing the tasks of fruit detection, localization, grasping, detachment, and placement, has been developed. The location and ripeness of each fruit can be simultaneously obtained through deep learning techniques. We found that a mean average precision value of 96.4% for ripe strawberries could be obtained in a custom indoor strawberry data set. Three‐dimensional (3D) locations of individual strawberries are used in the motion planner to guide the movements of the mobile platform, manipulator, and end‐effector. The robot can autonomously classify each strawberry fruit's growth scene through the fusion of the detection results and the corresponding depth information, to determine whether to perform the harvesting action. The accuracy of the proposed strawberry growth scene categorization approach is 89.1%, and the weighted‐averaged F1 score is 0.7. The soft gripper can approach and gently hold a target strawberry fruit. A novel approach for fruit detachment has been developed to separate the fruit's sepal and the stalk by a drag‐and‐rotate motion. The experiments conducted in a commercial indoor strawberry farm showed an overall success rate of 78% in handling harvestable strawberries with a damage rate of 23%. The average harvesting cycle time was found to be 10.5 s. We found that poor fruit visibility mainly reduced the success rate of the target fruit's robotic detection and grasping action. The grasping and detachment tasks were affected by fruit size and stalk length. These factors together determined the overall harvesting performance of the robotic system. The robotic system showed better performance when harvesting fruit of small size (width is less than 31 mm and height is less than 33 mm) with a medium stalk (between 81 and 101 mm). The MRP's functions are expected to be transferable and expandable to other crop production monitoring and cultural tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22207"
+    },
+    {
+        "id": 30390,
+        "title": "UTIL: An ultra-wideband time-difference-of-arrival indoor localization dataset",
+        "authors": "Wenda Zhao, Abhishek Goudar, Xinyuan Qiao, Angela P. Schoellig",
+        "published": "2024-2-5",
+        "citations": 2,
+        "abstract": " Ultra-wideband (UWB) time-difference-of-arrival (TDOA)-based localization has emerged as a promising, low-cost, and scalable indoor localization solution, which is especially suited for multi-robot applications. However, there is a lack of public datasets to study and benchmark UWB TDOA positioning technology in cluttered indoor environments. We fill in this gap by presenting a comprehensive dataset using Decawave’s DWM1000 UWB modules. To characterize the UWB TDOA measurement performance under various line-of-sight (LOS) and non-line-of-sight (NLOS) conditions, we collected signal-to-noise ratio (SNR), power difference values, and raw UWB TDOA measurements during the identification experiments. We also conducted a cumulative total of around 150 min of real-world flight experiments on a customized quadrotor platform to benchmark the UWB TDOA localization performance for mobile robots. The quadrotor was commanded to fly with an average speed of 0.45 m/s in both obstacle-free and cluttered environments using four different UWB anchor constellations. Raw sensor data including UWB TDOA, inertial measurement unit (IMU), optical flow, time-of-flight (ToF) laser altitude, and millimeter-accurate ground truth robot poses were collected during the flights. The dataset and development kit are available at https://utiasdsl.github.io/util-uwb-dataset/ . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/02783649241230640"
+    },
+    {
+        "id": 30391,
+        "title": "Mobile Robotic Manipulator Based Harvesting Inside Vertical Farms",
+        "authors": "Rohith Poola, Thejonath Mamidi, Sai Manoj Akondi, Sudheer Ap",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610451"
+    },
+    {
+        "id": 30392,
+        "title": "A Two Stage Nonlinear I/O Decoupling and Partially Wireless Controller for Differential Drive Mobile Robots",
+        "authors": "Nikolaos D. Kouvakas, Fotis N. Koumboulis, John Sigalas",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "Differential drive mobile robots, being widely used in several industrial and domestic applications, are increasingly demanding when concerning precision and satisfactory maneuverability. In the present paper, the problem of independently controlling the velocity and orientation angle of a differential drive mobile robot is investigated by developing an appropriate two stage nonlinear controller embedded on board and also by using the measurements of the speed and accelerator of the two wheels, as well as taking remote measurements of the orientation angle and its rate. The model of the system is presented in a nonlinear state space form that includes unknown additive terms arising from external disturbances and actuator faults. Based on the nonlinear model of the system, the respective I/O relation is derived, and a two-stage nonlinear measurable output feedback controller, analyzed into an internal and an external controller, is designed. The internal controller aims to produce a decoupled inner closed-loop system of linear form, regulating the linear velocity and angular velocity of the mobile robot independently. The internal controller is of the nonlinear PD type and uses real time measurements of the angular velocities of the active wheels of the vehicle, as well as the respective accelerations. The external controller aims toward the regulation of the orientation angle of the vehicle. It is of a linear, delayed PD feedback form, offering feedback from the remote measurements of the orientation angle and angular velocity of the vehicle, which are transmitted to the controller through a wireless network. Analytic formulae are derived for the parameters of the external controller to ensure the stability of the closed-loop system, even in the presence of the wireless transmission delays, as well as asymptotic command following for the orientation angle. To compensate for measurement noise, external disturbances, and actuator faults, a metaheuristic algorithm is proposed to evaluate the remaining free controller parameters. The performance of the proposed control scheme is evaluated through a series of computational experiments, demonstrating satisfactory behavior.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13020026"
+    },
+    {
+        "id": 30393,
+        "title": "Toward Reliable Mobile CrowdSensing Data Collection: Image Splicing Localization Overview",
+        "authors": "Wahiba Abou-Zbiba, Houda Benbrahim, Hanan El Bakkali, Hajar El Gadi, Zaina Maqour, Driss Benhaddou",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iwcmc58020.2023.10182475"
+    },
+    {
+        "id": 30394,
+        "title": "Autonomous Mobile Pharmacy (AMPharmy): Identification of hospital objects and their respective positions",
+        "authors": "Felipe Fabricio, André Schneider de Oliveira, Marco A. S. Teixeira, Gustavo Günther",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333001"
+    },
+    {
+        "id": 30395,
+        "title": "A Study on Acquisition of 3D Self-Localization by Fluorescent Lights",
+        "authors": "Rikuto Ozawa, Hiroyuki Kobayashi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012212200003543"
+    },
+    {
+        "id": 30396,
+        "title": "Online pole segmentation on range images for long-term LiDAR localization in urban environments",
+        "authors": "Hao Dong, Xieyuanli Chen, Simo Särkkä, Cyrill Stachniss",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2022.104283"
+    },
+    {
+        "id": 30397,
+        "title": "Mobile robot’s path-planning and path-tracking in static and dynamic environments: Dynamic programming approach",
+        "authors": "Arash Marashian, Abolhassan Razminia",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104592"
+    },
+    {
+        "id": 30398,
+        "title": "Sequential control barrier functions for mobile robots with dynamic temporal logic specifications",
+        "authors": "Ali Tevfik Buyukkocak, Derya Aksaray, Yasin Yazıcıoğlu",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104681"
+    },
+    {
+        "id": 30399,
+        "title": "Mobile Robot Motion Algorithm for Image Retrieval-based Localization in Nighttime",
+        "authors": "Kosei OHARA, Junji TAKAHASHI",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1299/jsmermd.2023.2p1-g04"
+    },
+    {
+        "id": 30400,
+        "title": "DynaTM-SLAM: Fast filtering of dynamic feature points and object-based localization in dynamic indoor environments",
+        "authors": "Meiling Zhong, Chuyuan Hong, Zhaoqian Jia, Chunyu Wang, Zhiguo Wang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2024.104634"
+    },
+    {
+        "id": 30401,
+        "title": "A novel indoor localization algorithm based on a modified EKF using virtual dynamic point landmarks for 2D grid maps",
+        "authors": "Ozan Vahit Altınpınar, Volkan Sezer",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104546"
+    },
+    {
+        "id": 30402,
+        "title": "Robot Localization Using Situational Graphs (S-Graphs) and Building Architectural Plans",
+        "authors": "Muhammad Shaheer, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos",
+        "published": "2023-4-28",
+        "citations": 0,
+        "abstract": "This paper presents robot localization using building architectural plans and hierarchical SLAM. We extract geometric, semantic as well as topological information from the architectural plans in the form of walls and rooms, and create the topological and metric-semantic layer of the Situational Graphs (S-Graphs) before navigating in the environment. When the robot navigates in the construction environment, it uses the robot odometry and 3D lidar measurements to extract planar wall surfaces. A particle filter method exploits the previously built situational graph and its available geometric, semantic, and topological information to perform global localization. We validate our approach in simulated and real datasets captured on ongoing construction sites presenting state-of-the-art results when comparing it against traditional geometry-based localization techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12030065"
+    },
+    {
+        "id": 30403,
+        "title": "Energy-Based Models for Cross-Modal Localization using Convolutional Transformers",
+        "authors": "Alan Wu, Michael S. Ryoo",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160267"
+    },
+    {
+        "id": 30404,
+        "title": "Demonstration of localization for construction vehicles using 3D LiDARs installed in the field",
+        "authors": "Masahiro Inagawa, Tomohito Kawabe, Toshinobu Takei",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "AbstractLocalization methods for autonomous construction vehicles include real‐time kinematic positioning through a global navigation satellite system (GNSS) and a scan matching with a light detection and ranging (LiDAR) attached to mobility. However, these conventional methods have low estimation accuracy when the vehicle's surroundings have few features and the vehicle is in the no‐GNSS area. For the estimation in such areas, this paper proposes a localization method that can estimate by matching a 3D model of a construction vehicle with a point cloud obtained from 3D LiDARs installed in a work area. To realize the high‐accuracy and high‐speed processing of the localization, we propose remodeling using the predictive motion model (RM) algorithm to modify the 3D model in the registration process. In the experimental results on rough terrain, we confirmed that our method can estimate a vehicle's position and yaw angle with accuracies of 0.121 m and 0.016 rad, respectively. In addition, compared with the case without the RM algorithm, the construction vehicle's position and yaw angle accuracies improved up to 5 and 12 times, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22211"
+    },
+    {
+        "id": 30405,
+        "title": "Design of Bluetooth 5.1 Angle of Arrival Homing Controller for Autonomous Mobile Robot",
+        "authors": "Katrina Weinmann, Steve Simske",
+        "published": "2023-8-11",
+        "citations": 3,
+        "abstract": "With the improvement of autonomous robot navigation technologies, mobile robots can now be deployed in uncertain, real-world environments. An aspect of autonomous robot navigation in such scenarios is the capability to navigate to a real-time determined (previously unknown) location anywhere in its vicinity. This is especially pertinent for indoor navigation where existing localization technologies such as GPS do not provide sufficient accuracy of target location. In this paper, a controller design is proposed which homes a mobile robot to an object of unknown location using Bluetooth 5.1 Angle of Arrival (AoA) technology. The proposed setup consists of a target object with a Bluetooth beacon and a single Bluetooth antenna array mounted on a mobile robot. The controller uses a hybrid approach to calculating and updating the estimated target position by implementing parallax and vector position calculations from AoA and RSSI Bluetooth data. Simulations with various levels of sensor noise showed convergence to accurate target positions (mean accuracy of 0.12 m or less) in both obstacle-free and obstacle-present environments. The controller can be implemented as a standalone controller by directly commanding robot motion toward the target, or it can integrate with other existing robot navigation techniques by outputting a target position.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040115"
+    },
+    {
+        "id": 30406,
+        "title": "Localization with Noisy Android Raw GNSS Measurements",
+        "authors": "Xu Weng, KV Ling",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/apwimob59963.2023.10365597"
+    },
+    {
+        "id": 30407,
+        "title": "Mobile Robot Global Localization Using Unique Objects in Indoor Scenes",
+        "authors": "Gengyu Ge, Yi Zhang, Wei Wang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10452093"
+    },
+    {
+        "id": 30408,
+        "title": "Initial Localization of Mobile Robot Based on Expansion Resetting Without Manual Pose Adjustment in Robot Challenge Experiment",
+        "authors": "Seo Takeda, Tomohiro Umetani",
+        "published": "2023-4-20",
+        "citations": 1,
+        "abstract": "This study proposes a method for estimating the initial position of a mobile robot during a mobile robot experiment using expansion resetting. Depending on the type of sensor attached to the robot and the robot position and orientation estimation method, many operations may be required to estimate the initial position of the robot during an experimental run. The proposed method reduces the time and manual operations required to estimate the initial position and orientation of a mobile robot. The implementation of the method and its experimental results demonstrated the feasibility and effectiveness of the procedure.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20965/jrm.2023.p0380"
+    },
+    {
+        "id": 30409,
+        "title": "Efficient Path Planning Algorithm for Mobile Robots Performing Floor Cleaning Like Operations",
+        "authors": "Vishnu G Nair",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "In this paper, we introduce an efficient path planning algorithm designed for floor cleaning applications, utilizing the concept of Spanning Tree Coverage (STC). We operate under the assumption that the environment, i.e., the floor, is initially unknown to the robot, which also lacks knowledge regarding obstacle positions, except for the workspace boundaries. The robot executes alternating phases of exploration and coverage, leveraging the local map generated during exploration to construct a STC tree, which then guides the subsequent coverage (cleaning) phase. The extent of exploration is determined by the range of the robot's sensors. The path generation algorithms for cleaning fall within the broader category of coverage path planning (CPP) algorithms. A key advantage of this algorithm is that the robot returns to its initial position upon completing the operation, minimizing battery usage since sensors are only active during the exploration phase. We classify the proposed algorithm as an offline-online scheme. To validate the effectiveness and non-repetitive nature of the algorithm, we conducted simulations using VRep/MATLAB environments and implemented real-time experiments using Turtlebot in the ROS-Gazebo environment. The results substantiate the completeness of coverage and underscore the algorithm's significance in applications akin to floor cleaning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18196/jrc.v5i1.20035"
+    },
+    {
+        "id": 30410,
+        "title": "A Cost-Effective Test Bench for Evaluating Safe Human-Robot Interaction in Mobile Robotics",
+        "authors": "Atefeh Fereydooni, Armin Azarakhsh, Ayda Shafiei, Hesam Zandi, Mehdi Delrobaei",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrom60803.2023.10412405"
+    },
+    {
+        "id": 30411,
+        "title": "A Novel Evolving Type-2 Fuzzy System for Controlling a Mobile Robot under Large Uncertainties",
+        "authors": "Ayad Al-Mahturi, Fendy Santoso, Matthew A. Garratt, Sreenatha G. Anavatti",
+        "published": "2023-3-10",
+        "citations": 7,
+        "abstract": "This paper presents the development of a type-2 evolving fuzzy control system (T2-EFCS) to facilitate self-learning (either from scratch or from a certain predefined rule). Our system has two major learning stages, namely, structure learning and parameters learning. The structure phase does not require previous information about the fuzzy structure, and it can start the construction of its rules from scratch with only one initial fuzzy rule. The rules are then continuously updated and pruned in an online fashion to achieve the desired set point. For the phase of learning parameters, all adjustable parameters of the fuzzy system are tuned by using a sliding surface method, which is based on the gradient descent algorithm. This method is used to minimize the difference between the expected and actual signals. Our proposed control method is model-free and does not require prior knowledge of the plant’s dynamics or constraints. Instead, data-driven control utilizes artificial intelligence-based techniques, such as fuzzy logic systems, to learn the dynamics of the system and adapt to changes in the system, and account for complex interactions between different components. A robustness term is incorporated into the control effort to deal with external disturbances in the system. The proposed technique is applied to regulate the dynamics of a mobile robot in the presence of multiple external disturbances, demonstrating the robustness of the proposed control systems. A rigorous comparative study with respect to three different controllers is performed, where the outcomes illustrate the superiority of the proposed learning method as evidenced by lower RMSE values and fewer fuzzy parameters. Lastly, stability analysis of the proposed control method is conducted using the Lyapunov stability theory.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12020040"
+    },
+    {
+        "id": 30412,
+        "title": "From the desks of ROS maintainers: A survey of modern &amp; capable mobile robotics algorithms in the robot operating system 2",
+        "authors": "Steve Macenski, Tom Moore, David V. Lu, Alexey Merzlyakov, Michael Ferguson",
+        "published": "2023-10",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104493"
+    },
+    {
+        "id": 30413,
+        "title": "An Application of Evolutionary Neural Networks for Mobile Robots Navigation and Dynamic Obstacles Avoidance",
+        "authors": "Mikael Nedel Hartmann, João Alberto Fabro, André Schneider De Oliveira, Flavio Neves",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10332982"
+    },
+    {
+        "id": 30414,
+        "title": "Visual-Based Localization for Autonomous Vehicles in Simulated Environments",
+        "authors": "Tiago Caldeira, José Santos-Victor, Pedro U. Lima",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406871"
+    },
+    {
+        "id": 30415,
+        "title": "Application of 5G Mobile Communication Technology Integrating Robot Controller Communication Method in Communication Engineering",
+        "authors": "Yu Chen",
+        "published": "2023-4-8",
+        "citations": 2,
+        "abstract": "Following the ongoing advancement of the communication industry, data traffic and information have achieved rapid growth. As the core technology of contemporary mobile communication, 5G technology can not only meet the transportation needs of massive data traffic but also be expanded to various industries, expanding the development field of intelligent communication and realizing further improvement of production efficiency. At present, 5G mobile communication technology is widely used in communication engineering, providing effective technical support for engineering construction and operation. However, while the progress of the times brings innovation and refinement in mobile communication technology, it also increases the complexity of market development, in this context, the practical application of 5G technology in communication engineering is limited, which limits the development of both. In order to solve this dilemma, this paper integrated the communication method of the robot controller, and based on the analysis of the characteristics and application status of mobile communication technology, the application of 5G technology in communication engineering was deeply studied. In order to prove the effect of the robot controller communication method, in this paper, simulation experiments were carried out to analyze the application effect of 5G in communication engineering from three aspects of throughput rate, energy efficiency, and signal suppression effect and to compare it with traditional communication methods. The results of the signal suppression experiment showed that the average peak value of the signal under the traditional communication method was 18.134 dB, and the average peak value of the signal under the method in this paper was 11.296 dB, which showed that the 5G technology integrating the communication method of the robot controller is more practical in communication engineering.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/1857590"
+    },
+    {
+        "id": 30416,
+        "title": "Online Odometry Calibration for Differential Drive Mobile Robots in Low Traction Conditions with Slippage",
+        "authors": "Carlo De Giorgi, Daniela De Palma, Gianfranco Parlangeli",
+        "published": "2023-12-27",
+        "citations": 0,
+        "abstract": "This paper addresses a systematic method for odometry calibration of a differential-drive mobile robot moving on arbitrary paths in the presence of slippage and an algorithm encoding it which is well fit for online applications. It exploits the redundancy of sensors commonly available on ground mobile robots, such as encoders, gyroscopes, and IMU, to promptly detect slippage phenomena during the calibration process and effectively address their impact on odometry. The proposed technique has been validated through exhaustive numerical simulations and compared with other available odometry calibration methods. The simulation results confirm that the proposed methodology mitigates the impact of poor calibration, conducted without considering possible slipping phenomena, on reaching a target position, reducing the error by up to a maximum of 35 times. This restores the robot’s performance to a calibration condition close to that of a slip-free scenario, confirming the effectiveness of the approach and its robustness against slippage phenomena.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010007"
+    },
+    {
+        "id": 30417,
+        "title": "Precise Wireless Camera Localization Leveraging Traffic-aided Spatial Analysis",
+        "authors": "Yan He, Qiuye He, Song Fang, Yao Liu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2023.3333272"
+    },
+    {
+        "id": 30418,
+        "title": "Unmanned Aerial Vehicles Path Planning Algorithm for Angle of Arrival Localization",
+        "authors": "Chenhu Xia, Sheng Wang",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscer58777.2023.00070"
+    },
+    {
+        "id": 30419,
+        "title": "SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing",
+        "authors": "Jianyuan Ruan, Bo Li, Yibo Wang, Yuxiang Sun",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161425"
+    },
+    {
+        "id": 30420,
+        "title": "NOHAS: A Novel Orthotic Hand Actuated by Servo Motors and Mobile App for Stroke Rehabilitation",
+        "authors": "Ebenezer Raj Selvaraj Mercyshalinie, Akash Ghadge, Nneka Ifejika, Yonas Tadesse",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "The rehabilitation process after the onset of a stroke primarily deals with assisting in regaining mobility, communication skills, swallowing function, and activities of daily living (ADLs). This entirely depends on the specific regions of the brain that have been affected by the stroke. Patients can learn how to utilize adaptive equipment, regain movement, and reduce muscle spasticity through certain repetitive exercises and therapeutic interventions. These exercises can be performed by wearing soft robotic gloves on the impaired extremity. For post-stroke rehabilitation, we have designed and characterized an interactive hand orthosis with tendon-driven finger actuation mechanisms actuated by servo motors, which consists of a fabric glove and force-sensitive resistors (FSRs) at the tip. The robotic device moves the user’s hand when operated by mobile phone to replicate normal gripping behavior. In this paper, the characterization of finger movements in response to step input commands from a mobile app was carried out for each finger at the proximal interphalangeal (PIP), distal interphalangeal (DIP), and metacarpophalangeal (MCP) joints. In general, servo motor-based hand orthoses are energy-efficient; however, they generate noise during actuation. Here, we quantified the noise generated by servo motor actuation for each finger as well as when a group of fingers is simultaneously activated. To test ADL ability, we evaluated the device’s effectiveness in holding different objects from the Action Research Arm Test (ARAT) kit. Our device, novel hand orthosis actuated by servo motors (NOHAS), was tested on ten healthy human subjects and showed an average of 90% success rate in grasping tasks. Our orthotic hand shows promise for aiding post-stroke subjects recover because of its simplicity of use, lightweight construction, and carefully designed components.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12060169"
+    },
+    {
+        "id": 30421,
+        "title": "A novel methodology for vision-based path planning and obstacle avoidance in mobile robot applications",
+        "authors": "Mostafa A. Shoeib, Jacek Lewandowski, Ahmed M. Omara",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01691864.2024.2315591"
+    },
+    {
+        "id": 30422,
+        "title": "Localization and Navigation System for Indoor Mobile Robot",
+        "authors": "Yanbaihui Liu",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "Visually impaired people usually find it hard to travel independently in many public places such as airports and shopping malls due to the problems of obstacle avoidance and guidance to the desired location. Therefore, in the highly dynamic indoor environment, how to improve indoor navigation robot localization and navigation accuracy so that they guide the visually impaired well becomes a problem. One way is to use visual SLAM. However, typical visual SLAM either assumes a static environment, which may lead to less accurate results in dynamic environments or assumes that the targets are all dynamic and removes all the feature points above, sacrificing computational speed to a large extent with the available computational power. This paper seeks to explore marginal localization and navigation systems for indoor navigation robotics. The proposed system is designed to improve localization and navigation accuracy in highly dynamic environments by identifying and tracking potentially moving objects and using vector field histograms for local path planning and obstacle avoidance. The system has been tested on a public indoor RGB-D dataset, and the results show that the new system improves accuracy and robustness while reducing computation time in highly dynamic indoor scenes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v43i.7420"
+    },
+    {
+        "id": 30423,
+        "title": "Wireless Indoor Localization by Using Machine Learning Techniques",
+        "authors": "Atul Kumar, Jaspreet Kaur",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4487016"
+    },
+    {
+        "id": 30424,
+        "title": "Attention-based neural network with Generalized Mean Pooling for cross-view geo-localization between UAV and satellite",
+        "authors": "Duc Viet Bui, Masao Kubo, Hiroshi Sato",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10015-023-00867-x"
+    },
+    {
+        "id": 30425,
+        "title": "Retracted: Vulnerability Assessment of Asphalt Plant through Machine Learning Techniques",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9767513"
+    },
+    {
+        "id": 30426,
+        "title": "A ROS-based distributed multi-robot localization and orientation strategy for heterogeneous robots",
+        "authors": "Abdussalam A. Alajami, Nil Palau, Sergio Lopez-Soriano, Rafael Pous",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "AbstractThe problem of estimating and tracking the location and orientation of a mobile robot by another in heterogeneous distributed multi-robots is studied in this paper. We propose a distributed multi-robot localization strategy (DMLS) that is Robotic Operating System (ROS) based. It consists of an algorithm that fuses data of diverse sensors from 2 heterogeneous robots that are not connected within their transform trees to localize and measure the relative position and orientation.The method exploits the robust detection of the Convolutional Neural Networks (CNN) and the accurate relative position measurements from the local costmap. The algorithm is composed of two parts: The localization part and the relative orientation measurement part. Localization is done by optimization and alignment calibration of the CNN output with the costmap in an individual robot. The relative orientation measurement is done by a collaborative multi-robot fusing of diverse sensor data to align and synchronize the transform frames of both robots in their costmaps. To illustrate the performance of this strategy, the proposed method is compared with a conventional object localization and orientation measuring method that uses computer vision and QR codes. The results show that this proposed method is robust and accurate while maintaining a degree of simplicity and efficiency in costs. The paper also presents various application experiments in laboratory and simulation environments. By using the proposed method, distributed multi-robots collaborate to achieve collective intelligence from individuals, which increases team performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11370-023-00457-7"
+    },
+    {
+        "id": 30427,
+        "title": "A bio-inspired algorithm in image-based path planning and localization using visual features and maps",
+        "authors": "Daniel Short, Tingjun Lei, Chaomin Luo, Daniel W. Carruth, Zhuming Bi",
+        "published": "2023-6-28",
+        "citations": 4,
+        "abstract": "With the growing applications of autonomous robots and vehicles in unknown environments, studies on image-based localization and navigation have attracted a great deal of attention. This study is significantly motivated by the observation that relatively little research has been published on the integration of cutting-edge path planning algorithms for robust, reliable, and effective image-based navigation. To address this gap, a biologically inspired  Bat Algorithm (BA) is introduced and adopted for image-based path planning in this paper. The proposed algorithm utilizes visual features as the reference in generating a path for an autonomous vehicle, and these features are extracted from the obtained images by convolutional neural networks (CNNs). The paper proceeds as follows: first, the requirements for image-based localization and navigation are described. Second, the principles of the BA are explained in order to expound on the justifications for its successful incorporation in image-based navigation. Third, in the proposed image-based navigation system, the BA is developed and implemented as a path planning tool for global path planning. Finally, the performance of the BA is analyzed and verified through simulation and comparison studies to demonstrate its effectiveness. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20517/ir.2023.14"
+    },
+    {
+        "id": 30428,
+        "title": "An adaptable mobile robot platform with vision-based perception for precision agriculture",
+        "authors": "Hugo Oliveira, Arthur Vangasse, Lívia Soares, Andressa Oliveira, Bruno Ferreira, Glauber Leite, Ícaro Araújo, Davi Brito",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333061"
+    },
+    {
+        "id": 30429,
+        "title": "Transposed Jacobian Control of a Mobile Robot",
+        "authors": "Douglas R. Isenberg",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5038/dmpv4200"
+    },
+    {
+        "id": 30430,
+        "title": "A fault-tolerant sensor fusion in mobile robots using multiple model Kalman filters",
+        "authors": "M. Kheirandish, E. Azadi Yazdi, H. Mohammadi, M. Mohammadi",
+        "published": "2023-3",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2022.104343"
+    },
+    {
+        "id": 30431,
+        "title": "Integration of Real-Time Semantic Building Map Updating with Adaptive Monte Carlo Localization (AMCL) for Robust Indoor Mobile Robot Localization",
+        "authors": "Matthew Peavy, Pileun Kim, Hafiz Oyediran, Kyungki Kim",
+        "published": "2023-1-9",
+        "citations": 4,
+        "abstract": "A robot can accurately localize itself and navigate in an indoor environment based on information about the operating environment, often called a world or a map. While typical maps describe structural layouts of buildings, the accuracy of localization is significantly affected by non-structural building elements and common items, such as doors, appliances, and furniture. This study enhances the robustness and accuracy of indoor robot localization by dynamically updating the semantic building map with non-structural elements detected by sensors. We propose modified Adaptive Monte Carlo Localization (AMCL), integrating object recognition and map updating into the traditional probabilistic localization. With the proposed approach, a robot can automatically correct errors caused by non-structural elements by updating a semantic building map reflecting the current state of the environment. Evaluations in kidnapped robot and traditional localization scenarios indicate that more accurate and robust pose estimation can be achieved with the map updating capability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13020909"
+    },
+    {
+        "id": 30432,
+        "title": "Vision-based spatial damage localization method for autonomous robotic laser cladding repair processes",
+        "authors": "Habiba Zahir Imam, Hamdan Al-Musaibeli, Yufan Zheng, Pablo Martinez, Rafiq Ahmad",
+        "published": "2023-4",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.rcim.2022.102452"
+    },
+    {
+        "id": 30433,
+        "title": "Low-light Image Enhancement for Construction Robot Simultaneous Localization and Mapping",
+        "authors": "Xinyu Chen, Yantao Yu",
+        "published": "2023-7-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22260/isarc2023/0018"
+    },
+    {
+        "id": 30434,
+        "title": "NeRF-Loc: Visual Localization with Conditional Neural Radiance Field",
+        "authors": "Jianlin Liu, Qiang Nie, Yong Liu, Chengjie Wang",
+        "published": "2023-5-29",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161420"
+    },
+    {
+        "id": 30435,
+        "title": "A Moving Target Tracking System of Quadrotors with Visual-Inertial Localization",
+        "authors": "Ziyue Lin, Wenbo Xu, Wei Wang",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161323"
+    },
+    {
+        "id": 30436,
+        "title": "Automatic extension of a symbolic mobile manipulation skill set",
+        "authors": "Julian Förster, Lionel Ott, Juan Nieto, Nicholas Lawrance, Roland Siegwart, Jen Jen Chung",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104428"
+    },
+    {
+        "id": 30437,
+        "title": "Retracted: Three-Dimensional DV-Hop Localization Algorithm Based on Hop Size Correction and Improved Sparrow Search",
+        "authors": "",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9867609"
+    },
+    {
+        "id": 30438,
+        "title": "DeepEar: Sound Localization With Binaural Microphones",
+        "authors": "Qiang Yang, Yuanqing Zheng",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2022.3222821"
+    },
+    {
+        "id": 30439,
+        "title": "Optimizing Food Sample Handling and Placement Pattern Recognition with YOLO: Advanced Techniques in Robotic Object Detection",
+        "authors": "Shoki Koga, Keisuke Hamamoto, Huimin Lu, Yoshihisa Nakatoh",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cogr.2024.01.001"
+    },
+    {
+        "id": 30440,
+        "title": "Research on feature point localization technology based on binocular vision",
+        "authors": "Lei Liu, Jun Wei, Qingsheng Mu",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wrcsara60131.2023.10261829"
+    },
+    {
+        "id": 30441,
+        "title": "Enhancing the Swimmer Movement Techniques Using Cloud Computing and Artificial Intelligence",
+        "authors": "Liu Xurui, Zhang Guobao",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11036-023-02167-x"
+    },
+    {
+        "id": 30442,
+        "title": "A Linear Regression Based-Approach to Collective Gas Source Localization",
+        "authors": "Ronnier Rohrich, Luis Messias, Jose Lima, Andre Schneider de Oliveira",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012187100003543"
+    },
+    {
+        "id": 30443,
+        "title": "On Localization of Sources of Hazards Using Search Agents",
+        "authors": "Nada Abughanam, Tamer Khattab, Amr Mohamed",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iwcmc58020.2023.10182472"
+    },
+    {
+        "id": 30444,
+        "title": "The human-following strategy for mobile robots in mixed environments",
+        "authors": "Nguyen Van Toan, Minh Do Hoang, Phan Bui Khoi, Soo-Yeong Yi",
+        "published": "2023-2",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2022.104317"
+    },
+    {
+        "id": 30445,
+        "title": "MARCEL: Mobile active rover chassis for enhanced locomotion",
+        "authors": "Arthur Bouton, Yang Gao",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "AbstractTo extend planetary exploration beyond the current limitations of wheeled vehicles while preserving reliability, simplicity, and efficiency, actuation can be judiciously incorporated into the locomotion system. Based on a static analysis, we propose a new four‐wheeled chassis concept for planetary rovers that can traverse more challenging terrain with the help of two internal active joints. These joints are arranged as follows: a vertical pivot articulates the chassis around its center while a bogie allows the rear wheels to rotate around the longitudinal axis of the vehicle. We also introduce a control method that uses a two‐stage procedure to produce an interpretable controller based on a policy devised by reinforcement learning. This way, we eliminate the black box made of a neural network and facilitate the transfer from simulation to reality. The resulting controller efficiently harnesses the internal mobility of the chassis to climb over obstacles in a sequenced manner while relying only on proprioceptive data provided by the chassis. A rover prototype named MARCEL has been built and tested experimentally. Contrary to any state‐of‐the‐art six‐wheeled passive chassis, the proposed locomotion system and its associated control has proven to be able to overcome solid step obstacles as tall as the diameter of the wheels with a  edge and a friction coefficient as low as 0.5. This simple but capable design will enable future missions to explore more challenging areas while providing better guarantees in the face of unforeseen difficulties that could arise.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22188"
+    },
+    {
+        "id": 30446,
+        "title": "Real-Time SLAM Mobile Robot and Navigation Based on Cloud-Based Implementation",
+        "authors": "Jaafar Ahmed Abdulsaheb, Dheyaa Jasim Kadhim",
+        "published": "2023-3-29",
+        "citations": 3,
+        "abstract": "This study investigates the feasibility of a mobile robot navigating and discovering its location in unknown environments, followed by the creation of maps of these navigated environments for future use. First, a real mobile robot named TurtleBot3 Burger was used to achieve the simultaneous localization and mapping (SLAM) technique for a complex environment with 12 obstacles of different sizes based on the Rviz library, which is built on the robot operating system (ROS) booted in Linux. It is possible to control the robot and perform this process remotely by using an Amazon Elastic Compute Cloud (Amazon EC2) instance service. Then, the map to the Amazon Simple Storage Service (Amazon S3) cloud was uploaded. This provides a database to display maps and use them at any time for navigation without the need to redraw the map. This map can be accessed by using an authentication process (username and password) supervised by the cloud server administrator. After that, using the serverless image handler (SIH), with the aid of this solution, you can change the size of images, change the color of the background, format them, or add watermarks. Experiment results demonstrated the ability to build a map of an unknown location in a complex environment and use it for navigation tasks on a real mobile robot via remote control. It also showed the success of the process of storing the map for future use and the process of modifying the map using SIH.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9967236"
+    },
+    {
+        "id": 30447,
+        "title": "Nonlinear Model Predictive Control-based Collision Avoidance for Mobile Robot",
+        "authors": "Omar Y. Ismael, Mohammed Almaged, Abdulla Ibrahim Abdulla",
+        "published": "2024-1-15",
+        "citations": 0,
+        "abstract": "This work proposes an efficient and safe single-layer Nonlinear Model Predictive Control (NMPC) system based on LiDAR to solve the problem of autonomous navigation in cluttered environments with previously unidentified static and dynamic obstacles of any shape. Initially, LiDAR sensor data is collected. Then, the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm, is used to cluster the (Lidar) points that belong to each obstacle together. Moreover, a Minimum Euclidean Distance (MED) between the robot and each obstacle with the aid of a safety margin is utilized to implement safety-critical obstacle avoidance rather than existing methods in the literature that depend on enclosing the obstacles with a circle or minimum bounding ellipse. After that, to impose avoidance constraints with feasibility guarantees and without compromising stability, an NMPC for set-point stabilization is taken into consideration with a design strategy based on terminal inequality and equality constraints. Consequently, numerous obstacles can be avoided at the same time efficiently and rapidly through unstructured environments with narrow corridors.  Finally, a case study with an omnidirectional wheeled mobile robot (OWMR) is presented to assess the proposed NMPC formulation for set-point stabilization. Furthermore, the efficacy of the proposed system is tested by experiments in simulated scenarios using a robot simulator named CoppeliaSim in combination with MATLAB which utilizes the CasADi Toolbox, and Statistics and Machine Learning Toolbox. Two simulation scenarios are considered to show the performance of the proposed framework. The first scenario considers only static obstacles while the second scenario is more challenging and contains static and dynamic obstacles. In both scenarios, the OWMR successfully reached the target pose (1.5m, 1.5m, 0°) with a small deviation. Four performance indices are utilized to evaluate the set-point stabilization performance of the proposed control framework including the steady-state error in the posture vector which is less than 0.02 meters for position and 0.012 for orientation, and the integral of norm squared actual control inputs which is 19.96 and 21.74 for the first and second scenarios respectively. The proposed control framework shows a positive performance in a narrow-cluttered environment with unknown obstacles.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18196/jrc.v5i1.20615"
+    },
+    {
+        "id": 30448,
+        "title": "Coverage Control of Mobile Wireless Sensor Network with Distributed Location of High Interest",
+        "authors": "Rudy Hanindito, Adha Imam Cahyadi, Prapto Nugroho",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "Formation control is an important part of any system that utilizes multiple mobile agent to achieve its particular goals. One of those application is the mobile wireless network sensor. A field which becomes increasingly more popular in recent times due to advancement of technology especially in the fields of miniaturization and telecommunications. The main problem of this research is the relatively untested sensing capability of a mobile wireless sensor network in an operating area which has distributed and/or multiple locations of high interest. The purpose of this research is to discover the compatibility of a multiple-agent coverage control system under several examples of interest functions that has multiple and/or distributed points of global maximum value in order to explore more thoroughly the performance of a given system in a varying environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/2-2022/18"
+    },
+    {
+        "id": 30449,
+        "title": "Application of Path Planning for a Mobile Robot Assistance System Based on OpenStreetMap Data",
+        "authors": "Pascal Stahr, Jochen Maaß, Henner Gärtner",
+        "published": "2023-8-4",
+        "citations": 1,
+        "abstract": "For visually impaired people, orientation and mobility are challenging and require a great deal of concentration. Especially unfamiliar routes are difficult to follow. This paper presents a navigation algorithm based on a geographic information system that can be optimally adapted to the needs of this user group. A three-stage process is being developed for this purpose. The first step is to check the map against ISO 19157, followed by map augmentation and the generation of a navigable graph. Finally, a new cost function for an A* algorithm is developed to make the best use of the modified map data and adapt it to the user’s needs. It is shown that map data from the geographic information system OpenStreetMap is well suited to the task, although the map data needs to be verified and augmented with additional information before being used. Finally, we compare the presented solution with a standard A* algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040113"
+    },
+    {
+        "id": 30450,
+        "title": "Causal Policy Gradient for Whole-Body Mobile Manipulation",
+        "authors": "Jiaheng Hu, Peter Stone, Roberto Mart�n-Mart�n",
+        "published": "2023-7-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.049"
+    },
+    {
+        "id": 30451,
+        "title": "Monocular Person Localization with Lidar Fusion for Social Navigation",
+        "authors": "Sedat Dogru, Carlos A. Silva, Lino Marques",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecmr59166.2023.10256308"
+    },
+    {
+        "id": 30452,
+        "title": "Ultra-wideband Localization with Time-based Measurement Techniques",
+        "authors": "Lucija Bukvić, Luka Kramarić, Mario Muštra, Niko Jelušić",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/elmar59410.2023.10253907"
+    },
+    {
+        "id": 30453,
+        "title": "Passive infrared sensor dataset and deep learning models for device-free indoor localization and tracking",
+        "authors": "Kan Ngamakeur, Sira Yongchareon, Jian Yu, Saiful Islam",
+        "published": "2023-1",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.pmcj.2022.101721"
+    },
+    {
+        "id": 30454,
+        "title": "Seeing the world from its words: All-embracing Transformers for fingerprint-based indoor localization",
+        "authors": "Son Minh Nguyen, Duc Viet Le, Paul J.M. Havinga",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.pmcj.2024.101912"
+    },
+    {
+        "id": 30455,
+        "title": "Congestion Prediction for Large Fleets of Mobile Robots",
+        "authors": "Ge Yu, Michael T. Wolf",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161554"
+    },
+    {
+        "id": 30456,
+        "title": "UAV‐based simultaneous localization and mapping in outdoor environments: A systematic scoping review",
+        "authors": "Kaiwen Wang, Lammmert Kooistra, Ruoxi Pan, Wensheng Wang, João Valente",
+        "published": "2024-4-9",
+        "citations": 0,
+        "abstract": "AbstractThis study aims to investigate the current knowledge of unmanned aerial vehicle (UAV)‐based simultaneous localization and mapping (SLAM) in outdoor environments and to discuss challenges and limitations in this field. A literature search was conducted in three online databases (Web of Science, Scopus, and IEEE) for articles published before October 2022 related to UAV‐based SLAM. A scoping review was carried out to identify the key concepts and applications, and discover research gaps in the use of algorithm‐oriented and task‐oriented, open‐source studies. A total of 97 studies met the criteria after conducting a two‐step screening by a systematic method followed the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses. Among eligible studies, 97 were classified into two main categories: algorithm‐oriented studies and task‐oriented studies. The analysis of the literature revealed that the majority of the studies were focused on the development and implementation of new algorithms and algorithms. This review highlights the significance and diversity of sensors utilized in UAVs in different tasks and applications scenarios that employ different types of sensors. The evaluation method is able to show the real results and performance of the new algorithms in the target scenarios compared with the evaluation method by the public data set and simulation platform.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22325"
+    },
+    {
+        "id": 30457,
+        "title": "Exploring mobile robotics: Historical applications and future",
+        "authors": "Zhaofeng Cong",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "This paper reviews the history, current research status and future prospects of intelligent mobile robotics. The paper analyzes in detail the automatic navigation of mobile robots and identifies its advantages and disadvantages. Bionic robotics, artificial intelligence, machine learning, and deep learning are further analysed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/6/20230414"
+    },
+    {
+        "id": 30458,
+        "title": "Robust and Scalable Indoor Robot Localization Based on Fusion of Infrastructure Camera Feeds and On-Board Sensors",
+        "authors": "Poornima J D, Raghu Krishnapuram, Mukunda Bharatheesha, Bharadwaj Amrutur, Suresh Sundaram",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610460"
+    },
+    {
+        "id": 30459,
+        "title": "SLAMER: Simultaneous Localization and Map-Assisted Environment Recognition",
+        "authors": "Naoki Akai",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160639"
+    },
+    {
+        "id": 30460,
+        "title": "Local_INN: Implicit Map Representation and Localization with Invertible Neural Networks",
+        "authors": "Zirui Zang, Hongrui Zheng, Johannes Betz, Rahul Mangharam",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161015"
+    },
+    {
+        "id": 30461,
+        "title": "Performance Analysis of Load Frequency Control for Power Plants Using Different Optimization Techniques",
+        "authors": "Niloy Goswami, Abu Hena Md. Shatil",
+        "published": "2023-1-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070029"
+    },
+    {
+        "id": 30462,
+        "title": "Systematic Review of Affective Computing Techniques for Infant Robot Interaction",
+        "authors": "Chiara Filippini, Arcangelo Merla",
+        "published": "2023-3",
+        "citations": 4,
+        "abstract": "AbstractResearch studies on social robotics and human-robot interaction have gained insights into factors that influence people’s perceptions and behaviors towards robots. However, adults’ perceptions of robots may differ significantly from those of infants. Consequently, extending this knowledge also to infants’ attitudes toward robots is a growing field of research. Indeed, infant-robot interaction (IRI) is emerging as a critical and necessary area of research as robots are increasingly used in social environments, such as caring for infants with all types of disabilities, companionship, and education. Although studies have been conducted on the ability of robots to positively engage infants, little is known about the infants’ affective state when interacting with a robot. In this systematic review, technologies for infant affective state recognition relevant to IRI applications are presented and surveyed. Indeed, adapting techniques currently employed for infant’s emotion recognition to the field of IRI results to be a complex task, since it requires timely response while not interfering with the infant’s behavior. Those aspects have a crucial impact on the selection of the emotion recognition techniques and the related metrics to be used for this purpose. Therefore, this review is intended to shed light on the advantages and the current research challenges of the infants’ affective state recognition approaches in the IRI field, elucidates a roadmap for their use in forthcoming studies as well as potentially provide support to future developments of emotion-aware robots.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12369-023-00985-3"
+    },
+    {
+        "id": 30463,
+        "title": "Real-time motion planning for an autonomous mobile robot with wheel-ground adhesion constraint",
+        "authors": "Jiuchun Gao, Fabien Claveau, Anatol Pashkevich, Philippe Chevrel",
+        "published": "2023-5-19",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01691864.2023.2186188"
+    },
+    {
+        "id": 30464,
+        "title": "RoLM: Radar on LiDAR Map Localization",
+        "authors": "Yukai Ma, Xiangrui Zhao, Han Li, Yaqing Gu, Xiaolei Lang, Yong Liu",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161203"
+    },
+    {
+        "id": 30465,
+        "title": "Cooperative object transportation with differential-drive mobile robots: Control and experimentation",
+        "authors": "Henrik Ebel, Mario Rosenfelder, Peter Eberhard",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104612"
+    },
+    {
+        "id": 30466,
+        "title": "Recent Advances and Perspectives in Deep Learning Techniques for 3D Point Cloud Data Processing",
+        "authors": "Zifeng Ding, Yuxuan Sun, Sijin Xu, Yan Pan, Yanhong Peng, Zebing Mao",
+        "published": "2023-7-11",
+        "citations": 2,
+        "abstract": "In recent years, deep learning techniques for processing 3D point cloud data have seen significant advancements, given their unique ability to extract relevant features and handle unstructured data. These techniques find wide-ranging applications in fields like robotics, autonomous vehicles, and various other computer-vision applications. This paper reviews the recent literature on key tasks, including 3D object classification, tracking, pose estimation, segmentation, and point cloud completion. The review discusses the historical development of these methods, explores different model architectures, learning algorithms, and training datasets, and provides a comprehensive summary of the state-of-the-art in this domain. The paper presents a critical evaluation of the current limitations and challenges in the field, and identifies potential areas for future research. Furthermore, the emergence of transformative methodologies like PoinTr and SnowflakeNet is examined, highlighting their contributions and potential impact on the field. The potential cross-disciplinary applications of these techniques are also discussed, underscoring the broad scope and impact of these developments. This review fills a knowledge gap by offering a focused and comprehensive synthesis of recent research on deep learning techniques for 3D point cloud data processing, thereby serving as a useful resource for both novice and experienced researchers in the field.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12040100"
+    },
+    {
+        "id": 30467,
+        "title": "Continuous and Responsive D2D Victim Localization for Post-Disaster Emergencies",
+        "authors": "Vishaka Basnayake, Hakim Mabed, Philippe Canalda, Dushantha Nalin K. Jayakody",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2023.3336353"
+    },
+    {
+        "id": 30468,
+        "title": "An exploratory study of software engineering in heavy-duty mobile machine automation",
+        "authors": "Andrei Ahonen, Marea de Koning, Tyrone Machado, Reza Ghabcheloo, Outi Sievi-Korte",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104424"
+    },
+    {
+        "id": 30469,
+        "title": "A Block-Wise Image-Based Mobile Localization Using Google Streetview",
+        "authors": "Zhixin Li, Jie Shan",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10282619"
+    },
+    {
+        "id": 30470,
+        "title": "Algorithm for Mobile Robot Localization Based on Recurrent Convolutional Neural Networks",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18178/wcse.2023.06.029"
+    },
+    {
+        "id": 30471,
+        "title": "Large-Scale Radar Localization using Online Public Maps",
+        "authors": "Ziyang Hong, Yvan Petillot, Kaicheng Zhang, Shida Xu, Sen Wang",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160730"
+    },
+    {
+        "id": 30472,
+        "title": "BLOCSIE - Benchmark for LOCalization in a Simulated Industrial Environment",
+        "authors": "Florian Spiess, Daniel Bluemm, Norbert Strobel, Tobias Kaupp, Samuel Kounev",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406777"
+    },
+    {
+        "id": 30473,
+        "title": "FloorplanNet: Learning Topometric Floorplan Matching for Robot Localization",
+        "authors": "Delin Feng, Zhenpeng He, Jiawei Hou, Sören Schwertfeger, Liangjun Zhang",
+        "published": "2023-5-29",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160977"
+    },
+    {
+        "id": 30474,
+        "title": "SEEK+: Securing vehicle GPS via a sequential dashcam-based vehicle localization framework",
+        "authors": "Peng Jiang, Hongyi Wu, Yanxiao Zhao, Dan Zhao, Gang Zhou, Chunsheng Xin",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.pmcj.2024.101916"
+    },
+    {
+        "id": 30475,
+        "title": "Multiple WiFi Access Points Co-Localization Through Joint AoA Estimation",
+        "authors": "Shuai Yang, Dongheng Zhang, Ruiyuan Song, Pengfei Yin, Yan Chen",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2023.3239377"
+    },
+    {
+        "id": 30476,
+        "title": "Comparative Analysis of Static and Mobile Anchors in Sensor Localization",
+        "authors": "Vaishali R Kulkarni",
+        "published": "2023-3-17",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dicct56244.2023.10110135"
+    },
+    {
+        "id": 30477,
+        "title": "Hardware Implementation of a GMDH Controller for Mobile Robot Obstacle Following/Avoidance",
+        "authors": "M. A. Pastrana, L. H. Oliveira, M. S. Santana, V. C. Oliveira, Jose Mendoza-Peñaloza, Daniel M. Muñoz",
+        "published": "2023-10-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10332957"
+    },
+    {
+        "id": 30478,
+        "title": "Three-Dimensional Location and Mapping Analysis in Mobile Robotics Based on Visual SLAM Methods",
+        "authors": "Gustavo A. Acosta-Amaya, Juan M. Cadavid-Jimenez, Jovani A. Jimenez-Builes",
+        "published": "2023-6-16",
+        "citations": 1,
+        "abstract": "One of the essential tasks required from a mobile robot is the autonomous and safe navigation of its working environment. However, in many cases, a model of the environment or map is not available to execute this task. Indeed, navigation requires a permanent estimation of the location for a map, which is not available for unknown environments. In such a scenario, the robot must have extended capabilities to solve, concurrently, the problems of localization and mapping. The simultaneous solution of these two problems is known as SLAM (simultaneous localization and mapping) and is a complex problem, not yet fully solved by the scientific community. This is due to the fact that localization requires a map that is not yet available since it is still under construction. In turn, the elaboration of a map requires the estimation of the robot’s location. This is the reason why SLAM has been categorized as similar to the chicken and egg problem. In the case of a robot facing an unknown environment, it would be something like what to solve first, localization or mapping? The answer to this question is that the robot will have to solve both problems at the same time. This article presents a study of some of the most representative open source visual SLAM (vSLAM) methods, beginning from an analysis of their characteristics and presenting criteria selection for an experimental design that allows contrasting their advantages and disadvantages. Two of the most representative algorithms for solving vSLAM were considered (RTAB-Map and ORB-SLAM2). The experiments were validated with a robotic system designed for this purpose, which is fully compatible with ROS (robot operating system).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/6630038"
+    },
+    {
+        "id": 30479,
+        "title": "Graph-Based Simultaneous Localization and Mapping with incorporated Dynamic Object Motion",
+        "authors": "Peter Aerts, Peter Slaets, Eric Demeester",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecmr59166.2023.10256358"
+    },
+    {
+        "id": 30480,
+        "title": "Device-Free Localization Techniques: A Review",
+        "authors": " Abd Al-Rahman Tariq Rasheed,  Aseel Hameed AL-Nakkash,  Osama Abbas Al Tameemi,  Debashri Roy",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "Device-free localization (DFL) has emerged as a transformative technology for tracking objects and individuals without requiring them to carry electronic devices. This paper reviews two pivotal techniques of DFL: Link Quality Measurement and Link Scattering techniques. Link Quality Measurement focuses on evaluating the quality of wireless links through metrics like Received-Signal-Strength and Channel-State-Information, offering simplicity and reliability. Meanwhile, Link Scattering harnesses signal reflections and diffractions caused by environmental obstacles to estimate device-free target positions. This review provides insights of Link Quality Measurement, Link Scattering methods and highlighting DFL metrics. By shedding light on these critical aspects, it offers valuable insights into the current state of DFL technology and its potential in diverse domains, ranging from smart environments to security systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.51173/jt.v5i4.1844"
+    },
+    {
+        "id": 30481,
+        "title": "Test Case Selection Techniques for Effective Fault Localization",
+        "authors": "Hao Du",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic2ecs60824.2023.10493690"
+    },
+    {
+        "id": 30482,
+        "title": "Enhancing Software Fault Localization Using Deep Learning Techniques",
+        "authors": "Indhu Priya Byrraju, Swaminathan J",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wconf58270.2023.10235227"
+    },
+    {
+        "id": 30483,
+        "title": "Limit Cycle Construction Using Bézier Curves: Application in a Mobile Robot",
+        "authors": "Ricardo Cuesta, Joaquín Alvarez",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/comrob60035.2023.10349743"
+    },
+    {
+        "id": 30484,
+        "title": "Exploring Deep Learning-Based Visual Localization Techniques",
+        "authors": "Zhuoyi Yu",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsca59871.2023.10392335"
+    },
+    {
+        "id": 30485,
+        "title": "Simulation Research of Motion of Lightweight Wheeled Mobile Robot on Various Types of Soft Ground – a Case Study",
+        "authors": "Maciej Trojnacki, Przemysław Dąbek",
+        "published": "2024-3-7",
+        "citations": 0,
+        "abstract": "A problem of influence of three types of soft ground on longitudinal motion of a lightweight four-wheeled mobile robot is considered. Kinematic structure, main design features of the robot and its dynamics model are described. A numerical model was elaborated to simulate the dynamics of the robot's multi-body system and the wheel-ground interaction, taking into account the soil deformation and stresses occurring on the circumference of the wheel in the area of contact with the deformable ground. Numerical analysis involving four velocities of robot motion and three cases of soil (dry sand, sandy loam, clayey soil) is performed. Within simulation research, the motion parameters of the robot, ground reaction forces and moments of force, driving torques, wheel sinkage and slip parameters of wheels were calculated. Aggregated research results as well as detailed results of selected simulations are shown and discussed. As a result of the research, it was noticed that wheel slip ratios, wheels’ sinkage and wheel driving torques increase with desired velocity of motion. Moreover, it was observed that wheels’ sinkage and driving torques are significantly larger for dry sand than for the other investigated ground types.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14313/jamris/4-2023/26"
+    },
+    {
+        "id": 30486,
+        "title": "The Fast Learning Method (FLM) on Mobile Robot to Novice High Technical School Student to Understand Robotics Faster",
+        "authors": "Ismail Ismail, Rikki Vitria, Anton Hidayat, Firdaus Firdaus",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.5.0124.0204"
+    },
+    {
+        "id": 30487,
+        "title": "Door-Opening Motion Generation Using DAE Modeling for Mobile Manipulators",
+        "authors": "Yusuke Kuribayashi, Kimitoshi Yamazaki",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354770"
+    },
+    {
+        "id": 30488,
+        "title": "FingerSLAM: Closed-loop Unknown Object Localization and Reconstruction from Visuo-tactile Feedback",
+        "authors": "Jialiang Zhao, Maria Bauza, Edward H. Adelson",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161489"
+    },
+    {
+        "id": 30489,
+        "title": "Odometry and Inertial Sensor-based Localization of a Snake Robot",
+        "authors": "Ramsha Shahid, Anam Baloch, Humayun Tahir, Anayat Ullah",
+        "published": "2023-3-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrai57502.2023.10089598"
+    },
+    {
+        "id": 30490,
+        "title": "Implicit Shape Model Trees: Recognition of 3-D Indoor Scenes and Prediction of Object Poses for Mobile Robots",
+        "authors": "Pascal Meißner, Rüdiger Dillmann",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "This article describes an approach for mobile robots to identify scenes in configurations of objects spread across dense environments. This identification is enabled by intertwining the robotic object search and the scene recognition on already detected objects. We proposed “Implicit Shape Model (ISM) trees” as a scene model to solve these two tasks together. This article presents novel algorithms for ISM trees to recognize scenes and predict object poses. For us, scenes are sets of objects, some of which are interrelated by 3D spatial relations. Yet, many false positives may occur when using single ISMs to recognize scenes. We developed ISM trees, which is a hierarchical model of multiple interconnected ISMs, to remedy this. In this article, we contribute a recognition algorithm that allows the use of these trees for recognizing scenes. ISM trees should be generated from human demonstrations of object configurations. Since a suitable algorithm was unavailable, we created an algorithm for generating ISM trees. In previous work, we integrated the object search and scene recognition into an active vision approach that we called “Active Scene Recognition”. An efficient algorithm was unavailable to make their integration using predicted object poses effective. Physical experiments in this article show that the new algorithm we have contributed overcomes this problem.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics12060158"
+    },
+    {
+        "id": 30491,
+        "title": "Bimanual Telemanipulation Framework Utilising Multiple Optically Localised Cooperative Mobile Manipulators",
+        "authors": "Christopher Peers, Chengxu Zhou",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "Bimanual manipulation is valuable for its potential to provide robots in the field with increased capabilities when interacting with environments, as well as broadening the number of possible manipulation actions available. However, for a robot to perform bimanual manipulation, the system must have a capable control framework to localise and generate trajectories and commands for each sub-system to allow for successful cooperative manipulation as well as sufficient control over each individual sub-system. The proposed method suggests using multiple mobile manipulator platforms coupled through the use of an optical tracking localisation method to act as a single bimanual manipulation system. The framework’s performance relies on the accuracy of the localisation. As commands are primarily high-level, it is possible to use any number and combination of mobile manipulators and fixed manipulators within this framework. We demonstrate the functionality of this system through tests in a Pybullet simulation environment using two different omnidirectional mobile manipulators, as well a real-life experiment using two quadrupedal manipulators.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13040059"
+    },
+    {
+        "id": 30492,
+        "title": "Optimization-based local planner for a nonholonomic autonomous mobile robot in semi-structured environments",
+        "authors": "Huajian Liu, Wei Dong, Zhen Zhang, Chao Wang, Renjie Li, Yongzhuo Gao",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104565"
+    },
+    {
+        "id": 30493,
+        "title": "osmAG: Hierarchical Semantic Topometric Area Graph Maps in the OSM Format for Mobile Robotics",
+        "authors": "Delin Feng, Chengqian Li, Yongqi Zhang, Chen Yu, Sören Schwertfeger",
+        "published": "2023-12-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354976"
+    },
+    {
+        "id": 30494,
+        "title": "Design and Implementation of Fuzzy Logic for Obstacle Avoidance in Differential Drive Mobile Robot",
+        "authors": "Riky Dwi Puriyanto, Ahmad Kamal Mustofa",
+        "published": "2024-1-15",
+        "citations": 0,
+        "abstract": "Autonomous mobile robots based on wheel drive are widely used in various applications. The differential drive mobile robot (DDMR) is one type with wheel drive. DDMR uses one actuator to move each wheel on the mobile robot. Autonomous capabilities are needed to avoid obstacles around the DDMR. This paper presents implementing a fuzzy logic algorithm for obstacle avoidance at a low cost (DDMR). The fuzzy logic algorithm input is obtained from three ultrasonic sensors installed in front of the DDMR with an angle difference between the sensors of 45$^0$. Distance information from the ultrasonic sensors is used to regulate the speed of the right and left motors of the DDMR. Based on the test results, the Mamdani inference system using the fuzzy logic algorithm was successfully implemented as an obstacle avoidance algorithm. The speed values of the right and left DDMR wheels produce values according to the rules created in the Mamdani inference system. DDMR managed to pass through a tunnel-shaped environment and reach its goal without hitting any obstacles around it. The average speed produced by DDMR in reaching the goal is 4.91 cm/s.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18196/jrc.v5i1.20524"
+    },
+    {
+        "id": 30495,
+        "title": "WheTLHLoc 4W: Small‐scale inspection ground mobile robot with two tracks, two rotating legs, and four wheels",
+        "authors": "Luca Bruzzone, Shahab Edin Nodehi, Pietro Fanghella",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "AbstractWheTLHLoc 4W is the second version of a hybrid leg–wheel–track small‐scale ground mobile robot, developed for surveillance and inspection applications. It differs from its predecessor, WheTLHLoc 2W, in two main aspects: the number of wheels (four instead of two), and the new leg design. The overall size of the robot varies depending on the configuration: 500 × 420 × 140 mm (length × width × height) in tracked mode with lowered legs, 315 × 420 × 310 mm in tracked mode with raised legs, and 430 × 420 × 260 mm in wheeled mode. The robot is sufficiently small to explore narrow spaces, both indoors and outdoors, switching between wheeled locomotion on compact surfaces and tracked locomotion on irregular and yielding terrain. Due to its small length, the robot can stand on one tread of a stair. Nevertheless, it is capable of climbing stairs, and the step height limit has been augmented from 165 mm to 180 mm (+9.1%) with respect to the first version, keeping constant the robot overall size. This enhancement has been achieved through a mechanical redesign of the two rotating legs: each leg now features a pair of smaller wheels, actuated by the same actuator through a gear train, instead of a single larger wheel. The significant increase in the maximum step height expands the robot's capabilities for indoor environments, as stairs with a rise higher than 180 mm are extremely uncommon. The paper discusses the mechanical design of WheTLHLoc 4W, the trajectory planning for step/stair climbing, and provides an analytical comparison between the novel architecture and the first version in terms of stability against overturn and slippage. These analytical results are then experimentally verified. The findings demonstrate that the new leg design not only increases the maximum step height (+9.1%), but also reduces the minimum friction coefficient required for successful stair climbing (−19.1% for the maximum step).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22314"
+    },
+    {
+        "id": 30496,
+        "title": "Multi – Robot Exploration Supported by Enhanced Localization with Reduction of Localization Error Using Particle Swarm Optimization",
+        "authors": "M. Rajesh, S.R. Nagaraja, P. Suja",
+        "published": "2024-3-29",
+        "citations": 0,
+        "abstract": "Exploration of an area by a group of robots is an active research field of robotics as multi-robot exploration is applied extensively in several real life scenarios. The major challenges in such exploration are the availability of communication infrastructure as communication plays a key role in the coordination of team of robots for effective coverage of the area under exploration. But in disaster affected scenarios, there will be no existing communication infrastructure available and this makes the exploration ineffective and time consuming. Another challenge is in the localization process each robot is carrying out to update the map as well as for exchange of information with other robots. In this paper, an enhanced Multi-robot exploration strategy is introduced. The base of the exploration strategy is two techniques. The first one being localization of each robot involved in the exploration and this is done with the help of trilateration where three anchors are required which will be setup before the exploration starts. The second part is navigation and avoiding overlapping or missing out sectors while exploring. This is done with help of a navigation policy called frontier cell based approach. Further to this, the exploration strategy is supported with localization error reduction scheme in which the localization error is reduced with the help of Particle Swarm Optimization (PSO). The entire scheme is simulated and exploration time is analyzed for the same environment in different obstacle density and different number of robots to perform exploration. The results show the scheme is better than many existing multi-robot exploration strategies. Precisely, the proposed scheme is able to reduce the localization error to a threshold level of 0.02cm or below which can be considered as novel contribution towards the exploration strategies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58346/jowua.2024.i1.014"
+    },
+    {
+        "id": 30497,
+        "title": "Inverse Kinematics Implementation Techniques in Robotics",
+        "authors": "Benjamin Zhang",
+        "published": "2024-1-26",
+        "citations": 0,
+        "abstract": "Inverse kinematics is crucial for offering precision in controlling robotic mechanisms, making them versatile for intricate roles in fields like manufacturing, medical services, and digital animation. It also facilitates innovations in automation, efficiency, and safety, thereby boosting overall performance in diverse industries. This review aims to present an overview of how deep learning techniques are employed in inverse kinematics, targeting researchers seeking to explore different approaches in this field. When calculating the inverse kinematics using the traditional approach, the complexity and non-linearity of a high degree of freedom robotic systems can pose limitations and lead to suboptimal results. Comparing different models of deep learning, this review focuses on the potential of deep learning as a suitable alternative approach for solving inverse kinematic problems. Also, it provides guidelines for researchers in utilizing deep learning for inverse kinematics applications while emphasizing the ethical and societal implications that arise from these advancements. Further emphasis is on the significance of case studies, insights into real-world applications, the challenges encountered, and future directions for research. Overall, this review covers various aspects of deep learning models' implementation in inverse kinematics. It also informs them about the potential of these models in advancing the field of inverse kinematics, paving the way for more precise and adaptive robotic movements, improved human-robot interactions, and greater autonomy in a wide range of industries.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/vejx7557"
+    },
+    {
+        "id": 30498,
+        "title": "Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields",
+        "authors": "Dominic Maggio, Marcus Abate, Jingnan Shi, Courtney Mario, Luca Carlone",
+        "published": "2023-5-29",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160782"
+    },
+    {
+        "id": 30499,
+        "title": "ScanTrimmer: an Online Dynamic Objects Removal Framework in Laser Scan for Robust Localization",
+        "authors": "Jing Wang, Yifan Duan, Jianmin Ji",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354661"
+    },
+    {
+        "id": 30500,
+        "title": "A Probabilistic Framework for Visual Localization in Ambiguous Scenes",
+        "authors": "Fereidoon Zangeneh, Leonard Bruns, Amit Dekel, Alessandro Pieropan, Patric Jensfelt",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160466"
+    },
+    {
+        "id": 30501,
+        "title": "OptiGap: A Modular Optical Sensor System for Bend Localization",
+        "authors": "Paul Bupe, C. K. Harnett",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161357"
+    },
+    {
+        "id": 30502,
+        "title": "Indoor Drone Localization and Tracking Based on Acoustic Inertial Measurement",
+        "authors": "Yimiao Sun, Weiguo Wang, Luca Mottola, Jia Zhang, Ruijin Wang, Yuan He",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tmc.2023.3335860"
+    },
+    {
+        "id": 30503,
+        "title": "Path Following and Avoiding Obstacle for Mobile Robot Under Dynamic Environments Using Reinforcement Learning",
+        "authors": "Le Duc Hanh, Vo Duy Cong",
+        "published": "2023-4-4",
+        "citations": 0,
+        "abstract": "Obstacle avoidance for mobile robot to reach the desired target from a start location is one of the most interesting research topics. However, until now, few works discuss about working of mobile robot in the dynamic and continuously changing environment. So, this issue is still the research challenge for mobile robots. Traditional algorithm for obstacle avoidance in the dynamic, complex environment had many drawbacks. As known that Q-learning, the type of reinforcement learning, has been successfully applied in computer games. However, it is still rarely used in real world applications. This research presents an effectively method for real time dynamic obstacle avoidance based on Q-learning in the real world by using three-wheeled mobile robot. The position of obstacles including many static and dynamic obstacles and the mobile robot are recognized by fixed camera installed above the working space. The input for the robot is the 2D data from the camera. The output is an action for the robot (velocities, linear and angular parameters). Firstly, the simulation is performed for Q-learning algorithm then based on trained data, The Q-table value is implemented to the real mobile robot to perform the task in the real scene. The results are compared with intelligent control method for both static and dynamic obstacles cases. Through implement experiments, the results show that, after training in dynamic environments and testing in a new environment, the mobile robot is able to reach the target position successfully and have better performance comparing with fuzzy controller.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18196/jrc.v4i2.17368"
+    },
+    {
+        "id": 30504,
+        "title": "In situ skid estimation for mobile robots in outdoor environments",
+        "authors": "Payam Nourizadeh, Fiona J. Stevens McFadden, Will N. Browne",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "AbstractSkidding is a surface hazard for mobile robots' navigation and traction control systems when operating in outdoor environments and uneven terrains due to the wheel–terrain interaction. It could lead to large trajectory tracking errors, losing the robot's controllability, and mission failure occurring. Despite research in this field, the development of a real‐world feasible in situ skid estimation system with the capability of operating in harsh and unforeseen environments using low‐cost/power and ease of integrating sensors is still an open problem in terramechanics. This paper presents a novel velocity‐based definition for skidding that enables a real‐world feasible estimation for the mobile robot's undesired skidding at the vehicle‐level in outdoor environments. The proposed technique estimates the undesired skidding using a combination of two proprioceptive sensors (e.g., inertial measurement unit and wheel encoder) and deep learning. The practicality of a velocity‐based definition and the performance of the proposed undesired skid estimation technique are evaluated experimentally in various outdoor terrains. The results show that the proposed technique performs with less than 11.79 mm/s mean absolute error and estimates the direction of undesired skidding with approximately 98% accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/rob.22252"
+    }
+]

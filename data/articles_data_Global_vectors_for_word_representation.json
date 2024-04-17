@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 21705,
+        "title": "Analysis of Internet Movie Database with Global Vectors for Word Representation",
+        "authors": "Christine Dewi, Gouwei Dai, Henoch Juli Christanto",
+        "published": "2024-2-17",
+        "citations": 0,
+        "abstract": " Sentiment analysis (SA) involves utilizing natural language processing (NLP) methods to identify the sentiment conveyed by a given text. This study is grounded on the dataset sourced from the internet movie database (IMDB), encompassing evaluations of films and their corresponding positive or negative classifications. Our research experiment aims to ascertain the model with the highest accuracy and generality. Our research utilizes diverse classifiers, comprising unsupervised learning approaches such as Valence Aware Dictionary and sEntiment Reasoner (VADER) and Text Blob, alongside Supervised Learning methods like Naïve Bayes, which encompasses both the Bernoulli NB and Multinomial NB. Several methodologies have been utilized, including the Count Vectorizer, and the Term Frequency-Inverse Document Frequency model (TFIDF) Vectorizer. Subsequently, word embedding and bidirectional LSTM are executed, utilizing various embeddings such as the Long Short-Term Memory (LSTM) base model. Finally, GloVe embeddings achieve the best performance with an accuracy of 90.64% and a sensitivity of 91.07%. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s2196888823500215"
+    },
+    {
+        "id": 21706,
+        "title": "Text classification supervised algorithms with term frequency inverse document frequency and global vectors for word representation: a comparative study",
+        "authors": "Zakia Labd, Said Bahassine, Khalid Housni, Fatima Zahrae Ait Hamou Aadi, Khalid Benabbes",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "Over the course of the previous two decades, there has been a rise in the quantity of text documents stored digitally. The ability to organize and categorize those documents in an automated mechanism, is known as text categorization which is used to classify them into a set of predefined categories so they may be preserved and sorted more efficiently. Identifying appropriate structures, architectures, and methods for text classification presents a challenge for researchers. This is due to the significant impact this concept has on content management, contextual search, opinion mining, product review analysis, spam filtering, and text sentiment mining. This study analyzes the generic categorization strategy and examines supervised machine learning approaches and their ability to comprehend complex models and nonlinear data interactions. Among these methods are k-nearest neighbors (KNN), support vector machine (SVM), and ensemble learning algorithms employing various evaluation techniques. Thereafter, an evaluation is conducted on the constraints of every technique and how they can be applied to real-life situations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijece.v14i1.pp589-599"
+    },
+    {
+        "id": 21707,
+        "title": "Character-to-Word Representation and Global Contextual Representation for Named Entity Recognition",
+        "authors": "Jun Chang, Xiaohong Han",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-023-11168-6"
+    },
+    {
+        "id": 21708,
+        "title": "From positional representation of numbers to positional representation of vectors",
+        "authors": "Izabella  Ingrid Farkas, Edita Pelantová, Milena Svobodová",
+        "published": "2023-7-4",
+        "citations": 0,
+        "abstract": "To represent real m-dimensional vectors, a positional vector system given by a non-singular matrix M ∈ ℤm×m and a digit set Ɗ ⊂ ℤm is used. If m = 1, the system coincides with the well known numeration system used to represent real numbers. We study some properties of the vector systems which are transformable from the case m = 1 to higher dimensions. We focus on an algorithm for parallel addition and on systems allowing an eventually periodic representation of vectors with rational coordinates.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14311/ap.2023.63.0188"
+    },
+    {
+        "id": 21709,
+        "title": "Representation of Race in Children’s Books",
+        "authors": "Carol Westby",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10483950231225114d"
+    },
+    {
+        "id": 21710,
+        "title": "Self-supervised Post-processing Method to Enrich Pretrained Word Vectors",
+        "authors": "Hwiyeol Jo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.54"
+    },
+    {
+        "id": 21711,
+        "title": "Sentiment-semantic word vectors - A new method to estimate management sentiment",
+        "authors": "Minh Tri Phan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4723125"
+    },
+    {
+        "id": 21712,
+        "title": "From Word Types to Tokens and Back: A Survey of Approaches to Word Meaning Representation and Interpretation",
+        "authors": "Marianna Apidianaki",
+        "published": "2023-3-14",
+        "citations": 0,
+        "abstract": "Abstract\nVector-based word representation paradigms situate lexical meaning at different levels of abstraction. Distributional and static embedding models generate a single vector per word type, which is an aggregate across the instances of the word in a corpus. Contextual language models, on the contrary, directly capture the meaning of individual word instances. The goal of this survey is to provide an overview of word meaning representation methods, and of the strategies that have been proposed for improving the quality of the generated vectors. These often involve injecting external knowledge about lexical semantic relationships, or refining the vectors to describe different senses. The survey also covers recent approaches for obtaining word type-level representations from token-level ones, and for combining static and contextualized representations. Special focus is given to probing and interpretation studies aimed at discovering the lexical semantic knowledge that is encoded in contextualized representations. The challenges posed by this exploration have motivated the interest towards static embedding derivation from contextualized embeddings, and for methods aimed at improving the similarity estimates that can be drawn from the space of contextual language models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/coli_a_00474"
+    },
+    {
+        "id": 21713,
+        "title": "Representation of physical quantities: From scalars, vectors, tensors and spinors to multivectors",
+        "authors": "Debashis Sen, Deeprodyuti Sen",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Mathematical representations of physical variables and operators are of primary importance in developing a theory - the relationship among different relevant quantities of any physical process. A thorough account of the representations of different classes of physical variables is drawn up with a brief discussion of various related mathematical systems including quaternion and spinor. The present study is intended to facilitate a comprehensive introduction to the 'geometric algebra', which provides an immensely productive unification of these systems and promises more.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32388/yoq9kz"
+    },
+    {
+        "id": 21714,
+        "title": "Improved Word Sense Disambiguation via Prompt-based Contextual Word Representation",
+        "authors": "Qipeng He, Jian Zhang, Xueting Huang",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191929"
+    },
+    {
+        "id": 21715,
+        "title": "Investigating the Performance Impact of Dimensionality Reduction on Word Vectors",
+        "authors": "Didier Gohourou, Kazuhiro Kuwabara",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiai-aai59060.2023.00070"
+    },
+    {
+        "id": 21716,
+        "title": "Political Representation Practice in Global Environmental Politics. Feminist Representation Theory and the Claims of Marginalized Youth Groups",
+        "authors": "Henrike Knappe",
+        "published": "2024-7-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/13600826.2023.2284826"
+    },
+    {
+        "id": 21717,
+        "title": "Query reformulation system based on WordNet and word vectors clusters",
+        "authors": "Amol Jumde, Ravindra Keskar",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "With tremendous evolution in the internet world, the internet has become a household thing. Internet users use search engines or personal assistants to request information from the internet. Search results are greatly dependent on the entered keywords. Casual users may enter a vague query due to lack of knowledge of the domain-specific words. We propose a query reformulation system that determines the context of the query, decides on keywords to be replaced and outputs a better-modified query. We propose strategies for keyword replacements and metrics for query betterment checks. We have found that if we project keywords into the vector space of word projection using word embedding techniques and if the keyword replacement is correct, clusters of a new set of keywords become more cohesive. This assumption forms the basis of our proposed work. To prove the effectiveness of the proposed system, we applied it to the ad-hoc retrieval tasks over two benchmark corpora viz TREC-CDS 2014 and OHSUMED corpus. We indexed Whoosh search engine on these corpora and evaluated based on the given queries provided along with the corpus. Experimental results show that the proposed techniques achieved 9 to 11% improvement in precision and recall scores. Using Google’s popularity index, we also prove that the reformulated queries are not only more accurate but also more popular. The proposed system also applies to Conversational AI chatbots like ChatGPT, where users must rephrase their queries to obtain better results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-236296"
+    },
+    {
+        "id": 21718,
+        "title": "Predicting word vectors for microtext",
+        "authors": "Iti Chaturvedi, Ranjan Satapathy, Curtis Lynch, Erik Cambria",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "AbstractThe use of computer‐mediated communication has resulted in a new form of written text called Microtext, which is very different from well‐written text. Most previous approaches deal with microtext at the character level rather than just words resulting in increased processing time. In this paper, we propose to transform static word vectors to dynamic form by modelling the effect of neighbouring words and their sentiment strength in the AffectiveSpace. To evaluate the approach, we crawled Tweets from diverse topics and human annotation was used to label their sentiments. We also normalized the tweets to fix phonetic variations, spelling errors, and abbreviations manually. A total of 1432 out‐of‐vocabulary (OOV) texts and their IV texts made it to the final corpus with their corresponding polarity. To assess the quality of the corpus, we used several OOV classifiers such as linear regression and observed over 90% accuracy. Next, we inferred word vectors using a novel four‐gram model based on sentiment intensity and reported accuracy on both open domain and closed domain sentiment classifiers. We observed an improvement in the range of 4–20 on Twitter, Movie and Airline reviews over baselines.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/exsy.13589"
+    },
+    {
+        "id": 21719,
+        "title": "Image Captioning Using Detectors and Swarm Based Learning Approach for Word Embedding Vectors",
+        "authors": "B. Lalitha, V. Gomathi",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/csse.2023.024118"
+    },
+    {
+        "id": 21720,
+        "title": "FW-ECPE: An Emotion-Cause Pair Extraction Model Based on Fusion Word Vectors",
+        "authors": "Xinyi Song, Dongsheng Zou, Yi Yu, Xiaotong Zhang",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191591"
+    },
+    {
+        "id": 21721,
+        "title": "Probabilistic Transformer: A Probabilistic Dependency Model for Contextual Word Representation",
+        "authors": "Haoyi Wu, Kewei Tu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.482"
+    },
+    {
+        "id": 21722,
+        "title": "A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings",
+        "authors": "Roberto Ascari, Anna Giabelli, Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica",
+        "published": "2024-1-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12559-023-10235-3"
+    },
+    {
+        "id": 21723,
+        "title": "Improving Classification Robustness for Noisy Texts with Robust Word Vectors",
+        "authors": "V. Malykh, V. Lyalin",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10958-023-06522-x"
+    },
+    {
+        "id": 21724,
+        "title": "Brutal analogies: multiplying Le Corbusiers across global architecture",
+        "authors": "Keith Bresnahan",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02666286.2023.2195820"
+    },
+    {
+        "id": 21725,
+        "title": "Solving Arithmetic English Word Problems Using Intermediate Representation",
+        "authors": "Harshal Kotwal, Girish Kumar Patnaik",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccubea58933.2023.10391982"
+    },
+    {
+        "id": 21726,
+        "title": "DEEP LEARNING BASED HYBRID WORD REPRESENTATION FOR DETECTION OF HATE SPEECH",
+        "authors": "",
+        "published": "2023-4-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets36037"
+    },
+    {
+        "id": 21727,
+        "title": "Robust Word Vectors: Context-Informed Embeddings for Noisy Texts",
+        "authors": "V. Malykh, T. Khakhulin, V. Logacheva",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10958-023-06523-w"
+    },
+    {
+        "id": 21728,
+        "title": "Embedding of word vectors with emotion and semantic information by semi-supervised deep learning method: enhancement of sentiment analysis",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56452/7-3-107"
+    },
+    {
+        "id": 21729,
+        "title": "Molecular and entomological surveillance of malaria vectors in urban and rural communities of Benguela Province, Angola",
+        "authors": "Gonçalo Alves, Arlete Dina Troco, Gonçalo Seixas, Rebecca Pabst, Alfredo Francisco, Cani Pedro, Luzala Garcia, José Franco Martins, Sergio Lopes",
+        "published": "2024-3-6",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nMalaria is a major public health problem in Angola, with Anopheles gambiae sensu lato (s.l.) and An. funestus s.l. being the primary vectors. This study aimed to clarify the information gaps concerning local Anopheles mosquito populations. Our objectives were to assess their abundance, geographical dispersion, and blood-feeding patterns. We also investigated their insecticide resistance. Molecular methods were used to identify sibling species, determine the origin of blood meals, measure Plasmodium falciparum infection rates, and detect the presence of knockdown resistance (kdr) mutations.\n\nMethods\nAdult mosquitoes were collected indoors using CDC light traps from nine randomly selected households at two sentinel sites with distinct ecological characteristics. The samples were collected from 1 February to 30 June 2022. Anopheles mosquitoes were morphologically identified and subjected to molecular identification. Unfed Anopheles females were tested for the presence of P. falciparum DNA in head and thorax, and engorged females were screened for the source of the blood meals. Additionally, members of An. gambiae complex were genotyped for the presence of the L1014F and L1014S kdr mutations.\n\nResults\nIn total, 2226 adult mosquitoes were collected, including 733 Anopheles females. Molecular identification revealed the presence of Anopheles coluzzii, An. gambiae senso stricto (s.s.), An. arabiensis, and An. funestus s.s. Notably, there was the first record of An. coluzzii/An. gambiae s.s. hybrid and An. vaneedeni in Benguela Province. Plasmodium falciparum infection rates for An. coluzzii at the urban sentinel site and An. funestus s.s. at the rural site were 23.1% and 5.7%, respectively. The L1014F kdr mutation was discovered in both resistant and susceptible An. coluzzii mosquitoes, while the L1014S mutation was detected in An. gambiae s.s. for the first time in Benguela Province. No kdr mutations were found in An. arabiensis.\n\nConclusions\nThis study provides valuable insights into the molecular characteristics of malaria vectors from the province of Benguela, emphasising the need for continuous surveillance of local Anopheles populations regarding the establishment of both kdr mutations for tailoring vector control interventions.\n\nGraphical abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06214-8"
+    },
+    {
+        "id": 21730,
+        "title": "IndiSocialFT: Multilingual Word Representation for Indian languages in code-mixed environment",
+        "authors": "Saurabh Kumar, Ranbir Sanasam, Sukumar Nandi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.252"
+    },
+    {
+        "id": 21731,
+        "title": "Discovery of New Words in Tax-related Fields Based on Word Vector Representation",
+        "authors": "Wei Wei Wei Wei, Wei Liu Wei Wei, Beibei Zhang Wei Liu, Rafał Scherer Beibei Zhang, Robertas Damasevicius Rafał Scherer",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "\n                        <p>New words detection, as basic research in natural language processing, has gained extensive concern from academic and business communities. When the existing Chinese word segmentation technology is applied in the specific field of tax-related finance, because it cannot correctly identify new words in the field, it will have an impact on subsequent information extraction and entity recognition. Aiming at the current problems in new word discovery, it proposed a new word detection method using statistical features that are based on the inner measurement and branch entropy and then combined with word vector representation. First, perform word segmentation preprocessing on the corpus, calculate the internal cohesion degree of words through statistics of scattered string mutual information, filter out candidate two-tuples, and then filter and expand the two-tuples; next, it locks the boundaries of new words through calculate the branch entropy. Finally, expand the new vocabulary dictionary according to the cosine similarity principle of word vector representation. The unsupervised neologism discovery proposed in this paper allows for automatic growth of the neologism lexicon, experimental results on large-scale corpus verify the effectiveness of this method.</p>\n<p>&nbsp;</p>\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53106/160792642023072404010"
+    },
+    {
+        "id": 21732,
+        "title": "Chinese Short Text Matching Model Based on WoBERT Word Embedding Representation and Priori Knowledge",
+        "authors": "Jiaming Dong",
+        "published": "2023-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccece58074.2023.10135350"
+    },
+    {
+        "id": 21733,
+        "title": "WITHDRAWN: Visual interpretation for contextualized word representation",
+        "authors": "Syu-Ting Deng, Cheng-Jun Tsai, Pei-Chen Chang, Ko-Chih Wang",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.visinf.2023.06.002"
+    },
+    {
+        "id": 21734,
+        "title": "Investigating Word Vectors for the Negation of Verbs",
+        "authors": "Tomoya Sasaki, Yuto Kikuchi, Kazuo Hara, Ikumi Suzuki",
+        "published": "2024-1-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02554-x"
+    },
+    {
+        "id": 21735,
+        "title": "Representation and conceptual relevance of the word родина in the Slavic languages",
+        "authors": "Irina Nekipelova",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "The article is devoted to the research of the semantic scope of the word родина/homeland in modern Slavic languages and its representation in concepts of “the community of people related by kinship”, “a group of close relatives living together” and “the place where a person was born”. The comparison of cultural concepts is aimed at clarifying what semantic transformations this word has undergone in the history of the Russian language. The research has shown that the word родина is still closely related to the word род from which it is derived, not only by word-formation connections, but also by semantic relations that determine the intersection of the concepts in which they participate. As a result of comparative analysis, it was revealed that in some languages the word родина was assigned to one concept; in some it serves two concepts, and in only one language it is spread across all concepts. Only a few languages retained the original affiliation of the word родина with the concept of “a group of close relatives living together”. At the end of the research, it was concluded that in the Russian language the word родина has moved from the concept of “a group of close relatives living together” to the concept of “the place where a person was born”. However, despite the fact that in Russian this word has lost its original meaning of “family”, native speakers of the Russian language continue to intuitively feel it, distinguishing it from other words included in the concept “the place where a person was born”.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52603/rec.2023.33.09"
+    },
+    {
+        "id": 21736,
+        "title": "TranUSR: Phoneme-to-word Transcoder Based Unified Speech Representation Learning for Cross-lingual Speech Recognition",
+        "authors": "Hongfei Xue, Qijie Shao, Peikun Chen, Pengcheng Guo, Lei Xie, Jie Liu",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-746"
+    },
+    {
+        "id": 21737,
+        "title": "Getting the Word Out: Research, Reflection, and Writing for Global Health",
+        "authors": "Daniel W O'Neill, Nathan Grills",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": ".",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15566/cjgh.v10i1.757"
+    },
+    {
+        "id": 21738,
+        "title": "The global prevalence of parasites in non-biting flies as vectors: a systematic review and meta-analysis",
+        "authors": "Yufeng Liu, Yuancai Chen, Nanhao Wang, Huikai Qin, Longxian Zhang, Sumei Zhang",
+        "published": "2023-1-23",
+        "citations": 4,
+        "abstract": "Abstract\nBackground\nNon-biting flies such as the house fly (Musca domestica), the Australian sheep blowfly (Lucilia cuprina) and the oriental latrine fly (Chrysomya megacephala) may carry many parasites. In the present study, we performed a systematic overview of the different species of parasites carried by non-biting flies, as well as of isolation methods, different geographical distribution, seasonality and risk assessment.\n\nMethods\nA meta-analysis was carried out with the aim to review the global prevalence of parasite transmission in non-biting flies. A total sample size of 28,718 non-biting flies reported in studies worldwide satisfied the predetermined selection criteria and was included in the quantitative analysis.\n\nResults\nThe global prevalence of parasites in non-biting flies was 42.5% (95% confidence interval [CI] 31.9–53.2%; n = 15,888/28,718), with the highest prevalence found for non-biting flies in Africa (58.3%; 95% CI 47.4–69.3%; n = 9144/13,366). A total of 43% (95% CI 32.1–54.4%; n = 7234/15,282) of house flies (M. domestica), the fly species considered to be the most closely associated with humans and animals, were found with parasites. The prevalence of parasites in the intestine of non-biting flies was 37.1% (95% CI 22.7–51.5%;  n = 1045/3817), which was significantly higher than the prevalence of parasites isolated from the body surface (35.1%; 95% CI 20.8–49.4%; n = 1199/3649; P < 0.01). Of the 27 reported parasites, a total of 20 known zoonotic parasites were identified, with an infection rate of 38.1% (95% CI 28.2–48.0%; n = 13,572/28,494).\n\nConclusions\nThis study provides a theoretical basis for the public health and ecological significance of parasites transmitted by non-biting flies.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05650-2"
+    },
+    {
+        "id": 21739,
+        "title": "Unsupervised Cross-lingual Word Embedding Representation for English-isiZulu",
+        "authors": "Derwin Ngomane, Rooweither Mabuya, Jade Abbott, Vukosi Marivate",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.rail-1.2"
+    },
+    {
+        "id": 21740,
+        "title": "Between Diaspora and Global Icon: On the Representation of “Italicity” in Global Media",
+        "authors": "Monica Stellin",
+        "published": "2023-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33137/ic.v17i.40307"
+    },
+    {
+        "id": 21741,
+        "title": "An Innovative Arabic Word Embedding Representation for Enhanced Sentiment Analysis",
+        "authors": "Mustapha Sahraoui, Laouni Mahmoudi, Mohammed Salem",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/isi.280325"
+    },
+    {
+        "id": 21742,
+        "title": "WORD REPRESENTATION OF THE EMOTION OF ANXIETY IN ELDERLY WOMEN: PSYCHOLINGUSITIC-PRAGMATIC CASE STUDIES",
+        "authors": "Wini Tarmini, Nani Solihati, Ina Nurannisa",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "Anxiety problems often occur in elderly women. This study aims to describe the word representation of anxiety emotion in elderly women. This research uses qualitative approach. The analysis of the data collected using the techniques of recording, listening, note-taking, and skillful involvement. The results show that elderly women have a fairly high level of anxiety. When the psychological disturbance occurs, feelings such as worry, anger, boredom, disappointment, sadness, and confusion appear with lingual markers such as must, why, do not understand, strange, disappointed, sorry, and confused. When no psychological disturbances arise, feelings of gratitude and disappointment with lingual markers such as grateful, pray for me, alhamdulillah, unfortunately. Factors that cause the emergence of anxious emotions are circumstances that do not match expectations and desires and are having difficulty accepting reality.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26858/retorika.v16i2.45889"
+    },
+    {
+        "id": 21743,
+        "title": "Two genre classification of Japanese literary works written by Ryuunosuke Akutagawa and Kenji Miyazawa based on word vectors",
+        "authors": "Shiori Takenaka, Jousuke Kuroiwa, Tomohiro Odaka",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1587/nolta.14.428"
+    },
+    {
+        "id": 21744,
+        "title": "The Perceived Value of Customers: Antecedents and Its Effect on Word-of-mouth",
+        "authors": "d d, d d, d d,  ",
+        "published": "2024-2-28",
+        "citations": 0,
+        "abstract": "Purpose: This study aims to investigate the antecedents of the customer's perceived value, including multi-channel integration and brand equity, and the impact of the perceived value on word-of-mouth.\r\nDesign/methodology/approach: A quantitative approach by PLS-SEM was used in the research. This paper conducted a survey of 414 respondents who are customers of retail firms in Vietnam.\r\nFindings: The research results illustrate the significant impact of multi-channel integration and brand equity on the perceived value of customers. The study also found that word-of-mouth is directly and positively influenced by the customer's perceived value.\r\nResearch limitations/implications: Besides multi-channel integration and brand equity, other factors that may act as antecedents of the perceived value have not been recognized in the study. The study only focuses on the retail industry with a relatively small sample size which is a limitation of the sample representative.\r\nOriginality/value: This study provides reliable evidence about the important role of building an integrated multi- channel system and nurturing brand equity to increase the perceived value in customer's minds. Additionally, the research reinforces the convincing evidence of the significant and positive relationship between the customer's perceived value and their positive word-of-mouth communication.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17549/gbfr.2024.29.1.101"
+    },
+    {
+        "id": 21745,
+        "title": "Using Media Player Software as Stealth Attack Vectors for Manipulating Human Mind and Behavior",
+        "authors": "S.M.D.N Siriwardana",
+        "published": "2023-5-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globconet56651.2023.10150082"
+    },
+    {
+        "id": 21746,
+        "title": "A Machine Solving Method for Math Word Problem via Enhanced Semantic Representation",
+        "authors": "Ming Yan, Pengpeng Jian, Yanli Wang, Haoyang Xie, Xuemei Liu",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieir59294.2023.10391260"
+    },
+    {
+        "id": 21747,
+        "title": "Principle research of word vector representation in natural language processing",
+        "authors": "Shijia Kang, Linggang Kong, Bin Luo, Cuifang Zheng, Jiaju Wu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2668487"
+    },
+    {
+        "id": 21748,
+        "title": "A Task-Based Road Map to Teaching Business Spanish with Word Combinations",
+        "authors": "Anna Alsina Naudi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "This research-informed pedagogical proposal makes the case for incorporating the teaching of word combinations—specifically, collocations—into a business Spanish course. It addresses how to choose specific lexical bundles for a given language for specific purposes (LSP) context as well as an appropriate methodology for teaching them to maximize student acquisition. The pedagogical proposal presents specific details of task didactic sequences that integrate explicit instruction in word combinations into a course-long business plan project such that it enhances word retention and facilitates production. This pedagogical layout is reinforced by the fact that lexical units that are related to specific topics in the field of business language are gradually introduced, and by the students’ need to reuse them in the final task. The current proposal encourages the integration of word combinations and phraseology through task sequences in other language courses for specific purposes, as these combinations reinforce and help students improve their vocabulary development.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4079/gbl.v23.4"
+    },
+    {
+        "id": 21749,
+        "title": "An alternative word embedding approach for knowledge representation in online consumers’ reviews",
+        "authors": "Ekin Ekinci, Sevinç İlhan Omurca",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5505/pajes.2022.10369"
+    },
+    {
+        "id": 21750,
+        "title": "Quantum-Inspired Representation for Long-Tail Senses of Word Sense Disambiguation",
+        "authors": "Junwei Zhang, Ruifang He, Fengyu Guo",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Data imbalance, also known as the long-tail distribution of data, is an important challenge for data-driven models. In the Word Sense Disambiguation (WSD) task, the long-tail phenomenon of word sense distribution is more common, making it difficult to effectively represent and identify Long-Tail Senses (LTSs). Therefore exploring representation methods that do not rely heavily on the training sample size is an important way to combat LTSs. Considering that many new states, namely superposition states, can be constructed from several known states in quantum mechanics, superposition states provide the possibility to obtain more accurate representations from inferior representations learned from a small sample size. Inspired by quantum superposition states, a representation method in Hilbert space is proposed to reduce the dependence on large sample sizes and thus combat LTSs. We theoretically prove the correctness of the method, and verify its effectiveness under the standard WSD evaluation framework and obtain state-of-the-art performance. Furthermore, we also test on the constructed LTS and the latest cross-lingual datasets, and achieve promising results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i11.26633"
+    },
+    {
+        "id": 21751,
+        "title": "Enriching Word Information Representation for Chinese Cybersecurity Named Entity Recognition",
+        "authors": "Dongying Yang, Tao Lian, Wen Zheng, Cai Zhao",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-023-11280-7"
+    },
+    {
+        "id": 21752,
+        "title": "Image/text/cliché/insight: analogical practices in the global art world",
+        "authors": "Mark A. Cheetham, Hana Nikčević",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02666286.2023.2195808"
+    },
+    {
+        "id": 21753,
+        "title": "Adventure Tourism: Behavioural Drivers to Visit and Spread Word of Mouth with Perceived Risk as Moderator",
+        "authors": "Sriram Soundararajan, Upasana Singh, Mudit Gera",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": " The main purpose of this research is a study which examines the effects of involvement in adventure tourism, positive attitude towards adventure tourism, and destination image on intention to visit adventurous destinations and word-of-mouth intention by developing and testing a conceptual framework. Moreover, since adventure tourism is characterized by a high degree of risk, perceived risk is included as a moderator in the aforementioned relationships. There is a paucity of research conducted in the adventure tourism area to investigate what drives Indian tourists to indulge in adventure tourism. A survey is conducted on 500 respondents in the present article, wherein the results show that involvement, attitude and destination image affect tourist behaviour positively. Contrary to the general consensus, perceived risk is found to positively moderate some of these aforementioned relationships. The key implication of the study shows that adventure tourism marketers and service providers must focus on the tourist behavioural intention. A high-risk adventure tourism destination could drive many tourists towards it. Recommendations are proposed along with the future areas of research in this study. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/09721509231202000"
+    },
+    {
+        "id": 21754,
+        "title": "Word Sense Disambiguation Using Supervised Learning",
+        "authors": "K R Kavitha, S Pranav, Akhil Anil",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353351"
+    },
+    {
+        "id": 21755,
+        "title": "Estimation Of Japanese Word Intelligibility Using CTC-based Phoneme Recognition",
+        "authors": "Masaki Hattori, Kazuhiro Kondo",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcce59613.2023.10315342"
+    },
+    {
+        "id": 21756,
+        "title": "PVA-based assessment of resiliency, redundancy, and representation in an imperiled freshwater turtle",
+        "authors": "Richard B. King",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.gecco.2023.e02419"
+    },
+    {
+        "id": 21757,
+        "title": "Improving Multi-Criteria Chinese Word Segmentation through Learning Sentence Representation",
+        "authors": "Chun Lin, Ying-Jia Lin, Chia-Jen Yeh, Yi-Ting Li, Ching Yang, Hung-Yu Kao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.850"
+    },
+    {
+        "id": 21758,
+        "title": "Global Competition, Local Unions, and Political Representation: Disentangling Mechanisms",
+        "authors": "Michael Becher, Daniel Stegmueller",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4565602"
+    },
+    {
+        "id": 21759,
+        "title": "Taiwan and South Korea Textbook Representation of Global Issues: Critical Pedagogy for Reality and Truth",
+        "authors": "Yann-Ru Ho",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/ip.23.2006168"
+    },
+    {
+        "id": 21760,
+        "title": "A phenotypic screen of the Global Health Priority Box identifies an insecticide with anthelmintic activity",
+        "authors": "Harrison T. Shanley, Aya C. Taki, Joseph J. Byrne, Nghi Nguyen, Tim N. C. Wells, Abdul Jabbar, Brad E. Sleebs, Robin B. Gasser",
+        "published": "2024-3-14",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nInfection with parasitic nematodes (helminths), particularly those of the order Strongylida (such as Haemonchus contortus), can cause significant and burdensome diseases in humans and animals. Widespread drug (anthelmintic) resistance in livestock parasites, the absence of vaccines against most of these nematodes, and a lack of new and effective chemical entities on the commercial market demands the discovery of new anthelmintics. In the present study, we searched the Global Health Priority Box (Medicines for Malaria Venture) for new candidates for anthelmintic development.\n\nMethods\nWe employed a whole-organism, motility-based phenotypic screening assay to identify compounds from the Global Health Priority Box with activity against larvae of the model parasite H. contortus, and the free-living comparator nematode Caenorhabditis elegans. Hit compounds were further validated via dose–response assays, with lead candidates then assessed for nematocidal activity against H. contortus adult worms, and additionally, for cytotoxic and mitotoxic effects on human hepatoma (HepG2) cells.\n\nResults\nThe primary screen against H. contortus and C. elegans revealed or reidentified 16 hit compounds; further validation established MMV1794206, otherwise known as ‘flufenerim’, as a significant inhibitor of H. contortus larval motility (half-maximal inhibitory concentration [IC50] = 18 μM) and development (IC50 = 1.2 μM), H. contortus adult female motility (100% after 12 h of incubation) and C. elegans larval motility (IC50 = 0.22 μM). Further testing on a mammalian cell line (human hepatoma HepG2 cells), however, identified flufenerim to be both cytotoxic (half-maximal cytotoxic concentration [CC50] < 0.7 μM) and mitotoxic (half-maximal mitotoxic concentration [MC50] < 0.7 μM).\n\nConclusions\nThe in vitro efficacy of MMV1794206 against the most pathogenic stages of H. contortus, as well as the free-living C. elegans, suggests the potential for development as a broad-spectrum anthelmintic compound; however, the high toxicity towards mammalian cells presents a significant hindrance. Further work should seek to establish the protein–drug interactions of MMV1794206 in a nematode model, to unravel the mechanism of action, in addition to an advanced structure–activity relationship investigation to optimise anthelmintic activity and eliminate mammalian cell toxicity.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06183-y"
+    },
+    {
+        "id": 21761,
+        "title": "Global prevalence and species diversity of tick-borne pathogens in buffaloes worldwide: a systematic review and meta-analysis",
+        "authors": "El-Sayed El-Alfy, Ibrahim Abbas, Rana Elseadawy, Somaya Saleh, Bassem Elmishmishy, Shimaa Abd El-Salam El-Sayed, Mohamed Abdo Rizk",
+        "published": "2023-3-30",
+        "citations": 4,
+        "abstract": "Abstract\nBackground\nBuffaloes are important contributors to the livestock economy in many countries, particularly in Asia, and tick-borne pathogens (TBPs) commonly infect buffaloes, giving rise to serious pathologies other than their zoonotic potential.\n\nMethods\nThe present investigation focuses on the prevalence of TBPs infecting buffaloes worldwide. All published global data on TBPs in buffaloes were collected from different databases (e.g., PubMed, Scopus, ScienceDirect, and Google Scholar) and subjected to various meta-analyses using OpenMeta[Analyst] software, and all analyses were conducted based on a 95% confidence interval.\n\nResults\nOver 100 articles discussing the prevalence and species diversity of TBPs in buffaloes were retrieved. Most of these reports focused on water buffaloes (Bubalus bubalis), whereas a few reports on TBPs in African buffaloes (Syncerus caffer) had been published. The pooled global prevalence of the apicomplexan parasites Babesia and Theileria, as well as the bacterial pathogens Anaplasma, Coxiella burnetii, Borrelia, Bartonella, and Ehrlichia in addition to Crimean-Congo hemorrhagic fever virus, were all evaluated based on the detection methods and 95% confidence intervals. Interestingly, no Rickettsia spp. were detected in buffaloes with scarce data. TBPs of buffaloes displayed a fairly high species diversity, which underlines the high infection risk to other animals, especially cattle. Babesia bovis, B. bigemina, B. orientalis, B. occultans and B. naoakii, Theileria annulata, T. orientalis complex (orientalis/sergenti/buffeli), T. parva, T. mutans, T. sinensis, T. velifera, T. lestoquardi-like, T. taurotragi, T. sp. (buffalo) and T. ovis, and Anaplasma marginale, A. centrale, A. platys, A. platys-like and “Candidatus Anaplasma boleense” were all were identified from naturally infected buffaloes.\n\nConclusions\nSeveral important aspects were highlighted for the status of TBPs, which have serious economic implications for the buffalo as well as cattle industries, particularly in Asian and African countries, which should aid in the development and implementation of prevention and control methods for veterinary care practitioners, and animal owners.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05727-y"
+    },
+    {
+        "id": 21762,
+        "title": "RepSum: A general abstractive summarization framework with dynamic word embedding representation correction",
+        "authors": "Jianzhou Feng, Jing Long, Chunlong Han, Zhongcan Ren, Qin Wang",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.csl.2023.101491"
+    },
+    {
+        "id": 21763,
+        "title": "Multilingual Word Embeddings for Low-Resource Languages using Anchors and a Chain of Related Languages",
+        "authors": "Viktor Hangya, Silvia Severini, Radoslav Ralev, Alexander Fraser, Hinrich Schütze",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.mrl-1.8"
+    },
+    {
+        "id": 21764,
+        "title": "Whose word? Problems of lexicographic representation of ideologically marked words (the lexicon of the Russian-Ukrainian conflict)",
+        "authors": "Irina Levontina,  , Elena Shmeleva",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "The article deals with the problems of presenting ideologically marked words in the dictionary. It is based on the analysis of the words that appeared in the Russian language or received new meanings during the Russian-Ukrainian conflict. The difficulty of the lexicographic representation of such words is that their evaluative potential is mobile, for example, offensive nicknames can be assimilated by “offended” ones and become neutral words. Ideologically marked words can either exist in the lexicon for a long time or be quickly replaced by other lexical units. Therefore, in the interpretation of ideologically marked words, it is advisable to indicate the approximate time of their existence. In addition to temporary indicators, in the dictionary entry of such words, it is necessary to indicate whose word it is, that is, on whose behalf an assessment is given to a person or event. Since we believe that explanatory dictionaries should contain not only common names, but also proper names, the article also discusses geographical names.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28995/2075-7182-2023-22-287-294"
+    },
+    {
+        "id": 21765,
+        "title": "Probing the Representational Structure of Regular Polysemy via Sense Analogy Questions: Insights from Contextual Word Vectors",
+        "authors": "Jiangtian Li, Blair C. Armstrong",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "AbstractRegular polysemes are sets of ambiguous words that all share the same relationship between their meanings, such as CHICKEN and LOBSTER both referring to an animal or its meat. To probe how a distributional semantic model, here exemplified by bidirectional encoder representations from transformers (BERT), represents regular polysemy, we analyzed whether its embeddings support answering sense analogy questions similar to “is the mapping between CHICKEN (as an animal) and CHICKEN (as a meat) similar to that which maps between LOBSTER (as an animal) to LOBSTER (as a meat)?” We did so using the LRcos model, which combines a logistic regression classifier of different categories (e.g., animal vs. meat) with a measure of cosine similarity. We found that (a) the model was sensitive to the shared structure within a given regular relationship; (b) the shared structure varies across different regular relationships (e.g., animal/meat vs. location/organization), potentially reflective of a “regularity continuum;” (c) some high‐order latent structure is shared across different regular relationships, suggestive of a similar latent structure across different types of relationships; and (d) there is a lack of evidence for the aforementioned effects being explained by meaning overlap. Lastly, we found that both components of the LRcos model made important contributions to accurate responding and that a variation of this method could yield an accuracy boost of 10% in answering sense analogy questions. These findings enrich previous theoretical work on regular polysemy with a computationally explicit theory and methods, and provide evidence for an important organizational principle for the mental lexicon and the broader conceptual knowledge system.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/cogs.13416"
+    },
+    {
+        "id": 21766,
+        "title": "A Conceptual Review of Online Word of Mouth: Focusing on the Direction and Characteristics of the Message",
+        "authors": "Youngjin An, Hyungsik Kahn,  ",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "With the advent of the digital age, connectivity between customers increases, and the rapid development of electronic communication has led consumers to gain access to their reviews, on products and services on various channels (business official websites, online communities, newsgroups, chat rooms, email, blog, virtual customer communities and other social networks). The influence of online word of mouth is much more powerful than traditional WOM. The exchange of such information among consumers is not a new phenomenon, but the Internet has dramatically improved the interaction of consumers, especially within social networking sites (Schindler & Bickart, 2012).\r\nAccording to the product, many studies have emphasized reliability, consent, and vividness as factors that influence users following the direction of the oral version. So, what is the cause of having the motivations. Various studies have been conducted, but in recent studies, it can be seen as a favorable human relationship orientation, post-purchase advice, focus-related utility, and so on. Finally, online sites should give customers a sense of belonging, reputation, and pleasure in helping them with their own needs to create a system to carefully manage and compensate customers who are active in oral activities to support and support their activities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46775/jgbr.2023.35.1.06"
+    },
+    {
+        "id": 21767,
+        "title": "Color Representation in the Word ‘COVID-19’ in WHO Indonesia’s Instagram",
+        "authors": "Miftakhul Huda, Laily Rahmatika, Rani Setiawaty, Agus Budi Wahyudi, Mohammed Shamsul Hoque",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "The COVID-19 pandemic in 2020 has triggered governments worldwide, including WHO Indonesia, to use social media as an essential tool for digital education dissemination. In this case, WHO Indonesia uses Instagram to share posters, with a visual emphasis through the use of color in the word 'COVID-19'. This study aims to describe how colors are represented in the word COVID-19 on WHO Indonesia's Instagram posters. This study uses qualitative research. This study was analyzed using content analysis. The results reveal that the word COVID-19 in each poster content uploaded by WHO Indonesia has a variety of colors. The color representations contained in the word COVID-19 are red as a risk warning to smokers, dark orange as sensitivity and empathy for survivors of violence, yellow-gold as a reminder of healthy activities at home, indigo as awareness of body health, teal green as maintaining physical distance, dodger blue as maintaining health during a pandemic, sienna as resilience and fortitude in facing the pandemic, white as preventing the spread of the virus, and dim gray as serious form in facing COVID-19. This study aids in comprehending the reasoning behind the selection of specific colors in the posters utilized by WHO Indonesia in their digital education endeavors regarding COVID-19. It can prove beneficial in designing more impactful health messages and understanding the influence of colors on individuals' perceptions and reactions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26714/lensa.13.2.2023.204-223"
+    },
+    {
+        "id": 21768,
+        "title": "Global-guided weakly-supervised learning for multi-label image classification",
+        "authors": "Yong Dai, Weiwei Song, Zhi Gao, Leyuan Fang",
+        "published": "2023-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103823"
+    },
+    {
+        "id": 21769,
+        "title": "Narrator2Vec: An Efficient Narrator Representation in Hadith Literature Using Word Embedding",
+        "authors": "Mohammed Mghari, Omar Bouras, Abdelaaziz El Hibaoui",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-023-08224-7"
+    },
+    {
+        "id": 21770,
+        "title": "The Role of Preprocessing for Word Representation Learning in Affective Tasks",
+        "authors": "Nastaran Babanejad, Heidar Davoudi, Ameeta Agrawal, Aijun An, Manos Papagelis",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/taffc.2023.3270115"
+    },
+    {
+        "id": 21771,
+        "title": "Clinical Text Classification with Word Representation Features and Machine Learning Algorithms",
+        "authors": "Laiali Almazaydeh, Mohammad Abuhelaleh, Arar Al Tawil, Khaled Elleithy",
+        "published": "2023-4-3",
+        "citations": 1,
+        "abstract": "Clinical text classification of electronic medical records is a challenging task. Existing electronic records suffer from irrelevant text, misspellings, semantic ambiguity, and abbreviations. The approach reported in this paper elaborates on machine learning techniques to develop an intelligent framework for classification of the medical transcription dataset. The proposed approach is based on four main phases: the text preprocessing phase, word representation phase, features reduction phase and classification phase. We have used four machine learning algorithms, support vector machines, naïve bayes, logistic regression and k-nearest neighbors in combination with different word representation models. We have applied the four algorithms to the bag of words, to TF-IDF, to word2vec.  Experimental results were evaluated based on precision, recall, accuracy and F1 score. The best results were obtained with the combination of the k-NN classifier, and the word represented by Word2vec achieving an accuracy of 92% to correctly classify the medical specialties based on the transcription text.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3991/ijoe.v19i04.36099"
+    },
+    {
+        "id": 21772,
+        "title": "Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation",
+        "authors": "Shenghao Yang, Chenyang Wang, Yankai Liu, Kangping Xu, Weizhi Ma, Yiqun Liu, Min Zhang, Haitao Zeng, Junlan Feng, Chao Deng",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00082"
+    },
+    {
+        "id": 21773,
+        "title": "Learning Content Generation by Extracting Lecture Slides Based on Word Importance and Difficulty",
+        "authors": "Kazuki Furukawa, Yuanyuan Wang",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcce59613.2023.10315631"
+    },
+    {
+        "id": 21774,
+        "title": "“Being pretty does not help your success”: Self-representation and aspiration of China’s female showroom livestreamers",
+        "authors": "Zhen Ye, Tonny Krijnen",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": " China’s showroom livestreaming is highly gender-segregated, in which young women working as showroom livestreamers are often stigmatized and criticized as hypersexual or vulgar. Situating female streamers’ practices in the sociocultural environment of contemporary China and comparing them to other wanghong creators such as fashion or beauty bloggers in China’s digital economy, we investigate how female streamers construct a particular type of gendered entrepreneurial subjectivity. In this research, we selected 90 short videos that are produced by three female streamers on the social media platform Douyin to examine their self-representations and discursive practices around showroom livestreaming production. In the analysis, we unravel three major interconnected narratives: enduring the behind-the-screen hardship of livestreaming is worthy; navigating heterosexual relationships with viewers is part of showroom livestreaming work; and professional skills and knowhow are provided for those who truly aspire to success. These narratives commonly form a discourse of showroom livestreaming as good work for ordinary working-class or underclass women to achieve social and economic advancement in contemporary China. Moreover, these narratives render young women as autonomous agents with free choices to hustle in the world of showroom livestreaming, normalizing the precarious working conditions as well as gender power imbalances. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/20594364241230436"
+    },
+    {
+        "id": 21775,
+        "title": "Predicting the future tendencies in global warming using orthogonal projection of vectors",
+        "authors": "Akhilesh Bisht, K. N. Meera",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0148416"
+    },
+    {
+        "id": 21776,
+        "title": "Automatic text summarization using deep reinforced model coupling contextualized word representation and attention mechanism",
+        "authors": "Hassan Aliakbarpour, Mohammad Taghi Manzuri, Amir Masoud Rahmani",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15589-2"
+    },
+    {
+        "id": 21777,
+        "title": "Impacts of Word of Mouth (WOM) on E-Business Online Pricing",
+        "authors": "Keyan Jin",
+        "published": "2023-6-21",
+        "citations": 0,
+        "abstract": "In response to the rising power of electronic word of mouth (eWOM), marketers are gradually placing importance on the effects of their marketing strategies. The main objective of the study is to use both secondary as well as primary data to investigate the relationship and interaction between eWOM and online pricing. This study took BizRate UK, a price comparison website, as the database to investigate 100 mobile phone and tablet products and conducted interviews with online shoppers and managers from online retailers. After applying the test from quantitative methodologies, the result indicated the positive and negative reviews from online shoppers had an effect on pricing performance. Two types of reviews can be sorted out in a specific way as well. Finally, because the subject covers both quantitative (pricing) and qualitative (eWOM) aspects, future studies that are interested in this area should still apply the two methodologies for more accurate investigation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4018/jgim.324813"
+    },
+    {
+        "id": 21778,
+        "title": "Bringing international representation to the ACS Board of Directors",
+        "authors": " Katherine L. Lee, Director, District I",
+        "published": "2023-1-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/cen-10104-comment"
+    },
+    {
+        "id": 21779,
+        "title": "Using the Test of Understanding of Vectors in an Algebra-Based Introductory Physics Course",
+        "authors": "Archana Dubey, Pablo Barniol",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/weef-gedc59520.2023.10343624"
+    },
+    {
+        "id": 21780,
+        "title": "Clicks and comments: Representation of wildlife crime in Pakistan in social media posts",
+        "authors": "Rehan Ul Haq, Arooj Abdulabad, Sobia Asghar, Judit K. Szabo",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.gecco.2023.e02473"
+    },
+    {
+        "id": 21781,
+        "title": "MANIFESTATIONS OF VISUAL PERCEPTUAL PROCESSING IN ADULT WITH BROCA APHASIA _ A NEUROCOGNITIVE APPROACH: VERBAL SEMANTIC REPRESENTATION AND WORD EVOCATION_",
+        "authors": "Leila HAMISI, Hadjer BOUNOUALA, Hanene MEFTAH",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "Neurological injury to the areas responsible for language comprehension and production can lead to its disruption or even loss, resulting in what is known in neuropsychology as Broca's aphasia. The clinical profile of individuals with Broca's aphasia generally exhibits a specific deficit called \"Broca's non-fluent aphasia,\" characterized by word retrieval difficulties and the inability to produce the target word when required. These impairments involve linguistic disturbances that affect levels of the lexical-semantic processing system for words. Therefore,the aim of this scientific paper is to explore the manifestations of visual cognitive processing of images in individuals with Broca's aphasia during picture naming, using a neuropsycholinguistic approach to lexical-semantic representation and word retrieval. Additionally, we aim to present the most important compensatory strategies adopted by individuals with Broca's aphasia to overcome naming failures. Finally, we will conclude by offering a range of suggestions that can enhance diagnostic procedures and treatment methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47832/2717-8293.25.3"
+    },
+    {
+        "id": 21782,
+        "title": "GaitGMT: Global feature mapping transformer for gait recognition",
+        "authors": "Guilong Chen, Jiayi Huang, Guanghai Chen, Xin Chen, Xiaoling Deng, Yubin Lan, Yongbing Long, Qi Tian",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2024.104139"
+    },
+    {
+        "id": 21783,
+        "title": "Systematic Literature Review terhadap Klasifikasi Emosi pada Lirik Lagu Berbahasa Ambon menggunakan Metode Bidirectional LSTM dengan Glove Word Representation Weighting",
+        "authors": " Kholida Zia Abidin,  Arief Setyanto,  Rudyanto Arief",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "One form of text that can express emotions is lyrics. Lyrics are a type of literary work expressed in the form of words, the contents of which can express the songwriter's personal feelings, thoughts, and emotions. Therefore, the lyrics can be used as an object of research on the classification of emotions. The classification of song lyrics really requires bi-LSTM to be the input value when classifying data in the form of song lyrics in order to get high accuracy results. This research was carried out systematically and the results were measurable. Descriptive qualitative research was used in this research. The results of identification based on case studies and statistics show that the reviews of popular topics are identical. The classification of song lyrics really requires bi-LSTM to be the input value when classifying data in the form of song lyrics in order to get high accuracy results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.51903/pixel.v16i2.1641"
+    },
+    {
+        "id": 21784,
+        "title": "Effective Thinking: Representation Implementation Word Square Learning Model on Islamic Religious Education",
+        "authors": " Bahar Agus Setiawan,  Sofyan Rofi,  Tri Endang Jatmikowati,  Dahani Kusumawati,  Finta Meifah Nada",
+        "published": "2023-10-3",
+        "citations": 0,
+        "abstract": "The philosophy of the learning process carries out at least five main dimensions, namely active, innovative, creative, effective and fun. The content of Islamic religious education learning materials such as the Koran, hadith, morality and others, requires a plurality of learning models. Harmony between the content of learning materials and the models used was a necessity that cannot be ruled out. One of the learning models that can be used in learning Islamic religious education is the word square. This study aims to examine more deeply the benefits of word squares in improving and developing the ability to think effectively as an indicator of the learning model. The research instrument used written interviews, with a questionnaire model with five component indicators of the ability to think effectively. The number of respondents was 35 students of class X at SMAN Darussholah Singojuruh Banyuwangi. The average research results for measuring the five component indicators of the ability to think effectively reach 93.7 per cent which confirms that the word square learning model played a role in improving and developing students' effective thinking.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35316/jpii.v8i1.508"
+    },
+    {
+        "id": 21785,
+        "title": "The global risk of infectious disease emergence from giant land snail invasion and pet trade",
+        "authors": "Jérôme M W Gippet, Olivia K Bates, Jérémie Moulin, Cleo Bertelsmeier",
+        "published": "2023-10-17",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nPathogen outbreaks mostly originate from animals, but some species are more likely to trigger epidemics. The giant land snail (Lissachatina fulica) is a widespread invader, a popular exotic pet, and a notorious vector of the rat lungworm, causing eosinophilic meningitis in humans. However, a comprehensive assessment of the risks of disease outbreak associated with this species is lacking.\n\nMethods\nWe assessed and mapped the risk of disease transmission associated with the invasion and pet trade of L. fulica. First, we conducted a review of the scientific literature to list all known L. fulica parasites and pathogens and query host–pathogen databases to identify their potential mammalian hosts. Then, to assess the potential for L. fulica to spread globally, we modelled its suitable climatic conditions and tested whether, within climatically suitable areas, the species tended to occur near humans or not. Finally, we used social media data to map L. fulica possession as an exotic pet and to identify human behaviours associated with increased risk of disease transmission.\n\nResults\nLissachatina fulica can carry at least 36 pathogen species, including two-thirds that can infect humans. The global invasion of L. fulica is climatically limited to tropical areas, but the species is strongly associated with densely populated areas where snails are more likely to enter in contact with humans. In temperate countries, however, climatic conditions should prevent L. fulica's spread. However, we show that in Europe, giant snails are popular exotic pets and are often handled with direct skin contact, likely increasing the risk of pathogen transmission to their owners.\n\nConclusions\nIt is urgent to raise public awareness of the health risks associated with L. fulica in both tropical countries and Europe and to regulate its trade and ownership internationally. Our results highlight the importance of accounting for multiple types of human-wildlife interactions when assessing risks of infectious disease emergence. Furthermore, by targeting the species most likely to spread pathogens, we show that it is possible to rapidly identify emerging disease risks on a global scale, thus guiding timely and appropriate responses.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-06000-y"
+    },
+    {
+        "id": 21786,
+        "title": "Lightweight Feature Encoder for Wake-Up Word Detection Based on Self-Supervised Speech Representation",
+        "authors": "Hyungjun Lim, Younggwan Kim, Kiho Yeom, Eunjoo Seo, Hoodong Lee, Stanley Jungkyu Choi, Honglak Lee",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094623"
+    },
+    {
+        "id": 21787,
+        "title": "‘Eradication was a dirty word’: Anti-\n            <i>gambiae</i>\n            campaign, between cooperation and rivalry (1938–1940)",
+        "authors": "Gabriel Lopes, Marcos Cueto",
+        "published": "2023-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/17441692.2023.2200559"
+    },
+    {
+        "id": 21788,
+        "title": "How do moral judgment and saving face interact with positive word–of–mouth regarding counterfeit luxury consumption?",
+        "authors": "Changju Kim, Mai Kikumori, Aekyoung Kim, Jungkeun Kim",
+        "published": "2023-8-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/20932685.2023.2234919"
+    },
+    {
+        "id": 21789,
+        "title": "Back matter",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0224"
+    },
+    {
+        "id": 21790,
+        "title": "Front matter",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0217"
+    },
+    {
+        "id": 21791,
+        "title": "WordSword: An Efficient Online Word Reading Assessment for Global English",
+        "authors": "Jana Chi-San Ho, Catherine McBride, Kelvin Fai Hong Lui, Marta Łockiewicz",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": " The development of efficient and reliable online assessments has become increasingly important in the digital era. We developed a 10-min online word reading assessment of global English based on the existing paper-and-pencil version of our English silent word reading test. The test includes two parts, namely, random word recognition and contextual word reading. A total of 889 participants (437 children and 392 adults; 62.7% female) took part in the study. They were from various regions including mainland China, Hong Kong SAR, Macau SAR, Poland, the United States, and the Philippines. Reliability and validity analyses on various demographics samples (by age and country/region of origin) demonstrated that the WordSword Test is highly reliable and valid (e.g., the correlation of this test with other English reading measures were above .80). Education level was positively correlated with test performance, while the correlations between age and test performance were not consistent. Ninety-seven children participants also took the paper-and-pencil version of the WordSword Test. The correlation between performances on the online and paper-and-pencil versions of the test was .879, one year apart. With more children and adults taking the WordSword Test, we ultimately hope to establish norms by area, grade level, and age. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10731911231194971"
+    },
+    {
+        "id": 21792,
+        "title": "Hybrid CNN-LSTM Architecture for Bilingual Next-Word Prediction in Punjabi-English Social Media Texts",
+        "authors": "Gurpreet Singh, C P Kamboj",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353272"
+    },
+    {
+        "id": 21793,
+        "title": "Antecedents Word of Mouth Intention in the Restaurant Industry",
+        "authors": "Juliana Juliana, Amelda Pramezwary, Sandra Maleachi, Vasco Adato H. Goeltom",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "A restaurant is a place that provides good service to all its customers, both in the form of food and drinks. This research aims to investigate the antecedents word of mouth intention This research uses a quantitative approach with a survey method. with a sample size of 102 respondents. The data collection tool in this study used an online questionnaire which was distributed to respondents using a non-probability sampling approach using a purposive sampling technique with the criteria of using respondents who visited the restaurant at least once a year. Data analysis using PLS-SEM. The contribution of this research is to expand the factors that influence positive customer feelings towards restaurants such as environmental quality, food quality, service quality, and comfort. Service Encounter and Awareness as mediation to explain its influence on word-of-mouth intention. The results show that food quality, personal interaction quality, physical environment quality, perceived value, Service Encounter, and Awareness have a significant effect on word-of-mouth intention. This research implies that there is an influence between food quality, personal interaction quality, physical environment quality, and perceived value with word-of-mouth intention, so it can be concluded that food quality and interaction quality can shape customer relationships in providing positive recommendations about restaurants so that customers will visit. return to the restaurant.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55681/jige.v5i1.2185"
+    },
+    {
+        "id": 21794,
+        "title": "Global-Local Self-Distillation for Visual Representation Learning",
+        "authors": "Tim Lebailly, Tinne Tuytelaars",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00149"
+    },
+    {
+        "id": 21795,
+        "title": "Depicting Diversity in STEM: Analyzing Authenticity of Children's Picture Books Featuring Global Representation of Environmental Science",
+        "authors": "Michelle Eades-Baird",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/2006029"
+    },
+    {
+        "id": 21796,
+        "title": "Exploring progressive mental model representation of core physiology concepts in physician assistant students through word frequency and association analyses",
+        "authors": "Michelle Pauley Murphy, Woei Hung",
+        "published": "2023-12-1",
+        "citations": 2,
+        "abstract": "This study applies text mining, an artificial intelligence form of natural language processing, to evaluate a series of physiology student-written prompt completions. Text mining of student writing in physiology has not yet been reported in the literature. Through the application of this technique, longitudinal trends in student development of mental models of core concepts were identified and visualized through word frequency distributions and cluster dendrograms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1152/advan.00124.2022"
+    },
+    {
+        "id": 21797,
+        "title": "Front matter",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0225"
+    },
+    {
+        "id": 21798,
+        "title": "Back matter",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0232"
+    },
+    {
+        "id": 21799,
+        "title": "Number-enhanced representation with hierarchical recursive tree decoding for math word problem solving",
+        "authors": "Yi Zhang, Guangyou Zhou, Zhiwen Xie, Jimmy Xiangji Huang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ipm.2023.103585"
+    },
+    {
+        "id": 21800,
+        "title": "Retracted: Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications",
+        "authors": "",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9867487"
+    },
+    {
+        "id": 21801,
+        "title": "Defining the word",
+        "authors": "Martin Haspelmath",
+        "published": "2023-7-3",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00437956.2023.2237272"
+    },
+    {
+        "id": 21802,
+        "title": "PENGARUH ELECTRONIC WORD OF MOUTH TERHADAP MINAT BELI PADA MEDIA SOSIAL TIKTOK DEAR ME BEAUTY",
+        "authors": "Syabatia Nurul Azmi, Indira Rachmawati",
+        "published": "2023-9-23",
+        "citations": 0,
+        "abstract": "Advances in technology introduce various media that can be interpreted as a communication platform, one of which is the internet. There is a main reason users on the Internet is to find information, it provides many opportunities for consumers who rely on eWOM. Tiktok is one of the social media that which functions as a digital marketing platform by Dear Me Beauty. The objective of this research ispfurther study the influence of e-WOM on TikTok towards the intention to buy Dear Me Beauty on TikTok. This research utilize quantitative methods with the aim of descriptive and causal research. Researchers distributed questionnaires through google form with a total of 401 respondents. The sampling techniqueaused was non-probability sampling with purposiveasampling. Data analysis technique utilize Partial Least Square (PLS) Structural Equation Modeling (SEM). The results of this study are the Information Quality has a positive and significant effect on Information Usefulness, the Information Quantity has a positive and significant effect on Information Usefulness, Information Credibility has a positive and significant effect on Information Usefulness. The Usefulness has a positive and significant effect on Information Adoption, and the Information Adoption has a positive and significant effect on Purchase Intention.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55681/jige.v4i3.1232"
+    },
+    {
+        "id": 21803,
+        "title": "Hybrid approach for Word Sense Disambiguation in Marathi Language",
+        "authors": "Aparitosh Gahankari, Avinash S. Kapse, Mohammad Atique, V.M. Thakare, Arvind S. Kapse",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353377"
+    },
+    {
+        "id": 21804,
+        "title": "A Comprehensive Analysis of the Success of Classification Algorithms for the Classification of Emotional States Based on the User’s Behavioral Characteristics",
+        "authors": "David Držík, M. Magdin",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3254924"
+    },
+    {
+        "id": 21805,
+        "title": "Global guidance-based integration network for salient object detection in low-light images",
+        "authors": "Zenan Zhang, Jichang Guo, Huihui Yue, Yudong Wang",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103862"
+    },
+    {
+        "id": 21806,
+        "title": "Person re-identification based on improved attention mechanism and global pooling method",
+        "authors": "Ruyu Xu, Yueyang Zheng, Xiaoming Wang, Dong Li",
+        "published": "2023-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103849"
+    },
+    {
+        "id": 21807,
+        "title": "Resting-state networks representation of the global phenomena",
+        "authors": "Shiori Amemiya, Hidemasa Takao, Shouhei Hanaoka, Osamu Abe",
+        "published": "2023-8-17",
+        "citations": 0,
+        "abstract": "Resting-state functional magnetic resonance imaging (rsfMRI) has been widely applied to investigate spontaneous neural activity, often based on its macroscopic organization that is termed resting-state networks (RSNs). Although the neurophysiological mechanisms underlying the RSN organization remain largely unknown, accumulating evidence points to a substantial contribution from the global signals to their structured synchronization. This study further explored the phenomenon by taking advantage of the inter- and intra-subject variations of the time delay and correlation coefficient of the signal timeseries in each region using the global mean signal as the reference signal. Consistent with the hypothesis based on the empirical and theoretical findings, the time lag and correlation, which have consistently been proven to represent local hemodynamic status, were shown to organize networks equivalent to RSNs. The results not only provide further evidence that the local hemodynamic status could be the direct source of the RSNs’ spatial patterns but also explain how the regional variations in the hemodynamics, combined with the changes in the global events’ power spectrum, lead to the observations. While the findings pose challenges to interpretations of rsfMRI studies, they further support the view that rsfMRI can offer detailed information related to global neurophysiological phenomena as well as local hemodynamics that would have great potential as biomarkers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnins.2023.1220848"
+    },
+    {
+        "id": 21808,
+        "title": "A distributional assessment of rivalry in word formation",
+        "authors": "Matías Guzmán Naranjo, Olivier Bonami",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": " We contrast two views of rivalry in word formation. Under the classical, categorical view, two processes are rivals if they are semantically equivalent. Under the more nuanced, gradient view, two processes can be rivals at different degrees, depending on how frequently they are amenable to be deployed as alternatives to one another. We propose to use methods from distributional semantics to explore the usefulness of both views. Building on data from French, we first show that distributional differences between average difference vectors capture semantic similarity across derivational processes in a manner comparable to the expectations of expert morphologists. We then propose an operational implementation of the classical view of rivalry based on computational classifiers: processes are rivals if and only if a classifier is unable to discriminate between them. Experimentation with French data shows that this operationalization correctly captures the broad brushes of rivalry, but also reveals finer, gradient aspects of competition in the spirit of gradient rivalry. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0222"
+    },
+    {
+        "id": 21809,
+        "title": "The Concept and Models of Representation",
+        "authors": "Etalong Thomas Alama",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "The model of representation is a theoretical framework that delineates the manner in which elected officials or political representatives are anticipated to advocate for the interests, desires, and necessities of their constituents. This study elucidates various models of representation, each presenting distinct viewpoints on the functioning of this representation. Several prominent models of representation in politics include the trustee, delegate, partisan, and political representatives. The findings indicate that there are several elements that pose challenges to the functioning of representative government. These problems include defection, corruption, and the absence of clear ideological frameworks within political parties. The study concludes by offering recommendations for increasing representative governance through practical means, including the participation of all individuals, the promotion of political equality, and the cultivation of a sense of political responsibility.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37745/gjahss.2013/vol11n92734"
+    },
+    {
+        "id": 21810,
+        "title": "On representation of conflict in modern academic discourse",
+        "authors": "Elena Vartanova, Anna Gladkova, Denis Dunas",
+        "published": "2023-1-20",
+        "citations": 0,
+        "abstract": "Abstract\nThis article discusses media researchers’ understanding of the term “conflict,” what types of experience objects social scientists include in this category, and the possibility of categorization and theoretical understanding of these objects in the context of modern media research in Russia and abroad. Also discussed are the theoretical issues of the interaction between media and conflict, theory-based methodology of conflict research, and the types and key subjects of conflict, which have become the subjects of empirical research on scientific papers published in major media academic journals at home and abroad. In discussing the study’s empirical results, the necessity of cultivating ethical and moral values in the media, according to Habermas’s communicative behavior theory where he opposes the anti-values of conflict, was raised.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/omgc-2022-0063"
+    },
+    {
+        "id": 21811,
+        "title": "Global attention retinex network for low light image enhancement",
+        "authors": "Yongnian Wang, Zhibin Zhang",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103795"
+    },
+    {
+        "id": 21812,
+        "title": "A tale of two lexica: Investigating computational pressures on word representation with neural networks",
+        "authors": "Enes Avcu, Michael Hwang, Kevin Scott Brown, David W. Gow",
+        "published": "2023-3-27",
+        "citations": 1,
+        "abstract": "IntroductionThe notion of a single localized store of word representations has become increasingly less plausible as evidence has accumulated for the widely distributed neural representation of wordform grounded in motor, perceptual, and conceptual processes. Here, we attempt to combine machine learning methods and neurobiological frameworks to propose a computational model of brain systems potentially responsible for wordform representation. We tested the hypothesis that the functional specialization of word representation in the brain is driven partly by computational optimization. This hypothesis directly addresses the unique problem of mapping sound and articulation vs. mapping sound and meaning.ResultsWe found that artificial neural networks trained on the mapping between sound and articulation performed poorly in recognizing the mapping between sound and meaning and vice versa. Moreover, a network trained on both tasks simultaneously could not discover the features required for efficient mapping between sound and higher-level cognitive states compared to the other two models. Furthermore, these networks developed internal representations reflecting specialized task-optimized functions without explicit training.DiscussionTogether, these findings demonstrate that different task-directed representations lead to more focused responses and better performance of a machine or algorithm and, hypothetically, the brain. Thus, we imply that the functional specialization of word representation mirrors a computational optimization strategy given the nature of the tasks that the human brain faces.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/frai.2023.1062230"
+    },
+    {
+        "id": 21813,
+        "title": "A word of caution regarding breast milk: a correspondence",
+        "authors": "Moeez I. Shiraz, Abdul R. Shahid, Tayyab Zahoor, Seemin A. Shiraz",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/gh9.0000000000000127"
+    },
+    {
+        "id": 21814,
+        "title": "Text Representation Models based on the Spatial Distributional Properties of Word Embeddings",
+        "authors": "Narendra Babu Unnam, Krishna Reddy Polepalli, Amit Pandey, Naresh Manwani",
+        "published": "2024-1-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3632410.3632500"
+    },
+    {
+        "id": 21815,
+        "title": "Biomedical Text Classification Using Augmented Word Representation Based on Distributional and Relational Contexts",
+        "authors": "Md. Aslam Parwez, Mohd. Fazil, Muhammad Arif, Md Tabrez Nafis, Md. Rabiul Auwul",
+        "published": "2023-2-15",
+        "citations": 0,
+        "abstract": "Due to the increasing use of information technologies by biomedical experts, researchers, public health agencies, and healthcare professionals, a large number of scientific literatures, clinical notes, and other structured and unstructured text resources are rapidly increasing and being stored in various data sources like PubMed. These massive text resources can be leveraged to extract valuable knowledge and insights using machine learning techniques. Recent advancement in neural network-based classification models has gained popularity which takes numeric vectors (aka word representation) of training data as the input to train classification models. Better the input vectors, more accurate would be the classification. Word representations are learned as the distribution of words in an embedding space, wherein each word has its vector and the semantically similar words based on the contexts appear nearby each other. However, such distributional word representations are incapable of encapsulating relational semantics between distant words. In the biomedical domain, relation mining is a well-studied problem which aims to extract relational words, which associates distant entities generally representing the subject and object of a sentence. Our goal is to capture the relational semantics information between distant words from a large corpus to learn enhanced word representation and employ the learned word representation for various natural language processing tasks such as text classification. In this article, we have proposed an application of biomedical relation triplets to learn word representation through incorporating relational semantic information within the distributional representation of words. In other words, the proposed approach aims to capture both distributional and relational contexts of the words to learn their numeric vectors from text corpus. We have also proposed an application of the learned word representations for text classification. The proposed approach is evaluated over multiple benchmark datasets, and the efficacy of the learned word representations is tested in terms of word similarity and concept categorization tasks. Our proposed approach provides better performance in comparison to the state-of-the-art GloVe model. Furthermore, we have applied the learned word representations to classify biomedical texts using four neural network-based classification models, and the classification accuracy further confirms the effectiveness of the learned word representations by our proposed approach.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/2989791"
+    },
+    {
+        "id": 21816,
+        "title": "On the False Representation of the Present-Day Crisis Society in the Global Corporate Media",
+        "authors": "Vihren BOUZOV",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25019/perspol/23.16.0.3"
+    },
+    {
+        "id": 21817,
+        "title": "A Note on the Global Dimension of Shifted Orders",
+        "authors": "Özgür Esentepe",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "AbstractWe consider the dominant dimension of an order over a Cohen-Macaulay ring in the category of centrally Cohen-Macaulay modules. There is a canonical tilting module in the case of positive dominant dimension and we give an upper bound on the global dimension of its endomorphism ring.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10468-023-10229-7"
+    },
+    {
+        "id": 21818,
+        "title": "Supplemental Material for WEIRD–Confucian Comparisons: Ongoing Cultural Biases in Psychology’s Evidence Base and Some Recommendations for Improving Global Representation",
+        "authors": "",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/amp0001298.supp"
+    },
+    {
+        "id": 21819,
+        "title": "New insight into avian malaria vectors in New Zealand",
+        "authors": "E. R. Schoener, D. M. Tompkins, L. Howe, I. C. Castro",
+        "published": "2024-3-22",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nMosquitoes (Culicidae) are vectors for most malaria parasites of the Plasmodium species and are required for Plasmodium spp. to complete their life cycle. Despite having 16 species of mosquitoes and the detection of many Plasmodium species in birds, little is known about the role of different mosquito species in the avian malaria life cycle in New Zealand.\n\nMethods\nIn this study, we used nested polymerase chain reaction (PCR) and real-time PCR to determine Plasmodium spp. prevalence and diversity of mitochondrial cytochrome b gene sequences in wild-caught mosquitoes sampled across ten sites on the North Island of New Zealand during 2012–2014. The mosquitoes were pooled by species and location collected, and the thorax and abdomens were examined separately for Plasmodium spp. DNA. Akaike information criterion (AIC) modeling was used to test whether location, year of sampling, and mosquito species were significant predictors of minimum infection rates (MIR).\n\nResults\nWe collected 788 unengorged mosquitoes of six species, both native and introduced. The most frequently caught mosquito species were the introduced Aedes notoscriptus and the native Culex pervigilans. Plasmodium sp DNA was detected in 37% of matched thorax and abdomen pools. When considered separately, 33% of abdomen and 23% of thorax pools tested positive by nested PCR. The MIR of the positive thorax pools from introduced mosquito species was 1.79% for Ae. notoscriptus and 0% for Cx. quinquefasciatus, while the MIR for the positive thorax pools of native mosquito species was 4.9% for Cx. pervigilans and 0% for Opifex fuscus. For the overall MIR, site and mosquito species were significant predictors of Plasmodium overall MIR. Aedes notoscriptus and Cx. pervigilans were positive for malaria DNA in the thorax samples, indicating that they may play a role as avian malaria vectors. Four different Plasmodium lineages (SYAT05, LINN1, GRW6, and a new lineage of P (Haemamoeba) sp. AENOT11) were identified in the pooled samples.\n\nConclusions\nThis is the first detection of avian Plasmodium DNA extracted from thoraxes of native Culex and introduced Aedes mosquito species in New Zealand and therefore the first study providing an indication of potential vectors in this country.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06196-7"
+    },
+    {
+        "id": 21820,
+        "title": "Artificial intelligence, parasites and parasitic diseases",
+        "authors": "Filipe Dantas-Torres",
+        "published": "2023-9-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05972-1"
+    },
+    {
+        "id": 21821,
+        "title": "Integrating word-form representations with global similarity computation in recognition memory",
+        "authors": "Adam F. Osth, Lyulei Zhang",
+        "published": "2023-11-16",
+        "citations": 0,
+        "abstract": "AbstractIn recognition memory, retrieval is thought to occur by computing the global similarity of the probe to each of the studied items. However, to date, very few global similarity models have employed perceptual representations of words despite the fact that false recognition errors for perceptually similar words have consistently been observed. In this work, we integrate representations of letter strings from the reading literature with global similarity models. Specifically, we employed models of absolute letter position (slot codes and overlap models) and relative letter position (closed and open bigrams). Each of the representations was used to construct a global similarity model that made contact with responses and RTs at the individual word level using the linear ballistic accumulator (LBA) model (Brown & Heathcote Cognitive Psychology, 57 , 153–178, 2008). Relative position models were favored in three of the four datasets and parameter estimates suggested additional influence of the initial letters in the words. When semantic representations from the word2vec model were incorporated into the models, results indicated that orthographic representations were almost equally consequential as semantic representations in determining inter-item similarity and false recognition errors, which undermines previous suggestions that long-term memory is primarily driven by semantic representations. The model was able to modestly capture individual word variability in the false alarm rates, but there were limitations in capturing variability in the hit rates that suggest that the underlying representations require extension.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3758/s13423-023-02402-2"
+    },
+    {
+        "id": 21822,
+        "title": "Culex modestus: the overlooked mosquito vector",
+        "authors": "Alina Soto, Leen Delang",
+        "published": "2023-10-20",
+        "citations": 1,
+        "abstract": "AbstractCulex (Barraudius) modestus (Ficalbi 1889) are found in temperate regions across Europe, Asia, and Northern Africa. These mosquitoes thrive during the summer and prefer to breed in permanent vegetative habitats such as rice paddies and marshes. Culex modestus feed on a wide range of bird species but are highly attracted to humans, which makes them a potential ‘bridge’ vector for enzootic pathogens. There is compelling evidence that Culex modestus is an efficient vector for West Nile virus, potentially capable of causing epidemics in humans and other mammals. This species is also a likely vector for Usutu virus, avian malaria (Plasmodium spp.), and parasitic heartworms (Dirofilaria spp.). Culex modestus can be morphologically identified at the larval and adult stages, and a distinctive phenotype of this species is their ability to overwinter. Despite the widespread establishment of this mosquito species and their role as vectors for human pathogens, we lack sufficient knowledge on this species to implement and evaluate targeted vector control measures. Since Culex modestus can be considered a potential public health threat, there is a need for a better understanding of this mosquito species.\nGraphical Abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05997-6"
+    },
+    {
+        "id": 21823,
+        "title": "POLYSEMIC ANALYSIS OF THE WORD 看 KÀN IN MANDARIN ANALISIS POLISEMI KATA 看 KÀN DALAM BAHASA MANDARIN",
+        "authors": "Jocelyn Paramita, Vivi Adryani Nasution",
+        "published": "2023-9-18",
+        "citations": 0,
+        "abstract": "Polysemy is a word that has more than one meaning and each meaning is related in one context and is also listed in the same entry in a dictionary. In Mandarin, the phenomenon of polysemy is also found, one of which is the word看 kàn. This study will describe the extended meaning of the word看 kàn and explain the relationship between the basic meaning and the extended meaning. Data were collected from the novel你是我的荣耀 nǐ shì wǒ de róng yào data source. The data is then analyzed by determining the classification of the meaning of the word 看 kàn and classified according to the type of meaning. Furthermore, this study explains the relationship between the basic meaning and the extended meaning of the word 看 kàn. From the data obtained through data sources, it is concluded that there are 6 extended meanings of the word看 kàn. The extended meanings found are: observe, consider, depend on, visit, diagnose; treat, take care of. Based on the results of the study, all the extended meanings of the word 看 kàn taken from the data source has semantic relationship with the basic meaning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55681/jige.v4i3.1109"
+    },
+    {
+        "id": 21824,
+        "title": "Short text topic modelling using local and global word-context semantic correlation",
+        "authors": "Supriya Kinariwala, Sachin Deshmukh",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-14352-x"
+    },
+    {
+        "id": 21825,
+        "title": "Representation and Evaluation of the Global Performance of Cooperatives",
+        "authors": "Naoual Mamdouh, Mohamed Alami Chentoufi",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "Global performance, defined as “the aggregation of economic, social and environmental performance” (Baret, 2006), is a multidimensional concept that was introduced with the emergence of the concept of CSR and sustainable development. Today, the difficulty for organizations is to measure global performance and understand the interactions between its different dimensions: economic, social and environmental. The search for global performance has become increasingly important for any organization to affirm its relevance, effectiveness and efficiency in meeting the expectations of their stakeholders in order to ensure its sustainability. Cooperatives are no exception to this logic. Assessing the performance of cooperatives takes on new importance given all the challenges they will have to face and given their dual nature (association/enterprise). The objective of this article is to propose a model of representation and evaluation of the global performance of cooperatives allowing to describe the components of this performance and to analyze the interactions between its different dimensions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29117/sbe.2023.0141"
+    },
+    {
+        "id": 21826,
+        "title": "Introduction",
+        "authors": "Neil Bermel, Dunstan Brown",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0226"
+    },
+    {
+        "id": 21827,
+        "title": "Vector competence of Anopheles stephensi for O’nyong-nyong virus: a risk for global virus spread",
+        "authors": "Maud Mutsaers, Cecilia Springer Engdahl, Lukas Wilkman, Clas Ahlm, Magnus Evander, Olivia Wesula Lwande",
+        "published": "2023-4-17",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nO’nyong-nyong virus (ONNV) is a mosquito-borne alphavirus causing sporadic outbreaks of febrile illness with rash and polyarthralgia. Up to now, ONNV has been restricted to Africa and only two competent vectors have been found, Anopheles gambiae and An. funestus, which are also known malaria vectors. With globalization and invasive mosquito species migrating to ONNV endemic areas, there is a possible risk of introduction of the virus to other countries and continents. Anophelesstephensi, is closely related to An. gambiae and one of the invasive mosquito species of Asian origin that is now present in the Horn of Africa and spreading further east. We hypothesize that An. stephensi, a known primary urban malaria vector, may also serve as a new possible vector for ONNV.\n\nMethods\nOne-week-old female adult An.stephensi were exposed to ONNV-infected blood, and the vector competence for ONNV, i.e. infection rates (IRs), dissemination rates (DRs), transmission rates (TRs), dissemination efficiency (DEs) and transmission efficiency (TEs), were evaluated. Infection (IRs), dissemination efficiency (DEs) and transmission efficiency (TEs) were determined. Detection of ONNV RNA was analysed by RT-qPCR in the thorax and abdomen, head, wings, legs and saliva of the infected mosquitoes at four different time points, day 7, 14, 21 and 28 after blood meal. Infectious virus in saliva was assessed by infection of Vero B4 cells.\n\nResults\nThe mean mortality across all sampling times was 27.3% (95 confidence interval [CI] 14.7–44.2%). The mean rate of infection across all sampling periods was 89.5% (95% CI 70.6–95.9). The mean dissemination rate across sampling intervals was 43.4% (95% CI 24.3–64.2%). The mean TR and TE across all mosquito sampling time intervals were 65.3 (95% CI 28.6–93.5) and 74.6 (95% CI 52.1–89.4). The IR was 100%, 79.3%, 78.6% and 100% respectively at 7, 14, 21 and 28 dpi. The DR was the highest at 7 dpi with 76.0%, followed by 28 dpi at 57.1%, 21 dpi at 27.3% and 14 dpi at the lowest DR of 13.04%. DE was 76%, 13.8%, 25%, 57.1% and TR was 79%, 50%, 57.1% and 75% at 7, 14, 21 and 28 dpi respectively. The TE was the highest at 28 dpi, with a proportion of 85.7%. For 7, 14 and 21 dpi the transmission efficiency was 72.0%, 65.5% and 75.0% respectively.\n\nConclusion\nAnopheles stephensi is a competent vector for ONNV and being an invasive species spreading to different parts of the world will likely spread the virus to other regions.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05725-0"
+    },
+    {
+        "id": 21828,
+        "title": "Rethinking Local and Global Feature Representation for Dense Prediction",
+        "authors": "Mohan Chen, Li Zhang, Rui Feng, Xiangyang Xue, Jianfeng Feng",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2022.109168"
+    },
+    {
+        "id": 21829,
+        "title": "Filling In the Gaps: Retelling the History of Black Representation in Plastic Surgery",
+        "authors": "Joshua Glahn, Paris Butler",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/01.gox.0000992536.04694.27"
+    },
+    {
+        "id": 21830,
+        "title": "Enhancing Local–Global Representation Learning for Image Restoration",
+        "authors": "Yuning Cui, Alois Knoll",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tii.2023.3345464"
+    },
+    {
+        "id": 21831,
+        "title": "Japanese industrial technical terms: Word formation, word type and word pedagogical applications",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34044/j.kjss.2023.44.3.17"
+    },
+    {
+        "id": 21832,
+        "title": "ACADEMIC MOBILITY: EUROPEAN AND ORIENTAL VECTORS OF COOPERATION",
+        "authors": "Oleksandra Popova",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "The article deals with the issues related to the international academic mobility. Some key notions within the academic sphere have been specified (academic mobility, academic integration, academic normative documents). The author outlines the European and Oriental vectors of academic cooperation (involvement of the academic staff and students into the programmes of international advanced training and / or internship; joint participation in scientific grant programmes; international co-supervision of Bachelor, Master, PhD research).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24195/2414-4746-2023-9-10"
+    },
+    {
+        "id": 21833,
+        "title": "Global phylogenetic analysis of soybean dwarf virus isolates and their associations with aphid vectors and severe disease in soybeans.",
+        "authors": "Andrew L. Stone, Vernon D. Damsteegt, Oney P. Smith, Lucy R. Stewart",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.virol.2024.109984"
+    },
+    {
+        "id": 21834,
+        "title": "Representation of Semantic Word Embeddings Based on SLDA and Word2vec Model",
+        "authors": "Tang Huanling, Zhu Hui, Wei Hongmin, Zheng Han, Mao Xueli, Lu Mingyu, Guo Jin",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/cje.2021.00.113"
+    },
+    {
+        "id": 21835,
+        "title": "Phonological Memory and Naming Speed Predict Response to Intervention in Elementary School-Aged Children with Word-level Reading Difficulties",
+        "authors": "John R Kirby",
+        "published": "2023-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.19080/gjidd.2023.11.555810"
+    },
+    {
+        "id": 21836,
+        "title": "Hard Tick Species Parasitism Levels in Domestic Ruminants with Their Distribution and Role as Vectors: A Detailed Global Meta-analysis and Systematic Review",
+        "authors": "Hassan Nasirian",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11686-023-00724-8"
+    },
+    {
+        "id": 21837,
+        "title": "Predicting the global potential distribution of two major vectors of Rocky Mountain Spotted Fever under conditions of global climate change",
+        "authors": "Haoqiang Ji, Xiaohui Wei, Delong Ma, Xiaoxu Wang, Qiyong Liu",
+        "published": "2024-1-10",
+        "citations": 1,
+        "abstract": "Rocky Mountain spotted fever is a tick-borne disease that is highly dangerous but often overlooked by the public. To prevent the spread of the disease, it is important to understand the distribution patterns of its vectors’ suitable areas. This study aims to explore the potential global suitability of areas for the vectors of Rocky Mountain spotted fever, including Dermacentor variabilis and Amblyomma cajennense under both historical and future climate scenarios. The study also seeks to investigate the impact of climatic factors on the distribution patterns of these vectors. Data on species distribution were downloaded from the Global Biodiversity Information Facility, Web of Science and PubMed database. The climatic variables were downloaded from WorldClim Global Climate Database. The Maximum Entropy Model was used to evaluate the contribution of monthly precipitation, monthly maximum temperature, monthly minimum temperature, elevation, and nineteen other climatic variables to vector survival, as well as to predict the suitable area for the vectors. We found that D. variabilis is distributed in North America, while A. cajennense is mainly distributed in South America, but all other continents except Antarctica have a suitable distribution. D. variabilis is more likely to survive in temperate regions, and A. cajennense is more likely to survive in tropical zones. D. variabilis is more sensitive to temperature, whereas A. cajennense is sensitive to both temperature and precipitation, and A. cajennense prefers tropical regions with hot and humid characteristics. The high suitable areas of both vectors were almost expanded in the ssp5-8.5 scenario, but not so much in the ssp1-2.6 scenario. Highly suitable areas with vectors survival should be strengthened with additional testing to prevent related diseases from occurring, and other highly suitable areas should be alert for entry and exit monitoring to prevent invasion and colonization of vectors.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pntd.0011883"
+    },
+    {
+        "id": 21838,
+        "title": "The word profile of a Global Online Course for English language teachers: A corpus-based research project",
+        "authors": "Sebnem Kurt, Jeanne Beck, Abdulrahman Alharthi",
+        "published": "2023-3-28",
+        "citations": 0,
+        "abstract": "Providing useful reference materials for online course participants is an important aspect for online courses. To aid a course designed to provide professional development to English language teachers from around the world, this corpus-based study investigated the frequency and coverage of Academic Word List (Coxhead, 1998), General Service List (GSL) first 1000 words (1K), and GSL second 1000 words (2K) lists. Gathering course materials and participant discussion board posts into two corpora for this study, frequency and coverage of the three base lists were calculated using AntWordProfiler and AntConc, resulting in a coverage of 9.56 % for AWL words and over 80% coverage for the two GSL lists combined in the first corpus. The high percentage of off-list words (9.75%) in the first corpus and low percentage of AWL words in the second corpus (5.23%) motivated the creation of a new word list that contains the most frequently used words outside of the AWL, GSL 1K, and GSL 2K words from the first corpus to supplement future course participants with technical words that are required to successfully complete the course.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54475/jlt.2023.005"
+    },
+    {
+        "id": 21839,
+        "title": "Different lexicons make different rivals",
+        "authors": "Sabine Arndt-Lappe",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "Analogy-based theories assume that in situations of affix competition, language users create novel word forms on the basis of similar existing forms in their Mental Lexicons ( Baayen et al. 2011 ; Daelemans & van den Bosch 2005; Skousen 1989 ). Interestingly, however, simulation studies employing computational implementations of analogical theories have almost invariably adopted a rather abstractionist view of the Mental Lexicon, representing the word stock of the language, and abstracting away from differences between individual speakers (see, e.g., Arndt-Lappe 2014 ; Chapman & Skousen 2005 ; Eddington 2006 ; Nieder et al. 2021 ). This is a problem because it precludes the possibility of testing a central prediction of analogical theories: if affixes are assigned on the fly on the basis of similar words in the lexicon, then speakers with different lexicons should make different choices. The present paper provides a proof-of-concept study addressing this issue for the form-based rivalry between the two English adjectival suffixes - ic and - ical. Analogical Modeling of Language (AML; Skousen et al. 2013 ) is used as a computational model. On the basis of a survey of the distribution of derivatives in different registers in the British National Corpus, predictions of the analogical model are compared for a simulated speaker with a large vocabulary (including academic words) and a simulated speaker with a small vocabulary that is based mainly on words from spoken language. The statistical analysis of the simulations reveals that, while sharing some basic properties, the two models make very clear – and testable – predictions about speaker differences.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0219"
+    },
+    {
+        "id": 21840,
+        "title": "Insights and challenges of insecticide resistance modelling in malaria vectors: a review",
+        "authors": "Eric Ali Ibrahim, Mark Wamalwa, John Odindi, Henri Edouard Zefack Tonnang",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nMalaria is one of the most devastating tropical diseases, resulting in loss of lives each year, especially in children under the age of 5 years. Malaria burden, related deaths and stall in the progress against malaria transmission is evident, particularly in countries that have moderate or high malaria transmission. Hence, mitigating malaria spread requires information on the distribution of vectors and the drivers of insecticide resistance (IR). However, owing to the impracticality in establishing the critical need for real-world information at every location, modelling provides an informed best guess for such information. Therefore, this review examines the various methodologies used to model spatial, temporal and spatio-temporal patterns of IR within populations of malaria vectors, incorporating pest-biology parameters, adopted ecological principles, and the associated modelling challenges.\n\nMethods\nThe review focused on the period ending March 2023 without imposing restrictions on the initial year of publication, and included articles sourced from PubMed, Web of Science, and Scopus. It was also limited to publications that deal with modelling of IR distribution across spatial and temporal dimensions and excluded articles solely focusing on insecticide susceptibility tests or articles not published in English. After rigorous selection, 33 articles met the review's elibility criteria and were subjected to full-text screening.\n\nResults\nResults show the popularity of Bayesian geostatistical approaches, and logistic and static models, with limited adoption of dynamic modelling approaches for spatial and temporal IR modelling. Furthermore, our review identifies the availability of surveillance data and scarcity of comprehensive information on the potential drivers of IR as major impediments to developing holistic models of IR evolution.\n\nConclusions\nThe review notes that incorporating pest-biology parameters, and ecological principles into IR models, in tandem with fundamental ecological concepts, potentially offers crucial insights into the evolution of IR. The results extend our knowledge of IR models that provide potentially accurate results, which can be translated into policy recommendations to combat the challenge of IR in malaria control.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06237-1"
+    },
+    {
+        "id": 21841,
+        "title": "Fractional Reasoning with Representation: Insights from Malaysia",
+        "authors": "Nur Ikhwany Hj Kamaruddin, Teoh Sian Hoon, Joseph Boon Zik Hong",
+        "published": "2024-3-31",
+        "citations": 0,
+        "abstract": "Objective - Fractional reasoning is a crucial aspect of mathematical understanding fundamental in various mathematical concepts, real-world applications, and higher-level mathematical skills. Comprehending and working with fractions through various strategies, such as representation, is essential for students to develop a solid foundation in mathematics. However, fractional reasoning remains challenging in classroom teaching and learning since it requires deep understanding.\nMethodology/Technique – The current issue is a more comprehensive and conceptually grounded approach to foster a deeper acquisition of fractional reasoning strategies. Hence, this study aims to investigate to what extent primary school pupils develop fractional reasoning strategies to solve related problems, specifically for fractions of an area and fractions of a set of objects. A case study was conducted to interview eight primary school pupils from Perak (in Malaysia) for the data collection.\nFinding – The participants' solutions were observed to triangulate the interview data. In the content analysis, the identification of codes was carried out. Their findings revealed that the participants relied on strategies of representation methods of enactive and symbolic representations when working on fractions of an area. \nNovelty – This study introduces a novel perspective by emphasising that the identified fractional reasoning strategies are not isolated skills. The primary school pupils predominantly employed enactive and symbolic representations for fractions of an area, while favouring symbolic representations when reasoning fractions for a set of objects. These insights offer valuable guidance to educators, suggesting that a varied instructional approach, incorporating real-world contexts, can contribute to a more profound and versatile comprehension of fractions across diverse mathematical scenarios.\n\nType of Paper: Empirical\nJEL Classification: I26, I29\nKeywords: Representation, Enactive, Symbolic, Fractions, Fractional Reasoning\nReference to this paper should be referred to as follows: Kamaruddin, N.I.H; Hoon, T.S; Hong, J.B.Z. (2024). Fractional Reasoning with Representation: Insights from Malaysia, GATR-Global J. Bus. Soc. Sci. Review, 12(1), 01–14. https://doi.org/10.35609/gjbssr.2024.12.1(1)",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35609/gjbssr.2024.12.1(1)"
+    },
+    {
+        "id": 21842,
+        "title": "Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features",
+        "authors": "Zheng Gao, Chen Feng, Ioannis Patras",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00179"
+    },
+    {
+        "id": 21843,
+        "title": "Management and outcome of intracardiac heartworms in dogs",
+        "authors": "Jorge Vila, Elisabeth Alost",
+        "published": "2023-4-28",
+        "citations": 1,
+        "abstract": "Abstract\nBackground\nIntracardiac heartworm (IH) disease is a serious condition that can become life threatening if the patient develops caval syndrome. We aim to describe the management and outcome of IH in dogs evaluated by Medvet’s New Orleans cardiology service from November 2015 to December 2021.\n\nMethods\nRecords of 27 dogs with IH were examined retrospectively. Follow-up information was obtained from phone conversations with referring veterinarians and owners.\n\nResults\nNine of 27 dogs had a previous diagnosis of heartworm disease and were undergoing “slow kill” treatment; 12/27 dogs' heartworm disease was a new diagnosis, and 6/27 had either scheduled or started adulticide therapy. Nine dogs had heartworm extraction. No dogs died during the heartworm extraction procedure. Four of 9 dogs have died (survival time 1; 676; 1815 and 2184 days). One dog died the day after the procedure secondary to continued respiratory distress; the other three died of non-cardiac causes. Five of nine are alive (median follow-up 1062 (range 648–1831) days. Eleven dogs had IH resolution. In 7/11 this occurred while undergoing stabilization for heartworm extraction. In 4/11 heartworm extraction was not recommended because of low IH burden. All dogs with IH resolution were discharged from the hospital. Four of 11 have died (survival time 6; 22, 58 and 835 days), and 6/11 are alive (median follow-up 523 (range 268–2081) days. One was lost to follow-up after 18 days. Five dogs were medically managed. In one of five dogs, extraction was not recommended because of low IH burden. In four of five extraction was recommended but declined. One of five has died (survival 26 days), and four of five are alive (follow-up 155, 371, 935 and 947 days). Two dogs were killed at the time of diagnosis. Fifteen of 27 dogs were considered to have caval syndrome.\n\nConclusion\nThe results suggest that patients with IH resolution have a good long-term prognosis. Most often IH resolution occurred while the dog was undergoing stabilization for heartworm extraction. When IHs are present, heartworm extraction should still be considered the treatment of choice and recommended as first-line therapy whenever possible.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05677-5"
+    },
+    {
+        "id": 21844,
+        "title": "Diversity elements on maternal-fetal medicine fellowship websites: opportunity for improvement in recruitment and representation",
+        "authors": "Veronica L. Winget, Amanda M. Mcwhirter, Marisa L. Delgado, Marisa D. Tran, Celia P. Valenzuela, Teresa A. Orth",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.xagr.2023.100231"
+    },
+    {
+        "id": 21845,
+        "title": "Three ways of looking at morphological rivalry",
+        "authors": "Mark Aronoff",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": " Blocking and elsewhere distribution have been at the forefront of morphological theory for half a century. Each involves the preemption of one word by another. Neither is fundamental. A combination of Gause’s Principle of Competitive Exclusion and Yang’s Tolerance Principle, both devised for other reasons and both formalized mathematically, provides an explanatory basis for both blocking and elsewhere distribution. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0220"
+    },
+    {
+        "id": 21846,
+        "title": "NAVIGATING THE AUTHENTIC ONLINE WORD-OF-MOUTH: IDENTIFYING KEY CONSUMERS AND HARNESSING THE POWER OF SOCIAL MEDIA",
+        "authors": "Denis Utochkin,  , Ivan Belik",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15444/gmc2023.02.09.03"
+    },
+    {
+        "id": 21847,
+        "title": "CTHD-Net: CNN-Transformer hybrid dehazing network via residual global attention and gated boosting strategy",
+        "authors": "Haiyan Li, Renchao Qiao, Pengfei Yu, Haijiang Li, Mingchuan Tan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2024.104066"
+    },
+    {
+        "id": 21848,
+        "title": "Mapping the poultry insectome in and around broiler breeder pullet farms identifies new potential Dipteran vectors of Histomonas meleagridis",
+        "authors": "Maria Tereza Terra, Kenneth S. Macklin, Mark Burleson, Alan Jeon, John F. Beckmann, Ruediger Hauck",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nHistomonas meleagridis can infect chickens and turkeys. It uses the eggs of the cecal worm Heterakis gallinarum as a vector and reservoir. Litter beetles (Alphitobius diaperinus) and other arthropod species have been implicated as potential vectors, but little information about other arthropod species as potential vectors is known.\n\nMethods\nFour broiler breeder pullet farms were sampled every 4 months. On each farm, three types of traps were set inside and outside two houses. Trapped arthropod specimens were morphologically identified at order level and grouped into families/types when possible. Selected specimens from abundant types found both inside and outside barns were screened for H. meleagridis and H. gallinarum by qPCR.\n\nResults\nA total of 4743 arthropod specimens were trapped. The three most frequently encountered orders were Diptera (38%), Coleoptera (17%), and Hymenoptera (7%). Three hundred seventeen discrete types were differentiated. More arthropods were trapped outside than inside. Alpha diversity was greater outside than inside but not significantly influenced by season. The composition of the arthropod populations, including the insectome, varied significantly between trap location and seasons. Up to 50% of litter beetles tested positive for H. meleagridis DNA 4 months after an observed histomonosis outbreak. Sporadically litter beetles were positive for H. gallinarum DNA. Thirteen further arthropod types were tested, and specimens of four Dipteran families tested positive for either one or both parasites.\n\nConclusions\nThis study describes the insectome in and around broiler breeder pullet farms and identifies new potential vectors of H. meleagridis through qPCR. The results show a limited but present potential of arthropods, especially flies, to transmit histomonosis between farms.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05833-x"
+    },
+    {
+        "id": 21849,
+        "title": "Spatial analyses of Plasmodium knowlesi vectors with reference to control interventions in Malaysia",
+        "authors": "Sandthya Pramasivan, Romano Ngui, Nantha Kumar Jeyaprakasam, Van Lun Low, Jonathan Wee Kent Liew, Indra Vythilingam",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nMalaria parasites such as Plasmodium knowlesi, P. inui, and P. cynomolgi are spread from macaques to humans through the Leucosphyrus Group of Anopheles mosquitoes. It is crucial to know the distribution of these vectors to implement effective control measures for malaria elimination. Plasmodium knowlesi is the most predominant zoonotic malaria parasite infecting humans in Malaysia.\n\nMethods\nVector data from various sources were used to create distribution maps from 1957 to 2021. A predictive statistical model utilizing logistic regression was developed using significant environmental factors. Interpolation maps were created using the inverse distance weighted (IDW) method and overlaid with the corresponding environmental variables.\n\nResults\nBased on the IDW analysis, high vector abundances were found in the southwestern part of Sarawak, the northern region of Pahang and the northwestern part of Sabah. However, most parts of Johor, Sabah, Perlis, Penang, Kelantan and Terengganu had low vector abundance. The accuracy test indicated that the model predicted sampling and non-sampling areas with 75.3% overall accuracy. The selected environmental variables were entered into the regression model based on their significant values. In addition to the presence of water bodies, elevation, temperature, forest loss and forest cover were included in the final model since these were significantly correlated. Anopheles mosquitoes were mainly distributed in Peninsular Malaysia (Titiwangsa range, central and northern parts), Sabah (Kudat, West Coast, Interior and Tawau division) and Sarawak (Kapit, Miri, and Limbang). The predicted Anopheles mosquito density was lower in the southern part of Peninsular Malaysia, the Sandakan Division of Sabah and the western region of Sarawak.\n\nConclusion\nThe study offers insight into the distribution of the Leucosphyrus Group of Anopheles mosquitoes in Malaysia. Additionally, the accompanying predictive vector map correlates well with cases of P. knowlesi malaria. This research is crucial in informing and supporting future efforts by healthcare professionals to develop effective malaria control interventions.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05984-x"
+    },
+    {
+        "id": 21850,
+        "title": "Anesthesia for the dog with heartworm disease: a brief, practical review",
+        "authors": "Jane Quandt",
+        "published": "2023-4-28",
+        "citations": 2,
+        "abstract": "AbstractDogs with heartworm disease may present for procedures that require anesthesia. This article is a brief, practical review of anesthetic techniques for dogs with heartworm. Dogs with heartworm, such as in a shelter that undergo spay and neuter procedures, may be safely anesthetized prior to heartworm treatment. The dog presenting with caval syndrome may require emergent anesthesia for extraction of the heartworms; anesthetic drugs and potential adverse effects are discussed. The anesthetic agents that have been used are discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05722-3"
+    },
+    {
+        "id": 21851,
+        "title": "Affix rivalry: Theoretical and methodological challenges",
+        "authors": "Richard Huyghe, Rossella Varvara",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "Affix rivalry is a key element in the organization and evolution of derivational systems. Its study provides insight into word-formation semantics, morphological change, productivity, lexical variation, and the many-to-many relationship between form and meaning. Affix rivalry is characterized by its gradient nature and the multiplicity of factors that can be involved in its resolution. On the one hand, rival affixes can be regarded as more or less competing depending on their semantic similarity and on the proportion of semantic functions they have in common. On the other hand, the distinction between rival affixes can rely on different linguistic properties, including not only semantic, but also phonological, morphological, syntactic, stylistic, and sociolinguistic properties. Differences are observed as tendencies and have a variable influence on affix selection. Quantitative methods can be used to precisely assess degrees of rivalry and multifactorial resolution of competition. Based on the statistical analysis of large sets of derivatives, they can provide an accurate description of affix rivalry and help us better understand the mechanisms of competition in word formation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0218"
+    },
+    {
+        "id": 21852,
+        "title": "WHERE IS THE GLOBAL SOUTH? A SYSTEMATIC REVIEW OF GEOPOLITICAL REPRESENTATION IN DIGITAL ACTIVISM RESEARCH",
+        "authors": "Suay Melisa Oezkula, Paul Reilly",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "The diffused and global nature of many digital contexts makes it difficult to trace what regions (incl. The Global South) are represented in digital activism research. This systematic review aimed at providing a sense of this distribution in digital activism research between 2011-2018 (N= 315 articles) through a coding of categories tied to region and marginality. These factors included choice of case study, case study origin and location, author origin, region and ethnic foci of the publishing journals, and digital/ social media platform (as tied to specific user demographics). The results show a high representation of Global North cases and campaigns, as well as non-region-specific and high-visibility social media groupings (e.g. hashtag publics), particularly the case in platform-based research (i.e. digital data sources). This means that researchers may need to rethink (a) where (e.g. which platform spaces) and how disadvantaged and less visible social groups are represented online, (b) which precise ethnic or regional groups such research is meant to capture in digital spaces, as well as (c) what these hindrances mean for democratic participation, grassroots movements, and counterpublics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5210/spir.v2022i0.13065"
+    },
+    {
+        "id": 21853,
+        "title": "Cross modal global local representation learning from radiology reports and x-ray chest images",
+        "authors": "Nathan Hadjiyski, Ali Vosoughi, Axel Wismüller",
+        "published": "2023-4-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2654520"
+    },
+    {
+        "id": 21854,
+        "title": "Sparse video representation using steered mixture-of-experts with global motion compensation",
+        "authors": "Rolf Jongebloed, Erik Bochinski, Thomas Sikora",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2665600"
+    },
+    {
+        "id": 21855,
+        "title": "The climate sciences need representation from the Global South",
+        "authors": "Edgar Virgüez, Lina Leon, Lyssa M. Freese",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oneear.2024.01.016"
+    },
+    {
+        "id": 21856,
+        "title": "Competing Views of Word Meaning: Word Embeddings and Word Senses",
+        "authors": "Gregory Grefenstette, Patrick Hanks",
+        "published": "2023-6-2",
+        "citations": 0,
+        "abstract": "Abstract\nAt least since the invention of writing, people have been troubled by the problem of what a word means. Dictionaries have traditionally been written with numbered word senses, giving the impression that the different senses of a word are fixed abstract entities, which can be used to separate usages into neat piles according to their different meanings. Adam Kilgarriff’s daring 1997 article ‘I Don’t Believe in Word Senses’ challenged this traditional view of word meaning, presenting an account in which ‘the basic units are occurrences of the word in context’. Kilgarriff went on to develop the Sketch Engine, a statistical tool that enables lexicographers and NLP researchers, teachers, and students to explore the relationship between meanings and collocations (words and their contexts). In this review article, we compare the information provided by Kilgarriff’s Word Sketches with the recently developed Word Embedding techniques and with the results of Corpus Pattern Analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/ijl/ecad005"
+    },
+    {
+        "id": 21857,
+        "title": "Utility and limitations of coherent mapping algorithm utilizing vectors and global propagation patterns in atrial tachycardia",
+        "authors": "Atsuhiko Yagishita, Susumu Sakama, Kengo Ayabe, Mari Amino, Yuji Ikari, Koichiro Yoshioka",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijcha.2023.101193"
+    },
+    {
+        "id": 21858,
+        "title": "Novel insights into hotspots of insect vectors of GLRaV-3: Dynamics and global distribution",
+        "authors": "Jiufeng Wei, Yunyun Lu, Minmin Niu, Bo Cai, Huafeng Shi, Wei Ji",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.scitotenv.2024.171664"
+    },
+    {
+        "id": 21859,
+        "title": "Applying German word vectors to assess flexibility performance in the associative fluency task.",
+        "authors": "Magdalena Camenzind, Michael Single, Stephan M. Gerber, Tobias Nef, Claudio L. Bassetti, René M. Müri, Aleksandra K. Eberhard-Moscicka",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/aca0000667"
+    },
+    {
+        "id": 21860,
+        "title": "Hate speech detection on Indonesian text using word embedding method-global vector",
+        "authors": "Mardhiya Hayaty, Arif Dwi Laksito, Sumarni Adi",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "<p>Hate speech is defined as communication directed toward a specific individual or group that involves hatred or anger and a language with solid arguments leading to someone's opinion can cause social conflict. It has a lot of potential for individuals to communicate their thoughts on an online platform because the number of Internet users globally, including in Indonesia, is continually rising. This study aims to observe the impact of pre-trained global vector (GloVe) word embedding on accuracy in the classification of hate speech and non-hate speech. The use of pre-trained GloVe (Indonesian text) and single and multi-layer long short-term memory (LSTM) classifiers has performance that is resistant to overfitting compared to pre-trainable embedding for hatespeech detection. The accuracy value is 81.5% on a single layer and 80.9% on a double-layer LSTM. The following job is to provide pre-trained with formal and non-formal language corpus; pre-processing to overcome non-formal words is very challenging.</p>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijai.v12.i4.pp1928-1937"
+    },
+    {
+        "id": 21861,
+        "title": "THE BIG WORD EFFECT: IMPACT OF USING BIG WORDS ON BACKERS’ FUNDING BEHAVIOR IN CROWDFUNDING",
+        "authors": "Qiang Zhang,  , Yeyi Liu, Yuanyuan Liu, Dionysius Ang",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15444/gmc2023.02.01.01"
+    },
+    {
+        "id": 21862,
+        "title": "The MTego trap: a potential tool for monitoring malaria and arbovirus vectors",
+        "authors": "Masudi Suleiman Maasayi, Jane Johnson Machange, Dismas S. Kamande, Ummi Abdul Kibondo, Olukayode G. Odufuwa, Sarah Jane Moore, Mgeni Mohamed Tambwe",
+        "published": "2023-6-27",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nOdour-baited traps are useful for vector surveillance and control. However, most existing traps have shown inconsistent recapture rates across different mosquito species, necessitating the need for more effective and efficient traps. The MTego trap with integrated thermal stimuli has been developed as an alternative trap. This study was undertaken to determine and compare the efficacy of the MTego trap to that of the Biogents (BG) modular BG-Pro (BGP) trap for sampling different mosquito species in a semi-field system.\n\nMethods\nFully balanced Latin square design experiments (no-choice and dual choice) were conducted in semi-field chambers using laboratory-reared female Anopheles gambiae sensu stricto, Anopheles funestus, Anopheles arabiensis, Culex quinquefasciatus and Aedes aegypti. There were 16 replicates, and 50 mosquitoes of each species were released in each chamber per replicate. The evaluated traps were as follows: the MTego trap baited with PM6 (MT-PM6), the MTego trap baited with BG-Lure (BGL) (MT-BGL), and the BGP trap baited with BG-Lure (BGP-BGL).\n\nResults\nIn the no-choice test, the MT-BGL and BGP-BGL traps captured a similar proportion of An. gambiae (31% vs 29%, P-value = 0.519) and An. funestus (32% vs 33%, P = 0.520). The MT-PM6 and BGP-BGL traps showed no significant difference in capturing Ae. aegypti (33% vs 31%, P = 0.324). However, the BGP-BGL caught more An. arabiensis and Cx. quinquefasciatus mosquitoes than the other traps (P < 0.0001). In the dual-choice test of MT-PM6 vs BGP-BGL, similar proportions of An. funestus (25% vs 27%, P = 0.473) and Ae. aegypti (29% vs 25%, P = 0.264) were captured in the traps, while the BGP-BGL captured more An. gambiae, An. arabiensis and Cx. quinquefasciatus mosquitoes than the MT-PM6 (P < 0.0001).\n\nConclusions\nThis study demonstrated that the MTego trap has potential as a tool that can be used interchangeably with the BGP trap for sampling anthropophilic mosquitoes including African malaria vectors An. gambiae and An. funestus and the principal arbovirus vector Ae. aegypti.\n\nGraphical abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05835-9"
+    },
+    {
+        "id": 21863,
+        "title": "The trouble with maternal death narratives: Race, representation, and reproduction",
+        "authors": "Adeola Oni-Orisan",
+        "published": "2023-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/17441692.2023.2287578"
+    },
+    {
+        "id": 21864,
+        "title": "The Misrepresentation of American Sign Language and Deaf Culture in Mainstream Film Media: A Call for Inclusive Representation",
+        "authors": "",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32855/globalinsight.2024.001"
+    },
+    {
+        "id": 21865,
+        "title": "Correction: Global and local representation collaborative learning for few-shot learning",
+        "authors": "Jun Zhou, Qingling Cai",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10845-023-02101-8"
+    },
+    {
+        "id": 21866,
+        "title": "Representation of Traumatization In Morrison's Beloved from A Caruthian Perspective",
+        "authors": "Fatima Ghafoor, Muhammad Shakil Ur Rehman, Muhammad Ilyas Senior",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "The study analyzes traumatization as a process in Beloved (1987), written by an Afro-American writer, Toni Morrison,following Cathy Caruth’s (1996) trauma theory, which states that \"a shock that appears to work very much like a bodily threat is, in fact, a break in the mind's experience of time\" (Caruth 1996: 61). Traumatization can be used as a process in literature and is frequently and intricately linked to pain in ways one does not fully comprehend. This research study follows one of the types of textual analysis, i.e., the Content Qualitative Method introduced by Bernard Berelson (1952) in communication research, which demonstrates that ‘content analysis is a research technique for the objective, systematic, and quantitative description of clear content of the communication. It also analyzes the reactions of the victimized characters to the horrific incidents they encountered. As a result of being traumatized by slavery and murdering her own daughter, Sethe suffers the most visible split. It builds a bridge between the events in the narrative and the readers' imaginations to get to know the psychology of victims in an altered state of consciousness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31703/glr.2023(viii-ii).09"
+    },
+    {
+        "id": 21867,
+        "title": "Beyond the numbers on women’s representation: Recognition of women’s leadership in global governance",
+        "authors": "Hortense Jongen",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "AbstractTo what extent has the glass ceiling in global governance been shattered? To answer this question, we need to look beyond the numbers on women’s representation and study how far women are perceived as inspiring and visionary leaders in global governance. This article offers an analysis of perceptions of inspiring and visionary leadership in global multistakeholder initiatives from a gender perspective. Based on 467 interviews with participants in a leading multistakeholder initiative, the Internet Corporation for Assigned Names and Numbers (ICANN), it presents four findings: (1) respondents identify more men than women as inspiring and visionary leaders, with the difference roughly corresponding to the share of women in leadership roles; (2) respondents tend to ascribe more leadership attributes to women than to men when explaining why they find them inspiring and visionary; (3) both feminine and masculine leadership traits are appreciated in relation to both men and women leaders at ICANN; (4) female respondents identify more women as inspiring and visionary leaders than male respondents. These findings contribute novel insights into gendered perceptions around leadership and the importance of role models in global governance. They also shed much-needed light on the demands and expectations from leadership in global multistakeholder arrangements.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0260210523000542"
+    },
+    {
+        "id": 21868,
+        "title": "Who was the first to visualize the malaria parasite?",
+        "authors": "Emmanuel Drouin, Patrick Hautecoeur, Miles Markus",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "AbstractHuman malaria, an ancient tropical disease, is caused by infection with protozoan parasites belonging to the genus Plasmodium and is transmitted by female mosquitoes of the genus Anopheles. Our understanding of human malaria parasites began officially in 1880 with their discovery in the blood of malaria patients by Charles Louis Alphonse Lavéran (1845–1922), a French army officer working in Algeria. A claim for priority was made by Philipp Friedrich Hermann Klencke (1813–1881) in 1843, who wrote a chapter entitled: “Marvellous parallelism between the manifestations of vertigo and the presence of animalcule vacuoles in living blood.” We should not lose sight of this old controversy, which is rarely mentioned in historical reviews on malaria.\nGraphical Abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06145-4"
+    },
+    {
+        "id": 21869,
+        "title": "Studying negative evidence in Finnish language corpora",
+        "authors": "Alexandre Nikolaev, Neil Bermel",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " This study explores the relationship between lower-than-expected frequencies of word forms and inherent gaps in Finnish inflectional paradigms. The research aims to determine whether it is possible to predict paradigmatic gaps from lower-than-expected frequencies of word forms. We examined Finnish nouns inflected in a marginal case (the instructive) and hypothesized that some of these nouns may potentially have gaps in their inflectional paradigms. However, we found that such gaps are contingent and do not cause uncertainty when filled. We find that the correlation between inherent gaps and lower frequencies is one-directional: predicting inherent gaps from lower-than-expected frequencies is problematic. The results suggest that any paradigmatic gap suggested by corpus frequency is more likely to be contingent than inherent, and that the less semantic need there is for a particular word form, the more likely it will be unattested even in a large corpus. The research highlights the importance of considering semantic profiles when analyzing the grammaticality of word forms and suggests that statistical tests like Fisher’s exact are not necessarily the right approach to tackle the problem of negative evidence in corpus studies. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0229"
+    },
+    {
+        "id": 21870,
+        "title": "Learning Spatial-context-aware Global Visual Feature Representation for Instance Image Retrieval",
+        "authors": "Zhongyan Zhang, Lei Wang, Luping Zhou, Piotr Koniusz",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01033"
+    },
+    {
+        "id": 21871,
+        "title": "GR0: Self-Supervised Global Representation Learning for Zero-Shot Voice Conversion",
+        "authors": "Yunyun Wang, Jiaqi Su, Adam Finkelstein, Zeyu Jin",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448232"
+    },
+    {
+        "id": 21872,
+        "title": "Zoonotic parasites associated with predation by dogs and cats",
+        "authors": "Jairo Alfonso Mendoza Roldan, Domenico Otranto",
+        "published": "2023-2-6",
+        "citations": 22,
+        "abstract": "AbstractOne of the most common behaviors of cats that have an indoor/outdoor lifestyle is to bring hunted “gifts” to their owners, represented by small mammals, reptiles and birds. Access to the outdoors by dogs and cats may represent a problematic issue, since they may be at risk of diseases, traffic accidents and ingestion of toxins. Yet, the impact of this population of roaming dogs and cats predating wildlife is another concerning issue that receives less attention. Despite these risks, most owners still prefer to give outdoor access to their pets to allow them to express their “natural instincts,” such as hunting. Therefore, with a growing population of > 470 million dogs and 373 million cats worldwide, predation not only represents a threat to wildlife, but also a door of transmission for parasitic diseases, some of them of zoonotic concern. In this review, the role played by dogs, and especially cats, in the perpetuation of the biological life cycle of zoonotic parasites through the predation of rodents, reptiles and birds is discussed. Feral and domestics dogs and cats have contributed to the population collapse or extinction of > 63 species of reptiles, mammals and birds. Although the ecological impact of predation on wild populations is well documented, the zoonotic risk of transmission of parasitic diseases has not received significant attention. The parasitic diseases associated to predation vary from protozoan agents, such as toxoplasmosis, to cestodes like sparganosis and even nematodes such as toxocariasis. Raising awareness about predation as a risk of zoonotic parasitic infections in dogs and cats will aid to create responsible ownership and proper actions for controlling feral and free-roaming cat and dog populations worldwide.\nGraphical Abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05670-y"
+    },
+    {
+        "id": 21873,
+        "title": "THE WORD AS A SIGN-SYMBOL IN THE LINGUISTIC WORLDVIEW: TOWARDS THE QUESTION OF PANCHRONIC MECHANISMS OF SENSE-MAKING",
+        "authors": "Olha Vakhovska,  ",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30525/978-9934-26-354-5-24"
+    },
+    {
+        "id": 21874,
+        "title": "Robust Local-Global Feature Representation for Image Emotion Distribution Learning",
+        "authors": "Guanghua Li, Jianhua Liu, Juan Yang, Risheng Xu, Linbo Qing",
+        "published": "2023-5-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3604078.3604092"
+    },
+    {
+        "id": 21875,
+        "title": "Video representation learning for temporal action detection using global-local attention",
+        "authors": "Yiping Tang, Yang Zheng, Chen Wei, Kaitai Guo, Haihong Hu, Jimin Liang",
+        "published": "2023-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2022.109135"
+    },
+    {
+        "id": 21876,
+        "title": "Static-dynamic global graph representation for pedestrian trajectory prediction",
+        "authors": "Hao Zhou, Xu Yang, Mingyu Fan, Hai Huang, Dongchun Ren, Huaxia Xia",
+        "published": "2023-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110775"
+    },
+    {
+        "id": 21877,
+        "title": "Combining Global and Local Merges in Logic-based Entity Resolution",
+        "authors": "Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "In the recently proposed LACE framework for collective entity resolution, logical rules and constraints are used to identify pairs of entity references (e.g. author or paper ids) that denote the same entity. This identification is global: all occurrences of those entity references (possibly across multiple database tuples) are deemed equal and can be merged. By contrast, a local form of merge is often more natural when identifying pairs of data values, e.g. some occurrences of 'J. Smith' may be equated with 'Joe Smith', while others should merge with 'Jane Smith'. This motivates us to extend LACE with local merges of values and explore the computational properties of the resulting formalism.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/kr.2023/74"
+    },
+    {
+        "id": 21878,
+        "title": "Global optimisation matching method for multi-representation buildings constrained by road network",
+        "authors": "Guowei Luo, Kaixian Qin",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "Entity matching is one of the key technologies for geospatial data update and fusion. In response to the shortcomings of most spatial entity matching methods that use local optimisation strategies, a global optimisation matching method for multi-representation buildings using road network constraints is proposed. First, the road network is used for region segmentation to obtain candidate matches. Second, the spatial similarity among the candidate matching objects is calculated and the characteristic similarity weights are determined using the entropy weight method. Third, the matching of building entities is transformed into an allocation problem using integer programming ideas, and the Hungarian algorithm is solved to obtain the optimal matching combination with minimum global variance. Finally, two test areas are selected to validate the proposed method, and the precision, recall, and F-measure values of the experiments are 96.35%, 97.11%, and 96.73% versus 95.96%, 97.03%, and 96.49%, respectively. The matching accuracy is greatly improved compared with the local search strategy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jcm-226820"
+    },
+    {
+        "id": 21879,
+        "title": "The Politics of Youth Representation at Climate Change Conferences: Who Speaks, Who Is Spoken of, and Who Listens?",
+        "authors": "Jens Marquardt, Eva Lövbrand, Frida Buhre",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "Abstract\nIn this article, we examine how young climate activists make use of the United Nations (UN) constituency system to give voice to children and youth in global climate governance. Our study is based on a mapping of accredited youth nongovernmental organizations (YOUNGO) as well as fieldwork at two UN Climate Change Conferences, where we conducted interviews, observed events, and analyzed plenary interventions. Informed by constructivist accounts of political representation, the article pays attention to the performative relationship between institutionalized means of youth representation and “the represented.” When analyzing our material, we asked who speaks for youth, how youth are spoken of, and how institutions shape representative speech. Our study identifies three subject positions that offer competing interpretations of who youth are as a political community and what they want. Rather than taking youth’s demands and interests as a starting point for representative politics, the article illustrates how the UN constituency system actively constructs youth and effectively molds young climate activists into professional insiders.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/glep_a_00736"
+    },
+    {
+        "id": 21880,
+        "title": "Representation of women in the Association for Surgical Education leadership and annual meeting",
+        "authors": "Nicole E. Brooks, Varisha Essani, Sara Maskal, Jenny H. Chang, Oscar Hernandez Dominguez, Judith C. French, Jeremy M. Lipman",
+        "published": "2023-11-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s44186-023-00201-w"
+    },
+    {
+        "id": 21881,
+        "title": "A quantitative approach to doublets in Russian denominal adjective construction",
+        "authors": "Natalia Bobkova, Fabio Montermini",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": " This article is devoted to the rivalry between suffixes in the derivation of denominal adjectives in Russian. In particular, it proposes a large-scale quantitative analysis based on the Russian National Corpus. Its main goal is to contribute to identifying the properties that determine the choice of the suffix in these derivatives. Denominal adjectival derivation in Russian makes use of a wide variety of exponents. Most of them are phonological variants (extensions) of three main suffixes, - n-, - sk- and - Ov-. These three, which can be considered as basic, constitute the focus of our analysis. Two datasets were built for this research, a general one containing one of the suffixes above, and a more specific one containing doublets, which is to say, adjectives constructed on the same base with different suffixes. Data from the two sets are analyzed by means of various statistical models. Our results globally provide a quantitatively robust confirmation of observations previously made in the literature. In particular, we show that -n- occupies a specific position in the derivational system of Russian, as it is less productive and its derivatives are tendentially less transparent and more prone to display lexicalized meanings that point towards the qualitative pole of the qualitative-relational semantic spectrum. Moreover, - sk- and - Ov- are more likely to form doublets (be attached to the same bases), a further argument in favor of a greater homogeneity between them as opposed to - n-. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0221"
+    },
+    {
+        "id": 21882,
+        "title": "First molecular evidence of potential Culicoides vectors implicated in bluetongue virus transmission in Morocco",
+        "authors": "Soukaina Daif, Ikhlass El Berbri, Ouafaa Fassi Fihri",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nBluetongue is a non-contagious viral disease that affects both domestic and wild ruminants. It is transmitted primarily by small hematophagous Diptera belonging to the genus Culicoides (Diptera: Ceratopogonidae). The current study represents the first molecular investigation into the potential role of Culicoides imicola, Culicoides paolae, Culicoides newsteadi, Culicoides spp., and Culicoides circumscriptus as bluetongue virus (BTV) vectors in Morocco. Additionally, the study aimed to evaluate the vectorial activity of midges during the survey seasons.\n\nMethods\nParous females of these species were captured from several regions of Morocco (6 out of 12) from 2018 to 2021 using Onderstepoort Veterinary Institute (OVI) traps. A total of 2003 parous female specimens were grouped into 55 batches. The midge body of each batch was dissected into three regions (head, thorax, and abdomen), and these regions were analyzed separately using reverse transcription quantitative polymerase chain reaction (RT-qPCR).\n\nResults\nBTV RNA was detected in 45 out of the 55 batches tested, indicating a positivity rate of 81.8%. The RT-qPCR-positive pools of the studied Culicoides species exhibited high levels of BTV positivity in each body part (head, thorax, and abdomen), confirming the successful replication of the virus within midge bodies. The BTV circulation was substantial across all three survey seasons (spring, summer, and autumn). High infection rates, calculated using the minimum infection rate (MIR) and maximum likelihood estimation (MLE), were observed during the collection seasons, particularly in autumn and spring, and for all investigated Culicoides species, most notably for C. imicola and C. newsteadi. These increased infection rates underscore the significant risk of Culicoides transmitting the BTV in Morocco.\n\nConclusions\nThe detection of BTV positivity in Culicoides spp. (lacking wing spots that allow their differentiation according to morphological identification keys) suggested that other Culicoides species are competent for BTV transmission in Morocco. The study results indicated, for the first time at the molecular level, that C. imicola and C. newsteadi are the primary potential vectors of BTV in Morocco and that C. paolae and C. circumscriptus are strongly implicated in the propagation of bluetongue at the national level.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-024-06167-y"
+    },
+    {
+        "id": 21883,
+        "title": "Occurrence of Thelazia callipaeda and its vector Phortica variegata in Austria and South Tyrol, Italy, and a global comparison by phylogenetic network analysis",
+        "authors": "Maria Sophia Unterköfler, Patrick Dengg, Miriam Niederbacher, Sarah Lindorfer, Antonia Eberle, Alexandra Huck, Katalina Staufer, Carina Zittra, Licha Natalia Wortha, Adnan Hodžić, Georg Gerhard Duscher, Josef Harl, Gerhard Schlüsslmayr, Marcos Antonio Bezerra-Santos, Domenico Otranto, Katja Silbermayr, Hans-Peter Fuehrer",
+        "published": "2023-8-24",
+        "citations": 0,
+        "abstract": "AbstractThe zoonotic nematode Thelazia callipaeda infects the eyes of domestic and wild animals and uses canids as primary hosts. It was originally described in Asia, but in the last 20 years it has been reported in many European countries, where it is mainly transmitted by the drosophilid fruit fly Phortica variegata. We report the autochthonous occurrence of T. callipaeda and its vector P. variegata in Austria. Nematodes were collected from clinical cases and fruit flies were caught using traps, netting, and from the conjunctival sac of one dog. Fruit flies and nematodes were morphologically identified and a section of the mitochondrial cytochrome c oxidase subunit I gene (COI) was analysed. A DNA haplotype network was calculated to visualize the relation of the obtained COI sequences to published sequences. Additionally, Phortica spp. were screened for the presence of DNA of T. callipaeda by polymerase chain reaction. Thelazia callipaeda and P. variegata were identified in Burgenland, Lower Austria, and Styria. Thelazia callipaeda was also documented in Vienna and P. variegata in Upper Austria and South Tyrol, Italy. All T. callipaeda corresponded to haplotype 1. Twenty-two different haplotypes of P. variegata were identified in the fruit flies. One sequence was distinctly different from those of Phortica variegata and was more closely related to those of Phortica chi and Phortica okadai. Thelazia callipaeda could not be detected in any of the Phortica specimens.\nGraphical Abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05913-y"
+    },
+    {
+        "id": 21884,
+        "title": "Ontological Representation of Medical Decision Support System using Machine Learning Classifiers",
+        "authors": "N L Taranath, Lokesh Singh, Deepti Sisodia, A Geetha, B P Aniruddha Prabhu",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353361"
+    },
+    {
+        "id": 21885,
+        "title": "Global conformance checking measures using shallow representation and deep learning",
+        "authors": "Jari Peeperkorn, Seppe vanden Broucke, Jochen De Weerdt",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106393"
+    },
+    {
+        "id": 21886,
+        "title": "Realised overabundance in Estonian noun paradigms: A corpus study",
+        "authors": "Mari Aigro, Virve-Anneli Vihman",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " In this paper we investigate the use of parallel forms, or morphological overabundance, in Estonian nouns, which are richly inflected in fourteen cases and two numbers. The complexity of the nominal inflection system derives from the multiplicity of declension classes, which allow for the availability of parallel forms in many morphological paradigm cells. Whereas previous studies of overabundance in nominal inflection have focussed on available overabundance in particular cells, this study focuses on the actual usage of overabundant forms, or ‘realised overabundance’, taking as a starting point those lexemes which are attested with two parallel forms in the corpus. Following the criteria proposed by Thornton (2019) , we investigate the canonicity of realised overabundance in Estonian, in terms of its extent across both lexemes and cells. In addition, frequency ratios of alternate variants and conditions on their usage are investigated by comparing lexemes in the most overabundant cells. Finally, we tackle the connections between morphological overabundance and syntactic argumenthood, exploring the hypothesis that parallel forms serve distinct functions. We find no contextual preference in terms of which of the two forms is used. In general, we find realised overabundance to be restricted and more canonical than potential overabundance. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0227"
+    },
+    {
+        "id": 21887,
+        "title": "The Poetics of Borders and Identity: Representation of Culture and Transcultural in The Shadow Lines",
+        "authors": "Rana Abdul Munim Khan, Mazhar Hayat",
+        "published": "2023-3-30",
+        "citations": 0,
+        "abstract": "The formation of an individual's identity is marked by a singular integration of borders and cultures. The phenomenon of transculturalism has contributed to an increase in the breadth of debate over the nature of the connection between the two. This analysis aims to analyze the novel The Shadow Lines by Amitave Ghosh from the viewpoints of boundaries, transculturalism, and the building of identities. It will be claimed that boundaries in this context imply both possibilities and restrictions, a point that is fully reflected upon in the contrasting viewpoints of nationalism and transculturalism. Epstein’s transcultural vision of \"crossroads of civilizations,\" will provide the framework to debate interlinks of border and possibilities of being transcultural in a rigidly nationalist context.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31703/glr.2023(viii-i).07"
+    },
+    {
+        "id": 21888,
+        "title": "Learning to Distill Global Representation for Sparse-View CT",
+        "authors": "Zilong Li, Chenglong Ma, Jie Chen, Junping Zhang, Hongming Shan",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01938"
+    },
+    {
+        "id": 21889,
+        "title": "Representation of Race and Ethnicity in Mainstream Advertising: A Critical Analysis of Racial Stereotypes in Global Advertising Campaigns",
+        "authors": "Emmett Rona",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "This discussion examines the impact of racial stereotypes in advertising, focusing on the psychological effects on marginalized communities and the reinforcement of racial biases and discrimination. Racial stereotypes in advertising can have detrimental psychological effects on individuals, leading to feelings of invisibility, self-doubt, and low self-esteem. It can also reinforce internalized racism and create a sense of otherness or alienation. Furthermore, these stereotypes can perpetuate existing racial biases and contribute to discrimination in various domains of life, hindering progress towards equality and social justice. Advertisers have a responsibility to challenge and dismantle these stereotypes, promoting inclusive representations and actively working towards a more equitable society.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56397/jlcs.2023.12.05"
+    },
+    {
+        "id": 21890,
+        "title": "The representation of apartheid system of government in Athol Fugard’s Sizwe Bansi Is Death",
+        "authors": "Idriss Garba Musa, Adama Umar Kachallah",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "The research assessed “The Representation Apartheid System of Government in Athol Fugard’s Sizwe Bansi is Death”. The research employed Post-Colonial Theory for the study’s framework analysis and utilized qualitative method of data collections through Content-Analysis that make use of the play Sizwe Bansi is Dead couple with the adoption of textual technique process to dissect the play. Other sources of knowledge such as published books, journals and online materials were utilized as secondary data. The study adopted Purposive Sampling method to focus on the play while a thematic method was used to analyze information studied. The study found that the author Athol Fugard make use of multiple dramatic methods that include flashback technique, separation effect method, method of story-within-a-story, minor sets and props technique that were all compressed by utilizing small cast hence cost effective. The research therefore conclude that the play Sizwe Bansi is Death as authored by Athol Fugard is a political protest best applied through theatre and art ignoring violence as means to achieve political change in African environment. The play is considered a success as it has spread the message all over the world. To this effect, the study recommend that contemporary African writers should endeavor to adopt and utilize theatre art effectively as an avenue of exposing government policies that encourages racial segregation, ethno-religious discrimination that engender disharmony and disaccord among multi-ethnic and racial settings in Africa and Nigeria alike.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58934/jgss.v4i16.216"
+    },
+    {
+        "id": 21891,
+        "title": "Representation of Historical Events and Realities in the Space of Virtualized Global Strategy Game Universes",
+        "authors": "V. M. Ovchinnikov",
+        "published": "2023-9-29",
+        "citations": 0,
+        "abstract": "The article explores the possibilities and prospects of using an audio visualized (multimedia) text, which, according to the author, is the phenomenon of a computer game (in particular, the genre of global strategy) to represent the historical process in the form of its simulation. The study aims to identify the possibilities and limitations of demonstrating elements of world-system analysis in the space of the game universe of global historical strategies. The goals are: 1) to analyze key aspects of virtualized game simulation in the form of global strategy; 2) to systematize characteristic features of the combination of scientific and subjective factors in game simulation; 3) to identify the influence of the cultural factor on creating virtual worlds in games; 4) to conduct case-studies considering games through the prism of the theoretical framework of game simulation. The study employs the historical-genetic method and discourse analysis. Axiological and anthropological approaches are used to find sociocultural specificities of game simulations by investigating their value orientations and practices in the game and in the community of gamers. The study specifies features of variable modelling on the example of game universes of Civilization, Crusader Kings, Europa Universalis etc. The results of the study include the analysis of 1) history reconstruction in global game strategies from the point of view of philosophy of culture; 2) game mechanics reflecting their creators’ and gamers’ personal features; 3) creating cultural landscape in global simulation games. The author suggests that modern global strategies is not only a kind of virtual entertainment and cybertext, but also a means of reliving the historical narrative when mass consciousness can explore alternative history. This approach makes way for spreading historical knowledge via historical simulation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24833/2541-8831-2023-3-27-7-25"
+    },
+    {
+        "id": 21892,
+        "title": "Microorganisms associated with hedgehog arthropods",
+        "authors": "Linda Benkacimi, Adama Zan Diarra, Jean-Michel Bompar, Jean-Michel Bérenger, Philippe Parola",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "AbstractHedgehogs are small synanthropic mammals that live in rural areas as well as in urban and suburban areas. They can be reservoirs of several microorganisms, including certain pathogenic agents that cause human and animal public health issues. Hedgehogs are often parasitized by blood-sucking arthropods, mainly hard ticks and fleas, which in turn can also carry various vector-born microorganisms of zoonotic importance. Many biotic factors, such as urbanization and agricultural mechanization, have resulted in the destruction of the hedgehog’s natural habitats, leading these animals to take refuge near human dwellings, seeking food and shelter in parks and gardens and exposing humans to zoonotic agents that can be transmitted either directly by them or indirectly by their ectoparasites. In this review, we focus on the microorganisms detected in arthropods sampled from hedgehogs worldwide. Several microorganisms have been reported in ticks collected from these animals, including various Borrelia spp., Anaplasma spp., Ehrlichia spp., and Rickettsia spp. species as well as Coxiella burnetii and Leptospira spp. As for fleas, C. burnetii, Rickettsia spp., Wolbachia spp., Mycobacterium spp. and various Bartonella species have been reported. The detection of these microorganisms in arthropods does not necessarily mean that they can be transmitted to humans and animals. While the vector capacity and competence of fleas and ticks for some of these microorganisms has been proven, in other cases the microorganisms may have simply been ingested with blood taken from an infected host. Further investigations are needed to clarify this issue. As hedgehogs are protected animals, handling them is highly regulated, making it difficult to conduct epidemiological studies on them. Their ectoparasites represent a very interesting source of information on microorganisms circulating in populations of these animals, especially vector-born ones.\nGraphical abstract",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05764-7"
+    },
+    {
+        "id": 21893,
+        "title": "THE ROLE OF THE ELECTRONIC WORD OF MOUTH MEDIATES THE INFLUENCE OF BRAND IMAGE AND BRAND TRUST ON PURCHASE DECISIONS",
+        "authors": "Ni Putu Pista Yanthi, Anik Yuesti, I Ketut Setia Sapta",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56805/grrbe.24.10.1.04"
+    },
+    {
+        "id": 21894,
+        "title": "Transformer-based global–local feature learning model for occluded person re-identification",
+        "authors": "Guoqing Zhang, Chao Chen, Yuhao Chen, Hongwei Zhang, Yuhui Zheng",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jvcir.2023.103898"
+    },
+    {
+        "id": 21895,
+        "title": "SPARSE REPRESENTATION TECHNIQUES FOR MULTIVARIATE EXTREMES: ANOMALY DETECTION APPLICATIONS",
+        "authors": "Nicolas Clémençon,  , Stephan Sabourin,  ",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "This study explores sparse representation techniques tailored for multivariate extremes and their application in anomaly detection. Multivariate extremes, characterized by rare events occurring jointly across multiple dimensions, pose significant challenges for traditional anomaly detection methods. Sparse representation approaches offer a promising solution by identifying a parsimonious set of extreme features that capture the most salient aspects of multivariate outliers. Leveraging techniques such as sparse coding, dictionary learning, and compressed sensing, sparse representation methods enable efficient representation and detection of anomalies in high-dimensional datasets. This paper reviews recent advances in sparse representation techniques for multivariate extremes and discusses their practical applications in anomaly detection across various domains, including finance, cybersecurity, and environmental monitoring.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55640/gmj-abc112"
+    },
+    {
+        "id": 21896,
+        "title": "Global-Local Influence Maximization Subgraph Sampling-Based Graph Representation Learning for Innate Immune Response Classification",
+        "authors": "Mallikharjuna Rao Sakhamuri, Shagufta Henna, Leo Creedon, Kevin Meehan",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aics60730.2023.10470895"
+    },
+    {
+        "id": 21897,
+        "title": "A PIE Representation of Scalar Quadratic PDEs and Global Stability Analysis Using SDP",
+        "authors": "Declan Jagt, Peter Seiler, Matthew Peet",
+        "published": "2023-12-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10384073"
+    },
+    {
+        "id": 21898,
+        "title": "Cross-Domain Facial Expression Recognition through Reliable Global–Local Representation Learning and Dynamic Label Weighting",
+        "authors": "Yuefang Gao, Yiteng Cai, Xuanming Bi, Bizheng Li, Shunpeng Li, Weiping Zheng",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "Cross-Domain Facial Expression Recognition (CD-FER) aims to develop a facial expression recognition model that can be trained in one domain and deliver consistent performance in another. CD-FER poses a significant challenges due to changes in marginal and class distributions between source and target domains. Existing methods primarily emphasize achieving domain-invariant features through global feature adaptation, often neglecting the potential benefits of transferable local features across different domains. To address this issue, we propose a novel framework for CD-FER that combines reliable global–local representation learning and dynamic label weighting. Our framework incorporates two key modules: the Pseudo-Complementary Label Generation (PCLG) module, which leverages pseudo-labels and complementary labels obtained using a credibility threshold to learn domain-invariant global and local features, and the Label Dynamic Weight Matching (LDWM) module, which assesses the learning difficulty of each category and adaptively assigns corresponding label weights, thereby enhancing the classification performance in the target domain. We evaluate our approach through extensive experiments and analyses on multiple public datasets, including RAF-DB, FER2013, CK+, JAFFE, SFW2.0, and ExpW. The experimental results demonstrate that our proposed model outperforms state-of-the-art methods, with an average accuracy improvement of 3.5% across the five datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12214553"
+    },
+    {
+        "id": 21899,
+        "title": "SAR Image Target Recognition Method by Global and Local Dictionary Sparse Representation",
+        "authors": "Hongliang Han, Wei Lu, Fan Feng",
+        "published": "2023-12-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/08839514.2023.2189674"
+    },
+    {
+        "id": 21900,
+        "title": "Uncertainty in the production of Czech noun and verb forms",
+        "authors": "Neil Bermel, Luděk Knittl, Alexandre Nikolaev",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " We examine the reactions of Czech native speakers to cues asking them to supply inflectional forms of nouns and verbs that are either canonical (non-variant), overabundant, or supposedly defective, to see what distinguishing characteristics these three conditions have for production. We find that respondents handle defective material differently from other conditions, producing different sorts of forms at different frequencies, and taking significantly longer to do so. Overabundant cells pattern at the individual level like canonical inflectional cells, but collectively display a significantly more varied and less focused spread of forms produced than our canonical cells. The individual dimension of uncertainty in production is thus limited to defective cells, but the collective dimension of uncertainty is evident between all three conditions. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3366/word.2023.0231"
+    },
+    {
+        "id": 21901,
+        "title": "From word clouds to Word Rain: Revisiting the classic word cloud to visualize climate change texts",
+        "authors": "Maria Skeppstedt, Magnus Ahltorp, Kostiantyn Kucher, Matts Lindström",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": " Word Rain is a development of the classic word cloud. It addresses some of the limitations of word clouds, in particular the lack of a semantically motivated positioning of the words, and the use of font size as a sole indicator of word prominence. Word Rain uses the semantic information encoded in a distributional semantics-based language model – reduced into one dimension – to position the words along the x-axis. Thereby, the horizontal positioning of the words reflects semantic similarity. Font size is still used to signal word prominence, but this signal is supplemented with a bar chart, as well as with the position of the words on the y-axis. We exemplify the use of Word Rain by three concrete visualization tasks, applied on different real-world texts and document collections on climate change. In these case studies, word2vec models, reduced to one dimension with t-SNE, are used to encode semantic similarity, and TF-IDF is used for measuring word prominence. We evaluate the technique further by carrying out domain expert reviews. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14738716241236188"
+    },
+    {
+        "id": 21902,
+        "title": "The interplay between malaria vectors and human activity accounts for high residual malaria transmission in a Burkina Faso village with universal ITN coverage",
+        "authors": "Eleonora Perugini, Wamdaogo M. Guelbeogo, Federica Guglielmo, Cristiana Poggi, Eugenio Gabrieli, Hilary Ranson, Alessandra della Torre, Marco Pombi",
+        "published": "2023-3-15",
+        "citations": 3,
+        "abstract": "Abstract\nBackground\nMosquito and human behaviour interaction is a key determinant of the maximum level of protection against malaria that can be provided by insecticide-treated nets (ITNs). Nevertheless, scant literature focuses on this interaction, overlooking a fundamental factor for efficient malaria control. This study aims to estimate malaria transmission risk in a Burkina Faso village by integrating vector biting rhythms with some key information about human habits.\n\nMethods\nIndoor/outdoor human landing catches were conducted for 16 h (16:00–08:00) during 8 nights (September 2020) in Goden village. A survey about net usage and sleeping patterns was submitted to half the households (October–December 2020). A subsample of collected specimens of Anopheles gambiae sensu lato was molecularly processed for species identification, Plasmodium detection from heads-thoraxes and L1014F pyrethroid-resistance allele genotyping. Hourly mosquito abundance was statistically assessed by GLM/GAM, and the entomological inoculation rate (EIR) was corrected for the actual ITN usage retrieved from the questionnaire.\n\nResults\nMalaria transmission was mainly driven by Anopheles coluzzii (68.7%) followed by A. arabiensis (26.2%). The overall sporozoite rate was 2% with L1014F estimated frequency of 0.68 (N = 1070 out of 15,201 A. gambiae s.l. collected). No major shift in mosquito biting rhythms in response to ITN or differences between indoor and outdoor catches were detected. Impressive high biting pressure (mean 30.3 mosquitoes/person/hour) was exerted from 20:00 to 06:00 with a peak at 4:00. Human survey revealed that nearly all inhabitants were awake before 20:00 and after 7:00 and at least 8.7% had no access to bednets. Adjusting for anthropological data, the EIR dropped from 6.7 to 1.2 infective bites/person/16 h. In a scenario of full net coverage and accounting only for the human sleeping patterns, the daily malaria transmission risk not targetable by ITNs was 0.69 infective bites.\n\nConclusions\nThe high mosquito densities and interplay between human/vector activities means that an estimated 10% of residual malaria transmission cannot be prevented by ITNs in the village. Locally tailored studies, like the current one, are essential to explore the heterogeneity of human exposure to infective bites and, consequently, to instruct the adoption of new vector control tools strengthening individual and community protection.\n\nGraphical Abstract\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13071-023-05710-7"
+    },
+    {
+        "id": 21903,
+        "title": "What’s Fair",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10483950221150052g"
+    },
+    {
+        "id": 21904,
+        "title": "Local and global character representation enhanced model for Chinese medical named entity recognition",
+        "authors": "Yan Xiang, Wei Liu, Junjun Guo, Li Zhang",
+        "published": "2023-8-24",
+        "citations": 0,
+        "abstract": "Chinese medical named entity recognition (CMNER) aims to extract entities from Chinese unstructured medical texts. Existing character-based NER models do not comprehensively consider character’s characteristics from different perspectives, which limits their performance in applying to CMNER. In this paper, we propose a local and global character representation enhanced model for CMNER. For the input sentence, the model fuses the spacial and sequential character representation using autoencoder to get the local character representation; extracts the global character representation according to the corresponding domain words; integrates the local and global representation through gating mechanism to obtain the enhanced character representation, which has better ability to perceive medical entities. Finally, the model sent the enhanced character representation to the Bi-LSTM and CRF layers for context encoding and tags decoding respectively. The experimental results demonstrate that our model achieves a significant improvement over the best baseline, increasing the F1 values by 1.04% and 0.62% on the IMCS21 and CMeEE datasets, respectively. In addition, we verify the effectiveness of each component of our model by ablation experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-231554"
+    }
+]

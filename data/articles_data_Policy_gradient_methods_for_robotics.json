@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 12905,
+        "title": "Causal Policy Gradient for Whole-Body Mobile Manipulation",
+        "authors": "Jiaheng Hu, Peter Stone, Roberto Mart�n-Mart�n",
+        "published": "2023-7-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.049"
+    },
+    {
+        "id": 12906,
+        "title": "Development of a Deep Deterministic Policy Gradient (DDPG) Algorithm for Suturing Task Automation",
+        "authors": "Antonella Imperato, Marco Caianiello, Fanny Ficuciello",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406967"
+    },
+    {
+        "id": 12907,
+        "title": "Training Efficient Controllers via Analytic Policy Gradient",
+        "authors": "Nina Wiedemann, Valentin Wüest, Antonio Loquercio, Matthias Müller, Dario Floreano, Davide Scaramuzza",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160581"
+    },
+    {
+        "id": 12908,
+        "title": "On the Convergence of Natural Policy Gradient and Mirror Descent-Like Policy Methods for Average-Reward MDPs",
+        "authors": "Yashaswini Murthy, R. Srikant",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383691"
+    },
+    {
+        "id": 12909,
+        "title": "Local Analysis of Entropy-Regularized Stochastic Soft-Max Policy Gradient Methods",
+        "authors": "Yuhao Ding, Junzi Zhang, Javad Lavaei",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ecc57647.2023.10178123"
+    },
+    {
+        "id": 12910,
+        "title": "Global Optimality Guarantees for Policy Gradient Methods",
+        "authors": "Jalaj Bhandari, Daniel Russo",
+        "published": "2024-1-5",
+        "citations": 3,
+        "abstract": " Policy gradient methods, which have powered a lot of recent success in reinforcement learning, search for an optimal policy in a parameterized policy class by performing stochastic gradient descent on the cumulative expected cost-to-go under some initial state distribution. Although widely used, these methods lack theoretical guarantees as the optimization objective is typically nonconvex even for simple control problems, and hence are understood to only converge to a stationary point. In “Global Optimality Guarantees for Policy Gradient Methods,” J. Bhandari and D. Russo identify structural properties of the underlying MDP that guarantee that despite nonconvexity, the optimization objective has no suboptimal stationary points, ensuring asymptotic convergence of policy gradient methods to globally optimal policies. Under stronger conditions, authors show the policy gradient objective to satisfy a Polyak-lojasiewicz (gradient dominance) condition that yields fast convergence rates. In addition, when some of the said conditions are relaxed, authors provide bounds on the suboptimality gap of any stationary point. The results rely on a key connection with policy iteration, a classic dynamic programming algorithm which solves a single period optimization problem at every step. The authors show how structure in the single period optimization problems solved by policy iteration translate into nice properties of the multiperiod policy gradient objective, making it amenable for first-order methods to find globally optimal solutions. The authors also instantiate their framework for several classical control problems including tabular and linear MDPs, linear quadratic control, optimal stopping, and finite-horizon inventor control problems. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.0014"
+    },
+    {
+        "id": 12911,
+        "title": "Learning General Policies with Policy Gradient Methods",
+        "authors": "Simon Ståhlberg, Blai Bonet, Hector Geffner",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "While reinforcement learning methods have delivered remarkable results in a number of settings, generalization, i.e., the ability to produce policies that generalize in a reliable and systematic way, has remained a challenge. The problem of generalization has been addressed formally in classical planning where provable correct policies that generalize over all instances of a given domain have been learned using combinatorial methods. The aim of this work is to bring these two research threads together to illuminate the conditions under which (deep) reinforcement learning approaches, and in particular, policy optimization methods, can be used to learn policies that generalize like combinatorial methods do. We draw on lessons learned from previous combinatorial and deep learning approaches, and extend them in a convenient way. From the former, we model policies as state transition classifiers, as (ground) actions are not general and change from instance to instance. From the latter, we use graph neural networks (GNNs) adapted to deal with relational structures for representing value functions over planning states, and in our case, policies. With these ingredients in place, we find that actor-critic methods can be used to learn policies that generalize almost as well as those obtained using combinatorial approaches while avoiding the scalability bottleneck and the use of feature pools. Moreover, the limitations of the DRL methods on the benchmarks considered have little to do with deep learning or reinforcement learning algorithms, and result from the well-understood expressive limitations of GNNs, and the tradeoff between optimality and generalization (general policies cannot be optimal in some domains). Both of these limitations are addressed without changing the basic DRL methods by adding derived predicates and an alternative cost structure to optimize.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/kr.2023/63"
+    },
+    {
+        "id": 12912,
+        "title": "Matrix Low-Rank Approximation for Policy Gradient Methods",
+        "authors": "Sergio Rozada, Antonio G. Marques",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094802"
+    },
+    {
+        "id": 12913,
+        "title": "Cross-Entropy Regularized Policy Gradient for Multirobot Nonadversarial Moving Target Search",
+        "authors": "Hongliang Guo, Zhaokai Liu, Rui Shi, Wei-Yun Yau, Daniela Rus",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tro.2023.3263459"
+    },
+    {
+        "id": 12914,
+        "title": "Approximation Benefits of Policy Gradient Methods with Aggregated States",
+        "authors": "Daniel Russo",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": " Folklore suggests that policy gradient can be more robust to misspecification than its relative, approximate policy iteration. This paper studies the case of state-aggregated representations, in which the state space is partitioned and either the policy or value function approximation is held constant over partitions. This paper shows a policy gradient method converges to a policy whose regret per period is bounded by ϵ, the largest difference between two elements of the state-action value function belonging to a common partition. With the same representation, both approximate policy iteration and approximate value iteration can produce policies whose per-period regret scales as [Formula: see text], where γ is a discount factor. Faced with inherent approximation error, methods that locally optimize the true decision objective can be far more robust.  This paper was accepted by Hamid Nazerzadeh, data science.  Supplemental Material: Data are available at https://doi.org/10.1287/mnsc.2023.4788 . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/mnsc.2023.4788"
+    },
+    {
+        "id": 12915,
+        "title": "Bayesian sequential optimal experimental design for nonlinear models using policy gradient reinforcement learning",
+        "authors": "Wanggang Shen, Xun Huan",
+        "published": "2023-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116304"
+    },
+    {
+        "id": 12916,
+        "title": "Policy Gradient Learning Methods for Stochastic Control with Exit Time and Applications to Share Repurchase Pricing",
+        "authors": "Mohamed Hamdouche, Pierre Henry-Labordere, Huyen Pham",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4358537"
+    },
+    {
+        "id": 12917,
+        "title": "Deep reinforcement learning for PMSG wind turbine control via twin delayed deep deterministic policy gradient (TD3)",
+        "authors": "Darkhan Zholtayev, Matteo Rubagotti, Ton Duc Do",
+        "published": "2024-4-7",
+        "citations": 0,
+        "abstract": "AbstractThis article proposes the use of a deep reinforcement learning method—and precisely a variant of the deep deterministic policy gradient (DDPG) method known as twin delayed DDPG, or TD3—for maximum power point tracking in wind energy conversion systems that use permanent magnet synchronous generators (PMSGs). An overview of the TD3 algorithm is provided, together with a detailed description of its implementation and training for the considered application. Simulation results are provided, also including a comparison with a model‐based control method based on feedback linearization and linear‐quadratic regulation. The proposed TD3‐based controller achieves a satisfactory control performance and is more robust to PMSG parameter variations as compared to the presented model‐based method. To the best of the authors' knowledge, this article presents for the first time an approach for generating both speed and current control loops using DRL for wind energy conversion systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/oca.3129"
+    },
+    {
+        "id": 12918,
+        "title": "Policy gradient methods for discrete time linear quadratic regulator with random parameters",
+        "authors": "Deyue Li",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "This paper studies an infinite horizon optimal control problem for discrete-time linear system and quadratic criteria, both with random parameters which are independent and identically distributed with respect to time. In this general setting, we apply the policy gradient method, a reinforcement learning technique, to search for the optimal control without requiring knowledge of statistical information of the parameters. We investigate the sub-Gaussianity of the state process and establish global linear convergence guarantee for this approach based on assumptions that are weaker and easier to verify compared to existing results. Numerical experiments are presented to illustrate our result.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/cocv/2024014"
+    },
+    {
+        "id": 12919,
+        "title": "Globally Convergent Policy Gradient Methods for Linear Quadratic Control of Partially Observed Systems",
+        "authors": "Feiran Zhao, Xingyun Fu, Keyou You",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.208"
+    },
+    {
+        "id": 12920,
+        "title": "Convergence of Policy Gradient Methods for Finite-Horizon Exploratory Linear-Quadratic Control Problems",
+        "authors": "Michael Giegrich, Christoph Reisinger, Yufei Zhang",
+        "published": "2024-4-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/22m1533517"
+    },
+    {
+        "id": 12921,
+        "title": "The Reinforce Policy Gradient Algorithm Revisited",
+        "authors": "Shalabh Bhatnagar",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc61519.2023.10442123"
+    },
+    {
+        "id": 12922,
+        "title": "Review on lane detection and related methods",
+        "authors": "Weiyu Hao",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cogr.2023.05.004"
+    },
+    {
+        "id": 12923,
+        "title": "GWM-view: Gradient-weighted multi-view calibration method for machining robot positioning",
+        "authors": "Hongdi Liu, Jiahao Fu, Minqi He, Lin Hua, Dahu Zhu",
+        "published": "2023-10",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.rcim.2023.102560"
+    },
+    {
+        "id": 12924,
+        "title": "Convergence of Policy Gradient Methods for Nash Equilibria in General-sum Stochastic Games",
+        "authors": "Yan Chen, Tao Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.1494"
+    },
+    {
+        "id": 12925,
+        "title": "GRM: Gradient Rectification Module for Visual Place Retrieval",
+        "authors": "Boshu Lei, Wenjie Ding, Limeng Qiao, Xi Qiu",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160994"
+    },
+    {
+        "id": 12926,
+        "title": "Autonomous pricing using policy gradient reinforcement learning",
+        "authors": "Kevin Michael Frick",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4527452"
+    },
+    {
+        "id": 12927,
+        "title": "Extremum seeking control for the trajectory tracking of a skid steering vehicle via averaged sub-gradient integral sliding-mode theory",
+        "authors": "A. Hernandez Sanchez, A. Poznyak, I. Chairez",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104609"
+    },
+    {
+        "id": 12928,
+        "title": "Accelerated gradient methods with absolute and relative noise in the gradient",
+        "authors": "Artem Vasin, Alexander Gasnikov, Pavel Dvurechensky, Vladimir Spokoiny",
+        "published": "2023-11-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2212503"
+    },
+    {
+        "id": 12929,
+        "title": "Constraint-Aware Policy for Compliant Manipulation",
+        "authors": "Daichi Saito, Kazuhiro Sasabuchi, Naoki Wake, Atsushi Kanehira, Jun Takamatsu, Hideki Koike, Katsushi Ikeuchi",
+        "published": "2023-12-27",
+        "citations": 0,
+        "abstract": "Robot manipulation in a physically constrained environment requires compliant manipulation. Compliant manipulation is a manipulation skill to adjust hand motion based on the force imposed by the environment. Recently, reinforcement learning (RL) has been applied to solve household operations involving compliant manipulation. However, previous RL methods have primarily focused on designing a policy for a specific operation that limits their applicability and requires separate training for every new operation. We propose a constraint-aware policy that is applicable to various unseen manipulations by grouping several manipulations together based on the type of physical constraint involved. The type of physical constraint determines the characteristic of the imposed force direction; thus, a generalized policy is trained in the environment and reward designed on the basis of this characteristic. This paper focuses on two types of physical constraints: prismatic and revolute joints. Experiments demonstrated that the same policy could successfully execute various compliant manipulation operations, both in the simulation and reality. We believe this study is the first step toward realizing a generalized household robot.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010008"
+    },
+    {
+        "id": 12930,
+        "title": "A comparison of gradient-free and gradient-enhanced optimization methods for the robust design of a compressor rotor",
+        "authors": "Marcus Meyer, Robin Schmidt",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-0115"
+    },
+    {
+        "id": 12931,
+        "title": "Gradient Clipping in Deep Learning: A Dynamical Systems Perspective",
+        "authors": "Arunselvan Ramaswamy",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011678000003411"
+    },
+    {
+        "id": 12932,
+        "title": "Factors Influencing Fractional-Order Dynamics in Large, Scale-Free Robotics Swarms",
+        "authors": "Bill Goodwine",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242544"
+    },
+    {
+        "id": 12933,
+        "title": "Updates to Implicit Edge-Based Gradient Methods",
+        "authors": "Hiroaki Nishikawa",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-1748"
+    },
+    {
+        "id": 12934,
+        "title": "Practical gradient and conjugate gradient methods on flag manifolds",
+        "authors": "Xiaojing Zhu, Chungen Shen",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-024-00568-6"
+    },
+    {
+        "id": 12935,
+        "title": "Fast Multiobjective Gradient Methods with Nesterov Acceleration via Inertial Gradient-Like Systems",
+        "authors": "Konstantin Sonntag, Sebastian Peitz",
+        "published": "2024-2-17",
+        "citations": 0,
+        "abstract": "AbstractWe derive efficient algorithms to compute weakly Pareto optimal solutions for smooth, convex and unconstrained multiobjective optimization problems in general Hilbert spaces. To this end, we define a novel inertial gradient-like dynamical system in the multiobjective setting, which trajectories converge weakly to Pareto optimal solutions. Discretization of this system yields an inertial multiobjective algorithm which generates sequences that converge weakly to Pareto optimal solutions. We employ Nesterov acceleration to define an algorithm with an improved convergence rate compared to the plain multiobjective steepest descent method (Algorithm 1). A further improvement in terms of efficiency is achieved by avoiding the solution of a quadratic subproblem to compute a common step direction for all objective functions, which is usually required in first-order methods. Using a different discretization of our inertial gradient-like dynamical system, we obtain an accelerated multiobjective gradient method that does not require the solution of a subproblem in each step (Algorithm 2). While this algorithm does not converge in general, it yields good results on test problems while being faster than standard steepest descent.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10957-024-02389-3"
+    },
+    {
+        "id": 12936,
+        "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+        "authors": "Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song",
+        "published": "2023-7-10",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.026"
+    },
+    {
+        "id": 12937,
+        "title": "Gradient-Based Trajectory Optimization With Learned Dynamics",
+        "authors": "Bhavya Sukhija, Nathanael Köhler, Miguel Zamora, Simon Zimmermann, Sebastian Curi, Andreas Krause, Stelian Coros",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161574"
+    },
+    {
+        "id": 12938,
+        "title": "Copyright Page",
+        "authors": "",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242472"
+    },
+    {
+        "id": 12939,
+        "title": "Author Index",
+        "authors": "",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242408"
+    },
+    {
+        "id": 12940,
+        "title": "Title Page",
+        "authors": "",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242540"
+    },
+    {
+        "id": 12941,
+        "title": "Sign Gradient Descent Algorithms for Kinetostatic Protein Folding",
+        "authors": "A. Mohammadi, M. Al Janaideh",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/marss58567.2023.10294128"
+    },
+    {
+        "id": 12942,
+        "title": "FWA-RL: Fireworks Algorithm with Policy Gradient for Reinforcement Learning",
+        "authors": "Maiyue Chen, Ying Tan",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10254081"
+    },
+    {
+        "id": 12943,
+        "title": "Improved 2D LiDAR Adaptive Matching Localization Method Based on Gradient Features",
+        "authors": "Wenyang Zhang, Ping Li, Wenjie Yu, Guoliang Zhang",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ricai60863.2023.10489138"
+    },
+    {
+        "id": 12944,
+        "title": "Leveraging Scene Embeddings for Gradient-Based Motion Planning in Latent Space",
+        "authors": "Jun Yamada, Chia-Man Hung, Jack Collins, Ioannis Havoutis, Ingmar Posner",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161427"
+    },
+    {
+        "id": 12945,
+        "title": "Optimized convergence of stochastic gradient descent by weighted averaging",
+        "authors": "Melinda Hagedorn, Florian Jarre",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2024.2306383"
+    },
+    {
+        "id": 12946,
+        "title": "Table of Contents",
+        "authors": "",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242437"
+    },
+    {
+        "id": 12947,
+        "title": "Soft Hand Exoskeletons for Rehabilitation: Approaches to Design, Manufacturing Methods, and Future Prospects",
+        "authors": "Alexander Saldarriaga, Elkin Iván Gutierrez-Velasquez, Henry A. Colorado",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "Stroke, the third leading cause of global disability, poses significant challenges to healthcare systems worldwide. Addressing the restoration of impaired hand functions is crucial, especially amid healthcare workforce shortages. While robotic-assisted therapy shows promise, cost and healthcare community concerns hinder the adoption of hand exoskeletons. However, recent advancements in soft robotics and digital fabrication, particularly 3D printing, have sparked renewed interest in this area. This review article offers a thorough exploration of the current landscape of soft hand exoskeletons, emphasizing recent advancements and alternative designs. It surveys previous reviews in the field and examines relevant aspects of hand anatomy pertinent to wearable rehabilitation devices. Furthermore, the article investigates the design requirements for soft hand exoskeletons and provides a detailed review of various soft exoskeleton gloves, categorized based on their design principles. The discussion encompasses simulation-supported methods, affordability considerations, and future research directions. This review aims to benefit researchers, clinicians, and stakeholders by disseminating the latest advances in soft hand exoskeleton technology, ultimately enhancing stroke rehabilitation outcomes and patient care.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13030050"
+    },
+    {
+        "id": 12948,
+        "title": "Reliable novel hybrid extreme gradient boosting for forecasting copper prices using meta-heuristic algorithms: A thirty-year analysis",
+        "authors": "Zohre Nabavi, Mohammad Mirzehi, Hesam Dehghani",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2024.104784"
+    },
+    {
+        "id": 12949,
+        "title": "Comparative Analysis of the Rate of Convergence of the Methods of Gradient Descent and Natural Gradient Descent in Regression Analysis Problems",
+        "authors": "Alexei Tyurin",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/summa60232.2023.10349623"
+    },
+    {
+        "id": 12950,
+        "title": "Task parse tree: Learning task policy from videos with task-irrelevant components",
+        "authors": "Weihao Wang, Mingyu You, Hongjun Zhou, Bin He",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104552"
+    },
+    {
+        "id": 12951,
+        "title": "MMAR 2023 Cover Page",
+        "authors": "",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242536"
+    },
+    {
+        "id": 12952,
+        "title": "Reinforcement Learning for Multi-Well SAGD Optimization: A Policy Gradient Approach",
+        "authors": "J. L. Guevara, J. Trivedi",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "Abstract\nFinding an optimal steam injection strategy for a SAGD process is considered a major challenge due to the complex dynamics of the physical phenomena. Recently, reinforcement learning (RL) has been presented as alternative to conventional methods (e.g., adjoint-optimization, model predictive control) as an effective way to address the cited challenge. In general, RL represents a model-free strategy where an agent is trained to find the optimal policy - the action at every time step that will maximize cumulative long-term performance of a given process- only by continuous interactions with the environment (e.g., SAGD process). This environment is modeled as a Markov-Decision-Process (MDP) and a state must be defined to characterize it. During the interaction process, at each time step, the agent executes an action, receives a scalar reward (e.g., net present value) due to the action taken and observes the new state (e.g., pressure distribution of the reservoir) of the environment. This process continuous for a number of simulations or episodes until convergence is achieved. One approach to solve the RL problem is to parametrize the policy using well-known methods, e.g., linear functions, SVR, neural networks, etc. This approach is based on maximizing the performance of the process with respect to the parameters of the policy. Using the Monte Carlo algorithm, after every episode a long-term performance of the process is obtained and the parameters of the policy are updated using gradient-ascent methods. In this work policy gradient is used to find the steam injection policy that maximizes cumulative net present value of a SAGD process. The environment is represented by a reservoir simulation model inspired by northern Alberta reservoir and the policy is parametrized using a deep neural network. Results show that optimal steam injection can be characterized in two regions: 1) an increase or slight increase of steam injection rates, and 2) a sharp decrease until reaching the minimum value. Furthermore, the first region's objective appears to be more of pressure maintenance using high steam injection rates. In the second region, the objective is to collect more reward or achieve high values of daily net present value due to the reduction of steam injection while keeping high oil production values.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/213104-ms"
+    },
+    {
+        "id": 12953,
+        "title": "Causal Policy Gradient for End-to-End Communication Systems",
+        "authors": "Shounak Shirodkar, Serene Banerjee",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/comsnets59351.2024.10426936"
+    },
+    {
+        "id": 12954,
+        "title": "Highly efficient online stochastic gradient and sliding window stochastic gradient signal modelling methods for multi-frequency signals",
+        "authors": "Guanglei Song, Ling Xu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijmic.2024.135536"
+    },
+    {
+        "id": 12955,
+        "title": "Highly efficient online stochastic gradient and sliding window stochastic gradient signal modelling methods for multi-frequency signals",
+        "authors": "Ling Xu, Guanglei Song",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijmic.2024.10060898"
+    },
+    {
+        "id": 12956,
+        "title": "Decentralized gradient tracking with local steps",
+        "authors": "Yue Liu, Tao Lin, Anastasia Koloskova, Sebastian U. Stich",
+        "published": "2024-3-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2024.2322095"
+    },
+    {
+        "id": 12957,
+        "title": "Reinforcement learning methods for network-based transfer parameter selection",
+        "authors": "Yue Guo, Yu Wang, I-Hsuan Yang, Katia Sycara",
+        "published": "2023-8-31",
+        "citations": 1,
+        "abstract": "A significant challenge in self-driving technology involves the domain-specific training of prediction models on intentions of other surrounding vehicles. Separately processing domain-specific models requires substantial human resources, time, and equipment for data collection and training. For instance, substantial difficulties arise when directly applying a prediction model developed with data from China to the United States market due to complex factors such as differing driving behaviors and traffic rules. The emergence of transfer learning seems to offer solutions, enabling the reuse of models and data to enhance prediction efficiency across international markets. However, many transfer learning methods require a comparison between source and target data domains to determine what can be transferred, a process that can often be legally restricted. A specialized area of transfer learning, known as network-based transfer, could potentially provide a solution. This approach involves pre-training and fine-tuning \"student\" models using selected parameters from a \"teacher\" model. However, as networks typically have a large number of parameters, it raises questions about the most efficient methods for parameter selection to optimize transfer learning. An automatic parameter selector through reinforcement learning has been developed in this paper, named \"Automatic Transfer Selector via Reinforcement Learning\". This technique enhances the efficiency of parameter selection for transfer prediction between international self-driving markets, in contrast to manual methods. With this innovative approach, technicians are relieved from the labor-intensive task of testing each parameter combination, or enduring lengthy training periods to evaluate the impact of prediction transfer. Experiments have been conducted using a temporal convolutional neural network fully trained with the data from the Chinese market and one month's US data, focusing on improving the training efficiency of specific driving scenarios in the US. Results show that the proposed approach significantly improves the prediction transfer process. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20517/ir.2023.23"
+    },
+    {
+        "id": 12958,
+        "title": "Evaluation of Stochastic Gradient Descent Optimizer on U-Net Architecture for Brain Tumor Segmentation",
+        "authors": "Purwono Purwono, Iis Setiawan Mangkunegara",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "A brain tumor is a type of disease that is quite dangerous in the world. This disease is one of the main causes of human death and has a high risk of recurrence. There are several types of brain tumor locations such as edema, necrosis to elevation. Segmenting the location of this disease is important to do to support faster recovery efforts. The Convolutional Neural Network (CNN) algorithm, which is part of the deep learning method, can be an alternative to this segmentation effort. The U-Net architecture is part of the CNN algorithm which specifically works on medical image segmentation. This study experimented to build a special U-Net architecture for medical image segmentation that had been optimized with SGD. The data used is BraTS2020O which contains a collection of MRI data. This optimization aims to improve the performance of the U-net architecture for segmenting brain tumor images. The results of the study show that the SGD optimization carried out has succeeded in providing better performance than previous studies. This can be seen from the performance value obtained at 0.9879. This accuracy value indicates an increase in accuracy from previous studies. High accuracy indicates that the SGD-optimized model has good segmentation prediction performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31763/ijrcs.v3i3.1104"
+    },
+    {
+        "id": 12959,
+        "title": "Proximal gradient methods beyond monotony",
+        "authors": "Alberto De Marchi",
+        "published": "2023-6-2",
+        "citations": 1,
+        "abstract": "We address composite optimization problems, which consist in minimizing the\nsum of a smooth and a merely lower semicontinuous function, without any\nconvexity assumptions. Numerical solutions of these problems can be obtained by\nproximal gradient methods, which often rely on a line search procedure as\nglobalization mechanism. We consider an adaptive nonmonotone proximal gradient\nscheme based on an averaged merit function and establish asymptotic convergence\nguarantees under weak assumptions, delivering results on par with the monotone\nstrategy. Global worst-case rates for the iterates and a stationarity measure\nare also derived. Finally, a numerical example indicates the potential of\nnonmonotonicity and spectral approximations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46298/jnsao-2023-10290"
+    },
+    {
+        "id": 12960,
+        "title": "Gradient Based Routing Protocol For Modular Robotics",
+        "authors": " G.V Chalapathi Rao,  Kandhyanam Mahesh,  Maheshwaram Shiva",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Advancements in microprocessor-based systems have revolutionized robotics, enabling single-robot and multi-robot systems (MRS) to excel in various applications such as search and rescue, forest fire detection, mining, and disaster management. MRS systems amplify robot capabilities, enabling complex tasks and distributed operations. Effective communication between robots is crucial for optimal performance. This paper explores MRS architectures, emphasizing networking issues and required services for enhanced efficiency. It compares MRS systems to mobile ad hoc networks (MANETs), analyzes robot-to-robot (R2R) and robot-to-infrastructure (R2I) communication links, and identifies protocols applicable at different levels of the MRS hierarchy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46647/ijetms.2023.v07i03.030"
+    },
+    {
+        "id": 12961,
+        "title": "Methods for Obtaining a Gradient Structure",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15407/ufm.25.01.132"
+    },
+    {
+        "id": 12962,
+        "title": "Strain Gradient Programming in 3D Fibrous Hydrogels to Direct Graded Cell Alignment (Small Methods 1/2023)",
+        "authors": "Avraham Kolel, Bar Ergaz, Shahar Goren, Oren Tchaicheeyan, Ayelet Lesman",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/smtd.202370002"
+    },
+    {
+        "id": 12963,
+        "title": "Policy Gradient Play Over Time-Varying Networks in Markov Potential Games",
+        "authors": "Sarper Aydin, Ceyhun Eksin",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383556"
+    },
+    {
+        "id": 12964,
+        "title": "A Policy Gradient Approach for Finite Horizon Constrained Markov Decision Processes",
+        "authors": "Soumyajit Guin, Shalabh Bhatnagar",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383413"
+    },
+    {
+        "id": 12965,
+        "title": "Human Machine Co-adaptation using Co-Adaptive Policy Gradient Algorithm",
+        "authors": "Elias M Maharmeh, Karim Tahboub",
+        "published": "2023-5-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccad57653.2023.10152409"
+    },
+    {
+        "id": 12966,
+        "title": "A Review of Trajectory Prediction Methods for the Vulnerable Road User",
+        "authors": "Erik Schuetz, Fabian B. Flohr",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "Predicting the trajectory of other road users, especially vulnerable road users (VRUs), is an important aspect of safety and planning efficiency for autonomous vehicles. With recent advances in Deep-Learning-based approaches in this field, physics- and classical Machine-Learning-based methods cannot exhibit competitive results compared to the former. Hence, this paper provides an extensive review of recent Deep-Learning-based methods in trajectory prediction for VRUs and autonomous driving in general. We review the state and context representations and architectural insights of selected methods, divided into categories according to their primary prediction scheme. Additionally, we summarize reported results on popular datasets for all methods presented in this review. The results show that conditional variational autoencoders achieve the best overall results on both pedestrian and autonomous driving datasets. Finally, we outline possible future research directions for the field of trajectory prediction in autonomous driving.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010001"
+    },
+    {
+        "id": 12967,
+        "title": "Stability and Safety Learning Methods for Legged Robots",
+        "authors": "Paolo Arena, Alessia Li Noce, Luca Patanè",
+        "published": "2024-1-17",
+        "citations": 0,
+        "abstract": "Learning-based control systems have shown impressive empirical performance on challenging problems in all aspects of robot control and, in particular, in walking robots such as bipeds and quadrupeds. Unfortunately, these methods have a major critical drawback: a reduced lack of guarantees for safety and stability. In recent years, new techniques have emerged to obtain these guarantees thanks to data-driven methods that allow learning certificates together with control strategies. These techniques allow the user to verify the safety of a trained controller while providing supervision during training so that safety and stability requirements can directly influence the training process. This survey presents a comprehensive and up-to-date study of the evolving field of stability certification of neural controllers taking into account such certificates as Lyapunov functions and barrier functions. Although specific attention is paid to legged robots, several promising strategies for learning certificates, not yet applied to walking machines, are also reviewed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13010017"
+    },
+    {
+        "id": 12968,
+        "title": "Distributed Policy Gradient with Heterogeneous Computations for Federated Reinforcement Learning",
+        "authors": "Ye Zhu, Xiaowen Gong",
+        "published": "2023-3-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ciss56502.2023.10089771"
+    },
+    {
+        "id": 12969,
+        "title": "Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization",
+        "authors": "Zhefan Xu, Yumeng Xiu, Xiaoyang Zhan, Baihan Chen, Kenji Shimada",
+        "published": "2023-5-29",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160638"
+    },
+    {
+        "id": 12970,
+        "title": "Non-Contact Microfluidic Mixing Probe for Generating Controlled Concentration Gradient",
+        "authors": "Dima S. Ali, Ayoub Glia, Pavithra Sukumar, Muhammedin Deliorman, Mohammad A. Qasaimeh",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/marss58567.2023.10294153"
+    },
+    {
+        "id": 12971,
+        "title": "A new inertial projected reflected gradient method with application to optimal control problems",
+        "authors": "Chinedu Izuchukwu, Yekini Shehu",
+        "published": "2023-8-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2246168"
+    },
+    {
+        "id": 12972,
+        "title": "Deep Deterministic Policy Gradient for Nested Parallel Negotiation",
+        "authors": "Ryota Arakawa, Katsuhide Fujita",
+        "published": "2023-10-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wi-iat59888.2023.00032"
+    },
+    {
+        "id": 12973,
+        "title": "Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient",
+        "authors": "Ming Zhan, Jingjing Fan, Jianying Guo",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3305453"
+    },
+    {
+        "id": 12974,
+        "title": "Dealing with Sparse Rewards in Continuous Control Robotics via Heavy-Tailed Policy Optimization",
+        "authors": "Souradip Chakraborty, Amrit Singh Bedi, Kasun Weerakoon, Prithvi Poddar, Alec Koppel, Pratap Tokekar, Dinesh Manocha",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161186"
+    },
+    {
+        "id": 12975,
+        "title": "Policy ensemble gradient for continuous control problems in deep reinforcement learning",
+        "authors": "Guoqiang Liu, Gang Chen, Victoria Huang",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126381"
+    },
+    {
+        "id": 12976,
+        "title": "Geometry and convergence of natural policy gradient methods",
+        "authors": "Johannes Müller, Guido Montúfar",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "AbstractWe study the convergence of several natural policy gradient (NPG) methods in infinite-horizon discounted Markov decision processes with regular policy parametrizations. For a variety of NPGs and reward functions we show that the trajectories in state-action space are solutions of gradient flows with respect to Hessian geometries, based on which we obtain global convergence guarantees and convergence rates. In particular, we show linear convergence for unregularized and regularized NPG flows with the metrics proposed by Kakade and Morimura and co-authors by observing that these arise from the Hessian geometries of conditional entropy and entropy respectively. Further, we obtain sublinear convergence rates for Hessian geometries arising from other convex functions like log-barriers. Finally, we interpret the discrete-time NPG methods with regularized rewards as inexact Newton methods if the NPG is defined with respect to the Hessian geometry of the regularizer. This yields local quadratic convergence rates of these methods for step size equal to the inverse penalization strength.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41884-023-00106-z"
+    },
+    {
+        "id": 12977,
+        "title": "Increasing Entropy to Boost Policy Gradient Performance on Personalization Tasks",
+        "authors": "Andrew Starnes, Anton Dereventsov, Clayton Webster",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdmw60847.2023.00197"
+    },
+    {
+        "id": 12978,
+        "title": "Reusing Historical Observations in Natural Policy Gradient",
+        "authors": "Yifan Lin, Enlu Zhou",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wsc60868.2023.10407512"
+    },
+    {
+        "id": 12979,
+        "title": "Networked Policy Gradient Play in Markov Potential Games",
+        "authors": "Sarper Aydın, Ceyhun Eksin",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094870"
+    },
+    {
+        "id": 12980,
+        "title": "Beyond urban parks: Mapping informal green spaces in an urban–peri-urban gradient",
+        "authors": "Magdalena Biernacka, Jakub Kronenberg, Edyta Łaszkiewicz, Piotr Czembrowski, Vahid Amini Parsa, Daria Sikorska",
+        "published": "2023-8",
+        "citations": 10,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2023.106746"
+    },
+    {
+        "id": 12981,
+        "title": "Practical Design Guidelines for Topology Optimization of Flexible Mechanisms: A Comparison between Weakly Coupled Methods",
+        "authors": "Simone D’Imperio, Teresa Maria Berruti, Chiara Gastaldi, Pietro Soccio",
+        "published": "2024-3-23",
+        "citations": 0,
+        "abstract": "Industrial robots are complex systems, as they require the integration of several sub-assemblies to perform accurate operations. Moreover, they may experience remarkable dynamic actions due to high kinematic requirements, which are necessary to obtain reduced cycle times. The dynamic design of industrial robots can therefore be demanding, since the single structural component can induce an impact both in the design phase (development strategy and computational time) and at the machine level (global stiffness and natural frequencies). To this end, the present paper proposes first a topology optimization procedure based on the Equivalent Static Loads (ESL) method that integrates flexible multibody simulation outputs. The same procedure also foresees an intermediate static reduction to reduce and to precisely define the application points of the ESL. Secondly, an optimization procedure based on the Quasi-Static Loads (QSL) method integrating flexible multibody simulation outputs is proposed as well. The objective is to carry out a comparison between the two methods and consequently evaluate the benefits and drawbacks of the two. In the end, practical guidelines regarding the selection and application of the two methods are also provided to the reader.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/robotics13040055"
+    },
+    {
+        "id": 12982,
+        "title": "Design of restricted normalizing flow towards arbitrary stochastic policy with computational efficiency",
+        "authors": "Taisuke Kobayashi, Takumi Aotani",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01691864.2023.2208634"
+    },
+    {
+        "id": 12983,
+        "title": "Natural Policy Gradient Preserves Spatial Decay Properties for Control of Networked Dynamical Systems",
+        "authors": "Eric Xu, Guannan Qu",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383735"
+    },
+    {
+        "id": 12984,
+        "title": "Deep Deterministic Policy Gradient for End-to-End Communication Systems without Prior Channel Knowledge",
+        "authors": "Bolun Zhang, Nguyen Van Huynh",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10436824"
+    },
+    {
+        "id": 12985,
+        "title": "Local Path Planning with Turnabouts for Mobile Robot by Deep Deterministic Policy Gradient",
+        "authors": "Tomoaki Nakamura, Masato Kobayashi, Naoki Motoi",
+        "published": "2023-3-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icm54990.2023.10101921"
+    },
+    {
+        "id": 12986,
+        "title": "Molecule generation using transformers and policy gradient reinforcement learning",
+        "authors": "Eyal Mazuz, Guy Shtar, Bracha Shapira, Lior Rokach",
+        "published": "2023-5-31",
+        "citations": 11,
+        "abstract": "AbstractGenerating novel valid molecules is often a difficult task, because the vast chemical space relies on the intuition of experienced chemists. In recent years, deep learning models have helped accelerate this process. These advanced models can also help identify suitable molecules for disease treatment. In this paper, we propose Taiga, a transformer-based architecture for the generation of molecules with desired properties. Using a two-stage approach, we first treat the problem as a language modeling task of predicting the next token, using SMILES strings. Then, we use reinforcement learning to optimize molecular properties such as QED. This approach allows our model to learn the underlying rules of chemistry and more easily optimize for molecules with desired properties. Our evaluation of Taiga, which was performed with multiple datasets and tasks, shows that Taiga is comparable to, or even outperforms, state-of-the-art baselines for molecule optimization, with improvements in the QED ranging from 2 to over 20 percent. The improvement was demonstrated both on datasets containing lead molecules and random molecules. We also show that with its two stages, Taiga is capable of generating molecules with higher biological property scores than the same model without reinforcement learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-35648-w"
+    },
+    {
+        "id": 12987,
+        "title": "Off-policy Imitation Learning from Visual Inputs",
+        "authors": "Zhihao Cheng, Li Shen, Dacheng Tao",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161566"
+    },
+    {
+        "id": 12988,
+        "title": "Multi-AUV Charging Navigation Trajectory Planning Based on Twin Delayed Deep Deterministic Policy Gradient",
+        "authors": "Jiaming Yu, Hao Sun, Qinglin Sun",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240061"
+    },
+    {
+        "id": 12989,
+        "title": "A Newton-type proximal gradient method for nonlinear multi-objective optimization problems",
+        "authors": "Md Abu Talhamainuddin Ansary",
+        "published": "2023-5-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2022.2157000"
+    },
+    {
+        "id": 12990,
+        "title": "Polytope-based Continuous Scalar Performance Measure with Analytical Gradient for Effective Robot Manipulation",
+        "authors": "Keerthi Sagar, Stéphane Caro, Takn Padr, Philip Long",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3313926"
+    },
+    {
+        "id": 12991,
+        "title": "RGB-D-based categorical object pose and shape estimation: Methods, datasets, and evaluation",
+        "authors": "Leonard Bruns, Patric Jensfelt",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104507"
+    },
+    {
+        "id": 12992,
+        "title": "Three-Dimensional Location and Mapping Analysis in Mobile Robotics Based on Visual SLAM Methods",
+        "authors": "Gustavo A. Acosta-Amaya, Juan M. Cadavid-Jimenez, Jovani A. Jimenez-Builes",
+        "published": "2023-6-16",
+        "citations": 1,
+        "abstract": "One of the essential tasks required from a mobile robot is the autonomous and safe navigation of its working environment. However, in many cases, a model of the environment or map is not available to execute this task. Indeed, navigation requires a permanent estimation of the location for a map, which is not available for unknown environments. In such a scenario, the robot must have extended capabilities to solve, concurrently, the problems of localization and mapping. The simultaneous solution of these two problems is known as SLAM (simultaneous localization and mapping) and is a complex problem, not yet fully solved by the scientific community. This is due to the fact that localization requires a map that is not yet available since it is still under construction. In turn, the elaboration of a map requires the estimation of the robot’s location. This is the reason why SLAM has been categorized as similar to the chicken and egg problem. In the case of a robot facing an unknown environment, it would be something like what to solve first, localization or mapping? The answer to this question is that the robot will have to solve both problems at the same time. This article presents a study of some of the most representative open source visual SLAM (vSLAM) methods, beginning from an analysis of their characteristics and presenting criteria selection for an experimental design that allows contrasting their advantages and disadvantages. Two of the most representative algorithms for solving vSLAM were considered (RTAB-Map and ORB-SLAM2). The experiments were validated with a robotic system designed for this purpose, which is fully compatible with ROS (robot operating system).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/6630038"
+    },
+    {
+        "id": 12993,
+        "title": "The Gradient of Generative AI Release: Methods and Considerations",
+        "authors": "Irene Solaiman",
+        "published": "2023-6-12",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3593013.3593981"
+    },
+    {
+        "id": 12994,
+        "title": "Comparative study of subset selection methods for rapid prototyping of 3D object detection algorithms",
+        "authors": "Konrad Lis, Tomasz Kryjak",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242454"
+    },
+    {
+        "id": 12995,
+        "title": "An investigation of software describing methods to design dual background scrolling hardware in high-level synthesis",
+        "authors": "Kilryong Lee, Akira Yamawaki",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10015-023-00866-y"
+    },
+    {
+        "id": 12996,
+        "title": "A shift‐splitting Jacobi‐gradient iterative algorithm for solving the matrix equation A𝒱−𝒱‾B=C",
+        "authors": "Ahmed M. E. Bayoumi",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "AbstractTo improve the convergence of the gradient iterative (GI) algorithm and the Jacobi‐gradient iterative (JGI) algorithm [Bayoumi, Appl Math Inf Sci, 2021], a shift‐splitting Jacobi‐gradient iterative (SSJGI) algorithm for solving the matrix equation  is presented in this paper, which is based on the splitting of the coefficient matrices. The proposed algorithm converges to the exact solution for any initial value with some conditions. To demonstrate the effectiveness of the SSJGI algorithm and to compare it to the GI algorithm and the JGI algorithm [Bayoumi, Appl Math Inf Sci, 2021], numerical examples are provided.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/oca.3112"
+    },
+    {
+        "id": 12997,
+        "title": "Deep Deterministic Policy Gradient (DDPG) Agent-Based Sliding Mode Control for Quadrotor Attitudes",
+        "authors": "Wenjun Hu, Yueneng Yang, Zhiyang Liu",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "A novel reinforcement deep learning deterministic policy gradient agent-based sliding mode control (DDPG-SMC) approach is proposed to suppress the chattering phenomenon in attitude control for quadrotors, in the presence of external disturbances. First, the attitude dynamics model of the quadrotor under study is derived, and the attitude control problem is described using formulas. Second, a sliding mode controller, including its sliding mode surface and reaching law, is chosen for the nonlinear dynamic system. The stability of the designed SMC system is validated through the Lyapunov stability theorem. Third, a reinforcement learning (RL) agent based on deep deterministic policy gradient (DDPG) is trained to adaptively adjust the switching control gain. During the training process, the input signals for the agent are the actual and desired attitude angles, while the output action is the time-varying control gain. Finally, the trained agent mentioned above is utilized in the SMC as a parameter regulator to facilitate the adaptive adjustment of the switching control gain associated with the reaching law. The simulation results validate the robustness and effectiveness of the proposed DDPG-SMC method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones8030095"
+    },
+    {
+        "id": 12998,
+        "title": "Domain Adaptation Assisted Stochastic Parallel Gradient Descent for Coherent Beam Combination: From Simulation to Simulated Reality",
+        "authors": "Zhengxu Zhang, Xianya Mi, Xiaochuan Zhang, Yi Tan, Xiaoguang Ren",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rcae59706.2023.10398788"
+    },
+    {
+        "id": 12999,
+        "title": "Combining Q-learning and Deterministic Policy Gradient for Learning-Based MPC",
+        "authors": "Katrine Seel, Sébastien Gros, Jan Tommy Gravdahl",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383562"
+    },
+    {
+        "id": 13000,
+        "title": "Failure-aware Policy Learning for Self-assessable Robotics Tasks",
+        "authors": "Kechun Xu, Runjian Chen, Shuqi Zhao, Zizhang Li, Hongxiang Yu, Ci Chen, Yue Wang, Rong Xiong",
+        "published": "2023-5-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160889"
+    },
+    {
+        "id": 13001,
+        "title": "A small deformations effective stress model of gradient plasticity phase-field fracture",
+        "authors": "Alessandro Marengo, Umberto Perego",
+        "published": "2023-5",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.115992"
+    },
+    {
+        "id": 13002,
+        "title": "Off‐policy correction algorithm for double Q network based on deep reinforcement learning",
+        "authors": "Qingbo Zhang, Manlu Liu, Heng Wang, Weimin Qian, Xinglang Zhang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "AbstractA deep reinforcement learning (DRL) method based on the deep deterministic policy gradient (DDPG) algorithm is proposed to address the problems of a mismatch between the needed training samples and the actual training samples during the training of intelligence, the overestimation and underestimation of the existence of Q‐values, and the insufficient dynamism of the intelligence policy exploration. This method introduces the Actor‐Critic Off‐Policy Correction (AC‐Off‐POC) reinforcement learning framework and an improved double Q‐value learning method, which enables the value function network in the target task to provide a more accurate evaluation of the policy network and converge to the optimal policy more quickly and stably to obtain higher value returns. The method is applied to multiple MuJoCo tasks on the Open AI Gym simulation platform. The experimental results show that it is better than the DDPG algorithm based solely on the different policy correction framework (AC‐Off‐POC) and the conventional DRL algorithm. The value of returns and stability of the double‐Q‐network off‐policy correction algorithm for the deep deterministic policy gradient (DCAOP‐DDPG) proposed by the authors are significantly higher than those of other DRL algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/csy2.12102"
+    },
+    {
+        "id": 13003,
+        "title": "A Painless Deterministic Policy Gradient Method for Learning-based MPC",
+        "authors": "Akhil S Anand, Dirk Reinhardt, Shambhuraj Sawant, Jan Tommy Gravdahl, Sebastien Gros",
+        "published": "2023-6-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ecc57647.2023.10178119"
+    },
+    {
+        "id": 13004,
+        "title": "Revitalizing a Transplantation Science Curriculum through Creative Technology Methods",
+        "authors": "Sharon Mistretta",
+        "published": "2023-5-5",
+        "citations": 0,
+        "abstract": "Donor Alliance of Colorado and Wyoming revitalized their transplantation science curriculum by infusing creative technology into lesson planning and methodologies. The overarching goal of this revitalization was to deliver accurate content to students, their families, and the education community about how transplants work and who this life-saving science impacts. This article recounts the work of the curriculum team to align design and computational thinking frameworks with discovering the present affordances of their middle and high school stakeholders and ultimately bridge available resources into an engaging and interactive curriculum. The curriculum team constructed this bridge from educators’ affordances to their effectivities to provide them with virtual avatars, surveys to reveal current knowledge, audio and video content to invite questions, and interactive augmented reality applications to delve deeply into the study of the human body. The transplantation science curriculum connects stakeholders with accurate information to change the trajectory of transplantation science from misconceptions to registration as an organ, eye, and tissue donor. This article is a vital step to fill a gap in the literature about using creative technology methods to enact critical pedagogy as transformative teaching and learning that embraces the imperative that we, in education, mirror society.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5772/acrt.19"
+    },
+    {
+        "id": 13005,
+        "title": "Gradient Strain‐Induced Room‐Temperature Ferroelectricity in Magnetic Double‐Perovskite Superlattices (Small Methods 6/2023)",
+        "authors": "Yaoxiang Jiang, Xin Wu, Jianguo Niu, Yunpeng Zhou, Ning Jiang, Fei Guo, Bo Yang, Shifeng Zhao",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/smtd.202370033"
+    },
+    {
+        "id": 13006,
+        "title": "Gradient and uncertainty enhanced sequential sampling for global fit",
+        "authors": "Sven Lämmle, Can Bogoclu, Kevin Cremanns, Dirk Roos",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116226"
+    },
+    {
+        "id": 13007,
+        "title": "Hyperbolic modeling of gradient damage and one-dimensional finite volume simulations",
+        "authors": "Nicolas Favrie, Adrien Renaud, Djimedo Kondo",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116643"
+    },
+    {
+        "id": 13008,
+        "title": "Uncommonly known change characteristics of land use pattern in Guangdong Province–Hong Kong–Macao, China: Space time pattern, terrain gradient effects and policy implication",
+        "authors": "Yuangong Chen, Wenli Chen, Jianzhou Gong, Haiwei Yuan",
+        "published": "2023-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2022.106461"
+    },
+    {
+        "id": 13009,
+        "title": "Integrating Multi-Agent Deep Deterministic Policy Gradient and Go-Explore for Enhanced Reward Optimization",
+        "authors": "Muchen Liu",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "The field of Multi-Agent Reinforcement Learning (MARL) continues to advance with the development of new and effective methods. This research is centered on two prominent approaches within this field: Multi-Agent Deep Deterministic Policy Gradient (MADDPG) and Go-Explore. The study explores the synergistic potential of combining these two methodologies to enhance rewards for individual agents as well as for agent groups. In the course of this research, MADDPG is introduced into the experimental environment, providing agents with both actor networks (policy networks) and critic networks (Q networks) to implement the actor-critic model. Additionally, each individual agent is equipped with a Go-Explore network, empowering them to conduct deeper explorations of the environment and accumulate rewards at an accelerated rate, often resulting in higher overall rewards. This novel approach emphasizes achieving a balance between individual and collaborative rewards, offering a promising avenue for optimizing multi-agent systems. The results of this study demonstrate that the combined method exhibits notable advantages in certain scenarios. Specifically, it showcases a higher rate of reward accumulation and improved overall performance. This research contributes to the MARL domain by highlighting the potential of combining MADDPG and Go-Explore to enhance the efficiency and effectiveness of multi-agent systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/znrt8d63"
+    },
+    {
+        "id": 13010,
+        "title": "A gradient descent akin method for constrained optimization: algorithms and applications",
+        "authors": "Long Chen, Kai-Uwe Bletzinger, Nicolas R. Gauger, Yinyu Ye",
+        "published": "2024-1-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2285450"
+    },
+    {
+        "id": 13011,
+        "title": "On the Convergence of Stochastic Gradient Descent in Low-Precision Number Formats",
+        "authors": "Matteo Cacciola, Antonio Frangioni, Masoud Asgharian, Alireza Ghaffari, Vahid Nia",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011795500003411"
+    },
+    {
+        "id": 13012,
+        "title": "Global Convergence of Policy Gradient Primal–Dual Methods for Risk-Constrained LQRs",
+        "authors": "Feiran Zhao, Keyou You, Tamer Başar",
+        "published": "2023-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tac.2023.3234176"
+    },
+    {
+        "id": 13013,
+        "title": "Smart Noise Jamming Power Adjustment Using Exploratory Deep Deterministic Policy Gradient",
+        "authors": "Yujie Zhang, Weibo Huo, Cui Zhang, Jifang Pei, Yin Zhang, Yulin Huang",
+        "published": "2023-5-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/radarconf2351548.2023.10149662"
+    },
+    {
+        "id": 13014,
+        "title": "Deep Deterministic Policy Gradient for Throughput Maximization in Energy Harvesting NOMA-Cognitive Radio Network",
+        "authors": "Lav Garg, Saikat Majumder, Sumit Chakravarty",
+        "published": "2023-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iconat57137.2023.10080443"
+    },
+    {
+        "id": 13015,
+        "title": "Enhanced Fingerprint Image Compression using Deep Deterministic Policy Gradient",
+        "authors": "Abdelhak Ouanane, Mohamed Riad Yagoubi, Amina Serir, Nacereddine Djelal",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceeat60471.2023.10425859"
+    },
+    {
+        "id": 13016,
+        "title": "Power Control in Device-to-Device Communications using Deep Deterministic Policy Gradient Method",
+        "authors": "Ranjeet Kumar, Saikat Majumder",
+        "published": "2023-3-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscon57294.2023.10112096"
+    },
+    {
+        "id": 13017,
+        "title": "Evaluation of methods for estimating autonomic nervous activity using a web camera",
+        "authors": "Miku Shimizu, Yu Matsumoto, Naoaki Itakura, Kuzuyuki Mito, Tota Mizuno",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10015-023-00897-5"
+    },
+    {
+        "id": 13018,
+        "title": "Estimating Policy Uncertainty Within Monetary Policy Debates",
+        "authors": "Florian Schütze, Sami Diaf",
+        "published": "2023-6-28",
+        "citations": 0,
+        "abstract": "Studying policy uncertainty contained in collections of documents has been a major task for political researchers and economists, who aim at measuring this degree exclusively with wordlists and topic models to feed further econometric inferences or test hypotheses. Such bag-of-word applications constrain the analysis and cannot render a clear picture of uncertainty drivers and their persistence, even if semi-supervised strategies may offer coherent improvements at the topic level. This work proposes a semantic search strategy, using Top2vec, to identify sources of uncertainty, at the debate level, and uncover coherent topics whose representations will be used to get uncertainty prevalence within each debate. Unlike aggregate-level measurements, this strategy is suited to study per speaker contributions at central banks, where uncertainty is regarded as a forward guidance tool and a key strategy when devising monetary policy actions. Applied to FOMC transcripts (1994-2016), the resulting semantic space yields non-overlapping topic vectors indicating a dominance of economic discussions in uncertainty formation within committee meetings, while risks concerns are bounded to financial markets and investments using an investor jargon. Moreover, results demonstrate the importance of experts' contributions in steering the economic debate, hence coloring uncertainty with words not found in traditional uncertainty wordlists and diffusing a significant persistence to uncertainty prevalence during debates that exhibits fractal patterns.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4995/carma2023.2023.16419"
+    },
+    {
+        "id": 13019,
+        "title": "Gradient ρ-Einstein solitons on almost Co-Kähler manifolds",
+        "authors": "Gour Gopal Biswas, Uday Chand De",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": " The aim of this paper is to characterize almost co-Kähler manifolds and co-Kähler three-manifolds whose metrices are the gradient [Formula: see text]-Einstein solitons. At first we prove that a proper [Formula: see text]-almost co-Kähler manifold with [Formula: see text] does not admit gradient [Formula: see text]-Einstein soliton. It is also shown that if a proper [Formula: see text]-Einstein almost co-Kähler manifold with constant coefficients admits a gradient [Formula: see text]-Einstein soliton, then either the manifold is a [Formula: see text]-almost co-Kähler manifold or the soliton is trivial. Next, we prove that in case of co-Kähler three-manifold the manifold is of constant scalar curvature. Moreover, either the manifold is flat or the gradient of the potential function is collinear with the Reeb vector field [Formula: see text]. Finally, we construct two examples to illustrate our results. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0219887823300027"
+    },
+    {
+        "id": 13020,
+        "title": "Reproducible switching between a walled and cell wall-deficient lifestyle of actinomycetes using gradient agar plates",
+        "authors": "Maarten Lubbers, Gilles P. van Wezel, Dennis Claessen",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mimet.2022.106660"
+    },
+    {
+        "id": 13021,
+        "title": "Estimation of Synchronous Generator and AVR Parameters Based on Gradient and Genetic Methods",
+        "authors": "Krzysztof Dobrzyński",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15199/48.2023.06.17"
+    },
+    {
+        "id": 13022,
+        "title": "A Novel Distributed Algorithm to Seek GNE for Aggregative Games via Primal-Dual Proximal Gradient",
+        "authors": "Zhe Li, Huaqing Li, Liang Ran, Songyang Li, Lvming Fan, Lifeng Zheng, Jun Li",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccar57134.2023.10151772"
+    },
+    {
+        "id": 13023,
+        "title": "Conjugate Gradient Methods for Optimization Problems on Symplectic Stiefel Manifold",
+        "authors": "Mitsutaka Yamada, Hiroyuki Sato",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3288229"
+    },
+    {
+        "id": 13024,
+        "title": "A Gradient Descent Method for Optimal Batch-to-Batch Control of Unknown Linear Systems",
+        "authors": "Yuanqiang Zhou, Xiaopeng Tang, Furong Gao, Xin Lai, Dewei Li, Weiguo Ma",
+        "published": "2023-1-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ica-symp56348.2023.10044931"
+    },
+    {
+        "id": 13025,
+        "title": "Gradient-based Explainable Artificial Intelligence Methods for Eye Disease Classification",
+        "authors": "Egor N. Volkov, Aleksej N. Averkin",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/neuront58640.2023.10175855"
+    },
+    {
+        "id": 13026,
+        "title": "An Improved Local Integration Algorithm For Polarization Gradient Fields*",
+        "authors": "Zhiying Tan, Xu Tao, Yan Ji, Weifeng Kong, Wenbo Fan, Linsen Xu, Xiaobin Xu",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/robio58561.2023.10354642"
+    },
+    {
+        "id": 13027,
+        "title": "An off-policy multi-agent stochastic policy gradient algorithm for cooperative continuous control",
+        "authors": "Delin Guo, Lan Tang, Xinggan Zhang, Ying-chang Liang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.11.046"
+    },
+    {
+        "id": 13028,
+        "title": "Hybrid Energy Storage Control Method For DC Microgrid Based On Deep Deterministic Policy Gradient",
+        "authors": "Shengji Tan, Min Ding, Zili Tao, Danyun Li, Zhijian Fang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450954"
+    },
+    {
+        "id": 13029,
+        "title": "Dynamic Prioritization and Adaptive Scheduling Using Deep Deterministic Policy Gradient for Deploying Microservice-Based VNFs",
+        "authors": "Swarna B. Chetty, Hamed Ahmadi, Avishek Nag",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10278718"
+    },
+    {
+        "id": 13030,
+        "title": "RPGD: A Small-Batch Parallel Gradient Descent Optimizer with Explorative Resampling for Nonlinear Model Predictive Control",
+        "authors": "Frederik Heetmeyer, Marcin Paluch, Diego Bolliger, Florian Bolli, Xiang Deng, Ennio Filicicchia, Tobi Delbruck",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161233"
+    },
+    {
+        "id": 13031,
+        "title": "Analytical Comparison of the Impact of Si and GaAs as Materials in Designing 3D Density Gradient Nanowire MOSFET for Low Power Applications",
+        "authors": "Syeda Fahima Nazreen, M. Tanseer Ali",
+        "published": "2023-1-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070082"
+    },
+    {
+        "id": 13032,
+        "title": "Research on Automatic Lane Changing Method for Electric Vehicles Based on Deep Deterministic Policy Gradient Algorithm",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25236/ajcis.2023.060104"
+    },
+    {
+        "id": 13033,
+        "title": "Barzilai–Borwein-like rules in proximal gradient schemes for ℓ\n            <sub>1</sub>\n            -regularized problems",
+        "authors": "Serena Crisci, Simone Rebegoldi, Gerardo Toraldo, Marco Viola",
+        "published": "2024-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2285489"
+    },
+    {
+        "id": 13034,
+        "title": "Gradient-based concurrent topology and anisotropy optimization for mechanical structures",
+        "authors": "Lander Vertonghen, François-Xavier Irisarri, Dimitri Bettebghor, Boris Desmorat",
+        "published": "2023-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116069"
+    },
+    {
+        "id": 13035,
+        "title": "Cross-scale optimization of advanced materials for micro and nano structures based on strain gradient theory",
+        "authors": "Haidong Lin, Shujuan Hou",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116010"
+    },
+    {
+        "id": 13036,
+        "title": "On the curvature dependence of gradient damage models: Control and opportunities",
+        "authors": "K. Langenfeld, P. Kurzeja, J. Mosler",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.115987"
+    },
+    {
+        "id": 13037,
+        "title": "A hybrid genetic algorithm with multiple decoding methods for energy-aware remanufacturing system scheduling problem",
+        "authors": "Wenjie Wang, Guangdong Tian, Honghao Zhang, Zhiwu Li, Lele Zhang",
+        "published": "2023-6",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.rcim.2022.102509"
+    },
+    {
+        "id": 13038,
+        "title": "Estimation of habit-related information from male voice data using machine learning-based methods",
+        "authors": "Takaya Yokoo, Ryo Hatano, Hiroyuki Nishiyama",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "AbstractAccording to a survey on the cause of death among Japanese people, lifestyle-related diseases (such as malignant neoplasms, cardiovascular diseases, and pneumonia) account for 55.8% of all deaths. Three habits, namely, drinking, smoking, and sleeping, are considered the most important factors associated with lifestyle-related diseases, but it is difficult to measure these habits autonomously and regularly. Here, we propose a machine learning-based approach for detecting these lifestyle habits using voice data. We used classifiers and probabilistic linear discriminant analysis based on acoustic features, such as mel-frequency cepstrum coefficients (MFCCs) and jitter, extracted from a speech dataset we developed, and an X-vector from a pre-trained ECAPA-TDNN model. For training models, we used several classifiers implemented in MATLAB 2021b, such as support vector machines, K-nearest neighbors (KNN), and ensemble methods with some feature-projection options. Our results show that a cubic KNN method using acoustic features performs well on the sleep habit classification, while X-vector-based models perform well on smoking and drinking habit classifications. These results suggest that X-vectors may help estimate factors directly affecting the vocal cords and vocal tracts of the users (e.g., due to smoking and drinking), while acoustic features may help classify chronotypes, which might be informative with respect to the individuals’ vocal cord and vocal tract ultrastructure.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10015-023-00870-2"
+    },
+    {
+        "id": 13039,
+        "title": "Hierarchical Policy Blending as Inference for Reactive Robot Control",
+        "authors": "Kay Hansel, Julen Urain, Jan Peters, Georgia Chalvatzaki",
+        "published": "2023-5-29",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161374"
+    },
+    {
+        "id": 13040,
+        "title": "Gradient-based feature-attribution explainability methods for spiking neural networks",
+        "authors": "Ammar Bitar, Rafael Rosales, Michael Paulitsch",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "IntroductionSpiking neural networks (SNNs) are a model of computation that mimics the behavior of biological neurons. SNNs process event data (spikes) and operate more sparsely than artificial neural networks (ANNs), resulting in ultra-low latency and small power consumption. This paper aims to adapt and evaluate gradient-based explainability methods for SNNs, which were originally developed for conventional ANNs.MethodsThe adapted methods aim to create input feature attribution maps for SNNs trained through backpropagation that process either event-based spiking data or real-valued data. The methods address the limitations of existing work on explainability methods for SNNs, such as poor scalability, limited to convolutional layers, requiring the training of another model, and providing maps of activation values instead of true attribution scores. The adapted methods are evaluated on classification tasks for both real-valued and spiking data, and the accuracy of the proposed methods is confirmed through perturbation experiments at the pixel and spike levels.Results and discussionThe results reveal that gradient-based SNN attribution methods successfully identify highly contributing pixels and spikes with significantly less computation time than model-agnostic methods. Additionally, we observe that the chosen coding technique has a noticeable effect on the input features that will be most significant. These findings demonstrate the potential of gradient-based explainability methods for SNNs in improving our understanding of how these networks process information and contribute to the development of more efficient and accurate SNNs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnins.2023.1153999"
+    },
+    {
+        "id": 13041,
+        "title": "Pre or Post-Softmax Scores in Gradient-based Attribution Methods, What is Best?",
+        "authors": "Miguel Lerma, Mirtha Lucas",
+        "published": "2023-7-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icprs58416.2023.10179032"
+    },
+    {
+        "id": 13042,
+        "title": "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods",
+        "authors": "Abdollah Masoud Darya, Ilias Fernini, Marley Vellasco, Abir Hussain",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191163"
+    },
+    {
+        "id": 13043,
+        "title": "Gradient-based defense methods for data leakage in vertical federated learning",
+        "authors": "Wenhan Chang, Tianqing Zhu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cose.2024.103744"
+    },
+    {
+        "id": 13044,
+        "title": "A survey of gradient normalization adversarial attack methods",
+        "authors": "Jun Chen, Qidong Huang, Yunpeng Zhang",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3650215.3650258"
+    },
+    {
+        "id": 13045,
+        "title": "Start State Selection for Control Policy Learning from Optimal Trajectories",
+        "authors": "Christoph Zelch, Jan Peters, Oskar von Stryk",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160978"
+    },
+    {
+        "id": 13046,
+        "title": "PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection",
+        "authors": "Shivin Dass, Karl Pertsch, Hejia Zhang, Youngwoon Lee, Joseph Lim, Stefanos Nikolaidis",
+        "published": "2023-7-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15607/rss.2023.xix.013"
+    },
+    {
+        "id": 13047,
+        "title": "A Multi-Agent Deep Deterministic Policy Gradient Method for Multi-Zone HVAC Control",
+        "authors": "Xuebo Liu, Yingying Wu, Bo Liu, Hongyu Wu",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pesgm52003.2023.10252541"
+    },
+    {
+        "id": 13048,
+        "title": "Active structural control framework using policy-gradient reinforcement learning",
+        "authors": "Soheila Sadeghi Eshkevari, Soheil Sadeghi Eshkevari, Debarshi Sen, Shamim N. Pakzad",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engstruct.2022.115122"
+    },
+    {
+        "id": 13049,
+        "title": "Policy Gradient Stock GAN for Realistic Discrete Order Data Generation in Financial Markets",
+        "authors": "Masanori Hirano, Hiroki Sakaji, Kiyoshi Izumi",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iiai-aai59060.2023.00077"
+    },
+    {
+        "id": 13050,
+        "title": "A Cycle Architecture Based on Policy Gradient for Unsupervised Video Summarization",
+        "authors": "Yubo An, Shenghui Zhao, Guoqiang Zhang",
+        "published": "2023-5-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3604078.3604170"
+    },
+    {
+        "id": 13051,
+        "title": "Visual Navigation for Obstacle Avoidance Using Deep Reinforcement Learning with Policy Optimization",
+        "authors": "Ali Parsbin, Mahdi Akraminia",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrom60803.2023.10412549"
+    },
+    {
+        "id": 13052,
+        "title": "A Survey on Adaptive Computing in Robotics: Modelling, Methods and Applications",
+        "authors": "Ariel Podlubne, Diana Göhringer",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3281190"
+    },
+    {
+        "id": 13053,
+        "title": "A Cerebellum Model Enhanced Gradient Neural Network for Solving Time-Variant Linear Equations Applied to Robot Control",
+        "authors": "Weibing Li, Yanying Zou, Dongsheng Guo",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rcae59706.2023.10398798"
+    },
+    {
+        "id": 13054,
+        "title": "Integration of Modified Classical Conjugate Gradient Methods for Unconstrained Optimization",
+        "authors": "Oluwaseun B. Onuoha",
+        "published": "2024-4-8",
+        "citations": 0,
+        "abstract": "The integration of modified classical conjugate gradient methods (CGMs) for unconstrained optimization represents a crucial and evolving area of research within the field of optimization algorithms. Over time, numerous studies have put forth diverse modifications and novel approaches to enhance the effectiveness of classical CGMs. These modifications aim to address specific challenges and improve the overall performance of optimization algorithms in unconstrained scenarios. In order to tackle unconstrained optimization challenges and improve our understanding of their synergies, this ongoing study aims to unify different modified classical CGMs. Conventional CGMs have proven effective for optimization tasks, and a range of different approaches have been produced by carefully modifying these techniques. The main goal of this paper is to combine these modified versions, with particular attention to those that have similar numerators. The integration process involves systematically merging the advantageous aspects of these modified methods to develop not only innovative but also more resilient approaches to unconstrained optimization problems. The ultimate goal of this unification effort is to capitalize on the strengths inherent in different approaches to create a cohesive framework that significantly improves overall optimization performance. To thoroughly assess the efficacy of the integrated methods, a series of comprehensive performance tests are conducted. These tests include a meticulous comparison of outcomes with those of classical CGMs, providing valuable insights into the relative strengths and weaknesses of the modified approaches across diverse optimization scenarios. The evaluation criteria encompass convergence rates, solution accuracy, and computational efficiency. The conclusive outcome demonstrates that the unified approaches consistently outperform individual methods across all three crucial evaluation criteria.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55639/607.474645"
+    },
+    {
+        "id": 13055,
+        "title": "Generalized Gaussian Distribution with Augmented Pure Quaternion Random Variable",
+        "authors": "Robert Krupiński",
+        "published": "2023-8-22",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242425"
+    },
+    {
+        "id": 13056,
+        "title": "New Trends In Industry 4.0 – Voice Control",
+        "authors": "Jakub Szaj, Janusz Pochmara",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242403"
+    },
+    {
+        "id": 13057,
+        "title": "Gradient enhanced gaussian process regression for constitutive modelling in finite strain hyperelasticity",
+        "authors": "Nathan Ellmer, Rogelio Ortigosa, Jesús Martínez-Frutos, Antonio J. Gil",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116547"
+    },
+    {
+        "id": 13058,
+        "title": "Assessment of Interface Gradient Reconstruction Techniques for Finite Volume Methods in Aerospace Applications",
+        "authors": "Frederico B. Oliveira, João Luiz F. Azevedo",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-3241"
+    },
+    {
+        "id": 13059,
+        "title": "Elastic conjugate gradient methods to solve iteration problems",
+        "authors": "Basim Abbas Hassan, Abdulameer A. Saad",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Using the conjugacy condition and second-order Taylor expansion, we present a new formula in this paper. The novel formula, unlike traditional conjugate gradient approaches, utilizes information on available function values and gradients. The worldwide convergence findings of the formula are discussed, and numerical data show that this technique works. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47974/jim-1619"
+    },
+    {
+        "id": 13060,
+        "title": "Tree-structured Policy Planning with Learned Behavior Models",
+        "authors": "Yuxiao Chen, Peter Karkus, Boris Ivanovic, Xinshuo Weng, Marco Pavone",
+        "published": "2023-5-29",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161419"
+    },
+    {
+        "id": 13061,
+        "title": "A gradient method for high-dimensional BSDEs",
+        "authors": "Kossi Gnameho, Mitja Stadje, Antoon Pelsser",
+        "published": "2024-2-14",
+        "citations": 0,
+        "abstract": "Abstract\nWe develop a Monte Carlo method to solve backward stochastic differential equations (BSDEs) in high dimensions.\nThe proposed algorithm is based on the regression-later approach using multivariate Hermite polynomials and their gradients.\nWe propose numerical experiments to illustrate its performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/mcma-2024-2002"
+    },
+    {
+        "id": 13062,
+        "title": "MIMO Detection Using Gradient-Based Markov Chain Monte Carlo Methods",
+        "authors": "Xingyu Zhou, Le Liang, Jing Zhang, Chao-Kai Wen, Shi Jin",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10436955"
+    },
+    {
+        "id": 13063,
+        "title": "Learning Complicated Manipulation Skills Via Deterministic Policy with Limited Demonstrations",
+        "authors": "Haofeng Liu, Jiayi Tan, Yiwen Chen, Marcelo H Ang",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icar58858.2023.10406318"
+    },
+    {
+        "id": 13064,
+        "title": "Mixed finite elements based on superconvergent patch recovery for strain gradient theory",
+        "authors": "Jae-Hoon Choi, Byung-Chai Lee, Gi-Dong Sim",
+        "published": "2023-6",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cma.2023.116053"
+    },
+    {
+        "id": 13065,
+        "title": "Convergence Rates of Gradient Methods for Convex Optimization in the Space of Measures",
+        "authors": "Lénaïc Chizat",
+        "published": "2023-1-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5802/ojmo.20"
+    },
+    {
+        "id": 13066,
+        "title": "Performance Considerations for Ray Tracing in Gradient-index Optics with Symplectic Numerical Methods",
+        "authors": "Ben McKeon, Alexander V. Goncharov",
+        "published": "2023-6-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2352/lim.2023.4.1.09"
+    },
+    {
+        "id": 13067,
+        "title": "Multitask control of aerial manipulator robots with dynamic compensation based on numerical methods",
+        "authors": "Christian P. Carvajal, Gabriela M. Andaluz, Víctor H. Andaluz, Flavio Roberti, Guillermo Palacios-Navarro, Ricardo Carelli",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.robot.2023.104614"
+    },
+    {
+        "id": 13068,
+        "title": "Does Open Innovation Open Doors for Underrepresented Groups to Contribute to Technology Innovation?: Evidence from a Space Robotics Challenge",
+        "authors": "Taylan G. Topcu, Lihui “Lydia” Zhang, Zoe Szajnfarber",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.spacepol.2023.101550"
+    },
+    {
+        "id": 13069,
+        "title": "Deep Deterministic Policy Gradient based Dynamic Virtual Network Embedding Algorithm",
+        "authors": "Yue Zong, Han Xu, Zhaoyang Zhang",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3640912.3640982"
+    },
+    {
+        "id": 13070,
+        "title": "Linear Speedup of Incremental Aggregated Gradient Methods on Streaming Data",
+        "authors": "Xiaolu Wang, Cheng Jin, Hoi-To Wai, Yuantao Gu",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10383924"
+    },
+    {
+        "id": 13071,
+        "title": "A Novel Shrink–Expand–Shrink Method for Modeling Composites with Ultrahigh Volume Fractions of Pre-Graded and Gradient-Distributed Particles",
+        "authors": "Ruiqing Xue, Peiyao Sheng, Zhong Ji",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": " An advanced shrink–expand–shrink method is proposed in this paper for efficiently modeling concrete-like particle-reinforced composites with ultrahigh volume fraction of aggregates. The gradation of the aggregates can be pre-given and the aggregate spatial distribution can be nonuniform. By this method, the shrunk aggregates are first generated in the model space, and then expanded to jostle each other, afterwards they are shrunk again to normal size to obtain the final mesostructure models. Any high volume fractions of particles even more than 90% can be easily achieved by adjusting the shrinkage level during this process. Besides, a gradient distribution algorithm is established to conform to the aggregate segregation during the actual pouring process, and the corresponding periodic boundaries can also be generated to quickly create large specimens. Finally, the compression processes of polymer concrete with different aggregate packing densities are calculated via a finite element method. The shrink–expand–shrink method and the corresponding numerical models have memorable importance in the performance analysis and material design of particle-reinforced composites. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0219876224500026"
+    },
+    {
+        "id": 13072,
+        "title": "Asynchronous, Option-Based Multi-Agent Policy Gradient: A Conditional Reasoning Approach",
+        "authors": "Xubo Lyu, Amin Banitalebi-Dehkordi, Mo Chen, Yong Zhang",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10342281"
+    },
+    {
+        "id": 13073,
+        "title": "Power Allocation in Cell-Free mmWave Massive MIMO: Using Deep Deterministic Policy Gradient",
+        "authors": "Yu Zhao, Fengming Zhang, Yangjun Gao, Chaoqi Fu",
+        "published": "2023-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wccct56755.2023.10052585"
+    },
+    {
+        "id": 13074,
+        "title": "Optimization Landscape of Policy Gradient Methods for Discrete-Time Static Output Feedback",
+        "authors": "Jingliang Duan, Jie Li, Xuyang Chen, Kai Zhao, Shengbo Eben Li, Lin Zhao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcyb.2023.3323316"
+    },
+    {
+        "id": 13075,
+        "title": "Policy Gradient From Demonstration and Curiosity",
+        "authors": "Jie Chen, Wenjun Xu",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcyb.2022.3150802"
+    },
+    {
+        "id": 13076,
+        "title": "Distributed Policy Gradient for Linear Quadratic Networked Control with Limited Communication Range",
+        "authors": "Yuzi Yan, Yuan Shen",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tsp.2024.3386396"
+    },
+    {
+        "id": 13077,
+        "title": "Methods in open policy analysis: An application to California's building energy codes",
+        "authors": "Matthew J. Holian",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "AbstractHave building energy codes lowered energy consumption, and have their benefits outweighed costs? Using 2000 Census data, I estimate household energy expenditures by decade of home construction, controlling for household and home characteristics. I find homes built in the 1980s used $35 less in electricity and $46 less in natural gas, per year, compared to 1970s era homes. For Sacramento, energy codes pass a cost‐benefit test when low‐end policy costs are used, but fail with base‐case costs. This study also clarifies how a cost‐benefit analysis (CBA) for a representative household fits into a comprehensive CBA.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/coep.12610"
+    },
+    {
+        "id": 13078,
+        "title": "Time fractional gradient flows: Theory and numerics",
+        "authors": "Wenbo Li, Abner J. Salgado",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": " We develop the theory of fractional gradient flows: an evolution aimed at the minimization of a convex, lower semicontinuous energy, with memory effects. This memory is characterized by the fact that the negative of the (sub)gradient of the energy equals the so-called Caputo derivative of the state. We introduce the notion of energy solutions, for which we provide existence, uniqueness and certain regularizing effects. We also consider Lipschitz perturbations of this energy. For these problems we provide an a posteriori error estimate and show its reliability. This estimate depends only on the problem data, and imposes no constraints between consecutive time-steps. On the basis of this estimate we provide an a priori error analysis that makes no assumptions on the smoothness of the solution. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218202523500100"
+    },
+    {
+        "id": 13079,
+        "title": "Classifying participatory methods in social care regulation",
+        "authors": "Hilla Dolev, Avishai Benish",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "AbstractThis article examines the regulation–participation nexus in social care services. Participatory forms of social care regulation have been expanding over the past 20 years, but the literature on this trend remains scarce. To fill this gap, we developed an analytical framework for classifying participatory regulation methods. This framework is based on two axes, one drawn from the literature on regulation (the regulatory tasks), and the other from the literature on service user participation (the levels of participation). Using this framework and combining a systematic review of the literature with a case study of the Care Quality Commission in England, we identified and classified 12 participatory methods in three main regulatory tasks (monitoring, standard setting and enforcement). Our classification shows most of the participatory methods are concentrated in monitoring tasks, less in standard setting and least of all in regulatory enforcement. It also highlights the uniqueness of the goals and logics of participation in the regulatory context and the tendency towards the instrumental aspect of information gathering rather than the political aspect of participation. The article concludes by explaining our findings and suggesting future directions in developing the research agenda on the regulatory‐participation nexus.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/spol.12995"
+    },
+    {
+        "id": 13080,
+        "title": "Multiple Agent Path Planning for Autonomous Area Monitoring",
+        "authors": "David Lindgren",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242578"
+    },
+    {
+        "id": 13081,
+        "title": "Enhancing The Accuracy of Image Classification Using Deep Learning and Preprocessing Methods",
+        "authors": "Mohammed J Yousif",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "Deep learning is one of many methods in Artificial Intelligence (AI) that computers can use to process information like text, images, and audio. This manuscript will be focusing on image preprocessing, one of the many different techniques that are used to modify the neural network model training process, and how it affects the training speed and accuracy of the neural network. Six different image preprocessing techniques were picked for use in this study: Grayscale, Smoothing, Unmask Sharpening, Laplacian and Equalization, and Random Cropping and Rotation all of which were implemented using Python and the libraries NumPy, OpenCV, and PyTorch. For the dataset, a batch of 10000 images from the CIFAR10 dataset were used to train the model. This study explored the impact of preprocessing techniques on a deep learning model, employing the RESNET50 architecture. Notable improvements in model accuracy were observed, particularly with normalization and random cropping accompanied by rotation. The efficiency gains attributed to preprocessing were highlighted, leading to a more rapid training process and significant resource savings. This research underscores the importance of thoughtful preprocessing in enhancing the performance of deep learning models, offering valuable insights for practitioners in imageclassification tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52098/airdj.2023348"
+    },
+    {
+        "id": 13082,
+        "title": "Chebyshev Polynomials for Efficient Gaussian Process Computation",
+        "authors": "Adrian Dudek, Jerzy Baranowski",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242501"
+    },
+    {
+        "id": 13083,
+        "title": "Closed-loop Aggregated Baseline Load Estimation using Contextual Bandit with Policy Gradient",
+        "authors": "Yufan Zhang, Qiuwei Wu, Qian Ai, João P. S. Catalão",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pesgm52003.2023.10253062"
+    },
+    {
+        "id": 13084,
+        "title": "Properties of semi-conjugate gradient methods for solving unsymmetric positive definite linear systems",
+        "authors": "Na Huang, Yu-Hong Dai, Dominique Orban, Michael A. Saunders",
+        "published": "2023-9-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2189716"
+    },
+    {
+        "id": 13085,
+        "title": "A Study of Five Methods for Numerical Scanning in R^3 towards Identifying Singularity-free Spheres in the Constant-orientation Workspace of Stewart Platform Manipulators",
+        "authors": "Bibekananda Patra, Sandipan Bandyopadhyay",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3610419.3610426"
+    },
+    {
+        "id": 13086,
+        "title": "Editorial: Focus on methods: neural algorithms for bio-inspired robotics",
+        "authors": "Luca Patanè, Guoping Zhao",
+        "published": "2023-7-25",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnbot.2023.1250645"
+    },
+    {
+        "id": 13087,
+        "title": "Disparity Error in Advanced Vision Sensors",
+        "authors": "Jurek Z. Sasiadek, Mark J. Walker",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242529"
+    },
+    {
+        "id": 13088,
+        "title": "Preconditioned tensor format conjugate gradient squared and biconjugate gradient stabilized methods for solving stein tensor equations",
+        "authors": "Yuhan Chen, Chenliang Li",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractThis article is concerned with solving the high order Stein tensor equation arising in control theory. The conjugate gradient squared (CGS) method and the biconjugate gradient stabilized (BiCGSTAB) method are attractive methods for solving linear systems. Compared with the large‐scale matrix equation, the equivalent tensor equation needs less storage space and computational costs. Therefore, we present the tensor formats of CGS and BiCGSTAB methods for solving high order Stein tensor equations. Moreover, a nearest Kronecker product preconditioner is given and the preconditioned tensor format methods are studied. Finally, the feasibility and effectiveness of the new methods are verified by some numerical examples.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/nla.2502"
+    },
+    {
+        "id": 13089,
+        "title": "Effective and efficient gradient based methods for low-bit discrete-phase sequence designs",
+        "authors": "Ronghao Lin, Xiaolei Shang, Jian Li",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.108929"
+    },
+    {
+        "id": 13090,
+        "title": "Two new conjugate gradient methods in unconstrained optimization problems",
+        "authors": "Semiu Ayinde, Sunday Agboola, Joseph Adelodun, Samuel Hassan",
+        "published": "2023-10-1",
+        "citations": 1,
+        "abstract": "Zheng Y. and Zheng B. in [14] modiﬁed Dai-Liao conjugate gradient method to come up with two new Dai-Liao-type conjugate gradient methods. These methods were shown to have satisﬁed descent condition taken into consideration the strong Wolfe line search. Convergence for objective functions were also guarantied. In this work, two new conjugate gradient methods are introduced in line with the work of Zheng Y. and Zheng B. [14] by changing the ﬁrst term in AyO-CG method [3] to solve unconstrained non-linear optimization problems. Descent properties of these methods are shown and guarantied. Convergence analyses of these methods in line with strong Wolfe conditions showed that they are globally convergent. Comparison based on Dolan More performance proﬁle of the numerical strength of these methods with the two modiﬁed Dai-Laio type methods proved that our methods compare favorably well with them",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56947/amcs.v18.200"
+    },
+    {
+        "id": 13091,
+        "title": "Teacher-Researcher Autonomy of Chinese EFL Academics: An Exploratory Sequential Mixed Methods Design",
+        "authors": "Wangxin Peng",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1057/s41307-024-00347-2"
+    },
+    {
+        "id": 13092,
+        "title": "Policy-Guided Lazy Search with Feedback for Task and Motion Planning",
+        "authors": "Mohamed Khodeir, Atharv Sonwane, Ruthrash Hari, Florian Shkurti",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10161109"
+    },
+    {
+        "id": 13093,
+        "title": "Understanding municipal solid waste production and diversion factors utilizing deep-learning methods",
+        "authors": "Yidan Zhao, Hong Li",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jup.2023.101612"
+    },
+    {
+        "id": 13094,
+        "title": "Simulated Annealing-Deep Deterministic Policy Gradient Algorithm For Quadrotor Attitude Control",
+        "authors": "Taha Yacine Trad, Kheireddine Choutri, Mohand Lagha, Raouf Fareh, Maamar Bettayeb",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aset56582.2023.10180752"
+    },
+    {
+        "id": 13095,
+        "title": "Optimization of an MPC Based Motion Cueing Algorithm with Deep Deterministic Policy Gradient",
+        "authors": "Yi Liang, Dongsu Wu, Rongjun Fu",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccasit58768.2023.10351597"
+    },
+    {
+        "id": 13096,
+        "title": "Policy gradient empowered LSTM with dynamic skips for irregular time series data",
+        "authors": "Philip B. Weerakody, Kok Wai Wong, Guanjin Wang",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110314"
+    },
+    {
+        "id": 13097,
+        "title": "Attitude Control of Rotary Steering Drilling Stabilized Platform Based on Improved Deep Deterministic Policy Gradient",
+        "authors": "Aiqing Huo, Kun Zhang, Shuhan Zhang",
+        "published": "2024-2-14",
+        "citations": 2,
+        "abstract": "Summary\nThe rotary steerable drilling system is an advanced drilling technology, with stabilized platform toolface attitude control being a critical component. Due to a multitude of downhole interference factors, coupled with nonlinearities and uncertainties, challenges arise in model establishment and attitude control. Furthermore, considering that stabilized platform toolface attitude determines the drilling direction of the entire drill bit, the effectiveness of toolface attitude control will directly impact the precision and success of drilling tool guidance. In this paper, a mathematical model and a friction model of the stabilized platform are established, and an improved deep deterministic policy gradient (I_DDPG) attitude control method is proposed to address the friction nonlinearity problem existing in the rotary steering drilling stabilized platform. A prioritized experience replay based on temporal difference (TD) error and policy gradient is introduced to improve sample usage, and high similarity samples are pruned to prevent overfitting. Furthermore, SumTree structure is adopted to sort samples for reducing computational effort, and a double critic network is used to alleviate the overestimated value. Numerical simulation results illustrate that the stabilized platform attitude control system based on I_DDPG can achieve high control accuracy with both strong anti-interference capability and good robustness.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/217992-pa"
+    },
+    {
+        "id": 13098,
+        "title": "New Class of Conjugate Gradient Methods for Removing Impulse Noise Images",
+        "authors": "Hameed Abbo, Basim Hassan",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "The conjugate coefficient optimal is the very establishment of a variety of  conjugate gradient methods. This paper proposes a new class coefficient of conjugate gradient (CG) methods for impulse noise removal, which is based on the quadratic model. Our proposed method ensures descent independent of the accuracy of the line search and it is globally convergent under some conditions, Numerical experiments are also presented for the impulse noise removal in images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24996/ijs.2023.64.10.28"
+    },
+    {
+        "id": 13099,
+        "title": "Efficiency of Stochastic Coordinate Proximal Gradient Methods on Nonseparable Composite Optimization",
+        "authors": "Ion Necoara, Flavia Chorobura",
+        "published": "2024-4-16",
+        "citations": 0,
+        "abstract": " This paper deals with composite optimization problems having the objective function formed as the sum of two terms; one has a Lipschitz continuous gradient along random subspaces and may be nonconvex, and the second term is simple and differentiable but possibly nonconvex and nonseparable. Under these settings, we design a stochastic coordinate proximal gradient method that takes into account the nonseparable composite form of the objective function. This algorithm achieves scalability by constructing at each iteration a local approximation model of the whole nonseparable objective function along a random subspace with user-determined dimension. We outline efficient techniques for selecting the random subspace, yielding an implementation that has low cost per iteration, also achieving fast convergence rates. We present a probabilistic worst case complexity analysis for our stochastic coordinate proximal gradient method in convex and nonconvex settings; in particular, we prove high-probability bounds on the number of iterations before a given optimality is achieved. Extensive numerical results also confirm the efficiency of our algorithm.  Funding: This work was supported by Norway Grants 2014-2021 [Grant ELO-Hyp 24/2020]; Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii [Grants PN-III-P4-PCE-2021-0720, L2O-MOC, nr 70/2022]; and the ITN-ETN project TraDE-OPT funded by the European Union’s Horizon 2020 Research and Innovation Programme under the Marie Skłodowska-Curie grant agreement [Grant 861137]. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/moor.2023.0044"
+    },
+    {
+        "id": 13100,
+        "title": "Retracted: An Automatic Driving Control Method Based on Deep Deterministic Policy Gradient",
+        "authors": "",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9896258"
+    },
+    {
+        "id": 13101,
+        "title": "Comparative Study for Deep Deterministic Policy Gradient and Soft Actor Critic Using an Inverted Pendulum System",
+        "authors": "Aditya Shelke, Devang Vyas, Abhishek Srivastava",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/elexcom58812.2023.10370289"
+    },
+    {
+        "id": 13102,
+        "title": "A Control Method of Robotic Arm Based on Improved Deep Deterministic Policy Gradient",
+        "authors": "Yanpeng Shao, Haibo Zhou, Shuaishuai Zhao, Xiaoyan Fan, Jiayi Jiang",
+        "published": "2023-8-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icma57826.2023.10215662"
+    },
+    {
+        "id": 13103,
+        "title": "Containment problem for a multi-agent system with heterogeneous delays",
+        "authors": "Branislav Rehák",
+        "published": "2023-8-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mmar58394.2023.10242518"
+    },
+    {
+        "id": 13104,
+        "title": "Power flow rebalancing in optimal scheduling of smart distribution systems based on Deep Deterministic Policy Gradient",
+        "authors": "Xinyu Ai, Junfeng Cai, Jingrui Zhang",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acpee56931.2023.10135884"
+    }
+]

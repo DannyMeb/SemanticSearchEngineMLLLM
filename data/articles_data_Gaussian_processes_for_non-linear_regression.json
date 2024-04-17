@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 13705,
+        "title": "Prediction of Short-Term Non-Linear Response Using Screening Combined With Multi-Fidelity Gaussian Process Regression",
+        "authors": "Sanne van Essen, Thomas Scholcz, Harleigh Seyffert",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "Abstract\nPredicting wave impact design loads is crucial for ensuring safety and performance of maritime structures, but it is challenging due to the complexity and rarity of these events. Existing methods are mainly suitable for prediction of weakly non-linear responses, or are very computationally expensive. Highly nonlinear responses require a fidelity level that can only be achieved with expensive CFD or experiments, leading to sparsely populated exceedance distributions. A new event-based multi-fidelity method called ‘adaptive screening’ therefore combines elements of screening, multi-fidelity Gaussian Process Regression and adaptive sampling, to more efficiently predict highly non-linear loads. It is applied at the level of the response peak exceedance probability distributions. A simplified case study using second-order wave data validates the effectiveness of the method in accurately predicting short-term design loads. The new method predicts more accurate MPM results than the conventional method recommended by class societies and the ITTC, while also significantly reducing the required HF simulation time. The new method has a deviation of only 0.3–3.5% from the true 1-hour MPM over all test cases, compared to the conventional method’s deviation of 5.2–6.7%. The HF simulation time required to do this is 91 times shorter with the new method (0.033 versus 3 hours per sea state). The new method is not very sensitive to input noise as long as HF samples are selected properly, and the application of the method to the exceedance distributions works.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/omae2023-100954"
+    },
+    {
+        "id": 13706,
+        "title": "Learning-Based Energy Consumption Model of Machining Processes Using Gaussian Process Regression",
+        "authors": "Alicia Soto Bono, Alan McGibney, Susan Rea, Kritchai Witheephanich",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012180100003543"
+    },
+    {
+        "id": 13707,
+        "title": "Time series prediction of novel coronavirus COVID-19 data in west Java using Gaussian processes and least median squared linear regression",
+        "authors": "Intan Nurma Yulita, Firman Ardiansyah, Aulia Siska, Ino Suryana",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "In 2019, the COVID-19 epidemic swept throughout the globe. The virus was first identified in Wuhan, China. By the time several months had gone by, this virus had spread to numerous locations throughout the world. Consequently, this virus has become a worldwide pandemic. Multiple efforts have been made to limit the transmission of this virus. A possible course of action is to lock down the territory. Unfortunately, this strategy wrecked the economy, worsening the terrible situation. The world health organization (WHO) would breathe a sigh of relief if there were to be no new cases. However, the government should explore employing data from the future in addition to the data it already has. Prediction of time series may be utilized for this purpose. This study indicated that the Gaussian processes method outperformed the least median squared linear regression method (LMSLR). Applying a Pearson VII-based global kernel produces MAE and RMSE values of 23.12 and 53.43, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5267/j.dsl.2023.1.006"
+    },
+    {
+        "id": 13708,
+        "title": "An integrated approach combining randomized kernel PCA, Gaussian mixture modeling and ICA for fault detection in non-linear processes",
+        "authors": "Amir Khurshid, Ajaya Kumar Pani",
+        "published": "2024-3-22",
+        "citations": 0,
+        "abstract": "Abstract\nPrincipal component analysis (PCA) and independent component analysis (ICA) as well as their kernel extensions have been widely applied in the past for industrial fault detection with Gaussian or non-Gaussian process data with linear or non-linear characteristics. Kernel based techniques lead to computational complexity due to the high dimensionality of the dataset in the feature space. In this work, randomization approach is used to obtain a low rank approximation of the high dimensional kernel matrix. A hybrid machine learning technique is proposed that integrates randomized kernel PCA (RKPCA) with ICA and Gaussian mixture modeling (GMM). The proposed approach ICA-RKPCA-GMM takes care of Gaussian and non-Gaussian characteristics of non-linear process data. Another hybrid algorithm combining three basic techniques of ICA, PCA and GMM is also developed (ICA-PCA-GMM). Fault detection performances of the proposed techniques (ICA-RKPCA-GMM and ICA-PCA-GMM) are compared with PCA, ICA, KPCA and combined ICA-PCA techniques by applying the techniques on two benchmark systems. Monitoring performances were evaluated by determining the false alarm rate (FAR) and fault detection rate (FDR) for different types of process and sensor faults. Simulation results show that the proposed ICA-RKPCA-GMM approach yields better results than individual techniques of ICA, PCA, KPCA, the combined ICA-PCA and the proposed ICA-PCA-GMM technique.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6501/ad36d8"
+    },
+    {
+        "id": 13709,
+        "title": "Meta-learning to calibrate Gaussian processes with deep kernels for regression uncertainty estimation",
+        "authors": "Tomoharu Iwata, Atsutoshi Kumagai",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127441"
+    },
+    {
+        "id": 13710,
+        "title": "Constrained Bayesian Optimization Methods Using Regression and Classification Gaussian Processes As Constraints",
+        "authors": "Cole Jetton, Chengda Li, Christopher Hoyle",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "Abstract\nIn Bayesian optimization, which is used for optimizing computationally expensive black-box problems, constraints need to be considered to arrive at solutions that are both optimal and feasible. Techniques to deal with black-box constraints have been studied extensively, often exploiting the constraint model to sample points that have a high probability of being feasible. These constraints are usually modeled using regression models if the output is a known value on a continuous real scale. However, if the constraint or set of constraints is not modeled explicitly, but rather it is only known whether a design vector is either feasible or infeasible, then we treat the constraints as a categorical constraint. Because of this, these constraints should be modeled using classification models rather than regression methods, which have also been studied. Because of the variety of approaches to handling constraints, there is a need to compare methods for handling both classification constraints as well as continuous constraints modeled with individual regression models. This paper explores and compares four main methods, with two additional ones specifically for classification constraints; these methods handle black-box constraints in Bayesian optimization by modeling the constraints with both regression and classification Gaussian processes. We found that the problem type and number of constraints influence the effectiveness of different approaches with statistical differences in convergence. Regression models can be advantageous in terms of model fit time; however, this is also a function of the total number of constraints. Generally, regression constraints outperformed classification surrogates in terms of minimizing computational time, but the latter was still effective. Overall, this study provides valuable insights into the performance and implementation of different constrained Bayesian optimization techniques. This can help inform engineers on which method is most suitable for their problem, what issues they may encounter during implementation, and give a general understanding of the differences between using regression and classification Gaussian processes as constraints.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-109993"
+    },
+    {
+        "id": 13711,
+        "title": "Large deviations for stochastic nonlinear systems of slow–fast diffusions with non-Gaussian Lévy noises",
+        "authors": "Shenglan Yuan, René Schilling, Jinqiao Duan",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2022.104304"
+    },
+    {
+        "id": 13712,
+        "title": "A New Non-Separable Kernel for Spatio-Temporal Gaussian Process Regression",
+        "authors": "Seán Gallagher, Anthony Quinn",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/issc59246.2023.10162122"
+    },
+    {
+        "id": 13713,
+        "title": "Fast Bayesian Functional Regression for Non-Gaussian Spatial Data",
+        "authors": "Hyun Bin Kang, Yeo Jin Jung, Jaewoo Park",
+        "published": "2024-6-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1354"
+    },
+    {
+        "id": 13714,
+        "title": "Crystal plasticity finite element analysis of linear and non-linear extrusion processes",
+        "authors": "Ü. ŞIMŞEK",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "Abstract. Severe plastic deformation (SPD) induced by conventional forming processes such as extrusion has a significant effect on texture evolution and strength of metals. Conventional twist extrusion (TE) process can be used to produce ultra-fine grained (UFG) structures without introducing any significant change in the overall dimensions of the sample. However, the commercialization for industrial usage has been limited because of production efficiency and non-uniform distribution of grain refinements. In order to overcome these difficulties a new process called nonlinear twist extrusion (NLTE) has been introduced recently where TE mold channel is modified to restrain strain reversal and rigid body rotation of the workpiece. Prediction of the texture evolution in these processes is crucial for mold design and process parameters. In this work, the texture evolution during NLTE and TE processes are investigated through crystal plasticity finite element method. Single copper crystal which has a billet form is fully extruded through the TE and NLTE mold models separately. In addition to spatial stress and strain evolution investigations, the orientation differences and texture evolution of extruded billets are examined for two different initial orientations of single copper crystal. Moreover, the deformation histories at different locations of the sample are analyzed with crystal plasticity finite element method (CPFEM) to compare the performance of both techniques. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21741/9781644902479-60"
+    },
+    {
+        "id": 13715,
+        "title": "Short-Term Electric Load Prediction in Smart Grid using Multi-Output Gaussian Processes Regression",
+        "authors": "Alireza Ghasempour, Manel Martínez-Ramón",
+        "published": "2023-4-27",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/kpec58008.2023.10215490"
+    },
+    {
+        "id": 13716,
+        "title": "Quadratic covariance‐constrained filtering for linear and non‐linear systems with non‐Gaussian noises",
+        "authors": "Elham Javanfar, Mehdi Rahmani",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "AbstractThis study considers a robust quadratic covariance‐constrained filtering problem for discrete time‐varying linear and non‐linear dynamic systems with non‐Gaussian noises. Non‐Gaussian noises are presumed to be unknown, bounded, and limited in a specified ellipsoidal set. In this approach, first, a general standard linear form of the filter is introduced for state estimation in linear dynamic systems. The filter gain is obtained by minimizing the upper bound of the estimation error's covariance matrix. The Lyapunov theory demonstrates the stability of this filter. Second, we extend the proposed filtering approach to non‐linear dynamic systems that are considered as a combination of linear and non‐linear terms. The Lipschitz‐like condition is assumed for the non‐linear part. A new filter structure is proposed in this case and the filter gain is obtained by the same idea to minimize the upper bound of the error's covariance matrix. Finally, four numerical examples are presented to signify the effectiveness and performance of the proposed filters for linear and non‐linear systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/oca.3015"
+    },
+    {
+        "id": 13717,
+        "title": "Response of Gaussian color noise excited oscillators with inertia nonlinearity based on the Radial Basis Function Neural Network method",
+        "authors": "Gen Ge, Yongqi Hu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2024.104731"
+    },
+    {
+        "id": 13718,
+        "title": "Bifurcation and chaotic behavior in stochastic Rosenzweig–MacArthur prey–predator model with non-Gaussian stable Lévy noise",
+        "authors": "Shenglan Yuan, Zibo Wang",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2022.104339"
+    },
+    {
+        "id": 13719,
+        "title": "Non-parametric Model Adaptive Control Based on Gaussian Process Regression",
+        "authors": "Chenxu Lin, Mingyao Li, Juanping Zhu",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ddcls58216.2023.10166900"
+    },
+    {
+        "id": 13720,
+        "title": "Non-linear Regression Model for Fitting Experimental Emissions Data",
+        "authors": "Denise Ahrens, Sebastian Traub",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Abstract\nThe measurement and reporting of non-volatile Particulate Matter (nvPM) emissions is now integral to aircraft engine emission certification. Akin to other gaseous emissions, CAEP11 sets a new LTO based standard. So far, the question how nvPM emission can be corrected for ambient conditions has to remain open. Addressing this, combustor rig tests may be consulted, where performance parameter such as Air-to-fuel ratio, pressure and temperature can be varied independently. However, results from selected tests may be misleading as nvPM emissions may show measurement uncertainties within actual sensitivities. The paper provides a novel approach utilising experimental data to investigate the prevailing sensitivities at different operation conditions and derive applicable correction factors. This methodology makes use of the fundamental assumption that each change measured in nvPM emissions is explainable with the relative change in combustor AFR, the combustion chamber inlet pressure P3, and combustor inlet temperature T3, for a given combustor design running on the same fuel. Computing the relative changes between all measurements of the same test for all performance and emission parameters enables the fitting of a nonlinear regression model to the experimental data. The fitted function consists of the product of the relative change of the performance parameters to the power of polynomial exponents. The methodology has the potential to be applied to a wide variation of emissions data obtained from different sources as combustor rig tests as well as from engine emission tests. The paper concludes with a first application of the methodology to experimental engine emissions data and a short discussion on AFR sensitivity. In order to set-up a more broadly applicable model nvPM pathways and mechanisms and their dependencies must be better understood helping to identify relevant parameters, e.g. characteristic AFR in the nearfield of the fuel spray nozzle.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/gt2023-101631"
+    },
+    {
+        "id": 13721,
+        "title": "Time reversal of spinal processes for linear and non-linear branching processes near stationarity",
+        "authors": "Benoît Henry, Sylvie Méléard, Viet Chi Tran",
+        "published": "2023-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ejp911"
+    },
+    {
+        "id": 13722,
+        "title": "Nearest-Neighbor Mixture Models for Non-Gaussian Spatial Processes",
+        "authors": "Xiaotian Zheng, Athanasios Kottas, Bruno Sansó",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1405"
+    },
+    {
+        "id": 13723,
+        "title": "Monte-Carlo Methods and Stochastic Processes: From Linear to Non-Linear\n            <b>Monte-Carlo Methods and Stochastic Processes: From Linear to Non-Linear</b>\n            , by Emmanuel Gobet, Chapman &amp; Hall (2020). Hardback. ISBN 9780367658465.",
+        "authors": "Aurélien Alfonsi, Stefano De Marco",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/14697688.2024.2310568"
+    },
+    {
+        "id": 13724,
+        "title": "Stationary response analysis for a linear system under non-Gaussian random excitation by the equivalent non-Gaussian excitation method and the Hermite moment model",
+        "authors": "Takahiro Tsuchida, Koji Kimura",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.probengmech.2023.103504"
+    },
+    {
+        "id": 13725,
+        "title": "Beyond Linearity: Harnessing Spline Regression Models to Capture Non-linear Relationships",
+        "authors": "",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54908/iljs.2023.10.01.003"
+    },
+    {
+        "id": 13726,
+        "title": "Linear and Non-Linear Regression Analysis on the Prediction of Compressive Strength of Sodium Hydroxide Pre-Treated Crumb Rubber Concrete",
+        "authors": "Hamza Aamir, Kinza Aamir, Muhammad Faisal Javed",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023044005"
+    },
+    {
+        "id": 13727,
+        "title": "Interpretation Algorithm of Linear and Non-elementary Linear Regression Models Under Multicollinearity Conditions",
+        "authors": "M.P. Bazilevski",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "When constructing machine learning models, more and more researchers come to understanding that in addition to the accuracy of the model, its interpretability is also important, that means the degree of understandability to a person. Currently, a new field is being formed in science - interpretable machine learning. This article is devoted to the study of linear regression models interpretation questions. Traditionally, linear regressions are interpreted in terms of weak correlation of explanatory variables. In this case, according to a well-known pattern, it is possible to explain the influence of each input variable on the output variable. Often the explanatory variables are highly correlated with each other. In such a situation, it is recommended to exclude strongly correlated variables, that leads, firstly, to a decrease in the model quality, and secondly, to integrity loss of the study and the interpretation of a process or phenomenon under study. In this paper, we propose an algorithm for interpreting a linear regression constructed for any degree of explanatory variablecorrelation. The algorithm gives the traditional interpretation of linear regression with weak correlation of all explanatory variables, while in case of strong correlation, as it follows from the theorem proved in the article, regression interpretation with several variables is reduced to interpreting an equation with one variable, without losing information about the relationships between pairs of explanatory variables. The algorithm can be used not only for simple linear regressions, but also for non-elementary ones, containing, in addition to explanatory variables, their pairs transformed by means of binary operations min and max. The operation of the algorithm is demonstrated on specific examples.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22213/2410-9304-2023-3-40-47"
+    },
+    {
+        "id": 13728,
+        "title": "Adaptive soft sensor design using a regression neural network and bias update strategy for non-linear industrial processes",
+        "authors": "S Venkata Vijayan, Hare K Mohanta, Bijay K Rout, Ajaya Kumar Pani",
+        "published": "2023-8-1",
+        "citations": 3,
+        "abstract": "Abstract\nSoft sensing of quality parameters in process industries has been an active area of research for the past two decades. To improve the performance of soft sensors in the scenario of time varying process states, adaptation capability is incorporated into the soft sensor model. In this work, recursive (R), sliding window (SW) and just-in-time learning (JITL) frameworks are used for adaptive soft sensor design. A rarely explored modeling technique in the adaptation framework, the generalized regression neural network (GRNN) is used as a local modeling strategy. A bias update procedure is applied during the model adaptation activity to improve the prediction accuracy. Further, the performances of the developed models are tested against input–output data dimension mismatch along with various concept drift phenomena by considering a different number of labeled samples for inputs and outputs. The proposed adaptation strategy is applied on two benchmark industrial processes. Simulation results show that the GRNN local modeling approach combined with the bias update strategy gives higher prediction accuracy than other adaptive soft sensors proposed in the literature. Moreover, GRNN local modeling strategy using SW adaptation mechanism has the least computation time among the three adaptation methods due to the use of a low number of samples for model development.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6501/acca9a"
+    },
+    {
+        "id": 13729,
+        "title": "Controlling the Flexibility of Non-Gaussian Processes Through Shrinkage Priors",
+        "authors": "Rafael Cabral, David Bolin, Håvard Rue",
+        "published": "2023-12-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1342"
+    },
+    {
+        "id": 13730,
+        "title": "Efficient continuous piecewise linear regression for linearising univariate non-linear functions",
+        "authors": "John Alasdair Warwicker, Steffen Rebennack",
+        "published": "2024-2-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/24725854.2023.2299809"
+    },
+    {
+        "id": 13731,
+        "title": "Multiple Stock Prediction Based on Linear and Non-linear Machine Learning Regression Methods",
+        "authors": "Shuqi Chen",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "In contemporary times, the pressing issue of global environmental pollution has prompted the exploration of alternative energy sources by various industries, aiming to mitigate the adverse environmental impacts caused by traditional energy production. Correspondingly, investors in the financial market have increasingly redirected their capital towards the new energy sector. Within this context, the present research endeavors to employ machine learning techniques for the prediction of Tesla's stock price. This study leverages multiple linear regression, polynomial regression, and lag models to construct models based on the datasets of TSLA, MPC, and UNG stock prices spanning the period of 2019-2020. By discerning potential patterns among these variables, the objective is to anticipate the future trajectory of TSLA stock price. According to machine learning methods, Tesla's stock price can be predicted, and the daily price of Tesla is influenced by the opening price, high price, low price and trading volume of the stock on that day. In addition, the share prices of energy companies related to Tesla also have an impact on Tesla's share price on that day. Specifically, Tesla's stock price is influenced by Natural Gas Company (UNG), which has an opposite relationship. Although common sense economics says that the crude oil market will be closely related to the new energy market. However, the results of this study demonstrated that Tesla's stock price is less influenced by Crude Oil Company (MPC).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2754-1169/46/20230343"
+    },
+    {
+        "id": 13732,
+        "title": "Development of Rainfall Prediction Models using Linear and Non-linear Regression Techniques",
+        "authors": "Sandeep Kumar Sunori, Surya Kant, Pawan Agarwal, Pradeep Juneja",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353508"
+    },
+    {
+        "id": 13733,
+        "title": "Deep Kernel Learning based Gaussian Processes for Bayesian Image Regression Analysis",
+        "authors": "Jian Kang Zhang",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11159/icsta23.001"
+    },
+    {
+        "id": 13734,
+        "title": "Image denoising by linear regression on non-local means algorithm",
+        "authors": "Tugay Direk",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11760-024-03086-4"
+    },
+    {
+        "id": 13735,
+        "title": "Non-asymptotic bounds for the ℓ∞ estimator in linear regression with uniform noise",
+        "authors": "Yufei Yi, Matey Neykov",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3150/23-bej1607"
+    },
+    {
+        "id": 13736,
+        "title": "A Non-intrusive Solution to the Ill-Conditioning Problem of the Gradient-Enhanced Gaussian Covariance Matrix for Gaussian Processes",
+        "authors": "André L. Marchildon, David W. Zingg",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10915-023-02190-w"
+    },
+    {
+        "id": 13737,
+        "title": "Extended Target Tracking With a Lidar Sensor Using Random Matrices and a Gaussian Processes Regression Model",
+        "authors": "Patrick Hoher, Johannes Reuter, Daniel Dold, Dennis Griesser, Felix Govaers, Wolfgang Koch",
+        "published": "2023-6-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fusion52260.2023.10224159"
+    },
+    {
+        "id": 13738,
+        "title": "Delta Method Confidence Intervals for Linear Regression Processes With Long-memory Disturbances",
+        "authors": "Mosisa Aga",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "This paper provides third and fourth-order coverage probability errors of delta method confidence intervals (CIs) for the covariance parameters of a time series generated by a linear regression model with strongly dependent errors. The CIs are based on the plug-in maximum likelihood (PML) estimators. Bounds have been established on the coverage probability errors of one-and two-sided delta method CIs based on the plug-in log-likelihood (PLL) function under some sets of conditions on the regression coefficients, the spectral density function, and the parameter values. It is shown that the the fourth order delta method CIs in the case of linear regression model with Gaussian, stationary and strongly dependent errors have coverage probability errors of O(n^-1) and that of the third-order has errors of O(n^-1/2) which is the same order of magnitude asymptotically as in the independent and identically distributed (iid) case.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5539/ijsp.v12n5p12"
+    },
+    {
+        "id": 13739,
+        "title": "Optimizing Short-Term Photovoltaic Power Forecasting: A Novel Approach with Gaussian Process Regression and Bayesian Hyperparameter Tuning",
+        "authors": "Md. Samin Safayat Islam, Puja Ghosh, Md. Omer Faruque, Md. Rashidul Islam, Md. Alamgir Hossain, Md. Shafiul Alam, Md. Rafiqul Islam Sheikh",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "The inherent volatility of PV power introduces unpredictability to the power system, necessitating accurate forecasting of power generation. In this study, a machine learning (ML) model based on Gaussian process regression (GPR) for short-term PV power output forecasting is proposed. With its benefits in handling nonlinear relationships, estimating uncertainty, and generating probabilistic forecasts, GPR is an appropriate approach for addressing the problems caused by PV power generation’s irregularity. Additionally, Bayesian optimization to identify optimal hyper-parameter combinations for the ML model is utilized. The research leverages solar radiation intensity data collected at 60-min and 30-min intervals over periods of 1 year and 6 months, respectively. Comparative analysis reveals that the data set with 60-min intervals performs slightly better than the 30-min intervals data set. The proposed GPR model, coupled with Bayesian optimization, demonstrates superior performance compared to contemporary ML models and traditional neural network models. This superiority is evident in 98% and 90% improvements in root mean square errors compared to feed-forward neural network and artificial neural network models, respectively. This research contributes to advancing accurate and efficient forecasting methods for PV power output, thereby enhancing the reliability and stability of power systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr12030546"
+    },
+    {
+        "id": 13740,
+        "title": "A unifying perspective on non-stationary kernels for deeper Gaussian processes",
+        "authors": "Marcus M. Noack, Hengrui Luo, Mark D. Risser",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "The Gaussian process (GP) is a popular statistical technique for stochastic function approximation and uncertainty quantification from data. GPs have been adopted into the realm of machine learning (ML) in the last two decades because of their superior prediction abilities, especially in data-sparse scenarios, and their inherent ability to provide robust uncertainty estimates. Even so, their performance highly depends on intricate customizations of the core methodology, which often leads to dissatisfaction among practitioners when standard setups and off-the-shelf software tools are being deployed. Arguably, the most important building block of a GP is the kernel function, which assumes the role of a covariance operator. Stationary kernels of the Matérn class are used in the vast majority of applied studies; poor prediction performance and unrealistic uncertainty quantification are often the consequences. Non-stationary kernels show improved performance but are rarely used due to their more complicated functional form and the associated effort and expertise needed to define and tune them optimally. In this perspective, we want to help ML practitioners make sense of some of the most common forms of non-stationarity for Gaussian processes. We show a variety of kernels in action using representative datasets, carefully study their properties, and compare their performances. Based on our findings, we propose a new kernel that combines some of the identified advantages of existing kernels.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0176963"
+    },
+    {
+        "id": 13741,
+        "title": "An efficient two‐stage algorithm for parameter identification of non‐linear state‐space models‐based on Gaussian process regression",
+        "authors": "Xiaonan Li, Ping Ma, Zehua Wu, Tao Chao, Ming Yang",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "AbstractThis paper aims to improve the efficiency of parameter identification of the nonlinear state‐space model (SSM). The commonly used particle Markov chain Monte Carlo (PMCMC) method is time‐consuming. The surrogate model is a useful acceleration strategy, but it is expensive to establish a global high‐precision surrogate model. This paper proposes an efficient algorithm that gradually estimates the unknown parameters in two stages. In the first stage, a reduced region is established based on the latest method. We train a local Gaussian Process regression (GPR) of the likelihood function in the reduced region based on the optimum Latin hypercube design (OLHD). In the second stage, we identify the unknown parameters more accurately based on the MCMC method. When the proposal sample is in the reduced region, we use GPR to estimate the likelihood; otherwise, BPF is used to estimate the likelihood. The reduced region is usually the high probability density region, which is why the algorithm is efficient. It is proved that the acceptance rate of any two samples based on the proposed algorithm is theoretically convergent to that of the PMCMC algorithm. Two examples demonstrate that the proposed method performs well in accuracy and efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/cth2.12431"
+    },
+    {
+        "id": 13742,
+        "title": "Gaussian RBFNN method for solving FPK and BK equations in stochastic dynamical system with FOPID controller",
+        "authors": "Wei Li, Yu Guan, Dongmei Huang, Natasa Trisovic",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104403"
+    },
+    {
+        "id": 13743,
+        "title": "Gaussian mixture continuously adaptive regression for multimode processes soft sensing under time-varying virtual drift",
+        "authors": "Xiangrui Zhang, Chunyue Song, Jun Zhao, Deli Xia",
+        "published": "2023-4",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jprocont.2023.02.003"
+    },
+    {
+        "id": 13744,
+        "title": "CAPM-alpha estimation with robust regression vs. linear regression",
+        "authors": "Angel Samaniego,  ",
+        "published": "2023-1-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24275/uam/azc/dcsh/ae/2022v38n97/samaniego"
+    },
+    {
+        "id": 13745,
+        "title": "Optimization Of Replenishment and Sales Strategies of Vegetable Commodities Based on Multiple Linear Regression and Non-Linear Programming",
+        "authors": "Xiangkun Fu, Xiangshi Li, Wenhuizi Wang",
+        "published": "2024-1-20",
+        "citations": 0,
+        "abstract": "Automated pricing of vegetable items generates suggested selling prices for the items based on the provided item data, considering the structure of the data. The aim of this paper is to better help superstores plan future replenishment volumes and pricing strategies by analysing sales data for each category and individual item in the vegetable category. Specifically, this paper takes the category as a unit, uses the processed cost-plus pricing, sales volume, purchase price, and loss rate data of each vegetable category to establish a linear regression model, and based on the least squares method, the relationship between cost-plus pricing and total sales volume of each vegetable category is fitted to solve the problem, and the multivariate linear relationship expression with high fit is obtained; based on the cost-plus pricing rule, the future replenishment volume and pricing decision is established based on each category. Based on the cost-plus pricing rule, a nonlinear programming model is established based on the total daily replenishment and pricing decision for each category in the coming week, with the revenue of the superstore as the optimization objective, and considering the constraint of the transport loss rate, the total daily replenishment in the coming week under the maximal revenue is solved by using MATLAB to get the corresponding replenishment strategy, and then the total daily replenishment is substituted into the multivariate linear expression to calculate the corresponding pricing strategy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/tyaamw25"
+    },
+    {
+        "id": 13746,
+        "title": "Viscosity Model of Microalgae Slurry with Non-Linear Regression",
+        "authors": "Fajri Ashfi Rayhan",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15866/ireme.v17i10.23820"
+    },
+    {
+        "id": 13747,
+        "title": "Probabilistic response analysis of nonlinear vibro-impact systems with two correlated Gaussian white noises",
+        "authors": "Jing Li, Di Liu, Mengmeng Li",
+        "published": "2023-5",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104370"
+    },
+    {
+        "id": 13748,
+        "title": "Application of quantum computing to a linear non-Gaussian acyclic model for novel medical knowledge discovery",
+        "authors": "Hideaki Kawaguchi",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "Recently, the utilization of real-world medical data collected from clinical sites has been attracting attention. Especially as the number of variables in real-world medical data increases, causal discovery becomes more and more effective. On the other hand, it is necessary to develop new causal discovery algorithms suitable for small data sets for situations where sample sizes are insufficient to detect reasonable causal relationships, such as rare diseases and emerging infectious diseases. This study aims to develop a new causal discovery algorithm suitable for a small number of real-world medical data using quantum computing, one of the emerging information technologies attracting attention for its application in machine learning. In this study, a new algorithm that applies the quantum kernel to a linear non-Gaussian acyclic model, one of the causal discovery algorithms, is developed. Experiments on several artificial data sets showed that the new algorithm proposed in this study was more accurate than existing methods with the Gaussian kernel under various conditions in the low-data regime. When the new algorithm was applied to real-world medical data, a case was confirmed in which the causal structure could be correctly estimated even when the amount of data was small, which was not possible with existing methods. Furthermore, the possibility of implementing the new algorithm on real quantum hardware was discussed. This study suggests that the new proposed algorithm using quantum computing might be a good choice among the causal discovery algorithms in the low-data regime for novel medical knowledge discovery.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0283933"
+    },
+    {
+        "id": 13749,
+        "title": "Asymptotic and Non-Asymptotic Rate-Loss Bounds for Linear Regression with Side Information",
+        "authors": "Jiahui Wei, Elsa Dupraz, Philippe Mary",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289952"
+    },
+    {
+        "id": 13750,
+        "title": "Graphical Inference in Non-Markovian Linear-Gaussian State-Space Models",
+        "authors": "Émilie Chouzenoux, Víctor Elvira",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447747"
+    },
+    {
+        "id": 13751,
+        "title": "Wick–Fourier–Hermite Series in the Theory of Linear and Nonlinear Transformations of Gaussian Distributions",
+        "authors": "E. Chernousova, S. Molchanov, A. Shiryaev",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "This article provides information on Hermite polynomials and its application to some problems in risk theory and site percolation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61102/1024-2953-mprf.2023.29.4.001"
+    },
+    {
+        "id": 13752,
+        "title": "Maximum Correntropy AMM Filter for Linear Systems with Non-Gaussian Noise",
+        "authors": "Bao Liu, Haoning Yang, Xiaohang Zhai",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240648"
+    },
+    {
+        "id": 13753,
+        "title": "Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression",
+        "authors": "Ivan De Boi, Elissa Embrechts, Quirine Schatteman, Rudi Penne, Steven Truijen, Wim Saeys",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.artmed.2024.102770"
+    },
+    {
+        "id": 13754,
+        "title": "Mapping radioactive environments by use of sparse Gaussian processes regression",
+        "authors": "C. Amos Kipkosgei, Yong-Kuo Liu, Justina Onyinyechukwu Adibeli, Chengjie Duan, Peng Ding, Juqing Song",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.anucene.2024.110393"
+    },
+    {
+        "id": 13755,
+        "title": "Comparison of intracranial pressure prediction in hydrocephalus patients among linear, non-linear, and machine learning regression models in Thailand",
+        "authors": "Avika Trakulpanitkit, Thara Tunthanathip",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "Background: Hydrocephalus (HCP) is one of the most significant concerns in neurosurgical patients because it can cause increased intracranial pressure (ICP), resulting in mortality and morbidity. To date, machine learning (ML) has been helpful in predicting continuous outcomes. The primary objective of the present study was to identify the factors correlated with ICP, while the secondary objective was to compare the predictive performances among linear, non-linear, and ML regression models for ICP prediction. Methods: A total of 412 patients with various types of HCP who had undergone ventriculostomy was retrospectively included in the present study, and intraoperative ICP was recorded following ventricular catheter insertion. Several clinical factors and imaging parameters were analyzed for the relationship with ICP by linear correlation. The predictive performance of ICP was compared among linear, non-linear, and ML regression models. Results: Optic nerve sheath diameter (ONSD) had a moderately positive correlation with ICP (r=0.530, P<0.001), while several ventricular indexes were not statistically significant in correlation with ICP. For prediction of ICP, random forest (RF) and extreme gradient boosting (XGBoost) algorithms had low mean absolute error and root mean square error values and high R2 values compared to linear and non-linear regression when the predictive model included ONSD and ventricular indexes. Conclusions: The XGBoost and RF algorithms are advantageous for predicting preoperative ICP and establishing prognoses for HCP patients. Furthermore, ML-based prediction could be used as a non-invasive method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4266/acc.2023.00094"
+    },
+    {
+        "id": 13756,
+        "title": "Bootstrap Probability Errors of the Whittle MLE for Linear Regression Processes with Strongly Dependent Disturbances",
+        "authors": "Mosisa Aga",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "This paper determines bounds on the asymptotic orders of the coverage probability errors of parametric bootstrap confidence intervals (CIs) and tests for the covariance parameters of a time series generated by a regression model with Gaussian, stationary, and strongly dependent errors. The CIs and tests are based on the plug-in Whittle maximum\r\nlikelihood (PWML) estimators. It is shown that, under some sets of conditions on the regression coefficients, the spectral density function, and the parameter values, the bounds on the coverage probability errors of symmetric two-sided and one-sided parametric bootstrap confidence intervals on the plug-in Whittle log-likelihood function are shown to be O(n^{-3/2}\\ln{n}) and O(n^{-1}\\ln{n}), respectively. Apart from the \\ln{n} term, the magnitudes of the coverage probability errors of the one-sided bootstrap confidence intervals for our model is shown to be essentially the same as that of the independent and identically distributed (iid) data. The error for the two-sided confidence intervals is not as small as the error O(n^{-2}) that has been established for many confidence intervals in the literature, see Hall (1992), pp 102-108.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5539/ijsp.v12n4p26"
+    },
+    {
+        "id": 13757,
+        "title": "Neural Inference of Gaussian Processes for Time Series Data of Quasars",
+        "authors": "Egor Danilov, Aleksandra Ciprijanovic, Brian Nord",
+        "published": "2023-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2172/1915431"
+    },
+    {
+        "id": 13758,
+        "title": "A method for detecting outliers in linear-circular non-parametric regression",
+        "authors": "Sümeyra Sert, Filiz Kardiyen",
+        "published": "2023-6-12",
+        "citations": 0,
+        "abstract": "This study proposes a robust outlier detection method based on the circular median for non-parametric linear-circular regression in case the response variable includes outlier(s) and the residuals are Wrapped-Cauchy distributed. Nadaraya-Watson and local linear regression methods were employed to obtain non-parametric regression fits. The proposed method’s performance was investigated by using a real dataset and a comprehensive simulation study with different sample sizes, contamination, and heterogeneity degrees. The method performs quite well in medium and higher contamination degrees, and its performance increases as the sample size and the homogeneity of data increase. In addition, when the response variable of linear-circular regression contains outliers, the Local Linear Estimation method fits the data set better than the Nadaraya Watson method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0286448"
+    },
+    {
+        "id": 13759,
+        "title": "Predicting the performance of an industrial furnace using Gaussian process and linear regression: A comparison",
+        "authors": "Andrea Galeazzi, Francesco de Fusco, Kristiano Prifti, Francesco Gallo, Lorenz Biegler, Flavio Manenti",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compchemeng.2023.108513"
+    },
+    {
+        "id": 13760,
+        "title": "Adaptive Gaussian Search : A Novel Non-linear Minimization Technique [Presidential Award Proceedings]",
+        "authors": "Koichi OSHIO",
+        "published": "2023-5-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2463/jjmrm.2022-1775"
+    },
+    {
+        "id": 13761,
+        "title": "Generation of hyper-bunched light by single Gaussian and non-Gaussian scattering processes",
+        "authors": "Wolfgang Elsässer",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "We derive theoretically that hyper-bunched light with a central normalized second-order correlation coefficient of six can be realized by a single Gaussian scattering process of parametric down conversion (PDC) light with a central normalized second-order correlation coefficient of three. The Gaussian scattering process is realized by a rotating ground-glass diffuser. We show that the photon counting probability distribution in this case obeys a Tricomi confluent hypergeometric function U[1+n,3/2,1/⟨n⟩] dependence. Furthermore, we also study non-Gaussian light-scattering probabilities that together with the different impinging light statistics give rise to new photon statistics accompanied by a variety of new values of the second-order correlation coefficient of the scattered light. These theoretical calculations suggest experiments using twin photons from a PDC process and characterizing their photon statistics properties before and after the scattering at the rotating diffuser. These investigations contribute to a more comprehensive understanding of the scattering process, the generated light, and new applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1364/josab.510767"
+    },
+    {
+        "id": 13762,
+        "title": "Simulation of non-stationary and non-Gaussian stochastic processes by the AFD-Type Sparse Representations",
+        "authors": "Ying Zhang, Wei Qu, He Zhang, Tao Qian",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymssp.2023.110762"
+    },
+    {
+        "id": 13763,
+        "title": "Construction of quite interpretable non-elementary linear regression models",
+        "authors": "Mikhail P. Bazilevskiy",
+        "published": "2023-1-14",
+        "citations": 0,
+        "abstract": "Subject of research: mixed-integer 0-1 linear programming problem for choosing optimal structures for non-elementary linear regression models.\r\nPurpose of research: integrate into the mixed-integer 0-1 linear programming problem additional constraints that will guarantee the construction of quite interpretable non-elementary linear regressions.\r\nMethods of research: regression analysis, mathematical programming, method of successive increase the absolute contributions of variables to the general determination.\r\nObject of research: non-elementary linear regression models.\r\nMain results of research: in the mixed-integer 0-1 linear programming problem, designed to construct non-elementary regressions, additional linear constraints on the absolute contributions of variables to the general determination are integrated, allowing you to control both the contributions themselves and multicollinearity in the model. It is shown how it is necessary to regulate these constraints so that the non-elementary linear regression obtained as a result of solving the problem is quite interpretable. The proposed mathematical apparatus was used to model railroad freight transportation in the Tyumen region. An interpretation of the obtained high-precision and quite interpretable non-elementary linear regression is given.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18822/byusu202204105-114"
+    },
+    {
+        "id": 13764,
+        "title": "Lean-and-Green Datacentric Engineering in Laser Cutting: Non-Linear Orthogonal Multivariate Screening Using Gibbs Sampling and Pareto Frontier",
+        "authors": "Georgia Sembou, George Besseris",
+        "published": "2024-2-13",
+        "citations": 0,
+        "abstract": "Metal processing may benefit from innovative lean-and-green datacentric engineering techniques. Broad process improvement opportunities in the efficient usage of materials and energy are anticipated (United Nations Sustainable Development Goals #9, 12). A CO2 laser cutting method is investigated in this study in terms of product characteristics (surface roughness (SR)) and process characteristics (energy (EC) and gas consumption (GC) as well as cutting time (CT)). The examined laser cutter controlling factors were as follows: (1) the laser power (LP), (2) the cutting speed (CS), (3) the gas pressure (GP) and, (4) the laser focus length (F). The selected 10mm-thick carbon steel (EN10025 St37-2) workpiece was arranged to have various geometric configurations so as to simulate a variety of real industrial milling demands. Non-linear saturated screening/optimization trials were planned using the Taguchi-type L9(34) orthogonal array. The resulting multivariate dataset was treated using a combination of the Gibbs sampler and the Pareto frontier method in order to approximate the strength of the studied effects and to find a solution that comprises the minimization of all the tested process/product characteristics. The Pareto frontier optimal solution was (EC, GC, CT, SR) = (4.67 kWh, 20.35 Nm3, 21 s, 5.992 μm) for the synchronous screening/optimization of the four characteristics. The respective factorial settings were optimally adjusted at the four inputs (LP, CS, GP, F) located at (4 kW, 1.9 mm/min, 0.75 bar, +2.25 mm). The linear regression analysis was aided by the Gibbs sampler and promoted the laser power and the cutting speed on energy consumption to be stronger effects. Similarly, a strong effect was identified of the cutting speed and the gas pressure on gas consumption as well as a reciprocal effect of the cutting speed on the cutting time. Further industrial explorations may involve more intricate workpiece geometries, burr formation phenomena, and process economics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr12020377"
+    },
+    {
+        "id": 13765,
+        "title": "Distributed Control of an Ill-Conditioned Non-Linear Process Using Control Relevant Excitation Signals",
+        "authors": "Yusuf Abubakar Sha’aban",
+        "published": "2023-11-29",
+        "citations": 0,
+        "abstract": "Efficient control schemes for ill-conditioned systems, such as the high-purity distillation column, can be challenging and costly to design and implement. In this paper, we propose a distributed control scheme that utilizes well-designed excitation signals to identify the system. Unlike traditional systems, we found that a summation of correlated and uncorrelated signals can yield better excitation of the plant. Our proposed distributed model predictive control (MPC) scheme uses a shifted input sequence to address loop interactions and reduce the computational load. This approach deviates from traditional schemes that use iteration, which can increase complexity and computational load. We initially tested the proposed method on the linear model of a highly coupled 2 × 2 process and compared its performance with decentralized proportional-integral-derivative (PID) controllers and centralized MPC. Our results show improved performance over PID controllers and similar results to centralized MPC. Furthermore, we compared the performance of the proposed approach with a centralized MPC on a nonlinear model of a distillation column. The results for the second study also demonstrated comparable performance between the two controllers with the decentralised control slightly outperforming the centralised MPC in some cases. These findings are promising and may be of interest to practitioners that are more comfortable with tuning decentralised loops.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr11123320"
+    },
+    {
+        "id": 13766,
+        "title": "Developing a resilient and sustainable non-linear closed-loop supply chain management framework for the automotive sector industry using a gaussian fuzzy optimization based non-linear model predictive control approach",
+        "authors": "Sachin B. Khot, S. Thiagarajan",
+        "published": "2024-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/21681015.2023.2269926"
+    },
+    {
+        "id": 13767,
+        "title": "Moment Lyapunov exponent and stochastic stability of a vibro-impact system driven by non-Gaussian colored noise",
+        "authors": "Dongliang Hu, Ningping Guo, Kun Zhao, Juan L.G. Guirao, Huatao Chen",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2024.104693"
+    },
+    {
+        "id": 13768,
+        "title": "Nonparametric estimation of linear multiplier in SDEs driven by general Gaussian processes",
+        "authors": "B. L. S. Prakasa Rao",
+        "published": "2023-12-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10485252.2023.2288842"
+    },
+    {
+        "id": 13769,
+        "title": "Neutrosophic Non-linear Regression based on Kuhn-Tucker Necessary Conditions",
+        "authors": "",
+        "published": "2023-1-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18576/jsap/120105"
+    },
+    {
+        "id": 13770,
+        "title": "Functional linear non-Gaussian acyclic model for causal discovery",
+        "authors": "Tian-Le Yang, Kuang-Yao Lee, Kun Zhang, Joe Suzuki",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41237-024-00226-5"
+    },
+    {
+        "id": 13771,
+        "title": "Internal Factor Analysis of Non-Performing Loans Using Multiple Linear Regression Method",
+        "authors": "Muhammad Irfandi, Fitria Fitria",
+        "published": "2023-6-6",
+        "citations": 0,
+        "abstract": "Loans are the largest source of income from banks compared to other sources of income. To ensure bank continuity, Bank income must exist from interest on loans, reaching almost 95% of all bank activities. For companies and banks that apply loan differences, loans are receivables which are cash that is delayed in receipt. Having problem loans can weaken a bank's financial condition. In general, two factors cause problems with loans, namely internal and external factors of the bank. Bank internal factors can be controlled by banks, compared to external factors, to prevent problem loans. Therefore, in this study, an analysis of internal factors affecting problem loans was carried out. The internal factors analyzed are the things that become the process and the essential part of the loan process, which includes loan supervision, acceptance procedures, and loan guarantees. This analysis is carried out to minimize the risk of non-performing loans caused by the inner side of the organization. The method used for analysis is using multiple linear regression analysis. Multiple linear regression analysis analyzed the relationship between the three independent variables (loan monitoring, acceptance procedures, and loan guarantees) and one dependent variable (non-performing loans). Multiple linear regression analysis provides predictions of the value of the dependent variable if the value of the independent variable increases or decreases and describes the direction of the relationship between the independent variable and the dependent variable, whether each independent variable is positively or negatively related. Based on the analysis results, the influence of loan monitoring factors, acceptance procedures, and loan guarantees on problem loans can be concluded that there is an influence between loan supervision and acceptance procedures on problem loans. At the same time, there is no effect between loan guarantees on problem loans.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34288/jri.v5i3.535"
+    },
+    {
+        "id": 13772,
+        "title": "Blow-up for a non-linear stable non-Gaussian process in fractional time",
+        "authors": "Soveny Solís, Vicente Vergara",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13540-023-00151-6"
+    },
+    {
+        "id": 13773,
+        "title": "Internal Factor Analysis of Non-Performing Loans Using Multiple Linear Regression Method",
+        "authors": "Muhammad Irfandi, Fitria Fitria",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "Loans are the largest source of income from banks compared to other sources of income. To ensure bank continuity, Bank income must exist from interest on loans, reaching almost 95% of all bank activities. For companies and banks that apply loan differences, loans are receivables which are cash that is delayed in receipt. Having problem loans can weaken a bank's financial condition. In general, two factors cause problems with loans, namely internal and external factors of the bank. Bank internal factors can be controlled by banks, compared to external factors, to prevent problem loans. Therefore, in this study, an analysis of internal factors affecting problem loans was carried out. The internal factors analyzed are the things that become the process and the essential part of the loan process, which includes loan supervision, acceptance procedures, and loan guarantees. This analysis is carried out to minimize the risk of non-performing loans caused by the inner side of the organization. The method used for analysis is using multiple linear regression analysis. Multiple linear regression analysis analyzed the relationship between the three independent variables (loan monitoring, acceptance procedures, and loan guarantees) and one dependent variable (non-performing loans). Multiple linear regression analysis provides predictions of the value of the dependent variable if the value of the independent variable increases or decreases and describes the direction of the relationship between the independent variable and the dependent variable, whether each independent variable is positively or negatively related. Based on the analysis results, the influence of loan monitoring factors, acceptance procedures, and loan guarantees on problem loans can be concluded that there is an influence between loan supervision and acceptance procedures on problem loans. At the same time, there is no effect between loan guarantees on problem loans.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.34288/jri.v5i3.222"
+    },
+    {
+        "id": 13774,
+        "title": "Non-linear Regression Models for Predicting Biogas Yields from Selected Bio-wastes",
+        "authors": "C. Idika, Aimikhe, Victor Joseph",
+        "published": "2023-3-16",
+        "citations": 0,
+        "abstract": "The benefits of biogas as alternative energy to other fossil fuel sources, due to its renewability, environmentally friendly nature, health benefits, etc., cannot be overemphasized. There are numerous models for predicting biogas production rate from bio-materials, including the modified Gompertz equation. These models are primarily dependent on specific biomass parameters. When any of these parameters, like the slurry volume, changes, another round of experiments must be conducted and curve fitted before biogas yield predictions can be made. This could be time-consuming and costly. Using experimentally published data, simple empirical models can be developed for predicting biogas yields over a range of input parameters. This will eliminate the need for always performing experiments before biogas yield predictions can be made. In light of this, scarce literature provides explicit models for predicting biogas yield over a range of parameters based on published data. This study developed non-linear regression models using published data on parameters that affect biogas yields, like the slurry volume, carbon-to-nitrogen ratio, temperature, total solids, volatile solids, hydraulic retention time, and pH. The data covered seven readily available bio-wastes, including cow dung, cow dung with plant waste, cow dung with poultry dung, poultry dung with grass, pig dung, and plant wastes. On validation of the models, the results showed that the models had a relatively low standard error of estimates, Akaike information criterion, Schwarz criterion, and Hannan-Quinn information criterion. Furthermore, the coefficients of determination, R2, were between 94.62 and 98.93%. The percentage average absolute deviation (% AAD) for each model was less than 7 %. The non-linear models were found to adequately predict the biogas yields within the limits of the available data set.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9734/jenrr/2023/v13i2261"
+    },
+    {
+        "id": 13775,
+        "title": "Performance prediction of industrial robot harmonic reducer via feature transfer and Gaussian process regression",
+        "authors": "Mantang Hu, Guofeng Wang, Zenghuan Cao",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "This paper addresses the problem of identifying faults in the harmonic reducers of industrial robots by analysing their vibration signals. In order to solve the problem of obtaining fault data and rotation error from harmonic reducers in service, an accuracy performance prediction method\n based on transfer learning and Gaussian process regression (GPR) is proposed. The Euclidean distance between the spectral sequence of each component is proposed as the fitness index to optimise the transition bandwidth of the filter banks. The optimised empirical wavelet transform (OEWT) is\n used for signal decomposition to obtain sensitive frequency bands. A feature transfer method based on semi-supervised transfer component analysis (SSTCA) is proposed to achieve target domain feature transfer under missing data conditions. A prediction model based on GPR is established using\n the mapped features to predict the performance and accuracy of the harmonic reducer. The effectiveness of the proposed method is verified through model evaluation indicators and degradation experiments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1784/insi.2024.66.1.41"
+    },
+    {
+        "id": 13776,
+        "title": "Gaussian Processes-BayesFilters with Non-Parametric Data Optimization for Efficient 2D LiDAR Based People Tracking",
+        "authors": "Zulkarnain Zainudin, Sarath Kodagoda",
+        "published": "2023-3-19",
+        "citations": 0,
+        "abstract": "A model for expressing and describing human motion patterns must be able to improve tracking accuracy. However, Conventional Bayesian Filters such as Kalman Filter (KF) and Particle Filter (PF) are vulnerable to failure when dealing with highly maneuverable targets and long-term occlusions. Gaussian Processes (GP) is then used to adapt human motion patterns and integrate the model with Bayesian Filters. In GP, all samples in training phase need to be included and periodically, new samples will be added into training samples whenever it is available. Larger amount of data will increase the computational time to produce the learned GP models due to data redundancies. As a result, Mutual Information (MI) based technique with Mahalanobis Distance (MD) is developed to keep only the informative data. This method is used to process data which is collected by a robot equipped with a LiDAR. Experiments have demonstrated that reducing data does not raise Average Root Mean Square Error (ARMSE) considerably. EKF, PF, GP-EKF and GP-PF are utilised as a tool for tracking people and all techniques have been analyzed in order to distinguish which method is more efficient. The performance of GP-EKF and GP-PF are then compared to EKF and PF where it proved that GP-BayesFilters performs better than Conventional Bayesian Filters. The proposed approach has reduced data points up to more than 90\\% while keeping the ARMSE within acceptable limits. This data optimization technique will save computational time especially when deal with periodically accumulative data sets. Comparing on four tracking methods, both GP-PF and GP-EKF have achieved higher tracking performance when dealing with  highly maneuverable targets and occlusions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31763/ijrcs.v3i2.901"
+    },
+    {
+        "id": 13777,
+        "title": "KAJIAN SIMULASI PERBANDINGAN METODE RIDGE REGRESSION DAN ADJUSTED RIDGE REGRESSION UNTUK PENANGANAN MULTIKOLINEARITAS",
+        "authors": "Choirun Nisa, Siti Hariati Hastuti",
+        "published": "2024-2-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14710/j.gauss.12.3.330-339"
+    },
+    {
+        "id": 13778,
+        "title": "A Palm space approach to non-linear Hawkes processes",
+        "authors": "Philippe Robert, Gaëtan Vignoud",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ejp1063"
+    },
+    {
+        "id": 13779,
+        "title": "Privacy-enhanced and non-interactive linear regression with dropout-resilience",
+        "authors": "Gang He, Yanli Ren, Mingyun Bian, Guorui Feng, Xinpeng Zhang",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.02.080"
+    },
+    {
+        "id": 13780,
+        "title": "Principal Component Analysis  a study of used sailboat price forecasting based on a quadratic non-linear regression model",
+        "authors": "Yiyuan Gu",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "As sailing becomes more popular, more and more people are getting into sailing and the consumer market for sailing is expanding. Sailboat dealers need to price their sailing boats appropriately in order to attract consumers and make a profit. There are many factors that influence the price of a sailboat, and this paper examines the impact of the year of manufacture, size, draft, sail area and displacement, all of which are attributes of a sailboat, as well as the regional factor of GDP, on the pricing of a sailboat.\r\n ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56028/aetr.6.1.323.2023"
+    },
+    {
+        "id": 13781,
+        "title": "Generalised shot-noise representations of stochastic systems driven by non-Gaussian Lévy processes",
+        "authors": "Simon Godsill, Ioannis Kontoyiannis, Marcos Tapia Costa",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "Abstract\nWe consider the problem of obtaining effective representations for the solutions of linear, vector-valued stochastic differential equations (SDEs) driven by non-Gaussian pure-jump Lévy processes, and we show how such representations lead to efficient simulation methods. The processes considered constitute a broad class of models that find application across the physical and biological sciences, mathematics, finance, and engineering. Motivated by important relevant problems in statistical inference, we derive new, generalised shot-noise simulation methods whenever a normal variance-mean (NVM) mixture representation exists for the driving Lévy process, including the generalised hyperbolic, normal-gamma, and normal tempered stable cases. Simple, explicit conditions are identified for the convergence of the residual of a truncated shot-noise representation to a Brownian motion in the case of the pure Lévy process, and to a Brownian-driven SDE in the case of the Lévy-driven SDE. These results provide Gaussian approximations to the small jumps of the process under the NVM representation. The resulting representations are of particular importance in state inference and parameter estimation for Lévy-driven SDE models, since the resulting conditionally Gaussian structures can be readily incorporated into latent variable inference methods such as Markov chain Monte Carlo, expectation-maximisation, and sequential Monte Carlo.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/apr.2023.63"
+    },
+    {
+        "id": 13782,
+        "title": "Time-dependent structural reliability under nonstationary and non-Gaussian processes",
+        "authors": "Wei Yang, Bohua Zhang, Weigang Wang, Chun-Qing Li",
+        "published": "2023-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.strusafe.2022.102286"
+    },
+    {
+        "id": 13783,
+        "title": "Approximate Gaussian Process Regression with Pairwise Comparison Data",
+        "authors": "Efe Sertkaya, Ilya O. Ryzhov",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wsc60868.2023.10407964"
+    },
+    {
+        "id": 13784,
+        "title": "A spectrum of physics-informed Gaussian processes for regression in engineering",
+        "authors": "Elizabeth J. Cross, Timothy J. Rogers, Daniel J. Pitchforth, Samuel J. Gibson, Sikai Zhang, Matthew R. Jones",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "Abstract\nDespite the growing availability of sensing and data in general, we remain unable to fully characterize many in-service engineering systems and structures from a purely data-driven approach. The vast data and resources available to capture human activity are unmatched in our engineered world, and, even in cases where data could be referred to as “big,” they will rarely hold information across operational windows or life spans. This paper pursues the combination of machine learning technology and physics-based reasoning to enhance our ability to make predictive models with limited data. By explicitly linking the physics-based view of stochastic processes with a data-based regression approach, a derivation path for a spectrum of possible Gaussian process models is introduced and used to highlight how and where different levels of expert knowledge of a system is likely best exploited. Each of the models highlighted in the spectrum have been explored in different ways across communities; novel examples in a structural assessment context here demonstrate how these approaches can significantly reduce reliance on expensive data collection. The increased interpretability of the models shown is another important consideration and benefit in this context.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/dce.2024.2"
+    },
+    {
+        "id": 13785,
+        "title": "On Concentration Bounds for Bayesian Identification of Linear Non-Gaussian Systems",
+        "authors": "Yeoneung Kim, Gihun Kim, Insoon Yang",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cdc49753.2023.10384233"
+    },
+    {
+        "id": 13786,
+        "title": "Thermal and Energy Transport Prediction in Non-Newtonian Biomagnetic Hybrid Nanofluids using Gaussian Process Regression",
+        "authors": "S. Gopi Krishna, M. Shanmugapriya, B. Rushi Kumar, Nehad Ali Shah",
+        "published": "2024-4-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-024-08834-9"
+    },
+    {
+        "id": 13787,
+        "title": "Modern non-linear function-on-function regression",
+        "authors": "Aniruddha Rajendra Rao, Matthew Reimherr",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10299-z"
+    },
+    {
+        "id": 13788,
+        "title": "ParaLiNGAM: Parallel causal structure learning for linear non-Gaussian acyclic models",
+        "authors": "Amirhossein Shahbazinia, Saber Salehkaleybar, Matin Hashemi",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jpdc.2023.01.007"
+    },
+    {
+        "id": 13789,
+        "title": "153 Genomic Prediction and Genetic Parameters of Residual Feed Intake Computed Using Linear and Non-Linear Regression Methods in Broiler Chickens",
+        "authors": "Anderson A Carvalho Alves, Arthur F Araujo Fernandes, Vivian Breen, Rachel Hawken",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "Abstract\nFeed efficiency traits are important for reducing feeding costs while potentially decreasing the environmental impact of broiler production. This study aimed to compare the predictive ability of different genome-wide prediction models for residual feed intake (RFI) calculated with linear and non-linear regression techniques. We also evaluated the heritability of such RFI as well as their associations with body weight. Genotypes and phenotypes used in this study were recorded from 32,747 purebred broiler chickens of both sexes. The individual feed intake was monitored daily in floor-raised birds using a radio-frequency antenna system. RFI was computed as the residual term of total feed intake (FI) adjusted for the average metabolic weight (AMW), body weight gain (BWG), and sex. The following regression methods were used to compute RFI: multiple linear regression (MLR), generalized additive model using splines (GAM), support vector regression using a radial basis kernel (SVR), and two-hidden layer neural network (NN). The different RFI assessments were fitted jointly with body weight measured at the end of the feeding trial (FBW) using a two-trait mixed model. The effects of contemporary groups were fitted as fixed for both traits, whereas sex was also considered for FBW. RFI (computed with different regression techniques) was predicted using different genomic prediction models (BayesA, BayesB, BayesCπ, GBLUP, RKHS, and SVR). Genomic prediction accuracy (ACC) was assessed using a random forward validation scheme, in which data from previous generations were used for training the models while later generations were used to test predictions. The effect of the RFI computation method on ACC was tested using an unpaired Wilcoxon test. Sample variance observed for RFI ranged between 57,207.04 and 59,254.76, depending on the regression method used to compute it. Overall, the RFI sample variance was smaller for non-linear methods (NN, SVR, and GAM) compared with the linear model (MLR). The regression methods did not impact the genetic parameter estimates for RFI, which presented a heritability value around 0.32 ± 0.015 and genetic correlation with FBW ranging between 0.22 ± 0.04 and 0.25 ± 0.04. Prediction accuracy across genomic regression methods was slightly higher (P-value = 0.038) when RFI was computed with SVR (0.336 ± 0.023) compared with the MLR (0.329 ± 0.025), although this small difference would have little practical implications. No differences in terms of ACC were observed among the other regression methods used to compute RFI. Our preliminary results indicate that the regression technique used to compute RFI does not have major implications for this trait. Therefore, the MLR method is the preferred choice as it is simpler to implement, and it provides easy-to-interpret parameters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/jas/skad281.055"
+    },
+    {
+        "id": 13790,
+        "title": "Machine-learning-based predictions of imprinting quality using ensemble and non-linear regression algorithms",
+        "authors": "Bita Yarahmadi, Seyed Majid Hashemianzadeh, Seyed Mohammad-Reza Milani Hosseini",
+        "published": "2023-7-26",
+        "citations": 2,
+        "abstract": "AbstractThe molecularly imprinted polymers are artificial polymers that, during the synthesis, create specific sites for a definite purpose. These polymers due to their characteristics such as stability, easy of synthesis, reproducibility, reusability, high accuracy, and selectivity have many applications. However, the variety of the functional monomers, templates, solvents, and synthesis conditions like pH, temperature, the rate of stirring, and time, limit the selectivity of imprinting. The Practical optimization of the synthetic conditions has many drawbacks, including chemical compound usage, equipment requirements, and time costs. The use of machine learning (ML) for the prediction of the imprinting factor (IF), which indicates the quality of imprinting is a very interesting idea to overcome these problems. The ML has many advantages, for example a lack of human error, high accuracy, high repeatability, and prediction of a large amount of data in the minimum time. In this research, ML was used to predict the IF using non-linear regression algorithms, including classification and regression tree, support vector regression, and k-nearest neighbors, and ensemble algorithms, like gradient boosting (GB), random forest, and extra trees. The data sets were obtained practically in the laboratory, and inputs, included pH, the type of the template, the type of the monomer, solvent, the distribution coefficient of the MIP (KMIP), and the distribution coefficient of the non-imprinted polymer (KNIP). The mutual information feature selection method was used to select the important features affecting the IF. The results showed that the GB algorithm had the best performance in predicting the IF, and using this algorithm, the maximum R2 value (R2 = 0.871), and the minimum mean absolute error (MAE = − 0.982), and mean square error were obtained (MSE = − 2.303).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-39374-1"
+    },
+    {
+        "id": 13791,
+        "title": "MSR103 Comparative Study of Alternatives Non-Linear Dose-Response Regression Models",
+        "authors": "S. Pandey, B. Singh, S. Kaur, A. Sharma",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jval.2023.03.2757"
+    },
+    {
+        "id": 13792,
+        "title": "Inferential Statistics II: Linear Regression via the Linear Least Square Method in R",
+        "authors": "Steffen Schwerdtfeger",
+        "published": "2023-3-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56776/abbd964d.f663afb2"
+    },
+    {
+        "id": 13793,
+        "title": "Bivariate and Multivariate Data Cloning through Non Linear Regression Models",
+        "authors": "Sajid Hussain, Zafar Iqbal,  Muhammad Mansoor,  Rashid Ahmed",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "Nonlinear regression analysis holds significant popularity in mathematical, engineering, and social science domains. Disciplines like financial matters, biology, and natural chemistry have broadly utilized nonlinear regression models (NLRMs). Cloned datasets have their own importance in such areas which provide the same fit of bivariate and multivariate nonlinear regression models for the actual datasets. This article presents a sequence of cloned datasets that give exactly the same fit of bivariate and multivariate nonlinear regression models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32350/sir.73.01"
+    },
+    {
+        "id": 13794,
+        "title": "Evaluating parametric uncertainty using non-linear regression in fringe projection",
+        "authors": "George Gayton, Mohammed Isa, Richard K. Leach",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.optlaseng.2022.107377"
+    },
+    {
+        "id": 13795,
+        "title": "Non-contact Respiration Monitoring Using Bio- Radar Sensor Based on Linear Regression Classifier",
+        "authors": "Muhamad Fahrudin Y., Syaifudin Syaifudin, Bambang Guruh Irianto, Phuoc-Hai Huynh",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "Tuberculosis (TB) is an infectious disease that mainly attacks the lungs, caused by the bacterium Mycobacterium tuberculosis. To reduce its spread, hospitals use special rooms for TB patients and health workers follow strict Standard Operating Procedures (SOP). Recent advances in medical technology have led to the development of contactless respiratory monitoring techniques, such as bio-radar sensors that utilize the Doppler principle to detect lung movement. This research aims to explore the application of bio-radar sensors for contactless respiratory rate monitoring and then combine it with machine learning methods, specifically using linear regression algorithms, to translate bio-radar output into measurable respiratory rate values. By training a regression model using a processed raw data set to identify inspiration and expiration, where 1 is inspiration and 0 is expiration. To test the performance of the contactless breathing module, it was compared to a patient monitor. The module and comparison tool were run simultaneously with 10 measurement distance points for 10 patients or respondents with each distance point taken three times. The data that has been obtained from the results of comparisons between modules and comparison tools is entered into machine learning data analysis techniques, namely accuracy, precision and recall. The accuracy results were 74.9%, precision 71.4% and recall 83.3%. This research has proven that bio radar can be used to detect lung movement.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35882/teknokes.v17i1.664"
+    },
+    {
+        "id": 13796,
+        "title": "Statistical features of systems driven by non-Gaussian processes: theory &amp; practice",
+        "authors": "Dario Lucente, Andrea Puglisi, Massimiliano Viale, Angelo Vulpiani",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "Abstract\nNowadays many tools, e.g. fluctuation relations, are available to characterize the statistical properties of non-equilibrium systems. However, most of these tools rely on the assumption that the driving noise is normally distributed. Here we consider a class of Markov processes described by Langevin equations driven by a mixture of Gaussian and Poissonian noises, focusing on their non-equilibrium properties. In particular, we prove that detailed balance does not hold even when correlation functions are symmetric under time reversal. In such cases, a breakdown of the time reversal symmetry can be highlighted by considering higher order correlation functions. Furthermore, the entropy production may be different from zero even for vanishing currents. We provide analytical expressions for the average entropy production rate in several cases. We also introduce a scale dependent estimate for entropy production, suitable for inference from experimental signals. The empirical entropy production allows us to discuss the role of spatial and temporal resolutions in characterizing non-equilibrium features. Finally, we revisit the Brownian gyrator introducing an additional Poissonian noise showing that it behaves as a two dimensional linear ratchet. It has also the property that when Onsager relations are satisfied its entropy production is positive although it is minimal. We conclude discussing estimates of entropy production for partially accessible systems, comparing our results with the lower bound provided by the thermodynamic uncertainty relations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-5468/ad063b"
+    },
+    {
+        "id": 13797,
+        "title": "Novel Hermite Polynomial Model Based on Probability-Weighted Moments for Simulating Non-Gaussian Stochastic Processes",
+        "authors": "Yang Li, Jun Xu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/jenmdt.emeng-7100"
+    },
+    {
+        "id": 13798,
+        "title": "Advancing Gaussian Processes: The Noack-Risser Method",
+        "authors": "Marcus Noack, Mark Risser",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33548/scientia991"
+    },
+    {
+        "id": 13799,
+        "title": "Non-Invasive Measurement of Blood Glucose Levels Using Linear Regression and Clark Error Grid Analysis Methods",
+        "authors": "Daffa Syah Alam, Rika Rokhana, Ronny Susetyoko",
+        "published": "2023-10-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icvee59738.2023.10348210"
+    },
+    {
+        "id": 13800,
+        "title": "Fine-tuned sensitivity analysis for non-ignorable missing data mechanism in linear regression models",
+        "authors": "Rong Zhu, Peng Yin, Jian Qing Shi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4310/22-sii748"
+    },
+    {
+        "id": 13801,
+        "title": "Eigenvalue processes of symmetric tridiagonal matrix-valued processes associated with Gaussian beta ensemble",
+        "authors": "Satoshi Yabuoku",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.spa.2023.07.004"
+    },
+    {
+        "id": 13802,
+        "title": "Norm inflation for a non-linear heat equation with gaussian initial conditions",
+        "authors": "Ilya Chevyrev",
+        "published": "2023-10-15",
+        "citations": 2,
+        "abstract": "AbstractWe consider a non-linear heat equation$$\\partial _t u = \\Delta u + B(u,Du)+P(u)$$∂tu=Δu+B(u,Du)+P(u)posed on thed-dimensional torus, wherePis a polynomial of degree at most 3 andBis a bilinear map that is not a total derivative. We show that, if the initial condition$$u_0$$u0is taken from a sequence of smooth Gaussian fields with a specified covariance, thenuexhibits norm inflation with high probability. A consequence of this result is that there exists no Banach space of distributions which carries the Gaussian free field on the 3D torus and to which the DeTurck–Yang–Mills heat flow extends continuously, which complements recent well-posedness results of Cao–Chatterjee and the author with Chandra–Hairer–Shen. Another consequence is that the (deterministic) non-linear heat equation exhibits norm inflation, and is thus locally ill-posed, at every point in the Besov space$$B^{-1/2}_{\\infty ,\\infty }$$B∞,∞-1/2; the space$$B^{-1/2}_{\\infty ,\\infty }$$B∞,∞-1/2is an endpoint since the equation is locally well-posed for$$B^{\\eta }_{\\infty ,\\infty }$$B∞,∞ηfor every$$\\eta >-\\frac{1}{2}$$η>-12.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40072-023-00317-6"
+    },
+    {
+        "id": 13803,
+        "title": "The Non-Linear Excitation Load-Sharing Method of a High-Powered Nuclear Planetary Gear Train",
+        "authors": "Fude Wei, Qingbing Dong, Huanhuan Wang, Shuncheng Yang",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "The paper primarily employs the 3D calculation method of the helical gear-meshing line and meshing position, in addition to the traditional method of the gear-meshing stiffness calculation. This analysis and correction of load-sharing are beneficial for improving the assembly process of high-powered critical equipment. The dynamic models of rigid–flexible coupling, velocity–torque, and the meshing force of planetary gear trains in nuclear power plants are established based on the principles of gear dynamic characteristics. Based on an analysis of the vibration characteristics of a planetary gear train, a load-sharing method for the planetary gear train is proposed. This uniform load-sharing method is explored under different modification values to provide a reference for load-sharing research on high-powered key equipment. In this paper, a dynamic simulation analysis of the gearbox system is conducted, using virtual prototype software to study the load-sharing performance of the planetary gear system. Furthermore, via a vibration frequency analysis of the gear mesh force, the causes of planetary gear train vibration are discussed, particularly their impact on planetary load. This provides a basis for the assembly process of a nuclear power circulation pump gearbox, ensuring that the gearbox for the circulation pump has a longer life that meets the 40-year service life requirement, and provides a foundation for the study of planetary load characteristics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr11072190"
+    },
+    {
+        "id": 13804,
+        "title": "A numerical simulation of non-linear stochastic Itô-Volterra integral equations driven by multi- fractional Gaussian noise",
+        "authors": "Soumyendra Singh, Dharminder Chaudhary, Mayank Kumar Gola,  Muskan, Priyadharshini A R,  Krithika S",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2023.01.263"
+    },
+    {
+        "id": 13805,
+        "title": "Small sample spaces for Gaussian processes",
+        "authors": "Toni Karvonen",
+        "published": "2023-5-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3150/22-bej1483"
+    },
+    {
+        "id": 13806,
+        "title": "Bernstein polynomial approximation of non-linear stochastic Itô-Volterra integral equations driven by multi-fractional Gaussian noise",
+        "authors": "Soumyendra Singh, Dharminder Chaudhary, Mayank Kumar Gola, Priyadharshini A R, Krithika S.",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2023.01.014"
+    },
+    {
+        "id": 13807,
+        "title": "About the Optimal FPE for Non-linear 1d-SDE with Gaussian Noise: The Pitfall of the Perturbative Approach",
+        "authors": "Marco Bianucci, Mauro Bologna, Riccardo Mannella",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "AbstractThis paper deals with the problem of finding the Fokker Planck Equation (FPE) for the single-time probability density function (PDF) that optimally approximates the single-time PDF of a 1-D Stochastic Differential Equation (SDE) with Gaussian correlated noise. In this context, we tackle two main tasks. First, we consider the case of weak noise and in this framework we give a formal ground to the effective correction, introduced elsewhere (Bianucci and Mannella in J Phys Commun 4(10):105019, 2020, https://doi.org/10.1088/2399-6528/abc54e), to the Best Fokker Planck Equation (a standard “Born-Oppenheimer” result), also covering the more general cases of multiplicative SDE. Second, we consider the FPE obtained by using the Local Linearization Approach (LLA), and we show that a generalized cumulant approach allows an understanding of why the LLA FPE performs so well, even for noises with long (but finite) time scales and large intensities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10955-023-03228-x"
+    },
+    {
+        "id": 13808,
+        "title": "Model Reference Gaussian Process Regression: Data-Driven Output Feedback Controller",
+        "authors": "Hyuntae Kim, Hamin Chang, Hyungbo Shim",
+        "published": "2023-5-31",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/acc55779.2023.10156428"
+    },
+    {
+        "id": 13809,
+        "title": "On Gaussian Markov processes and Polya processes",
+        "authors": "Kerry Fendick, Ward Whitt",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.orl.2023.107062"
+    },
+    {
+        "id": 13810,
+        "title": "Non-Separable Covariance Kernels for Spatiotemporal Gaussian Processes Based on a Hybrid Spectral Method and the Harmonic Oscillator",
+        "authors": "Dionissios T. Hristopulos",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tit.2023.3321215"
+    },
+    {
+        "id": 13811,
+        "title": "Komparasi linear regression, random forest regression, dan multilayer perceptron regression untuk prediksi tren musik TikTok",
+        "authors": "Nadia Sofie Soraya, Hendry Hendry",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "Prediksi korelasi feature audio terhadap lagu yang populer di TikTok merupakan hal penting dalam industri musik. Dengan bekal data yang memiliki beberapa feature audio maka dilakukan penelitian menggunakan metode Linear Regression (LR), Random Forest Regression (RFR), dan Multilayer Perceptron Regression (MLP Regression) untuk membandingkan model yang dapat memprediksi popularitas secara efektif dan feature yang mempengaruhi popularitas lagu di TikTok. Selain itu dilakukan juga Exploratory Data Analysis (EDA) untuk mendapatkan insight data. Hasil dari proses EDA yaitu popularitas lagu terbanyak berada pada range 40-80, durasi lagu antara 2-3 menit, feature loudness berkorelasi positif dengan energy, demikian juga antara artist_pop dan track_pop. Set feature importance pada model LR dan RFR untuk feature target track_pop adalah artist_pop, loudness, dan duration_ms. Metode LR memiliki hasil terbaik untuk dataset yang dipakai, dengan MSE sebesar 0.0313, RMSE sebesar 0.177, dan MAE sebesar 0.118.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24246/aiti.v20i2.191-205"
+    },
+    {
+        "id": 13812,
+        "title": "Monitoring Method of Non-Gaussian Process Based on Fractal Analysis With Kernel Independent Component Regression",
+        "authors": "Zhiming Fang, Yingwei Zhang, Ruixiang Deng, Chaomin Luo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tim.2023.3280492"
+    },
+    {
+        "id": 13813,
+        "title": "A spectral method for accurate evaluation of fatigue damage induced by wide-band non-Gaussian random processes",
+        "authors": "Kuilin Yuan, Zhuocheng Sun",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.115002"
+    },
+    {
+        "id": 13814,
+        "title": "Non-Gaussian Normative Modelling With Hierarchical Bayesian Regression",
+        "authors": "Augustijn A.A. de Boer, Johanna M. M. Bayer, Seyed Mostafa Kia, Saige Rutherford, Mariam Zabihi, Charlotte Fraza, Pieter Barkema, Lars T. Westlye, Ole A. Andreassen, Max Hinne, Christian F. Beckmann, Andre Marquand",
+        "published": "2024-3-29",
+        "citations": 0,
+        "abstract": "Abstract\nNormative modelling is an emerging technique for parsing heterogeneity in clinical cohorts. This can be implemented in practice using hierarchical Bayesian regression, which provides an elegant probabilistic solution to handle site variation in a federated learning framework. However, applications of this method to date have employed a Gaussian assumption, which may be restrictive in some applications. We have extended the hierarchical Bayesian regression framework to flexibly model non-Gaussian data with heteroskdastic skewness and kurtosis. To this end, we employ a flexible distribution from the sinh-arcsinh (SHASH) family, and introduce a novel reparameterisation and a Markov chain Monte Carlo sampling approach to perform inference in this model. Using a large neuroimaging dataset collected at 82 different sites, we show that the results achieved with this extension are equivalent or better than a warped Bayesian linear regression baseline model on most datasets, whilst providing better control over the parameters governing the shape of distributions that approach is able to model. We also demonstrate that the attained flexibility is useful for accurately modelling highly nonlinear relationships between aging and imaging derived phenotypes, which shows that the extension is important for pushing the field of normative modelling forward. All methods described here are available in the open-source pcntoolkit.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/imag_a_00132"
+    },
+    {
+        "id": 13815,
+        "title": "A Non-Linear Trend Function for Kriging with External Drift Using Least Squares Support Vector Regression",
+        "authors": "Kanokrat Baisad, Nawinda Chutsagulprom, Sompop Moonchai",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "Spatial interpolation of meteorological data can have immense implications on risk management and climate change planning. Kriging with external drift (KED) is a spatial interpolation variant that uses auxiliary information in the estimation of target variables at unobserved locations. However, traditional KED methods with linear trend functions may not be able to capture the complex and non-linear interdependence between target and auxiliary variables, which can lead to an inaccurate estimation. In this work, a novel KED method using least squares support vector regression (LSSVR) is proposed. This machine learning algorithm is employed to construct trend functions regardless of the type of variable interrelations being considered. To evaluate the efficiency of the proposed method (KED with LSSVR) relative to the traditional method (KED with a linear trend function), a systematic simulation study for estimating the monthly mean temperature and pressure in Thailand in 2017 was conducted. The KED with LSSVR is shown to have superior performance over the KED with the linear trend function.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11234799"
+    },
+    {
+        "id": 13816,
+        "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+        "authors": "Vladimir A. Kulyukin, Daniel Coster, Anastasiia Tkachenko, Daniel Hornberger, Aleksey V. Kulyukin",
+        "published": "2023-2-26",
+        "citations": 2,
+        "abstract": "Since bee traffic is a contributing factor to hive health and electromagnetic radiation has a growing presence in the urban milieu, we investigate ambient electromagnetic radiation as a predictor of bee traffic in the hive’s vicinity in an urban environment. To that end, we built two multi-sensor stations and deployed them for four and a half months at a private apiary in Logan, UT, USA. to record ambient weather and electromagnetic radiation. We placed two non-invasive video loggers on two hives at the apiary to extract omnidirectional bee motion counts from videos. The time-aligned datasets were used to evaluate 200 linear and 3,703,200 non-linear (random forest and support vector machine) regressors to predict bee motion counts from time, weather, and electromagnetic radiation. In all regressors, electromagnetic radiation was as good a predictor of traffic as weather. Both weather and electromagnetic radiation were better predictors than time. On the 13,412 time-aligned weather, electromagnetic radiation, and bee traffic records, random forest regressors had higher maximum R2 scores and resulted in more energy efficient parameterized grid searches. Both types of regressors were numerically stable.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23052584"
+    },
+    {
+        "id": 13817,
+        "title": "The discrepancy between min–max statistics of Gaussian and Gaussian-subordinated matrices",
+        "authors": "Giovanni Peccati, Nicola Turchi",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.spa.2023.01.006"
+    },
+    {
+        "id": 13818,
+        "title": "Images of Gaussian and other stochastic processes under closed, densely-defined, unbounded linear operators",
+        "authors": "Tadashi Matsumoto, T. J. Sullivan",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": " Gaussian Processes (GPs) are widely-used tools in spatial statistics and machine learning and the formulae for the mean function and covariance kernel of a GP [Formula: see text] that is the image of another GP [Formula: see text] under a linear transformation [Formula: see text] acting on the sample paths of [Formula: see text] are well known, almost to the point of being folklore. However, these formulae are often used without rigorous attention to technical details, particularly when [Formula: see text] is an unbounded operator such as a differential operator, which is common in many modern applications. This note provides a self-contained proof of the claimed formulae for the case of a closed, densely-defined operator [Formula: see text] acting on the sample paths of a square-integrable (not necessarily Gaussian) stochastic process. Our proof technique relies upon Hille’s theorem for the Bochner integral of a Banach-valued random variable. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0219530524400025"
+    },
+    {
+        "id": 13819,
+        "title": "Use of logistic regression, nonlinear regression, and linear regression in lung cancer research",
+        "authors": "Zhuonan Yu",
+        "published": "2023-3-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2669953"
+    },
+    {
+        "id": 13820,
+        "title": "Daily Pain Prediction in Workplace Using Gaussian Processes",
+        "authors": "Chetanya Puri, Stijn Keyaerts, Maxwell Szymanski, Lode Godderis, Katrien Verbert, Stijn Luca, Bart Vanrumste",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011611200003414"
+    },
+    {
+        "id": 13821,
+        "title": "A hierarchical Bayesian modeling framework for identification of Non-Gaussian processes",
+        "authors": "Menghao Ping, Xinyu Jia, Costas Papadimitriou, Xu Han, Chao Jiang, Wang-Ji Yan",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ymssp.2023.110968"
+    },
+    {
+        "id": 13822,
+        "title": "The improvement of the intelligent decision support system for forecasting non-linear non-stationary processes",
+        "authors": "Petro Bidiuk, Tetyana Prosyankina-Zharova, Valerii Diakon, Dmytro Diakon",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "The paper is focused on solving the modern scientific and applied problem related to development and practical use in Decision Support Systems (DSS) of information technologies directed towards forecasting of non-linear non-stationary processes (NNP) that take place in economy and finances as well as in many other areas of activities. Thus, object of study are non-linear non-stationary processes taking place in economy and financial sphere.\nThe basic problem of the study is development of new mathematical models and methods of analysis and forecasting non-linear non-stationary processes in economy and finances, improvement of information decision support technologies that would help to enhance quality of forecast estimates and respective decisions in conditions of uncertainties and risk. The methods given in the paper are used for automating the process of intellectual data analysis that describe the processes under study and automatizing model constructing procedures.\nAs a result of the study performed the information technology was developed to be used in DSS based upon system analysis principles, taking into consideration possible data uncertainties, regression and intellectual data analysis. The technology provides for constructing adequate models of the process under study and computing high quality forecast estimates. The particular feature of the approach proposed is that it provides for high quality of experimental results due to taking into consideration special features of non-linear non-stationary processes that take place in various spheres of activities and their evolution is influenced by many specific factors.\nThe use of the technology proposed in decision support systems of enterprises, state governmental organs, and local self-government will create basis for effective solving the tasks of governing development of non-linear non-stationary processes that take place in many spheres of activities. The approaches proposed in the paper can be used in practice as separately as well as parts of existing information systems at enterprises and organizations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15587/2706-5448.2023.286516"
+    },
+    {
+        "id": 13823,
+        "title": "Analysis Of Overdispersion Data Using Poisson Invers Gaussian Regression Model",
+        "authors": "Marsono Marsono",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": " \r\nSalah satu pelanggaran asumsi dalam model regresi Poisson pada kebanyakan data count (cacahan) adalah ditemukan kasus overdispersi, dimana varians variabel respon lebih besar dari rata-ratanya. Untuk mengatasi kasus overdispersi, dibentuk model regresi yang merupakan perpaduan antara distribusi Poisson dengan beberapa distribusi lain. Poisson Invers Gaussian (PIG) merupakan salah satu model regresi dari model campuran untuk mengatasi overdispersi. Penelitian ini membandingkan model regresi Poisson Invers Gaussian dengan model regresi Poisson bertujuan mengetahui variabel-variabel yang mempengaruhi jumlah kasus bayi mati di Provinsi Jawa Timur pada tahun 2019. Penaksiran parameter regresi PIG dilakukan dengan metode Maximum Likelihood Estimator (MLE). Berdasarkan nilai AIC paling kecil diketahui model regresi Poisson Invers Gaussian lebih baik dari model regresi Poisson.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31605/saintifik.v9i2.409"
+    },
+    {
+        "id": 13824,
+        "title": "Non-linear volatility with normal inverse Gaussian innovations: ad-hoc analytic option pricing",
+        "authors": "Sharif Mozumder, Bakhtear Talukdar, M. Humayun Kabir, Bingxin Li",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11156-023-01195-8"
+    },
+    {
+        "id": 13825,
+        "title": "Non-Linear Determinants of Developing Countries’ Sovereign Ratings: Evidence from a Panel Threshold Regression (PTR) Model",
+        "authors": "Sami Ben Mim, Ridha Nouira, Fatma Mabrouk",
+        "published": "2023-2-13",
+        "citations": 0,
+        "abstract": "This paper investigates the non-linear effects produced by the main determinants of the sovereign ratings issued by Moody’s agency. Using a sample of 29 countries observed over the 2000–2019 period, we identify the factors leading a country to be classified, respectively, in the speculative, moderately speculative, and highly speculative grades. The fixed effect logit estimates reveal that the effects produced by the independent variables on the ratings are largely different from one class of assets to another. The second and main contribution of this study is that it highlights the non-linear effects produced by macroeconomic variables on the probability of downgrading a country from the investment to the speculative grade and from the moderately speculative to the highly speculative grade. Panel threshold regression (PTR) results reveal that control of corruption, external debt, government effectiveness, and domestic credits are the main variables producing such non-linear effects.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15043390"
+    },
+    {
+        "id": 13826,
+        "title": "Multiple non-Linear Regression and its Applications",
+        "authors": "Abida Al-Taie",
+        "published": "2024-1-14",
+        "citations": 0,
+        "abstract": "The non-linear slope reflects the features of the parameters of the model to estimate the values of the approved variable, and the number of independent variables are two or more, the non-Linear model requires complex approximation operation in self non-Linear models, which cannot be converted   into α sign by performing known conversions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55562/jrucs.v54i1.626"
+    },
+    {
+        "id": 13827,
+        "title": "Estimation of postseismic structural damage with the use of multiple linear regression and fuzzy linear regression methods",
+        "authors": "Fani Gkountakou, Anaxagoras Elenas, Basil Papadopoulos",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0193150"
+    },
+    {
+        "id": 13828,
+        "title": "Rotational curves decomposition of spiral galaxies using least square non-linear regression",
+        "authors": "Prateek Boga, Adhitya Shreyas Sripennem, Amaria Navis Bonsi",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12648-023-02655-6"
+    },
+    {
+        "id": 13829,
+        "title": "Stochastic variational inference for scalable non-stationary Gaussian process regression",
+        "authors": "Ionut Paun, Dirk Husmeier, Colin J. Torney",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "AbstractA natural extension to standard Gaussian process (GP) regression is the use of non-stationary Gaussian processes, an approach where the parameters of the covariance kernel are allowed to vary in time or space. The non-stationary GP is a flexible model that relaxes the strong prior assumption of standard GP regression, that the covariance properties of the inferred functions are constant across the input space. Non-stationary GPs typically model varying covariance kernel parameters as further lower-level GPs, thereby enabling sampling-based inference. However, due to the high computational costs and inherently sequential nature of MCMC sampling, these methods do not scale to large datasets. Here we develop a variational inference approach to fitting non-stationary GPs that combines sparse GP regression methods with a trajectory segmentation technique. Our method is scalable to large datasets containing potentially millions of data points. We demonstrate the effectiveness of our approach on both synthetic and real world datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-023-10210-w"
+    },
+    {
+        "id": 13830,
+        "title": "INTERACTION OF NON-LINEAR ACOUSTICS WITH SEDIMENTS",
+        "authors": "DR BUGLER",
+        "published": "2024-3-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20724"
+    },
+    {
+        "id": 13831,
+        "title": "NON-LINEAR ACOUSTICS AS A LABORATORY TOOL",
+        "authors": "VF HUMPHREY",
+        "published": "2024-3-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20727"
+    },
+    {
+        "id": 13832,
+        "title": "Antenna Gain Calibration using Three Antenna Extrapolation Method with Gaussian Process Regression",
+        "authors": "Michitaka Ameya",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cama57522.2023.10352821"
+    },
+    {
+        "id": 13833,
+        "title": "Linear and Non-linear Regression Methods to Study the Adsorption of Cr(VI) from an Aqueous Solution Using Pomegranate Peel",
+        "authors": "Salah M. Abdullah, Aseel F. Alwan, Atheer M. Majeed, Enageh T. A. Abdalgader",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "In this study, the previous data of the adsorption of Chromium (VI) ions on the pomegranate peels (MPGP) as adsorbents were used. linear and non-linear equations for Langmuir, Freundlich, Dubinin-Radushkevich, Tempkin, Redlich-Peterson, Sips, and Toth adsorption isotherm models were applied. The five error functions ERRSQ, HYBRD, MPSD, ARE, and EABS were analyzed for non-linear isotherm equations and in each case a set of isotherm parameters were determined. The algorithms for the simulation of linear and non-linear isotherm models using error functions were achieved with the aid of Microsoft Excel solver Add-Ins for minimizing the respective error function across the concentration range studied. Linear and non-linear methods show comparable data for two-parameter models, also high R2 values were obtained for Langmuir, Freundlich, and Temkin models while the Dubinin-Radushkevich model reveals low R2 values, on the contrary, three-parameter models show different data between linear and non-linear methods with high R2 value for all. Which indicates that the error does not obey the Gaussian distribution. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23851/mjs.v34i4.1340"
+    },
+    {
+        "id": 13834,
+        "title": "Non-linear load transfer mechanisms in hybrid masonry structures",
+        "authors": "Zhenjia Gao, Ankang Cheng",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104542"
+    },
+    {
+        "id": 13835,
+        "title": "Gaussian Process Regression under Location Uncertainty using Monte Carlo Approximation",
+        "authors": "Martin Ptáček",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13164/eeict.2023.222"
+    },
+    {
+        "id": 13836,
+        "title": "Predicting BMW Stock Price Based on Linear Regression, LSTM, and Random Forest Regression",
+        "authors": "Sijian Tao",
+        "published": "2023-3-2",
+        "citations": 2,
+        "abstract": "The stock market is one of the most significant aspects of a county’s economy. Stock price prediction is not easy to implement due numerous features influencing it. This study will choose BMW as the target company, and predict its stock price with various state-of-art scenarios. The central claim of this article is to construct three reliable models that could predict the stock price of BMW by extracting and analyzing previous days’ stock prices. The major analysis is done by modeling and exploring data analysis, and is composed of several graphical methods. For the modeling part, three models (i.e., Multiple Linear Regression, LSTM, and Random Forest Regression) are constructed to predict BMW stock price. The database consists of five years of BMW stock prices on Kaggle to explore more analysis. Then, step by step checking and demonstrating are presented to prove the feasibility and precision of these three models. According to the analysis, the most precise model that has the highest accuracy and lowest error by analyzing regression and model results. These model final outcomes indicate that the Multiple Linear Regression model presents a higher accuracy and lower mean squared error than LSTM and Random Forest Regression. These results shed light on guiding further exploration of BMW stock price prediction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54691/bcpbm.v38i.3712"
+    },
+    {
+        "id": 13837,
+        "title": "A Hybrid Hubspace-RNN based approach for Modelling of Non-Linear Batch Processes",
+        "authors": "Aswin Chandrasekar, Susu Zhang, Prashant Mhaskar",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ces.2023.119118"
+    },
+    {
+        "id": 13838,
+        "title": "Study of vibration shock processes of non-linear mechanical systems with distributed parameters",
+        "authors": "Gavasheli Levan, Gavasheli Anri",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "In practice, under the conditions of perfection and constructive development of modern equipment and machines, nonlinear mechanical systems with distributed parameters are often encountered, which, depending on the principles of operation, are affected by vibration shock. Therefore, the study of vibration shock processes of the mentioned systems has great theoretical and practical importance and as a result to determine the optimal parameters of vibration protection devices to ensure their safe operation. In our case, the displacement field of two interacting non-linear mechanical systems with distributed parameters is considered, when their interaction is of vibration shock nature. Obviously, the mentioned events are more pronounced when the self-oscillation frequency of one or both systems momentarily approaches the frequency of forced vibration shock processes. In addition, critical moments are fixed during the phase shifts of forced oscillations of oscillatory systems, in this case, the frequencies of forced oscillations approach mutually opposing phase moments. By choosing the optimal parameters of hysteresis losses, it is possible to almost exclude sub-harmonic modes superimposed on the main resonance modes in vibration shock processes. During hysteresis losses of the parabolic type, the value of µ changes automatically in connection with impulsive loads, which will allow us to transfer the vibration shock processes to automatic modes and, accordingly, the practically safe operation of the mentioned systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17352/amp.000109"
+    },
+    {
+        "id": 13839,
+        "title": "Prediction of Facebook and GOOG Prices based on Linear Regression and LSTM Regression",
+        "authors": "Xiaonan Zuo",
+        "published": "2023-4-27",
+        "citations": 0,
+        "abstract": "Stock market analysis is a very difficult task, and stock markets are very complex and constantly changing environments. More and more stock investors are now becoming aware of the prominence of machine learning in the field of stocks and finance, and over the last decade or so machine learning has driven advances in the stock market, such as the ability to use different machine learning methods to predict stock movements in order to arrive at the best decisions and algorithmic trades. The problem that this project wants to investigate is the use of machine learning methods for stock prediction. Two stocks, Facebook and GOOG, were chosen as the datasets for the study. The datasets consisted of stock information from the last decade or so and two machine learning methods, namely long and short term memory and linear regression, were used to make predictions. The results obtained from these two models were analyzing and different results were obtained. The results present the conclusion that the linear regression model is more suitable than the LSTM model for predicting these two groups of stocks. Some error analysis was also carried out and some improvements were given for the two different models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54691/bcpbm.v44i.4919"
+    },
+    {
+        "id": 13840,
+        "title": "A comparative study of 11 non-linear regression models highlighting autoencoder, DBN, and SVR, enhanced by SHAP importance analysis in soybean branching prediction",
+        "authors": "Wei Zhou, Zhengxiao Yan, Liting Zhang",
+        "published": "2024-3-11",
+        "citations": 0,
+        "abstract": "AbstractTo explore a robust tool for advancing digital breeding practices through an artificial intelligence-driven phenotype prediction expert system, we undertook a thorough analysis of 11 non-linear regression models. Our investigation specifically emphasized the significance of Support Vector Regression (SVR) and SHapley Additive exPlanations (SHAP) in predicting soybean branching. By using branching data (phenotype) of 1918 soybean accessions and 42 k SNP (Single Nucleotide Polymorphism) polymorphic data (genotype), this study systematically compared 11 non-linear regression AI models, including four deep learning models (DBN (deep belief network) regression, ANN (artificial neural network) regression, Autoencoders regression, and MLP (multilayer perceptron) regression) and seven machine learning models (e.g., SVR (support vector regression), XGBoost (eXtreme Gradient Boosting) regression, Random Forest regression, LightGBM regression, GPs (Gaussian processes) regression, Decision Tree regression, and Polynomial regression). After being evaluated by four valuation metrics: R2 (R-squared), MAE (Mean Absolute Error), MSE (Mean Squared Error), and MAPE (Mean Absolute Percentage Error), it was found that the SVR, Polynomial Regression, DBN, and Autoencoder outperformed other models and could obtain a better prediction accuracy when they were used for phenotype prediction. In the assessment of deep learning approaches, we exemplified the SVR model, conducting analyses on feature importance and gene ontology (GO) enrichment to provide comprehensive support. After comprehensively comparing four feature importance algorithms, no notable distinction was observed in the feature importance ranking scores across the four algorithms, namely Variable Ranking, Permutation, SHAP, and Correlation Matrix, but the SHAP value could provide rich information on genes with negative contributions, and SHAP importance was chosen for feature selection. The results of this study offer valuable insights into AI-mediated plant breeding, addressing challenges faced by traditional breeding programs. The method developed has broad applicability in phenotype prediction, minor QTL (quantitative trait loci) mining, and plant smart-breeding systems, contributing significantly to the advancement of AI-based breeding practices and transitioning from experience-based to data-based breeding.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-024-55243-x"
+    },
+    {
+        "id": 13841,
+        "title": "An artificial neural network model for fatigue damage analysis of wide-band non-Gaussian random processes",
+        "authors": "Kuilin Yuan, Shifeng Peng, Zhuocheng Sun",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apor.2024.103896"
+    },
+    {
+        "id": 13842,
+        "title": "A non-linear complementary energy-based constitutive model for incompressible isotropic materials",
+        "authors": "Edgár Bertóti",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2022.104262"
+    },
+    {
+        "id": 13843,
+        "title": "Exact solution to non-linear filtration in heterogeneous porous media",
+        "authors": "L.I. Kuzmina, Y.V. Osipov",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104363"
+    },
+    {
+        "id": 13844,
+        "title": "BG2: Bayesian variable selection in generalized linear mixed models with nonlocal priors for non-Gaussian GWAS data",
+        "authors": "Shuangshuang Xu, Jacob Williams, Marco A. R. Ferreira",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nGenome-wide association studies (GWASes) aim to identify single nucleotide polymorphisms (SNPs) associated with a given phenotype. A common approach for the analysis of GWAS is single marker analysis (SMA) based on linear mixed models (LMMs). However, LMM-based SMA usually yields a large number of false discoveries and cannot be directly applied to non-Gaussian phenotypes such as count data.\n\nResults\nWe present a novel Bayesian method to find SNPs associated with non-Gaussian phenotypes. To that end, we use generalized linear mixed models (GLMMs) and, thus, call our method Bayesian GLMMs for GWAS (BG2). To deal with the high dimensionality of GWAS analysis, we propose novel nonlocal priors specifically tailored for GLMMs. In addition, we develop related fast approximate Bayesian computations. BG2 uses a two-step procedure: first, BG2 screens for candidate SNPs; second, BG2 performs model selection that considers all screened candidate SNPs as possible regressors. A simulation study shows favorable performance of BG2 when compared to GLMM-based SMA. We illustrate the usefulness and flexibility of BG2 with three case studies on cocaine dependence (binary data), alcohol consumption (count data), and number of root-like structures in a model plant (count data).\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05468-w"
+    },
+    {
+        "id": 13845,
+        "title": "Urban Flood Modeling: Uncertainty Quantification and Physics‐Informed Gaussian Processes Regression Forecasting",
+        "authors": "Amir H. Kohanpur, Siddharth Saksena, Sayan Dey, J. Michael Johnson, M. Sadegh Riasi, Lilit Yeghiazarian, Alexandre M. Tartakovsky",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "AbstractEstimating uncertainty in flood model predictions is important for many applications, including risk assessment and flood forecasting. We focus on uncertainty in physics‐based urban flooding models. We consider the effects of the model's complexity and uncertainty in key input parameters. The effect of rainfall intensity on the uncertainty in water depth predictions is also studied. As a test study, we choose the Interconnected Channel and Pond Routing (ICPR) model of a part of the city of Minneapolis. The uncertainty in the ICPR model's predictions of the floodwater depth is quantified in terms of the ensemble variance using the multilevel Monte Carlo (MC) simulation method. Our results show that uncertainties in the studied domain are highly localized. Model simplifications, such as disregarding the groundwater flow, lead to overly confident predictions, that is, predictions that are both less accurate and uncertain than those of the more complex model. We find that for the same number of uncertain parameters, increasing the model resolution reduces uncertainty in the model predictions (and increases the MC method's computational cost). We employ the multilevel MC method to reduce the cost of estimating uncertainty in a high‐resolution ICPR model. Finally, we use the ensemble estimates of the mean and covariance of the flood depth for real‐time flood depth forecasting using the physics‐informed Gaussian process regression method. We show that even with few measurements, the proposed framework results in a more accurate forecast than that provided by the mean prediction of the ICPR model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1029/2022wr033939"
+    },
+    {
+        "id": 13846,
+        "title": "Bayesian eikonal tomography using Gaussian processes",
+        "authors": "Jack Muir",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "\r\nEikonal tomography has become a popular methodology for deriving phase velocity maps from surface wave phase delay measurements. Its high efficiency makes it popular for handling datasets deriving from large-N arrays, in particular in the ambient-noise tomography setting. However, the results of eikonal tomography are crucially dependent on the way in which phase delay measurements are predicted from data, a point which has not been thoroughly investigated. In this work, I provide a rigorous formulation for eikonal tomography using Gaussian processes (GPs) to smooth observed phase delay measurements, including uncertainties. GPs allow the posterior phase delay gradient to be analytically derived. From the phase delay gradient, an excellent approximate solution for phase velocities can be obtained using the saddlepoint method. The result is a fully Bayesian result for phase velocities of surface waves, incorporating the nonlinear wavefront bending inherent in eikonal tomography, with no sampling required. The results of this analysis imply that the uncertainties reported for eikonal tomography are often underestimated.\r\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26443/seismica.v2i2.388"
+    },
+    {
+        "id": 13847,
+        "title": "Modelling of Li-Ion battery state-of-health with Gaussian processes",
+        "authors": "",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/aee.2023.146042"
+    },
+    {
+        "id": 13848,
+        "title": "A Physics-Informed Gaussian Process Regression Algorithm for the Dynamics of the Planar Pendulum",
+        "authors": "Tianzhi Li, Jinzhi Wang",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240513"
+    },
+    {
+        "id": 13849,
+        "title": "The higher-order analysis of response for linear structure under non-Gaussian stochastic excitations with known statistical moments and power spectral density",
+        "authors": "Xiangqian Sheng, Wenliang Fan",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compstruc.2024.107348"
+    },
+    {
+        "id": 13850,
+        "title": "Locally robust inference for non-Gaussian linear simultaneous equations models",
+        "authors": "Adam Lee, Geert Mesters",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jeconom.2023.105647"
+    },
+    {
+        "id": 13851,
+        "title": "Distributed non‐linear model predictive control with Gaussian process dynamics for two‐dimensional motion of vehicle platoon",
+        "authors": "Xiaorong Hu, Yao Shi, Lei Xie, Hongye Su",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "AbstractThe platoon control of connected and automated vehicles is an important topic in transportation research. The characteristics of non‐linearities, external disturbances, and strong coupling are non‐negligible in two‐dimensional motion control. An integrated longitudinal and lateral vehicle dynamics is required. A Gaussian Process‐based Distributed Stochastic Model Predictive Control (GP‐DSMPC) for two‐dimensional motion is proposed. It achieves global longitudinal stability and lateral error suppression. Gaussian process (GP) regression is employed to approximate the unknown model error. For the two‐norm chance constraints, over‐approximating the confidence ellipse to an outer polyhedron is an effective way to reduce the conservativeness and coupling effect in longitudinal and lateral motion. A neighbour‐average target trajectory is designed with an upper‐level optimization for adjustable target coefficients. The sum of the local cost functions is used as a Lyapunov candidate to achieve the global stability of the longitudinal motion. Some conditions on penalty weights and target coefficients among subsystems, and terminal outputs are derived. Simulation results reveal that the proposed method is effective for disturbance attenuation and performs better than distributed non‐linear model predictive control without GP estimation under low‐friction road conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/itr2.12418"
+    },
+    {
+        "id": 13852,
+        "title": "Gaussian Process Regression´s Hyperparameters Optimization to Predict Financial Distress",
+        "authors": "Jakub Horak, Amine Sabek",
+        "published": "2023-9-29",
+        "citations": 0,
+        "abstract": "Predicting financial distress has become one of the most important topics of the hour that has swept the accounting and financial field due to its significant correlation with the development of science and technology. The main objective of this paper is to predict financial distress based on the Gaussian Process Regression (GPR) and then compare the results of this model with the results of other deep learning models (SVM, LR, LD, DT, KNN). The analysis is based on a dataset of 352 companies extracted from the Kaggle database. As for predictors, 83 financial ratios were used. The study concluded that the use of GPR achieves very relevant results. Furthermore, it outperformed the rest of the deep learning models and achieved first place equally with the SVM model with a classification accuracy of 81%. The results contribute to the maintenance of the integrated system and the prosperity of the country’s economy, the prediction of the financial distress of companies and thus the potential prevention of disruption of the given system.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17163/ret.n26.2023.06"
+    },
+    {
+        "id": 13853,
+        "title": "Research on Screening and Evaluating Virtual Samples by Multi-Gaussian Process Regression Models",
+        "authors": "Xintao Wu, Wenyuan Tang, Juan Chen",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450770"
+    },
+    {
+        "id": 13854,
+        "title": "Non-linear relationship between FinTech, natural resources, green innovation and environmental sustainability: Evidence from panel smooth transition regression model",
+        "authors": "Dong Zhe, Nan Su, Xianglei Zhu, Haitham A. Mahmoud, Tazeem Akhtar",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2024.104902"
+    },
+    {
+        "id": 13855,
+        "title": "Comparison Between Linear and Non-Linear Regression Models in the Prediction of the Height of Gall Oak Trees (Quercus infectoria Olive.) in Duhok Governorate",
+        "authors": "Tariq K. Salih, Glavesh Y. Saleem, Abdulaziz J. Younis",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "Abstract\nThis study was conducted for two main purposes, the first one was to study the mathematical relationship between naturally growing gall oak trees in three microsites (Chamankey, Swaratoka, and Baroshky) in Dohuk Governorate and the second one was to compare the ability of linear and nonlinear regression models in height estimation. For such purposes, a sample of 152 trees was purposely selected from these microsites in such a way that they cover the whole variation of breast height diameter in these microsites. The STATGRAPHIC Centurion along with other computer facilities including Excel were used in estimating the parameters of 32 regression models for all microsites together. Many criteria for testing the performance ability of the developed regression equations in the prediction of the height of trees were used in order to select the most appropriate regression model for all microsites together. Screening of the generated models was performed in three stages; the first one is the use of mathematical analysis to see if they have biological limitations. The second stage is to see the performance ability of homogeneous models,(models with the same form of the dependent variable) in the prediction of the dependent variable. The last stage dealt with testing the performance ability of heterogeneous models, (models with different forms of the dependent variable) in the prediction of the dependent variable.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1755-1315/1213/1/012118"
+    },
+    {
+        "id": 13856,
+        "title": "THE DESIGN AND TESTING OF NON LINEAR ACOUSTIC SYSTEMS",
+        "authors": "AG ELLIOTT",
+        "published": "2024-3-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/20723"
+    },
+    {
+        "id": 13857,
+        "title": "Performance Study of Intercalated Meltblown Nonwoven Materials Based on Gaussian Process Regression",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25236/ajmc.2023.040503"
+    },
+    {
+        "id": 13858,
+        "title": "Prediction of Software Effort by Using Non-Linear Power Regression for Heterogeneous Projects Based on Use case Points and Lines of code",
+        "authors": "Amrita Sharma, Neha Chaudhary",
+        "published": "2023",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.138"
+    },
+    {
+        "id": 13859,
+        "title": "Non-Linear Regression Modelling of the Compressibility Properties of Soil in Calabar Municipal, Cross-River State",
+        "authors": "G. F. Ntekim, C. C. Ike",
+        "published": "2023-2-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32692/ijdi-eret/11.2.2022.2207"
+    },
+    {
+        "id": 13860,
+        "title": "Non-invasive Determination of Anemia Condition Using Photoplethysmography and Linear Regression",
+        "authors": "Kristine Y. Coscolluela, Danielle Nicole O. Jawod, Jocelyn Flores Villaverde, Roben A. Juanatas",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3620679.3620701"
+    },
+    {
+        "id": 13861,
+        "title": "Application of robust regression in translational neuroscience studies with non-Gaussian outcome data",
+        "authors": "Michael Malek-Ahmadi, Stephen D. Ginsberg, Melissa J. Alldred, Scott E. Counts, Milos D. Ikonomovic, Eric E. Abrahamson, Sylvia E. Perez, Elliott J. Mufson",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "Linear regression is one of the most used statistical techniques in neuroscience, including the study of the neuropathology of Alzheimer’s disease (AD) dementia. However, the practical utility of this approach is often limited because dependent variables are often highly skewed and fail to meet the assumption of normality. Applying linear regression analyses to highly skewed datasets can generate imprecise results, which lead to erroneous estimates derived from statistical models. Furthermore, the presence of outliers can introduce unwanted bias, which affect estimates derived from linear regression models. Although a variety of data transformations can be utilized to mitigate these problems, these approaches are also associated with various caveats. By contrast, a robust regression approach does not impose distributional assumptions on data allowing for results to be interpreted in a similar manner to that derived using a linear regression analysis. Here, we demonstrate the utility of applying robust regression to the analysis of data derived from studies of human brain neurodegeneration where the error distribution of a dependent variable does not meet the assumption of normality. We show that the application of a robust regression approach to two independent published human clinical neuropathologic data sets provides reliable estimates of associations. We also demonstrate that results from a linear regression analysis can be biased if the dependent variable is significantly skewed, further indicating robust regression as a suitable alternate approach.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnagi.2023.1299451"
+    },
+    {
+        "id": 13862,
+        "title": "Adaptive Gaussian Filter Based on ICEEMDAN Applying in Non-Gaussian Non-stationary Noise",
+        "authors": "Yusen Zhang, Zixin Xu, Ling Yang",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00034-024-02642-0"
+    },
+    {
+        "id": 13863,
+        "title": "Energy of a non-linear viscoelastic model compatible with fractional relaxation",
+        "authors": "Andrea Giusti, Andrea Mentrelli, Tommaso Ruggeri",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2024.104685"
+    },
+    {
+        "id": 13864,
+        "title": "Predicting Twitter stock price using linear regression, random forest, and MLP regression",
+        "authors": "Ziyu Huang",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "Since the chaos and complexity in the stock market, predicting stock prices with machinery approaches helps assert a new perspective for people to reach satisfactory results in stock analysis. The stock price of Twitter reflects its market value and performance, which are influenced by various factors such as user engagement, revenue, news, and sentiment. Predicting the stock price of Twitter is a challenging task that requires sophisticated methods and data analysis. In this essay, the author compares three different machine learning models to predict Twitters stock price: linear regression, random forest, and MLP regression. The paper uses historical data on Twitters stock price and various features such as volume, peak value, and trough value. The researcher evaluates the performance of each model using metrics such as Mean-squared Error and R-squared and finds that MLP regression outperforms the accuracy and generalization of the other two models. The author also discusses the limitations and implications of our findings for investors and researchers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2753-8818/30/20241093"
+    },
+    {
+        "id": 13865,
+        "title": "Efficient inference of synaptic plasticity rule with Gaussian process regression",
+        "authors": "Shirui Chen, Qixin Yang, Sukbin Lim",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.isci.2023.106182"
+    },
+    {
+        "id": 13866,
+        "title": "Permeability Prediction of Carbonate Cores With Gaussian Process Regression Model",
+        "authors": "Xingang Bu, Hassan Saleh, Ming Han, Abdulkareem AlSofi",
+        "published": "2023-1-24",
+        "citations": 1,
+        "abstract": "Abstract\nMachine leaning (ML) methods are widely adopted in predictions affected by various factors. This paper presents a step-by-step workflow of applying a ML approach to develop a heterogeneous permeability prediction model from the CT images of core samples. In this work, over ten thousand 3-D sub-image were randomly extracted from the CT images of two heterogeneous carbonate core samples. The permeability of each sub-image is simulated using pore network modeling (PNM) method. Ten features including porosity, pore size, surface area, specific surface area and connection coefficient etc. are extracted from sub-image by a statistical method. Three training datasets were built with features and permeability. Each set of training data is input into a ML model pool, which contains 19 regression models of 5 types including linear regression models, regression trees, support vector machines, Gaussian process regression models and ensembles of trees. Then, regression models are trained to identify the one that can yield the best permeability prediction. The trained model with the highest R-Squared value is selected for permeability prediction from binary CT images. Overall, comparing the training outputs indicate that Gaussian Process Regression models (GPR) correlate features and permeability well. For the tested heterogeneous core plugs, the exponential Gaussian Process model performs the best. The R-Squared values of the three sets of training data are 0.88, 0.87 and 0.91 respectively. Afterwards, the selected ML model was tested with additional data, and the R-squared value of each test dataset was greater than 0.85, confirming a strong predictive performance. The trained model based on ML method eliminates the conventional time-consuming operations including distance transformation and watershed segmentation. It also avoids excessive memory consumption, which makes the method suitable for images with large size. The paper provides a way to develop an alternative approach of PNM simulation method for permeability prediction from CT images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/212592-ms"
+    },
+    {
+        "id": 13867,
+        "title": "An Intuitive Tutorial to Gaussian Process Regression",
+        "authors": "Jie Wang",
+        "published": "2023-7",
+        "citations": 12,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mcse.2023.3342149"
+    },
+    {
+        "id": 13868,
+        "title": "Estimation of Spatial Distribution Considering Indirect Data Using Gaussian Process Regression",
+        "authors": "Yuto Tsuda, Yukihisa Tomizawa, Ikumasa Yoshida, Yu Otake",
+        "published": "2023-7-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784484975.011"
+    },
+    {
+        "id": 13869,
+        "title": "A Linear Regression Based-Approach to Collective Gas Source Localization",
+        "authors": "Ronnier Rohrich, Luis Messias, Jose Lima, Andre Schneider de Oliveira",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012187100003543"
+    },
+    {
+        "id": 13870,
+        "title": "Predictive data-driven models of thermophysical properties using Gaussian process regression",
+        "authors": "Mingshuo Zhou, Chenxu Ni, Xingjian Wang",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-0869"
+    },
+    {
+        "id": 13871,
+        "title": "Forecasting Rice Production in Indonesia using Regression Techniques: A Comparative Analysis of Support Vector Machine, Linear Regression, and XGBoost Regression",
+        "authors": "Erio Yoshino, Felix Indra Kurniadi, Budi Juarto",
+        "published": "2023-9-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciss59129.2023.10291271"
+    },
+    {
+        "id": 13872,
+        "title": "Isotherm and kinetic studies for sorption of <scp>Cr</scp>(<scp>VI</scp>) onto <scp><i>Prosopis cineraria</i></scp> leaf powder: A comparison of linear and non‐linear regression analysis",
+        "authors": "Mohini Singh, Mohd. Rayaz, R. Arti",
+        "published": "2024-1",
+        "citations": 3,
+        "abstract": "AbstractThis research investigated the utilization of Prosopis cineraria leaf powder (PCLP) as biosorbent in the removal of Cr(VI) from aqueous solution. The maximum monolayer biosorption capacity of Cr(VI) onto PCLP after 2 h was 10.283 mg g−1 under optimum conditions: initial concentration 10 mg L−1, pH 5, dose 0.4 g L−1 and temperature at 293 K. For equilibrium modeling, two‐parameters (Langmuir, Freundlich, Temkin) and three parameters (Redlich‐Peterson, Sips and Toth) isotherm models were used to fit the equilibrium data. Kinetic modeling was performed using Lagergren pseudo‐first‐order, pseudo‐second‐order, Elovich, Weber‐Morris intraparticle diffusion, and Bangham's model. Both linear and nonlinear regression were compared coupled with several error functions to determine the best fit and model parameters were evaluated. The results revealed that nonlinear method best explain the experimental data revealing Temkin (R2 = 0.9938) and pseuso‐second‐order (R2 = 0.9935) models as the best‐fitted models with lower error functions. Therefore, the present investigation convinced that PCLP could be used as cost effective, efficient and eco‐friendly biosorbent to reduce Cr(VI) concentration in aqueous solution.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/ep.14259"
+    },
+    {
+        "id": 13873,
+        "title": "Correction: Non-linear Threshold Effect of Governance Quality on Economic Growth in African Countries: Evidence from Panel Smooth Transition Regression Approach",
+        "authors": "Anis Ochi, Yosra Saidi, Mohamed Ali Labidi",
+        "published": "2023-8-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13132-023-01463-x"
+    },
+    {
+        "id": 13874,
+        "title": "Non-Linear Regression Algorithms for Selected Growth Models",
+        "authors": "Nkpordee Lekia, Ogolo Ibinabo Magnus, Dappa Jane Aselenyeofori",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "For the optimization process to start, traditional statistical methods for nonlinear regression models need a starting point (initial parameters or guess values). The parameters must first be predicted using an iterative process after the nonlinear regression model expression has been\n written, the parameter names have been expressed, and the initial parameter values have been defined. The Gauss-Newton and Levenberg-Marquardt methods (algorithms) for solving non-linear regression models were used in a computer program for predicting three growth models (Logistic, Gompertz,\n and Weibull models). The multiplicative error terms used to decompose the growth models help specify the best algorithm and model for growth studies. Before using an iterative approach, second-order regression techniques were used to solve the problem of the initial parameters. The final estimate\n of the parameters, standard errors, p-values, and model adequacy metrics like (R2, Adj. R2, MSE, SSE, AIC, and BIC) that were used to select the best algorithm and growth model are displayed in the result. The Weibull Growth Model with Multiplicative Error Terms was determined\n to be the ideal growth model by this study. The Gauss-Newton Algorithm was once again found to be the best algorithm for solving nonlinear regression models in this study. Finally, this study suggest/recommend using the Gauss-Newton algorithm to solve non-linear regression models and the Weibull\n Growth Model for additional growth studies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15864/jmscm.4403"
+    },
+    {
+        "id": 13875,
+        "title": "Linear regression between fecal cortisol metabolites and circulating cortisol levels of peri-partum ewes: Suggesting a non-invasive alternative sampling method",
+        "authors": "Farshad Farahmandian, Aliasghar Chalmeh, Mehrdad Pourjafar, Armin Amirian",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.smallrumres.2023.107071"
+    },
+    {
+        "id": 13876,
+        "title": "A novel variational robust filter with Gaussian mixture model for unknown non-Gaussian noises",
+        "authors": "Hongpo Fu, Yongmei Cheng, Wei Huang",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2023.113417"
+    },
+    {
+        "id": 13877,
+        "title": "Gaussian process regression in the flat limit",
+        "authors": "Simon Barthelmé, Pierre-Olivier Amblard, Nicolas Tremblay, Konstantin Usevich",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-aos2336"
+    },
+    {
+        "id": 13878,
+        "title": "Parameter estimation and application of inverse Gaussian regression",
+        "authors": "Eva Khoirun Nisa, Seftina Diyah Miasary",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0194666"
+    },
+    {
+        "id": 13879,
+        "title": "Non-linear regression of air-water temperature for modelling surface heat fluxes in waterbodies: A case study of Laurance Lake, US",
+        "authors": "Dahlia S.A. Al-Jashaami, Hussein A.M. Al-Zubaidi",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2021.07.003"
+    },
+    {
+        "id": 13880,
+        "title": "Multiple Linear Regression versus Automatic Linear Modelling",
+        "authors": "S. Genç, M. Mendeş",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "ABSTRACT In this study, performances of Multiple Linear Regression and Automatic Linear Modelling are compared for different sample sizes and number of predictors. A comprehensive Monte Carlo simulation study was carried out for this purpose. Random numbers generated from multivariate normal distribution by using RNMVN function of IMSL library of Microsoft FORTRAN Developer Studio composed the material of this study. Results of the simulation study showed that the sample size and the number of predictors are the main factors that lead to produce different results. Although both methods gave very similar results especially when studied with large sample sizes (n≥100), the Automatic linear modelling is preferred for analyzing data sets due to its simplicity in analyzing data and interpreting the results, ability to present results visually and providing more detailed information especially studying large complex data sets. It will be beneficial to use the Automatic linear modelling especially in analyzing massive and complex data sets for the purposes of investigating the relationships between one continuous dependent and 10 or more predictors and determine the factors that affect the response or target variable. At the same time, it will also be possible to evaluate the effect of each predictor with a more detailed response.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1590/1678-4162-13071"
+    },
+    {
+        "id": 13881,
+        "title": "A neural network based model for multi-dimensional non-linear Hawkes processes",
+        "authors": "Sobin Joseph, Shashi Jain",
+        "published": "2024-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cam.2024.115889"
+    },
+    {
+        "id": 13882,
+        "title": "Mean-field limits for non-linear Hawkes processes with inhibition on a Erdős-Rényi-graph",
+        "authors": "Jakob Stiefel",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30757/alea.v20-55"
+    },
+    {
+        "id": 13883,
+        "title": "Piston mechanism of interaction of non-linear geomechanical and physicochemical gas exchange and mass transfer processes in coal-bearing rocks",
+        "authors": "T.A. Kiryaeva",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ghm.2023.03.002"
+    },
+    {
+        "id": 13884,
+        "title": "Colloidal Plasmonic Metasurfaces for the Enhancement of Non‐Linear Optical Processes and Molecular Spectroscopies",
+        "authors": "Ylli Conti, Naihao Chiang, Leonardo Scarabelli",
+        "published": "2024-3-8",
+        "citations": 0,
+        "abstract": "AbstractColloidal metasurfaces are emerging as promising candidates for the development of functional chemical metamaterials, combining the undisputed control over crystallography and surface chemistry achieved by synthetic nanochemistry with the scalability and versatility of colloidal self‐assembly strategies. In light of recent reports of colloidal plasmonic materials displaying high‐performing optical cavities, this Minireview discusses the use of this type of metamaterials in the specific context of non‐linear optical phenomena and non‐linear molecular spectroscopies. Our attention is focused on the opportunities and advantages that colloidal nanoparticles and self‐assembled plasmonic metasurfaces can bring to the table compared to more traditional nanofabrication strategies. Specifically, we believe that future work in this direction will express the full potential of non‐linear molecular spectroscopies to explore the chemical space, with a deeper understanding of plasmon‐molecule dynamics, plasmon‐mediated processes, and surface‐enhanced chemistry.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/cnma.202300566"
+    },
+    {
+        "id": 13885,
+        "title": "Early Forest-Fire Detection by Linear Regression, Ridge Regression And Lasso Regression",
+        "authors": "Ananya. Mandre, Deeksha.R. Hebbar, J. Shreya Rao, Ananya Keshav, Shoaib Kamal, Trupthi Rao",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ciisca59740.2023.00060"
+    },
+    {
+        "id": 13886,
+        "title": "Characterization of quantumness of non-Gaussian states under the influence of Gaussian channel",
+        "authors": "Ramniwas Meena, Subhashish Banerjee",
+        "published": "2023-8-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11128-023-04037-7"
+    },
+    {
+        "id": 13887,
+        "title": "Linear regression",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/01.nurse.0000993712.55719.2b"
+    },
+    {
+        "id": 13888,
+        "title": "Estimation of Accuracy Rate in Predicting Cardiovascular Disease using Gaussian Naive Bayes Algorithm with Logistic Regression",
+        "authors": "T. Vishnuvardhan, A. Rama",
+        "published": "2023-2-14",
+        "citations": 0,
+        "abstract": "Aim: Comparison of accuracy rate in prediction of cardiovascular disease using Naive Bayes with Logistic Regression. Materials and Methods: The Naive Bayes (N=10) and Logistic Regression Algorithm (N=10) these two algorithms are calculated by using 2 Groups and taken 20 samples for both algorithm and accuracy in this work. The sample size is determined using the G power Calculator and it’s found to be 10. Results: Based on the Results Accuracy obtained in terms of accuracy is identified by Naive Bayes (87.02%) over the Logistic Regression algorithm (92.18%). Statistical significance difference between novel Naive Bayes algorithm and Logistic Regression Algorithm was found to be p=0.001 (2 tailed) (p<0.05). Conclusion: Prediction of cardiovascular disease using Logistic Regression is significantly better than the Naive Bayes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18137/cardiometry.2022.25.15321537"
+    },
+    {
+        "id": 13889,
+        "title": "Preface",
+        "authors": "Jan Awrejcewicz",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104428"
+    },
+    {
+        "id": 13890,
+        "title": "Mapping the magnetic field using a magnetometer array with noisy input Gaussian process regression",
+        "authors": "Thomas Edridge, Manon Kok",
+        "published": "2023-6-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fusion52260.2023.10224116"
+    },
+    {
+        "id": 13891,
+        "title": "Gaussian Process Regression for Single-Channel Sound Source Localization System Based on Homomorphic Deconvolution",
+        "authors": "Keonwook Kim, Yujin Hong",
+        "published": "2023-1-9",
+        "citations": 1,
+        "abstract": "To extract the phase information from multiple receivers, the conventional sound source localization system involves substantial complexity in software and hardware. Along with the algorithm complexity, the dedicated communication channel and individual analog-to-digital conversions prevent an increase in the system’s capability due to feasibility. The previous study suggested and verified the single-channel sound source localization system, which aggregates the receivers on the single analog network for the single digital converter. This paper proposes the improved algorithm for the single-channel sound source localization system based on the Gaussian process regression with the novel feature extraction method. The proposed system consists of three computational stages: homomorphic deconvolution, feature extraction, and Gaussian process regression in cascade. The individual stages represent time delay extraction, data arrangement, and machine prediction, respectively. The optimal receiver configuration for the three-receiver structure is derived from the novel similarity matrix analysis based on the time delay pattern diversity. The simulations and experiments present precise predictions with proper model order and ensemble average length. The nonparametric method, with the rational quadratic kernel, shows consistent performance on trained angles. The Steiglitz–McBride model with the exponential kernel delivers the best predictions for trained and untrained angles with low bias and low variance in statistics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23020769"
+    },
+    {
+        "id": 13892,
+        "title": "Linear and non-linear thermal system identification based on the integral of non-integer order — Application to solve inverse heat conduction linear and non-linear problems",
+        "authors": "Jean-Luc Battaglia",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijthermalsci.2023.108840"
+    },
+    {
+        "id": 13893,
+        "title": "Information-Theoretically Secure Multi-Party Linear Regression and Logistic Regression",
+        "authors": "Hengcheng Zhou",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccgridw59191.2023.00042"
+    },
+    {
+        "id": 13894,
+        "title": "Osteoporosis prediction: developing multivariate linear regression and logistic regression models based on standard biochemistry profile",
+        "authors": "Zihang Weng",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3013209"
+    },
+    {
+        "id": 13895,
+        "title": "GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM",
+        "authors": "Qiangqiang Huang, John J. Leonard",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341889"
+    },
+    {
+        "id": 13896,
+        "title": "An improved analytical solution to outcrossing rate for scalar nonstationary and non-gaussian processes",
+        "authors": "Bohua Zhang, Weigang Wang, Haoran Lei, Xiancun Hu, Chun-Qing Li",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ress.2024.110102"
+    },
+    {
+        "id": 13897,
+        "title": "Non-linear slosh dynamics of sloped wall tank with bottom-mounted object under seismic excitation",
+        "authors": "Sidhartha Sankar Roy, Kishore Chandra Biswal",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104586"
+    },
+    {
+        "id": 13898,
+        "title": "Wave propagation in mass-in-mass Duffing type non-linear metamaterial implementing Jacobi’s elliptic balance method",
+        "authors": "Arnab Banerjee, Kamal Krishna Bera",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104549"
+    },
+    {
+        "id": 13899,
+        "title": "Effect of stochastic forcing on the dynamic behavior of a self-sustained oscillator coupled to a non-linear energy sink",
+        "authors": "Baptiste Bergeot",
+        "published": "2023-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijnonlinmec.2023.104351"
+    },
+    {
+        "id": 13900,
+        "title": "Seismic safety assessment with non-Gaussian random processes for train-bridge coupled systems",
+        "authors": "Han Zhao, Lei Gao, Biao Wei, Jincheng Tan, Peidong Guo, Lizhong Jiang, Ping Xiang",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11803-024-2235-y"
+    },
+    {
+        "id": 13901,
+        "title": "Non-parametric dynamics modeling for unmanned surface vehicle using spectral metric multi-output Gaussian processes learning",
+        "authors": "Zhao Zhang, Junsheng Ren",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.116491"
+    },
+    {
+        "id": 13902,
+        "title": "Trajectory Tracking MPC with Online Model Adaptation Using Gaussian Process Regression and Clustering",
+        "authors": "Toni Lubiniecki, Georg Schildbach",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422382"
+    },
+    {
+        "id": 13903,
+        "title": "Track segment association based on Gaussian regression analysis",
+        "authors": "Ying Sun, Zhongqin Ge, Yechao Bai",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3023237"
+    },
+    {
+        "id": 13904,
+        "title": "Pressure Reconstruction from the Measured Pressure Gradient Using Gaussian Process Regression",
+        "authors": "Zejian You, Qi Wang, Xiaofeng Liu",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2023-0414"
+    }
+]

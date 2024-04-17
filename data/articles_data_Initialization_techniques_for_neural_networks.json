@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 15305,
+        "title": "A mathematical framework for improved weight initialization of neural networks using Lagrange multipliers",
+        "authors": "Ingeborg de Pater, Mihaela Mitici",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.035"
+    },
+    {
+        "id": 15306,
+        "title": "Incorrect Application of Yilmaz–Poli (2022) Initialisation Method in dePater–Mitici 2023 paper entitled “A mathematical framework for improved weight initialization of neural networks using Lagrange multipliers”",
+        "authors": "Riccardo Poli, Ahmet Yilmaz",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.09.017"
+    },
+    {
+        "id": 15307,
+        "title": "A Comparative Study of Weight Initialization Techniques for Convolutional Neural Networks in COVID-19 Classification from X-ray Images.",
+        "authors": "Abdelrahman Ezzeldin Nagib, Mostafa Saeed, Shereen Fathy El-Feky, Ali Khater Mohamed",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/imsa58542.2023.10217655"
+    },
+    {
+        "id": 15308,
+        "title": "Growing neural networks using orthogonal initialization",
+        "authors": "Xinglin Pan",
+        "published": "2023-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2667654"
+    },
+    {
+        "id": 15309,
+        "title": "A Comprehensive Study on Model Initialization Techniques Ensuring Efficient Federated Learning",
+        "authors": "Adwaita Janardhan Jadhav, Ishmeet Kaur",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icngn59831.2023.10396802"
+    },
+    {
+        "id": 15310,
+        "title": "Topology Optimization Using Neural Networks With Conditioning Field Initialization for Improved Efficiency",
+        "authors": "Hongrui Chen, Aditya Joglekar, Levent Burak Kara",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "Abstract\nWe propose conditioning field initialization for neural network based topology optimization. In this work, we focus on (1) improving upon existing neural network based topology optimization, (2) demonstrating that by using a prior initial field on the unoptimized domain, the efficiency of neural network based topology optimization can be further improved. Our approach consists of a topology neural network that is trained on a case by case basis to represent the geometry for a single topology optimization problem. It takes in domain coordinates as input to represent the density at each coordinate where the topology is represented by a continuous density field. The displacement is solved through a finite element solver. We employ the strain energy field calculated on the initial design domain as an additional conditioning field input to the neural network throughout the optimization. The addition of the strain energy field input improves the convergence speed compared to standalone neural network based topology optimization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/detc2023-116937"
+    },
+    {
+        "id": 15311,
+        "title": "Weight initialization algorithm for physics-informed neural networks using finite differences",
+        "authors": "Homayoon Tarbiyati, Behzad Nemati Saray",
+        "published": "2023-8-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00366-023-01883-y"
+    },
+    {
+        "id": 15312,
+        "title": "Topology Optimization Using Neural Networks With Conditioning Field Initialization for Improved Efficiency",
+        "authors": "Hongrui Chen, Aditya Joglekar, Levent Burak Kara",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "Abstract\nWe propose conditioning field initialization for neural network-based topology optimization. In this work, we focus on (1) improving upon existing neural network-based topology optimization and (2) demonstrating that using a prior initial field on the unoptimized domain, the efficiency of neural network-based topology optimization can be further improved. Our approach consists of a topology neural network that is trained on a case by case basis to represent the geometry for a single topology optimization problem. It takes in domain coordinates as input to represent the density at each coordinate where the topology is represented by a continuous density field. The displacement is solved through a finite element solver. We employ the strain energy field calculated on the initial design domain as an additional conditioning field input to the neural network throughout the optimization. Running the same number of iterations, our method converges to a lower compliance. To reach the same compliance, our method takes fewer iterations. The addition of the strain energy field input improves the convergence speed compared to standalone neural network-based topology optimization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/1.4064131"
+    },
+    {
+        "id": 15313,
+        "title": "AutoInit: Analytic Signal-Preserving Weight Initialization for Neural Networks",
+        "authors": "Garrett Bingham, Risto Miikkulainen",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "Neural networks require careful weight initialization to prevent signals from exploding or vanishing.  Existing initialization schemes solve this problem in specific cases by assuming that the network has a certain activation function or topology.  It is difficult to derive such weight initialization strategies, and modern architectures therefore often use these same initialization schemes even though their assumptions do not hold. This paper introduces AutoInit, a weight initialization algorithm that automatically adapts to different neural network architectures.  By analytically tracking the mean and variance of signals as they propagate through the network, AutoInit appropriately scales the weights at each layer to avoid exploding or vanishing signals.  Experiments demonstrate that AutoInit improves performance of convolutional, residual, and transformer networks across a range of activation function, dropout, weight decay, learning rate, and normalizer settings, and does so more reliably than data-dependent initialization methods.  This flexibility allows AutoInit to initialize models for everything from small tabular tasks to large datasets such as ImageNet.  Such generality turns out particularly useful in neural architecture search and in activation function discovery.  In these settings, AutoInit initializes each candidate appropriately, making performance evaluations more accurate. AutoInit thus serves as an automatic configuration tool that makes design of new neural network architectures more robust. The AutoInit package provides a wrapper around TensorFlow models and is available at https://github.com/cognizant-ai-labs/autoinit.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i6.25836"
+    },
+    {
+        "id": 15314,
+        "title": "What is behind the meta-learning initialization of adaptive filter? — A naive method for accelerating convergence of adaptive multichannel active noise control",
+        "authors": "Dongyuan Shi, Woon-seng Gan, Xiaoyi Shen, Zhengding Luo, Junwei Ji",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106145"
+    },
+    {
+        "id": 15315,
+        "title": "Cluster-Based Input Weight Initialization for Echo State Networks",
+        "authors": "Peter Steiner, Azarakhsh Jalalvand, Peter Birkholz",
+        "published": "2023-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3145565"
+    },
+    {
+        "id": 15316,
+        "title": "Improving fine-tuning of self-supervised models with Contrastive Initialization",
+        "authors": "Haolin Pan, Yong Guo, Qinyi Deng, Haomin Yang, Jian Chen, Yiqun Chen",
+        "published": "2023-2",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.12.012"
+    },
+    {
+        "id": 15317,
+        "title": "Power-law initialization algorithm for convolutional neural networks",
+        "authors": "Kaiwen Jiang, Jian Liu, Tongtong Xing, Shujing Li, Shunyao Wu, Fengjing Shao, Rencheng Sun",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08881-7"
+    },
+    {
+        "id": 15318,
+        "title": "Statistical physics of deep neural networks: Initialization toward optimal channels",
+        "authors": "Kangyu Weng, Aohua Cheng, Ziyang Zhang, Pei Sun, Yang Tian",
+        "published": "2023-4-13",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1103/physrevresearch.5.023023"
+    },
+    {
+        "id": 15319,
+        "title": "InitialGAN: A Language GAN With Completely Random Initialization",
+        "authors": "Da Ren, Qing Li",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3315778"
+    },
+    {
+        "id": 15320,
+        "title": "A Robust Initialization of Residual Blocks for Effective ResNet Training Without Batch Normalization",
+        "authors": "Enrico Civitelli, Alessio Sortino, Matteo Lapucci, Francesco Bagattini, Giulio Galvan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3325541"
+    },
+    {
+        "id": 15321,
+        "title": "Review on Improved Machine Learning Techniques for Predicting Chronic Diseases",
+        "authors": "L. Abirami, J. Karthikeyan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3103/s1060992x24010028"
+    },
+    {
+        "id": 15322,
+        "title": "Hierarchical Task-Incremental Learning with Feature-Space Initialization Inspired by Neural Collapse",
+        "authors": "Qinhao Zhou, Xiang Xiang, Jing Ma",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-023-11352-8"
+    },
+    {
+        "id": 15323,
+        "title": "Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey",
+        "authors": "Manon Dampfhoffer, Thomas Mesquida, Alexandre Valentian, Lorena Anghel",
+        "published": "2024",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3263008"
+    },
+    {
+        "id": 15324,
+        "title": "New Advances in Artificial Neural Networks and Machine Learning Techniques",
+        "authors": "Olga Valenzuela, Andreu Catala, Davide Anguita, Ignacio Rojas",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-023-11350-w"
+    },
+    {
+        "id": 15325,
+        "title": "Skin Cancer Detection and Classification System by Applying Image Processing and Machine Learning Techniques",
+        "authors": " Dr. A. Rasmi,  Dr. A. Jayanthiladevi",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3103/s1060992x23030086"
+    },
+    {
+        "id": 15326,
+        "title": "Towards Transient Fault Mitigation Techniques Optimized for Compressed Neural Networks",
+        "authors": "Alessio Colucci",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dsn-s58398.2023.00059"
+    },
+    {
+        "id": 15327,
+        "title": "Review of: \"SPATIAL ANALYSIS OF SOIL FERTILITY USING GEOSTATISTICAL TECHNIQUES AND ARTIFICIAL NEURAL NETWORKS\"",
+        "authors": "Neda Bihamta Toosi",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32388/axj7i3"
+    },
+    {
+        "id": 15328,
+        "title": "Exploring High-Level Neural Networks Architectures for Efficient Spiking Neural Networks Implementation",
+        "authors": "Riadul Islam, Patrick Majurski, Jun Kwon, Sri Ranga Sai Krishna Tummala",
+        "published": "2023-1-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icrest57604.2023.10070080"
+    },
+    {
+        "id": 15329,
+        "title": "Heterogeneous Entity Matching with Complex Attribute Associations using BERT and Neural Networks",
+        "authors": "Jiamin Lu, Shitao Wang",
+        "published": "2023-9-16",
+        "citations": 0,
+        "abstract": "Across various domains, data from different sources such as Baidu Baike and Wikipedia often manifest in distinct forms. Current entity matching methodologies predominantly focus on homogeneous data, characterized by attributes that share the same structure and concise attribute values. However, this orientation poses challenges in handling data with diverse formats. Moreover, prevailing approaches aggregate the similarity of attribute values between corresponding attributes to ascertain entity similar- ity. Yet, they often overlook the intricate interrelationships between attributes, where one attribute may have multiple associations. The simplistic approach of pairwise attribute comparison fails to harness the wealth of information encapsulated within entities.To address these challenges, we introduce a novel en- tity matching model, dubbed ”Entity Matching Model for Capturing Complex Attribute Relationships (EMMCCAR),” built upon pre-trained models. Specifically, this model transforms the matching task into a sequence matching problem to mitigate the impact of varying data formats. Moreover, by introducing attention mechanisms, it identifies complex relationships between attributes, emphasizing the degree of matching among multiple attributes rather than one-to-one correspondences. Through the integration of the EMM-CCAR model, we adeptly surmount the challenges posed by data heterogeneity and intricate attribute interdependencies. In comparison with the prevalent DER-SSM and Ditto approaches, our model achieves improvements of approximately 4% and 1% in F1 scores, respectively. This furnishes a robust solution for addressing the intricacies of attribute complexity in entity matching.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131605"
+    },
+    {
+        "id": 15330,
+        "title": "Analysis of Neural Networks Based OTFS Wireless System",
+        "authors": "Sneha Chennamsetty, Subbarao Boddu",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci58599.2023.10331412"
+    },
+    {
+        "id": 15331,
+        "title": "Image super-resolution techniques using deep neural networks",
+        "authors": "Meilin Guo",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "Super-resolution (SR) based on deep convolutional neural networks is a rapidly developing field with many real-world applications. In this paper, we examine cutting-edge super-resolution neural networks in-depth using freshly released difficult datasets to test single-image SR. We present a taxonomy that divides existing techniques into six categories, including upsampling, residual, recursive, dense connection, attention-based, and loss function designs. This taxonomy is applicable to deep learning-based SR networks. The comprehensive analysis shows that in the past few years, the accuracy has increased steadily and rapidly, while the complexity of the model and the accessibility of large-scale information have also increased accordingly. It has been noted that the present techniques have greatly outperformed the past techniques that were indicated as benchmarks. On this basis, this paper will put forward some suggestions for future research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/5/20230567"
+    },
+    {
+        "id": 15332,
+        "title": "Performance of Neural Computing Techniques in Communication Networks",
+        "authors": "Junho Jeong",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "This research investigates the use of neural computing techniques in communication networks and evaluates their performance based on error rate, delay, and throughput. The results indicate that different neural computing techniques, such as Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) and Generative Adversarial Networks (GANs) have different trade-offs in terms of their effectiveness in improving performance. The selection of technique will base on the particular requirements of the application. The research also evaluates the relative performance of different communication network architectures and identified the trade-offs and limitations associated with the application of different techniques in communication networks. The research suggests that further research is needed to explore the use of techniques, such as deep reinforcement learning; in communication networks and to investigate how the employment of techniques can be used to improve the security and robustness of communication networks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53759/7669/jmc202303010"
+    },
+    {
+        "id": 15333,
+        "title": "Design of Industrial and Commercial Systems based on Neural Networks",
+        "authors": "Haifeng Liao",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393820"
+    },
+    {
+        "id": 15334,
+        "title": "Neural Networks Referees in 2022",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00489-0"
+    },
+    {
+        "id": 15335,
+        "title": "Neural Networks Referees in 2023",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00713-x"
+    },
+    {
+        "id": 15336,
+        "title": "Research on pruning optimization techniques for neural networks",
+        "authors": "Jiajun Wang",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "Large deep neural networks have been deploying in more and more application scenarios due to their success in multiple application scenarios. However, deep neural networks are difficult to apply to devices with fewer resources, as the large models and huge demand for computing resources make this difficult. Pruning optimization, as a critical model compression method, has become an essential part of the deployment process of deep neural networks and has extreme significance. This article summarizes the methods of deep neural network pruning optimization technology, sorts out the current research status of pruning optimization technology, analyzes different fine-grained pruning optimization technologies based on the different fine-grained levels of pruning optimization technology, and comparing the characteristics of different fine-grained pruning optimization techniques. This article also introduces the development process and current development direction of different fine-grained pruning optimization technologies, compares the effectiveness differences between different fine-grained pruning optimization technologies and looks forward to the combination of pruning optimization technology and model quantification technology. The end of the paper summarizes pruning optimization techniques and provides prospects.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/19/20231025"
+    },
+    {
+        "id": 15337,
+        "title": "Announcement of the Neural Networks Best Paper Award",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00714-1"
+    },
+    {
+        "id": 15338,
+        "title": "Dynamic inference techniques for deep neural networks",
+        "authors": "Zihan Zhang, Linze Shi",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "With the development of deep neural network, dynamic inference techniques have attracted extensive attention. When the traditional static neural network is faced with complex samples, it will generate a lot of computational redundancy, resulting in a waste of computing resources. In order to solve this problem, on the basis of static network, experts use dynamic reasoning technology to improve the network, so that the network can calculate the samples. Therefore, the network structure has been fundamentally improved by performing operations such as layer skipping and leaving early. Compared with the traditional static networks, the improved model has greatly improved the speed and scale. At the same time, the accuracy of operation has also been greatly improved.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/2/20220534"
+    },
+    {
+        "id": 15339,
+        "title": "Improving Techniques for Convolutional Neural Networks Performance",
+        "authors": "Dina Darwish",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "Convolutional Neural Networks (CNNs) have been extensively used in several application domains. Researchers have been exploring methods to enhance the accuracy of applications in accuracy-critical domains by either increasing the depth or width of the network. The presence of structures results in a significant increase in both computational and storage costs, hence causing a delay in response time. Convolutional Neural Networks have significantly contributed to the rapid development of several applications, including image classification, object detection, and semantic segmentation. However, in some applications that need zero tolerance for mistakes, such as automated systems, there are still certain issues that need to be addressed to achieve better performance. Then, despite the progress made so far, there are still limitations and challenges that must be overcome. Simultaneously, there is a need for reduced reaction time. Convolutional Neural Networks (CNNs) are now faced with significant obstacles of a formidable nature. This paper investigates different methods that can be used to improve convolutional neural network performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24018/ejece.2024.8.1.596"
+    },
+    {
+        "id": 15340,
+        "title": "Spatial Analysis of Soil Fertility Using Geostatistical Techniques And Artificial Neural Networks",
+        "authors": "Angel Rafael Valera Valera, Eladio Ramon Arias Rodríguez",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "Information on the spatial variation of soil fertility attributes is an essential input for precision agriculture and soil management decision making. In this study, soil fertility assessment was carried out through the spatial distribution of thematic maps of individual properties and the subsequent integration into a digital mapping model of local fertility classes, as fundamental bases for the implementation of fertilization and amendment plans adjusted to soil status and crop requirements. For the evaluation of fertility, a systematic surface sampling was carried out in 70 sites in the \"Agronomy\" production field of the National University of the Central Plains \"Romulo Gallegos\", El Castrero sector, Juan German Roscio municipality, Guárico state, Venezuela. Ten soil variables were analyzed: pH (1:2.5), electrical conductivity (1:5), organic matter, available phosphorus, assimilable potassium, available calcium and magnesium, and the relative amounts of sand, silt and clay. Soil property maps were produced by geostatistical analysis and interpolation by ordinary kriging, and artificial intelligence techniques based on an artificial neural network classification system were applied to generate soil fertility classes using the Fuzzy Kohonen Clustering Network (FKCN) algorithm by interpolating the values of the membership function for each of the classes. The reliability of the individual maps of each soil variable was obtained by cross validation with a reliability level higher than 90%, with the exception of the variables % Clay and % Silt that presented a reliability higher than 85%. The integration of the soil attribute maps and the combination of the values of belonging to each class produced a map integrated by five soil fertility categories. The final model of digital soil fertility classes presented a reliability equivalent to 86%, which indicated a high degree of homogeneity within the soil classes obtained for fertility purposes.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32388/0jafr0"
+    },
+    {
+        "id": 15341,
+        "title": "Initialization-Based <i>k</i>-Winners-Take-All Neural Network Model Using Modified Gradient Descent",
+        "authors": "Yinyan Zhang, Shuai Li, Guanggang Geng",
+        "published": "2023-8",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3123240"
+    },
+    {
+        "id": 15342,
+        "title": "Deep Learning based Bone Fracture Prediction using Convolutional Neural Networks: A Comparative Study of Transfer Learning and Fine-tuning Techniques",
+        "authors": "Sriram R, O R Aruna",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icotl59758.2023.10435047"
+    },
+    {
+        "id": 15343,
+        "title": "Recent Updates on Investigation of Neural Control of Human Locomotion by Non-invasive Neural Recording Techniques",
+        "authors": "Hikaru Yokoyama",
+        "published": "2023-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3902/jnns.30.21"
+    },
+    {
+        "id": 15344,
+        "title": "Class incremental learning in convolutional neural networks",
+        "authors": "Adarsh Sharma, Abhiraj Singh Rathore, Achint Goel",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0169652"
+    },
+    {
+        "id": 15345,
+        "title": "Lung Cancer Diagnosis and Classification Using Hybrid Neural Network Techniques",
+        "authors": "M. Yasmin, A. Andrew Roobert",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscna58489.2023.10370424"
+    },
+    {
+        "id": 15346,
+        "title": "Improved content-based brain tumor retrieval for magnetic resonance images using weight initialization framework with densely connected deep neural network",
+        "authors": "Vibhav Prakash Singh, Aman Verma, Dushyant Kumar Singh, Ritesh Maurya",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-09149-w"
+    },
+    {
+        "id": 15347,
+        "title": "Estimation Of Air Quality Index In Delhi By Merging Neural Networks And Multiple Regression Techniques with Principal Components Analysis",
+        "authors": "Shriniketan Kulkarni, Harneet Singh Bali, Rajashree Krishna",
+        "published": "2023-3-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wisscon56857.2023.10133846"
+    },
+    {
+        "id": 15348,
+        "title": "Automatic Glaucoma Detection from Fundus Images Using Deep Convolutional Neural Networks and Exploring Networks Behaviour Using Visualization Techniques",
+        "authors": "Vijaya Kumar Velpula, Lakhan Dev Sharma",
+        "published": "2023-6-27",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-01945-4"
+    },
+    {
+        "id": 15349,
+        "title": "Animal image identification and classification using deep neural networks techniques",
+        "authors": "Thirupathi Battu, D. Sreenivasa Reddy Lakshmi",
+        "published": "2023-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measen.2022.100611"
+    },
+    {
+        "id": 15350,
+        "title": "Bidirectionally self-normalizing neural networks",
+        "authors": "Yao Lu, Stephen Gould, Thalaiyasingam Ajanthan",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.017"
+    },
+    {
+        "id": 15351,
+        "title": "Announcement of the Neural Networks Best Paper Award",
+        "authors": "Taro Toyoizumi, DeLiang Wang",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00490-7"
+    },
+    {
+        "id": 15352,
+        "title": "Applications of visual perception techniques using neural  networks in autonomous driving",
+        "authors": "Kangye Hu",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "The perception system and the decision system are important components of a complete autonomous driving vehicle. The perception system can help the decision system to obtain the necessary information of external environment and vehicle status. The traditional perception system mainly relies on the on-board radar. But in recent years, vision-based perception techniques have become a hot research topic. Meanwhile, thanks to the excellent performance of neural networks in processing image data, the processing algorithms for visual perception images have also made great progress. Visual perception techniques can not only acquire more information, but also is more cost effective and easier to install. This paper provides an overview of the more mature and promising visual perception techniques, including their principles and data processing algorithms, in terms of acquiring 2D image data and 3D depth information. For acquiring 2D image data, this paper introduces the principle of event camera and reviews the current progress on the event camera. Regarding the acquisition of 3D depth information, three techniques are introduced, namely binocular stereo-vision, time of flight (TOF), and structured light. Their performance when combined with neural networks for autonomous driving applications is also reviewed. Finally, this paper lists the current dilemmas faced by the above 2D and 3D imaging techniques and the possible solutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/28/20230140"
+    },
+    {
+        "id": 15353,
+        "title": "Image text deblurring by convolutional neural networks",
+        "authors": "Ali Shakir Alahmed, Serkan Ozbay",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0103150"
+    },
+    {
+        "id": 15354,
+        "title": "Effect of Optimization Techniques on Feedback Alignment Learning of Neural Networks",
+        "authors": "Soha Lee, Hyeyoung Park",
+        "published": "2023-2-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaiic57133.2023.10067047"
+    },
+    {
+        "id": 15355,
+        "title": "Over comparative study of text summarization techniques based on graph neural networks",
+        "authors": "Samina Mulla, Nuzhat F. Shaikh",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "Due to the enormous content of text available online through emails, social media, and news articles, it has become complicated to summarize the textual information from multiple documents. Text summarization automatically creates a comprehensive description of the document that retains its informative contents through the keywords, where Multi-Document Summarization (MDS) is a productive tool for data accumulation that creates a concise and informative summary from the documents. In order to extract the relevant information from the documents, Graph neural networks (GNNs) is the neural structure that detains the interrelation of the graph by progressing the messages between the graphical nodes. In the current years, the advanced version of GNNs, such as graph attention network (GAN), graph recurrent network, and graph convolutional network (GCN) provides a remarkable performance in text summarization with the advantage of deep learning techniques. Hence, in this survey, graph approaches for text summarization has been analyzed and discussed, where the recent text summarization model based on Deep learning techniques are highlighted. Further, the article provides the taxonomy to abstract the design pattern of Neural Networks and conducts a comprehensive of the existing text summarization model. Finally, the review article enlists the future direction of the researcher, which would motivate the enthusiastic and novel contributions in text summarizations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/web-230014"
+    },
+    {
+        "id": 15356,
+        "title": "Supervised learning of process discovery techniques using graph neural networks",
+        "authors": "Dominique Sommers, Vlado Menkovski, Dirk Fahland",
+        "published": "2023-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.is.2023.102209"
+    },
+    {
+        "id": 15357,
+        "title": "Enhancing Cryptanalysis of DES Encryption using Neural Networks and Firefly Algorithms",
+        "authors": "Varshini Balaji, Vallidevi Krishnamurthy",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392499"
+    },
+    {
+        "id": 15358,
+        "title": "DEFENSE ARTIFICIAL NEURAL NETWORKS FROM ADVERSARIAL ATTACKS BY USING DEEP LEARNING CLASSIFICATION TECHNIQUES",
+        "authors": "",
+        "published": "2024-3-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets50791"
+    },
+    {
+        "id": 15359,
+        "title": "Exploring Normalization Techniques in Neural Networks for Bitcoin Candlestick Price Prediction",
+        "authors": "Sutiwat Simtharakao, Daricha Sutivong",
+        "published": "2023-2-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaiic57133.2023.10067086"
+    },
+    {
+        "id": 15360,
+        "title": "The application of different optimization techniques and Artificial Neural Networks (ANN) for coal-consumption forecasting: a case study",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/gsm.2022.141668"
+    },
+    {
+        "id": 15361,
+        "title": "VC dimensions of group convolutional neural networks",
+        "authors": "Philipp Christian Petersen, Anna Sepliarskaia",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.012"
+    },
+    {
+        "id": 15362,
+        "title": "A Critical Review of Inductive Logic Programming Techniques for Explainable AI",
+        "authors": "Zheng Zhang, Levent Yilmaz, Bo Liu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3246980"
+    },
+    {
+        "id": 15363,
+        "title": "Random projection forest initialization for graph convolutional networks",
+        "authors": "Mashaan Alshammari, John Stavrakakis, Adel F. Ahmed, Masahiro Takatsuka",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mex.2023.102315"
+    },
+    {
+        "id": 15364,
+        "title": "Corrigendum to ‘An exact mapping from ReLU networks to spiking neural networks’ [Neural Networks Volume 168 (2023) Pages 74-88]",
+        "authors": "Ana Stanojevic, Stanisław Woźniak, Guillaume Bellec, Giovanni Cherubini, Angeliki Pantazi, Wulfram Gerstner",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.057"
+    },
+    {
+        "id": 15365,
+        "title": "Deploying deep learning networks based advanced techniques for image processing on FPGA platform",
+        "authors": "Refka Ghodhbani, Taoufik Saidani, Hafedh Zayeni",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08718-3"
+    },
+    {
+        "id": 15366,
+        "title": "Optimizing Convolutional Neural Networks Utilizing Tensor Decomposition Techniques for Large-Scale Image Recognition Tasks",
+        "authors": "Tiancheng Hu",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "Convolutional Neural Networks (CNNs) are integral to numerous applications in today's digital landscape. However, their computational demands often result in slow operation, especially when resources are constrained. This study introduces two tensor decomposition methods aimed at optimizing the performance of CNNs by minimizing the total number of operations and weights, while maintaining accuracy. The first method employs Canonical Polyadic (CP) decomposition to divide the convolutional layer into multiple rank 1 tensors. The second method uses Tucker decomposition to break down the convolutional layer into a compact core tensor and several matrices. The effectiveness of these methods was evaluated on widely-used convolutional architectures, VGG16 and LeNet, by substituting their convolutional layers with a series of decomposed layers, implemented using PyTorch and TensorLy. The CP decomposition method achieved a computational speed-up of 43% with a minimal accuracy reduction of less than 0.12%. Similarly, Tucker decomposition resulted in a 37% speed-up with an accuracy decrease of less than 0.16%. These findings suggest that the proposed tensor decomposition methods can significantly enhance the efficiency of CNNs without significantly impacting their performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47611/jsrhs.v12i3.4916"
+    },
+    {
+        "id": 15367,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00516-0"
+    },
+    {
+        "id": 15368,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00198-3"
+    },
+    {
+        "id": 15369,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00314-3"
+    },
+    {
+        "id": 15370,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00113-8"
+    },
+    {
+        "id": 15371,
+        "title": "Mean-field neural networks: Learning mappings on Wasserstein space",
+        "authors": "Huyên Pham, Xavier Warin",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.09.015"
+    },
+    {
+        "id": 15372,
+        "title": "Diagnosis of Cardiac Disease Utilizing Machine Learning Techniques and Dense Neural Networks",
+        "authors": "K. Prabhavathi, V. Mareeswari",
+        "published": "2023-9-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02081-9"
+    },
+    {
+        "id": 15373,
+        "title": "Special Issue: Neural Networks, Fuzzy Systems and Other Computational Intelligence Techniques for Advanced Process Control",
+        "authors": "Jie Zhang, Meihong Wang",
+        "published": "2023-7-28",
+        "citations": 1,
+        "abstract": "Computational intelligence (CI) techniques have developed very fast over the past two decades, with many new methods emerging [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/pr11082278"
+    },
+    {
+        "id": 15374,
+        "title": "Architecture optimization techniques for Convolutional Neural Networks: further experiments and insights",
+        "authors": "Artur Sobolewski, Kamil Szyc",
+        "published": "2024-3-23",
+        "citations": 0,
+        "abstract": "In this paper, we have researched implementing convolutional neural network (CNN) models for devices with limited resources, such as smartphones and embedded computers. To optimize the number of parameters of these models, we studied various popular methods that would allow them to operate more efficiently. Specifically, our research focused on the ResNet-101 and VGG-19 architectures, which we modified using techniques specific to model optimization. We aimed to determine which approach would work best for particular requirements for a maximum accepted accuracy drop. Our contribution lies in the comprehensive ablation study, which presents the impact of different approaches on the final results, specifically in terms of reducing model parameters, FLOPS, and the potential decline in accuracy. We explored the feasibility of implementing architecture compression methods that can influence the model’s structure. Additionally, we delved into post-training methods, such as pruning and quantization, at various model sparsity levels. This study builds upon our prior research [1] to provide a more comprehensive understanding of the subject matter at hand.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/ijet.2024.149518"
+    },
+    {
+        "id": 15375,
+        "title": "Optimizing dense feed-forward neural networks",
+        "authors": "Luis Balderas, Miguel Lastra, José M. Benítez",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.12.015"
+    },
+    {
+        "id": 15376,
+        "title": "Consideration on the learning efficiency of multiple-layered neural networks with linear units",
+        "authors": "Miki Aoyagi",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106132"
+    },
+    {
+        "id": 15377,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00482-8"
+    },
+    {
+        "id": 15378,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00415-x"
+    },
+    {
+        "id": 15379,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00545-2"
+    },
+    {
+        "id": 15380,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00095-3"
+    },
+    {
+        "id": 15381,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00241-1"
+    },
+    {
+        "id": 15382,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00715-3"
+    },
+    {
+        "id": 15383,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00008-x"
+    },
+    {
+        "id": 15384,
+        "title": "Review on Optimization Techniques of Binary Neural Networks",
+        "authors": "A. Shakkouf",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17586/0021-3454-2023-66-11-926-935"
+    },
+    {
+        "id": 15385,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00482-3"
+    },
+    {
+        "id": 15386,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00550-6"
+    },
+    {
+        "id": 15387,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106192"
+    },
+    {
+        "id": 15388,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00066-2"
+    },
+    {
+        "id": 15389,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00227-2"
+    },
+    {
+        "id": 15390,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00225-9"
+    },
+    {
+        "id": 15391,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00194-6"
+    },
+    {
+        "id": 15392,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00035-7"
+    },
+    {
+        "id": 15393,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00152-1"
+    },
+    {
+        "id": 15394,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00149-1"
+    },
+    {
+        "id": 15395,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00317-9"
+    },
+    {
+        "id": 15396,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00598-1"
+    },
+    {
+        "id": 15397,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00011-x"
+    },
+    {
+        "id": 15398,
+        "title": "Quasi-projective synchronization of discrete-time BAM neural networks by discrete inequality techniques",
+        "authors": "Zhen Yang, Zhengqiu Zhang, Huaying Liao",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-024-09462-y"
+    },
+    {
+        "id": 15399,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00039-4"
+    },
+    {
+        "id": 15400,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00709-8"
+    },
+    {
+        "id": 15401,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00476-8"
+    },
+    {
+        "id": 15402,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00485-3"
+    },
+    {
+        "id": 15403,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00179-5"
+    },
+    {
+        "id": 15404,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00031-x"
+    },
+    {
+        "id": 15405,
+        "title": "Editorial Board",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00246-0"
+    },
+    {
+        "id": 15406,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00105-3"
+    },
+    {
+        "id": 15407,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00519-6"
+    },
+    {
+        "id": 15408,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00593-2"
+    },
+    {
+        "id": 15409,
+        "title": "Current Events",
+        "authors": "",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00410-0"
+    },
+    {
+        "id": 15410,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00061-3"
+    },
+    {
+        "id": 15411,
+        "title": "CURRENT EVENTS",
+        "authors": "",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00183-7"
+    },
+    {
+        "id": 15412,
+        "title": "Medical Applications of Imaging Measurement Techniques Using Nano-Quantum Sensors",
+        "authors": "Hiroshi Yukawa",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3902/jnns.30.168"
+    },
+    {
+        "id": 15413,
+        "title": "Stabilization of reaction–diffusion fractional-order memristive neural networks",
+        "authors": "Ruoxia Li, Jinde Cao, Ning Li",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.05.042"
+    },
+    {
+        "id": 15414,
+        "title": "Exoplanet detection from starshade images using convolutional neural networks",
+        "authors": "Zahra Ahmed, Simone D'Amico, Renyu Hu, Mario Damiano",
+        "published": "2023-10-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2676600"
+    },
+    {
+        "id": 15415,
+        "title": "HybridBranchNet: A novel structure for branch hybrid convolutional neural networks architecture",
+        "authors": "Ebrahim Parcham, Mansoor Fateh",
+        "published": "2023-8",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.05.025"
+    },
+    {
+        "id": 15416,
+        "title": "Mixing neural networks, continuation and symbolic computation to solve parametric systems of non linear equations",
+        "authors": "J.-P. Merlet",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106316"
+    },
+    {
+        "id": 15417,
+        "title": "Leveraging graph neural networks and neural operator techniques for high-fidelity mesh-based physics simulations",
+        "authors": "Zeqing Jin, Bowen Zheng, Changgon Kim, Grace X. Gu",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Developing fast and accurate computational models to simulate intricate physical phenomena has been a persistent research challenge. Recent studies have demonstrated remarkable capabilities in predicting various physical outcomes through machine learning-assisted approaches. However, it remains challenging to generalize current methods, usually crafted for a specific problem, to other more complex or broader scenarios. To address this challenge, we developed graph neural network (GNN) models with enhanced generalizability derived from the distinct GNN architecture and neural operator techniques. As a proof of concept, we employ our GNN models to predict finite element (FE) simulation results for three-dimensional solid mechanics problems with varying boundary conditions. Results show that our GNN model achieves accurate and robust performance in predicting the stress and deformation profiles of structures compared with FE simulations. Furthermore, the neural operator embedded GNN approach enables learning and predicting various solid mechanics problems in a generalizable fashion, making it a promising approach for surrogate modeling.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0167014"
+    },
+    {
+        "id": 15418,
+        "title": "Efficient Initialization of the Correlation Matrix in NORTA Using Quasi-Monte Carlo and Updating Techniques",
+        "authors": "Benjamas Tulyanitikul, Praphan Klompon, Patchanok Srisuradetchai",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tencon58879.2023.10322408"
+    },
+    {
+        "id": 15419,
+        "title": "Exploring weight initialization, diversity of solutions, and degradation in recurrent neural networks trained for temporal and decision-making tasks",
+        "authors": "Cecilia Jarne, Rodrigo Laje",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10827-023-00857-9"
+    },
+    {
+        "id": 15420,
+        "title": "A singular Riemannian geometry approach to Deep Neural Networks I. Theoretical foundations",
+        "authors": "Alessandro Benfenati, Alessio Marta",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.022"
+    },
+    {
+        "id": 15421,
+        "title": "Two-timescale recurrent neural networks for distributed minimax optimization",
+        "authors": "Zicong Xia, Yang Liu, Jiasen Wang, Jun Wang",
+        "published": "2023-8",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.06.003"
+    },
+    {
+        "id": 15422,
+        "title": "Review: DeepFake Detection Techniques using Deep Neural Networks (DNN)",
+        "authors": "Harsh Chotaliya, Mohammed Adil Khatri, Shubham Kanojiya, Mandar Bivalkar",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icast59062.2023.10454938"
+    },
+    {
+        "id": 15423,
+        "title": "Hybrid acceleration techniques for the physics-informed neural networks: a comparative analysis",
+        "authors": "Fedor Buzaev, Jiexing Gao, Ivan Chuprov, Evgeniy Kazakov",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10994-023-06442-6"
+    },
+    {
+        "id": 15424,
+        "title": "Beyond multilayer perceptrons: Investigating complex topologies in neural networks",
+        "authors": "Tommaso Boccato, Matteo Ferrante, Andrea Duggento, Nicola Toschi",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.12.012"
+    },
+    {
+        "id": 15425,
+        "title": "Barad-dur: Near-Storage Accelerator for Training Large Graph Neural Networks",
+        "authors": "Jiyoung An, Esmerald Aliaj, Sang-Woo Jun",
+        "published": "2023-10-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pact58117.2023.00027"
+    },
+    {
+        "id": 15426,
+        "title": "A Generative Approach to Audio-Visual Generalized Zero-Shot Learning: Combining Contrastive and Discriminative Techniques",
+        "authors": "Qichen Zheng, Jie Hong, Moshiur Farazi",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191705"
+    },
+    {
+        "id": 15427,
+        "title": "Breast Cancer Prognosis Based on Transfer Learning Techniques in Deep Neural Networks",
+        "authors": "M. Diwakaran, D. Surendran",
+        "published": "2023-7-15",
+        "citations": 4,
+        "abstract": "Breast cancer is a major cause of death among women in both developed and underdeveloped countries. Early detection and diagnosis of breast cancer are crucial for patients to receive proper treatment and increase their chances of survival. To improve the automatic detection and diagnosis of breast cancer, a new deep learning model called “Breast Cancer Prognosis Based Transfer Learning (BCP-TL)” has been developed. This model uses transfer learning, which applies the knowledge gained from solving one problem to another relevant problem. The model is based on a pre-trained convolutional neural network (CNN) that extracts features from the mammographic image analysis society (MIAS) dataset. Four different CNN architectures were used in thismodel: AlexNet, Xception, ResNeXt, and Channel Boosted CNN. The performance of the model was evaluated using six metrics, including accuracy, sensitivity, specificity, precision, F1-score, and the area under the ROC curve (AUC). The combination of Xception and Channel Boosted CNN showed excellent performance. By combining essential features from multiple iterations, the Channel Boosted CNN can achieve higher accuracy in breast cancer diagnosis, with an overall accuracy of 98.96%. This highlights the potential of the BCP-TL model in effectively detecting and diagnosing breast cancer.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5755/j01.itc.52.2.33208"
+    },
+    {
+        "id": 15428,
+        "title": "Domain-informed graph neural networks: A quantum chemistry case study",
+        "authors": "Jay Paul Morgan, Adeline Paiement, Christian Klinke",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.06.030"
+    },
+    {
+        "id": 15429,
+        "title": "Physics-informed neural wavefields with Gabor basis functions",
+        "authors": "Tariq Alkhalifah, Xinquan Huang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106286"
+    },
+    {
+        "id": 15430,
+        "title": "An adaptive embedding procedure for time series forecasting with deep neural networks",
+        "authors": "Federico Succetti, Antonello Rosato, Massimo Panella",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.051"
+    },
+    {
+        "id": 15431,
+        "title": "Approximation bounds for convolutional neural networks in operator learning",
+        "authors": "Nicola Rares Franco, Stefania Fresca, Andrea Manzoni, Paolo Zunino",
+        "published": "2023-4",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.01.029"
+    },
+    {
+        "id": 15432,
+        "title": "Feature flow regularization: Improving structured sparsity in deep neural networks",
+        "authors": "Yue Wu, Yuan Lan, Luchan Zhang, Yang Xiang",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.02.013"
+    },
+    {
+        "id": 15433,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00594-4"
+    },
+    {
+        "id": 15434,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00716-5"
+    },
+    {
+        "id": 15435,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00062-5"
+    },
+    {
+        "id": 15436,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00153-3"
+    },
+    {
+        "id": 15437,
+        "title": "Corrigendum to “Functional connectivity inference from fMRI data using multivariate information measures” [Neural Networks 146 (2022) 85–97]",
+        "authors": "Qiang Li",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.01.021"
+    },
+    {
+        "id": 15438,
+        "title": "EDANAS: Adaptive Neural Architecture Search for Early Exit Neural Networks",
+        "authors": "Matteo Gambella, Manuel Roveri",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191876"
+    },
+    {
+        "id": 15439,
+        "title": "Comparative analysis of neural networks techniques to forecast Airfare Prices",
+        "authors": "Alessandro Aliberti, Yao Xin, Alessio Viticchié, Enrico Macii, Edoardo Patti",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/compsac57700.2023.00157"
+    },
+    {
+        "id": 15440,
+        "title": "Fixed-time periodic stabilization of discontinuous reaction–diffusion Cohen–Grossberg neural networks",
+        "authors": "Fanchao Kong, Quanxin Zhu, Hamid Reza Karimi",
+        "published": "2023-9",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.017"
+    },
+    {
+        "id": 15441,
+        "title": "Logarithmic Learning Differential Convolutional Neural Network",
+        "authors": "Magombe Yasin, Mehmet Sarıgül, Mutlu Avci",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106114"
+    },
+    {
+        "id": 15442,
+        "title": "Drop edges and adapt: A fairness enforcing fine-tuning for graph neural networks",
+        "authors": "Indro Spinelli, Riccardo Bianchini, Simone Scardapane",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.002"
+    },
+    {
+        "id": 15443,
+        "title": "Almost periodic quasi-projective synchronization of delayed fractional-order quaternion-valued neural networks",
+        "authors": "Xiaofang Meng, Zhouhong Li, Jinde Cao",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.017"
+    },
+    {
+        "id": 15444,
+        "title": "Increasing Robustness of Blockchain Peer-to-Peer Networks with Alternative Peer Initialization",
+        "authors": "Bernadet Klein Wassink, Zhiming Zhao",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cloudcom59040.2023.00060"
+    },
+    {
+        "id": 15445,
+        "title": "List of Editorial Board Members",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00039-x"
+    },
+    {
+        "id": 15446,
+        "title": "Enhancing Epileptic Seizure Detection Using Convolutional Neural Networks and Data Augmentation Techniques",
+        "authors": "Raha Pedram, Pooyan Farzanehkari, Ali Chaibakhsh",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbme61513.2023.10488640"
+    },
+    {
+        "id": 15447,
+        "title": "IJCNN 2023: Celebrating 80 Years of Neural Networks",
+        "authors": "",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191349"
+    },
+    {
+        "id": 15448,
+        "title": "List of Editorial Board Members",
+        "authors": "",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00712-8"
+    },
+    {
+        "id": 15449,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00199-5"
+    },
+    {
+        "id": 15450,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00012-1"
+    },
+    {
+        "id": 15451,
+        "title": "Using Reduction Techniques to Obtain a Minimal Consistent Data Set for Training Artificial Neural Networks for Fault Identification Problems",
+        "authors": "João R. M. Soares De Souza, Alberto De Conti, Cristiano L. De Castro",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wcnps60622.2023.10345103"
+    },
+    {
+        "id": 15452,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00520-2"
+    },
+    {
+        "id": 15453,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00486-5"
+    },
+    {
+        "id": 15454,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00106-5"
+    },
+    {
+        "id": 15455,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00228-4"
+    },
+    {
+        "id": 15456,
+        "title": "Approximation of classifiers by deep perceptron networks",
+        "authors": "Věra Kůrková, Marcello Sanguineti",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.06.004"
+    },
+    {
+        "id": 15457,
+        "title": "NN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00318-0"
+    },
+    {
+        "id": 15458,
+        "title": "List of Editorial Board Members",
+        "authors": "",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(22)00488-9"
+    },
+    {
+        "id": 15459,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106193"
+    },
+    {
+        "id": 15460,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00242-3"
+    },
+    {
+        "id": 15461,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(24)00184-9"
+    },
+    {
+        "id": 15462,
+        "title": "Successes and critical failures of neural networks in capturing human-like speech recognition",
+        "authors": "Federico Adolfi, Jeffrey S. Bowers, David Poeppel",
+        "published": "2023-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.02.032"
+    },
+    {
+        "id": 15463,
+        "title": "An exact mapping from ReLU networks to spiking neural networks",
+        "authors": "Ana Stanojevic, Stanisław Woźniak, Guillaume Bellec, Giovanni Cherubini, Angeliki Pantazi, Wulfram Gerstner",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.09.011"
+    },
+    {
+        "id": 15464,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00546-4"
+    },
+    {
+        "id": 15465,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00478-1"
+    },
+    {
+        "id": 15466,
+        "title": "INN/ENNS/JNNS - Membership Applic. Form",
+        "authors": "",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0893-6080(23)00411-2"
+    },
+    {
+        "id": 15467,
+        "title": "On joint parameterizations of linear and nonlinear functionals in neural networks",
+        "authors": "Abdourrahmane Mahamane Atto, Sylvie Galichet, Dominique Pastor, Nicolas Méger",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.12.019"
+    },
+    {
+        "id": 15468,
+        "title": "Multi-Adaptive Optimization for multi-task learning with deep neural networks",
+        "authors": "Álvaro S. Hervella, José Rouco, Jorge Novo, Marcos Ortega",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.11.038"
+    },
+    {
+        "id": 15469,
+        "title": "A singular Riemannian geometry approach to deep neural networks II. Reconstruction of 1-D equivalence classes",
+        "authors": "Alessandro Benfenati, Alessio Marta",
+        "published": "2023-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.026"
+    },
+    {
+        "id": 15470,
+        "title": "A general framework for robust stability analysis of neural networks with discrete time delays",
+        "authors": "Melike Solak, Ozlem Faydasicok, Sabri Arik",
+        "published": "2023-5",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.02.040"
+    },
+    {
+        "id": 15471,
+        "title": "A Review of Single Image Super Resolution Techniques using Convolutional Neural Networks",
+        "authors": "Monika Dixit, Ram Narayan Yadav",
+        "published": "2023-9-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16786-9"
+    },
+    {
+        "id": 15472,
+        "title": "A feedforward unitary equivariant neural network",
+        "authors": "Pui-Wai Ma, T.-H. Hubert Chan",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.01.042"
+    },
+    {
+        "id": 15473,
+        "title": "Tree-structured neural networks: Spatiotemporal dynamics and optimal control",
+        "authors": "Jiajin He, Min Xiao, Jing Zhao, Zhengxin Wang, Yi Yao, Jinde Cao",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.04.039"
+    },
+    {
+        "id": 15474,
+        "title": "Saturation function-based continuous control on fixed-time synchronization of competitive neural networks",
+        "authors": "Caicai Zheng, Cheng Hu, Juan Yu, Shiping Wen",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.008"
+    },
+    {
+        "id": 15475,
+        "title": "Evaluation of architecture-aware optimization techniques for Convolutional Neural Networks",
+        "authors": "Raúl Marichal, Guillermo Toyos, Ernesto Dufrechou, Pablo Ezzatti",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pdp59025.2023.00036"
+    },
+    {
+        "id": 15476,
+        "title": "Exploring Explainable Artificial Intelligence Techniques for Interpretable Neural Networks in Traffic Sign Recognition Systems",
+        "authors": "Muneeb A. Khan, Heemin Park",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "Traffic Sign Recognition (TSR) plays a vital role in intelligent transportation systems (ITS) to improve road safety and optimize traffic management. While existing TSR models perform well in challenging scenarios, their lack of transparency and interpretability hinders reliability, trustworthiness, validation, and bias identification. To address this issue, we propose a Convolutional Neural Network (CNN)-based model for TSR and evaluate its performance on three benchmark datasets: German Traffic Sign Recognition Benchmark (GTSRB), Indian Traffic Sign Dataset (ITSD), and Belgian Traffic Sign Dataset (BTSD). The proposed model achieves an accuracy of 98.85% on GTSRB, 94.73% on ITSD, and 92.69% on BTSD, outperforming several state-of-the-art frameworks, such as VGG19, VGG16, ResNet50V2, MobileNetV2, DenseNet121, DenseNet201, NASNetMobile, and EfficientNet, while also providing faster training and response times. We further enhance our model by incorporating explainable AI (XAI) techniques, specifically, Local Interpretable Model-Agnostic Explanations (LIME) and Gradient-weighted Class Activation Mapping (Grad-CAM), providing clear insights of the proposed model decision-making process. This integration allows the extension of our TSR model to various engineering domains, including autonomous vehicles, advanced driver assistance systems (ADAS), and smart traffic control systems. The practical implementation of our model ensures real-time, accurate recognition of traffic signs, thus optimizing traffic flow and minimizing accident risks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13020306"
+    },
+    {
+        "id": 15477,
+        "title": "Input-to-state stability of positive delayed neural networks via impulsive control",
+        "authors": "Wu-Hua Chen, Xiujuan Li, Shuning Niu, Xiaomei Lu",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.05.011"
+    },
+    {
+        "id": 15478,
+        "title": "Forgetting memristor based STDP learning circuit for neural networks",
+        "authors": "Wenhao Zhou, Shiping Wen, Yi Liu, Lu Liu, Xin Liu, Ling Chen",
+        "published": "2023-1",
+        "citations": 13,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.023"
+    },
+    {
+        "id": 15479,
+        "title": "Non-fragile output-feedback synchronization for delayed discrete-time complex-valued neural networks with randomly occurring uncertainties",
+        "authors": "G. Soundararajan, G. Nagamani",
+        "published": "2023-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.12.002"
+    },
+    {
+        "id": 15480,
+        "title": "PSE-Net: Channel pruning for Convolutional Neural Networks with parallel-subnets estimator",
+        "authors": "Shiguang Wang, Tao Xie, Haijun Liu, Xingcheng Zhang, Jian Cheng",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106263"
+    },
+    {
+        "id": 15481,
+        "title": "Fading memory as inductive bias in residual recurrent networks",
+        "authors": "Igor Dubinin, Felix Effenberger",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106179"
+    },
+    {
+        "id": 15482,
+        "title": "Efficient and accurate compound scaling for convolutional neural networks",
+        "authors": "Chengmin Lin, Pengfei Yang, Quan Wang, Zeyu Qiu, Wenkai Lv, Zhenyi Wang",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.053"
+    },
+    {
+        "id": 15483,
+        "title": "Methodology based on spiking neural networks for univariate time-series forecasting",
+        "authors": "Sergio Lucas, Eva Portillo",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106171"
+    },
+    {
+        "id": 15484,
+        "title": "Lie–Poisson Neural Networks (LPNets): Data-based computing of Hamiltonian systems with symmetries",
+        "authors": "Christopher Eldred, François Gay-Balmaz, Sofiia Huraka, Vakhtang Putkaradze",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106162"
+    },
+    {
+        "id": 15485,
+        "title": "Multi-Aspect enhanced Graph Neural Networks for recommendation",
+        "authors": "Chenyan Zhang, Shan Xue, Jing Li, Jia Wu, Bo Du, Donghua Liu, Jun Chang",
+        "published": "2023-1",
+        "citations": 17,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.10.001"
+    },
+    {
+        "id": 15486,
+        "title": "USING ARTIFICIAL NEURAL NETWORKS AND SPACE SYNTAX TECHNIQUES TO UNDERSTAND MASS HOUSING DESIGN PARAMETERS",
+        "authors": "VELİ MUSTAFA YÖNDER",
+        "published": "2023-3-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54729/2789-8547.1205"
+    },
+    {
+        "id": 15487,
+        "title": "SecBERT: Privacy-preserving pre-training based neural network inference system",
+        "authors": "Hai Huang, Yongjian Wang",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106135"
+    },
+    {
+        "id": 15488,
+        "title": "Another bumper year",
+        "authors": "Taro Toyoizumi, DeLiang Wang",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.020"
+    },
+    {
+        "id": 15489,
+        "title": "DyVGRNN: DYnamic mixture Variational Graph Recurrent Neural Networks",
+        "authors": "Ghazaleh Niknam, Soheila Molaei, Hadi Zare, Shirui Pan, Mahdi Jalili, Tingting Zhu, David Clifton",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.05.048"
+    },
+    {
+        "id": 15490,
+        "title": "Event-based fixed-time synchronization of neural networks under DoS attack and its applications",
+        "authors": "Mengping Xing, Jianquan Lu, Jungang Lou, Lingzhong Zhang",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.046"
+    },
+    {
+        "id": 15491,
+        "title": "Enhancing neurodynamic approach with physics-informed neural networks for solving non-smooth convex optimization problems",
+        "authors": "Dawen Wu, Abdel Lisser",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.014"
+    },
+    {
+        "id": 15492,
+        "title": "On the approximation of bi-Lipschitz maps by invertible neural networks",
+        "authors": "Bangti Jin, Zehui Zhou, Jun Zou",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106214"
+    },
+    {
+        "id": 15493,
+        "title": "Novel criteria of sampled-data synchronization controller design for gated recurrent unit neural networks under mismatched parameters",
+        "authors": "Seungyong Han, Suneel Kumar Kommuri, Yongsik Jin",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.12.035"
+    },
+    {
+        "id": 15494,
+        "title": "Preassigned-time projective synchronization of delayed fully quaternion-valued discontinuous neural networks with parameter uncertainties",
+        "authors": "Hao Pu, Fengjun Li, Qingyun Wang, Pengzhen Li",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.06.017"
+    },
+    {
+        "id": 15495,
+        "title": "Metaheuristics optimization-based ensemble of deep neural networks for Mpox disease detection",
+        "authors": "Sohaib Asif, Ming Zhao, Fengxiao Tang, Yusen Zhu, Baokang Zhao",
+        "published": "2023-10",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.035"
+    },
+    {
+        "id": 15496,
+        "title": "Robust exponential stability of discrete-time uncertain impulsive stochastic neural networks with delayed impulses",
+        "authors": "Ting Cai, Pei Cheng, Fengqi Yao, Mingang Hua",
+        "published": "2023-3",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.01.016"
+    },
+    {
+        "id": 15497,
+        "title": "A novel feature-scrambling approach reveals the capacity of convolutional neural networks to learn spatial relations",
+        "authors": "Amr Farahat, Felix Effenberger, Martin Vinck",
+        "published": "2023-10",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.021"
+    },
+    {
+        "id": 15498,
+        "title": "A Neural Network Weights Initialization Approach for Diagnosing Real Aircraft Engine Inter-Shaft Bearing Faults",
+        "authors": "Tarek Berghout, Toufik Bentrcia, Wei Hong Lim, Mohamed Benbouzid",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "The deep learning diagnosis of aircraft engine-bearing faults enables cost-effective predictive maintenance while playing an important role in increasing the safety, reliability, and efficiency of aircraft operations. Because of highly dynamic and harsh operating conditions of this system, such modeling is challenging due to data complexity and drift, making it difficult to reveal failure patterns. As a result, the objective of this study is dual. To begin, a highly structured data preprocessing strategy ranging from extraction, denoising, outlier removal, scaling, and balancing is provided to solve data complexity that resides specifically in outliers, noise, and data imbalance problems. Gap statistics under k-means clustering are used to evaluate preprocessing results, providing a quantitative estimate of the ideal number of clusters and thereby enhancing data representations. This is the first time, to the best of authors’ knowledge, that such a criterion has been employed for an important step in a preliminary ground truth validation in supervised learning. Furthermore, to tackle data drift issues, long-short term memory (LSTM) adaptive learning features are used and subjected to a learning parameter improvement method utilizing recursive weights initialization (RWI) across several rounds. The strength of such methodology can be seen by application to realistic, extremely new, complex, and dynamic data collected from a real test-bench. Cross validation of a single LSTM layer model with only 10 neurons shows its ability to enhance classification performance by 7.7508% over state-of-the-art results, obtaining a classification accuracy of 92.03 ± 0.0849%, which is an exceptional performance in such a benchmark.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11121089"
+    },
+    {
+        "id": 15499,
+        "title": "Analysis of Wireless Sensor Network Security Models: A Salient Approach for Deeper Inspection Using Deep Neural Networks",
+        "authors": "Arwa AlBusaidi, Faizal Haja Mohideen",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci58599.2023.10330927"
+    },
+    {
+        "id": 15500,
+        "title": "Prediction of West Texas Intermediate Crude-oil Price Using Ensemble Learning Techniques and Neural Networks",
+        "authors": "Alireza Jahandoost, Mahboobeh Houshmand, Seyyed Abed Hosseini",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qicar61538.2024.10496630"
+    },
+    {
+        "id": 15501,
+        "title": "Corrigendum to “Lower and upper bounds for numbers of linear regions of graph convolutional networks” [Neural Networks Volume 168, November 2023, Pages 394–404]",
+        "authors": "Hao Chen, Yu Guang Wang, Huan Xiong",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.11.061"
+    },
+    {
+        "id": 15502,
+        "title": "Noncompact uniform universal approximation",
+        "authors": "Teun D.H. van Nuland",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106181"
+    },
+    {
+        "id": 15503,
+        "title": "Reduced-complexity Convolutional Neural Network in the compressed domain",
+        "authors": "Hamdan Abdellatef, Lina J. Karam",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.10.020"
+    },
+    {
+        "id": 15504,
+        "title": "Score mismatching for generative modeling",
+        "authors": "Senmao Ye, Fei Liu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106311"
+    }
+]

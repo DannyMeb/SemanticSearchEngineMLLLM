@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 32505,
+        "title": "Inventory Control with Lateral Transshipment Using Proximal Policy Optimization",
+        "authors": "Ziang Liu, Tatsushi Nishi",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/docs60977.2023.10294547"
+    },
+    {
+        "id": 32506,
+        "title": "Exploring PID Control Constants Using Trust Region Policy Optimization (TRPO) and Proximal Policy Optimization (PPO)",
+        "authors": "Dong-Kyu Lee, Hyeun-Jun Moon",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21086/ksles.2023.12.30.6.642"
+    },
+    {
+        "id": 32507,
+        "title": "Model-Free Guidance Method for Drones in Complex Environments Using Direct Policy Exploration and Optimization",
+        "authors": "Hongxun Liu, Satoshi Suzuki",
+        "published": "2023-8-3",
+        "citations": 1,
+        "abstract": "In the past few decades, drones have become lighter, with longer hang times, and exhibit more agile performance. To maximize their capabilities during flights in complex environments, researchers have proposed various model-based perception, planning, and control methods aimed at decomposing the problem into modules and collaboratively accomplishing the task in a sequential manner. However, in practical environments, it is extremely difficult to model both the drones and their environments, with very few existing model-based methods. In this study, we propose a novel model-free reinforcement-learning-based method that can learn the optimal planning and control policy from experienced flight data. During the training phase, the policy considers the complete state of the drones and environmental information as inputs. It then self-optimizes based on a predefined reward function. In practical implementations, the policy takes inputs from onboard and external sensors and outputs optimal control commands to low-level velocity controllers in an end-to-end manner. By capitalizing on this property, the planning and control policy can be improved without the need for an accurate system model and can drive drones to traverse complex environments at high speeds. The policy was trained and tested in a simulator, as well as in real-world flight experiments, demonstrating its practical applicability. The results show that this model-free method can learn to fly effectively and that it holds great potential to handle different tasks and environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/drones7080514"
+    },
+    {
+        "id": 32508,
+        "title": "Preferential Proximal Policy Optimization",
+        "authors": "Tamilselvan Balasuntharam, Heidar Davoudi, Mehran Ebrahimi",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00048"
+    },
+    {
+        "id": 32509,
+        "title": "Quantum architecture search via truly proximal policy optimization",
+        "authors": "Xianchao Zhu, Xiaokai Hou",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "AbstractQuantum Architecture Search (QAS) is a process of voluntarily designing quantum circuit architectures using intelligent algorithms. Recently, Kuo et al. (Quantum architecture search via deep\nreinforcement learning. arXiv preprint arXiv:2104.07715, 2021) proposed a deep reinforcement learning-based QAS (QAS-PPO) method, which used the Proximal Policy Optimization (PPO) algorithm to automatically generate the quantum circuit without any expert knowledge in physics. However, QAS-PPO can neither strictly limit the probability ratio between old and new policies nor enforce well-defined trust domain constraints, resulting in poor performance. In this paper, we present a new deep reinforcement learning-based QAS method, called Trust Region-based PPO with Rollback for QAS (QAS-TR-PPO-RB), to automatically build the quantum gates sequence from the density matrix only. Specifically, inspired by the research work of Wang, we employ an improved clipping function to implement the rollback behavior to limit the probability ratio between the new strategy and the old strategy. In addition, we use the triggering condition of the clipping based on the trust domain to optimize the policy by restricting the policy within the trust domain, which leads to guaranteed monotone improvement. Experiments on several multi-qubit circuits demonstrate that our presented method achieves better policy performance and lower algorithm running time than the original deep reinforcement learning-based QAS method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-32349-2"
+    },
+    {
+        "id": 32510,
+        "title": "Proximal Policy Optimization based computations offloading for delay optimization in UAV-assisted mobile edge computing",
+        "authors": "Praveen Kumar,  Priyadarshni, Shivani Tripathi, Rajiv Misra",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386861"
+    },
+    {
+        "id": 32511,
+        "title": "Off-Policy Proximal Policy Optimization",
+        "authors": "Wenjia Meng, Qian Zheng, Gang Pan, Yilong Yin",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Proximal Policy Optimization (PPO) is an important reinforcement learning method, which has achieved great success in sequential decision-making problems. However, PPO faces the issue of sample inefficiency, which is due to the PPO cannot make use of off-policy data. In this paper, we propose an Off-Policy Proximal Policy Optimization method (Off-Policy PPO) that improves the sample efficiency of PPO by utilizing off-policy data. Specifically, we first propose a clipped surrogate objective function that can utilize off-policy data and avoid excessively large policy updates. Next, we theoretically clarify the stability of the optimization process of the proposed surrogate objective by demonstrating the degree of policy update distance is consistent with that in the PPO. We then describe the implementation details of the proposed Off-Policy PPO which iteratively updates policies by optimizing the proposed clipped surrogate objective. Finally, the experimental results on representative continuous control tasks validate that our method outperforms the state-of-the-art methods on most tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i8.26099"
+    },
+    {
+        "id": 32512,
+        "title": "Covariance Matrix Adaptation for Multi-Agent Proximal Policy Optimization",
+        "authors": "Yiou Shen, Xiang Gao, Zhiwei Liang",
+        "published": "2023-5-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccdc58219.2023.10327347"
+    },
+    {
+        "id": 32513,
+        "title": "Job Shop Scheduling Problem Using Proximal Policy Optimization",
+        "authors": "Ziqing Wang, Wenzhu Liao",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieem58616.2023.10406397"
+    },
+    {
+        "id": 32514,
+        "title": "Proximal Policy Optimization for User Association in Hybrid LiFi/WiFi Indoor Networks",
+        "authors": "Peijun Hou, Nan Cen",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10437559"
+    },
+    {
+        "id": 32515,
+        "title": "Proximal policy optimization with adaptive threshold for symmetric relative density ratio",
+        "authors": "Taisuke Kobayashi",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.rico.2022.100192"
+    },
+    {
+        "id": 32516,
+        "title": "Recurrent Proximal Policy Optimization Based Tractor-Trailer Wheeled Robot Automatic Parking Algorithm",
+        "authors": "",
+        "published": "2023-9-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14738/tecs.114.15355"
+    },
+    {
+        "id": 32517,
+        "title": "Mobile Robotic Arm for Opening Doors Using Proximal Policy Optimization",
+        "authors": "M Kokila, G Amalredge",
+        "published": "2023-2-1",
+        "citations": 0,
+        "abstract": "The traditional robotic arm control method has strong dependence on the application scenario. To improve the reliability of the mobile robotic arm control when the scene is disturbed, this paper proposes a control method based on an improved proximal policy optimization algorithm. This study researches mobile robotic arms for opening doors. At first, the door handle position is obtained through an image-recognition method based on YOLOv5. Second, the simulation platform CoppeliaSim is used to realize the interaction between the robotic arm and the environment. Third, a control strategy based on a reward function is designed to train the robotic arm and applied to the opening-door task in the real environment. In this paper PPO algorithm is used to solve the result. The experimental results show that the proposed method can accelerate the convergence of the training process. Besides, our method can effectively reduce the jitter of the robotic arm and improve the stability of control.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46632/daai/3/2/20"
+    },
+    {
+        "id": 32518,
+        "title": "Research on TCP Congestion Control Strategy Based on Proximal Policy Optimization",
+        "authors": "Yuyu Yuan",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itaic58329.2023.10408879"
+    },
+    {
+        "id": 32519,
+        "title": "Multi-agent Proximal Policy Optimization via Non-fixed Value Clipping",
+        "authors": "Chiqiang Liu, Dazi Li",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ddcls58216.2023.10167264"
+    },
+    {
+        "id": 32520,
+        "title": "Usage of Proximal Policy Optimization Algorithm for Personnel Assignment in Railway Nodes",
+        "authors": "Andrea Galadíková, Norbert Adamko",
+        "published": "2023-6-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/idt59031.2023.10194403"
+    },
+    {
+        "id": 32521,
+        "title": "Drones Tracking Adaptation Using Reinforcement Learning: Proximal Policy optimization",
+        "authors": "Esra Alhadhrami, Amal El Fallah Seghrouchni, Frederic Barbaresco, Raed Abu Zitar",
+        "published": "2023-5-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/irs57608.2023.10172435"
+    },
+    {
+        "id": 32522,
+        "title": "Data-Driven Smart Home Energy Management Based on Proximal Policy Optimization",
+        "authors": "Ma Aoxiang, Jun Cao, Pedro Rodriguez",
+        "published": "2023-8-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iai59504.2023.10327581"
+    },
+    {
+        "id": 32523,
+        "title": "Advantage policy update based on proximal policy optimization",
+        "authors": "Zilin Zeng, Junwei Wang, Zhigang Hu, Dongnan Su, Peng Shang",
+        "published": "2023-2-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2667235"
+    },
+    {
+        "id": 32524,
+        "title": "Proximal Policy Optimization with Advantage Reuse Competition",
+        "authors": "Yuhu Cheng, Qingbang Guo, Xuesong Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2024.3354694"
+    },
+    {
+        "id": 32525,
+        "title": "Pairs Trading Strategy Optimization Using Proximal Policy Optimization Algorithms",
+        "authors": "Yi-Feng Chen, Wen-Yueh Shih, Hsu-Chao Lai, Hao-Chun Chang, Jiun-Long Huang",
+        "published": "2023-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp57234.2023.00015"
+    },
+    {
+        "id": 32526,
+        "title": "PPO-ABR: Proximal Policy Optimization based Deep Reinforcement Learning for Adaptive BitRate streaming",
+        "authors": "Mandan Naresh, Paresh Saxena, Manik Gupta",
+        "published": "2023-6-19",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iwcmc58020.2023.10182379"
+    },
+    {
+        "id": 32527,
+        "title": "Robust observer and proximal policy optimization-based VTOL vehicle attitude stabilization research",
+        "authors": "Yanling Li, Feizhou Luo, Zhilei Ge",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsi58851.2023.10303824"
+    },
+    {
+        "id": 32528,
+        "title": "Distributionally Robust Proximal Policy Optimization for Unit Commitment with Wind Power Uncertainty",
+        "authors": "Yancheng Lu, Bo Wang",
+        "published": "2023-1-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsie55183.2023.10175277"
+    },
+    {
+        "id": 32529,
+        "title": "A new approach for drone tracking with drone using Proximal Policy Optimization based distributed deep reinforcement learning",
+        "authors": "Ziya Tan, Mehmet Karaköse",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.softx.2023.101497"
+    },
+    {
+        "id": 32530,
+        "title": "A proximal policy optimization with curiosity algorithm for virtual drone navigation",
+        "authors": "Rupayan Das, Angshuman Khan, Gunjan Paul",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe drone sector is witnessing a surge in demand for advanced models tailored to address critical applications such as disaster management and intelligent warehouse deliveries. Employing simulation-based experiments with virtual drone navigation is considered a best practice before deploying physical models. Nonetheless, the current state-of-the-art virtual drone navigation system lacks accuracy and introduces notable increments in simulation time. In order to mitigate these issues, this paper introduces a deep reinforcement learning-based drone agent, designed to autonomously navigate within a constrained virtual environment. The proposed drone agent utilizes realistic drone physics in order to ensure flight within the virtual environment. The work uniquely combines & optimizes both control algorithms and physical dynamics, making the model more robust and versatile than others. The integration of curiosity-driven learning with physics-based modeling potentially increases the model's readiness for real-world application, compared to theoretical approaches. The extensive simulation results validate the remarkable speed and accuracy of the proposed scheme compared to baseline works. The trained agent exhibits strength and versatility, enabling it to deal with the numerous targets and obstacles encountered in human environments.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2631-8695/ad1f14"
+    },
+    {
+        "id": 32531,
+        "title": "Deep Q-Learning versus Proximal Policy Optimization: Performance Comparison in a Material Sorting Task",
+        "authors": "Reuf Kozlica, Stefan Wegenkittl, Simon Hiränder",
+        "published": "2023-6-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isie51358.2023.10228056"
+    },
+    {
+        "id": 32532,
+        "title": "Improving proximal policy optimization with alpha divergence",
+        "authors": "Haotian Xu, Zheng Yan, Junyu Xuan, Guangquan Zhang, Jie Lu",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.02.008"
+    },
+    {
+        "id": 32533,
+        "title": "Proximal Policy Optimization-Based Anti-Jamming UAV-Assisted Data Collection",
+        "authors": "Ze Chen, Ping Yang, Yue Xiao, Liangxin Qian",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/globecom54140.2023.10437913"
+    },
+    {
+        "id": 32534,
+        "title": "Autonomous collision avoidance system in a multi-ship environment based on proximal policy optimization method",
+        "authors": "Zheng Rongcai, Xie Hongwei, Yuan Kexin",
+        "published": "2023-3",
+        "citations": 14,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.113779"
+    },
+    {
+        "id": 32535,
+        "title": "Proximal Policy Optimization for Energy Management of Electric Vehicles and PV Storage Units",
+        "authors": "Monica Alonso, Hortensia Amaris, David Martin, Arturo de la Escalera",
+        "published": "2023-7-29",
+        "citations": 2,
+        "abstract": "Connected autonomous electric vehicles (CAEVs) are essential actors in the decarbonization process of the transport sector and a key aspect of home energy management systems (HEMSs) along with PV units, CAEVs and battery energy storage systems. However, there are associated uncertainties which present new challenges to HEMSs, such as aleatory EV arrival and departure times, unknown EV battery states of charge at the connection time, and stochastic PV production due to weather and passing cloud conditions. The proposed HEMS is based on proximal policy optimization (PPO), which is a deep reinforcement learning algorithm suitable for continuous complex environments. The optimal solution for HEMS is a tradeoff between CAEV driver’s range anxiety, batteries degradation, and energy consumption, which is solved by means of incentives/penalties in the reinforcement learning formulation. The proposed PPO algorithm was compared to conventional methods such as business-as-usual (BAU) and value iteration (VI) solutions based on dynamic programming. Simulation results indicate that the proposed PPO’s performance showed a daily energy cost reduction of 54% and 27% compared to BAU and VI, respectively. Finally, the developed PPO algorithm is suitable for real-time operations due to its fast execution and good convergence to the optimal solution.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en16155689"
+    },
+    {
+        "id": 32536,
+        "title": "Enhanced Multi-Agent Proximal Policy Optimization for Multi-UAV Target Offensive-Defensive Decision",
+        "authors": "Yifan Zheng, Bin Xin, Keming Jiao, Zhixin Zhao, Yuyang Wang, Yunming Zhao",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240070"
+    },
+    {
+        "id": 32537,
+        "title": "On Douglas-Rachford splitting that generally fails to be a proximal mapping: a degenerate proximal point analysis",
+        "authors": "Feng Xue",
+        "published": "2023-3-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2187256"
+    },
+    {
+        "id": 32538,
+        "title": "Multi-Agent Proximal Policy Optimization for a Deadlock Capable Transport System in a Simulation-Based Learning Environment",
+        "authors": "Marcel Müller, Lorena S. Reyes-Rubiano, Tobias Reggelin, Hartmut Zadek",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wsc60868.2023.10408110"
+    },
+    {
+        "id": 32539,
+        "title": "A novel proximal policy optimization control strategy for unmanned surface vehicle",
+        "authors": "Shuai Wu, Wentao Xue, Hui Ye, Shun Li",
+        "published": "2023-5-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccdc58219.2023.10326629"
+    },
+    {
+        "id": 32540,
+        "title": "Modelling and Simulation of Autonomous Decision - making Process Based on Proximal Policy Optimization",
+        "authors": "Chen Zhou, Baoran An, Weijian Huang, Bing Yu",
+        "published": "2023-8-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/yac59482.2023.10401397"
+    },
+    {
+        "id": 32541,
+        "title": "Autonomous driving system using proximal policy optimization in deep reinforcement learning",
+        "authors": "Imam Noerhenda Yazid, Ema Rachmawati",
+        "published": "2023-3-1",
+        "citations": 1,
+        "abstract": "<span>Autonomous driving is one solution that can minimize and even prevent accidents. In autonomous driving, the vehicle must know the surrounding environment and move under the provisions and situations. We build an autonomous driving system using proximal policy optimization (PPO) in deep reinforcement learning, with PPO acting as an instinct for the agent to choose an action. The instinct will be updated continuously until the agent reaches the destination from the initial point. We use five sensory inputs for the agent to accelerate, turn the steer, hit the brakes, avoid the walls, detect the initial point, and reach the destination point. We evaluated our proposed autonomous driving system in a simulation environment with several branching tracks, reflecting a real-world setting. For our driving simulation purpose in this research, we use the Unity3D engine to construct the dataset (in the form of a road track) and the agent model (in the form of a car). Our experimental results firmly indicate our agent can successfully control a vehicle to navigate to the destination point. </span>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijai.v12.i1.pp422-431"
+    },
+    {
+        "id": 32542,
+        "title": "Complex objective optimization in fuzzy environments",
+        "authors": "Wuniu Liu, Zhihui Li, Yongming Li",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": " Multi-objective optimization can be used to address possible conflicting relationships between multiple objectives. However, some objectives have a fuzzy temporal relationship between them, making it difficult to give a common method to portray the fuzzy temporal relationship. To fill this gap, we propose the concept of complex objectives, which can be described by fuzzy temporal logic that includes both temporal and logical operators. Furthermore, we investigated the optimal control problems of complex objectives and developed a fuzzy system called possibilistic decision systems (PDSs) to establish a framework for optimal control. In PDSs, states of fuzzy systems are determined by a family of variables, and transitions induced by actions between fuzzy states of systems are also fuzzy uncertain and determined by a possibility degree. Importantly, we proved that memoryless strategies are sufficient for optimal control of complex objectives. Finally, the theory presented in this paper is illustrated by a mobile robot simulation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-221966"
+    },
+    {
+        "id": 32543,
+        "title": "Mitigating congestion in multi-agent traffic signal control: an efficient self-attention proximal policy optimization approach",
+        "authors": "Oussama Chergui, Lamri Sayad",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41870-023-01545-8"
+    },
+    {
+        "id": 32544,
+        "title": "Proximal Policy Optimization-based Reinforcement Learning for End-to-end Autonomous Driving",
+        "authors": "Yang Wu, Xin Yuan",
+        "published": "2023-8-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/yac59482.2023.10401381"
+    },
+    {
+        "id": 32545,
+        "title": "Augmented Proximal Policy Optimization for Safe Reinforcement Learning",
+        "authors": "Juntao Dai, Jiaming Ji, Long Yang, Qian Zheng, Gang Pan",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Safe reinforcement learning considers practical scenarios that maximize the return while satisfying safety constraints. Current algorithms, which suffer from training oscillations or approximation errors, still struggle to update the policy efficiently with precise constraint satisfaction. In this article, we propose Augmented Proximal Policy Optimization (APPO), which augments the Lagrangian function of the primal constrained problem via attaching a quadratic deviation term. The constructed multiplier-penalty function dampens cost oscillation for stable convergence while being equivalent to the primal constrained problem to precisely control safety costs. APPO alternately updates the policy and the Lagrangian multiplier via solving the constructed augmented primal-dual problem, which can be easily implemented by any first-order optimizer. We apply our APPO methods in diverse safety-constrained tasks, setting a new state of the art compared with a comprehensive list of safe RL baselines. Extensive experiments verify the merits of our method in easy implementation, stable convergence, and precise cost control.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i6.25888"
+    },
+    {
+        "id": 32546,
+        "title": "Solving Partially Observable 3D-Visual Tasks with Visual Radial Basis Function Network and Proximal Policy Optimization",
+        "authors": "Julien Hautot, Céline Teulière, Nourddine Azzaoui",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Visual Reinforcement Learning (RL) has been largely investigated in recent decades. Existing approaches are often composed of multiple networks requiring massive computational power to solve partially observable tasks from high-dimensional data such as images. Using State Representation Learning (SRL) has been shown to improve the performance of visual RL by reducing the high-dimensional data into compact representation, but still often relies on deep networks and on the environment. In contrast, we propose a lighter, more generic method to extract sparse and localized features from raw images without training. We achieve this using a Visual Radial Basis Function Network (VRBFN), which offers significant practical advantages, including efficient and accurate training with minimal complexity due to its two linear layers. For real-world applications, its scalability and resilience to noise are essential, as real sensors are subject to change and noise. Unlike CNNs, which may require extensive retraining, this network might only need minor fine-tuning. We test the efficiency of the VRBFN representation to solve different RL tasks using Proximal Policy Optimization (PPO). We present a large study and comparison of our extraction methods with five classical visual RL and SRL approaches on five different first-person partially observable scenarios. We show that this approach presents appealing features such as sparsity and robustness to noise and that the obtained results when training RL agents are better than other tested methods on four of the five proposed scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5040091"
+    },
+    {
+        "id": 32547,
+        "title": "Intelligent proximal-policy-optimization-based decision-making system for humanoid robots",
+        "authors": "Ping-Huan Kuo, Wei-Cyuan Yang, Po-Wei Hsu, Kuan-Lin Chen",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aei.2023.102009"
+    },
+    {
+        "id": 32548,
+        "title": "Proximal policy optimization with proportional-differential feedback for tracking control of unmanned surface vessel",
+        "authors": "Yibai Wang, Qingling Wang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450906"
+    },
+    {
+        "id": 32549,
+        "title": "AoI Minimization Using Multi-Agent Proximal Policy Optimization in UAVs-Assisted Sensor Networks",
+        "authors": "Yousef Emami, Kai Li, Yong Niu, Eduardo Tovar",
+        "published": "2023-5-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc45041.2023.10278748"
+    },
+    {
+        "id": 32550,
+        "title": "A Greedy-Strategy-Based Iterative Optimization Method for Articulated Vehicle Global Trajectory Optimization in Complex Environments",
+        "authors": "Bikang Hua, Runqi Chai, Kaiyuan Chen, Hankun Jiang, Senchun Chai, Yuanqing Xia",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": " This paper considers the problem of trajectory planning for articulated vehicles in complex environments. We formulate this problem as an optimal control problem (OCP) and propose a greedy-strategy-based planner. This planner consists of three stages. In stage 1, an IAA* algorithm is proposed to identify the homotopy class. In stage 2, the collision-free tunnels are constructed along the guiding trajectory generated in stage 1 to simplify the intractable collision-avoidance constraints. In stage 3, a greedy-strategy-based iterative optimization (GSIO) framework is designed, which contributes to escaping from local optimums, making the optimization process more targeted, and converging to the global optimum solution quickly, especially in complex tasks. One feature of the proposed planner is that it is suitable for any type of articulated vehicle, and the proposed optimization framework can be used as an open framework to optimize any criterion that can be described explicitly by a polynomial. Furthermore, in the set simulation cases, our work shows significant competitiveness, under the premise of ensuring moderate CPU processing time, our algorithm achieves approximately a 40% performance improvement in optimization effects compared to selected comparative algorithms. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s2301385025500244"
+    },
+    {
+        "id": 32551,
+        "title": "Learning to Self-Reconfigure for Freeform Modular Robots via Altruism Proximal Policy Optimization",
+        "authors": "Lei Wu, Bin Guo, Qiuyun Zhang, Zhuo Sun, Jieyi Zhang, Zhiwen Yu",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "The advantages of modular robot systems stem from their ability to change between different configurations, enabling them to adapt to complex and dynamic real-world environments. Then, how to perform the accurate and efficient change of the modular robot system, i.e., the self-reconfiguration problem, is essential. Existing reconfiguration algorithms are based on discrete motion primitives and are suitable for lattice-type modular robots. The modules of freeform modular robots are connected without alignment, and the motion space is continuous. It renders existing reconfiguration methods infeasible. In this paper, we design a parallel distributed self-reconfiguration algorithm for freeform modular robots based on multi-agent reinforcement learning to realize the automatic design of conflict-free reconfiguration controllers in continuous action spaces. To avoid conflicts, we incorporate a collaborative mechanism into reinforcement learning. Furthermore, we design the distributed termination criteria to achieve timely termination in the presence of limited communication and local observability. When compared to the baselines, simulations show that the proposed method improves efficiency and congruence, and module movement demonstrates altruism.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/610"
+    },
+    {
+        "id": 32552,
+        "title": "Anti-Martingale Proximal Policy Optimization",
+        "authors": "Yang Gu, Yuhu Cheng, Kun Yu, Xuesong Wang",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tcyb.2022.3170355"
+    },
+    {
+        "id": 32553,
+        "title": "Enhancing Cybersecurity in Industrial Control System with Autonomous Defense Using Normalized Proximal Policy Optimization Model",
+        "authors": "Shoukun Xu, Zihao Xie, Chenyang Zhu, Xueyuan Wang, Lin Shi",
+        "published": "2023-12-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpads60453.2023.00138"
+    },
+    {
+        "id": 32554,
+        "title": "Two-stage fuzzy object grasping controller for a humanoid robot with proximal policy optimization",
+        "authors": "Ping-Huan Kuo, Kuan-Lin Chen",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106694"
+    },
+    {
+        "id": 32555,
+        "title": "UAV Local Path Planning Based on Improved Proximal Policy Optimization Algorithm",
+        "authors": "Jiahao Xu, Xufeng Yan, Cui Peng, Xinquan Wu, Lipeng Gu, Yanbiao Niu",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096457"
+    },
+    {
+        "id": 32556,
+        "title": "Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections",
+        "authors": "Zengqi Peng, Xiao Zhou, Yubin Wang, Lei Zheng, Ming Liu, Jun Ma",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itsc57777.2023.10422594"
+    },
+    {
+        "id": 32557,
+        "title": "Proximal policy optimization with reciprocal velocity obstacle based collision avoidance path planning for multi-unmanned surface vehicles",
+        "authors": "Delai Xue, Defeng Wu, Andre S. Yamashita, Zhixiong Li",
+        "published": "2023-4",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.114005"
+    },
+    {
+        "id": 32558,
+        "title": "A Visual Analytics Approach to Understanding Proximal Policy Optimization",
+        "authors": "Jinlun Zhang, Hanlin Lan, Boyang Gao, Yunbo Rao, Jiansu Pu",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/prai59366.2023.10332079"
+    },
+    {
+        "id": 32559,
+        "title": "Dynamic Simulation Environment for Pandemic Management: Study of Proximal Policy Optimization on a Novel Simulation Using Reinforcement Learning",
+        "authors": "Ashwin Sharma, Devavrat Singh Bisht, Disha Devalia, Megharani Patil",
+        "published": "2023-11-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccsai59793.2023.10421231"
+    },
+    {
+        "id": 32560,
+        "title": "Muti-Agent Proximal Policy Optimization For Data Freshness in UAV-assisted Networks",
+        "authors": "Mouhamed Naby Ndiaye, El Houcine Bergou, Hajar El Hammouti",
+        "published": "2023-5-28",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccworkshops57953.2023.10283785"
+    },
+    {
+        "id": 32561,
+        "title": "Adaptive control for uncrewed aerial vehicles based on communication information optimization in complex environments",
+        "authors": "Zirong Wang, Zhengyu Han, Shahzadi Tayyaba",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "The utilization of drone technology thrives in diverse domains, including aviation, military operations, and logistics. The pervasive adoption of this technology aims to enhance efficiency while mitigating hazards and expenditures. In complex contexts, the governing parameters of uncrewed aerial vehicles (UAV) require real-time adjustments for flight safety and efficacy. To improve the attitude estimation accuracy, this article introduces a ATT-Bi-LSTM framework for optimizing UAVs through adaptive parameter control, which integrates the state information gleaned from communication signals. The ATT-Bi-LSTM achieves data feature extraction by means of a two-layer Bidirectional Long Short-Term Memory (BI-LSTM) at its inception to enhance the feature. Subsequently, it harnesses the attention mechanism to amplify the LSTM network’s output, thereby enabling the optimal control of UAV positioning. During the empirical phase, we employ optical system data for the comparative validation of the model. The outcomes underscore the commendable performance of the proposed framework in this study, particularly with regard to the three pivotal position indicators: yaw, pitch, and roll. In the comparison of indicators such as RMSR and MAE, the proposed model has the lowest error, which provides algorithm support and important reference for future UAV optimization control research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7717/peerj-cs.1920"
+    },
+    {
+        "id": 32562,
+        "title": "Proximal policy optimization guidance algorithm for intercepting near-space maneuvering targets",
+        "authors": "Wenxue Chen, Changsheng Gao, Wuxing Jing",
+        "published": "2023-1",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ast.2022.108031"
+    },
+    {
+        "id": 32563,
+        "title": "Risk-Based Reserve Scheduling for Active Distribution Networks Based on an Improved Proximal Policy Optimization Algorithm",
+        "authors": "Xiaoyu Li, Xueshan Han, Ming Yang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2022.3230670"
+    },
+    {
+        "id": 32564,
+        "title": "A Control Method for a Hung-Up Snake Robot Based on Proximal Policy Optimization and the Time-Reversed Method",
+        "authors": "Fengwei Sheng, Xian Guo, Chaoquan Tang",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240581"
+    },
+    {
+        "id": 32565,
+        "title": "Energy efficiency improvement method for data centers based on hybrid proximal policy optimization algorithm",
+        "authors": "Heping Fang, Shihang Yang, Shuhong Peng, Shuguang Liu",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3011982"
+    },
+    {
+        "id": 32566,
+        "title": "An Adaptive Federated Reinforcement Learning Framework with Proximal Policy Optimization for Autonomous Driving",
+        "authors": "Huan Chen, Kuan-Lin Chen, Hsin-Yao Hsu, Jia-You Hsieh",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ecice59523.2023.10383091"
+    },
+    {
+        "id": 32567,
+        "title": "An Object Recognition Grasping Approach Using Proximal Policy Optimization With YOLOv5",
+        "authors": "Qingchun Zheng, Zhi Peng, Peihao Zhu, Yangyang Zhao, Ran Zhai, Wenpeng Ma",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3305339"
+    },
+    {
+        "id": 32568,
+        "title": "Proximal Policy Optimization-Based Power Grid Structure Optimization for Reliable Splitting",
+        "authors": "Xinwei Sun, Shuangteng Han, Yuhong Wang, Yunxiang Shi, Jianquan Liao, Zongsheng Zheng, Xi Wang, Peng Shi",
+        "published": "2024-2-9",
+        "citations": 0,
+        "abstract": "When systems experience a severe fault, splitting, as the final line of defense to ensure the stability of the power system, holds immense significance. The precise selection of splitting sections has become the current focal point of research. Addressing the challenges of a large search space and unclear splitting sections, this paper introduces a grid structure optimization algorithm based on electrical coupling degree. Firstly, employing the theory of slow coherency, a generalized characteristic analysis of the system is conducted, leading to an initial division of coherency groups. Subsequently, an electrical coupling degree index, taking into account the inertia of generators, is proposed. This index can reflect the clarity of grid splitting. Furthermore, a two-layer optimization model for grid structure is constructed, utilizing the Proximal Policy Optimization (PPO) algorithm to optimize the grid structure. This process reduces the size of the splitting space and mitigates the difficulty of acquiring splitting sections. Finally, simulation validation is performed using the IEEE-118-bus system to demonstrate the effectiveness of the proposed optimization algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en17040834"
+    },
+    {
+        "id": 32569,
+        "title": "Proximal Policy Optimization for Efficient D2D-Assisted Computation Offloading and Resource Allocation in Multi-Access Edge Computing",
+        "authors": "Chen Zhang, Celimuge Wu, Min Lin, Yangfei Lin, William Liu",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "In the advanced 5G and beyond networks, multi-access edge computing (MEC) is increasingly recognized as a promising technology, offering the dual advantages of reducing energy utilization in cloud data centers while catering to the demands for reliability and real-time responsiveness in end devices. However, the inherent complexity and variability of MEC networks pose significant challenges in computational offloading decisions. To tackle this problem, we propose a proximal policy optimization (PPO)-based Device-to-Device (D2D)-assisted computation offloading and resource allocation scheme. We construct a realistic MEC network environment and develop a Markov decision process (MDP) model that minimizes time loss and energy consumption. The integration of a D2D communication-based offloading framework allows for collaborative task offloading between end devices and MEC servers, enhancing both resource utilization and computational efficiency. The MDP model is solved using the PPO algorithm in deep reinforcement learning to derive an optimal policy for offloading and resource allocation. Extensive comparative analysis with three benchmarked approaches has confirmed our scheme’s superior performance in latency, energy consumption, and algorithmic convergence, demonstrating its potential to improve MEC network operations in the context of emerging 5G and beyond technologies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/fi16010019"
+    },
+    {
+        "id": 32570,
+        "title": "Quadratic Exponential Decrease Roll-Back: An Efficient Gradient Update Mechanism in Proximal Policy Optimization",
+        "authors": "Runhao Zhao, Dan Xu, Shuoqu Jian, Tianle Tan, Xiaohui Sun, Wanchao Zhang",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlccim60412.2023.00015"
+    },
+    {
+        "id": 32571,
+        "title": "On the diagonal proximal point algorithms",
+        "authors": "Hadi Khatibzadeh, Mohsen Rahimi Piranfar, Jamal Rooin",
+        "published": "2023-10-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2264861"
+    },
+    {
+        "id": 32572,
+        "title": "Solving RCMSA in SDM-EON by using proximal policy optimization algorithm",
+        "authors": "An Ning, Ren Jiyuan, Wang Xiaofeng, Jin Tianyu, Zhang Zhidong, Luo Zhen, Ma Yu, Yin Shan",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocn59242.2023.10236180"
+    },
+    {
+        "id": 32573,
+        "title": "Proximal Policy Optimization Algorithm for Integrated Energy System Operation with Adaptive Learning Rate Decay Strategy",
+        "authors": "Jun Wang, Xin Wang, Wei Du, Yuan Li, Chenghong Tang, Gang Liu",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sgee60678.2023.10481730"
+    },
+    {
+        "id": 32574,
+        "title": "Enhancing Abstractive Text Summarization with Proximal Policy Optimization",
+        "authors": "K Lokeshwar Reddy, M Phani Shanmukh, Charan Kumar M, Tharun Kumar M, Arjun Kumar C, R Prasanna Kumar, K Venkatraman",
+        "published": "2024-1-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaect60202.2024.10469299"
+    },
+    {
+        "id": 32575,
+        "title": "Tuning of fuzzy controller with arbitrary triangular input fuzzy sets based on proximal policy optimization for time-delays system",
+        "authors": "Shiwen Xie, Haolin Sun, Yongfang Xie, Xiaofang Chen",
+        "published": "2023-9",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jprocont.2023.103059"
+    },
+    {
+        "id": 32576,
+        "title": "Dynamic inspection and maintenance scheduling for multi-state systems under time-varying demand: Proximal policy optimization",
+        "authors": "Yiming Chen, Yu Liu, Tangfan Xiahou",
+        "published": "2023-9-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/24725854.2023.2259949"
+    },
+    {
+        "id": 32577,
+        "title": "Proximal Policy Optimization-Based Reinforcement Learning and Hybrid Approaches to Explore the Cross Array Task Optimal Solution",
+        "authors": "Samuel Corecco, Giorgia Adorni, Luca Maria Gambardella",
+        "published": "2023-11-20",
+        "citations": 0,
+        "abstract": "In an era characterised by rapid technological advancement, the application of algorithmic approaches to address complex problems has become crucial across various disciplines. Within the realm of education, there is growing recognition of the pivotal role played by computational thinking (CT). This skill set has emerged as indispensable in our ever-evolving digital landscape, accompanied by an equal need for effective methods to assess and measure these skills. This research places its focus on the Cross Array Task (CAT), an educational activity designed within the Swiss educational system to assess students’ algorithmic skills. Its primary objective is to evaluate pupils’ ability to deconstruct complex problems into manageable steps and systematically formulate sequential strategies. The CAT has proven its effectiveness as an educational tool in tracking and monitoring the development of CT skills throughout compulsory education. Additionally, this task presents an enthralling avenue for algorithmic research, owing to its inherent complexity and the necessity to scrutinise the intricate interplay between different strategies and the structural aspects of this activity. This task, deeply rooted in logical reasoning and intricate problem solving, often poses a substantial challenge for human solvers striving for optimal solutions. Consequently, the exploration of computational power to unearth optimal solutions or uncover less intuitive strategies presents a captivating and promising endeavour. This paper explores two distinct algorithmic approaches to the CAT problem. The first approach combines clustering, random search, and move selection to find optimal solutions. The second approach employs reinforcement learning techniques focusing on the Proximal Policy Optimization (PPO) model. The findings of this research hold the potential to deepen our understanding of how machines can effectively tackle complex challenges like the CAT problem but also have broad implications, particularly in educational contexts, where these approaches can be seamlessly integrated into existing tools as a tutoring mechanism, offering assistance to students encountering difficulties. This can ultimately enhance students’ CT and problem-solving abilities, leading to an enriched educational experience.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5040082"
+    },
+    {
+        "id": 32578,
+        "title": "Multi-Agent Proximal Policy Optimization-Based Dynamic Client Selection for Federated AI in 6G-Oriented Internet of Vehicles",
+        "authors": "Tianqi Yu, Xianbin Wang, Jianling Hu, Jianfeng Yang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tvt.2024.3383860"
+    },
+    {
+        "id": 32579,
+        "title": "Motion Path Planning of Agent Based on Proximal Policy Optimization Algorithm",
+        "authors": "Jiangtao Wang, Zewen Sun, Peng Li, Liang Sun",
+        "published": "2023-8-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iai59504.2023.10327652"
+    },
+    {
+        "id": 32580,
+        "title": "Cooperative coevolutionary differential evolution with linkage measurement minimization for large-scale optimization problems in noisy environments",
+        "authors": "Rui Zhong, Enzhi Zhang, Masaharu Munetomo",
+        "published": "2023-8",
+        "citations": 4,
+        "abstract": "AbstractMany optimization problems suffer from noise, and the noise combined with the large-scale attributes makes the problem complexity explode. Cooperative coevolution (CC) based on divide and conquer decomposes the problems and solves the sub-problems alternately, which is a popular framework for solving large-scale optimization problems (LSOPs). Many studies show that the CC framework is sensitive to decomposition, and the high-accuracy decomposition methods such as differential grouping (DG), DG2, and recursive DG (RDG) are extremely sensitive to sampling accuracy, which will fail to detect the interactions in noisy environments. Therefore, solving LSOPs in noisy environments based on the CC framework faces unprecedented challenges. In this paper, we propose a novel decomposition method named linkage measurement minimization (LMM). We regard the decomposition problem as a combinatorial optimization problem and design the linkage measurement function (LMF) based on Linkage Identification by non-linearity check for real-coded GA (LINC-R). A detailed theoretical analysis explains why our proposal can determine the interactions in noisy environments. In the optimization, we introduce an advanced optimizer named modified differential evolution with distance-based selection (MDE-DS), and the various mutation strategy and distance-based selection endow MDE-DS with strong anti-noise ability. Numerical experiments show that our proposal is competitive with the state-of-the-art decomposition methods in noisy environments, and the introduction of MDE-DS can accelerate the optimization in noisy environments significantly.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40747-022-00957-6"
+    },
+    {
+        "id": 32581,
+        "title": "Fast peg-in-hole assembly policy for robots based on experience fusion proximal optimization",
+        "authors": "Yu Men, Ligang Jin, Fengming Li, Rui Song",
+        "published": "2023-1-12",
+        "citations": 0,
+        "abstract": "Background: As an important part of robot operation, peg-in-hole assembly has problems such as a low degree of automation, a large amount of tasks and low efficiency. It is still a huge challenge for robots to automatically complete assembly tasks because the traditional assembly control policy requires complex analysis of the contact model and it is difficult to build the contact model. The deep reinforcement learning method does not require the establishment of complex contact models, but the long training time and low data utilization efficiency make the training costs very high. Methods: With the aim of addressing the problem of how to accurately obtain the assembly policy and improve the data utilization rate of the robot in the peg-in-hole assembly, we propose the Experience Fusion Proximal Policy Optimization algorithm (EFPPO) based on the Proximal Policy Optimization algorithm (PPO). The algorithm improves the assembly speed and the utilization efficiency of training data by combining force control policy and adding a memory buffer, respectively. Results: We build a single-axis hole assembly system based on the UR5e robotic arm and six-dimensional force sensor in the CoppeliaSim simulation environment to effectively realize the prediction of the assembly environment. Compared with the traditional Deep Deterministic Policy Gradient algorithm (DDPG) and PPO algorithm, the peg-in-hole assembly success rate reaches 100% and the data utilization rate is 125% higher than that of the PPO algorithm. Conclusions: The EFPPO algorithm has a high exploration efficiency. While improving the assembly speed and training speed, the EFPPO algorithm achieves smooth assembly and accurate prediction of the assembly environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12688/cobot.17579.1"
+    },
+    {
+        "id": 32582,
+        "title": "Intelligent Design of Hairpin Filters Based on Artificial Neural Network and Proximal Policy Optimization",
+        "authors": "Yunong Ye, Yifan Wu, Jiayu Chen, Guodong Su, Junchao Wang, Jun Liu",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "Microstrip filters are widely used in high-frequency circuit design for signal frequency selection. However, designing these filters often requires extensive trial and error to achieve the desired performance metrics, leading to significant time costs. In this work, we propose an automated design flow for hairpin filters, a specific type of microstrip filter. We employ artificial neural network (ANN) modeling techniques to predict the circuit performance of hairpin filters, and leverage the efficiency of low-cost models to deploy reinforcement learning agents. Specifically, we use the proximal policy optimization (PPO) reinforcement learning algorithm to learn abstract design actions for the filters, allowing us to achieve automated optimization design. Through simulation results, we demonstrate the effectiveness of the proposed approach. By optimizing the geometric dimensions, we significantly improve the performance metrics of hairpin filters, and the trained agent successfully meets our specified design goals within 5 to 15 design steps. This work serves as a conceptual validation attempt to apply reinforcement learning techniques and pre-trained ANN models to automate MMIC filter design. It exhibits clear advantages in terms of time-saving and performance efficiency when compared to other optimization algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13169379"
+    },
+    {
+        "id": 32583,
+        "title": "Longevity-aware energy management for fuel cell hybrid electric bus based on a novel proximal policy optimization deep reinforcement learning framework",
+        "authors": "Ruchen Huang, Hongwen He, Xuyang Zhao, Miaojue Gao",
+        "published": "2023-3",
+        "citations": 16,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jpowsour.2023.232717"
+    },
+    {
+        "id": 32584,
+        "title": "Collective large-scale wind farm multivariate power output control based on hierarchical communication multi-agent proximal policy optimization",
+        "authors": "Yubao Zhang, Xin Chen, Sumei Gong, Jiehao Chen",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.renene.2023.119479"
+    },
+    {
+        "id": 32585,
+        "title": "Every proximal mapping is a resolvent of level proximal subdifferential",
+        "authors": "Xianfu Wang, Ziyuan Wang",
+        "published": "2023-7-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11590-023-02036-2"
+    },
+    {
+        "id": 32586,
+        "title": "Integrated path planning and control through proximal policy optimization for a marine current turbine",
+        "authors": "Arezoo Hasankhani, Yufei Tang, James VanZwieten",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apor.2023.103591"
+    },
+    {
+        "id": 32587,
+        "title": "Efficient Difficulty Level Balancing in Match-3 Puzzle Games: A Comparative Study of Proximal Policy Optimization and Soft Actor-Critic Algorithms",
+        "authors": "Byounggwon Kim, Jungyoon Kim",
+        "published": "2023-10-30",
+        "citations": 1,
+        "abstract": "Match-3 puzzle games have garnered significant popularity across all age groups due to their simplicity, non-violent nature, and concise gameplay. However, the development of captivating and well-balanced stages in match-3 puzzle games remains a challenging task for game developers. This study aims to identify the optimal algorithm for reinforcement learning to streamline the level balancing verification process in match-3 games by comparison with Soft Actor-Critic (SAC) and Proximal Policy Optimization (PPO) algorithms. By training the agent with these two algorithms, the paper investigated which approach yields more efficient and effective difficulty level balancing test results. After the comparative analysis of cumulative rewards and entropy, the findings illustrate that the SAC algorithm is the optimal choice for creating an efficient agent capable of handling difficulty level balancing for stages in a match-3 puzzle game. This is because the superior learning performance and higher stability demonstrated by the SAC algorithm are more important in terms of stage difficulty balancing in match-3 gameplay. This study expects to contribute to the development of improved level balancing techniques in match-3 puzzle games besides enhancing the overall gaming experience for players.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12214456"
+    },
+    {
+        "id": 32588,
+        "title": "Multi-Objective Proximal Policy Optimization for Digital Twin-Assisted Computing Offloading in Internet of Vehicles",
+        "authors": "Wenjing Jiao, Jinjin Shen, Yan Lin, Yijin Zhang, Weibin Zhang",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wcsp58612.2023.10404933"
+    },
+    {
+        "id": 32589,
+        "title": "Optimal economic dispatch of a virtual power plant based on gated recurrent unit proximal policy optimization",
+        "authors": "Zhiping Gao, Wenwen Kang, Xinghua Chen, Siru Gong, Zongxiong Liu, Degang He, Shen Shi, Xing-Chen Shangguan",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "The intermittent renewable energy in a virtual power plant (VPP) brings generation uncertainties, which prevents the VPP from providing a reliable and user-friendly power supply. To address this issue, this paper proposes a gated recurrent unit proximal policy optimization (GRUPPO)-based optimal VPP economic dispatch method. First, electrical generation, storage, and consumption are established to form a VPP framework by considering the accessibility of VPP state information. The optimal VPP economic dispatch can then be expressed as a partially observable Markov decision process (POMDP) problem. A novel deep reinforcement learning method called GRUPPO is further developed based on VPP time series characteristics. Finally, case studies are conducted over a 24-h period based on the actual historical data. The test results illustrate that the proposed economic dispatch can achieve a maximum operation cost reduction of 6.5% and effectively smooth the supply–demand uncertainties.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fenrg.2024.1357406"
+    },
+    {
+        "id": 32590,
+        "title": "Advantage Constrained Proximal Policy Optimization in Multi-Agent Reinforcement Learning",
+        "authors": "Weifan Li, Yuanheng Zhu, Dongbin Zhao",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191652"
+    },
+    {
+        "id": 32591,
+        "title": "Towards Enhancing Sequence-Optimized Malware Representation With Context-Separated Bi-Directional Long Short-Term Memory and Proximal Policy Optimization",
+        "authors": "Yuhao Xie, Xiong Luo, Jiankun Sun",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tdsc.2024.3352604"
+    },
+    {
+        "id": 32592,
+        "title": "Learning to Drive in the NGSIM Simulator Using Proximal Policy Optimization",
+        "authors": "Yang Zhou, Yunxing Chen",
+        "published": "2023-4-3",
+        "citations": 1,
+        "abstract": "As a popular research field, autonomous driving may offer great benefits for human society. To achieve that, current studies often applied machine learning methods like reinforcement learning to enable an agent to interact and learn in a stimulating environment. However, most simulators lack realistic traffic which may cause a deficiency in realistic interaction. The present study adopted the SMARTS platform to create a simulator in which the trajectories of the vehicles in the NGSIM I-80 dataset were extracted as the background traffic. The built NGSIM simulator was used to train a model using the proximal policy optimization method. The actor-critic neural network was applied, and the model takes inputs including 38 features that encode the information of the host vehicle and the nearest surrounding vehicles in the current lane and adjacent lane. A2C was selected as a comparative method. The results revealed that the PPO model outperformed the A2C model in the current task by collecting more rewards, traveling longer distances, and encountering less dangerous events during model training and testing. The PPO model achieved an 84% success rate in the test which is comparable to the related studies. The present study proved that the public driving dataset and reinforcement learning can provide a useful tool to achieve autonomous driving.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/4127486"
+    },
+    {
+        "id": 32593,
+        "title": "ASTPPO: A proximal policy optimization algorithm based on the attention mechanism and spatio–temporal correlation for routing optimization in software-defined networking",
+        "authors": "Junyan Chen, Xuefeng Huang, Yong Wang, Hongmei Zhang, Cenhuishan Liao, Xiaolan Xie, Xinmei Li, Wei Xiao",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12083-023-01489-7"
+    },
+    {
+        "id": 32594,
+        "title": "A Newton-type proximal gradient method for nonlinear multi-objective optimization problems",
+        "authors": "Md Abu Talhamainuddin Ansary",
+        "published": "2023-5-4",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2022.2157000"
+    },
+    {
+        "id": 32595,
+        "title": "Equivalent resolvents of Douglas-Rachford splitting and other operator splitting algorithms: a unified degenerate proximal point analysis",
+        "authors": "Feng Xue",
+        "published": "2023-7-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2231005"
+    },
+    {
+        "id": 32596,
+        "title": "SIMULATION OF PHYSICAL ENVIRONMENTS FOR OPTIMIZATION OF DIGITAL CONTROL IN CYBER-PHYSICAL SYSTEMS",
+        "authors": "Gennady Korshunov,  ",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21685/2307-4205-2023-1-3"
+    },
+    {
+        "id": 32597,
+        "title": "Coordinated Ride-hailing Order Scheduling and Vehicle to Grid for Autonomous Electric Vehicles Based on Independent Proximal Policy Optimization",
+        "authors": "Jinxi Zhang, Lingming Kong, Hongcai Zhang",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itecasia-pacific59272.2023.10372331"
+    },
+    {
+        "id": 32598,
+        "title": "PPO-TA: Adaptive task allocation via Proximal Policy Optimization for spatio-temporal crowdsourcing",
+        "authors": "Bingxu Zhao, Hongbin Dong, Yingjie Wang, Tingwei Pan",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110330"
+    },
+    {
+        "id": 32599,
+        "title": "ROBB: Recurrent Proximal Policy Optimization Reinforcement Learning for Optimal Block Formation in Bitcoin Blockchain Network",
+        "authors": "Amit Dutta, Nafiz Imtiaz Rafin, M. Ali Akber Dewan, Md. Golam Rabiul Alam",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3369896"
+    },
+    {
+        "id": 32600,
+        "title": "Corrigendum to “Optimizing parameters in swarm intelligence using reinforcement learning: An application of Proximal Policy Optimization to the iSOMA algorithm” [Swarm and Evolutionary Computation Volume 85, March 2024]",
+        "authors": "Lukáš Klein, Ivan Zelinka, David Seidl",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2024.101560"
+    },
+    {
+        "id": 32601,
+        "title": "Generalizations of the proximal method of multipliers in convex optimization",
+        "authors": "R. Tyrrell Rockafellar",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-023-00519-7"
+    },
+    {
+        "id": 32602,
+        "title": "A unified proximal gradient method for nonconvex composite optimization with extrapolation",
+        "authors": "Miao Zhang, Hongchao Zhang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/naco.2024005"
+    },
+    {
+        "id": 32603,
+        "title": "Regional economic dispatch analysis and industry chain optimization based on proximal strategy optimization algorithm",
+        "authors": "Yichuan Zhang",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn this paper, the traditional proximal strategy optimization algorithm is improved based on traction technology to address the poor efficiency of the conventional proximal strategy optimization algorithm in analyzing regional economic scheduling and industrial chain optimization. The focus is on finding the optimal solution by applying this algorithm in the spatio-temporal coupling characteristics of new infrastructure and regional economic dispatch, the simulation of changes in regional industrial structure and the allocation of industrial chain. The experimental analysis not only verifies the effectiveness of the improved algorithm, but also shows that the level of new infrastructure development shows a specific positive correlation with the degree of development of regional economic dispatch, with a growth rate of 29.26% in 2021. Under the influence of different industrial scenarios and policies, there are significant differences in the path and speed of industrial structure change FPPO-QP algorithm is also above 44Mdps in V2I capacity performance under the interference of 3.5×1060Bytes. In contrast, the performance of the FPPO-LP algorithm has declined. Therefore, the improved algorithm can effectively apply to regional economic dispatch analysis and industrial chain optimization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns-2024-0462"
+    },
+    {
+        "id": 32604,
+        "title": "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps",
+        "authors": "Leandro Farias Maia, David Huckleberry Gutman, Ryan Christopher Hughes",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10957-024-02404-7"
+    },
+    {
+        "id": 32605,
+        "title": "A Policy Gradient Algorithm to Alleviate the Multi-Agent Value Overestimation Problem in Complex Environments",
+        "authors": "Yang Yang, Jiang Li, Jinyong Hou, Ye Wang, Huadong Zhao",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "Multi-agent reinforcement learning excels at addressing group intelligent decision-making problems involving sequential decision-making. In particular, in complex, high-dimensional state and action spaces, it imposes higher demands on the reliability, stability, and adaptability of decision algorithms. The reinforcement learning algorithm based on the multi-agent deep strategy gradient incorporates a function approximation method using discriminant networks. However, this can lead to estimation errors when agents evaluate action values, thereby reducing model reliability and stability and resulting in challenging convergence. With the increasing complexity of the environment, there is a decline in the quality of experience collected by the experience playback pool, resulting in low efficiency of the sampling stage and difficulties in algorithm convergence. To address these challenges, we propose an innovative approach called the empirical clustering layer-based multi-agent dual dueling policy gradient (ECL-MAD3PG) algorithm. Experimental results demonstrate that our ECL-MAD3PG algorithm outperforms other methods in various complex environments, demonstrating a remarkable 9.1% improvement in mission completion compared to MADDPG within the context of complex UAV cooperative combat scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23239520"
+    },
+    {
+        "id": 32606,
+        "title": "Postsecondary Policy Environments in Citizen Legislatures",
+        "authors": "David R. Johnson",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": " Legislative professionalism is central to the politico-institutional context of postsecondary policy adoption in state governments. The core argument in existing research is that as legislative professionalism increases, structural capacity for decision-making increases. Evidence for this argument is mixed, exclusively quantitative, and assumes a bureaucratic logic. The goal of this study is to deepen understanding of legislative professionalism by examining how policy stakeholders perceive the postsecondary policy environment in a “citizen legislature.” The study draws on 26 in-depth interviews with higher education stakeholders in Nevada. The findings contribute empirically to the literature by demonstrating that legislative professionalism can be understood in terms of the meanings assigned distinctive legislative environments. The results also make a conceptual contribution to this literature by showing how loose coupling in interorganizational relations and bounded rationality shape the policy environment—in ways that yield benefits for some institutions and disadvantages for others. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/08959048221142050"
+    },
+    {
+        "id": 32607,
+        "title": "fficient Regularized Proximal Quasi-Newton Methods for Large-Scale Nonconvex Composite Optimization Problems",
+        "authors": "Kanzow Christian,  , Lechner Theresa",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61208/pjo-2023-036"
+    },
+    {
+        "id": 32608,
+        "title": "Maneuver and Attack Strategy Generation Method for Autonomous Air Combat in Hybrid Action Space Based on Proximal Policy Optimization",
+        "authors": "Yuhe Zhang, Zhen Yang, Shiyuan Chai, Yupeng He, Xingyu Wang, Deyun Zhou",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240246"
+    },
+    {
+        "id": 32609,
+        "title": "Enhancement of Control Performance for Degraded Robot Manipulators Using Digital Twin and Proximal Policy Optimization",
+        "authors": "Su-Young Park, Cheonghwa Lee, Hyungjung Kim, Sung-Hoon Ahn",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3359268"
+    },
+    {
+        "id": 32610,
+        "title": "Proximal methods for point source localisation",
+        "authors": "Tuomo Valkonen",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "Point source localisation is generally modelled as a Lasso-type problem on\nmeasures. However, optimisation methods in non-Hilbert spaces, such as the\nspace of Radon measures, are much less developed than in Hilbert spaces. Most\nnumerical algorithms for point source localisation are based on the Frank-Wolfe\nconditional gradient method, for which ad hoc convergence theory is developed.\nWe develop extensions of proximal-type methods to spaces of measures. This\nincludes forward-backward splitting, its inertial version, and primal-dual\nproximal splitting. Their convergence proofs follow standard patterns. We\ndemonstrate their numerical efficacy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46298/jnsao-2023-10433"
+    },
+    {
+        "id": 32611,
+        "title": "Proximal gradient methods beyond monotony",
+        "authors": "Alberto De Marchi",
+        "published": "2023-6-2",
+        "citations": 1,
+        "abstract": "We address composite optimization problems, which consist in minimizing the\nsum of a smooth and a merely lower semicontinuous function, without any\nconvexity assumptions. Numerical solutions of these problems can be obtained by\nproximal gradient methods, which often rely on a line search procedure as\nglobalization mechanism. We consider an adaptive nonmonotone proximal gradient\nscheme based on an averaged merit function and establish asymptotic convergence\nguarantees under weak assumptions, delivering results on par with the monotone\nstrategy. Global worst-case rates for the iterates and a stationarity measure\nare also derived. Finally, a numerical example indicates the potential of\nnonmonotonicity and spectral approximations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46298/jnsao-2023-10290"
+    },
+    {
+        "id": 32612,
+        "title": "Convergence analysis of a generalized proximal algorithm for multiobjective quasiconvex minimization on Hadamard manifolds",
+        "authors": "E. A. Papa Quiroz, N. Baygorrea, N. Maculan",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2234939"
+    },
+    {
+        "id": 32613,
+        "title": "A new multi-domain cooperative resource scheduling method using proximal policy optimization",
+        "authors": "Haiying Liu, Zhaoyi He, Rui Wang, Kuihua Huang, Guangquan Cheng",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-09326-x"
+    },
+    {
+        "id": 32614,
+        "title": "A Proximal Policy Optimization based Control Framework for Flexible Battery Energy Storage System",
+        "authors": "Jinhao Meng, Feng Yang, Jichang Peng, Fei Gao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tec.2023.3334035"
+    },
+    {
+        "id": 32615,
+        "title": "A cluster-based co-evolutionary optimization method for bilevel multi-objective optimization",
+        "authors": "Wan-Yue Hu, Fei Li, Pei-Qiu Huang, Er-Qian Ge",
+        "published": "2024-1-5",
+        "citations": 0,
+        "abstract": "The research motivation of multi-objective bilevel optimization mainly stems from the need to solve practical problems and improve decision-making efficiency. On the one hand, bilevel optimization helps to solve the complexity and uncertainty in real life, thereby improving decision-making efficiency and robustness. On the other hand, by promoting the development and application of AI technology, bilevel optimization also provides support for sustainable development. Although the application of bilevel optimization has proven to be beneficial in addressing various real-life problems. However, recent studies indicate that achieving both high speed and high-quality optimization through existing algorithms remains challenging. This difficulty arises due to the NP-hard nature of the bilevel optimization problem. The nested structure method, commonly used to tackle this problem, involves each upper level solution independently performing the lower level optimization task. This approach significantly increases the number of evaluations for the lower level. To address this issue, our proposed method leverages the similarity in lower level optimization to group upper level solutions, enabling co-evolution of lower level solutions within the same group. Consequently, this approach substantially reduces the number of evaluations required for lower level solutions. Additionally, our method pairs parents and offspring, the optimized lower level solutions of the parents are utilized to optimize the lower level solutions of the offspring. This approach accelerates the optimization process for the lower level. To validate the effectiveness of our algorithm, we have applied it to a suite of test problems, demonstrating satisfactory performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20517/jsegc.2023.18"
+    },
+    {
+        "id": 32616,
+        "title": "Advanced Preoperative Planning Techniques in the Management of Complex Proximal Humerus Fractures",
+        "authors": "Zaid Yasen, Andrew P Robinson, Hugo Woffenden",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7759/cureus.51551"
+    },
+    {
+        "id": 32617,
+        "title": "STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies",
+        "authors": "Ted Edward Holmberg, Mahdi Abdelguerfi, Elias Ioup",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigdata59044.2023.10386774"
+    },
+    {
+        "id": 32618,
+        "title": "Correction to: Accelerated proximal gradient method for bi-modulus static elasticity",
+        "authors": "Yoshihiro Kanno",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11081-023-09816-w"
+    },
+    {
+        "id": 32619,
+        "title": "Optimization Design of Parking Models Based on Complex and Random Parking Environments",
+        "authors": "Xunchen Liu, Siqi Zhu, Yuan Fang, Yutong Wang, Lijuan Fu, Wenjing Lei, Zijian Zhou",
+        "published": "2023-12-12",
+        "citations": 0,
+        "abstract": "This paper presents a comprehensive study on autonomous vehicle parking challenges, focusing on kinematic and reverse parking models. The research develops models for various scenarios, including turning, reverse, vertical, and parallel parking while using the minimum turning radius solution. The integration of the A* algorithm enhances trajectory optimization and obstacle avoidance. Innovative concepts like NTBPT and B-spline theory improve computational optimization. This study provides a foundation for understanding the dynamics and constraints of autonomous parking. The proposed model enhances efficiency and safety, reducing algorithm complexity and improving trajectory optimization. This research offers valuable insights and methodologies for addressing autonomous vehicle parking challenges and advocates for advancements in automated parking systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/wevj14120344"
+    },
+    {
+        "id": 32620,
+        "title": "Proximal point method with Bregman distance for quasiconvex pseudomonotone equilibrium problems",
+        "authors": "Qamrul Hasan Ansari, Feeroz Babu, Muzaffar Sarkar Raju",
+        "published": "2023-8-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2252430"
+    },
+    {
+        "id": 32621,
+        "title": "Proximal Policy Optimization-Based Driving Control Strategy of Connected Cruise Vehicle Platoons to Improve Traffic Efficiency and Safety",
+        "authors": "Zhanrui Xu, Xiaohong Jiao, Shuangkun Ru",
+        "published": "2023-6",
+        "citations": 3,
+        "abstract": " This paper investigates connected cruise control (CCC) based on the deep reinforcement learning algorithm to mitigate oscillations and improve traffic safety in stop-and-go waves. A proximal policy optimization (PPO)-based control strategy is proposed for connected and autonomous vehicles (CAVs) in a heterogeneous longitudinal car-following platoon. The method receives the velocity and position signals of n human-driven vehicles ahead through wireless vehicle-to-vehicle communication to obtain an appropriate driving behavior and improve traffic efficiency and safety in real-time. The effectiveness and advantage of the proposed strategy are verified by using traffic simulation software (Simulation of Urban Mobility) for two simulation scenarios of trajectory curves with noticeable acceleration changes of the leading vehicle and two sections of actual traffic speed data. The results show that the proposed PPO-CCC method can successfully suppress the speed oscillations and improve the travel efficiency of CAVs in the car platoon. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/03611981221144283"
+    },
+    {
+        "id": 32622,
+        "title": "Complex Education Policy for Complex Times?",
+        "authors": "Bronwyn Wood, Joanna Higgins",
+        "published": "2023-8-9",
+        "citations": 0,
+        "abstract": "Any glance at education in New Zealand right now reveals a multitude of issues. In the schooling sector the declining rates of literacy and numeracy have been in the news, following a 2020 UNICEF report which found that only 64.6% of Aotearoa New Zealand 15-year-olds had basic proficiency in reading and maths (Hood and Hughson, 2022). Covid-19 has had a negative impact on students’ wellbeing and also contributed to significant declines in learning, especially for lower decile schools and children in Auckland (Education Review Office, 2021). While students’ wellbeing has improved somewhat in 2023, the loss of learning is still significant, with more than half of principals reporting concerns with writing, and growing behavioural issues and inequalities in student achievement (Education Review Office, 2023). ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26686/pq.v19i3.8304"
+    },
+    {
+        "id": 32623,
+        "title": "Process control of mAb production using multi-actor proximal policy optimization",
+        "authors": "Nikita Gupta, Shikhar Anand, Tanuja Joshi, Deepak Kumar, Manojkumar Ramteke, Hariprasad Kodamana",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dche.2023.100108"
+    },
+    {
+        "id": 32624,
+        "title": "Proximal Policy Optimization Based Intelligent Energy Management for Plug-In Hybrid Electric Bus Considering Battery Thermal Characteristic",
+        "authors": "Chunmei Zhang, Tao Li, Wei Cui, Naxin Cui",
+        "published": "2023-2-8",
+        "citations": 3,
+        "abstract": "As the performances of energy management strategy (EMS) are essential for a plug-in hybrid electric bus (PHEB) to operate in an efficient way. The proximal policy optimization (PPO) based multi-objective EMS considering the battery thermal characteristic is proposed for PHEB, aiming to improve vehicle energy saving performance while ensuring the battery State of Charge (SOC) and temperature within a rational range. Since these three objectives are contradictory to each other, the optimal tradeoff between multiple objectives is realized by intelligently adjusting the weights in the training process. Compared with original PPO-based EMSs without considering battery thermal dynamics, simulation results demonstrate the effectiveness of the proposed strategies in battery thermal management. Results indicate that the proposed strategies can obtain the minimum energy consumption, fastest computing speed, and lowest battery temperature in comparison with other RL-based EMSs. Regarding dynamic programming (DP) as the benchmark, the PPO-based EMSs can achieve similar fuel economy and outstanding computation efficiency. Furthermore, the adaptability and robustness of the proposed methods are confirmed in UDDS, WVUSUB and real driving cycle.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/wevj14020047"
+    },
+    {
+        "id": 32625,
+        "title": "The boosted proximal difference-of-convex algorithm",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23952/jano.5.2023.2.05"
+    },
+    {
+        "id": 32626,
+        "title": "A proximal gradient method with Bregman distance in multi-objective optimization",
+        "authors": "Kangming Chen,  , Ellen H. Fukuda, Nobuo Yamashita",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61208/pjo-2024-012"
+    },
+    {
+        "id": 32627,
+        "title": "The POT-PUFF Sign: A New Angiographic Indicator of Stent Malapposition During Proximal Optimization Therapy",
+        "authors": "Zakariae Laraichi, Raid Faraj, Nadia Fellat",
+        "published": "2023-8-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7759/cureus.43552"
+    },
+    {
+        "id": 32628,
+        "title": "On Proximal Algorithms with Inertial Effects Beyond Monotonicity",
+        "authors": "Alfredo N. Iusem, R. T. Marcavillaca",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01630563.2023.2266762"
+    },
+    {
+        "id": 32629,
+        "title": "Adversarial Proximal Policy Optimisation for Robust Reinforcement Learning",
+        "authors": "Bilkan Ince, Hyo-Sang Shin, Antonios Tsourdos",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2514/6.2024-1697"
+    },
+    {
+        "id": 32630,
+        "title": "Analyzing Important Disaster Risk Factors for Enhanced Policy Responses in Perceived at-Most-Risk African Countries",
+        "authors": "Emmanuel Eze, Alexander Siegmund",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "The foremost priority of the Sendai Framework for Disaster Risk Reduction (SFDRR) is the increased understanding of disaster risk and strengthening its management. Detailed insights into African disaster risk drivers and assessment of policies for Disaster Risk Reduction (DRR) are sparse, hence this study. Using the Index for Risk Management (INFORM) data for 2022, this study determines important disaster risk drivers in Africa using a random forest machine learning model. Violent conflicts, current and projected, emerge as the only hazard factor significantly predictive of disaster risk in Africa, from the analyzed data. Other factors are mostly the sub-components of lack of coping capacity. Furthermore, 25 policies of the 10 countries of very high disaster risk were analyzed to evaluate their inclusion of pre-identified disaster risk factors. The findings of this study depart from the viewpoint of giving natural hazards greater attention in African disaster risk literature. Moreover, identified disaster risk drivers in Africa coincide with the social dimension of disasters, and broader continental developmental and policy issues. As Africa grapples with the complex interplay of environmental, socioeconomic, and conflict-related factors shaping disaster risk, the imperative arises for the development and implementation of comprehensive policies aimed at poverty and vulnerability-reduction to foster resilience across the region.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/environments11020027"
+    },
+    {
+        "id": 32631,
+        "title": "A customized inertial proximal alternating minimization for SVD-free robust principal component analysis",
+        "authors": "Qingsong Wang, Deren Han, Wenxing Zhang",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2023.2230975"
+    },
+    {
+        "id": 32632,
+        "title": "A variable metric proximal stochastic gradient method: an application to classification problems",
+        "authors": "Pasquale Cascarano, Giorgia Franchini, Erich Kobler, Federica Porta, Andrea Sebastiani",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejco.2024.100088"
+    },
+    {
+        "id": 32633,
+        "title": "Sparse broadband beamformer design via proximal optimization Techniques",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23952/jnva.7.2023.4.02"
+    },
+    {
+        "id": 32634,
+        "title": "基于EEPPO的四足机器人步态学习方法复现",
+        "authors": "Chunyang Li, Xiaoqing Zhu, Xiaogang Ruan, Xinyuan Liu, Siyuan Zhang",
+        "published": "2023-11-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12204-023-2666-z"
+    },
+    {
+        "id": 32635,
+        "title": "Representation Enhancement-Based Proximal Policy Optimization for UAV Path Planning and Obstacle Avoidance",
+        "authors": "Xiangxiang Huang, Wei Wang, Zhaokang Ji, Bin Cheng",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "Path planning and obstacle avoidance are pivotal for intelligent unmanned aerial vehicle (UAV) systems in various domains, such as postdisaster rescue, target detection, and wildlife conservation. Currently, reinforcement learning (RL) has become increasingly popular in UAV decision-making. However, the RL approaches confront the challenges of partial observation and large state space when searching for random targets through continuous actions. This paper proposes a representation enhancement-based proximal policy optimization (RE-PPO) framework to address these issues. The representation enhancement (RE) module consists of observation memory improvement (OMI) and dynamic relative position-attitude reshaping (DRPAR). OMI reduces collision under partially observable conditions by separately extracting perception features and state features through an embedding network and feeding the extracted features to a gated recurrent unit (GRU) to enhance observation memory. DRPAR compresses the state space when modeling continuous actions by transforming movement trajectories of different episodes from an absolute coordinate system into different local coordinate systems to utilize similarity. In addition, three step-wise reward functions are formulated to avoid sparsity and facilitate model convergence. We evaluate the proposed method in three 3D scenarios to demonstrate its effectiveness. Compared to other methods, our method achieves a faster convergence during training and demonstrates a higher success rate and a lower rate of timeout and collision during inference. Our method can significantly enhance the autonomy and intelligence of UAV systems under partially observable conditions and provide a reasonable solution for UAV decision-making under uncertainties.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/6654130"
+    },
+    {
+        "id": 32636,
+        "title": "Proximal policy optimization learning based control of congested freeway traffic",
+        "authors": "Shurong Mo, Nailong Wu, Jie Qi, Anqi Pan, Zhiguang Feng, Huaicheng Yan, Yueying Wang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, a delay compensation feedback controller based on reinforcement learning is proposed to adjust the time interval of the adaptive cruise control (ACC) vehicle agents in the traffic congestion by introducing the proximal policy optimization (PPO) scheme. The high‐speed traffic flow is characterized by a two‐by‐two Aw Rasle Zhang nonlinear first‐order partial differential equations (PDEs). Unlike the backstepping delay compensation control,23 the PPO controller proposed in this paper consists of the current traffic flow velocity, the current traffic flow density and the previous one step control input. Since the system dynamics of the traffic flow are difficult to be expressed mathematically, the control gains of the three feedback can be determined via learning from the interaction between the PPO and the digital simulator of the traffic system. The performance of Lyapunov control, backstepping control and PPO control are compared with numerical simulation. The results demonstrate that PPO control is superior to Lyapunov control in terms of the convergence rate and control efforts for the traffic system without delay. As for the traffic system with unstable input delay value, the performance of PPO controller is also equivalent to that of backstepping controller. Besides, PPO is more robust than backstepping controller when the parameter is sensitive to Gaussian noise.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/oca.3068"
+    },
+    {
+        "id": 32637,
+        "title": "Optimizing parameters in swarm intelligence using reinforcement learning: An application of Proximal Policy Optimization to the iSOMA algorithm",
+        "authors": "Lukáš Klein, Ivan Zelinka, David Seidl",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2024.101487"
+    },
+    {
+        "id": 32638,
+        "title": "Delay-tolerant distributed Bregman proximal algorithms",
+        "authors": "S. Chraibi, F. Iutzeler, J. Malick, A. Rogozin",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2278089"
+    },
+    {
+        "id": 32639,
+        "title": "A Proximal Linearized Algorithm for Dual Quaternion Optimization with Applications in Hand-Eye Calibration",
+        "authors": "Li Can,  , Chen Yannan, Li Donghui",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61208/pjo-2023-044"
+    },
+    {
+        "id": 32640,
+        "title": "Zeroth-Order Proximal Stochastic Recursive Momentum Algorithm for Nonconvex Nonsmooth Optimization",
+        "authors": "Yuxiang Qian, Yong Zhao",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ntci60157.2023.10403707"
+    },
+    {
+        "id": 32641,
+        "title": "Proximal policy optimization through a deep reinforcement learning framework for remedial action schemes of VSC-HVDC",
+        "authors": "Sungyoon Song, Yungun Jung, Gilsoo Jang, Seungmin Jung",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijepes.2023.109117"
+    },
+    {
+        "id": 32642,
+        "title": "Responding to crises in authoritarian environments: Russian think tanks between policy evaluation and state endorsement",
+        "authors": "Vera Axyonova",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": "AbstractIn the literature on policy advice and analytical communities in democratic settings, think tanks are often assumed to be carriers of new ideas that serve as an informed and independent voice in policy debates. However, how much intellectual independence do think tanks have in authoritarian environments? This article tackles this question in a case study of Russian think tanks' discursive responses to two protracted crises: the COVID‐19 pandemic and climate change. The study employs a combination of deductive and inductive techniques to identify the discursive strategies used by think tank experts in their publications covering the crises. The findings suggest that there are differences in how think tanks communicate crises, which can be attributed to their institutional structures and position vis‐à‐vis the state. In some cases, the think tanks resort to polarization and discreditation of Western governments' crisis response, while openly endorsing the Russian state. In other cases, they engage in rationalization and more neutral analyses of the pandemic and climate change. However, regardless of these differences, they rarely concentrate on domestic challenges. Instead, they geopoliticize the crises, overemphasizing problematic developments elsewhere in the world, thus shifting attention in the public discourse away from domestic emergencies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/ropr.12601"
+    },
+    {
+        "id": 32643,
+        "title": "Diametrically Relatively Nonexpansive Mappings and a Characterization of Proximal Normal Structure",
+        "authors": "R. Gholipour, M. Gabeleh, H. Mazaheri",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/01630563.2023.2212495"
+    },
+    {
+        "id": 32644,
+        "title": "Biomechanical design optimization of proximal humerus locked plates: A review",
+        "authors": "Radovan Zdero, Pawel Brzozowski, Emil H. Schemitsch",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.injury.2023.111247"
+    },
+    {
+        "id": 32645,
+        "title": "Substance Use-Associated Infant Maltreatment Report Rates in the Context of Complex Prenatal Substance Use Policy Environments",
+        "authors": "Haley Stritzel",
+        "published": "2023-11-13",
+        "citations": 0,
+        "abstract": " State responses to substance use during pregnancy have included policies designed to increase access to substance use treatment as well as punish such substance use. Prior research has found that punitive policies are associated with increased rates of child maltreatment reporting, but it is unclear if the presence of punitive-promoting policies also moderate the association between access-promoting polices and maltreatment reports. Using data from the National Child Abuse and Neglect Data System and state-level fixed effects models, this study investigates how interactions between access-promoting and punitive prenatal substance use policies are associated with rates of substance use-associated maltreatment reports among infants. In states with punitive policies, access-promoting policies were associated with smaller decreases in these reports than in states without punitive policies. In some cases, access-promoting policies were associated with greater increases in these reports when punitive policies were also present than when only one type of policy was adopted. Interactions between prenatal substance use policies may result in unintended and counterproductive consequences for maternal and child health and the child welfare system. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/10775595231213404"
+    },
+    {
+        "id": 32646,
+        "title": "Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer",
+        "authors": "Xiaoyin Hu, Xin Liu, Nachuan Xiao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/jimo.2023149"
+    },
+    {
+        "id": 32647,
+        "title": "Proximal point type algorithms with relaxed and inertial effects beyond convexity",
+        "authors": "S.-M. Grad, F. Lara, R. T. Marcavillaca",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2024.2329779"
+    },
+    {
+        "id": 32648,
+        "title": "Barzilai–Borwein-like rules in proximal gradient schemes for ℓ\n            <sub>1</sub>\n            -regularized problems",
+        "authors": "Serena Crisci, Simone Rebegoldi, Gerardo Toraldo, Marco Viola",
+        "published": "2024-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10556788.2023.2285489"
+    },
+    {
+        "id": 32649,
+        "title": "Crossed wires: Understanding policy feedback in varying policy environments",
+        "authors": "Rachel Torres, Jielu Yao, Elizabeth Maltby, Rene Rocha, Adriano Udani",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "Abstract\nPrevious scholarship has shown that experience with public policies can affect citizens’ willingness to participate in politics. However, few studies have examined whether the effect of experience with policy is moderated by existing policy environments. We focus on the impact of Deferred Action for Childhood Arrivals (DACA) and examine how it affects foreign-born Latinos’ political orientation and behavior. We find a relationship between enrollment in DACA and political orientation and that the effect on participation is moderated by the intensity of enforcement in an immigrant’s county of residence.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s0143814x23000351"
+    },
+    {
+        "id": 32650,
+        "title": "Global optimization for non-convex programs via convex proximal point method",
+        "authors": "Yuanyi Zhao,  , Wenxun Xing",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/jimo.2022142"
+    },
+    {
+        "id": 32651,
+        "title": "Institutional environments and innovation in digital policy",
+        "authors": "Nils C. Bandelow, Johanna Hornung, Ilana Schröder",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/ropr.12549"
+    },
+    {
+        "id": 32652,
+        "title": "Finding and Navigating to Humans in Complex Environments for Assistive Tasks",
+        "authors": "Asfand Yaar, Antonino Furnari, Marco Rosano, Aki Härmä, Giovanni Farinella",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012271700003660"
+    },
+    {
+        "id": 32653,
+        "title": "Nudging in Complex Environments",
+        "authors": "Alexander K. Koch, Dan Monster, Julia Nafziger",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4450970"
+    },
+    {
+        "id": 32654,
+        "title": "HoloSLAM: a novel approach to virtual landmark-based SLAM for indoor environments",
+        "authors": "Elfituri S. Lahemer, Ahmad Rad",
+        "published": "2024-3-4",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, we present HoloSLAM which is a novel solution to landmark detection issues in the simultaneous localization and mapping (SLAM) problem in autonomous robot navigation. The approach integrates real and virtual worlds to create a novel mapping robotic environment employing a mixed-reality technique and a sensor, namely Microsoft HoloLens. The proposed methodology allows the robot to interact and communicate with its new environment in real-time and overcome the limitations of conventional landmark-based SLAMs by creating and placing some virtual landmarks in situations where real landmarks are scarce, non-existent, or hard to be detected. The proposed approach enhances the robot’s perception and navigation capabilities in various robot environments. The overall process contributes to the robot’s more accurate understanding of its environment; thus, enabling it to navigate with greater efficiency and effectiveness. In addition, the newly implemented HoloSLAM offers the option to guide the robot to a specific location eliminating the need for explicit navigation instructions. The open-source framework proposed in this paper can benefit the robotics community by providing a more reliable, realistic, and robust mapping solution. The experiments show that the Ellipsoidal-HoloSLAM system is accurate and effectively overcomes the limitations of conventional Ellipsoidal-SLAMs, providing a more precise and detailed mapping of the robot’s environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40747-024-01367-6"
+    },
+    {
+        "id": 32655,
+        "title": "An accelerated proximal gradient method for multiobjective optimization",
+        "authors": "Hiroki Tanabe, Ellen H. Fukuda, Nobuo Yamashita",
+        "published": "2023-11",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-023-00497-w"
+    },
+    {
+        "id": 32656,
+        "title": "Golden Ratio Proximal Gradient ADMM for Distributed Composite Convex Optimization",
+        "authors": "Chao Yin, Junfeng Yang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10957-023-02336-8"
+    },
+    {
+        "id": 32657,
+        "title": "Optimization of the proximal sealing in thoracic endovascular aortic repair (TEVAR)",
+        "authors": "Francesco Squizzato, Andrea Spertino, Franco Grego, Michele Antonello, Michele Piazza",
+        "published": "2023-7-28",
+        "citations": 0,
+        "abstract": "Thoracic endovascular aortic repair (TEVAR) today represents the first option for the treatment of most pathologies involving the descending thoracic aorta. Proximal endograft failure, which includes endograft migration or type IA endoleak, represents the most frequent complication during the mid-term and long-term period. Proximal sealing length is the single most important factor affecting the technical success and durability of TEVAR. Other factors related to aortic arch anatomy, fluid dynamics, type of endograft, or type of pathology, may influence the risk of proximal endograft failure, and should be considered during the endovascular planning of the proximal sealing length. This review summarizes the evidence on the factors affecting the risk of proximal endograft failure, and provides the rationale for the choice of the proximal sealing length during TEVAR, based on specific patients’ characteristics. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20517/2574-1209.2023.05"
+    },
+    {
+        "id": 32658,
+        "title": "Basic flight maneuver generation of fixed-wing plane based on proximal policy optimization",
+        "authors": "Lun Li, Xuebo Zhang, Chenxu Qian, Runhua Wang",
+        "published": "2023-5",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08232-6"
+    },
+    {
+        "id": 32659,
+        "title": "MODELLING THE PERFORMANCE OF SONAR ARRAYS IN COMPLEX, RANGE DEPENDENT ENVIRONMENTS",
+        "authors": "RJ BRIND",
+        "published": "2024-1-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/18749"
+    },
+    {
+        "id": 32660,
+        "title": "Systematic Proximal Optimization Technique During Bifurcation Stenting",
+        "authors": "Gennaro Giustino, Samin K. Sharma, Annapoorna Kini",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jcin.2024.01.071"
+    },
+    {
+        "id": 32661,
+        "title": "An inexact proximal linearized DC algorithm with provably terminating inner loop",
+        "authors": "Yi Zhang, Isao Yamada",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2024.2314241"
+    },
+    {
+        "id": 32662,
+        "title": "GAA-PPO: A novel graph adversarial attack method by incorporating proximal policy optimization",
+        "authors": "Shuxin Yang, Xiaoyang Chang, Guixiang Zhu, Jie Cao, Weiping Qin, Youquan Wang, Zhendong Wang",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126707"
+    },
+    {
+        "id": 32663,
+        "title": "General inertial proximal stochastic variance reduction gradient for nonconvex nonsmooth optimization",
+        "authors": "Shuya Sun, Lulu He",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "AbstractIn this paper, motivated by the competitive performance of the proximal stochastic variance reduction gradient (Prox-SVRG) method, a novel general inertial Prox-SVRG (GIProx-SVRG) algorithm is proposed for solving a class of nonconvex finite sum problems. More precisely, Nesterov’s momentum trick-based extrapolation accelerated step is incorporated into the framework of Prox-SVRG method. The GIProx-SVRG algorithm possesses more general accelerated expression and thus can potentially achieve accelerated convergence speed. Moreover, based on the supermartingale convergence theory and the error bound condition, we establish a linear convergence rate for the iterate sequence generated by the GIProx-SVRG algorithm. We observe that there is no theory in which the general extrapolation technique is incorporated into the Prox-SVRG method, whereas we establish such a theory in this paper. Experimental results demonstrate the superiority of our method over state-of-the-art methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s13660-023-02922-4"
+    },
+    {
+        "id": 32664,
+        "title": "A Visual SLAM Algorithm Based on Multi-Feature Optimization for Indoor Environments",
+        "authors": "Rongxin Zhou",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/ccc58697.2023.10240286"
+    },
+    {
+        "id": 32665,
+        "title": "Efficiency of Stochastic Coordinate Proximal Gradient Methods on Nonseparable Composite Optimization",
+        "authors": "Ion Necoara, Flavia Chorobura",
+        "published": "2024-4-16",
+        "citations": 0,
+        "abstract": " This paper deals with composite optimization problems having the objective function formed as the sum of two terms; one has a Lipschitz continuous gradient along random subspaces and may be nonconvex, and the second term is simple and differentiable but possibly nonconvex and nonseparable. Under these settings, we design a stochastic coordinate proximal gradient method that takes into account the nonseparable composite form of the objective function. This algorithm achieves scalability by constructing at each iteration a local approximation model of the whole nonseparable objective function along a random subspace with user-determined dimension. We outline efficient techniques for selecting the random subspace, yielding an implementation that has low cost per iteration, also achieving fast convergence rates. We present a probabilistic worst case complexity analysis for our stochastic coordinate proximal gradient method in convex and nonconvex settings; in particular, we prove high-probability bounds on the number of iterations before a given optimality is achieved. Extensive numerical results also confirm the efficiency of our algorithm.  Funding: This work was supported by Norway Grants 2014-2021 [Grant ELO-Hyp 24/2020]; Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii [Grants PN-III-P4-PCE-2021-0720, L2O-MOC, nr 70/2022]; and the ITN-ETN project TraDE-OPT funded by the European Union’s Horizon 2020 Research and Innovation Programme under the Marie Skłodowska-Curie grant agreement [Grant 861137]. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/moor.2023.0044"
+    },
+    {
+        "id": 32666,
+        "title": "The degenerate variable metric proximal point algorithm and adaptive stepsizes for primal–dual Douglas–Rachford",
+        "authors": "Dirk A. Lorenz, Jannis Marquardt, Emanuele Naldi",
+        "published": "2024-3-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/02331934.2024.2325552"
+    },
+    {
+        "id": 32667,
+        "title": "Proactive policy options for drought resilience in the Sahel region",
+        "authors": "Aboubakr Gambo Boukary, Issa Garba, Zakari Seybou Abdourahamane, Alisher Mirzabaev",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jaridenv.2023.105054"
+    },
+    {
+        "id": 32668,
+        "title": "Developing media literacy as complex learning in secondary schools: the effect of 4C/ID learning environments",
+        "authors": "Azam Hosseinzadeh, Morteza Karami, Mehrnaz Sadat Rezvanian, Mahmoud Saeidi Rezvani, Mohsen Noghani Dokht Bahmani, Jeroen Van Merriënboer",
+        "published": "2023-8-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10494820.2023.2244562"
+    },
+    {
+        "id": 32669,
+        "title": "Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes",
+        "authors": "Andrew Bennett, Nathan Kallus",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": " In applications of offline reinforcement learning to observational data, such as in healthcare or education, a general concern is that observed actions might be affected by unobserved factors, inducing confounding and biasing estimates derived assuming a perfect Markov decision process (MDP) model. In “Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes,” A. Bennett and N. Kallus tackle this by considering off-policy evaluation in a partially observed MDP (POMDP). Specifically, they consider estimating the value of a given target policy in an unknown POMDP, given observations of trajectories generated by a different and unknown policy, which may depend on the unobserved states. They consider both when the target policy value can be identified the observed data and, given identification, how best to estimate it. Both these problems are addressed by extending the framework of proximal causal inference to POMDP settings, using sequences of so-called bridge functions. This results in a novel framework for off-policy evaluation in POMDPs that they term proximal reinforcement learning, which they validate in various empirical settings. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2021.0781"
+    },
+    {
+        "id": 32670,
+        "title": "Modeling and Simulation of Cooperative Exploration Strategies in Unknown Environments",
+        "authors": "Yong Peng, Yue Hu, Chuan Ai",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/csms.2023.0014"
+    },
+    {
+        "id": 32671,
+        "title": "Impacts of urban living lab (ULL) on learning to design inclusive, sustainable, and climate-resilient urban environments",
+        "authors": "Yasemin Afacan",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.landusepol.2022.106443"
+    },
+    {
+        "id": 32672,
+        "title": "The creation of culturally responsive school environments in Ireland: Factors that assist in reducing the gap between policy and practice",
+        "authors": "Aron Foley, Daniel Faas, Merike Darmody",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": " Ireland’s cultural identity has transformed significantly in the past few decades as a result of large-scale inward migration. Consequently, the creation of culturally responsive school environments has become a major concern in policy discourses in recent years. Despite the prevalence of such discourses, research on the cultural responsiveness of the four major primary school types in Ireland, and what factors influence the gap between policy and practice across these school types has remained sparse. Addressing this lacuna in research, this exploratory multi-method study draws on data collected from teachers, principals, and parents. This study highlights several factors that assist students from culturally and religiously diverse backgrounds to develop a sense of school belonging and explores the challenges associated with implementing policies related to creating culturally responsive classrooms in Irish primary schools. This study holds international relevance as it highlights key factors facilitating schools’ response to the growing migration trend experienced throughout Europe. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/14782103241240806"
+    },
+    {
+        "id": 32673,
+        "title": "Navigating active Transit: How built environments shape commuting and leisure journeys",
+        "authors": "Ali Shkera, Vaishali Patankar",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cstp.2024.101161"
+    },
+    {
+        "id": 32674,
+        "title": "USING FINITE-DIFFERENCE TIME-DOMAIN METHODS TO MODEL SONAR DATA IN COMPLEX ENVIRONMENTS",
+        "authors": "GR ELSTON, JM BELL",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25144/19040"
+    },
+    {
+        "id": 32675,
+        "title": "Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications",
+        "authors": "Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, Linglingzhi Zhu",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00245-022-09957-x"
+    },
+    {
+        "id": 32676,
+        "title": "Optimization of Loudspeaker Design for Sound Reproduction in Acoustically Non-Treated Environments",
+        "authors": "Rastislav Ledaj, Marián Babjak",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/kit59097.2023.10297031"
+    },
+    {
+        "id": 32677,
+        "title": "Multi-objective Carbon-efficient Scheduling Optimization of Flexible Off-site Construction Supply Chain",
+        "authors": "He Zhou, Chao Mao",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47330/cbc.2023.jmju5173"
+    },
+    {
+        "id": 32678,
+        "title": "Proximal policy optimization algorithm for dynamic pricing with online reviews",
+        "authors": "Chao Wu, Wenjie Bi, Haiying Liu",
+        "published": "2023-3",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.119191"
+    },
+    {
+        "id": 32679,
+        "title": "Double Inertial Proximal Gradient Algorithms for Convex Optimization Problems and Applications",
+        "authors": "Kunrada Kankam, Prasit Cholamjiak",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10473-023-0326-x"
+    },
+    {
+        "id": 32680,
+        "title": "PANTR: A Proximal Algorithm With Trust-Region Updates for Nonconvex Constrained Optimization",
+        "authors": "Alexander Bodard, Pieter Pas, Panagiotis Patrinos",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3286331"
+    },
+    {
+        "id": 32681,
+        "title": "Research on Behavioral Decision at an Unsignalized Roundabout for Automatic Driving Based on Proximal Policy Optimization Algorithm",
+        "authors": "Jingpeng Gan, Jiancheng Zhang, Yuansheng Liu",
+        "published": "2024-3-29",
+        "citations": 0,
+        "abstract": "Unsignalized roundabouts have a significant impact on traffic flow and vehicle safety. To address the challenge of autonomous vehicles passing through roundabouts with low penetration, improve their efficiency, and ensure safety and stability, we propose the proximal policy optimization (PPO) algorithm to enhance decision-making behavior. We develop an optimization-based behavioral choice model for autonomous vehicles that incorporates gap acceptance theory and deep reinforcement learning using the PPO algorithm. Additionally, we employ the CoordConv network to establish an aerial view for spatial perception information gathering. Furthermore, a dynamic multi-objective reward mechanism is introduced to maximize the PPO algorithm’s reward pool function while quantifying environmental factors. Through simulation experiments, we demonstrate that our optimized PPO algorithm significantly improves training efficiency by enhancing the reward value function by 2.85%, 7.17%, and 19.58% in scenarios with 20, 100, and 200 social vehicles, respectively, compared to the PPO+CCMR algorithm. The effectiveness of simulation training also increases by 11.1%, 13.8%, and 7.4%. Moreover, there is a reduction in crossing time by 2.37%, 2.62%, and 13.96%. Our optimized PPO algorithm enhances path selection during autonomous vehicle simulation training as they tend to drive in the inner ring over time; however, the influence of social vehicles on path selection diminishes as their quantity increases. The safety of autonomous vehicles remains largely unaffected by our optimized PPO algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14072889"
+    },
+    {
+        "id": 32682,
+        "title": "Path Planning of Unmanned Aerial Vehicle in Complex Environments Based on State-Detection Twin Delayed Deep Deterministic Policy Gradient",
+        "authors": "Danyang Zhang, Zhaolong Xuan, Yang Zhang, Jiangyi Yao, Xi Li, Xiongwei Li",
+        "published": "2023-1-13",
+        "citations": 2,
+        "abstract": "This paper investigates the path planning problem of an unmanned aerial vehicle (UAV) for completing a raid mission through ultra-low altitude flight in complex environments. The UAV needs to avoid radar detection areas, low-altitude static obstacles, and low-altitude dynamic obstacles during the flight process. Due to the uncertainty of low-altitude dynamic obstacle movement, this can slow down the convergence of existing algorithm models and also reduce the mission success rate of UAVs. In order to solve this problem, this paper designs a state detection method to encode the environmental state of the UAV’s direction of travel and compress the environmental state space. In considering the continuity of the state space and action space, the SD-TD3 algorithm is proposed in combination with the double-delayed deep deterministic policy gradient algorithm (TD3), which can accelerate the training convergence speed and improve the obstacle avoidance capability of the algorithm model. Further, to address the sparse reward problem of traditional reinforcement learning, a heuristic dynamic reward function is designed to give real-time rewards and guide the UAV to complete the task. The simulation results show that the training results of the SD-TD3 algorithm converge faster than the TD3 algorithm, and the actual results of the converged model are better.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/machines11010108"
+    },
+    {
+        "id": 32683,
+        "title": "Fracture line and comminution zone characteristics, and rotator cuff footprint involvement in OTA/AO 11C3-type proximal humeral fractures: complex proximal humerus fracture map",
+        "authors": "Abdulhamit Misir, Sinan Oguzkaya, Turan Bilge Kizkapan, Gökay Eken, Sebati Baser Canbaz",
+        "published": "2023-6-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00402-023-04962-3"
+    },
+    {
+        "id": 32684,
+        "title": "Proximal Algorithms for Smoothed Online Convex Optimization With Predictions",
+        "authors": "Spandan Senapati, Ashwin Shenai, Ketan Rajawat",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tsp.2023.3306824"
+    },
+    {
+        "id": 32685,
+        "title": "Semi-Proximal Point Method for Nonsmooth Convex-Concave Minimax Optimization",
+        "authors": "Yuhong Dai, Jiani Wang null, Liwei Zhang",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4208/jcm.2301-m2022-0099"
+    },
+    {
+        "id": 32686,
+        "title": "Minimizing a complex quadratic fractional optimization problem with two second-order cone constraints",
+        "authors": "Arezu Zare",
+        "published": "2023-7-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11590-023-02044-2"
+    },
+    {
+        "id": 32687,
+        "title": "Design and Implementation of Proximal Planning and Control of an Unmanned Ground Vehicle to Operate in Dynamic Environments",
+        "authors": "Subhan Khan, Jose Guivant",
+        "published": "2023-2",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tiv.2022.3210000"
+    },
+    {
+        "id": 32688,
+        "title": "Artificial intelligence and resource optimization: A study of Fintech start-ups",
+        "authors": "Mohammed Almansour",
+        "published": "2023-1",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.resourpol.2022.103250"
+    },
+    {
+        "id": 32689,
+        "title": "Optimization of a Deep Reinforcement Learning Policy for Construction Manufacturing Control",
+        "authors": "Ian Flood, Xiaoyan Zhou",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012091400003546"
+    },
+    {
+        "id": 32690,
+        "title": "OUTCOME OF SHOULDER HEMIARTHROPLASTY FOR COMPLEX PROXIMAL HUMERAL FRACTURE IN VIETDUC UNIVERSITY HOSPITAL",
+        "authors": "Khanh Nguyen Manh, Hoc Nguyen Van, Bang Cao Dinh, Hoang Le Xuan",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "ABSTRACTS: Translational Study Introduction: The proximal humeral fracture accounts for 4-5% of all fractures1 and traffic accidents are often the main cause of this injury in Vietnam. Shoulder hemiarthroplasty is a suitable option in treating a complex proximal humeral fracture, especially in the elderly, and improves quality of life. This study describes clinical and radiographic characteristics of complex proximal humerus fractures and evaluates the results of shoulder hemiarthroplasty for this type of fracture at Viet Duc University Hospital Materials and methods: A retrospective study of 78 cases with complex proximal humeral fractures underwent shoulder hemiarthroplasty in Viet Duc University Hospital from January 2017 to December 2021. Results: Traffic accidents (42 cases, 53.8%); daily-life accidents (34 cases, 43.6%), other causes were less common (2 cases, 2.6%). 74.4% of the patients had no pain, 17.4% mild pain, 7.7% moderate pain, and no patients suffered from severe pain that required regular narcotic analgesics. The mean postoperative Constant score was 67.45 ± 13.20. Conclusion: In Viet Nam, the most common cause of injury was a traffic accident, primarily occurring in young males with complex proximal humerus fractures, shoulder hemiarthroplasty for complex proximal humerus fractures improves postoperative pain and shoulder function. Keywords: Complex proximal humeral fracture, shoulder hemiarthroplasty, Viet Nam",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52965/001c.115587"
+    },
+    {
+        "id": 32691,
+        "title": "Industrial policy environments and the flourishing of African multinational enterprises",
+        "authors": "Baniyelme D. Zoogah, William Y. Degbey, Maria Elo",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "AbstractResearch on African organizations has focused on the influence of environmental factors in organizational effectiveness. However, increasing concerns about challenges in Africa and how they negatively affect organizational outcomes have necessitated leveraging the “positive turn” of organizational scholarship to advance a perspective of how industrial policies can permit Africa-originated multinational enterprises (A-MNEs) to flourish. We propose a multilevel model in which the industrial policy environment comprised of agency and policy development positively impacts A-MNE flourishing, a composite index of human, environmental, and economic flourishing. This relationship is mediated by industrial policies – labor, trade, infrastructure, and resources – and moderated by policy fit, relevance, and timeliness. Overall, we shift the old paradigm of organizational outcomes represented by organizational effectiveness to a new paradigm represented by organizational flourishing. This new paradigm seems more appropriate for Africa, which is bedeviled by unusual challenges that limit effectiveness. We discuss empirical testing of the model and implications for managers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1057/s42214-023-00171-2"
+    },
+    {
+        "id": 32692,
+        "title": "Transitional Market Dynamics in Complex Environments",
+        "authors": "C. Lanier Benkard, Przemyslaw Jeziorski, Gabriel Y. Weintraub",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4712504"
+    },
+    {
+        "id": 32693,
+        "title": "Automated algorithm design using proximal policy optimisation with identified features",
+        "authors": "Wenjie Yi, Rong Qu, Licheng Jiao",
+        "published": "2023-4",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.119461"
+    },
+    {
+        "id": 32694,
+        "title": "Generalized proximal point algorithms with correction terms and extrapolation",
+        "authors": "Yonghong Yao, Olaniyi Samuel Iyiola, Yekini Shehu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/jimo.2023160"
+    },
+    {
+        "id": 32695,
+        "title": "Inexact proximal Newton methods in Hilbert spaces",
+        "authors": "Bastian Pötzl, Anton Schiela, Patrick Jaap",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "AbstractWe consider proximal Newton methods with an inexact computation of update steps. To this end, we introduce two inexactness criteria which characterize sufficient accuracy of these update step and with the aid of these investigate global convergence and local acceleration of our method. The inexactness criteria are designed to be adequate for the Hilbert space framework we find ourselves in while traditional inexactness criteria from smooth Newton or finite dimensional proximal Newton methods appear to be inefficient in this scenario. The performance of the method and its gain in effectiveness in contrast to the exact case are showcased considering a simple model problem in function space.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-023-00515-x"
+    },
+    {
+        "id": 32696,
+        "title": "New Outer Proximal Methods for Solving Variational Inequality Problems",
+        "authors": "Pham Ngoc Anh",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10957-023-02202-7"
+    },
+    {
+        "id": 32697,
+        "title": "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization",
+        "authors": "Jingwang Li, Qing An, Housheng Su",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.amc.2022.127801"
+    },
+    {
+        "id": 32698,
+        "title": "A Comprehensive Physiotherapeutic Intervention for Complex Proximal Tibia Fracture With Ilizarov Fixator and Foot Drop in 18-Year-Old Adult: A Case Report",
+        "authors": "Anam F Pathan, Subrat Samal",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7759/cureus.58355"
+    },
+    {
+        "id": 32699,
+        "title": "Navigating Turbulent Environments: Exploring Resilience in SMEs through Complex Adaptive Systems Perspective",
+        "authors": "Balkiz Yapicioglu",
+        "published": "2023-6-5",
+        "citations": 0,
+        "abstract": "This study seeks to explore how owner–managers of small and medium-sized enterprises navigate a constantly changing and turbulent environment following a traumatic experience and how they build resilience in their organizations by drawing upon memories through a complex adaptive system lens. Specifically, this study investigates the major factors shaping the management strategies of SMEs operating in the infrastructure construction sector in North Cyprus, where foreign aid/the patron country is the primary source of financing and therefore the major driver of strategies. To gather primary data, semistructured interviews were conducted with owner–managers of grade 1 construction SMEs, who can participate in internationally financed public projects. A qualitative approach using thematic analysis was adopted, and findings indicate that the most influential factor shaping the management strategies of SMEs in North Cyprus is the macro characteristics of the sociopolitical environment. These characteristics evoke memories for owner–managers and lead to a dissipative approach towards managing their SMEs, creating resilience in the face of North Cyprus’ ever-changing political environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15119118"
+    },
+    {
+        "id": 32700,
+        "title": "Isolating Terminology Layers in Complex Linguistic Environments: A Study about Waste Management",
+        "authors": "Nicola Cirillo",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "Automatic term extraction aims at extracting terminological units from specialized corpora to assist terminographers in developing glossaries, thesauri, and termbases. Unfortunately, traditional methods often overlook the complex relation between terminologies of different subject fields that co-occur in a single specialized corpus. This study illustrates Domain Concept Relatedness, a novel term extraction technique meant to isolate the terminology of a given subject field. We test our technique against the term extraction tool of Sketch Engine and the contrastive approach by applying them to the extraction of waste management terms from a new Italian corpus about waste management legislation. The results show that Domain Concept Relatedness effectively extracts multi-word terms belonging to a given subject field but still fails to extract single-word terms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/languages9030068"
+    },
+    {
+        "id": 32701,
+        "title": "An inexact regularized proximal Newton method for nonconvex and nonsmooth optimization",
+        "authors": "Ruyu Liu, Shaohua Pan, Yuqia Wu, Xiaoqi Yang",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "AbstractThis paper focuses on the minimization of a sum of a twice continuously differentiable function f and a nonsmooth convex function. An inexact regularized proximal Newton method is proposed by an approximation to the Hessian of f involving the $$\\varrho $$\nϱ\nth power of the KKT residual. For $$\\varrho =0$$\n\nϱ\n=\n0\n\n, we justify the global convergence of the iterate sequence for the KL objective function and its R-linear convergence rate for the KL objective function of exponent 1/2. For $$\\varrho \\in (0,1)$$\n\nϱ\n∈\n(\n0\n,\n1\n)\n\n, by assuming that cluster points satisfy a locally Hölderian error bound of order q on a second-order stationary point set and a local error bound of order $$q>1\\!+\\!\\varrho $$\n\nq\n>\n1\n\n+\n\nϱ\n\n on the common stationary point set, respectively, we establish the global convergence of the iterate sequence and its superlinear convergence rate with order depending on q and $$\\varrho $$\nϱ\n. A dual semismooth Newton augmented Lagrangian method is also developed for seeking an inexact minimizer of subproblems. Numerical comparisons with two state-of-the-art methods on $$\\ell _1$$\n\nℓ\n1\n\n-regularized Student’s t-regressions, group penalized Student’s t-regressions, and nonconvex image restoration confirm the efficiency of the proposed method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10589-024-00560-0"
+    },
+    {
+        "id": 32702,
+        "title": "The complex interplay of causal narratives in public policy and political discourse",
+        "authors": "Kwangseon Hwang",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "The study builds on Deborah Stone’s foundational work exploring the mechanics of causal narratives and their implications for framing problems, assigning responsibility, and guiding policy solutions. The purpose of this research is to unravel the complexities of causal narratives in contemporary politics and understand their profound influence on public policy and society at large. In the digital age, where information is abundant and the traditional gatekeeping role of media has diminished, causal narratives have become increasingly multifaceted. The study aims to explore how these narratives, influenced by the intersections of natural phenomena, human actions, politics, risk, and media, shape public understanding and policy directions. The study employs an extensive review of existing literature, covering works from political science, media studies, and public policy. This includes analyzing seminal texts like Deborah Stone’s “Policy Paradox” and recent studies on media’s evolving role in political discourse. Today’s causal narratives are multifaceted, influenced by a myriad of factors including political agendas, scientific findings, and media portrayals. In conclusion, the research highlights the dynamic nature of causal narratives in the digital age and their significant impact on public policy and societal outcomes. It underscores the need for nuanced understanding and strategic approaches in crafting and interpreting these narratives.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24294/jipd.v8i2.3079"
+    },
+    {
+        "id": 32703,
+        "title": "Proximal urethrostomy (PU) versus urethroplasty (U) for complex urethral strictures (CUS)",
+        "authors": "N. Rahav, M. Udah, S. Cohen, B. Chertin, O.Z. Shenfeld",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/s0302-2838(23)00493-1"
+    },
+    {
+        "id": 32704,
+        "title": "Radar-Based Multiple Target Classification in Complex Environments Using 1D-CNN Models",
+        "authors": "Muhammet Emin Yanik, Sandeep Rao",
+        "published": "2023-5-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/radarconf2351548.2023.10149609"
+    }
+]

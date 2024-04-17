@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 17705,
+        "title": "UTILIZING DEEP LEARNING AND DATA AUGMENTATION FOR EARLY DETECTION OF EYE DISEASES IN PETS",
+        "authors": "Nilgün ŞENGÖZ",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "This paper presents a deep learning algorithm for the diagnosis of eye diseases, which is taken from cats and dogs, using data augmentation. The database of eye images was collected from cell phone cameras, and with data augmentation techniques were used to increase the number of samples. The performance of the algorithms was evaluated on the original dataset of 146 diseased and 255 healthy images. The results showed that the VGG16 algorithm achieved a classification accuracy of 99.25% before data augmentation, which was significantly higher than the accuracy of existing methods. Furthermore, after the data augmentation again VGG16 model has significant performance metrics that are 99.9% than other algorithms. The proposed algorithm can be used to accurately diagnose various eye diseases, which can potentially improve the quality of care for patients.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47933/ijeir.1227798"
+    },
+    {
+        "id": 17706,
+        "title": "Data augmentation based face anti-spoofing (FAS) scheme using deep learning techniques",
+        "authors": "Kasetty Lakshminarasimha, V. Ponniyin Selvan",
+        "published": "2023-11-4",
+        "citations": 0,
+        "abstract": "Recent years have seen a rise in interest in face anti-spoofing (FAS) owing to the critical function it plays in protecting face recognition systems against presentation assaults (PAs). Early-stage FAS approaches relying on handmade characteristics become inaccurate when steadily realistic PAs of unique sorts emerge. Thus, face anti-spoofing algorithms are gaining increasing relevance in such setups. A very innovative method called deep learning has shown remarkable success in difficult computer vision problems. The proposed method uses deep acquisition and transfer of learning to extract characteristics from people’s faces. This is why the authors of this study recommend using the Faster RCNN classifier with a face-liveness detection approach. Two distinct components— the data augmentation module for assessing sparse information as well as the faster RCNN classifier module— make up the anti-spoofing approach. We may use any publicly accessible dataset to train our quicker RCNN classifier. We successively fused these two components and used the Android platform to create a basic face recognition app. The results of the tests demonstrate that the developed module can identify several types of face spoof assaults, such as those carried out with the use of posters, masks, or cell phones. Testing the proposed architecture both across and inside databases using three benchmarking (Idiap Replay Attack, CASIA- FASD, & 3DMAD) demonstrate its ability to deliver outcomes on par with cutting-edge techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-233394"
+    },
+    {
+        "id": 17707,
+        "title": "Detecting Pneumonia with a Deep Learning Model and Random Data Augmentation Techniques",
+        "authors": "Tawfik Guesmi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14569/ijacsa.2023.01405122"
+    },
+    {
+        "id": 17708,
+        "title": "Revitalizing Arabic Character Classification: Unleashing the Power of Deep Learning with Transfer Learning and Data Augmentation Techniques",
+        "authors": "Marwa Amara, Nadia Smairi, Sami Mnasri, Abdelmalek Zidouri",
+        "published": "2024-3-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-024-08818-9"
+    },
+    {
+        "id": 17709,
+        "title": "Data augmentation techniques based on deep learning for Chinese paintings",
+        "authors": "Xinquan Luo, Qingchen Nie, Yinghui Wang, Zhuwen Zhao",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3008104"
+    },
+    {
+        "id": 17710,
+        "title": "The Impact of Data Augmentation Techniques on the Recognition of Script Images in Deep Learning Models",
+        "authors": "Wulan Sapitri, Yesi Novaria Kunang, Ilman Zuhri Yadi, Mahmud Mahmud",
+        "published": "2023-12-28",
+        "citations": 0,
+        "abstract": "Deep learning technology is widely used for recognizing character images, including various regional characters and diverse ancient scripts. Deep learning models require large data sets to recognize images accurately. However, creating a dataset has limitations in terms of quantity, including the Komering script dataset used in this study. Data augmentation techniques can be applied to expand the dataset by modifying existing images to increase data diversity. This study aims to investigate the impact of augmentation techniques on the performance of deep learning models in the case of Komering script recognition. The dataset consists of 500 images for five classes of Komering script characters. Three augmentation techniques, namely random rotation, height shift, and width shift, were applied to the five characters, which were then used to test the model trained to recognize characters in the Komering dataset. This research contributes to providing insights into the effect of augmentation techniques on robust confidence prediction of deep learning models for recognizing newly augmented data. The results demonstrate that the deep learning model can recognize modified data using augmentation techniques with an average accuracy of 80.05%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15575/join.v8i2.1073"
+    },
+    {
+        "id": 17711,
+        "title": "Deep Learning: A Detailed Analysis Of Various Image Augmentation Techniques",
+        "authors": "S. Swathi, M. Rajalakshmi, Vijayalakshmi Senniappan",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnwc57852.2023.10127343"
+    },
+    {
+        "id": 17712,
+        "title": "Abnormal Behavior Detection in Online Exams Using Deep Learning and Data Augmentation Techniques",
+        "authors": "Muhanad Abdul Elah Alkhalisy, Saad Hameed Abid",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "Massive open online courses (MOOCs) and other forms of distance learning have gained popularity in recent years. The success of remote online exam proctoring determines the integrity of the exam. Deep-learning-powered proctoring services have also grown in popularity. A large number of samples are needed for deep-learning training. The network’s generalization ability is poor due to insufficient training data or an uneven lack of variation. This study illustrates how to analyze students’ anomalous behavior by utilizing a YOLOv5 deep model trained using newly produced dataset. To overcome insufficient training data for deep-learning-related issues, this paper proposes a data-augmentation method based on semantic segmentation. The MobileNetV3 model was used to get an image semantic segmentation mask, which was used to get a binary mask, which in turn was used to replace the image background by using conditional subtraction with randomly selected background images. Finally, randomly pixel-based color augmentation was added to the resulting image. The behavioral detection model used in this study achieved 0.98 mean average precision (mAP) on the produced dataset, showing acceptable detection precision. The experimental findings indicate that the suggested augmentation method improves behavioral detection precision by more than 0.3%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3991/ijoe.v19i10.39583"
+    },
+    {
+        "id": 17713,
+        "title": "Finding the Most Effective Data Augmentation Techniques on Brain MRI Data Using Deep Networks",
+        "authors": "Nishank Raisinghani, Mason McGill",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "In 2020, over 250,000 people died from brain and Central Nervous System (CNS) tumors. Brain tumors account for around 85% or more of these. As of 2021, over 16 million people in the United States have been diagnosed with some type of cognitive impairment. The goal of this paper is to find the most effective set of data augmentations to correctly classify cognitive diseases with deep networks, using structural Magnetic Resonance Imaging (MRI) data. This paper demonstrates a Greedy optimization technique to find the most effective sequence of data augmentations out of blurring, distortion, position, and red noise (an overlay augmentation displaying random clouds of noise on the images). We sought to classify 3 tumors: glioma tumors, pituitary tumors, and meningioma tumors, as well as detect if there was no tumor at all. We also classified 3 stages of Alzheimer's disease: not demented, very mildly demented, and mildly demented, to further demonstrate the effectiveness of the data augmentation sequence.  ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47611/jsrhs.v12i1.3910"
+    },
+    {
+        "id": 17714,
+        "title": "HYBRID DEEP LEARNING WITH MULTIMODAL DATA AUGMENTATION FOR RIVERBANK TREE RING CLASSIFICATION",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.35741/issn.0258-2724.58.3.27"
+    },
+    {
+        "id": 17715,
+        "title": "Data Augmentation for Bayesian Deep Learning",
+        "authors": "Yuexi Wang, Nicholas Polson, Vadim O. Sokolov",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/22-ba1331"
+    },
+    {
+        "id": 17716,
+        "title": "Supporting Malaria Diagnosis Using Deep Learning and Data Augmentation",
+        "authors": "Kenia Hoyos, William Hoyos",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "Malaria is an infection caused by the Plasmodium parasite that has a major epidemiological, social, and economic impact worldwide. Conventional diagnosis of the disease is based on microscopic examination of thick blood smears. This analysis can be time-consuming, which is key to generate prevention strategies and adequate treatment to avoid the complications associated with the disease. To address this problem, we propose a deep learning-based approach to detect not only malaria parasites but also leukocytes to perform parasite/μL blood count. We used positive and negative images with parasites and leukocytes. We performed data augmentation to increase the size of the dataset. The YOLOv8 algorithm was used for model training and using the counting formula the parasites were counted. The results showed the ability of the model to detect parasites and leukocytes with 95% and 98% accuracy, respectively. The time spent by the model to report parasitemia is significantly less than the time spent by malaria experts. This type of system would be supportive for areas with poor access to health care. We recommend validation of such approaches on a large scale in health institutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics14070690"
+    },
+    {
+        "id": 17717,
+        "title": "BERT-Based Hybrid Deep Learning with Text Augmentation for Sentiment Analysis of Indonesian Hotel Reviews",
+        "authors": "Maxwell Thomson, Hendri Murfi, Gianinna Ardaneswari",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012127400003541"
+    },
+    {
+        "id": 17718,
+        "title": "Detection of False Data Injection Attacks in Smart-Grid Systems: Benchmarking Deep Learning Techniques",
+        "authors": "",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "In essence, smart grids are electrical networks that transmit and distribute electricity in a reliable, effective manner using information and communication technology (ICT). Trust and security are of the utmost importance. False data injection (FDI) attacks are one of the most serious new security problems, and they can drastically raise the price of the energy distribution process. However, rather than smart grid infrastructures, the majority of current research focuses on FDI defenses for conventional electricity networks. By utilizing spatial-temporal correlations between grid components, we create an effective and real-time technique to identify FDI attacks in smart grids called a deep learning framework. We show that the suggested method offers an accurate and dependable solution using realistic simulations based on the smart grid compared to the benchmarked techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/jeee.02.01.05"
+    },
+    {
+        "id": 17719,
+        "title": "Deep-Learning-Based Human Chromosome Classification: Data Augmentation and Ensemble",
+        "authors": "Mattia D’Angelo, Loris Nanni",
+        "published": "2023-7-9",
+        "citations": 1,
+        "abstract": "Object classification is a crucial task in deep learning, which involves the identification and categorization of objects in images or videos. Although humans can easily recognize common objects, such as cars, animals, or plants, performing this task on a large scale can be time-consuming and error-prone. Therefore, automating this process using neural networks can save time and effort while achieving higher accuracy. Our study focuses on the classification step of human chromosome karyotyping, an important medical procedure that helps diagnose genetic disorders. Traditionally, this task is performed manually by expert cytologists, which is a time-consuming process that requires specialized medical skills. Therefore, automating it through deep learning can be immensely useful. To accomplish this, we implemented and adapted existing preprocessing and data augmentation techniques to prepare the chromosome images for classification. We used ResNet-50 convolutional neural network and Swin Transformer, coupled with an ensemble approach to classify the chromosomes, obtaining state-of-the-art performance in the tested dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14070389"
+    },
+    {
+        "id": 17720,
+        "title": "Concrete Crack Detection Using Multi-Source Data Augmentation in Deep Learning Models",
+        "authors": "Daniel Einarson, Dawit Mengistu",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acdsa59508.2024.10467321"
+    },
+    {
+        "id": 17721,
+        "title": "Predicting Generalization in Deep Learning Using Data Augmentation and posterior Probability Estimators",
+        "authors": "Parisa Ghane, Ulisses Braga-Neto",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285901"
+    },
+    {
+        "id": 17722,
+        "title": "Enhancing Fraud Detection in Transactive Energy Markets: Investigating the Impact of Data Augmentation on the Performance of Machine Learning and Deep Learning Techniques",
+        "authors": "Fatemeh Afzoon, Hossein Shahinzadeh, Majid Moazzami, Wahiba Yaïci, Ali Karimi, Farshad Ebrahimi",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icon-sonics59898.2023.10435147"
+    },
+    {
+        "id": 17723,
+        "title": "Deep Learning-Based Alzheimer's Disease Classification using Transfer Learning and Data Augmentation",
+        "authors": "Deva Anand, P. Sheela Gowr, S. Logesh, S. M. Anand",
+        "published": "2023-6-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conit59222.2023.10205760"
+    },
+    {
+        "id": 17724,
+        "title": "A Comprehensive Survey of Image Augmentation Techniques for Deep Learning",
+        "authors": "Mingle Xu, Sook Yoon, Alvaro Fuentes, Dong Sun Park",
+        "published": "2023-5",
+        "citations": 116,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.109347"
+    },
+    {
+        "id": 17725,
+        "title": "Research on data augmentation algorithm for time series based on deep learning",
+        "authors": "",
+        "published": "2023-6-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3837/tiis.2023.06.002"
+    },
+    {
+        "id": 17726,
+        "title": "Efficient Augmentation for Imbalanced Deep Learning",
+        "authors": "Damien A. Dablain, Colin Bellinger, Bartosz Krawczyk, Nitesh V. Chawla",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icde55515.2023.00114"
+    },
+    {
+        "id": 17727,
+        "title": "DL-SCA: An deep learning based approach for intra-class CutMix data augmentation",
+        "authors": "Weiguang Liu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.phycom.2024.102288"
+    },
+    {
+        "id": 17728,
+        "title": "Deep Learning-Based Fish Classification with Data Augmentation",
+        "authors": "You-Wei Wu, Dong-Lin Li",
+        "published": "2023-9-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmail59311.2023.10347550"
+    },
+    {
+        "id": 17729,
+        "title": "Boosting Deep Reinforcement Learning Agents with Generative Data Augmentation",
+        "authors": "Tasos Papagiannis, Georgios Alexandridis, Andreas Stafylopatis",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "Data augmentation is a promising technique in improving exploration and convergence speed in deep reinforcement learning methodologies. In this work, we propose a data augmentation framework based on generative models for creating completely novel states and increasing diversity. For this purpose, a diffusion model is used to generate artificial states (learning the distribution of original, collected states), while an additional model is trained to predict the action executed between two consecutive states. These models are combined to create synthetic data for cases of high and low immediate rewards, which are encountered less frequently during the agent’s interaction with the environment. During the training process, the synthetic samples are mixed with the actually observed data in order to speed up agent learning. The proposed methodology is tested on the Atari 2600 framework, producing realistic and diverse synthetic data which improve training in most cases. Specifically, the agent is evaluated on three heterogeneous games, achieving a reward increase of up to 31%, although the results indicate performance variance among the different environments. The augmentation models are independent of the learning process and can be integrated to different algorithms, as well as different environments, with slight adaptations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14010330"
+    },
+    {
+        "id": 17730,
+        "title": "Deep Learning based Data Augmentation for Restoring SAR Images",
+        "authors": "Hossein Aghababaei, Giampaolo Ferraioli, Sergio Vitale",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10282265"
+    },
+    {
+        "id": 17731,
+        "title": "Deep Generative Models for Data Synthesis and Augmentation in Machine Learning",
+        "authors": " Kiran Mayee Adavala",
+        "published": "2024-4-4",
+        "citations": 0,
+        "abstract": "The increasing trend in deep generative modelling, which offers data scarcity and diversity solutions in machine learning, is one of the most recent developments in the field. The data-oriented approaches drive the need for the quality and variety of data sets that could be prevented due to privacy issues and limited resources. Generative deep models, basically GANs (Generative Adversarial Networks) and VAEs (Variational Automatic Encoders), appear to be the most reliable approach to the synthesis and augmentation of the data. These models employ deep learning to basically learn all by itself from raw data without anyone teaching it, which is the basis of modern artificial intelligence. Accuracy issues between overfitting and poor generalization emphasize the need for smart solutions to the problem of data shortness. Deep generative modelling works based on the data distribution, which the model learns by itself and enables a realistic sample generator. The study reviews the proficiency and complexity of GANs, VAEs, and WGANs, comparing the WGANs' capabilities with the former two. Techniques of data augmentation, e.g., repositioning, rotation, and adding Gaussian noise to the dataset, will greatly increase the diversity of the data. Regardless of the training time, all models showcase competitive inference performance and, as a result, may be satisfactorily used in real-time operations. The insights obtained shed light on ways to improve machine learning and artificial intelligence through brain data synthesis, model training, and computational efficiency.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.1435"
+    },
+    {
+        "id": 17732,
+        "title": "A vehicle classification method based on deep learning and data augmentation",
+        "authors": "Kaiyan Zhang, Xinglong Feng",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2678655"
+    },
+    {
+        "id": 17733,
+        "title": "Deep Active Learning Based on Saliency-Guided Data Augmentation for Image Classification",
+        "authors": "Ying Liu, Yuliang Pang, Weidong Zhang",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222582"
+    },
+    {
+        "id": 17734,
+        "title": "Significance of Data Augmentation in Identifying Plant Diseases using Deep Learning",
+        "authors": "T Bhargavi, D Sumathi",
+        "published": "2023-1-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icssit55814.2023.10061007"
+    },
+    {
+        "id": 17735,
+        "title": "Face Blending Data Augmentation for Enhancing Deep Classification",
+        "authors": "Emna Ghorbel, Ghada Maddouri, Faouzi Ghorbel",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012357900003654"
+    },
+    {
+        "id": 17736,
+        "title": "Deep Learning Recurrent Attention Optical Character Recognition Network with Data Augmentation for Cheque Data Extraction",
+        "authors": "Hitesh Chaitanyaswami, Ashwin Dobariya",
+        "published": "2023-6-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ic2e357697.2023.10262478"
+    },
+    {
+        "id": 17737,
+        "title": "An Exploration of Data Augmentation Techniques in Ensemble Learning for Medical Image Segmentation with Transfer Learning",
+        "authors": "Swati Singh, Namit Gupta, Febin Prakash",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470508"
+    },
+    {
+        "id": 17738,
+        "title": "Deep Learning AD Detection Model based on a Two-Layer Ensemble Module with Data Augmentation and Contrastive Learning",
+        "authors": "Weicheng Wang",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3590003.3590061"
+    },
+    {
+        "id": 17739,
+        "title": "Semantic Data Augmentation for Deep Learning Testing Using Generative AI",
+        "authors": "Sondess Missaoui, Simos Gerasimou, Nicholas Matragkas",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ase56229.2023.00194"
+    },
+    {
+        "id": 17740,
+        "title": "Smart Surveillance: A Review &amp; Survey Through Deep Learning Techniques for Detection &amp; Analysis",
+        "authors": "",
+        "published": "2023-10-5",
+        "citations": 0,
+        "abstract": "Big data applications are consuming most of the space in industry and research area. Among the widespread examples of big data, the role of video streams from CCTV cameras is equally important as other sources like social media data, sensor data, agriculture data, medical data and data evolved from space research. Surveillance videos have a major contribution in unstructured big data. CCTV cameras are implemented in all places where security having much importance. Manual surveillance seems tedious and time consuming. Security can be defending in different terms in different contexts like theft identification, violence detection, chances of explosion etc. In crowded public places the term security covers almost all type of abnormal events. Among them violence detection is difficult to handle since it involves group activity. The anomalous or abnormal activity analysis in a crowd video scene is very difficult due to several real world constraints. The paper includes a deep rooted survey which starts from object recognition, action recognition, crowd analysis and finally violence detection in a crowd environment. Majority of the papers reviewed in this survey are based on deep learning technique. Various deep learning methods are compared in terms of their algorithms and models. The main focus of this survey is application of deep learning techniques in detecting the exact count, involved persons and the happened activity in a large crowd at all climate conditions. Paper discusses the underlying deep learning implementation technology involved in various crowd video analysis methods. Real time processing, an important issue which is yet to be explored more in this field is also considered. Not many methods are there in handling all these issues simultaneously. The issues recognized in existing methods are identified and summarized. Also, future direction is given to reduce the obstacles identified. The survey provides a bibliographic summary of papers from Science-direct, IEEE Xplore and ACM digital library.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/jsndc.03.01.05"
+    },
+    {
+        "id": 17741,
+        "title": "Analyzing the Impact of Augmentation Techniques on Deep Learning Models for Deceptive Review Detection: A Comparative Study",
+        "authors": "Anusuya KRİSHNAN, Kennedyraj MARİAFRANCİS",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "Deep Learning has brought forth captivating applications, and among them, Natural Language Processing (NLP) stands out. This study delves into the role of the data augmentation training strategy in advancing NLP. Data augmentation involves the creation of synthetic training data through transformations, and it is a well-explored research area across various machine learning domains. Apart from enhancing a model's generalization capabilities, data augmentation addresses a wide range of challenges, such as limited training data, regularization of the learning objective, and privacy protection by limiting data usage. The objective of this study is to investigate how data augmentation improves model accuracy and precise predictions, specifically using deep learning-based models. Furthermore, the study conducts a comparative analysis between deep learning models without data augmentation and those with data augmentation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54569/aair.1329048"
+    },
+    {
+        "id": 17742,
+        "title": "SAR Image Classification of Vessel Based on Data Augmentation and Deep Learning",
+        "authors": "Weiming Zhu, Zhangsong Shi, Wenjian Ying",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241440"
+    },
+    {
+        "id": 17743,
+        "title": "Deep Learning-based Test Data Augmentation Technology",
+        "authors": "Xiangwei Kong, Haidong Wu, Huiyang Hu",
+        "published": "2023-10-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cisp-bmei60920.2023.10373379"
+    },
+    {
+        "id": 17744,
+        "title": "Temporal and spatial satellite data augmentation for deep learning-based rainfall nowcasting",
+        "authors": "Özlem Baydaroğlu, Ibrahim Demir",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nThe significance of improving rainfall prediction methods has escalated due to climate change-induced flash floods and severe flooding. In this study, rainfall nowcasting has been studied utilizing NASA Giovanni satellite-derived precipitation products and the convolutional long short-term memory (ConvLSTM) approach. The goal of the study is to assess the impact of data augmentation on flood nowcasting. Due to data requirements of deep learning-based prediction methods, data augmentation is performed using eight different interpolation techniques. Spatial, temporal, and spatio-temporal interpolated rainfall data are used to conduct a comparative analysis of the results obtained through nowcasting rainfall. This research examines two catastrophic floods that transpired in Türkiye Marmara Region in 2009 and the Central Black Sea Region in 2021, which are selected as the focal case studies. The Marmara and Black Sea regions are prone to frequent flooding, which, due to the dense population, has devastating consequences. Furthermore, these regions exhibit distinct topographical characteristics and precipitation patterns, and the frontal systems that impact them are also dissimilar. The nowcast results for the two regions exhibit a significant difference. Although data augmentation significantly reduced the error values by 59% for one region, it did not yield the same effectiveness for the other region.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2166/hydro.2024.235"
+    },
+    {
+        "id": 17745,
+        "title": "Enhancing Human Action Recognition with 3D Skeleton Data: A Comprehensive Study of Deep Learning and Data Augmentation",
+        "authors": "Chu Xin, Seokhwan Kim, Yongjoo Cho, Kyoung Shin Park",
+        "published": "2024-2-13",
+        "citations": 0,
+        "abstract": "Human Action Recognition (HAR) is an important field that identifies human behavior through sensor data. Three-dimensional human skeleton data extracted from the Kinect depth sensor have emerged as a powerful alternative to mitigate the effects of lighting and occlusion of traditional 2D RGB or grayscale image-based HAR. Data augmentation is a key technique to enhance model generalization and robustness in deep learning while suppressing overfitting to training data. In this paper, we conduct a comprehensive study of various data augmentation techniques specific to skeletal data, which aim to improve the accuracy of deep learning models. These augmentation methods include spatial augmentation, which generates augmented samples from the original 3D skeleton sequence, and temporal augmentation, which is designed to capture subtle temporal changes in motion. The evaluation covers two publicly available datasets and a proprietary dataset and employs three neural network models. The results highlight the impact of temporal augmentation on model performance on the skeleton datasets, while exhibiting the nuanced impact of spatial augmentation. The findings underscore the importance of tailoring augmentation strategies to specific dataset characteristics and actions, providing novel perspectives for model selection in skeleton-based human action recognition tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13040747"
+    },
+    {
+        "id": 17746,
+        "title": "Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review",
+        "authors": "Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Su Ruan",
+        "published": "2023-4-13",
+        "citations": 23,
+        "abstract": "Deep learning has become a popular tool for medical image analysis, but the limited availability of training data remains a major challenge, particularly in the medical field where data acquisition can be costly and subject to privacy regulations. Data augmentation techniques offer a solution by artificially increasing the number of training samples, but these techniques often produce limited and unconvincing results. To address this issue, a growing number of studies have proposed the use of deep generative models to generate more realistic and diverse data that conform to the true distribution of the data. In this review, we focus on three types of deep generative models for medical image augmentation: variational autoencoders, generative adversarial networks, and diffusion models. We provide an overview of the current state of the art in each of these models and discuss their potential for use in different downstream tasks in medical imaging, including classification, segmentation, and cross-modal translation. We also evaluate the strengths and limitations of each model and suggest directions for future research in this field. Our goal is to provide a comprehensive review about the use of deep generative models for medical image augmentation and to highlight the potential of these models for improving the performance of deep learning algorithms in medical image analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/jimaging9040081"
+    },
+    {
+        "id": 17747,
+        "title": "Combining data augmentation and deep learning for improved epilepsy detection",
+        "authors": "Yandong Ru, Zheng Wei, Gaoyang An, Hongming Chen",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "IntroductionIn recent years, the use of EEG signals for seizure detection has gained widespread academic attention. Aiming at the problem of overfitting deep learning models due to the small number of EEG signal data during epilepsy detection, this paper proposes an epilepsy detection method that combines data augmentation and deep learning.MethodsFirst, the Adversarial and Mixup Data Augmentation (AMDA) method is used to realize the data augmentation, which effectively enriches the number of training samples. To further improve the classification accuracy and robustness of epilepsy detection, this paper proposes a one-dimensional convolutional neural network and gated recurrent unit (AM-1D CNN-GRU) network model based on attention mechanism for epilepsy detection.Results and discussionThe experimental results show that the performance of epilepsy detection achieved by using augmented data is significantly improved, and the accuracy, sensitivity, and area under the subject’s working characteristic curve are up to 96.06, 95.48%, and 0.9637, respectively. Compared with the non-augmented data, all indicators are increased by more than 6.2%. Meanwhile, the detection performance was significantly improved compared with other epilepsy detection methods. The results of this research can provide a reference for the clinical application of epilepsy detection.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fneur.2024.1378076"
+    },
+    {
+        "id": 17748,
+        "title": "Atrial Fibrillation (AF) Detection Using Deep Learning with GAN-based Data Augmentation",
+        "authors": "Amirhossein Akhoondkazemi, Arash Vashagh, Sayed Jalal Zahabi, Davood Shafie",
+        "published": "2023-5-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icee59167.2023.10334666"
+    },
+    {
+        "id": 17749,
+        "title": "Thin film thickness analysis based on a deep learning algorithm using data augmentation",
+        "authors": "Joonyoung Lee, Jonghan Jin",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3010091"
+    },
+    {
+        "id": 17750,
+        "title": "Investigating Effective Data Augmentation Techniques for Accurate Gastric Classification in the Development of a Deep Learning-Based Computer-Aided Diagnosis System",
+        "authors": "Jae-beom Park, Han-sung Lee, Hyun-chong Cho",
+        "published": "2023-11-14",
+        "citations": 0,
+        "abstract": "Gastric cancer is a significant health concern, particularly in Korea, and its accurate detection is crucial for effective treatment. However, a gastroscopic biopsy can be time-consuming and may, thus, delay diagnosis and treatment. Thus, this study proposed a gastric cancer diagnostic method, CADx, to facilitate a more efficient image analysis. Owing to the challenges in collecting medical image data, small datasets are often used in this field. To overcome this limitation, we used AutoAugment’s ImageNet policy and applied cut-and-paste techniques using a sliding window algorithm to further increase the size of the dataset. The results showed an accuracy of 0.8317 for T-stage 1 and T-stage 4 image classification and an accuracy of 0.8417 for early gastric cancer and normal image classification, indicating improvements of 7 and 9%, respectively. Furthermore, through the application of test-time augmentation to the early gastric cancer and normal image datasets, the image classification accuracy was improved by 5.8% to 0.9000. Overall, the results of this study demonstrate the effectiveness of the proposed augmentation methods for enhancing gastric cancer classification performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app132212325"
+    },
+    {
+        "id": 17751,
+        "title": "Data Augmentation For Sorani Kurdish News Headline Classification Using Back-Translation And Deep Learning Model",
+        "authors": "Soran Badawi",
+        "published": "2023-6-30",
+        "citations": 2,
+        "abstract": "With the increase in the volume of news articles and headlines being generated, it is becoming more difficult for individuals to keep up with the latest developments and find relevant news articles in the Kurdish language. To address this issue, this paper proposes a novel data augmentation approach for improving the performance of Kurdish news headline classification using back-translation and a proposed deep learning Bidirectional Long Short-Term Memory (BiLSTM) model. The approach involves generating synthetic training data by translating Kurdish headlines into a target language in this context English language and back-translating them to the Kurdish language, resulting in an augmented dataset. The proposed BiLSTM model is trained on the augmented data and compared with baseline models SVM (Support-Vector-Machines) and Naïve Bayes an trained on the original data. The experimental results demonstrate that the proposed BiLSTM model outperforms the baseline model and other existing models, achieving state-of-the-art performance on the Kurdish news headline classification task. The findings suggest that the combination of back-translation and a proposed BiLSTM model is a promising approach for data augmentation in low-resource languages, contributing to the advancement of natural language processing in under-resourced languages. Moreover, having a Kurdish news headline classification model can improve access to news and information for Kurdish speakers. With the classification model, they can easily and quickly search for news articles that interest them based on their preferred categories, such as politics, sports, or entertainment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24017/science/2023.1.4"
+    },
+    {
+        "id": 17752,
+        "title": "An Enhancement of Tree-Structured Deep Learning Classification Through Semantic Enabled Frequency Aware Data Augmentation",
+        "authors": "",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.1231.54"
+    },
+    {
+        "id": 17753,
+        "title": "Data Augmentation Impact on Deep learning Performance for Stress Detection",
+        "authors": "Eman Hamdi, Mohamed Mabrouk, Sherine Rady, Mostafa Aref",
+        "published": "2023-11-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicis58388.2023.10391179"
+    },
+    {
+        "id": 17754,
+        "title": "An Evaluation on Deep Learning Techniques for securing Consumer’s data Confidentiality obtained through Biometrics",
+        "authors": "",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.1.nq22357"
+    },
+    {
+        "id": 17755,
+        "title": "Rethinking Cost-Sensitive Classification in Deep Learning via Adversarial Data Augmentation",
+        "authors": "Qiyuan Chen, Raed Al Kontar, Maher Nouiehed, X. Jessie Yang, Corey Lester",
+        "published": "2024-2-28",
+        "citations": 1,
+        "abstract": " Cost-sensitive classification is critical in applications where misclassification errors widely vary in cost. However, overparameterization poses fundamental challenges to the cost-sensitive modeling of deep neural networks (DNNs). The ability of a DNN to fully interpolate a training data set can render a DNN, evaluated purely on the training set, ineffective in distinguishing a cost-sensitive solution from its overall accuracy maximization counterpart. This necessitates rethinking cost-sensitive classification in DNNs. To address this challenge, this paper proposes a cost-sensitive adversarial data augmentation (CSADA) framework to make overparameterized models cost sensitive. The overarching idea is to generate targeted adversarial examples that push the decision boundary in cost-aware directions. These targeted adversarial samples are generated by maximizing the probability of critical misclassifications and used to train a model with more conservative decisions on costly pairs. Experiments on well-known data sets and a pharmacy medication image (PMI) data set, made publicly available, show that our method can effectively minimize the overall cost and reduce critical errors while achieving comparable overall accuracy.  Funding: Research reported in this publication was supported by the National Library of medicine of the National Institutes of Health in the United States under award number R01LM013624.  Data Ethics & Reproducibility Note: This paper abides by data ethics requirements. Data used are publicly available online at https://deepblue.lib.umich.edu/data/concern/data_sets/6d56zw997 . Codes to replicate the results of this paper are available at https://doi.org/10.24433/CO.2139841.v1 . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/ijds.2022.0033"
+    },
+    {
+        "id": 17756,
+        "title": "Self-compositional data augmentation for scene text detection",
+        "authors": "Da Zhu, Linfei Wang, Dapeng Tao",
+        "published": "2023-5-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2679227"
+    },
+    {
+        "id": 17757,
+        "title": "Protein-Based Data Augmentation for the Prediction of Peptide Toxicity Using Deep Learning",
+        "authors": "Jianxiu Cai, Yapeng Wang, Shirley W.I. Siu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbcb57893.2023.10246599"
+    },
+    {
+        "id": 17758,
+        "title": "Enhancing Performance of Deep Learning Models with a Novel Data Augmentation Approach",
+        "authors": "Prajit Sengupta, Anant Mehta, Prashant Singh Rana",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10308298"
+    },
+    {
+        "id": 17759,
+        "title": "Prediction of Research Project Execution using Data Augmentation and Deep Learning",
+        "authors": " Anibal Flores,  Hugo Tito-Chura,  Lissethe Zea-Rospigliosi",
+        "published": "2023-4-5",
+        "citations": 1,
+        "abstract": "This paper presents the results of seven deep learning models for prediction of research project execution in graduates from a public university in Peru. The deep learning models implemented are non-hybrid: Deep Neural Networks (DNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Convolutional Neural Networks (CNN) and, hybrid: CNN+GRU, CNN+ LSTM and LSTM+GRU. Since most of the dataset prediction features are of the nominal type (true false), this paper proposes a simple novel data augmentation technique for this type of features. Taking as inspiration the input data type of a neural network, the proposal data augmentation technique considers nominal features as numeric, and obtain random values close to them to generate synthetic records. The results show that most of deep learning models with data augmentation significantly outperform models without data augmentation in terms of accuracy, precision, f1-score and specificity, being the main improvements of 17.39%, 66.67%, 25.00% and 25.00% respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4114/intartif.vol26iss71pp46-58"
+    },
+    {
+        "id": 17760,
+        "title": "Data Augmentation and Random Multi-Model Deep Learning for Data Classification",
+        "authors": "Fatma Harby, Adel Thaljaoui, Durre Nayab, Suliman Aladhadh, Salim EL Khediri, Rehan Ullah Khan",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2022.029420"
+    },
+    {
+        "id": 17761,
+        "title": "Data Augmentation Based On Invariant Shape Blending For Deep Learning Classification",
+        "authors": "Emna Ghorbel, Mahmoud Ghorbel, Slim Mhiri",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095278"
+    },
+    {
+        "id": 17762,
+        "title": "RGB-Angle-Wheel: A new data augmentation method for deep learning models",
+        "authors": "Cuneyt Ozdemir, Yahya Dogan, Yılmaz Kaya",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2024.111615"
+    },
+    {
+        "id": 17763,
+        "title": "Controlled Data Augmentation for Training Task-Oriented Dialog Systems with Low Resource Data",
+        "authors": "Sebastian Steindl, Ulrich Schäfer, Bernd Ludwig",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.pandl-1.9"
+    },
+    {
+        "id": 17764,
+        "title": "Intracranial hemorrhage detection: how much can windowing, transfer learning and data augmentation affect a deep learning model’s performance?",
+        "authors": "Pedro Lacerda, Rosalvo Ferreira De Oliveira Neto",
+        "published": "2023-11-27",
+        "citations": 0,
+        "abstract": "The application of Deep Neural Networks to detect intracranial hemorrhage from computed tomography images has been widely used in clinical medicine. In general, building these solutions combines three types of approaches: Preprocessing, Transfer Learning, and Data Augmentation. This study’s goal was to measure the contribution of each of these approaches and thus highlight which approach has more margin of improvement. An experimental study was conducted on a public dataset containing computerized tomography images. The comparison used the stratified ten-fold cross-validation process to set confidence intervals evaluating performance measured by the area under the receiver operating characteristic curve. The ResNet-50 was the deep learning model selected. The results showed that all the approaches raise the generalization power when applied in isolation, and Data Augmentation offers the most significant gain to the baseline. The experiment also showed an opportunity to improve the detection of intracranial hemorrhage by applying new preprocessing techniques since this was the approach that showed the smallest increase in discriminatory power among the investigated approaches. The paired Wilcoxon’s Signed-Rank Test showed that not all the differences were statistically significant, with a confidence level of 95%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5335/rbca.v15i3.14792"
+    },
+    {
+        "id": 17765,
+        "title": "Secure Data Augmentation in Deep Learning for Enhanced Network Protection",
+        "authors": "Khushbu Kriplani, Anil Pratap Singh, Chetan Shingadiya, Naim Ansari",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictbig59752.2023.10456145"
+    },
+    {
+        "id": 17766,
+        "title": "Evaluating Data Augmentation Techniques for Coffee Leaf Disease Classification",
+        "authors": "Adrian Gheorghiu, Iulian-Marius Tăiatu, Dumitru-Clementin Cercel, Iuliana Marin, Florin Pop",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012466300003636"
+    },
+    {
+        "id": 17767,
+        "title": "Infrared image-based remote target detection for maritime rescue utilizing a deep learning network and data augmentation",
+        "authors": "Sungjin Cheong, Yoon-Seop Lim, Wonho Jung, Yonghwa Park",
+        "published": "2023-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2649806"
+    },
+    {
+        "id": 17768,
+        "title": "Data Augmentation Based Brain Tumor Detection Using CNN and Deep Learning",
+        "authors": "Divi Leela Krishna, Naga Venkata Dedeepya Padmanabhuni, G JayaLakshmi",
+        "published": "2023-4-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cises58720.2023.10183465"
+    },
+    {
+        "id": 17769,
+        "title": "Deep learning based data augmentation for large-scale mineral image recognition and classification",
+        "authors": "Yang Liu, Xueyi Wang, Zelin Zhang, Fang Deng",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mineng.2023.108411"
+    },
+    {
+        "id": 17770,
+        "title": "Exploring Deep Learning-Based Visual Localization Techniques",
+        "authors": "Zhuoyi Yu",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsca59871.2023.10392335"
+    },
+    {
+        "id": 17771,
+        "title": "Improving cross-subject classification performance of motor imagery signals: a data augmentation-focused deep learning framework",
+        "authors": "Enes Ozelbas, Emine Elif Tülay, Serhat Ozekes",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "Abstract\nMotor imagery brain-computer interfaces (MI-BCIs) have gained a lot of attention in recent years thanks to their potential to enhance rehabilitation and control of prosthetic devices for individuals with motor disabilities. However, accurate classification of motor imagery signals remains a challenging task due to the high inter-subject variability and non-stationarity in the electroencephalogram (EEG) data. In the context of MI-BCIs, with limited data availability, the acquisition of EEG data can be difficult. In this study, several data augmentation techniques have been compared with the proposed data augmentation technique adaptive cross-subject segment replacement (ACSSR). This technique, in conjunction with the proposed deep learning framework, allows for a combination of similar subject pairs to take advantage of one another and boost the classification performance of MI-BCIs. The proposed framework features a multi-domain feature extractor based on common spatial patterns with a sliding window and a parallel two-branch convolutional neural network. The performance of the proposed methodology has been evaluated on the multi-class BCI Competition IV Dataset 2a through repeated 10-fold cross-validation. Experimental results indicated that the implementation of the ACSSR method (80.47%) in the proposed framework has led to a considerable improvement in the classification performance compared to the classification without data augmentation (77.63%), and other fundamental data augmentation techniques used in the literature. The study contributes to the advancements for the development of effective MI-BCIs by showcasing the ability of the ACSSR method to address the challenges in motor imagery signal classification tasks.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/2632-2153/ad200c"
+    },
+    {
+        "id": 17772,
+        "title": "Earthquake data augmentation using wavelet transform for training deep learning based surrogate models of nonlinear structures",
+        "authors": "Siddharth S. Parida, Supratik Bose, Georgios Apostolakis",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.istruc.2023.05.122"
+    },
+    {
+        "id": 17773,
+        "title": "A Survey on GAN Techniques for Data Augmentation to Address the Imbalanced Data Issues in Credit Card Fraud Detection",
+        "authors": "Emilija Strelcenia, Simant Prakoonwit",
+        "published": "2023-3-11",
+        "citations": 17,
+        "abstract": "Data augmentation is an important procedure in deep learning. GAN-based data augmentation can be utilized in many domains. For instance, in the credit card fraud domain, the imbalanced dataset problem is a major one as the number of credit card fraud cases is in the minority compared to legal payments. On the other hand, generative techniques are considered effective ways to rebalance the imbalanced class issue, as these techniques balance both minority and majority classes before the training. In a more recent period, Generative Adversarial Networks (GANs) are considered one of the most popular data generative techniques as they are used in big data settings. This research aims to present a survey on data augmentation using various GAN variants in the credit card fraud detection domain. In this survey, we offer a comprehensive summary of several peer-reviewed research papers on GAN synthetic generation techniques for fraud detection in the financial sector. In addition, this survey includes various solutions proposed by different researchers to balance imbalanced classes. In the end, this work concludes by pointing out the limitations of the most recent research articles and future research issues, and proposes solutions to address these problems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5010019"
+    },
+    {
+        "id": 17774,
+        "title": "Data augmentation for 3D seismic fault interpretation using deep learning",
+        "authors": "Wiktor Bönke, Behzad Alaei, Anita Torabi, Dimitrios Oikonomou",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.marpetgeo.2024.106706"
+    },
+    {
+        "id": 17775,
+        "title": "Hologram Noise Model for Data Augmentation and Deep Learning",
+        "authors": "Dániel Terbe, László Orzó, Barbara Bicsák, Ákos Zarándy",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "This paper introduces a noise augmentation technique designed to enhance the robustness of state-of-the-art (SOTA) deep learning models against degraded image quality, a common challenge in long-term recording systems. Our method, demonstrated through the classification of digital holographic images, utilizes a novel approach to synthesize and apply random colored noise, addressing the typically encountered correlated noise patterns in such images. Empirical results show that our technique not only maintains classification accuracy in high-quality images but also significantly improves it when given noisy inputs without increasing the training time. This advancement demonstrates the potential of our approach for augmenting data for deep learning models to perform effectively in production under varied and suboptimal conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24030948"
+    },
+    {
+        "id": 17776,
+        "title": "DNN MODEL USING DEEP LEARNING TECHNIQUES FOR HEALTHCARE DATA",
+        "authors": "",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets46795"
+    },
+    {
+        "id": 17777,
+        "title": "Automatic Number Plate Detection Using Deep Learning Techniques",
+        "authors": "R. Athilakshmi, Raghav Khatoria, Subhasri Srinivasan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13052/rp-9788770040723.026"
+    },
+    {
+        "id": 17778,
+        "title": "Deep ensemble transfer learning framework for COVID-19 Arabic text identification via deep active learning and text data augmentation",
+        "authors": "Abdullah Y. Muaad, Hanumanthappa Jayappa Davanagere, Jamil Hussain, Mugahed A. Al-antari",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18487-3"
+    },
+    {
+        "id": 17779,
+        "title": "Masked Face Recognition Using Deep Learning Techniques",
+        "authors": "Yiyang Ma, Naruemon Wattanapongsakorn",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ibdap58581.2023.10271986"
+    },
+    {
+        "id": 17780,
+        "title": "Building Manufacturing Deep Learning Models with Minimal and Imbalanced Training Data Using Domain Adaptation and Data Augmentation",
+        "authors": "Adrian Shuai Li, Elisa Bertino, Rih-Teng Wu, Ting-Yan Wu",
+        "published": "2023-4-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icit58465.2023.10143099"
+    },
+    {
+        "id": 17781,
+        "title": "Energy consumption prediction in water treatment plants using deep learning with data augmentation",
+        "authors": "Fouzi Harrou, Abdelkader Dairi, Abdelhakim Dorbane, Ying Sun",
+        "published": "2023-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.rineng.2023.101428"
+    },
+    {
+        "id": 17782,
+        "title": "Random walk-based erasing data augmentation for deep learning",
+        "authors": "Chao Zhang, Weifeng Zhong, Changfeng Li, Haipeng Deng",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11760-022-02461-3"
+    },
+    {
+        "id": 17783,
+        "title": "Thermal Data Augmentation Approach for the Detection of Corrosion in Pipes Using Deep Learning and Finite Element Modelling",
+        "authors": "Reza Khoshkbary Rezayiye, Kevin Laurent, Parham Nooralishahi, Clemente Ibarra-Castanedo, Xavier Maldague",
+        "published": "2023-10-31",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2023051020"
+    },
+    {
+        "id": 17784,
+        "title": "Research on AI composition based on deep learning techniques",
+        "authors": "Wenchu Wang",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsca59871.2023.10393552"
+    },
+    {
+        "id": 17785,
+        "title": "Effective Deep Learning Data Augmentation Techniques for Diabetic Retinopathy Classification",
+        "authors": "Mahesh S Patil, Satyadhyan Chickerur, C Abhimalya, Anishma Naik, Nidhi Kumari, Shashank Maurya",
+        "published": "2023",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.094"
+    },
+    {
+        "id": 17786,
+        "title": "Evaluating Data Augmentation Method in Deep Learning for Intra-operative Ultrasonic Images",
+        "authors": "Y. Mihara, K. Karako, M. Takayama, S. Sasaki, K. Ito, Y. Chen, K. Hasegawa",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.hpb.2023.07.390"
+    },
+    {
+        "id": 17787,
+        "title": "Fidelitous Augmentation of Human Accelerometric Data for Deep Learning",
+        "authors": "T.K.M. Lee, H.W. Chan, K.H. Leo, E. Chew, L. Zhao, S. Sanei",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/healthcom56612.2023.10472398"
+    },
+    {
+        "id": 17788,
+        "title": "Crack Segmentation with Generative Deep Learning-Based Data Augmentation Approach",
+        "authors": "Kwanghee Won, Mostafa Tazarv, Timothy M. Hansen",
+        "published": "2023-8-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3599957.3606234"
+    },
+    {
+        "id": 17789,
+        "title": "Exploring the Efficacy of Base Data Augmentation Methods in Deep Learning-Based Radiograph Classification of Knee Joint Osteoarthritis",
+        "authors": "Fabi Prezja, Leevi Annala, Sampsa Kiiskinen, Timo Ojala",
+        "published": "2023-12-24",
+        "citations": 0,
+        "abstract": "Diagnosing knee joint osteoarthritis (KOA), a major cause of disability worldwide, is challenging due to subtle radiographic indicators and the varied progression of the disease. Using deep learning for KOA diagnosis requires broad, comprehensive datasets. However, obtaining these datasets poses significant challenges due to patient privacy and data collection restrictions. Additive data augmentation, which enhances data variability, emerges as a promising solution. Yet, it’s unclear which augmentation techniques are most effective for KOA. Our study explored data augmentation methods, including adversarial techniques. We used strategies like horizontal cropping and region of interest (ROI) extraction, alongside adversarial methods such as noise injection and ROI removal. Interestingly, rotations improved performance, while methods like horizontal split were less effective. We discovered potential confounding regions using adversarial augmentation, shown in our models’ accurate classification of extreme KOA grades, even without the knee joint. This indicated a potential model bias towards irrelevant radiographic features. Removing the knee joint paradoxically increased accuracy in classifying early-stage KOA. Grad-CAM visualizations helped elucidate these effects. Our study contributed to the field by pinpointing augmentation techniques that either improve or impede model performance, in addition to recognizing potential confounding regions within radiographic images of knee osteoarthritis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010008"
+    },
+    {
+        "id": 17790,
+        "title": "Automatic tunnel lining crack detection via deep learning with generative adversarial network-based data augmentation",
+        "authors": "Zhong Zhou, Junjie Zhang, Chenjie Gong, Wei Wu",
+        "published": "2023-4",
+        "citations": 21,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.undsp.2022.07.003"
+    },
+    {
+        "id": 17791,
+        "title": "Research on Emotion Recognition in Software Engineering Voice Data Through Deep Learning Techniques",
+        "authors": "Yurong You",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cbase60015.2023.10439109"
+    },
+    {
+        "id": 17792,
+        "title": "Robust Battery Data Augmentation Techniques for Reliable State-of-Charge Estimation using Contrastive Learning",
+        "authors": "Vageesh Maiya, Vinayak Raj Urs, Janamejaya Channegowda, Chaitanya Lingaraj",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conecct57959.2023.10234789"
+    },
+    {
+        "id": 17793,
+        "title": "Visualizing Data Augmentation in Deep Speaker Recognition",
+        "authors": "Pengqi Li, Lantian Li, Askar Hamdulla, Dong Wang",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1298"
+    },
+    {
+        "id": 17794,
+        "title": "Gaussian Mixture Model and Double-Weighted Deep Neural Networks for Data Augmentation Soft Sensing",
+        "authors": "Xiaoyu Jiang, Le Yao, Zeyu Yang, Zhihuan Song, Bingbing Shen",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ddcls58216.2023.10166693"
+    },
+    {
+        "id": 17795,
+        "title": "Vision Based Malware Classification Using Deep Neural Network with Hybrid Data Augmentation",
+        "authors": "Md. Rahman, Md. Hossain, Hideya Ochiai, Youki Kadobayashi, Tanjim Sakib, Syed Ramadan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012434400003648"
+    },
+    {
+        "id": 17796,
+        "title": "Deep learning techniques for biomedical data processing",
+        "authors": "Monica Bianchini, Giovanna Maria Dimitri",
+        "published": "2023-4-20",
+        "citations": 0,
+        "abstract": "The interest in Deep Learning (DL) has seen an exponential growth in the last ten years, producing a significant increase in both theoretical and applicative studies. On the one hand, the versatility and the ability to tackle complex tasks have led to the rapid and widespread diffusion of DL technologies. On the other hand, the dizzying increase in the availability of biomedical data has made classical analyses, carried out by human experts, progressively more unlikely. Contextually, the need for efficient and reliable automatic tools to support clinicians, at least in the most demanding tasks, has become increasingly pressing. In this survey, we will introduce a broad overview of DL models and their applications to biomedical data processing, specifically to medical image analysis, sequence processing (RNA and proteins) and graph modeling of molecular data interactions. First, the fundamental key concepts of DL architectures will be introduced, with particular reference to neural networks for structured data, convolutional neural networks, generative adversarial models, and siamese architectures. Subsequently, their applicability for the analysis of different types of biomedical data will be shown, in areas ranging from diagnostics to the understanding of the characteristics underlying the process of transcription and translation of our genetic code, up to the discovery of new drugs. Finally, the prospects and future expectations of DL applications to biomedical data will be discussed.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/idt-220285"
+    },
+    {
+        "id": 17797,
+        "title": "Neural Data Augmentation for Legal Overruling Task: Small Deep Learning Models vs. Large Language Models",
+        "authors": "Reshma Sheik, K. P. Siva Sundara, S. Jaya Nirmala",
+        "published": "2024-3-23",
+        "citations": 0,
+        "abstract": "AbstractDeep learning models produce impressive results in any natural language processing applications when given a better learning strategy and trained with large labeled datasets. However, the annotation of massive training data is far too expensive, especially in the legal domain, due to the need for trained legal professionals. Data augmentation solves the problem of learning without labeled big data. In this paper, we employ pre-trained language models and prompt engineering to generate large-scale pseudo-labeled data for the legal overruling task using 100 data samples. We train small recurrent and convolutional deep-learning models using this data and fine-tune a few other transformer models. We then evaluate the effectiveness of the models, both with and without data augmentation, using the benchmark dataset and analyze the results. We also test the performance of these models with the state-of-the-art GPT-3 model under few-shot setting. Our experimental findings demonstrate that data augmentation results in better model performance in the legal overruling task than models trained without augmentation. Furthermore, our best-performing deep learning model trained on augmented data outperforms the few-shot GPT-3 by 18% in the F1-score. Additionally, our results highlight that the small neural networks trained with augmented data achieve outcomes comparable to those of other large language models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-024-11574-4"
+    },
+    {
+        "id": 17798,
+        "title": "Classification Techniques of Tongue Manifestation Based on Deep Learning",
+        "authors": "Qidong Ding",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda60612.2024.10485714"
+    },
+    {
+        "id": 17799,
+        "title": "Sparse Signal Models for Data Augmentation in Deep Learning ATR",
+        "authors": "Tushar Agarwal, Nithin Sugavanam, Emre Ertin",
+        "published": "2023-8-21",
+        "citations": 0,
+        "abstract": "Automatic target recognition (ATR) algorithms are used to classify a given synthetic aperture radar (SAR) image into one of the known target classes by using the information gleaned from a set of training images that are available for each class. Recently, deep learning methods have been shown to achieve state-of-the-art classification accuracy if abundant training data are available, especially if they are sampled uniformly over the classes and in their poses. In this paper, we consider the ATR problem when a limited set of training images are available. We propose a data-augmentation approach to incorporate SAR domain knowledge and improve the generalization power of a data-intensive learning algorithm, such as a convolutional neural network (CNN). The proposed data-augmentation method employs a physics-inspired limited-persistence sparse modeling approach, which capitalizes on the commonly observed characteristics of wide-angle synthetic aperture radar (SAR) imagery. Specifically, we fit over-parametrized models of scattering to limited training data, and use the estimated models to synthesize new images at poses and sub-pixel translations that are not available in the given data in order to augment the limited training data. We exploit the sparsity of the scattering centers in the spatial domain and the smoothly varying structure of the scattering coefficients in the azimuthal domain to solve the ill-posed problem of the over-parametrized model fitting. The experimental results show that, for the training on the data-starved regions, the proposed method provides significant gains in the resulting ATR algorithm’s generalization performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15164109"
+    },
+    {
+        "id": 17800,
+        "title": "Effects of Data Augmentation Methods on YOLO v5s: Application of Deep Learning with Pytorch for Individual Cattle Identification",
+        "authors": "Cafer Tayyar BATİ, Gazel SER",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": "In this paper, we investigate the performance of the YOLO v5s (You Only Look Once) model for the identification of individual cattle in a cattle herd. The model is a popular method for real-time object detection, accuracy, and speed. However, since the videos obtained from the cattle herd consist of free space images, the number of frames in the data is unbalanced. This negatively affects the performance of the YOLOv5 model. First, we investigate the model performance on the unbalanced initial dataset obtained from raw images, then we stabilize the initial dataset using some data augmentation methods and obtain the model performance. Finally, we built the target detection model and achieved excellent model performance with an mAP (mean average precision) of 99.5% on the balanced dataset compared to the model on the unbalanced data (mAP of 95.8%). The experimental results show that YOLO v5s has a good potential for automatic cattle identification, but with the use of data augmentation methods, superior performance can be obtained from the model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.29133/yyutbd.1246901"
+    },
+    {
+        "id": 17801,
+        "title": "Performance evaluation of deep learning techniques for DoS attacks detection in wireless sensor network",
+        "authors": "Salim Salmi, Lahcen Oughdir",
+        "published": "2023-2-7",
+        "citations": 17,
+        "abstract": "AbstractWireless sensor networks (WSNs) are increasingly being used for data monitoring and collection purposes. Typically, they consist of a large number of sensor nodes that are used remotely to collect data about the activities and conditions of a particular area, for example, temperature, pressure, motion. Each sensor node is usually small, inexpensive, and relatively easy to deploy compared to other sensing methods. For this reason, WSNs are used in a wide range of applications and industries. However, WSNs are vulnerable to different kinds of security threats and attacks. This is primarily because they are very limited in resources like power, storage, bandwidth, and processing power that could have been used in developing their defense. To ensure their security, an effective Intrusion detection system (IDS) need to be in place to detect these attacks even under these constraints. Today, traditional IDS are less effective as these malicious attacks are becoming more intelligent, frequent, and complex. Denial of service (DOS) attack is one of the main types of attacks that threaten WSNs. For this reason, we review related works that focus on detecting DoS attacks in WSN. In addition, we developed and implemented several Deep learning (DL) based IDS. These systems were trained on a specialized dataset for WSNs called WSN-DS in detecting four types of DoS attacks that affects WSNs. They include the Blackhole, Grayhole, Flooding, and Scheduling attacks. Finally, we evaluated and compared the results and we discuss possible future works.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s40537-023-00692-w"
+    },
+    {
+        "id": 17802,
+        "title": "Automatic Myocardium Segmentation in Delayed-Enhancement MRI with Pathology-Specific Data Augmentation and Deep Learning Architectures",
+        "authors": "Gonzalo Mosquera-Rojas, Cylia Ouadah, Azadeh Hadadi, Alain Lalande, Sarah Leclerc",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "The extent of myocardial infarction (MI) can be evaluated thanks to delayed enhancement (DE) cardiac MRI. DE MRI is an imaging technique acquired several minutes after the injection of a contrast agent where MI appears with a bright signal. The automatic myocardium segmentation in DE MRI is quite challenging, especially when MI is present, since these areas usually showcase a heterogeneous aspect in terms of shape and intensity, thus obstructing the myocardium visibility. To overcome this issue, we propose an image processing-based data augmentation algorithm where diverse synthetic cases of MI were created in two different ways: fixed and adaptive. In the first one, the training set is enlarged by a specific factor, whereas in the second, the method receives feedback from the segmentation model during training and performs the augmentation exclusively on complex cases. The method performance was evaluated in single and multi-modality settings. In this latter, information from kinetic images (Cine MRI), which are acquired along DE MRI in the same examination, is also used, and the extracted features from both modalities are fused. The results show that applying the data augmentation in a fixed fashion on a multi-modality setting leads to a more consistent segmentation of the myocardium in DE MRI. The segmentation models, which were all UNet-based architectures, can better relate MI areas with the myocardium, thus increasing its overall robustness to pathology-specific local pattern perturbations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16100488"
+    },
+    {
+        "id": 17803,
+        "title": "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach",
+        "authors": "Dong Chen, Xinda Qi, Yu Zheng, Yuzhen Lu, Yanbo Huang, Zhaojian Li",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.13031/aim.202300108"
+    },
+    {
+        "id": 17804,
+        "title": "A Comparison Study to Detect Malware using Deep Learning and Machine learning Techniques",
+        "authors": "Biodoumoye Bokolo, Razaq Jinad, Qingzhong Liu",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bdai59165.2023.10256957"
+    },
+    {
+        "id": 17805,
+        "title": "Physics-Guided Data Augmentation Combined with Unsupervised Learning Improves Stability and Accuracy of Bit Wear Deep Learning Model",
+        "authors": "Huang Xu, Trieu Phat Luu, Guodong David Zhan, Yazeed S Qahtani, Abdulwahab S Aljohar, Ted Furlong, John Bomidi",
+        "published": "2024-2-27",
+        "citations": 1,
+        "abstract": "Abstract\nData is one of the most important limiting factors of deep machine learning (ML) model in drilling applications. Though a big size of historical data can be available, high-quality cleaned and labeled data is usually limited. In this case study, we show that with limited labeled data, physics-based data augmentation combined with unsupervised learning significantly improves both stability and accuracy in bit wear ML model. It provides a pathway to overcome labeled data shortage and field data quality limitations.\nLabeled bit wear data is usually limited because only the final bit dull state can be labeled using dull photos for the entire drilling distance. To overcome this difficulty, an encoder-decoder unsupervised ML framework based on Bi-directional LSTM architecture is first applied to the data of entire drilling distance to extract and maximize data learnings. Then, a physics-based wear estimator is implemented in the learned latent space to augment labeled wear dataset, guided by true wear labels and offset-well data. Weighting factor in loss function is applied to optimize augmented and true datasets in final supervised learning step.\nThe proposed real-time bit wear model is built on a combination of physics-based data augmentation and unsupervised data learning method. The model is applied on multiple field bit runs. Results show that by implementing the unsupervised data learnings only, the prediction accuracy is improved by 30% compared to the baseline ML model. By combining physics-based augmentation, the accuracy is further improved by 10%. More importantly, adding physics-based data augmentation significantly reduces prediction variance and unphysical wear outputs, therefore improving prediction stability by more than 30%. It should be noted that the prediction stability of AI/ML model is crucial in real-time application and decision making. The results show physics-based data augmentation not only increases the size of label dataset and prevents model overfitting, but also applies physics-based guidance to the ML model effectively. It is learned weighting factor plays a crucial role in balancing loss contributions from true wear labels and physics-based labels. While low weighting factor of physics-based labels diminishes the augmented data, high weighting factor disrespects the true wear labels leading to a high prediction bias. Overall, the bit wear model study shows physic-based data augmentation combined with unsupervised data learning can effectively improve model accuracy, stability, and overcome labeled data shortage difficulty.\nThe proposed paper shows a case study for the bit wear ML model using a combination of physics-based data augmentation and unsupervised data learning. While labeled data is one of the major challenges of ML models in many drilling applications, this study provides a pathway to improve both accuracy and stability of deep ML models with limited labeled data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/217954-ms"
+    },
+    {
+        "id": 17806,
+        "title": "Comparison of Different Data Augmentation Techniques for Improving Epileptic Seizure Detection Based on 3D Acceleration, Heart Rate and Temperature Data",
+        "authors": "Maleyka Seyidova, Jasmin Henze, Arne Pelzer, Beate Rhein",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012386800003657"
+    },
+    {
+        "id": 17807,
+        "title": "Effectiveness of data augmentation to predict students at risk using deep learning algorithms",
+        "authors": "Kiran Fahd, Shah J. Miah",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "AbstractThe academic intervention to predict at-risk higher education (HE) students requires effective data model development. Such data modelling projects in the HE context may have common issues related to (a) adopting small-scale modelling that gives limited options for early intervention and (b) using imbalanced data that hinders capturing effective details of poorly performing students. We address the issues going beyond the distribution-based algorithm, using a multilayer perceptron classifier which shows better on confusion metric, recall, and precision measures for identifying at-risk students. Our proposed deep learning-based model, which uses data augmentation techniques to supplement the data instances and balance the dataset, aims to improve the prediction accuracy of whether the student will fail or not based on their interaction with the learning management systems to prevent struggling students from evasion.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13278-023-01117-5"
+    },
+    {
+        "id": 17808,
+        "title": "Effectiveness of Data Augmentation for Localization in WSNs Using Deep Learning for the Internet of Things",
+        "authors": "Jehan Esheh, Sofiene Affes",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "Wireless sensor networks (WSNs) have become widely popular and are extensively used for various sensor communication applications due to their flexibility and cost effectiveness, especially for applications where localization is a main challenge. Furthermore, the Dv-hop algorithm is a range-free localization algorithm commonly used in WSNs. Despite its simplicity and low hardware requirements, it does suffer from limitations in terms of localization accuracy. In this article, we develop an accurate Deep Learning (DL)-based range-free localization for WSN applications in the Internet of things (IoT). To improve the localization performance, we exploit a deep neural network (DNN) to correct the estimated distance between the unknown nodes (i.e., position-unaware) and the anchor nodes (i.e., position-aware) without burdening the IoT cost. DL needs large training data to yield accurate results, and the DNN is no stranger. The efficacy of machine learning, including DNNs, hinges on access to substantial training data for optimal performance. However, to address this challenge, we propose a solution through the implementation of a Data Augmentation Strategy (DAS). This strategy involves the strategic creation of multiple virtual anchors around the existing real anchors. Consequently, this process generates more training data and significantly increases data size. We prove that DAS can provide the DNNs with sufficient training data, and ultimately making it more feasible for WSNs and the IoT to fully benefit from low-cost DNN-aided localization. The simulation results indicate that the accuracy of the proposed (Dv-hop with DNN correction) surpasses that of Dv-hop.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24020430"
+    },
+    {
+        "id": 17809,
+        "title": "Comparative Analysis of Deep Learning Techniques",
+        "authors": "Rutika Pawar",
+        "published": "2024-1-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21275/sr24127165416"
+    },
+    {
+        "id": 17810,
+        "title": "Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models",
+        "authors": "Haipeng Wang, Zhengyuan Wei, Qilin Zhou, Bo Jiang, W. K. Chan",
+        "published": "2023-10-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qrs60937.2023.00044"
+    },
+    {
+        "id": 17811,
+        "title": "Deep-Learning-Based Polarimetric Data Augmentation: Dual2Full-Pol Extension",
+        "authors": "Hossein Aghababaei, Giampaolo Ferraioli, Alfred Stein, Sergio Vitale",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tgrs.2023.3299419"
+    },
+    {
+        "id": 17812,
+        "title": "A Deep Learning-Based Data Augmentation Technique for Mixed Tabular Data",
+        "authors": "Ju-Eun Jeong, Han-joon Kim",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7838/jsebs.2023.28.4.001"
+    },
+    {
+        "id": 17813,
+        "title": "Brain Tumor Detection Using Deep Learning With Synthetic Data Augmentation",
+        "authors": "Ponuku Sarah, Adithya Vardhan Anne, Yepuganti Karuna, Kripa Karthik, Srigiri Krishna Priya, Saritha Saladi",
+        "published": "2023-4-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csnt57126.2023.10134690"
+    },
+    {
+        "id": 17814,
+        "title": "Violence Detection in Audio: Evaluating the Effectiveness of Deep Learning Models and Data Augmentation",
+        "authors": "Dalila Durães, Bruno Veloso, Paulo Novais",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9781/ijimai.2023.08.007"
+    },
+    {
+        "id": 17815,
+        "title": "Deep learning and data augmentation for partial discharge detection in electrical machines",
+        "authors": "Andreas Rauscher, Johannes Kaiser, Manoj Devaraju, Christian Endisch",
+        "published": "2024-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2024.108074"
+    },
+    {
+        "id": 17816,
+        "title": "REVIEW ON DETECTION OF RICE PLANT LEAVES DISEASES USING DATA AUGMENTATION AND TRANSFER LEARNING TECHNIQUES",
+        "authors": "Osama Alaa Hussein, Mohammed Salih Mahdi",
+        "published": "2023-6-11",
+        "citations": 1,
+        "abstract": "The most important cereal crop in the world is rice (Oryza sativa). Over half of the world's population uses it as a staple food and energy source. Abiotic and biotic factors such as precipitation, soil fertility, temperature, pests, bacteria, and viruses, among others, impact the yield production and quality of rice grain. Farmers spend a lot of time and money managing diseases, and they do so using a bankrupt \"eye\" method that leads to unsanitary farming practices. The development of agricultural technology is greatly conducive to the automatic detection of pathogenic organisms in the leaves of rice plants. Several deep learning algorithms are discussed, and processors for computer vision problems such as image classification, object segmentation, and image analysis are discussed. The paper showed many methods for detecting, characterizing, estimating, and using diseases in a range of crops. The methods of increasing the number of images in the data set were shown. Two methods were presented, the first is traditional reinforcement methods, and the second is generative adversarial networks. And many of the advantages have been demonstrated in the research paper for the work that has been done in the field of deep learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25195/ijci.v49i1.381"
+    },
+    {
+        "id": 17817,
+        "title": "Enhancing Parkinson’s disease identification using ensemble classifier and data augmentation techniques in machine learning",
+        "authors": "Mohammed Muzaffar Hussain, D. Weslin, S. Kumari, S. Umamaheswari, K. Kamalakannan",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ceh.2023.11.002"
+    },
+    {
+        "id": 17818,
+        "title": "Machine learning techniques for diagrid building design: Architectural–Structural correlations with feature selection and data augmentation",
+        "authors": "Pooyan Kazemi, Alireza Entezami, Aldo Ghisi",
+        "published": "2024-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jobe.2024.108766"
+    },
+    {
+        "id": 17819,
+        "title": "Data Augmentation with Generative Adversarial Networks for Deep Learning in Healthcare",
+        "authors": "Krishna Kant Dixit, Upendra Singh Aswal, V. Saravanan, Manishn Sararswat, N Shalini, Amit Srivastava",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaiihi57871.2023.10489462"
+    },
+    {
+        "id": 17820,
+        "title": "Enhancing seismic porosity estimation through 3D sequence-to-sequence deep learning with data augmentation, spatial and geologic constraints",
+        "authors": "Minghui Xu, Luanxiao Zhao, Jingyu Liu, Jianhua Geng",
+        "published": "2024-4-10",
+        "citations": 0,
+        "abstract": " Estimating porosity from seismic data is critical for studying underground rock properties, assessing energy reserves, and subsequent reservoir exploration and development. For reservoirs with strong heterogeneity, the endeavor to accurately and stably characterize spatial variations in porosity often encounters considerable challenges due to the rapid lateral changes of formations. In view of this, establishing a robust mapping relationship from seismic data to reservoir properties in three-dimensional (3D) space is important in addressing this challenge. We propose to transform the conventional one-dimensional (1D) sequence-to-point (STP) prediction paradigm into a 3D sequence-to-sequence (STS) prediction paradigm to enable machine learning to extract 3D seismic data features. 3D STS prediction presents valuable potential for enhancing the geological continuity and vertical characterization ability of porosity compared to STP. Building upon the 3D STS prediction model, three strategies from different perspectives are introduced to further enhance the performance of seismic porosity estimation. First, we apply a translation-based data augmentation (DA) strategy to mitigate the problem of sparsely labeled data. Second, we propose spatial constraints (SC) considering absolute coordinates and relative time to boost the spatial delineation of porosity. Third, to incorporate geological insights into machine learning, we impose geologic constraints (GC) by measuring the data distribution similarity between around-the-well predictions and well labels. Compared with data augmentation strategies, incorporating spatial constraints and geologic constraints to STS yields more substantial improvements, which illustrates the importance of prior knowledge for physical parameter inversion. Finally, the combined application of these three strategies and the 3D STS method gives better generalization performance and geological plausibility in the porosity prediction for investigated carbonate reservoirs, outperforming other methods, and decreasing error by an average of 8% across 48 wells compared to STP. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2023-0614.1"
+    },
+    {
+        "id": 17821,
+        "title": "Terahertz Data Extraction and Analysis Based on Deep Learning Techniques for Emerging Applications",
+        "authors": "Mavis Gezimati, Ghanshyam Singh",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3360930"
+    },
+    {
+        "id": 17822,
+        "title": "Data Augmentation for Deep Learning Algorithms that Perform Driver Drowsiness Detection",
+        "authors": "Ghulam Masudh Mohamed, Sulaiman Saleem Patel, Nalindren Naicker",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14569/ijacsa.2023.0140127"
+    },
+    {
+        "id": 17823,
+        "title": "Time Series Data Augmentation Algorithm Combining Deep Metric Learning and Variational Encoder",
+        "authors": "Hao Qin, Liwei Su, Chongying Jiang, Chunfeng Zhang, Guangbin Wu, Yongjun Zhang",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpsasia58343.2023.10294708"
+    },
+    {
+        "id": 17824,
+        "title": "Deep learning-based multi-organ CT segmentation with adversarial data augmentation",
+        "authors": "Shaoyan Pan, Shao-Yuan Lo, Min Huang, Chaoqiong Ma, Jacob Wynne, Tonghe Wang, Tian Liu, Xiaofeng Yang",
+        "published": "2023-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2653970"
+    },
+    {
+        "id": 17825,
+        "title": "Data augmentation for inertial sensor based human action recognition using deep learning",
+        "authors": "Jan Kuschan, Hristo Filaretov, Jörg Krüger",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0190203"
+    },
+    {
+        "id": 17826,
+        "title": "A survey on deep learning for medical healthcare: Techniques and applications",
+        "authors": "Kumari Archana, Amandeep Kaur",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0179980"
+    },
+    {
+        "id": 17827,
+        "title": "Identification of Sleep Apnea using Deep Learning and Machine Learning Techniques on ECG Data",
+        "authors": "Maturi Tanuj, Bhavana Chekuri, Suja Palaniswamy, Preethi Reddy Mudireddy",
+        "published": "2023-9-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/nmitcon58196.2023.10276281"
+    },
+    {
+        "id": 17828,
+        "title": "An investigation of machine learning algorithms and data augmentation techniques for diabetes diagnosis using class imbalanced BRFSS dataset",
+        "authors": "Mohammad Mihrab Chowdhury, Ragib Shahariar Ayon, Md Sakhawat Hossain",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.health.2023.100297"
+    },
+    {
+        "id": 17829,
+        "title": "Lung Cancer Survival Time Prediction Using Machine Learning and Deep Learning Techniques",
+        "authors": "Qanita Bani Baker, Enas Khwaileh, Marwa Alharbi, Yaser Jararweh",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/idsta58916.2023.10317871"
+    },
+    {
+        "id": 17830,
+        "title": "Automated freezing of gait assessment with deep learning and data augmentation from simulated inertial measurement unit data",
+        "authors": "Benjamin Filtjens, Po-Kai Yang, Maaike Goris, Moran Gilat, Niklas Kempynck, Pieter Ginis, Alice Nieuwboer, Peter Slaets, Bart Vanrumste",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bsn58485.2023.10330987"
+    },
+    {
+        "id": 17831,
+        "title": "Synthetic Data Generation and Deep Learning for the Topological Analysis of 3D Data",
+        "authors": "Dylan Peek, Matthew P. Skerritt, Stephan Chalup",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dicta60407.2023.00025"
+    },
+    {
+        "id": 17832,
+        "title": "Data augmentation using fast converging CIELAB-GAN for efficient deep learning dataset generation",
+        "authors": "Mohammad Eshghi, Alireza Souri, Babak Majidi, Amin Fadaeddini",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcse.2023.10057257"
+    },
+    {
+        "id": 17833,
+        "title": "Deep learning brain connectivity augmentation for differentiating Alzheimer's disease from mild cognitive impairment using limited data",
+        "authors": "Oben Ozgur, Arwa Rekik, Islem Rekik",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jns.2023.121443"
+    },
+    {
+        "id": 17834,
+        "title": "A deep learning approach for diagnosis of schizophrenia disorder via data augmentation based on convolutional neural network and long short-term memory",
+        "authors": "Amin Mashayekhi Shams, Sepideh Jabbari",
+        "published": "2024-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13534-024-00360-9"
+    },
+    {
+        "id": 17835,
+        "title": "Enhancing speech emotion recognition with deep learning using multi-feature stacking and data augmentation",
+        "authors": "Khasyi Al Mukarram, M. Anang Mukhlas, Amalia Zahra",
+        "published": "2024-6-1",
+        "citations": 0,
+        "abstract": "This study evaluates the effectiveness of data augmentation on 1D convolutional neural network (CNN) and transformer models for speech emotion recognition (SER) on the Ryerson audio-visual database of emotional speech and song (RAVDESS) dataset. The results show that data augmentation has a positive impact on improving emotion classification accuracy. Techniques such as noising, pitching, stretching, shifting, and speeding are applied to increase data variation and overcome class imbalance. The 1D CNN model with data augmentation achieved 94.5% accuracy, while the transformer model with data augmentation performed even better at 97.5%. This research is expected to contribute better insights for the development of accurate emotion recognition methods by using data augmentation with these models to improve classification accuracy on the RAVDESS dataset. Further research can explore larger and more diverse datasets and alternative model approaches.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/eei.v13i3.6049"
+    },
+    {
+        "id": 17836,
+        "title": "Investigating Deep Learning for Classification of Psychiatric Disorders on Brain MRI Data Using GAN-Based Augmentation",
+        "authors": "Gracia Angelina Jeniffer Masengi, Tri Sardjono, Mauridhi Hery Purnomo",
+        "published": "2023-9-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ieit59852.2023.10335528"
+    },
+    {
+        "id": 17837,
+        "title": "Enhancing Environmental Sounds Classification through Deep Learning Techniques",
+        "authors": "Siva Krishna Dasari, Sarath Kumar Kella, Raghava Manda",
+        "published": "2023-3-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscds56580.2023.10104722"
+    },
+    {
+        "id": 17838,
+        "title": "Optimizing Forensic Investigation and Security Surveillance with Deep Reinforcement Learning Techniques",
+        "authors": "T J Nandhini, K Thinakaran",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsaai59313.2023.10452551"
+    },
+    {
+        "id": 17839,
+        "title": "A classification study for Turkish folk music makam recognition using machine learning with data augmentation techniques",
+        "authors": "Alper Börekci, Onur Sevli",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-09177-6"
+    },
+    {
+        "id": 17840,
+        "title": "Data augmentation using fast converging CIELAB-GAN for efficient deep learning dataset generation",
+        "authors": "Amin Fadaeddini, Babak Majidi, Alireza Souri, Mohammad Eshghi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcse.2023.132152"
+    },
+    {
+        "id": 17841,
+        "title": "AdverSAR: adversarial imagery examples generation for synthetic aperture radar dataset augmentation",
+        "authors": "Ali Ahmadibeni, Branndon Jones, Amir Shirkhodaie",
+        "published": "2023-6-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2664713"
+    },
+    {
+        "id": 17842,
+        "title": "Synthetic Sensor Data Generation Exploiting Deep Learning Techniques and Multimodal Information",
+        "authors": "Fabrizio Romanelli, Francesco Martinelli",
+        "published": "2023-7",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lsens.2023.3290209"
+    },
+    {
+        "id": 17843,
+        "title": "Deep Learning techniques for reconstruction on ASTRI Mini-Array Monte Carlo data",
+        "authors": "Saverio Lombardi, F. Visconti, M. Mastropietro",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22323/1.444.0713"
+    },
+    {
+        "id": 17844,
+        "title": "Detection of Crime Scene Objects using Deep Learning Techniques",
+        "authors": "Nandhini T J, K Thinakaran",
+        "published": "2023-1-5",
+        "citations": 23,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/idciot56793.2023.10053440"
+    },
+    {
+        "id": 17845,
+        "title": "Computationally constrained audio-based violence detection through transfer learning and data augmentation techniques",
+        "authors": "Fangfang Zhu-Zhou, Diana Tejera-Berengué, Roberto Gil-Pita, Manuel Utrilla-Manso, Manuel Rosa-Zurera",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apacoust.2023.109638"
+    },
+    {
+        "id": 17846,
+        "title": "The effect of Data Augmentation Using SMOTE: Diabetes Prediction by Machine Learning Techniques",
+        "authors": "A. Al-Qerem, A. M Ali, M. Alauthman, M. Al Khaldy, A. Aldweesh",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3639592.3639595"
+    },
+    {
+        "id": 17847,
+        "title": "Applying Deep Learning and Transfer Learning Techniques for Improving Animal Intrusion Detection in Agriculture Farms",
+        "authors": "R. Saraswathi, G. Shobarani, A. Subramani, D. Tamilarasan",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsaai59313.2023.10452442"
+    },
+    {
+        "id": 17848,
+        "title": "Rice Plant Disease Detection with Data Augmentation Using Transfer Learning",
+        "authors": "Mohammad Nur Fawaiq, Ema Utami, Dhani Ariatmanto",
+        "published": "2023-4-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.2023.4.4.35530"
+    },
+    {
+        "id": 17849,
+        "title": "Data Augmentation Through Expert-Guided Symmetry Detection to Improve Performance in Offline Reinforcement Learning",
+        "authors": "Giorgio Angelotti, Nicolas Drougard, Caroline Chanel",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011633400003393"
+    },
+    {
+        "id": 17850,
+        "title": "Multi-Modal Fusion Techniques in Deep Learning",
+        "authors": "Radhika Shetty D S",
+        "published": "2023-9-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21275/sr23905100554"
+    },
+    {
+        "id": 17851,
+        "title": "Deep Learning Techniques in Brain Cancer Detection",
+        "authors": "Madhav Agrawal, Arham Jain",
+        "published": "2023-11-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21275/sr231029151256"
+    },
+    {
+        "id": 17852,
+        "title": "Augmentation of scarce data—A new approach for deep-learning modeling of composites",
+        "authors": "Hon Lam Cheung, Petter Uvdal, Mohsen Mirkhalaf",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compscitech.2024.110491"
+    },
+    {
+        "id": 17853,
+        "title": "The Effect of Data Augmentation in Deep Learning with Drone Object Detection",
+        "authors": "Ariel Yonatan Alin, Kusrini Kusrini, Kumara Ari Yuana",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "Drone object detection is one of the main applications of image processing technology and pattern recognition using deep learning. However, the limited drone image data that can be accessed for training detection algorithms is a challenge in the development of drone object detection technology. Therefore, many studies have been conducted to increase the amount of drone image data using data augmentation techniques. This study aims to evaluate the effect of data augmentation on deep learning accuracy in drone object detection using the YOLOv5 algorithm. The methods used in this research include collecting drone image data, augmenting data with rotate, crop and cutout, training the YOLOv5 algorithm with and without data augmentation, as well as testing and analyzing training results.The results of the study show that data augmentation can't improve the accuracy of the YOLOv5 algorithm in drone object detection. Evidenced by the decreasing value of precision and mAP@0.5 and the relatively constant value of recall and F-1 score. This is caused by too much augmentation can cause loss of important information in the data and improper augmentation can cause noise or distortion in the data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22146/ijccs.84785"
+    },
+    {
+        "id": 17854,
+        "title": "Classification of coastal shrimp species using deep learning InceptionResNetV2 with data augmentation",
+        "authors": " Budi Dwi Satoto,  Bain Khusnul Khotimah,  Mohammad Yusuf,  Rinci Kembang Hapsari,  Budi Irmawati",
+        "published": "2023-10-29",
+        "citations": 0,
+        "abstract": "Coastal areas that are rich in shrimp natural resources usually have a strong fishing industry. Shrimp consumption can contribute to the local economy. Several types of shrimp have higher utilization potential in the fishing industry and human consumption. Classification helps sort out shrimp species in coastal waters. Deep learning technology helps identify and separate shrimp species through deep learning with the Convolutional neural network. The seven classes observed were Vaname Shrimp, Tiger Shrimp, Jerbung Shrimp, Giant Prawns, Red Shrimp, Ronggeng Shrimp, and Prawns. The data used is 50 per class, so 350 images are used. Due to dataset limitations, the proposed contribution is an initial Resnet architecture with augmentation. Resnet helps perform in-depth training to save training computation time, and improvements add variety to limited amounts of data. The result is that the average accuracy of the model is 99.4%, with an average training computation time of 7 and a half minutes. The MSE misclassification value was 0.0143, RMSE was 0.1195, and MAE was 0.0086. Testing tests and testing data on the model only takes 1-2 seconds. Prediction accuracy ranges from 90.01%-99.8%. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47577/technium.v16i.9989"
+    },
+    {
+        "id": 17855,
+        "title": "Prediction of surface roughness using deep learning and data augmentation",
+        "authors": "Miaoxian Guo, Shouheng Wei, Chentong Han, Wanliang Xia, Chao Luo, Zhijian Lin",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "PurposeSurface roughness has a serious impact on the fatigue strength, wear resistance and life of mechanical products. Realizing the evolution of surface quality through theoretical modeling takes a lot of effort. To predict the surface roughness of milling processing, this paper aims to construct a neural network based on deep learning and data augmentation.Design/methodology/approachThis study proposes a method consisting of three steps. Firstly, the machine tool multisource data acquisition platform is established, which combines sensor monitoring with machine tool communication to collect processing signals. Secondly, the feature parameters are extracted to reduce the interference and improve the model generalization ability. Thirdly, for different expectations, the parameters of the deep belief network (DBN) model are optimized by the tent-SSA algorithm to achieve more accurate roughness classification and regression prediction.FindingsThe adaptive synthetic sampling (ADASYN) algorithm can improve the classification prediction accuracy of DBN from 80.67% to 94.23%. After the DBN parameters were optimized by Tent-SSA, the roughness prediction accuracy was significantly improved. For the classification model, the prediction accuracy is improved by 5.77% based on ADASYN optimization. For regression models, different objective functions can be set according to production requirements, such as root-mean-square error (RMSE) or MaxAE, and the error is reduced by more than 40% compared to the original model.Originality/valueA roughness prediction model based on multiple monitoring signals is proposed, which reduces the dependence on the acquisition of environmental variables and enhances the model's applicability. Furthermore, with the ADASYN algorithm, the Tent-SSA intelligent optimization algorithm is introduced to optimize the hyperparameters of the DBN model and improve the optimization performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1108/jimse-10-2023-0010"
+    },
+    {
+        "id": 17856,
+        "title": "Subject wise data augmentation based on balancing factor for quaternary emotion recognition through hybrid deep learning model",
+        "authors": "Khushboo Singh, Mitul Kumar Ahirwal, Manish Pandey",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bspc.2023.105075"
+    },
+    {
+        "id": 17857,
+        "title": "Applying Deep Learning Neural Network with Randomly Downscaled Image and Data Augmentation to Multiscale Image Enlargement",
+        "authors": "Ming-Tsung Yeh, Wei-Yin Lo, Yi-Nung Chung, Hong-Yi Cai",
+        "published": "2024-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18494/sam4531"
+    },
+    {
+        "id": 17858,
+        "title": "Improvements in Forest Segmentation Accuracy Using a New Deep Learning Architecture and Data Augmentation Technique",
+        "authors": "Yan He, Kebin Jia, Zhihao Wei",
+        "published": "2023-5-5",
+        "citations": 3,
+        "abstract": "Forests are critical to mitigating global climate change and regulating climate through their role in the global carbon and water cycles. Accurate monitoring of forest cover is, therefore, essential. Image segmentation networks based on convolutional neural networks have shown significant advantages in remote sensing image analysis with the development of deep learning. However, deep learning networks typically require a large amount of manual ground truth labels for training, and existing widely used image segmentation networks struggle to extract details from large-scale high resolution satellite imagery. Improving the accuracy of forest image segmentation remains a challenge. To reduce the cost of manual labelling, this paper proposed a data augmentation method that expands the training data by modifying the spatial distribution of forest remote sensing images. In addition, to improve the ability of the network to extract multi-scale detailed features and the feature information from the NIR band of satellite images, we proposed a high-resolution forest remote sensing image segmentation network by fusing multi-scale features based on double input. The experimental results using the Sanjiangyuan plateau forest dataset show that our method achieves an IoU of 90.19%, which outperforms prevalent image segmentation networks. These results demonstrate that the proposed approaches can extract forests from remote sensing images more effectively and accurately.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15092412"
+    },
+    {
+        "id": 17859,
+        "title": "Data Augmentation and Deep Learning in Audio Classification Problems: Alignment Between Training and Test Environments",
+        "authors": "Saiful Huq, Pengcheng Xi, Rafik Goubran, Frank Knoefel, James R Green",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibe60311.2023.00030"
+    },
+    {
+        "id": 17860,
+        "title": "A study on effective data preprocessing and augmentation method in diabetic retinopathy classification using pre-trained deep learning approaches",
+        "authors": "Ramazan İncir, Ferhat Bozkurt",
+        "published": "2024-1",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-15754-7"
+    },
+    {
+        "id": 17861,
+        "title": "Data Augmentation using Reverb and Noise in Deep Learning Implementation of Cough Classification",
+        "authors": "Saiful Huq, Pengcheng Xi, Rafik Goubran, Julio J. Valdés, Frank Knoefel, James R Green",
+        "published": "2023-6-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/memea57477.2023.10171862"
+    },
+    {
+        "id": 17862,
+        "title": "Big data analytics deep learning techniques and applications: A survey",
+        "authors": "Hend A. Selmy, Hoda K. Mohamed, Walaa Medhat",
+        "published": "2024-2",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.is.2023.102318"
+    },
+    {
+        "id": 17863,
+        "title": "A Deep learning based data augmentation method to improve COVID-19 detection from medical imaging",
+        "authors": "Djamila Romaissa Beddiar, Mourad Oussalah, Usman Muhammad, Tapio Seppänen",
+        "published": "2023-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110985"
+    },
+    {
+        "id": 17864,
+        "title": "Evaluation of Deep Learning Techniques for Entity Matching",
+        "authors": "Paulo Lima, Douglas Santana, Wellington Martins, Leonardo Ribeiro",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011996200003467"
+    },
+    {
+        "id": 17865,
+        "title": "Text Sentiment Analysis from Students Comments Using Various Machine Learning and Deep Learning Techniques: A Comparative Analysis",
+        "authors": "Asif Ali Wagan, Kirshan Kumar Luhana, M. Ameen Chhajro, Irfan Ali Kandhro",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijdats.2023.10061113"
+    },
+    {
+        "id": 17866,
+        "title": "Classification Techniques to Predict the Risk of Myelodysplastic Syndromes using Deep Learning",
+        "authors": "K. Srilakshmi, D. Venkata Lakshmi",
+        "published": "2023-12-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsaai59313.2023.10452580"
+    },
+    {
+        "id": 17867,
+        "title": "Multi-class Alzheimer's Disease Stage Diagnosis using Deep Learning Techniques",
+        "authors": "Rowshan Ara Jowti, Md. Aynul Hasan Nahid",
+        "published": "2023-3-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icidca56705.2023.10100309"
+    },
+    {
+        "id": 17868,
+        "title": "SkinSage - Lesion Diagnosis Using Deep Learning Techniques",
+        "authors": " Geetika, Paarth Bhardwaj,  Nimish, Vaibhav Bhargava, Shivendra Singh",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/confluence60223.2024.10463343"
+    },
+    {
+        "id": 17869,
+        "title": "Data Augmentation and Denoising of Computed Tomography (CT) Scan Images In Training Deep Learning Models For Rapid COVID-19 Detection",
+        "authors": "Fadi Al Turjman, Zubaida Said Ameen, Sertan Serte, Auwalu Mubarak",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbidm.2024.10055417"
+    },
+    {
+        "id": 17870,
+        "title": "An Intelligent Heart Disease Prediction Framework Using Machine Learning and Deep Learning Techniques",
+        "authors": "Nasser Allheeib, Summrina Kanwal, Sultan Alamri",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "Cardiovascular diseases (CVD) rank among the leading global causes of mortality. Early detection and diagnosis are paramount in minimizing their impact. The application of ML and DL in classifying the occurrence of cardiovascular diseases holds significant potential for reducing diagnostic errors. This research endeavors to construct a model capable of accurately predicting cardiovascular diseases, thereby mitigating the fatality associated with CVD. In this paper, the authors introduce a novel approach that combines an artificial intelligence network (AIN)-based feature selection (FS) technique with cutting-edge DL and ML classifiers for the early detection of heart diseases based on patient medical histories. The proposed model is rigorously evaluated using two real-world datasets sourced from the University of California. The authors conduct extensive data preprocessing and analysis, and the findings from this study demonstrate that the proposed methodology surpasses the performance of existing state-of-the-art methods, achieving an exceptional accuracy rate of 99.99%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4018/ijdwm.333862"
+    },
+    {
+        "id": 17871,
+        "title": "Advanced Random Mix Augmentation : Data Augmentation Method for Improving Performance of Image Classification in Deep Learning Using Unduplicated Image Processing Combinations",
+        "authors": "Jonghoon IM, Jun Younes LOUHI KASAHARA, Hiroshi MARUYAMA, Hajime ASAMA, Atsushi YAMASHITA",
+        "published": "2023-1-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2493/jjspe.89.105"
+    },
+    {
+        "id": 17872,
+        "title": "Improving Speech Emotion Recognition Using Data Augmentation and Balancing Techniques",
+        "authors": "Chawki Barhoumi, Yassine Ben Ayed",
+        "published": "2023-10-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cw58918.2023.00051"
+    },
+    {
+        "id": 17873,
+        "title": "The impact of image augmentation techniques of MRI patients in deep transfer learning networks for brain tumor detection",
+        "authors": "Peshraw Ahmed Abdalla, Bashdar Abdalrahman Mohammed, Ari M. Saeed",
+        "published": "2023-11-8",
+        "citations": 0,
+        "abstract": "AbstractThe exponential growth of deep learning networks has enabled us to handle difficult tasks, even in the complex field of medicine. Nevertheless, for these models to be extremely generalizable and perform well, they need to be applied to a vast corpus of data. In order to train transfer learning networks with limited datasets, data augmentation techniques are frequently used due to the difficulties in getting data. The use of these methods is crucial in the medical industry in order to enhance the number of cancer-related magnetic resonance imaging pathology scans. This study evaluates the results of data augmentation methods on three deep transfer learning networks, such as InceptionV3, VGG16, and DenseNet169, for brain tumor identification. To demonstrate how data augmentation approaches affect the performance of the models, networks were trained both before and after the application of these methods. The outcomes revealed that the image augmentation strategies have a big impact on the networks before and after using techniques, such as the accuracy of VGG16 is 77.33% enhanced to 96.88%, and InceptionV3 changed from 86.66 to 98.44%, and DenseNet169 changed from 85.33 to 96.88% the accuracy percentage increase of the models are 19.55%, 11.78%, and 11.55%, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s43067-023-00119-9"
+    },
+    {
+        "id": 17874,
+        "title": "Commentary on Automatic identification of Chagas disease vectors using data mining and deep learning techniques",
+        "authors": "Ziba Parsons, Shadi Banitaan",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ecoinf.2023.102064"
+    },
+    {
+        "id": 17875,
+        "title": "Comparative analysis of handwriting based writer identification using machine and deep learning techniques",
+        "authors": "Sukhdeep Kaur, Ganesh Kumar Sethi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0178365"
+    },
+    {
+        "id": 17876,
+        "title": "Enhancing Federated Learning Efficiency with Generative Model-Based Data Augmentation for Non-IID Data",
+        "authors": "Zihao Guo",
+        "published": "2023-5-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eccs58882.2023.00013"
+    },
+    {
+        "id": 17877,
+        "title": "Text sentiment analysis from students' comments using various machine learning and deep learning techniques: a comparative analysis",
+        "authors": "M. Ameen Chhajro, Kirshan Kumar Luhana, Asif Ali Wagan, Irfan Ali Kandhro",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijdats.2023.136679"
+    },
+    {
+        "id": 17878,
+        "title": "Blizzard prediction in antarctic meteorological data using deep learning techniques",
+        "authors": "V.S. Samy, Veena Thenkanidiyoor",
+        "published": "2023-10-4",
+        "citations": 0,
+        "abstract": "Due to the unpredictable nature of the weather and the complexity of atmospheric movement, extreme weather has always been a significant and challenging meteorological concern. Meteorological problems and the complexity of how the atmosphere moves have made it necessary to find a technological solution. Deep learning techniques can automatically learn and train from vast quantities of data to provide enhanced feature expression. This is frequently used in computer vision, natural language processing, and other domains to enhance the performance of numerous real-time problems. The purpose of this research is to propose a deep learning-based approach for effectively predicting extreme weather events such as blizzards. To recognize weather patterns and forecast blizzards, the proposed deep learning-based method primarily employs RNN with LSTM. Real-time datasets from the Polar Regions were used to test the proposed approach’s accuracy, and tests were conducted to compare it to existing weather forecasting models. The accuracy of the model is 49.60% (univariate) and 55.19% (bivariate) using bivariate attributes of wind speed and air pressure based on the calculated RMSE values such as 0.0023 and 0.0021.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-224543"
+    },
+    {
+        "id": 17879,
+        "title": "Deep Learning and Data Mining Techniques For Cardiovascular Disease Prediction: A Survey",
+        "authors": "Sameer Pandey, Ravinder Kaur, Bhisham Sharma",
+        "published": "2023-3-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscon57294.2023.10112062"
+    },
+    {
+        "id": 17880,
+        "title": "Image Retargeting Techniques Identification Using Supervised Deep Learning",
+        "authors": "Ruba Kharsa, Rouaa Alzoubi, Mohammad Alsmirat, Mahmoud Al-Ayyoub",
+        "published": "2023-10-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/idsta58916.2023.10317851"
+    },
+    {
+        "id": 17881,
+        "title": "Analysis of segmentation techniques in wheat leaf disease detection using deep learning approach",
+        "authors": "Taruna Sharma, Ganesh Kumar Sethi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0177690"
+    },
+    {
+        "id": 17882,
+        "title": "Optimizing YouTube Spam Detection with Ensemble Deep Learning Techniques",
+        "authors": "A. Ilavendhan, Srinivasa Narayanan. A, N. Janani",
+        "published": "2024-1-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/confluence60223.2024.10463326"
+    },
+    {
+        "id": 17883,
+        "title": "GAN-Based Data Imbalance Techniques for ECG Synthesis to Enhance Classification Using Deep Learning Techniques and Evaluation",
+        "authors": "Shaik Janbhasha, S Nagakishore Bhavanam, Kalva Harshita",
+        "published": "2023-1-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaect57570.2023.10118167"
+    },
+    {
+        "id": 17884,
+        "title": "Semantic Segmentation and Augmentation of salt in seismic images using Deep Learning",
+        "authors": "",
+        "published": "2023-4-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/ijfans/v11/i12/215"
+    },
+    {
+        "id": 17885,
+        "title": "High-Performance Image Splicing Detection utilizing Image Augmentation and Deep Learning",
+        "authors": "Debjit Das, Ruchira Naskar",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indicon59947.2023.10440755"
+    },
+    {
+        "id": 17886,
+        "title": "Efficient Deep Learning of Robust, Adaptive Policies using Tube MPC-Guided Data Augmentation",
+        "authors": "Tong Zhao, Andrea Tagliabue, Jonathan P. How",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341998"
+    },
+    {
+        "id": 17887,
+        "title": "Effect of Data Augmentation on Deep-Learning-Based Segmentation of Long-Axis Cine-MRI",
+        "authors": "François Legrand, Richard Macwan, Alain Lalande, Lisa Métairie, Thomas Decourselle",
+        "published": "2023-12-25",
+        "citations": 0,
+        "abstract": "Automated Cardiac Magnetic Resonance segmentation serves as a crucial tool for the evaluation of cardiac function, facilitating faster clinical assessments that prove advantageous for both practitioners and patients alike. Recent studies have predominantly concentrated on delineating structures on short-axis orientation, placing less emphasis on long-axis representations due to the intricate nature of structures in the latter. Taking these consideration into account, we present a robust hierarchy-based augmentation strategy coupled with the compact and fast Efficient-Net (ENet) architecture for the automated segmentation of two-chamber and four-chamber Cine-MRI images. We observed an average Dice improvement of 0.99% on the two-chamber images and of 2.15% on the four-chamber images, and an average Hausdorff distance improvement of 21.3% on the two-chamber images and of 29.6% on the four-chamber images. The practical viability of our approach was validated by computing clinical metrics such as the Left Ventricular Ejection Fraction (LVEF) and left ventricular volume (LVC). We observed acceptable biases, with a +2.81% deviation on the LVEF for the two-chamber images and a +0.11% deviation for the four-chamber images.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010010"
+    },
+    {
+        "id": 17888,
+        "title": "RPN: A Word Vector Level Data Augmentation Algorithm in Deep Learning for Language Understanding",
+        "authors": "Zhengqing Yuan, Xiaolong Zhang, Yue Wang, Xuecong Hou, Huiwen Xue, Zhuanzhe Zhao, Yongming Liu",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394204"
+    },
+    {
+        "id": 17889,
+        "title": "Dual-dimension Time-GGAN data augmentation method for improving the performance of deep learning models for PV power forecasting",
+        "authors": "Ling-Man Liu, Xiao-Ying Ren, Fei Zhang, Lu Gao, Bin Hao",
+        "published": "2023-12",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.egyr.2023.05.226"
+    },
+    {
+        "id": 17890,
+        "title": "A new deep Q-learning method with dynamic epsilon adjustment and path planner assisted techniques for Turtlebot mobile robot",
+        "authors": "Wen-Chung Cheng, Zhen Ni, Xiangnan Zhong",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2663695"
+    },
+    {
+        "id": 17891,
+        "title": "Improving Road Traffic Speed Prediction Using Data Augmentation: A Deep Generative Models-based Approach",
+        "authors": "Redouane Benabdallah Benarmas, Kadda Beghdad Bey",
+        "published": "2024-1-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s40745-023-00508-x"
+    },
+    {
+        "id": 17892,
+        "title": "The Deep Transfer Learning for Sensor-Based Human Activity Recognition Using Class Augmentation",
+        "authors": "Prateek Garg",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incoft60753.2023.10425023"
+    },
+    {
+        "id": 17893,
+        "title": "Deep Learning with Automatic Data Augmentation for Segmenting Schisis Cavities in the Optical Coherence Tomography Images of X-Linked Juvenile Retinoschisis Patients",
+        "authors": "Xing Wei, Hui Li, Tian Zhu, Wuyi Li, Yamei Li, Ruifang Sui",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "X-linked juvenile retinoschisis (XLRS) is an inherited disorder characterized by retinal schisis cavities, which can be observed in optical coherence tomography (OCT) images. Monitoring disease progression necessitates the accurate segmentation and quantification of these cavities; yet, current manual methods are time consuming and result in subjective interpretations, highlighting the need for automated and precise solutions. We employed five state-of-the-art deep learning models—U-Net, U-Net++, Attention U-Net, Residual U-Net, and TransUNet—for the task, leveraging a dataset of 1500 OCT images from 30 patients. To enhance the models’ performance, we utilized data augmentation strategies that were optimized via deep reinforcement learning. The deep learning models achieved a human-equivalent accuracy level in the segmentation of schisis cavities, with U-Net++ surpassing others by attaining an accuracy of 0.9927 and a Dice coefficient of 0.8568. By utilizing reinforcement-learning-based automatic data augmentation, deep learning segmentation models demonstrate a robust and precise method for the automated segmentation of schisis cavities in OCT images. These findings are a promising step toward enhancing clinical evaluation and treatment planning for XLRS.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics13193035"
+    },
+    {
+        "id": 17894,
+        "title": "Data Augmentation with Semantic Enrichment for Deep Learning Invoice Text Classification",
+        "authors": "Wei Wen Chi, Tiong Yew Tang, Narishah Mohamed Salleh, Muaadh Mukred, Hussain AlSalman, Muhammad Zohaib",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3387860"
+    },
+    {
+        "id": 17895,
+        "title": "DarLoc: Deep learning and data-feature augmentation based robust magnetic indoor localization",
+        "authors": "Qinghu Wang, Jie Jia, Yansha Deng, Jian Chen, Xingwei Wang, Min Huang, Abdol Hamid Aghvami",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.122921"
+    },
+    {
+        "id": 17896,
+        "title": "Balanced incremental deep reinforcement learning based on variational autoencoder data augmentation for customer credit scoring",
+        "authors": "Yadong Wang, Yanlin Jia, Yu Zhong, Jing Huang, Jin Xiao",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106056"
+    },
+    {
+        "id": 17897,
+        "title": "Enhancing the Classification Accuracy using CNN, GANs, and data Augmentation Techniques",
+        "authors": "Shreya Gupta, Ritu Rani, Garima Jaiswal, Arun Sharma",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393694"
+    },
+    {
+        "id": 17898,
+        "title": "Underwater-Acoustic-OFDM Channel Estimation Based on Deep Learning and Data Augmentation",
+        "authors": "Jiasheng Guo, Tieliang Guo, Mingran Li, Thomas Wu, Hangyu Lin",
+        "published": "2024-2-7",
+        "citations": 0,
+        "abstract": "In UnderWater-Acoustic-Orthogonal-Frequency-Division-Multiplexing-(UWA-OFDM) communication, the traditional interpolated channel estimation method produces error codes, due to the small number of user pilots, uneven distribution, and complex channel characteristics. In this paper, we propose a novel UWA-channel-estimation method based on Deep Learning (DL). First, based on a small number of channel samples, we used the CWGAN-GP model to generate enhanced classified underwater-acoustic channel samples to have semantic similarity to the real samples and also to present the diversity of the samples. After obtaining the channel sample, the pilot estimation matrix was processed in a similar image way. Here, we extracted the channel features by constructing a convolutional network structure similar to U-Net, weakening the impact of feature information loss. A Channel-Attention-Denoising-(CAD) module was also designed, to further optimize the reconstructed channel information. The simulation results verified the superiority of the proposed algorithm, in terms of Mean Square Error (MSE) and Bit-Error Rate (BER) compared to the existing Least-Squares-(LS), Deep-Neural-Network-(DNN), and ChannelNet algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics13040689"
+    },
+    {
+        "id": 17899,
+        "title": "Target Recognition in SAR Images by Deep Learning with Training Data Augmentation",
+        "authors": "Zhe Geng, Ying Xu, Bei-Ning Wang, Xiang Yu, Dai-Yin Zhu, Gong Zhang",
+        "published": "2023-1-13",
+        "citations": 10,
+        "abstract": "Mass production of high-quality synthetic SAR training imagery is essential for boosting the performance of deep-learning (DL)-based SAR automatic target recognition (ATR) algorithms in an open-world environment. To address this problem, we exploit both the widely used Moving and Stationary Target Acquisition and Recognition (MSTAR) SAR dataset and the Synthetic and Measured Paired Labeled Experiment (SAMPLE) dataset, which consists of selected samples from the MSTAR dataset and their computer-generated synthetic counterparts. A series of data augmentation experiments are carried out. First, the sparsity of the scattering centers of the targets is exploited for new target pose synthesis. Additionally, training data with various clutter backgrounds are synthesized via clutter transfer, so that the neural networks are better prepared to cope with background changes in the test samples. To effectively augment the synthetic SAR imagery in the SAMPLE dataset, a novel contrast-based data augmentation technique is proposed. To improve the robustness of neural networks against out-of-distribution (OOD) samples, the SAR images of ground military vehicles collected by the self-developed MiniSAR system are used as the training data for the adversarial outlier exposure procedure. Simulation results show that the proposed data augmentation methods are effective in improving both the target classification accuracy and the OOD detection performance. The purpose of this work is to establish the foundation for large-scale, open-field implementation of DL-based SAR-ATR systems, which is not only of great value in the sense of theoretical research, but is also potentially meaningful in the aspect of military application.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s23020941"
+    },
+    {
+        "id": 17900,
+        "title": "A Survey on Mapping of Urban Green Spaces within Remote Sensing Data Using Machine Learning &amp; Deep Learning Techniques",
+        "authors": "Smita Sunil Burrewar, Mazharul Haque, Tanwir Uddin Haider",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccae56788.2023.10111467"
+    },
+    {
+        "id": 17901,
+        "title": "Automatic data augmentation to improve generalization of deep learning in H&amp;E stained histopathology",
+        "authors": "Khrystyna Faryna, Jeroen van der Laak, Geert Litjens",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2024.108018"
+    },
+    {
+        "id": 17902,
+        "title": "A Comparative Analysis in Using Deep Learning Models Which Results in Efficient Image Data Augmentation",
+        "authors": "Vinay Kumar Nassa, Susanta Kumar Satpathy, Mrunal K. Pathak, Dattatray G. Takale, Swati Rawat, Samir Rana",
+        "published": "2023-12-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccakm58659.2023.10449622"
+    },
+    {
+        "id": 17903,
+        "title": "Predicting band gaps of MOFs on small data by deep transfer learning with data augmentation strategies",
+        "authors": "Zhihui Zhang, Chengwei Zhang, Yutao Zhang, Shengwei Deng, Yun-Fang Yang, An Su, Yuan-Bin She",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "Pretrained deep learning models are fine-tuned by our porphyrin-based MOF database using data augmentation strategies to demonstrate how deep transfer learning can predict the properties of MOFs with limited training data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1039/d3ra02142d"
+    },
+    {
+        "id": 17904,
+        "title": "Data augmentation and denoising of computed tomography scan images in training deep learning models for rapid COVID-19 detection",
+        "authors": "Auwalu Saleh Mubarak, Sertan Serte, Fadi Al Turjman, Zubaida Sa', id Ameen",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbidm.2024.136438"
+    }
+]

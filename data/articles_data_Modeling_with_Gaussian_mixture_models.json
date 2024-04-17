@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 11505,
+        "title": "Modeling Multivariate Spray Characteristics with Gaussian Mixture Models",
+        "authors": "Markus Wicker, Cihan Ates, Max Okraschevski, Simon Holz, Rainer Koch, Hans-Jörg Bauer",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "With the increasing demand for efficient and accurate numerical simulations of spray combustion in jet engines, the necessity for robust models to enhance the capabilities of spray models has become imperative. Existing approaches often rely on ad hoc determinations or simplifications, resulting in information loss and potentially inaccurate predictions for critical spray characteristics, such as droplet diameters, velocities, and positions, especially under extreme operating conditions or temporal fluctuations. In this study, we introduce a novel approach to modeling multivariate spray characteristics using Gaussian mixture models (GMM). By applying this approach to spray data obtained from numerical simulations of the primary atomization in air-blast atomizers, we demonstrate that GMMs effectively capture the spray characteristics across a wide range of operating conditions. Importantly, our investigation reveals that GMMs can handle complex non-linear dependencies by increasing the number of components, thereby enabling the modeling of more complex spray statistics. This adaptability makes GMMs a versatile tool for accurately representing spray characteristics even under extreme operating conditions. The presented approach holds promise for enhancing the accuracy of spray combustion modeling, offering an improved injection model that accurately captures the underlying droplet distribution. Additionally, GMMs can serve as a foundation for constructing meta models, striking a balance between the efficiency of low-order approaches and the accuracy of high-fidelity simulations.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en16196818"
+    },
+    {
+        "id": 11506,
+        "title": "Probabilistic Point Cloud Modeling via Self-Organizing Gaussian Mixture Models",
+        "authors": "Kshitij Goel, Nathan Michael, Wennie Tabib",
+        "published": "2023-5",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3256923"
+    },
+    {
+        "id": 11507,
+        "title": "Bayesian Gaussian Mixture Models for Enhanced Radar Sensor Modeling: A Data-Driven Approach towards Sensor Simulation for ADAS/AD Development",
+        "authors": "Kelvin Walenta, Simon Genser, Selim Solmaz",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "In the realm of road safety and the evolution toward automated driving, Advanced Driver Assistance and Automated Driving (ADAS/AD) systems play a pivotal role. As the complexity of these systems grows, comprehensive testing becomes imperative, with virtual test environments becoming crucial, especially for handling diverse and challenging scenarios. Radar sensors are integral to ADAS/AD units and are known for their robust performance even in adverse conditions. However, accurately modeling the radar’s perception, particularly the radar cross-section (RCS), proves challenging. This paper adopts a data-driven approach, using Gaussian mixture models (GMMs) to model the radar’s perception for various vehicles and aspect angles. A Bayesian variational approach automatically infers model complexity. The model is expanded into a comprehensive radar sensor model based on object lists, incorporating occlusion effects and RCS-based detectability decisions. The model’s effectiveness is demonstrated through accurate reproduction of the RCS behavior and scatter point distribution. The full capabilities of the sensor model are demonstrated in different scenarios. The flexible and modular framework has proven apt for modeling specific aspects and allows for an easy model extension. Simultaneously, alongside model extension, more extensive validation is proposed to refine accuracy and broaden the model’s applicability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24072177"
+    },
+    {
+        "id": 11508,
+        "title": "Gaussian Mixture Models with Concave Penalized Fusion",
+        "authors": "Yiwei Fan, Guosheng Yin",
+        "published": "2025",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5705/ss.202022.0092"
+    },
+    {
+        "id": 11509,
+        "title": "Entropy-Based Anomaly Detection for Gaussian Mixture Modeling",
+        "authors": "Luca Scrucca",
+        "published": "2023-4-3",
+        "citations": 2,
+        "abstract": "Gaussian mixture modeling is a generative probabilistic model that assumes that the observed data are generated from a mixture of multiple Gaussian distributions. This mixture model provides a flexible approach to model complex distributions that may not be easily represented by a single Gaussian distribution. The Gaussian mixture model with a noise component refers to a finite mixture that includes an additional noise component to model the background noise or outliers in the data. This additional noise component helps to take into account the presence of anomalies or outliers in the data. This latter aspect is crucial for anomaly detection in situations where a clear, early warning of an abnormal condition is required. This paper proposes a novel entropy-based procedure for initializing the noise component in Gaussian mixture models. Our approach is shown to be easy to implement and effective for anomaly detection. We successfully identify anomalies in both simulated and real-world datasets, even in the presence of significant levels of noise and outliers. We provide a step-by-step description of the proposed data analysis process, along with the corresponding R code, which is publicly available in a GitHub repository.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040195"
+    },
+    {
+        "id": 11510,
+        "title": "Meta-learning representations for clustering with infinite Gaussian mixture models",
+        "authors": "Tomoharu Iwata",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126423"
+    },
+    {
+        "id": 11511,
+        "title": "Sensor-Aided NILM with Gaussian Mixture Models",
+        "authors": "Nidhal Balti, Baptiste Vrigneau, Pascal Scalart",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289785"
+    },
+    {
+        "id": 11512,
+        "title": "On the Influence of Data Imbalance on Supervised Gaussian Mixture Models",
+        "authors": "Luca Scrucca",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "Imbalanced data present a pervasive challenge in many real-world applications of statistical and machine learning, where the instances of one class significantly outnumber those of the other. This paper examines the impact of class imbalance on the performance of Gaussian mixture models in classification tasks and establishes the need for a strategy to reduce the adverse effects of imbalanced data on the accuracy and reliability of classification outcomes. We explore various strategies to address this problem, including cost-sensitive learning, threshold adjustments, and sampling-based techniques. Through extensive experiments on synthetic and real-world datasets, we evaluate the effectiveness of these methods. Our findings emphasize the need for effective mitigation strategies for class imbalance in supervised Gaussian mixtures, offering valuable insights for practitioners and researchers in improving classification outcomes.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16120563"
+    },
+    {
+        "id": 11513,
+        "title": "Tree-Structured Gaussian Mixture Models and Their Variational Inference",
+        "authors": "Yuta Nakahara",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394219"
+    },
+    {
+        "id": 11514,
+        "title": "Avoiding inferior clusterings with misspecified Gaussian mixture models",
+        "authors": "Siva Rajesh Kasa, Vaibhav Rajan",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "AbstractClustering is a fundamental tool for exploratory data analysis, and is ubiquitous across scientific disciplines. Gaussian Mixture Model (GMM) is a popular probabilistic and interpretable model for clustering. In many practical settings, the true data distribution, which is unknown, may be non-Gaussian and may be contaminated by noise or outliers. In such cases, clustering may still be done with a misspecified GMM. However, this may lead to incorrect classification of the underlying subpopulations. In this paper, we identify and characterize the problem of inferior clustering solutions. Similar to well-known spurious solutions, these inferior solutions have high likelihood and poor cluster interpretation; however, they differ from spurious solutions in other characteristics, such as asymmetry in the fitted components. We theoretically analyze this asymmetry and its relation to misspecification. We propose a new penalty term that is designed to avoid both inferior and spurious solutions. Using this penalty term, we develop a new model selection criterion and a new GMM-based clustering algorithm, SIA. We empirically demonstrate that, in cases of misspecification, SIA avoids inferior solutions and outperforms previous GMM-based clustering methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-44608-3"
+    },
+    {
+        "id": 11515,
+        "title": "Nearest-Neighbor Mixture Models for Non-Gaussian Spatial Processes",
+        "authors": "Xiaotian Zheng, Athanasios Kottas, Bruno Sansó",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1214/23-ba1405"
+    },
+    {
+        "id": 11516,
+        "title": "Enhancement in Bearing Fault Classification Parameters Using Gaussian Mixture Models and Mel Frequency Cepstral Coefficients Features",
+        "authors": "",
+        "published": "2023-7-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/aoa.2020.133149"
+    },
+    {
+        "id": 11517,
+        "title": "Unsupervised incremental estimation of Gaussian mixture models with 1D split moves",
+        "authors": "Nicola Greggio, Alexandre Bernardino",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2024.110306"
+    },
+    {
+        "id": 11518,
+        "title": "Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery",
+        "authors": "Bingchen Zhao, Xin Wen, Kai Han",
+        "published": "2023-10-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.01524"
+    },
+    {
+        "id": 11519,
+        "title": "GeometricSMOTE-Enhanced Deep Gaussian Mixture Models for Imbalanced Data Classification",
+        "authors": "Abhishek Dixit, Ashish Mani",
+        "published": "2023-12-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvmi59935.2023.10464892"
+    },
+    {
+        "id": 11520,
+        "title": "Predicting Graduates’ Career Paths Using Neural Networks and Gaussian Mixture Models",
+        "authors": "Zhong Minghui",
+        "published": "2023-9-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciscae59047.2023.10393611"
+    },
+    {
+        "id": 11521,
+        "title": "Gaussian mixture models for training Bayesian convolutional neural networks",
+        "authors": "Bakhouya Mostafa, Ramchoun Hassan, Hadda Mohammed, Masrour Tawfik",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12065-023-00900-9"
+    },
+    {
+        "id": 11522,
+        "title": "De Novo Direct Inverse QSPR/QSAR: Chemical Variational Autoencoder and Gaussian Mixture Regression Models",
+        "authors": "Kohei Nemoto, Hiromasa Kaneko",
+        "published": "2023-2-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/acs.jcim.2c01298"
+    },
+    {
+        "id": 11523,
+        "title": "Distributionally robust optimization using optimal transport for Gaussian mixture models",
+        "authors": "Sanjula Kammammettu, Shu-Bo Yang, Zukui Li",
+        "published": "2023-10-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11081-023-09856-2"
+    },
+    {
+        "id": 11524,
+        "title": "3D Articulated Human Pose Recognition via Learning Deep Gaussian Mixture Models for Virtual Exercise",
+        "authors": "Jong-Sung Kim",
+        "published": "2023-10-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icce-asia59966.2023.10326393"
+    },
+    {
+        "id": 11525,
+        "title": "On the Properties of Gaussian Copula Mixture Models",
+        "authors": " Ke Wan, Alain Kornhauser",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54364/aaiml.2023.1184"
+    },
+    {
+        "id": 11526,
+        "title": "Analysis of estimating the Bayes rule for Gaussian mixture models with a specified missing-data mechanism",
+        "authors": "Ziyang Lyu",
+        "published": "2024-2-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00180-023-01447-0"
+    },
+    {
+        "id": 11527,
+        "title": "Uncertainty Estimation in Deep Speech Enhancement Using Complex Gaussian Mixture Models",
+        "authors": "Huajian Fang, Timo Gerkmann",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095213"
+    },
+    {
+        "id": 11528,
+        "title": "Unsupervised User-Based Insider Threat Detection Using Bayesian Gaussian Mixture Models",
+        "authors": "Simon Bertrand, Josée Desharnais, Nadia Tawbi",
+        "published": "2023-8-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pst58708.2023.10320169"
+    },
+    {
+        "id": 11529,
+        "title": "Validation of Gaussian mixture LV load models based on MV/LV transformer stations measurements",
+        "authors": "A. Ishchenko, S.S. Nibhanupudi, C. Willemsen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1049/icp.2023.1084"
+    },
+    {
+        "id": 11530,
+        "title": "RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling",
+        "authors": "Jingcheng Deng, Liang Pang, Huawei Shen, Xueqi Cheng",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.164"
+    },
+    {
+        "id": 11531,
+        "title": "Graph representation learning based on deep generative gaussian mixture models",
+        "authors": "Ghazaleh Niknam, Soheila Molaei, Hadi Zare, David Clifton, Shirui Pan",
+        "published": "2023-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2022.11.087"
+    },
+    {
+        "id": 11532,
+        "title": "Estimation of 5G End-to-End Delay through Deep Learning based on Gaussian Mixture Models",
+        "authors": "Diyar Fadhil, Rodolfo Oliveira",
+        "published": "2023-11-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cscn60443.2023.10453179"
+    },
+    {
+        "id": 11533,
+        "title": "Ensemble Masked Autoencoder and Gaussian Mixture Models for Cardinality Estimation",
+        "authors": "Yimeng Chen, Devin Jia, Ying Lei, Bo Li",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/docs60977.2023.10294693"
+    },
+    {
+        "id": 11534,
+        "title": "Parsimonious ultrametric Gaussian mixture models",
+        "authors": "Carlo Cavicchia, Maurizio Vichi, Giorgia Zaccaria",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "AbstractGaussian mixture models represent a conceptually and mathematically elegant class of models for casting the density of a heterogeneous population where the observed data is collected from a population composed of a finite set of G homogeneous subpopulations with a Gaussian distribution. A limitation of these models is that they suffer from the curse of dimensionality, and the number of parameters becomes easily extremely large in the presence of high-dimensional data. In this paper, we propose a class of parsimonious Gaussian mixture models with constrained extended ultrametric covariance structures that are capable of exploring hierarchical relations among variables. The proposal shows to require a reduced number of parameters to be fit and includes constrained covariance structures across and within components that further reduce the number of parameters of the model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11222-024-10405-9"
+    },
+    {
+        "id": 11535,
+        "title": "Multiple Model Adaptive Estimation Coupled With Nonlinear Function Approximation and Gaussian Mixture Models for Predicting Fuel Consumption in Marine Engines",
+        "authors": "Mahmood Taghavi, Lokukaluge Prasad Perera",
+        "published": "2023-6-11",
+        "citations": 0,
+        "abstract": "Abstract\nDigital twin type models can be developed for physical systems that are complex nonlinear a system of systems (SoS). However, such models are usually difficult to represent by linear equations. Therefore, an adequate linearization technique should be introduced. Therefore, linear models as digital twins can be interpreted easily and need much less computational power when applied to various industrial applications. On the other hand, a linearization approach can increase the respective system-model errors and impose significant constraints on the models of SoS, i.e., since linear models can be applicable only in limited operating regions. This research study aims to combine positive characteristics of both linear and nonlinear modelling into a digital twin development framework by having the properties of linear digital twin models locally while the model framework is covering the whole operating region of the SoS. An industrial application of marine engines as an SoS is considered for this study, where the respective models have been used to predict engine fuel consumption.\nFor this purpose, firstly, a dataset is selected from a marine engine of a selected ocean-going vessel. Then, several localized linear operational regions of the respective data set are identified using an unsupervised data-driven technique, i.e., on the engine propeller combinator diagram. For developing the localized models: firstly, the Gaussian Mixture Models method is used to cluster the data points into different operational regions of the engine propeller combinator diagram. Then, a nonlinear model of the relationship between features is developed in each cluster using the polynomial regression approach. Then, these models are combined using the Multiple Model Adaptive Estimation (MMAE) method to create an overall model for the marine engine as an SoS. The same model is utilized to predict the respective fuel consumption based on engine operational conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/omae2023-103249"
+    },
+    {
+        "id": 11536,
+        "title": "GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation",
+        "authors": "Yanjin Li, Linchuan Xu, Kenji Yamanishi",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdm58522.2023.00041"
+    },
+    {
+        "id": 11537,
+        "title": "A clustering procedure for three-way RNA sequencing data using data transformations and matrix-variate Gaussian mixture models",
+        "authors": "Theresa Scharl, Bettina Grün",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "AbstractRNA sequencing of time-course experiments results in three-way count data where the dimensions are the genes, the time points and the biological units. Clustering RNA-seq data allows to extract groups of co-expressed genes over time. After standardisation, the normalised counts of individual genes across time points and biological units have similar properties as compositional data. We propose the following procedure to suitably cluster three-way RNA-seq data: (1) pre-process the RNA-seq data by calculating the normalised expression profiles, (2) transform the data using the additive log ratio transform to map the composition in the D-part Aitchison simplex to a $$D-1$$\n\nD\n-\n1\n\n-dimensional Euclidean vector, (3) cluster the transformed RNA-seq data using matrix-variate Gaussian mixture models and (4) assess the quality of the overall cluster solution and of individual clusters based on cluster separation in the transformed space using density-based silhouette information and on compactness of the cluster in the original space using cluster maps as a suitable visualisation. The proposed procedure is illustrated on RNA-seq data from fission yeast and results are also compared to an analogous two-way approach after flattening out the biological units.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-024-05717-6"
+    },
+    {
+        "id": 11538,
+        "title": "Incremental Multimodal Surface Mapping via Self-Organizing Gaussian Mixture Models",
+        "authors": "Kshitij Goel, Wennie Tabib",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lra.2023.3327670"
+    },
+    {
+        "id": 11539,
+        "title": "A Numerically Robust Bayesian Filtering Algorithm for Gaussian Mixture Models",
+        "authors": "Adrian G. Wills, Johannes Hendriks, Christopher Renton, Brett Ninness",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.02.012"
+    },
+    {
+        "id": 11540,
+        "title": "Application of Gaussian Mixture Modeling to Identify Household Activities from HEMS Data",
+        "authors": "Katsuhisa Deto, Nanami Iwabuchi, Hideaki Uchida, Yoshiyuki Shimoda, Yohei Yamaguchi",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcce59613.2023.10315419"
+    },
+    {
+        "id": 11541,
+        "title": "Data-Aided Channel Estimation Utilizing Gaussian Mixture Models",
+        "authors": "Franz Weißer, Nurettin Turan, Dominik Semmler, Wolfgang Utschick",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447974"
+    },
+    {
+        "id": 11542,
+        "title": "Overlap-guided Gaussian Mixture Models for Point Cloud Registration",
+        "authors": "Guofeng Mei, Fabio Poiesi, Cristiano Saltori, Jian Zhang, Elisa Ricci, Nicu Sebe",
+        "published": "2023-1",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00449"
+    },
+    {
+        "id": 11543,
+        "title": "Channel Estimation in Massive MIMO with Heavy-Tailed Noise: Gaussian-Mixture Versus Cauchy Models",
+        "authors": "Ziya Gülgün, Erik G. Larsson",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095925"
+    },
+    {
+        "id": 11544,
+        "title": "Advanced Approach for Distributions Parameters Learning in Bayesian Networks with Gaussian Mixture Models and Discriminative Models",
+        "authors": "Irina Deeva, Anna Bubnova, Anna V. Kalyuzhnaya",
+        "published": "2023-1-9",
+        "citations": 3,
+        "abstract": "Bayesian networks are a powerful tool for modelling multivariate random variables. However, when applied in practice, for example, for industrial projects, problems arise because the existing learning and inference algorithms are not adapted to real data. This article discusses two learning and inference problems on mixed data in Bayesian networks—learning and inference at nodes of a Bayesian network that have non-Gaussian distributions and learning and inference for networks that require edges from continuous nodes to discrete ones. First, an approach based on the use of mixtures of Gaussian distributions is proposed to solve a problem when the joint normality assumption is not confirmed. Second, classification models are proposed to solve a problem with edges from continuous nodes to discrete nodes. Experiments have been run on both synthetic datasets and real-world data and have shown gains in modelling quality.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11020343"
+    },
+    {
+        "id": 11545,
+        "title": "The parsimonious Gaussian mixture models with partitioned parameters and their application in clustering",
+        "authors": "Niloofar Aslani Akhore Olyaei, Mojtaba Khazaei, Dariush Najarzadeh",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10260-023-00743-9"
+    },
+    {
+        "id": 11546,
+        "title": "Product of Gaussian Mixture Diffusion Models",
+        "authors": "Martin Zach, Erich Kobler, Antonin Chambolle, Thomas Pock",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "AbstractIn this work, we tackle the problem of estimating the density $$ f_X $$\n\nf\nX\n\n of a random variable $$ X $$\nX\n by successive smoothing, such that the smoothed random variable $$ Y $$\nY\n fulfills the diffusion partial differential equation $$ (\\partial _t - \\Delta _1)f_Y(\\,\\cdot \\,, t) = 0 $$\n\n\n(\n\n∂\nt\n\n-\n\nΔ\n1\n\n)\n\n\nf\nY\n\n\n(\n\n·\n\n,\nt\n)\n\n=\n0\n\n with initial condition $$ f_Y(\\,\\cdot \\,, 0) = f_X $$\n\n\nf\nY\n\n\n(\n\n·\n\n,\n0\n)\n\n=\n\nf\nX\n\n\n. We propose a product-of-experts-type model utilizing Gaussian mixture experts and study configurations that admit an analytic expression for $$ f_Y (\\,\\cdot \\,, t) $$\n\n\nf\nY\n\n\n(\n\n·\n\n,\nt\n)\n\n\n. In particular, with a focus on image processing, we derive conditions for models acting on filter, wavelet, and shearlet responses. Our construction naturally allows the model to be trained simultaneously over the entire diffusion horizon using empirical Bayes. We show numerical results for image denoising where our models are competitive while being tractable, interpretable, and having only a small number of learnable parameters. As a by-product, our models can be used for reliable noise level estimation, allowing blind denoising of images corrupted by heteroscedastic noise.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10851-024-01180-3"
+    },
+    {
+        "id": 11547,
+        "title": "Outdoor THz fading modeling by means of gaussian and gamma mixture distributions",
+        "authors": "Evangelos N. Papasotiriou, Alexandros-Apostolos A. Boulogeorgos, Angeliki Alexiou",
+        "published": "2023-4-19",
+        "citations": 4,
+        "abstract": "AbstractTerahertz (THz) band offers a vast amount of bandwidth and is envisioned to become a key enabler for a number of next generation wireless applications. In this direction, appropriate channel models, encapsulating the large and small-scale fading phenomena, need to be developed for both indoor and outdoor communications environments. The THz large-scale fading characteristics have been extensively investigated for both indoor and outdoor scenarios. The study of indoor THz small-scale fading has recently gained the momentum, while the small-scale fading of outdoor THz wireless channels has not yet been investigated. Motivated by this, this contribution introduces Gaussian mixture (GM) distribution as a suitable small-scale fading model for outdoor THz wireless links. In more detail, multiple outdoor THz wireless measurements recorded at different transceiver separation distance are fed to an expectation-maximization fitting algorithm, which returns the parameters of the GM probability density function. The fitting accuracy of the analytical GMs is evaluated in terms of the Kolmogorov-Smirnov, Kullback-Leibler (KL) and root-mean-square-error (RMSE) tests. The results reveal that as the number of mixtures increases the resulting analytical GMs perform a better fit to the empirical distributions. In addition, the KL and RMSE metrics indicate that the increase of mixtures beyond a particular number result to no significant improvement of the fitting accuracy. Finally, following the same approach as in the case of GM, we examine the suitability of mixture Gamma to capture the small-scale fading characteristics of the outdoor THz channels.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-33598-x"
+    },
+    {
+        "id": 11548,
+        "title": "Nonlinear Structural Equation Model Guided Gaussian Mixture Hierarchical Topic Modeling",
+        "authors": "HeGang Chen, Pengbo Mao, Yuyin Lu, Yanghui Rao",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-long.578"
+    },
+    {
+        "id": 11549,
+        "title": "Determining classes of food items for health requirements and nutrition guidelines using Gaussian mixture models",
+        "authors": "Yusentha Balakrishna, Samuel Manda, Henry Mwambi, Averalda van Graan",
+        "published": "2023-10-13",
+        "citations": 0,
+        "abstract": "IntroductionThe identification of classes of nutritionally similar food items is important for creating food exchange lists to meet health requirements and for informing nutrition guidelines and campaigns. Cluster analysis methods can assign food items into classes based on the similarity in their nutrient contents. Finite mixture models use probabilistic classification with the advantage of taking into account the uncertainty of class thresholds.MethodsThis paper uses univariate Gaussian mixture models to determine the probabilistic classification of food items in the South African Food Composition Database (SAFCDB) based on nutrient content.ResultsClassifying food items by animal protein, fatty acid, available carbohydrate, total fibre, sodium, iron, vitamin A, thiamin and riboflavin contents produced data-driven classes with differing means and estimates of variability and could be clearly ranked on a low to high nutrient contents scale. Classifying food items by their sodium content resulted in five classes with the class means ranging from 1.57 to 706.27 mg per 100 g. Four classes were identified based on available carbohydrate content with the highest carbohydrate class having a mean content of 59.15 g per 100 g. Food items clustered into two classes when examining their fatty acid content. Foods with a high iron content had a mean of 1.46 mg per 100 g and was one of three classes identified for iron. Classes containing nutrient-rich food items that exhibited extreme nutrient values were also identified for several vitamins and minerals.DiscussionThe overlap between classes was evident and supports the use of probabilistic classification methods. Food items in each of the identified classes were comparable to allowed food lists developed for therapeutic diets. This data-driven ranking of nutritionally similar classes could be considered for diet planning for medical conditions and individuals with dietary restrictions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fnut.2023.1186221"
+    },
+    {
+        "id": 11550,
+        "title": "Evaluation of location-data based features using Gaussian mixture models for age group estimation",
+        "authors": "Yohei Kakimoto, Yuto Omae",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "Abstract\nSeveral studies have estimated the demographics and behavioral patterns of users of mobile devices, such as smartphones, using a variety of information obtained from such devices. However, most studies have estimated unknown demographics by correlating the geographical information of users with their mobile device usage histories and social networks. In such cases, significant costs are incurred in preprocessing the data before building an estimation model. Therefore, in this study, we verified whether user demographics can be estimated using only location data obtained from mobile devices. We constructed a machine-learning model that classifies user age groups into two classes, young and elderly, based on the input features generated from location information using a Gaussian-mixture model. By measuring the classification performance of the constructed model, we confirmed that location information contained the information necessary for user attribute estimation. Experimental results confirmed that the classification model constructed based on location information exhibited high classification accuracy for the two classes of equally sampled age groups. These findings indicate that location data contain the necessary information for estimating user demographics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2701/1/012070"
+    },
+    {
+        "id": 11551,
+        "title": "An integrated approach combining randomized kernel PCA, Gaussian mixture modeling and ICA for fault detection in non-linear processes",
+        "authors": "Amir Khurshid, Ajaya Kumar Pani",
+        "published": "2024-3-22",
+        "citations": 0,
+        "abstract": "Abstract\nPrincipal component analysis (PCA) and independent component analysis (ICA) as well as their kernel extensions have been widely applied in the past for industrial fault detection with Gaussian or non-Gaussian process data with linear or non-linear characteristics. Kernel based techniques lead to computational complexity due to the high dimensionality of the dataset in the feature space. In this work, randomization approach is used to obtain a low rank approximation of the high dimensional kernel matrix. A hybrid machine learning technique is proposed that integrates randomized kernel PCA (RKPCA) with ICA and Gaussian mixture modeling (GMM). The proposed approach ICA-RKPCA-GMM takes care of Gaussian and non-Gaussian characteristics of non-linear process data. Another hybrid algorithm combining three basic techniques of ICA, PCA and GMM is also developed (ICA-PCA-GMM). Fault detection performances of the proposed techniques (ICA-RKPCA-GMM and ICA-PCA-GMM) are compared with PCA, ICA, KPCA and combined ICA-PCA techniques by applying the techniques on two benchmark systems. Monitoring performances were evaluated by determining the false alarm rate (FAR) and fault detection rate (FDR) for different types of process and sensor faults. Simulation results show that the proposed ICA-RKPCA-GMM approach yields better results than individual techniques of ICA, PCA, KPCA, the combined ICA-PCA and the proposed ICA-PCA-GMM technique.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6501/ad36d8"
+    },
+    {
+        "id": 11552,
+        "title": "Enhancing Human Action Recognition with Asymmetric Generalized Gaussian Mixture Model-Based Hidden Markov Models and Bounded Support",
+        "authors": "Hussein Al–Bazzaz, Muhammad Azam, Manar Amayri, Nizar Bouguila",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/smc53992.2023.10394608"
+    },
+    {
+        "id": 11553,
+        "title": "MID-Attribute Speaker Generation Using Optimal-Transport-Based Interpolation of Gaussian Mixture Models",
+        "authors": "Aya Watanabe, Shinnosuke Takamichi, Yuki Saito, Detai Xin, Hiroshi Saruwatari",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10097113"
+    },
+    {
+        "id": 11554,
+        "title": "Segmentation of Stacked Leaf Images for Enhanced Visual Monitoring Using Gaussian Mixture Models (GMM) Algorithms",
+        "authors": "Suyud Widiono, Edi Noersasongko,  Purwanto, M. Arief Soeleman",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isriti60336.2023.10467486"
+    },
+    {
+        "id": 11555,
+        "title": "A Robust Spectral Clustering Algorithm for Sub-Gaussian Mixture Models with Outliers",
+        "authors": "Prateek R. Srivastava, Purnamrita Sarkar, Grani A. Hanasusanto",
+        "published": "2023-1",
+        "citations": 2,
+        "abstract": " Traditional clustering algorithms such as k-means and vanilla spectral clustering are known to deteriorate significantly in the presence of outliers. Several previous works in literature have proposed robust variants of these algorithms; however, they do not provide any theoretical guarantees. Extending previous clustering literature on Gaussian mixture models, in their paper “A Robust Spectral Clustering Algorithm for Sub-Gaussian Mixture Models with Outliers,” Prateek R. Srivastava, Purnamrita Sarkar, and Grani A. Hanasusanto developed a new spectral clustering algorithm and provided error bounds for the algorithm under a general sub-Gaussian mixture model setting with outliers. Surprisingly, their derived error bound matches with the best-known bound for semidefinite programs under the same setting without outliers. Numerical experiments on a variety of simulated and real-world data sets further demonstrate that their algorithm is less sensitive to outliers compared with other state-of-the-art algorithms. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1287/opre.2022.2317"
+    },
+    {
+        "id": 11556,
+        "title": "Classifier Fusion Based on Gaussian Mixture Models (GMM) and Support Vector Machine (SVM) in the Function of Classification Emotional Speech, Using Spectral and Prosodic Features",
+        "authors": "D. Veljković, D. Rančić",
+        "published": "2023-10-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/miel58498.2023.10315792"
+    },
+    {
+        "id": 11557,
+        "title": "Stochastic first-order learning for large-scale flexibly tied Gaussian mixture models",
+        "authors": "Mohammad Pasande, Reshad Hosseini, Babak Nadjar Araabi",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.12.021"
+    },
+    {
+        "id": 11558,
+        "title": "Identification of room occupancy and activity based on Gaussian Mixture Modeling of HEMS data",
+        "authors": "Hideaki Uchida, Nanami Iwabuchi, Yohei Yamaguchi, Yoshiyuki Shimoda",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26868/25222708.2023.1509"
+    },
+    {
+        "id": 11559,
+        "title": "An Efficient Vehicle Detection and Shadow Removal Using Gaussian Mixture Models with Blob Analysis for Machine Vision Application",
+        "authors": "S. Rajkumar, A. Hariharan, S. Girish, Manoj Arulmurugan",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-01832-y"
+    },
+    {
+        "id": 11560,
+        "title": "Consistency of mixture models with a prior on the number of components",
+        "authors": "Jeffrey W. Miller",
+        "published": "2023-3-9",
+        "citations": 1,
+        "abstract": "Abstract\nThis article establishes general conditions for posterior consistency of Bayesian finite mixture models with a prior on the number of components. That is, we provide sufficient conditions under which the posterior concentrates on neighborhoods of the true parameter values when the data are generated from a finite mixture over the assumed family of component distributions. Specifically, we establish almost sure consistency for the number of components, the mixture weights, and the component parameters, up to a permutation of the component labels. The approach taken here is based on Doob’s theorem, which has the advantage of holding under extraordinarily general conditions, and the disadvantage of only guaranteeing consistency at a set of parameter values that has probability one under the prior. However, we show that in fact, for commonly used choices of prior, this yields consistency at Lebesgue-almost all parameter values, which is satisfactory for most practical purposes. We aim to formulate the results in a way that maximizes clarity, generality, and ease of use.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/demo-2022-0150"
+    },
+    {
+        "id": 11561,
+        "title": "ICA and IVA bounded multivariate generalized Gaussian mixture based hidden Markov models",
+        "authors": "Ali H. Al-gumaei, Muhammad Azam, Manar Amayri, Nizar Bouguila",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106345"
+    },
+    {
+        "id": 11562,
+        "title": "Regression with continuous mixture of Gaussian distributions for modeling the memory time of water treatment",
+        "authors": "Nahla Ben Salah",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03610926.2024.2303992"
+    },
+    {
+        "id": 11563,
+        "title": "Expectation-Maximization Algorithms for Gaussian Mixture Models Using Linear Algebra Libraries on Parallel Shared-Memory Systems",
+        "authors": "Wojciech Kwedlo",
+        "published": "2023-9-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15439/2023f9859"
+    },
+    {
+        "id": 11564,
+        "title": "Gaussian Mixture Models in R",
+        "authors": "Bastien Chassagnol, Antoine Bichat, Cheïma Boudjeniba, Pierre-Henri Wuillemin, Mickaël Guedj, David Gohel, Gregory Nuel, Etienne Becht",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32614/rj-2023-043"
+    },
+    {
+        "id": 11565,
+        "title": "FractalRG: Advanced fractal region growing using Gaussian mixture models for left atrium segmentation",
+        "authors": "Marjan Firouznia, Javad Alikhani Koupaei, Karim Faez, Aziza Saber Jabdaragh, Cigdem Gunduz-Demir",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dsp.2024.104411"
+    },
+    {
+        "id": 11566,
+        "title": "Using Deep-Learning for 5G End-to-End Delay Estimation Based on Gaussian Mixture Models",
+        "authors": "Diyar Fadhil, Rodolfo Oliveira",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "Deep learning is used in various applications due to its advantages over traditional Machine Learning (ML) approaches in tasks encompassing complex pattern learning, automatic feature extraction, scalability, adaptability, and performance in general. This paper proposes an end-to-end (E2E) delay estimation method for 5G networks through deep learning (DL) techniques based on Gaussian Mixture Models (GMM). In the first step, the components of a GMM are estimated through the Expectation-Maximization (EM) algorithm and are subsequently used as labeled data in a supervised deep learning stage. A multi-layer neural network model is trained using the labeled data and assuming different numbers of E2E delay observations for each training sample. The accuracy and computation time of the proposed deep learning estimator based on the Gaussian Mixture Model (DLEGMM) are evaluated for different 5G network scenarios. The simulation results show that the DLEGMM outperforms the GMM method based on the EM algorithm, in terms of the accuracy of the E2E delay estimates, although requiring a higher computation time. The estimation method is characterized for different 5G scenarios, and when compared to GMM, DLEGMM reduces the mean squared error (MSE) obtained with GMM between 1.7 to 2.6 times.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14120648"
+    },
+    {
+        "id": 11567,
+        "title": "Satellite Image Segmentation for Forest Fire Risk Detection using Gaussian Mixture Models",
+        "authors": "Aditya A. Deshmukh, Sunil D. B. Sonar, Rohit V. Ingole, Rahul Agrawal, Chetan Dhule, Nekita Chavan Morris",
+        "published": "2023-5-4",
+        "citations": 9,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaaic56838.2023.10140399"
+    },
+    {
+        "id": 11568,
+        "title": "A prediction model for healthcare time-series data with a mixture of deep mixed effect models using Gaussian processes",
+        "authors": "Jaehyoung Hong, Hyonho Chun",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bspc.2023.104753"
+    },
+    {
+        "id": 11569,
+        "title": "Forensic Comparison of Soil Particles Using Gaussian Mixture Models and Likelihood Ratio Test",
+        "authors": "Martin Jonák, Jan Dorazil, Martin Kolařík, Štěpán Ježek, Radim Burget, Marek Kotrlý",
+        "published": "2023-10-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icumt61075.2023.10333101"
+    },
+    {
+        "id": 11570,
+        "title": "Application of Gaussian mixture models to quantify the upper background threshold for perfluorooctane sulfonate (PFOS) in U.S. surface soil",
+        "authors": "Richard Hunter Anderson, Mahsa Modiri",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10661-024-12400-z"
+    },
+    {
+        "id": 11571,
+        "title": "Explainable Outlier Detection Using Feature Ranking for k-Nearest Neighbors, Gaussian Mixture Model and Autoencoders",
+        "authors": "Lucas Krenmayr, Markus Goldstein",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011631900003411"
+    },
+    {
+        "id": 11572,
+        "title": "A novel variational robust filter with Gaussian mixture model for unknown non-Gaussian noises",
+        "authors": "Hongpo Fu, Yongmei Cheng, Wei Huang",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.measurement.2023.113417"
+    },
+    {
+        "id": 11573,
+        "title": "Improving the CFSv2 Seasonal Precipitation Forecasts across the United States by Combining Weather Regimes and Gaussian Mixture Models",
+        "authors": "Cody Ratterman, Wei Zhang, Grace Affram, Bradley Vernon",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "Abstract\nAlthough seasonal climate forecasts have major socioeconomic impacts, current forecast products, especially those for precipitation, are not yet reliable for forecasters and decision-makers. Here we developed a novel statistical–dynamical hybrid model for precipitation by applying weather regimes (WRs) and Gaussian mixture models (WR-GMM) to the National Oceanic and Atmospheric Administration’s Climate Forecast System, version 2 (CFSv2), precipitation forecasts across the continental United States. Instead of directly forecasting precipitation, WR-GMM uses observed precipitation from synoptic patterns similar to the future CFSv2 forecast. Traditionally K-means has been used to classify daily synoptic patterns into individual WRs, but the new GMM approach allows multiple WRs to be represented for the same day. The novel WR-GMM forecast model is trained on daily Climate Forecast System Reanalysis (CFSR) geopotential height and observed precipitation data during the 1981–2010 period and is verified for 2011–22. Overall, the WR-GMM method outperforms the CFSv2 ensemble forecast precipitation in terms of root-mean-square error and for Pearson correlation coefficient for lead months 1–4. Previous studies have used global climate models to forecast WRs in the Pacific Ocean and Mediterranean Sea regions, usually with an emphasis on winter months, but the WR-GMM model is the first of its kind that promises great untapped potential to improve precipitation forecasts produced by CFSv2 across the continental United States.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1175/jhm-d-22-0188.1"
+    },
+    {
+        "id": 11574,
+        "title": "Color Analysis Based on Multivariate Gaussian Mixture Models for Froth Flotation Monitoring",
+        "authors": "Jae-Won An, Yun-Ho Ko",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.9717/kmms.2023.26.3.457"
+    },
+    {
+        "id": 11575,
+        "title": "Gaussian Mixture Model Uncertainty Modeling for Power Systems Considering Mutual Assistance of Latent Variables",
+        "authors": "Xiao Yang, Yuanzheng Li, Yong Zhao, Yang Li, Guokai Hao, Yanwu Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tste.2024.3356259"
+    },
+    {
+        "id": 11576,
+        "title": "Angular Central Gaussian and Watson Mixture Models for Assessing Dynamic Functional Brain Connectivity During a Motor Task",
+        "authors": "Anders S. Olsen, Emil Ortvald, Kristoffer H. Madsen, Mikkel N. Schmidt, Morten Mørup",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icasspw59220.2023.10193021"
+    },
+    {
+        "id": 11577,
+        "title": "Local Minima Structures in Gaussian Mixture Models",
+        "authors": "Yudong Chen, Dogyoon Song, Xumei Xi, Yuqian Zhang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tit.2024.3374716"
+    },
+    {
+        "id": 11578,
+        "title": "Distributed Control for Human-Swarm Interaction In Non-Convex Environments using Gaussian Mixture Models",
+        "authors": "Mattia Catellani, Eloisa Mazzocco, Filippo Bertoncelli, Lorenzo Sabattini",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ifacol.2023.10.1475"
+    },
+    {
+        "id": 11579,
+        "title": "A new iterative initialization of EM algorithm for Gaussian mixture models",
+        "authors": "Jie You, Zhaoxuan Li, Junli Du",
+        "published": "2023-4-13",
+        "citations": 1,
+        "abstract": "\nBackground\nThe expectation maximization (EM) algorithm is a common tool for estimating the parameters of Gaussian mixture models (GMM). However, it is highly sensitive to initial value and easily gets trapped in a local optimum.\n\n\nMethod\nTo address these problems, a new iterative method of EM initialization (MRIPEM) is proposed in this paper. It incorporates the ideas of multiple restarts, iterations and clustering. In particular, the mean vector and covariance matrix of sample are calculated as the initial values of the iteration. Then, the optimal feature vector is selected from the candidate feature vectors by the maximum Mahalanobis distance as a new partition vector for clustering. The parameter values are renewed continuously according to the clustering results.\n\n\nResults\nTo verify the applicability of the MRIPEM, we compared it with other two popular initialization methods on simulated and real datasets, respectively. The comparison results of the three stochastic algorithms indicate that MRIPEM algorithm is comparable in relatively high dimensions and high overlaps and significantly better in low dimensions and low overlaps.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0284114"
+    },
+    {
+        "id": 11580,
+        "title": "Detecting Extreme Temperature Events Using Gaussian Mixture Models",
+        "authors": "Aytaç Paçal, Birgit Hassler, Katja Weigel, M. Levent Kurnaz, Michael F. Wehner, Veronika Eyring",
+        "published": "2023-9-27",
+        "citations": 0,
+        "abstract": "AbstractExtreme temperature events have traditionally been detected assuming a unimodal distribution of temperature data. We found that surface temperature data can be described more accurately with a multimodal rather than a unimodal distribution. Here, we applied Gaussian Mixture Models (GMM) to daily near‐surface maximum air temperature data from the historical and future Coupled Model Intercomparison Project Phase 6 (CMIP6) simulations for 46 land regions defined by the Intergovernmental Panel on Climate Change. Using the multimodal distribution, we found that temperature extremes, defined based on daily data in the warmest mode of the GMM distributions, are getting more frequent in all regions. Globally, a 10‐year extreme temperature event relative to 1985–2014 conditions will occur 13.6 times more frequently in the future under 3.0°C of global warming levels (GWL). The frequency increase can be even higher in tropical regions, such that 10‐year extreme temperature events will occur almost twice a week. Additionally, we analyzed the change in future temperature distributions under different GWL and found that the hot temperatures are increasing faster than cold temperatures in low latitudes, while the cold temperatures are increasing faster than the hot temperatures in high latitudes. The smallest changes in temperature distribution can be found in tropical regions, where the annual temperature range is small. Our method captures the differences in geographical regions and shows that the frequency of extreme events will be even higher than reported in previous studies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1029/2023jd038906"
+    },
+    {
+        "id": 11581,
+        "title": "Gaussian Mixture Models and its Parameter Estimation to Describe the Distributions of PMU Random Errors in Power Systems",
+        "authors": "Guangyu Na, Wenchao Song, Chao Lu, Xuemei Chen",
+        "published": "2023-9-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cpese59653.2023.10303218"
+    },
+    {
+        "id": 11582,
+        "title": "Human Fall Detection using Gaussian Mixture Model and Fall Motion Mixture Model",
+        "authors": "K Durga Bhavani, M Ferni Ukrit",
+        "published": "2023-8-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icirca57980.2023.10220913"
+    },
+    {
+        "id": 11583,
+        "title": "Gaussian mixture models for the optimal sparse sampling of offshore wind resource",
+        "authors": "Robin Marcille, Maxime Thiébaut, Pierre Tandeo, Jean-François Filipot",
+        "published": "2023-5-17",
+        "citations": 0,
+        "abstract": "Abstract. Wind resource assessment is a crucial step for the development of offshore wind energy. It relies on the installation of measurement devices, whose placement is an open challenge for developers. Indeed, the optimal sensor placement for field reconstruction is an open challenge in the field of sparse sampling. As for the application to offshore wind field reconstruction, no similar study was found, and standard strategies are based on semi-empirical choices. In this paper, a sparse sampling method using a Gaussian mixture model on numerical weather prediction data is developed for offshore wind reconstruction. It is applied to France's main offshore wind energy development areas: Normandy, southern Brittany and the Mediterranean Sea. The study is based on 3 years of Météo-France AROME's data, available through the MeteoNet data set. Using a Gaussian mixture model for data clustering, it leads to optimal sensor locations with regards to wind field reconstruction error. The proposed workflow is described and compared to state-of-the-art methods for sparse sampling. It constitutes a robust yet simple method for the definition of optimal sensor siting for offshore wind field reconstruction. The described method applied to the study area output sensor arrays of respectively seven, four and four sensors for Normandy, southern Brittany and the Mediterranean Sea. Those sensor arrays perform approximately 20 % better than the median Monte Carlo case and more than 30 % better than state-of-the-art methods with regards to wind field reconstruction error.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/wes-8-771-2023"
+    },
+    {
+        "id": 11584,
+        "title": "Integrating Molecular Models Into CryoEM Heterogeneity Analysis Using Scalable High-resolution Deep Gaussian Mixture Models",
+        "authors": "Muyuan Chen, Bogdan Toader, Roy Lederman",
+        "published": "2023-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jmb.2023.168014"
+    },
+    {
+        "id": 11585,
+        "title": "Deep Gaussian Mixture Variational Information Bottleneck",
+        "authors": "Xiaojing Zuo",
+        "published": "2023-7-12",
+        "citations": 0,
+        "abstract": "On supervised learning tasks, introducing an information bottleneck can guide the model to focus on the more discriminative features in the input, which can effectively prevent overfitting. The deep variational information bottleneck aims to learn a global Gaussian latent variable using the neural network, which compresses mutual information with the input features and retains the most relevant information with the output features as much as possible. However, for the input containing complex semantic information, such as multi-label classification datasets, the latent variable obeying a simple Gaussian distribution may not necessarily capture rich representations. To alleviate this drawback, in this paper, we propose a new approach called Gaussian Mixture Variational Information Bottleneck (GMVIB) where the latent variable follows Gaussian mixture distribution. Then we generate Multi-MNIST and Multi-FashionMNIST, the multi-label classification datasets based on MNIST and FashionMNIST. Our experiments on these datasets show that the proposed approach learns a more efficient embedding representation and achieves competitive performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56028/aetr.6.1.421.2023"
+    },
+    {
+        "id": 11586,
+        "title": "Robotic Kinematic Calibration with Only Position Data and Consideration of Non-Geometric Errors Using POE-Based Model and Gaussian Mixture Models",
+        "authors": "Xiao Luo, Yitian Xian, Mancheong Lei, Jian Li, Ke Xie, Limin Zou, Zheng Li",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10341731"
+    },
+    {
+        "id": 11587,
+        "title": "Terrain Estimation for Off-Road Vehicles Using Gaussian Mixture Model",
+        "authors": "Alok Kumar, Atul Kelkar",
+        "published": "2023-12-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icc61519.2023.10442253"
+    },
+    {
+        "id": 11588,
+        "title": "Learning Transient Electromyographic Activities during Lower-limb Motion Initiation using Gaussian Mixture Hidden Markov Models",
+        "authors": "Huiwen Jin, Zhiping Lin, Yongming Chen, Haihong Zhang, Chuanchu Wang, Soon Huat Ng, Christina Ka Yin Tang, Kai Keng Ang",
+        "published": "2023-8-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciea58696.2023.10241881"
+    },
+    {
+        "id": 11589,
+        "title": "Clustering of childhood Diarrhea diseases using gaussian mixture model",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28919/cmbn/8365"
+    },
+    {
+        "id": 11590,
+        "title": "Point Cloud Registration Based on Learning Gaussian Mixture Models With Global-Weighted Local Representations",
+        "authors": "Hong Chen, Baifan Chen, Zishuo Zhao, Baojun Song",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lgrs.2023.3256005"
+    },
+    {
+        "id": 11591,
+        "title": "Semiparametric mixture of linear regressions with nonparametric Gaussian scale mixture errors",
+        "authors": "Sangkon Oh, Byungtae Seo",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11634-023-00570-6"
+    },
+    {
+        "id": 11592,
+        "title": "Towards Efficient Modeling and Inference in Multi-Dimensional Gaussian Process State-Space Models",
+        "authors": "Zhidi Lin, Juan Maroñas, Ying Li, Feng Yin, Sergios Theodoridis",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10447126"
+    },
+    {
+        "id": 11593,
+        "title": "Gaussian mixture modeling of acceleration-derived signal for monitoring external physical load of tennis player",
+        "authors": "Yoshihiro Marutani, Shoji Konda, Issei Ogasawara, Keita Yamasaki, Teruki Yokoyama, Etsuko Maeshima, Ken Nakata",
+        "published": "2023-3-24",
+        "citations": 1,
+        "abstract": "Introduction: With the widespread use of wearable sensors, various methods to evaluate external physical loads using acceleration signals measured by inertial sensors in sporting activities have been proposed. Acceleration-derived external physical loads have been evaluated as a simple indicator, such as the mean or cumulative values of the target interval. However, such a conventional simplified indicator may not adequately represent the features of the external physical load in sporting activities involving various movement intensities. Therefore, we propose a method to evaluate the external physical load of tennis player based on the histogram of acceleration-derived signal obtained from wearable inertial sensors.Methods: Twenty-eight matches of 14 male collegiate players and 55 matches of 55 male middle-aged players wore sportswear-type wearable sensors during official tennis matches. The norm of the three-dimensional acceleration signal measured using the wearable sensor was smoothed, and the rest period (less than 0.3 G of at least 5 s) was excluded. Because the histogram of the processed acceleration signal showed a bimodal distribution, for example, high- and low-intensity peaks, a Gaussian mixture model was fitted to the histogram, and the model parameters were obtained to characterize the bimodal distribution of the acceleration signal for each player.Results: Among the obtained Gaussian mixture model parameters, the linear discrimination analysis revealed that the mean and standard deviation of the high-intensity side acceleration value accurately classified collegiate and middle-aged players with 93% accuracy; however, the conventional method (only the overall mean) showed less accurate classification results (63%).Conclusion: The mean and standard deviation of the high-intensity side extracted by the Gaussian mixture modeling is found to be the effective parameter representing the external physical load of tennis players. The histogram-based feature extraction of the acceleration-derived signal that exhibit multimodal distribution may provide a novel insight into monitoring external physical load in other sporting activities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fphys.2023.1161182"
+    },
+    {
+        "id": 11594,
+        "title": "Noise Filtering Algorithm Using Gaussian Mixture Models for High-Resolution Mass Spectra of Natural Organic Matter",
+        "authors": "Alexander A. Potemkin, Mikhail A. Proskurnin, Dmitry S. Volkov",
+        "published": "2024-4-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/acs.analchem.3c05453"
+    },
+    {
+        "id": 11595,
+        "title": "Recent Advances in Statistical Mixture Models: Challenges and Applications",
+        "authors": "Sami Bourouis",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011660900003411"
+    },
+    {
+        "id": 11596,
+        "title": "Automatic identifying OSAHS patients and simple snorers based on Gaussian mixture models",
+        "authors": "Xiaoran Sun, Li Ding, Yujun Song, Jianxin Peng, Lijuan Song, Xiaowen Zhang",
+        "published": "2023-4-1",
+        "citations": 1,
+        "abstract": "Abstract\n\nObjective. Snoring is a typical symptom of Obstructive Sleep Apnea Hypopnea Syndrome (OSAHS). In this study, an effective OSAHS patient detection system based on snoring sounds is presented.Approach. The Gaussian mixture model (GMM) is proposed to explore the acoustic characteristics of snoring sounds throughout the whole night to classify simple snores and OSAHS patients respectively. A series of acoustic features of snoring sounds of are selected based on the Fisher ratio and learned by GMM. Leave-one-subject-out cross validation experiment based on 30 subjects is conducted to validation the proposed model. There are 6 simple snorers (4 male and 2 female) and 24 OSAHS patients (15 male and 9 female) investigated in this work. Results indicates that snoring sounds of simple snorers and OSAHS patients have different distribution characteristics. Main results. The proposed model achieves average accuracy and precision with values of 90.0% and 95.7% using selected features with a dimension of 100 respectively. The average prediction time of the proposed model is 0.134 ± 0.005 s. Significance. The promising results demonstrate the effectiveness and low computational cost of diagnosing OSAHS patients using snoring sounds at home.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1361-6579/accd43"
+    },
+    {
+        "id": 11597,
+        "title": "A Gaussian mixture model with multiple tangent planes",
+        "authors": "Sara Akodad, Lionel Bombrun, Christian Germain, Yannick Berthoumieu",
+        "published": "2023-9-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/eusipco58844.2023.10289915"
+    },
+    {
+        "id": 11598,
+        "title": "Online Consistent Video Depth with Gaussian Mixture Representation",
+        "authors": "Chao Liu, Benjamin Eckart, Jan Kautz",
+        "published": "2023-5-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icra48891.2023.10160785"
+    },
+    {
+        "id": 11599,
+        "title": "Gaussian Mixture Representation of 3- D Phased Array Radar Measurements in Sine Space",
+        "authors": "Michael Kowalski, Dale Blair, Paul Miceli",
+        "published": "2023-3-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aero55745.2023.10115679"
+    },
+    {
+        "id": 11600,
+        "title": "Preprocessing Large Datasets Using Gaussian Mixture Modelling to Improve Prediction Accuracy of Truck Productivity at Mine Sites",
+        "authors": "",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24425/ams.2022.143680"
+    },
+    {
+        "id": 11601,
+        "title": "HGMVAE: hierarchical disentanglement in Gaussian mixture variational autoencoder",
+        "authors": "Jiashuang Zhou, Yongqi Liu, Xiaoqin Du",
+        "published": "2024-4-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00371-024-03338-x"
+    },
+    {
+        "id": 11602,
+        "title": "Refining Saliency Maps Using Gaussian Mixture Model",
+        "authors": "Seung-Ho Han, Ho-Jin Choi",
+        "published": "2024-2-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp60711.2024.00018"
+    },
+    {
+        "id": 11603,
+        "title": "Modeling Heterogeneity in Temporal Dynamics: Extending Latent State-Trait Autoregressive and Cross-lagged Panel Models to Mixture Distribution Models",
+        "authors": "Jana Holtmann, Michael Eid, Philip S. Santangelo, Tobias D. Kockler, Ulrich W. Ebner-Priemer",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/00273171.2023.2201824"
+    },
+    {
+        "id": 11604,
+        "title": "Multi-modal hybrid modeling strategy based on Gaussian Mixture Variational Autoencoder and spatial–temporal attention: Application to industrial process prediction",
+        "authors": "Haifei Peng, Jian Long, Cheng Huang, Shibo Wei, Zhencheng Ye",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chemolab.2023.105029"
+    },
+    {
+        "id": 11605,
+        "title": "Weighted ensembles of artificial neural networks based on Gaussian mixture modeling for truck productivity prediction at open-pit mines",
+        "authors": "Chengkai Fan, Na Zhang, Bei Jiang, Wei Victor Liu",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42461-023-00747-9"
+    },
+    {
+        "id": 11606,
+        "title": "A Bayesian Gaussian Mixture Model for Probabilistic Modeling of Car-Following Behaviors",
+        "authors": "Xiaoxu Chen, Chengyuan Zhang, Zhanhong Cheng, Yuang Hou, Lijun Sun",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tits.2023.3334909"
+    },
+    {
+        "id": 11607,
+        "title": "Re-understanding of Gaussian Mixture Model Training Mechanism",
+        "authors": "Qingyue Wang, Zilong Han, Chenggang Lu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsp58490.2023.10248808"
+    },
+    {
+        "id": 11608,
+        "title": "Developing a Hidden Markov Model - Gaussian Mixture Model Framework to Classify Gait Patterns in Huntington's Disease",
+        "authors": "Natalie Yeung",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4622913"
+    },
+    {
+        "id": 11609,
+        "title": "Gaussian Mixture Filtering with Nonlinear Measurements Minimizing Forward Kullback-Leibler Divergence",
+        "authors": "Eray Laz, Umut Orguner",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.108992"
+    },
+    {
+        "id": 11610,
+        "title": "Gaussian Process Gaussian Mixture PHD Filter for 3D Multiple Extended Target Tracking",
+        "authors": "Zhiyuan Yang, Xiangqian Li, Xianxun Yao, Jinping Sun, Tao Shan",
+        "published": "2023-6-21",
+        "citations": 4,
+        "abstract": "This paper addresses the problem of tracking multiple extended targets in three-dimensional space. We propose the Gaussian process Gaussian mixture probability hypothesis density (GP-PHD) filter, which is capable of tracking multiple extended targets with complex shapes in the presence of clutter. Our approach combines the Gaussian process regression measurement model with the probability hypothesis density filter to estimate both the kinematic state and the shape of the targets. The shape of the extended target is described by a 3D radial function and is estimated recursively using the Gaussian process regression model. Furthermore, we transform the recursive Gaussian process regression problem into a state estimation problem by deriving a state space model such that the estimation of the extent can be integrated into the kinematic part. We derive the predicted likelihood function of the PHD filter and provide a closed-form Gaussian mixture implementation. To evaluate the performance of the proposed filter, we simulate a typical extended target tracking scenario and compare the GP-PHD filter with the traditional Gamma Gaussian Inverse-Wishart PHD (GGIW-PHD) filter. Our results demonstrate that the proposed algorithm outperforms the GGIW-PHD filter in terms of estimating both kinematic states and shape. We also investigate the impact of the measurement rates on both filters; it is observed that the proposed filter exhibits robustness across various measurement rates, while the GGIW-PHD filter suffers under low-measurement-rate conditions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15133224"
+    },
+    {
+        "id": 11611,
+        "title": "Logging lithofacies identification using Query by Committee strategy and Gaussian mixture Naive Bayes",
+        "authors": "Q. Ren, H. Zhang, L. Azevedo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3997/2214-4609.2023101423"
+    },
+    {
+        "id": 11612,
+        "title": "Analysis of the ECG data based on a Gaussian mixture model",
+        "authors": "Xiaoyu Zhan",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "With the development of The Times, heart disease has become the first killer of human health, and the initial manifestation of heart disease usually is arrhythmia, so it is particularly important to conduct real-time monitoring and analysis of heart rhythm. In this paper, the data analysis of electrocardiogram. First, we preprocessed the heart rate data to improve the accuracy of the subsequent analysis results. Then, the features of the data values were quantified and clustered using a Gaussian mixture model to determine the plausibility of the model. Next, the various characteristic values of the arrhythmia were compared with the normal data, and the arrhythmia was classified. Finally, the entropy weight method is used to empower the risk degree of different indicators, and to evaluate the model to determine the risk level.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/hset.v53i.9712"
+    },
+    {
+        "id": 11613,
+        "title": "Enhancing Pseudo-Labeling Performance in Object Detection Using Gaussian Mixture Modeled Uncertainty",
+        "authors": "Seungil Lee, Hyun Kim",
+        "published": "2024-1-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceic61013.2024.10457103"
+    },
+    {
+        "id": 11614,
+        "title": "Retracted: Mixture of Gaussian Processes Based on Bayesian Optimization",
+        "authors": "",
+        "published": "2023-12-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9860286"
+    },
+    {
+        "id": 11615,
+        "title": "Research on IoT data devices and basketball sports images based on Gaussian mixture model",
+        "authors": "Zepeng Zhao",
+        "published": "2023-7-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-08985-1"
+    },
+    {
+        "id": 11616,
+        "title": "Morning Glory Flower Detection in Aerial Images Using Semi-Supervised Segmentation with Gaussian Mixture Models",
+        "authors": "Sruthi Keerthi Valicharla, Jinge Wang, Xin Li, Srikanth Gururajan, Roghaiyeh Karimzadeh, Yong-Lak Park",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "The invasive morning glory, Ipomoea purpurea (Convolvulaceae), poses a mounting challenge in vineyards by hindering grape harvest and as a secondary host of disease pathogens, necessitating advanced detection and control strategies. This study introduces a novel automated image analysis framework using aerial images obtained from a small fixed-wing unmanned aircraft system (UAS) and an RGB camera for the large-scale detection of I. purpurea flowers. This study aimed to assess the sampling fidelity of aerial detection in comparison with the actual infestation measured by ground validation surveys. The UAS was systematically operated over 16 vineyard plots infested with I. purpurea and another 16 plots without I. purpurea infestation. We used a semi-supervised segmentation model incorporating a Gaussian Mixture Model (GMM) with the Expectation-Maximization algorithm to detect and count I. purpurea flowers. The flower detectability of the GMM was compared with that of conventional K-means methods. The results of this study showed that the GMM detected the presence of I. purpurea flowers in all 16 infested plots with 0% for both type I and type II errors, while the K-means method had 0% and 6.3% for type I and type II errors, respectively. The GMM and K-means methods detected 76% and 65% of the flowers, respectively. These results underscore the effectiveness of the GMM-based segmentation model in accurately detecting and quantifying I. purpurea flowers compared with a conventional approach. This study demonstrated the efficiency of a fixed-wing UAS coupled with automated image analysis for I. purpurea flower detection in vineyards, achieving success without relying on data-driven deep-learning models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/agriengineering6010034"
+    },
+    {
+        "id": 11617,
+        "title": "Deep Gaussian mixture adaptive network for robust soft sensor modeling with a closed-loop calibration mechanism",
+        "authors": "Xiangrui Zhang, Chunyue Song, Jun Zhao, Zuhua Xu",
+        "published": "2023-6",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106124"
+    },
+    {
+        "id": 11618,
+        "title": "Gaussian Mixture Models as Priors in a Gradient-Based Variational Algorithm for Bayesian Elastic Inversion",
+        "authors": "M. Walker, P. Paramo, K. Wolf, J. Zhang, R. Biswas, C. Decalf, S. Gerth, K. Packer, J. Winterbourne, A. Roy, P. Morris, J. Verhaeghe, R. Brown, P. Cook, Y. Zheng, R. Warnick",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3997/2214-4609.202310499"
+    },
+    {
+        "id": 11619,
+        "title": "Ensemble Gaussian Mixture Filtering with Particle-localized Covariances",
+        "authors": "Andrey A Popov, Renato Zanetti",
+        "published": "2023-6-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/fusion52260.2023.10224227"
+    },
+    {
+        "id": 11620,
+        "title": "Human-Robot Collaboration Based on Gaussian-Mixture Model",
+        "authors": "Jiaxin Guo, Luyuan Wang, Jiyang Yu, Weiwei Liu",
+        "published": "2023-4-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccar57134.2023.10151750"
+    },
+    {
+        "id": 11621,
+        "title": "Outlier analysis combined with Gaussian mixture model for structural damage detection",
+        "authors": "J. Prawin, G.S. Vijaya Bhaskara",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.matpr.2023.03.533"
+    },
+    {
+        "id": 11622,
+        "title": "Compressible spectral mixture kernels with sparse dependency structures for Gaussian processes",
+        "authors": "Kai Chen, Feng Yin, Shuguang Cui",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.109179"
+    },
+    {
+        "id": 11623,
+        "title": "Improvement of k-Means Clustering Performance on Disease  Clustering using Gaussian Mixture Model",
+        "authors": "",
+        "published": "2023-9-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33168/jsms.2023.0511"
+    },
+    {
+        "id": 11624,
+        "title": "Hot Topic Clustering based on Gaussian Mixture Model built-in DTW",
+        "authors": "Chenggang Lu, Jiaqi Li",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/prml59573.2023.10348277"
+    },
+    {
+        "id": 11625,
+        "title": "A unifying view for the mixture model of sparse Gaussian processes",
+        "authors": "Yurong Xie, Di Wu, Zhe Qiang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2024.120124"
+    },
+    {
+        "id": 11626,
+        "title": "Dynamic Adoptive Gaussian Mixture Model for Multi-Object Detection Over Natural Scenes",
+        "authors": "Muhammad Waqas Ahmed, Ahmad Jalal",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icacs60934.2024.10473231"
+    },
+    {
+        "id": 11627,
+        "title": "The object tracking and movement prediction based on the Gaussian mixture model",
+        "authors": "Dongsheng Lyu",
+        "published": "2023-6-14",
+        "citations": 0,
+        "abstract": "In modern computer vision study field, it has never been stopped for giving computer human ability and expecting for even more powerful functions. Most research is still in theoretical level and is hard to be applied in individual daily life. Hence it is needed to bring the advantage of new technologies in computer vision field to more people in society. This paper introduces an application in computer vision field, namely the use of Gaussian Mixture Model (GMM) for object track and movement prediction. By using GMM, the computer will have the ability to split an object from the background. Although due to sudden changes in lighting and other external factors, the general modeling of the background is not very clean and clear, the Gaussian Mixture model is one of the most successful modeling methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/4/2022323"
+    },
+    {
+        "id": 11628,
+        "title": "Graph signal interpolation and extrapolation over manifold of Gaussian mixture",
+        "authors": "Itay Zach, Tsvi G. Dvorkind, Ronen Talmon",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.109308"
+    },
+    {
+        "id": 11629,
+        "title": "Dynamic stationary subspace analysis based on Gaussian mixture models for ironmaking process monitoring",
+        "authors": "Hanwen Zhang, Weiwei Fan, Houze Guo, Chunjie Yang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "AbstractBlast furnace ironmaking process monitoring is an important and challenging task. Due to the influence of hot blast stove switching and large fluctuations in the quality of raw materials, the measurements of ironmaking processes show obvious non‐stationary characteristics, and in addition, the observed data are also characterized by time‐series dynamic and non‐Gaussian characteristics. In this paper, a dynamic stationary subspace analysis method based on the Gaussian mixture model (DSSA–GMM) is proposed to address the difficulties in blast furnace ironmaking process monitoring. The time‐series dynamic relationship of the data is conducted by introducing a sliding time window. The Gaussian mixture model (GMM) is used to deal with the non‐Gaussian characteristics of the data, and the parameters of the GMMs are estimated using the expectation–maximization algorithm. The stationary projection matrix is obtained by optimizing the Kullback–Leibler (K–L) divergence between GMMs of different periods to realize the stationary subspace separation. Finally, the convex hull of the stationary subspace is established for fault detection, thus realizing the monitoring for non‐stationary and non‐Gaussian dynamic processes. The effectiveness of the DSSA–GMM method is verified by a numerical simulation and a dataset collected from an actual blast furnace ironmaking process.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/cjce.25107"
+    },
+    {
+        "id": 11630,
+        "title": "Real-Time Seismocardiogram Feature Extraction Using Adaptive Gaussian Mixture Models",
+        "authors": "David Jimmy Lin, Asim Hossain Gazi, Jacob Kimball, Mohammad Nikbakht, Omer T. Inan",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jbhi.2023.3273989"
+    },
+    {
+        "id": 11631,
+        "title": "GAT–GMM: Generative Adversarial Training for Gaussian Mixture Models",
+        "authors": "Farzan Farnia, William W. Wang, Subhro Das, Ali Jadbabaie",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1137/21m1445831"
+    },
+    {
+        "id": 11632,
+        "title": "Automatic Seizure Detection Using Logarithmic Euclidean-Gaussian Mixture Models (LE-GMMs) and Improved Deep Forest Learning",
+        "authors": "Shasha Yuan, Xiang Liu, Junliang Shang, Jin-Xing Liu, Juan Wang, Weidong Zhou",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/jbhi.2022.3230793"
+    },
+    {
+        "id": 11633,
+        "title": "GTGMM: geometry transformer and Gaussian Mixture Models for robust point cloud registration",
+        "authors": "Haibo Zhang, Linqi Hai, Haoran Sun, Xu Wang, Ruoxue Li, Guohua Geng, Mingquan Zhou",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-024-18660-8"
+    },
+    {
+        "id": 11634,
+        "title": "Application of Gaussian Mixture Models for aerosol type analysis in China",
+        "authors": "Tongai Song, Jing Wang, Xingna Yu, Gerrit de Leeuw",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.atmosres.2023.106938"
+    },
+    {
+        "id": 11635,
+        "title": "Learning Gaussian Mixture Representations for Tensor Time Series Forecasting",
+        "authors": "Jiewen Deng, Jinliang Deng, Renhe Jiang, Xuan Song",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Tensor time series (TTS) data, a generalization of one-dimensional time series on a high-dimensional space, is ubiquitous in real-world scenarios, especially in monitoring systems involving multi-source spatio-temporal data (e.g., transportation demands and air pollutants). Compared to modeling time series or multivariate time series, which has received much attention and achieved tremendous progress in recent years, tensor time series has been paid less effort. Properly coping with the tensor time series is a much more challenging task, due to its high-dimensional and complex inner structure. In this paper, we develop a novel TTS forecasting framework, which seeks to individually model each heterogeneity component implied in the time, the location, and the source variables. We name this framework as GMRL, short for Gaussian Mixture Representation Learning. Experiment results on two real-world TTS datasets verify the superiority of our approach compared with the state-of-the-art baselines. Code and data are published on https://github.com/beginner-sketch/GMRL.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/231"
+    },
+    {
+        "id": 11636,
+        "title": "Foreground extraction of air traffic management system surveillance video based on gaussian mixture model",
+        "authors": "Haiqiang Feng",
+        "published": "2023-12-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itaic58329.2023.10408954"
+    },
+    {
+        "id": 11637,
+        "title": "Robot Learning from Multiple Demonstrations Based on Generalized Gaussian Mixture Model",
+        "authors": "Jiale Dong, Weiyong Si, Ning Wang, Chenguang Yang",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icac57885.2023.10275214"
+    },
+    {
+        "id": 11638,
+        "title": "Confident learning-based Gaussian mixture model for leakage detection in water distribution networks",
+        "authors": "Ran Yan, Jeanne Jinhui Huang",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.watres.2023.120773"
+    },
+    {
+        "id": 11639,
+        "title": "Application of the Gaussian Mixture Model for Clustering Partial Discharge Signals in High Voltage Generators",
+        "authors": "Krissana Romphuchaiyapruek, Sarawut Wattanawongpitak",
+        "published": "2023-10-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpei58931.2023.10473810"
+    },
+    {
+        "id": 11640,
+        "title": "Intelligent Motion Capture Technology of Dance Pose Analysis Using Target Deduction and Gaussian Mixture Model",
+        "authors": "Qian Bao",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmnwc60182.2023.10435987"
+    },
+    {
+        "id": 11641,
+        "title": "Retracted: Simulation of Tennis Match Scene Classification Algorithm Based on Adaptive Gaussian Mixture Model Parameter Estimation",
+        "authors": " Complexity",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2024/9823476"
+    },
+    {
+        "id": 11642,
+        "title": "Probabilistic Intraday PV Power Forecast Using Ensembles of Deep Gaussian Mixture Density Networks",
+        "authors": "Oliver Doelle, Nico Klinkenberg, Arvid Amthor, Christoph Ament",
+        "published": "2023-1-5",
+        "citations": 2,
+        "abstract": "There is a growing interest of estimating the inherent uncertainty of photovoltaic (PV) power forecasts with probability forecasting methods to mitigate accompanying risks for system operators. This study aims to advance the field of probabilistic PV power forecast by introducing and extending deep Gaussian mixture density networks (MDNs). Using the sum of the weighted negative log likelihood of multiple Gaussian distributions as a minimizing objective, MDNs can estimate flexible uncertainty distributions with nearly all neural network structures. Thus, the advantages of advances in machine learning, in this case deep neural networks, can be exploited. To account for the epistemic (e.g., model) uncertainty as well, this study applies two ensemble approaches to MDNs. This is particularly relevant for industrial applications, as there is often no extensive (manual) adjustment of the forecast model structure for each site, and only a limited amount of training data are available during commissioning. The results of this study suggest that already seven days of training data are sufficient to generate significant improvements of 23.9% in forecasting quality measured by normalized continuous ranked probability score (NCRPS) compared to the reference case. Furthermore, the use of multiple Gaussian distributions and ensembles increases the forecast quality relatively by up to 20.5% and 19.5%, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en16020646"
+    },
+    {
+        "id": 11643,
+        "title": "Characterizing Traffic Speed Distribution around Scenic Spots with Gaussian Mixture Model",
+        "authors": "Xiu-Jiang Long, Tian-Hao Wang, Lin Wang, Bin Yang, Qing-Hui Nie",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/9780784484869.126"
+    },
+    {
+        "id": 11644,
+        "title": "Detecting the Foreground Dynamic Scenes using Gaussian Mixture Model Analysis Compared with Novel Principal Component Analysis",
+        "authors": "Swathi Baswaraju",
+        "published": "2023-8-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icaiss58487.2023.10250617"
+    },
+    {
+        "id": 11645,
+        "title": "Extreme wind turbine response extrapolation with the Gaussian mixture model",
+        "authors": "Xiaodong Zhang, Nikolay Dimitrov",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "Abstract. The wind turbine extreme response estimation based on statistical extrapolation necessitates using a minimal number of simulations to calculate a low exceedance probability. The target exceedance probability associated with a 50-year return period is 3.8×10-7, which is challenging to evaluate with a small prediction error. The situation is further complicated by the fact that the distribution of the wind turbine response might be multimodal, and the extremes belong to a different statistical population than the main body of the distribution. Traditional theoretical probability distributions, mostly unimodal, may not be suitable for this task. The problem could be alleviated by applying a fit specifically on the tail of the distribution. Yet, a single unimodal distribution may not be sufficient for modeling diverse wind turbine responses, and an inappropriate distribution model could lead to significant prediction errors, including bias and variance errors. The Gaussian mixture model, a probabilistic and flexible mixture distribution model used extensively for clustering and density estimation tasks, is infrequently applied in the wind energy sector. This paper proposes using the Gaussian mixture model to extrapolate extreme wind turbine responses. The performance of two approaches is evaluated: (1) parametric fitting first and aggregation afterward and (2) data aggregation first followed by fitting. Different distribution models are benchmarked against the Gaussian mixture model. The results show that the Gaussian mixture model is capable of estimating a low exceedance probability with minor bias error, even with limited simulation data, and demonstrates flexibility in modeling the distributions of varying response variables.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/wes-8-1613-2023"
+    },
+    {
+        "id": 11646,
+        "title": "Design of Multi-Modal Yoga Gesture Detection Based on Gaussian Mixture Model",
+        "authors": "Ling Ma, Zhaowei Yu",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdiime59043.2023.00045"
+    },
+    {
+        "id": 11647,
+        "title": "Research on fingerprint localization algorithm based on multivariate Gaussian mixture model",
+        "authors": "Yue Tan, Zhenhui Zhang, Danyang Qin",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icetci57876.2023.10176533"
+    },
+    {
+        "id": 11648,
+        "title": "A Time-Saving Alternative to “Peak-Picking” Algorithms: A Gaussian Mixture Model Feature Extraction Technique for the Neurodiagnostic Auditory Brainstem Response",
+        "authors": "Aryn M. Kamerer",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "\nObjectives:\nThe accurate and efficient analysis of neurodiagnostic auditory brainstem responses (ABR) plays a critical role in assessing auditory pathway function in human and animal research and in clinical diagnosis. Traditional analysis of the neurodiagnostic ABR analysis involves visual inspection of the waveform and manually marking peaks and troughs. Visual inspection is a tedious and time-consuming task, especially in research where there may be hundreds or thousands of waveforms to analyze. “Peak-picking” algorithms have made this task faster; however, they are prone to the same errors as visual inspection. A Gaussian mixture model-based feature extraction technique (GMM-FET) is a descriptive model of ABR morphology and an alternative to peak-picking algorithms. The GMM-FET is capable of modeling multiple waves and accounting for wave interactions, compared with other template-matching approaches that fit single waves.\n\n\nDesign:\nThe present study is a secondary analysis applying the GMM-FET to 321 ABRs from adult humans from 2 datasets using different stimuli and recording parameters. Goodness-of-fit of the GMM-FET to waves I and V and surrounding waves, that is, the summating potential and waves IV and VI, was assessed, and latency and amplitude estimations by the GMM-FET were compared with estimations from visual inspection.\n\n\nResults:\nThe GMM-FET had a similar success rate to visual inspection in extracting peak latency and amplitude, and there was low RMS error and high intraclass correlation between the model and response waveform. Mean peak latency differences between the GMM-FET and visual inspection were small, suggesting the two methods chose the same peak in the majority of waveforms. The GMM-FET estimated wave I amplitudes within 0.12 µV of visual inspection, but estimated larger wave V amplitudes than visual inspection.\n\n\nConclusions:\nThe results suggest the GMM-FET is an appropriate method for extracting peak latencies and amplitudes for neurodiagnostic analysis of ABR waves I and V.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/aud.0000000000001498"
+    },
+    {
+        "id": 11649,
+        "title": "W-shaped implied volatility curves and the Gaussian mixture model",
+        "authors": "Paul Glasserman, Dan Pirjol",
+        "published": "2023-4-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/14697688.2023.2165448"
+    },
+    {
+        "id": 11650,
+        "title": "On the Gaussian Volterra processes with power-type kernels",
+        "authors": "Mohamed El Omari",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15326349.2023.2212763"
+    },
+    {
+        "id": 11651,
+        "title": "Asymptotic efficiency in autoregressive processes driven by stationary Gaussian noise",
+        "authors": "Marius Soltane",
+        "published": "2024-1-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15326349.2023.2202227"
+    },
+    {
+        "id": 11652,
+        "title": "An efficient EM algorithm for two-layer mixture model of gaussian process functional regressions",
+        "authors": "Di Wu, Yurong Xie, Zhe Qiang",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.109783"
+    },
+    {
+        "id": 11653,
+        "title": "Asset Pricing and Simulation Analysis Based on the New Mixture Gaussian Processes",
+        "authors": "Bo Peng",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4236/jamp.2023.118153"
+    },
+    {
+        "id": 11654,
+        "title": "Stratified multi-density spectral clustering using Gaussian mixture model",
+        "authors": "Guanli Yue, Ansheng Deng, Yanpeng Qu, Hui Cui, Xueying Wang",
+        "published": "2023-7",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.03.067"
+    },
+    {
+        "id": 11655,
+        "title": "An image defogging algorithm based on gaussian mixture model and transmittance compensation",
+        "authors": "Xiaohui He, Jinbo Lu",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2689514"
+    },
+    {
+        "id": 11656,
+        "title": "Pengelompokan Rumah Sakit di Jakarta Menggunakan Model DBSCAN, Gaussian Mixture, dan Hierarchical Clustering",
+        "authors": "Karli Eka Setiawan, Afdhal Kurniawan",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "Perlu disadari bahwa setelah mengalami pandemi COVID-19, distribusi persebaran fasilitas rumah sakit harus menjadi perhatian utama dalam memenuhi hak-hak dasar dari masyarakat oleh pemerintah tingkat daerah dan tingkat nasional. Oleh karena itu diperlukan sebuah analisis data yang menggambarkan kondisi terkini mengenai persebaran fasilitas rumah sakit khususnya di Jakarta. Analisis Data dengan pendekatan teknik machine learning mampu memberikan beberapa manfaat seperti mendapatkan manfaat dalam memberikan pemahaman mengenai distribusi tenaga kesehatan, memberikan wawasan dalam rangka perencanaan sumber daya manusia, melakukan pemantauan kinerja rumah sakit, dan bahkan menjadi acuan target di masa ddepan dengan prediksi kebutuhan tenaga kesehatan. Penelitian ini mengajukan tiga buah model unsupervised learning, seperti model Density-based spatial clustering of applications with noise algorithm (DBSCAN), model Gaussian Mixture, dan model Agglomerative Hierarchical untuk melakukan pengelompokan sekumpulan data rumah sakit se-Jakarta, Indonesia yang berisi informasi data jumlah berbagai tenaga kerja medis di rumah sakit tersebut dan fasilitas tempat tidurnya. Dataset ini diperoleh dari proses web scrapping pada website Kementerian Kesehatan Republik Indonesia pada tahun 2022. Dari perbandingan ketiga model unsupervised, diperoleh bahwa model Gaussian Mixture menghasilkan nilai Davies Bouldin terkecil dengan nilai . Penelitian ini merupakan lanjutan dari penelitian kami sebelumnya, dimana penelitian tersebut menurut sepengetahuan kami merupakan penelitian pertama yang membahas  pengelompokan data daftar rumah sakit se-Jakarta berdasarkan informasi data jumlah tenaga medis dan jumlah fasilitas tempat tidur yang menjadikan kontribusi dari penelitian ini.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54914/jit.v9i2.995"
+    },
+    {
+        "id": 11657,
+        "title": "Gaussian Mixture Modeling Extensions for Improved False Discovery Rate Estimation in GC–MS Metabolomics",
+        "authors": "Javier E. Flores, Lisa M. Bramer, David J. Degnan, Vanessa L. Paurus, Yuri E. Corilo, Chaevien S. Clendinen",
+        "published": "2023-6-7",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/jasms.3c00039"
+    },
+    {
+        "id": 11658,
+        "title": "Narrowband target tracking method based on gaussian mixture model",
+        "authors": "Qiwen Zeng, Huiliang Ge, Bin Zhou",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3006302"
+    },
+    {
+        "id": 11659,
+        "title": "Research on Video Moving Object Detection Based on Improved Gaussian Mixture Model",
+        "authors": "Jun Xie, Yingnan Liu, Yongqi Zhang, Zhiqiang Wang",
+        "published": "2023-7-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isctis58954.2023.10213149"
+    },
+    {
+        "id": 11660,
+        "title": "Hyperspectral Anomaly Detection Based on Background Purification via Deep Autoencoding Gaussian Mixture Model",
+        "authors": "Zhiyue Wang, Junping Zhang, Ye Zhang, Xinyu Zhou",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10282841"
+    },
+    {
+        "id": 11661,
+        "title": "Unsupervised anomalous sound detection for industrial monitoring based on ArcFace classifier and gaussian mixture model",
+        "authors": "Ji Wu, Fei Yang, Wenkai Hu",
+        "published": "2023-2",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.apacoust.2022.109188"
+    },
+    {
+        "id": 11662,
+        "title": "An Augmented Gaussian Sum Filter through a mixture Decomposition",
+        "authors": "Kostas Tsampourakis, Víctor Elvira",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095899"
+    },
+    {
+        "id": 11663,
+        "title": "Make BERT-based Chinese Spelling Check Model Enhanced by Layerwise Attention and Gaussian Mixture Model",
+        "authors": "Yongchang Cao, Liang He, Zhen Wu, Xinyu Dai",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191265"
+    },
+    {
+        "id": 11664,
+        "title": "Portfolio construction with Gaussian mixture returns and exponential utility via convex optimization",
+        "authors": "Eric Luxenberg, Stephen Boyd",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11081-023-09814-y"
+    },
+    {
+        "id": 11665,
+        "title": "MODIFICATION OF ASSOCIATIVE GAUSSIAN MIXTURE MODEL IN EXPERT ASSESSMENTS",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21667/1995-4565-2023-85-54-64"
+    },
+    {
+        "id": 11666,
+        "title": "Predicting Power Quality Disturbance Events from Weather Conditions Using Gaussian Mixture Model and Decision Tree",
+        "authors": "Ali Asheibi, Ashraf Khalil, Zakariya Rajab",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iceee59925.2023.00091"
+    },
+    {
+        "id": 11667,
+        "title": "An accuracy detection system of lyrics singing based on Gaussian mixture model",
+        "authors": "Jianshu Wang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijict.2023.132770"
+    },
+    {
+        "id": 11668,
+        "title": "Data Mining Approach Based on Hierarchical Gaussian Mixture Representation Model",
+        "authors": "Hanan A. Hosni Mahmoud, Alaaeldin M. Hafez, Fahd Althukair",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.031442"
+    },
+    {
+        "id": 11669,
+        "title": "Robust Frequency Estimation Under Additive Symmetric α-Stable Gaussian Mixture Noise",
+        "authors": "Peng Wang, Yulu Tian, Bolong Men, Hailong Song",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.027602"
+    },
+    {
+        "id": 11670,
+        "title": "Gaussian Mixture Estimation from Lower-Dimensional Data with Application to PET Imaging",
+        "authors": "Azra Tafro, Damir Seršić",
+        "published": "2024-3-4",
+        "citations": 1,
+        "abstract": "In positron emission tomography (PET), the original points of emission are unknown, and the scanners record pairs of photons emitting from those origins and creating lines of response (LORs) in random directions. This presents a latent variable problem, since at least one dimension of relevant information is lost. This can be solved by a statistical approach to image reconstruction—modeling the image as a Gaussian mixture model (GMM). This allows us to obtain a high-quality continuous model that is not computationally demanding and does not require postprocessing. In this paper, we propose a novel method of GMM estimation in the PET setting, directly from lines of response. This approach utilizes some well-known and convenient properties of the Gaussian distribution and the fact that the random slopes of the lines are independent from the points of origin. The expectation–maximization (EM) algorithm that is most commonly used to estimate GMMs in the traditional setting here is adapted to lower-dimensional data. The proposed estimation method is unbiased, and simulations and experiments show that accurate reconstruction on synthetic data is possible from relatively small samples.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math12050764"
+    },
+    {
+        "id": 11671,
+        "title": "Supplemental Material for Mixture Multilevel Vector-Autoregressive Modeling",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/met0000551.supp"
+    },
+    {
+        "id": 11672,
+        "title": "Mixture-Net: Low-rank deep image prior inspired by mixture models for spectral image recovery",
+        "authors": "Tatiana Gelvez-Barrera, Jorge Bacca, Henry Arguello",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sigpro.2023.109296"
+    },
+    {
+        "id": 11673,
+        "title": "A Systematic Review of and Reflection on the Applications of Factor Mixture Modeling",
+        "authors": "Eunsook Kim",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/ip.23.2007203"
+    },
+    {
+        "id": 11674,
+        "title": "Acoustic emission cluster analysis of composite laminates with different interfacial fiber orientations based on gaussian mixture model",
+        "authors": "Wei Li, Jiahao Cheng, Peng Jiang, Yinghonglin Liu",
+        "published": "2023-3-15",
+        "citations": 0,
+        "abstract": "The present study aimed to find a method with higher efficiency to cluster acoustic emission events. The acoustic emission signals of composite laminates with different interfacial fiber orientations were captured during the Double cantilever beam (DCB) experiments. Through feature selection of the preprocessed data using the Relief F algorithm, it was found that most of the information in the acoustic emission signals can be represented by the amplitude, inverse frequency, center frequency, peak frequency and so on. Subsequently, principal component analysis and expectation-maximization and Gaussian mixture models were adopted to cluster the data with reduced dimensions. This method can not only distinguish among different damage mechanisms but also show the level of damage concentration according to their types. Furthermore, once the clusters were assigned to different damage mechanisms, they could be identified precisely using both the amplitude and peak frequency. Finally, based on the loading curves of the four types of specimens, the cumulative events and energies of the acoustic emission were compared and analyzed, and different damage mechanisms were identified.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31857/s0130308223030028"
+    },
+    {
+        "id": 11675,
+        "title": "A New Probabilistic Distance Metric with Application in Gaussian Mixture Reduction",
+        "authors": "Ahmad Sajedi, Yuri A. Lawryshyn, Konstantinos N. Plataniotis",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096094"
+    },
+    {
+        "id": 11676,
+        "title": "A Gaussian multi-scale mixture model-based outlier-robust Kalman filter",
+        "authors": "Wei Huang, Hongpo Fu, Yu Li, Ruichen Ming, Weiguo Zhang",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "Abstract\nIn many practical applications, the unknown non-stationary heavy-tailed distributed process and measurement noises (HTPMNs) are prone to occur due to inaccurate noise prior and stochastic outliers. To achieve the state estimation under this situation, a new outlier-robust Kalman filter based on Gaussian multi-scale mixture model (GMSMM-ORKF) is proposed in this paper. First, a new GMSMM is designed to model the one-step prediction and measurement likelihood probability density functions. Then, the hierarchical prior presentation on the mixture probability vectors and scale parameters are built. Furthermore, employing the variational Bayesian (VB) inference, a GMSMM-ORKF is derived. Finally, a classical target tracking model and real navigation experiment are utilized to demonstrate the effectiveness of the proposed filter.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1748-0221/18/08/p08013"
+    },
+    {
+        "id": 11677,
+        "title": "Intrinsically Interpretable Gaussian Mixture Model",
+        "authors": "Nourah Alangari, Mohamed El Bachir Menai, Hassan Mathkour, Ibrahim Almosallam",
+        "published": "2023-3-3",
+        "citations": 1,
+        "abstract": "Understanding the reasoning behind a predictive model’s decision is an important and longstanding problem driven by ethical and legal considerations. Most recent research has focused on the interpretability of supervised models, whereas unsupervised learning has received less attention. However, the majority of the focus was on interpreting the whole model in a manner that undermined accuracy or model assumptions, while local interpretation received much less attention. Therefore, we propose an intrinsic interpretation for the Gaussian mixture model that provides both global insight and local interpretations. We employed the Bhattacharyya coefficient to measure the overlap and divergence across clusters to provide a global interpretation in terms of the differences and similarities between the clusters. By analyzing the GMM exponent with the Garthwaite–Kock corr-max transformation, the local interpretation is provided in terms of the relative contribution of each feature to the overall distance. Experimental results obtained on three datasets show that the proposed interpretation method outperforms the post hoc model-agnostic LIME in determining the feature contribution to the cluster assignment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14030164"
+    },
+    {
+        "id": 11678,
+        "title": "An augmented state Gaussian mixture probability hypothesis density filter for multitarget tracking of autonomous underwater vehicles",
+        "authors": "Guolong Liang, Boyu Zhang, Bin Qi",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.oceaneng.2023.115727"
+    },
+    {
+        "id": 11679,
+        "title": "ANFIS learning using expectation maximization based Gaussian mixture model and multilayer perceptron learning",
+        "authors": "Sadaf Jabeen, Mubasher Baig, Mian Muhammad Awais",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110958"
+    },
+    {
+        "id": 11680,
+        "title": "Image matching algorithm based on improved AKAZE and Gaussian mixture model",
+        "authors": "Qingling Tang, Xuanxi Wang, Meng Zhang, Chunhong Wu, Xiaofei Jiang",
+        "published": "2023-3-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jei.32.2.023020"
+    },
+    {
+        "id": 11681,
+        "title": "Extracting the Extreme Mode Operation of Coal Mills Using the Gaussian Mixture Model Method",
+        "authors": "Makomane Dorothea L Sekhoto, Akihiro Fujii",
+        "published": "2023-1-29",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpeca56706.2023.10076110"
+    },
+    {
+        "id": 11682,
+        "title": "Context-Aware Preference Learning System Based on Dirichlet Process Gaussian Mixture Model",
+        "authors": "Xianbo Xu, Bart van Erp, Tanya Ignatenko",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10448188"
+    },
+    {
+        "id": 11683,
+        "title": "OSCAA: A two‐dimensional Gaussian mixture model for copy number variation association analysis",
+        "authors": "Xuanxuan Yu, Xizhi Luo, Guoshuai Cai, Feifei Xiao",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "AbstractCopy number variants (CNVs) are prevalent in the human genome and are found to have a profound effect on genomic organization and human diseases. Discovering disease‐associated CNVs is critical for understanding the pathogenesis of diseases and aiding their diagnosis and treatment. However, traditional methods for assessing the association between CNVs and disease risks adopt a two‐stage strategy conducting quantitative CNV measurements first and then testing for association, which may lead to biased association estimation and low statistical power, serving as a major barrier in routine genome‐wide assessment of such variation. In this article, we developed One‐Stage CNV–disease Association Analysis (OSCAA), a flexible algorithm to discover disease‐associated CNVs for both quantitative and qualitative traits. OSCAA employs a two‐dimensional Gaussian mixture model that is built upon the PCs from copy number intensities, accounting for technical biases in CNV detection while simultaneously testing for their effect on outcome traits. In OSCAA, CNVs are identified and their associations with disease risk are evaluated simultaneously in a single step, taking into account the uncertainty of CNV identification in the statistical model. Our simulations demonstrated that OSCAA outperformed the existing one‐stage method and traditional two‐stage methods by yielding a more accurate estimate of the CNV–disease association, especially for short CNVs or CNVs with weak signals. In conclusion, OSCAA is a powerful and flexible approach for CNV association testing with high sensitivity and specificity, which can be easily applied to different traits and clinical risk predictions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/gepi.22558"
+    },
+    {
+        "id": 11684,
+        "title": "Build a Model for Speech Emotion Recognition using Gaussian Mixture Model (GMM)",
+        "authors": "Tirumalasetti Teja Sri, Suraki Ravi Kishan, Kakani Naga Rahul Chowdary, Pandiri Sainath",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/incoft60753.2023.10425275"
+    },
+    {
+        "id": 11685,
+        "title": "Understanding Models and Model Bias with Gaussian Processes",
+        "authors": "Thomas R. Cook, Nathan Palmer",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4486433"
+    },
+    {
+        "id": 11686,
+        "title": "Directional Tests in Gaussian Graphical Models",
+        "authors": "Claudia Di Caterina, Nancy Reid, Nicola Sartori",
+        "published": "2025",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5705/ss.202022.0394"
+    },
+    {
+        "id": 11687,
+        "title": "Functional Finite Mixture Regression Models",
+        "authors": "Xiao Wang, Yufeng Liu, Hongtu Zhu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5705/ss.202021.0183"
+    },
+    {
+        "id": 11688,
+        "title": "Mixture of stochastic block models for multiview clustering",
+        "authors": "Kylliann De Santiago, Marie Szafranski, Christophe Ambroise",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14428/esann/2023.es2023-54"
+    },
+    {
+        "id": 11689,
+        "title": "Mixture models and seasonal mobility",
+        "authors": "Alfredo Cortell-Nicolau, Simon Carrignon",
+        "published": "2024-3-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24072/pci.archaeo.100419"
+    },
+    {
+        "id": 11690,
+        "title": "Human motion image detection and tracking method based on Gaussian mixture model combined with light sensor",
+        "authors": "Meng Feng",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11082-023-05786-6"
+    },
+    {
+        "id": 11691,
+        "title": "Solving the Multiple Travelling Salesman Problem using Gaussian Mixture Model and Artificial Neural Network",
+        "authors": "Ahmad T. Al-Taani, Hala S. Majdalawi, Abedalraoof K. Bsoul",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acit58888.2023.10453771"
+    },
+    {
+        "id": 11692,
+        "title": "Time-Varying Kernel Densities as Dynamic Infinite Mixture Models",
+        "authors": "Pierluigi Vallarino",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4558705"
+    },
+    {
+        "id": 11693,
+        "title": "Abnormal sound detection based on composite autoencoder Gaussian mixture model",
+        "authors": "Heng Wang, Jie Liu, Shuaifeng Li",
+        "published": "2023-5-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2682257"
+    },
+    {
+        "id": 11694,
+        "title": "Gaussian mixture probability hypothesis density filter with dynamic probabilities: Application to road traffic surveillance",
+        "authors": "Yi-Chieh Sun, Inseok Hwang",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ejcon.2022.100761"
+    },
+    {
+        "id": 11695,
+        "title": "Estimation of probabilistic CPT-based soil profile using an unsupervised Gaussian mixture model",
+        "authors": "Ressol R. Shakir, Hui Wang",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12517-023-11283-7"
+    },
+    {
+        "id": 11696,
+        "title": "Multilevel Factor Mixture Modeling: A Tutorial for Multilevel Constructs",
+        "authors": "Chunhua Cao, Yan Wang, Eunsook Kim",
+        "published": "2024-4-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10705511.2024.2332257"
+    },
+    {
+        "id": 11697,
+        "title": "A new Monte Carlo sampling method based on Gaussian Mixture Model for imbalanced data classification",
+        "authors": "Gang Chen, Binjie Hou, Tiangang Lei",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>Imbalanced data classification has been a major topic in the machine learning community. Different approaches can be taken to solve the issue in recent years, and researchers have given a lot of attention to data level techniques and algorithm level. However, existing methods often generate samples in specific regions without considering the complexity of imbalanced distributions. This can lead to learning models overemphasizing certain difficult factors in the minority data. In this paper, a Monte Carlo sampling algorithm based on Gaussian Mixture Model (MCS-GMM) is proposed. In MCS-GMM, we utilize the Gaussian mixed model to fit the distribution of the imbalanced data and apply the Monte Carlo algorithm to generate new data. Then, in order to reduce the impact of data overlap, the three sigma rule is used to divide data into four types, and the weight of each minority class instance based on its neighbor and probability density function. Based on experiments conducted on Knowledge Extraction based on Evolutionary Learning datasets, our method has been proven to be effective and outperforms existing approaches such as Synthetic Minority Over-sampling TEchnique.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mbe.2023794"
+    },
+    {
+        "id": 11698,
+        "title": "Bootstrapped Gaussian Mixture Model-Based Data-Driven Forward Stochastic Reachability Analysis",
+        "authors": "Joonwon Choi, Hyunsang Park, Inseok Hwang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lcsys.2023.3347188"
+    },
+    {
+        "id": 11699,
+        "title": "Improved Gaussian Mixture Probabilistic Model for Pedestrian Trajectory\nPrediction of Autonomous Vehicle",
+        "authors": "Haonan Li, Xiaolan Wang, Xiao Su, Yansong Wang",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "\nBackground:\nPedestrian trajectory prediction plays a crucial role in ensuring the safe and\nefficient operation of autonomous vehicles in urban environments. As autonomous driving technology\ncontinues to advance, accurate anticipation of pedestrians' motion trajectories has become increasingly\nimportant for informing subsequent decision-making processes. Pedestrians are dynamic and\nunpredictable agents, and their movements can vary greatly depending on factors, such as their intentions,\ninteractions with other pedestrians or vehicles, and the surrounding environment. Therefore,\ndeveloping effective methods to predict pedestrian trajectories is essential to enable autonomous vehicles\nto navigate and interact with pedestrians in a safe and socially acceptable manner. Various\nmethods, both patented and non-patented, have been proposed, including physics-based and probability-\nbased models, to capture the regularities in pedestrian motion and make accurate predictions.\n\n\nObjective:\nThis paper proposes a pedestrian trajectory prediction method that combines a Gaussian\nmixture model and an artificial potential field.\n\n\nMethods:\nThe study begins with an analysis of pedestrian motion patterns, allowing for the identification\nof distinct patterns and incorporating speed as an influential factor in pedestrian interactions.\nNext, a Gaussian mixture model is utilized to model and train the trajectories of pedestrians within\neach motion pattern cluster, effectively capturing their statistical characteristics. The trained model is\nthen used with a regression algorithm to predict future pedestrian trajectories based on their past positions.\nTo enhance the accuracy and safety of the predicted trajectories, an artificial potential field\nanalysis is employed, considering factors such as collision avoidance and interactions with other entities.\nBy combining the Gaussian mixture model and artificial potential field, this method provides an\ninnovative and patentable approach to pedestrian trajectory prediction.\n\n\nResults:\nExperimental results on the ETH and UCY datasets demonstrate that the proposed method\ncombining the Gaussian mixture model and artificial potential field outperforms traditional Linear\nand social force models in terms of prediction accuracy. The method effectively improves accuracy\nwhile ensuring collision avoidance.\n\n\nConclusion:\nThe proposed method combining a Gaussian mixture model and an artificial potential\nfield enhances pedestrian trajectory prediction. It successfully captures the differences between pedestrians\nand incorporates speed, improving prediction accuracy.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/0122127976268211231110055647"
+    },
+    {
+        "id": 11700,
+        "title": "Statistical Gaussian mixture model to recognize the voice and to increase the recognition rate compared with HMM model",
+        "authors": "Nettyam Manideep, J. Mohana",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0166709"
+    },
+    {
+        "id": 11701,
+        "title": "IoST-Enabled Robotic Arm Control and Abnormality Prediction Using Minimal Flex Sensors and Gaussian Mixture Models",
+        "authors": "Tajim Md. Niamat Ullah Akhund, Zaffar Ahmed Shaikh, Isabel De La Torre Díez, Manal Gafar, Deep H. Ajabani, Osama Alfarraj, Amr Tolba, Henry Fabian-Gongora, Luis Alonso Dzul López",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3380360"
+    },
+    {
+        "id": 11702,
+        "title": "A Simple Method for Estimating Gaussian Graphical Models",
+        "authors": "Yiyi Yin, Yang Song, Hui Zou",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5705/ss.202021.0273"
+    },
+    {
+        "id": 11703,
+        "title": "Gaussian Volterra Processes as Models of Electricity Markets",
+        "authors": "Yuliya Mishura, Stefania Ottaviano, Tiziano Vargiolu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4634661"
+    },
+    {
+        "id": 11704,
+        "title": "Predictive Deep Learning for High‐Dimensional Inverse Modeling of Hydraulic Tomography in Gaussian and Non‐Gaussian Fields",
+        "authors": "Quan Guo, Ming Liu, Jian Luo",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "AbstractInverse modeling of hydraulic tomography (HT) is computationally expensive for estimating high‐dimensional hydrogeologic parameter fields. In this work, we develop a novel method called HT‐INV‐NN, which combines dimensionality reduction techniques with a predictive deep learning (DL) model to estimate high‐dimensional Gaussian and non‐Gaussian channel fields. The HT‐INV‐NN model consists of a predictor that directly learns the inverse process from hydraulic head measurements to latent variables of random fields, and a decoder that generates high‐dimensional parameter fields from predicted latent variables. For Gaussian spatially correlated fields, the decoder utilizes principal components derived from spatial covariance, and for non‐Gaussian channel fields, a generative adversarial network (GAN) is trained using generated realizations based on a training image (TI). The predictor is a deep neural network calibrated using the reference data obtained from HT forward simulations, which can be implemented in parallel. HT‐INV‐NN is successfully tested in multiple numerical experiments including steady‐state and transient HT for estimating Gaussian fields in 2D and 3D, as well as binary discontinuous or continuous non‐Gaussian channel fields. The training process is efficient, and the model structure demonstrates robustness for input data with perturbations. The model performance on multiple validation data sets are satisfactory when compared with other numerical and deep learning methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1029/2023wr035408"
+    }
+]

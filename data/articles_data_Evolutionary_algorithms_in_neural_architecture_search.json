@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 19905,
+        "title": "Pareto Local Search is Competitive with Evolutionary Algorithms for Multi-Objective Neural Architecture Search",
+        "authors": "Quan Minh Phan, Ngoc Hoang Luong",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590395"
+    },
+    {
+        "id": 19906,
+        "title": "Bridge the gap between fixed-length and variable-length evolutionary neural architecture search algorithms",
+        "authors": "Yunhong Gong, Yanan Sun, Dezhong Peng, Xiangru Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "<abstract><p>Evolutionary neural architecture search (ENAS) aims to automate the architecture design of deep neural networks (DNNs). In recent years, various ENAS algorithms have been proposed, and their effectiveness has been demonstrated. In practice, most ENAS methods based on genetic algorithms (GAs) use fixed-length encoding strategies because the generated chromosomes can be directly processed by the standard genetic operators (especially the crossover operator). However, the performance of existing ENAS methods with fixed-length encoding strategies can also be improved because the optimal depth is regarded as a known priori. Although variable-length encoding strategies may alleviate this issue, the standard genetic operators are replaced by the developed operators. In this paper, we proposed a framework to bridge this gap and to improve the performance of existing ENAS methods based on GAs. First, the fixed-length chromosomes were transformed into variable-length chromosomes with the encoding rules of the original ENAS methods. Second, an encoder was proposed to encode variable-length chromosomes into fixed-length representations that can be efficiently processed by standard genetic operators. Third, a decoder cotrained with the encoder was adopted to decode those processed high-dimensional representations which cannot directly describe architectures into original chromosomal forms. Overall, the performances of existing ENAS methods with fixed-length encoding strategies and variable-length encoding strategies have both improved by the proposed framework, and the effectiveness of the framework was justified through experimental results. Moreover, ablation experiments were performed and the results showed that the proposed framework does not negatively affect the original ENAS methods.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/era.2024013"
+    },
+    {
+        "id": 19907,
+        "title": "Neural Architecture Search Using Covariance Matrix Adaptation Evolution Strategy",
+        "authors": "Nilotpal Sinha, Kuan-Wen Chen",
+        "published": "2023-8-21",
+        "citations": 1,
+        "abstract": "Abstract\nEvolution-based neural architecture search methods have shown promising results, but they require high computational resources because these methods involve training each candidate architecture from scratch and then evaluating its fitness, which results in long search time. Covariance Matrix Adaptation Evolution Strategy (CMA-ES) has shown promising results in tuning hyperparameters of neural networks but has not been used for neural architecture search. In this work, we propose a framework called CMANAS which applies the faster convergence property of CMA-ES to the deep neural architecture search problem. Instead of training each individual architecture seperately, we used the accuracy of a trained one shot model (OSM) on the validation data as a prediction of the fitness of the architecture, resulting in reduced search time. We also used an architecture-fitness table (AF table) for keeping a record of the already evaluated architecture, thus further reducing the search time. The architectures are modeled using a normal distribution, which is updated using CMA-ES based on the fitness of the sampled population. Experimentally, CMANAS achieves better results than previous evolution-based methods while reducing the search time significantly. The effectiveness of CMANAS is shown on two different search spaces using four datasets: CIFAR-10, CIFAR-100, ImageNet, and ImageNet16-120. All the results show that CMANAS is a viable alternative to previous evolution-based methods and extends the application of CMA-ES to the deep neural architecture search field.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/evco_a_00331"
+    },
+    {
+        "id": 19908,
+        "title": "A surrogate evolutionary neural architecture search algorithm for graph neural networks",
+        "authors": "Yang Liu, Jing Liu",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110485"
+    },
+    {
+        "id": 19909,
+        "title": "Federated Bayesian Optimization for Privacy-Preserving Neural Architecture Search",
+        "authors": "Shiqing Liu, Xilu Wang, Yaochu Jin",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10254155"
+    },
+    {
+        "id": 19910,
+        "title": "EQNAS: Evolutionary Quantum Neural Architecture Search for Image Classification",
+        "authors": "Yangyang Li, Ruijiao Liu, Xiaobin Hao, Ronghua Shang, Peixiang Zhao, Licheng Jiao",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.09.040"
+    },
+    {
+        "id": 19911,
+        "title": "Benchmarking Analysis of Evolutionary Neural Architecture Search",
+        "authors": "Zeqiong Lv, Chao Qian, Yanan Sun",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3324852"
+    },
+    {
+        "id": 19912,
+        "title": "An Alternative Pareto-Based Approach to Multi-Objective Neural Architecture Search",
+        "authors": "Meyssa Zouambi, Clarisse Dhaenens, Julie Jacques",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10254110"
+    },
+    {
+        "id": 19913,
+        "title": "Evolutionary neural architecture search combining multi-branch ConvNet and improved transformer",
+        "authors": "Yang Xu, Yongjie Ma",
+        "published": "2023-9-22",
+        "citations": 4,
+        "abstract": "AbstractDeep convolutional neural networks (CNNs) have achieved promising performance in the field of deep learning, but the manual design turns out to be very difficult due to the increasingly complex topologies of CNNs. Recently, neural architecture search (NAS) methods have been proposed to automatically design network architectures, which are superior to handcrafted counterparts. Unfortunately, most current NAS methods suffer from either highly computational complexity of generated architectures or limitations in the flexibility of architecture design. To address above issues, this article proposes an evolutionary neural architecture search (ENAS) method based on improved Transformer and multi-branch ConvNet. The multi-branch block enriches the feature space and enhances the representational capacity of a network by combining paths with different complexities. Since convolution is inherently a local operation, a simple yet powerful “batch-free normalization Transformer Block” (BFNTBlock) is proposed to leverage both local information and long-range feature dependencies. In particular, the design of batch-free normalization (BFN) and batch normalization (BN) mixed in the BFNTBlock blocks the accumulation of estimation shift ascribe to the stack of BN, which has favorable effects for performance improvement. The proposed method achieves remarkable accuracies, 97.24 $$\\%$$\n%\n and 80.06 $$\\%$$\n%\n on CIFAR10 and CIFAR100, respectively, with high computational efficiency, i.e. only 1.46 and 1.53 GPU days. To validate the universality of our method in application scenarios, the proposed algorithm is verified on two real-world applications, including the GTSRB and NEU-CLS dataset, and achieves a better performance than common methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-42931-3"
+    },
+    {
+        "id": 19914,
+        "title": "MPENAS: Multi-fidelity Predictor-guided Evolutionary Neural Architecture Search with Zero-cost Proxies",
+        "authors": "Jinglue Xu, Suryanarayanan NAV, Hitoshi Iba",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590513"
+    },
+    {
+        "id": 19915,
+        "title": "Fast Evolutionary Neural Architecture Search by Contrastive Predictor with Linear Regions",
+        "authors": "Yameng Peng, Andy Song, Vic Ciesielski, Haytham Fayek, Xiaojun Chang",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590452"
+    },
+    {
+        "id": 19916,
+        "title": "Analyzing the Expected Hitting Time of Evolutionary Computation-Based Neural Architecture Search Algorithms",
+        "authors": "Zeqiong Lv, Chao Qian, Gary G. Yen, Yanan Sun",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tetci.2024.3377683"
+    },
+    {
+        "id": 19917,
+        "title": "A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture",
+        "authors": "Shang Wang, Huanrong Tang, Jianquan Ouyang",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3590618"
+    },
+    {
+        "id": 19918,
+        "title": "Efficient one-shot Neural Architecture Search with progressive choice freezing evolutionary search",
+        "authors": "Chen Zhang, Qiyu Wan, Lening Wang, Yu Wen, Mingsong Chen, Jingweijia Tan, Kaige Yan, Xin Fu",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127702"
+    },
+    {
+        "id": 19919,
+        "title": "Similarity surrogate-assisted evolutionary neural architecture search with dual encoding strategy",
+        "authors": "Yu Xue, Zhenman Zhang, Ferrante Neri",
+        "published": "2024",
+        "citations": 1,
+        "abstract": "<abstract><p>Neural architecture search (NAS), a promising method for automated neural architecture design, is often hampered by its overwhelming computational burden, especially the architecture evaluation process in evolutionary neural architecture search (ENAS). Although there are surrogate models based on regression or ranking to assist or replace the neural architecture evaluation process in ENAS to reduce the computational cost, these surrogate models are still affected by poor architectures and are not able to accurately find good architectures in a search space. To solve the above problems, we propose a novel surrogate-assisted NAS approach, which we call the similarity surrogate-assisted ENAS with dual encoding strategy (SSENAS). We propose a surrogate model based on similarity measurement to select excellent neural architectures from a large number of candidate architectures in a search space. Furthermore, we propose a dual encoding strategy for architecture generation and surrogate evaluation in ENAS to improve the exploration of well-performing neural architectures in a search space and realize sufficiently informative representations of neural architectures, respectively. We have performed experiments on NAS benchmarks to verify the effectiveness of the proposed algorithm. The experimental results show that SSENAS can accurately find the best neural architecture in the NAS-Bench-201 search space after only 400 queries of the tabular benchmark. In the NAS-Bench-101 search space, it can also get results that are comparable to other algorithms. In addition, we conducted a large number of experiments and analyses on the proposed algorithm, showing that the surrogate model measured via similarity can gradually search for excellent neural architectures in a search space.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/era.2024050"
+    },
+    {
+        "id": 19920,
+        "title": "Iterative Structure-Based Genetic Programming for Neural Architecture Search",
+        "authors": "Rahul Kapoor, Nelishia Pillay",
+        "published": "2023-7-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3590759"
+    },
+    {
+        "id": 19921,
+        "title": "A Transformer-based Neural Architecture Search Method",
+        "authors": "Shang Wang, Huanrong Tang, Jianquan Ouyang",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3590735"
+    },
+    {
+        "id": 19922,
+        "title": "An evolutionary neural architecture search method based on performance prediction and weight inheritance",
+        "authors": "Gonglin Yuan, Bing Xue, Mengjie Zhang",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2024.120466"
+    },
+    {
+        "id": 19923,
+        "title": "Local Stochastic Differentiable Architecture Search for Memetic Neuroevolution Algorithms",
+        "authors": "Joshua Karns, Travis Desell",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3596368"
+    },
+    {
+        "id": 19924,
+        "title": "PRE-NAS: Evolutionary Neural Architecture Search With Predictor",
+        "authors": "Yameng Peng, Andy Song, Vic Ciesielski, Haytham M. Fayek, Xiaojun Chang",
+        "published": "2023-2",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2022.3227562"
+    },
+    {
+        "id": 19925,
+        "title": "Online evolutionary neural architecture search for multivariate non-stationary time series forecasting",
+        "authors": "Zimeng Lyu, Alexander Ororbia, Travis Desell",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110522"
+    },
+    {
+        "id": 19926,
+        "title": "MENAS: Multi-trial Evolutionary Neural Architecture Search with Lottery Tickets",
+        "authors": "Zimian Wei, Hengyue Pan, Lujun Li, Peijie Dong, Xin Niu, Dongsheng Li",
+        "published": "2023-10-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icip49359.2023.10222819"
+    },
+    {
+        "id": 19927,
+        "title": "Towards Evolutionary Multi-Task Convolutional Neural Architecture Search",
+        "authors": "Xun Zhou, Zhenkun Wang, Liang Feng, Songbai Liu, Ka-Chun Wong, Kay Chen Tan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3348475"
+    },
+    {
+        "id": 19928,
+        "title": "Accelerating Gene-pool Optimal Mixing Evolutionary Algorithm for Neural Architecture Search with Synaptic Flow",
+        "authors": "Khoa Huu Tran, Luc Truong, An Vo, Ngoc Hoang Luong",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3596438"
+    },
+    {
+        "id": 19929,
+        "title": "Multi-population evolutionary neural architecture search with stacked generalization",
+        "authors": "Changwei Song, Yongjie Ma, Yang Xu, Hong Chen",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127664"
+    },
+    {
+        "id": 19930,
+        "title": "Channel Configuration for Neural Architecture: Insights from the Search Space",
+        "authors": "Sarah L. Thomson, Gabriela Ochoa, Nadarajen Veerapen, Krzysztof Michalak",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590386"
+    },
+    {
+        "id": 19931,
+        "title": "Low Cost Evolutionary Neural Architecture Search (LENAS) Applied to Traffic Forecasting",
+        "authors": "Daniel Klosa, Christof Büskens",
+        "published": "2023-7-28",
+        "citations": 0,
+        "abstract": "Traffic forecasting is an important task for transportation engineering as it helps authorities to plan and control traffic flow, detect congestion, and reduce environmental impact. Deep learning techniques have gained traction in handling such complex datasets, but require expertise in neural architecture engineering, often beyond the scope of traffic management decision-makers. Our study aims to address this challenge by using neural architecture search (NAS) methods. These methods, which simplify neural architecture engineering by discovering task-specific neural architectures, are only recently applied to traffic prediction. We specifically focus on the performance estimation of neural architectures, a computationally demanding sub-problem of NAS, that often hinders the real-world application of these methods. Extending prior work on evolutionary NAS (ENAS), our work evaluates the utility of zero-cost (ZC) proxies, recently emerged cost-effective evaluators of network architectures. These proxies operate without necessitating training, thereby circumventing the computational bottleneck, albeit at a slight cost to accuracy. Our findings indicate that, when integrated into the ENAS framework, ZC proxies can accelerate the search process by two orders of magnitude at a small cost of accuracy. These results establish the viability of ZC proxies as a practical solution to accelerate NAS methods while maintaining model accuracy. Our research contributes to the domain by showcasing how ZC proxies can enhance the accessibility and usability of NAS methods for traffic forecasting, despite potential limitations in neural architecture engineering expertise. This novel approach significantly aids in the efficient application of deep learning techniques in real-world traffic management scenarios.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5030044"
+    },
+    {
+        "id": 19932,
+        "title": "Evolutionary neural architecture search on transformers for RUL prediction",
+        "authors": "Hyunho Mo, Giovanni Iacca",
+        "published": "2023-11-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10426914.2023.2199499"
+    },
+    {
+        "id": 19933,
+        "title": "An architecture entropy regularizer for differentiable neural architecture search",
+        "authors": "Kun Jing, Luoyu Chen, Jungang Xu",
+        "published": "2023-1",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2022.11.015"
+    },
+    {
+        "id": 19934,
+        "title": "An Effective One-Shot Neural Architecture Search Method with Supernet Fine-Tuning for Image Classification",
+        "authors": "Gonglin Yuan, Bing Xue, Mengjie Zhang",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583131.3590438"
+    },
+    {
+        "id": 19935,
+        "title": "Oppositional Crow Search Algorithm Based Artificial Neural Network for Epileptic Seizure Classification",
+        "authors": "K R Swetha, P. Gayatri, E Kumar, Shweta N., S. Meenakshi Sundaram",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392439"
+    },
+    {
+        "id": 19936,
+        "title": "End-to-end Evolutionary Neural Architecture Search for Microcontroller Units",
+        "authors": "René Groh, Andreas M. Kist",
+        "published": "2023-7-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/coins57856.2023.10189194"
+    },
+    {
+        "id": 19937,
+        "title": "Information extraction of Chinese medical electronic records via evolutionary neural architecture search",
+        "authors": "Tian Zhang, Nan Li, Yuee Zhou, Wei Cai, Lianbo Ma",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdmw60847.2023.00056"
+    },
+    {
+        "id": 19938,
+        "title": "An Effective Evolutionary Neural Architecture Search for Bike-Sharing System Demand Prediction",
+        "authors": "Bo-Han Chen, Yun-Ye Cai, Chao-Yen Huang, Chun-Wei Tsai",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/apscon56343.2023.10101084"
+    },
+    {
+        "id": 19939,
+        "title": "Evolutionary Neural Architecture Search and Its Applications in Healthcare",
+        "authors": "Xin Liu, Jie Li, Jianwei Zhao, Bin Cao, Rongge Yan, Zhihan Lyu",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmes.2023.030391"
+    },
+    {
+        "id": 19940,
+        "title": "EST-NAS: An evolutionary strategy with gradient descent for neural architecture search",
+        "authors": "Zicheng Cai, Lei Chen, Shaoda Zeng, Yutao Lai, Hai-lin Liu",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110624"
+    },
+    {
+        "id": 19941,
+        "title": "Knowledge reconstruction assisted evolutionary algorithm for neural network architecture search",
+        "authors": "Yang An, Changsheng Zhang, Xuanyu Zheng",
+        "published": "2023-3",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110341"
+    },
+    {
+        "id": 19942,
+        "title": "Guided evolutionary neural architecture search with efficient performance estimation",
+        "authors": "Vasco Lopes, Miguel Santos, Bruno Degardin, Luís A. Alexandre",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127509"
+    },
+    {
+        "id": 19943,
+        "title": "Hardware Aware Evolutionary Neural Architecture Search using Representation Similarity Metric",
+        "authors": "Nilotpal Sinha, Abd El Rahman Shabayek, Anis Kacem, Peyman Rostami, Carl Shneider, Djamila Aouada",
+        "published": "2024-1-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv57701.2024.00261"
+    },
+    {
+        "id": 19944,
+        "title": "Efficient evolutionary neural architecture search based on hybrid search space",
+        "authors": "Tao Gong, Yongjie Ma, Yang Xu, Changwei Song",
+        "published": "2024-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13042-023-02094-z"
+    },
+    {
+        "id": 19945,
+        "title": "Efficient Self-learning Evolutionary Neural Architecture Search",
+        "authors": "Zhengzhong Qiu, Wei Bi, Dong Xu, Hua Guo, Hongwei Ge, Yanchun Liang, Heow Pueh Lee, Chunguo Wu",
+        "published": "2023-10",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110671"
+    },
+    {
+        "id": 19946,
+        "title": "EG-NAS: Neural Architecture Search with Fast Evolutionary Exploration",
+        "authors": "Zicheng Cai, Lei Chen, Peng Liu, Tongtao Ling, Yutao Lai",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Differentiable Architecture Search (DARTS) has achieved a rapid search for excellent architectures by optimizing architecture parameters through gradient descent. However, this efficiency comes with a significant challenge: the risk of premature convergence to local optima, resulting in subpar performance that falls short of expectations. To address this issue, we propose a novel and effective method called Evolutionary Gradient-Based Neural Architecture Search (EG-NAS). Our approach combines the strengths of both gradient descent and evolutionary strategy, allowing for the exploration of various optimization directions during the architecture search process. To begin with, we continue to employ gradient descent for updating network parameters to ensure efficiency. Subsequently, to mitigate the risk of premature convergence, we introduce an evolutionary strategy with global search capabilities to optimize the architecture parameters. By leveraging the best of both worlds, our method strikes a balance between efficient exploration and exploitation of the search space. Moreover, we have redefined the fitness function to not only consider accuracy but also account for individual similarity. This inclusion enhances the diversity and accuracy of the optimized directions identified by the evolutionary strategy. Extensive experiments on various datasets and search spaces demonstrate that EG-NAS achieves highly competitive performance at significantly low search costs compared to state-of-the-art methods. The code is available at https://github.com/caicaicheng/EG-NAS.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i10.28993"
+    },
+    {
+        "id": 19947,
+        "title": "Field detection of pests based on adaptive feature fusion and evolutionary neural architecture search",
+        "authors": "Yin Ye, Yaxiong Chen, Shengwu Xiong",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compag.2024.108936"
+    },
+    {
+        "id": 19948,
+        "title": "Comparison of Topologies Generated by Evolutionary Neural Architecture Search",
+        "authors": "YongSuk Yoo, Manbok Park, Kang-Moon Park",
+        "published": "2023-4-24",
+        "citations": 0,
+        "abstract": "Neural Architecture Search (NAS) has been widely applied across various fields, revealing intriguing patterns in the resulting optimized topologies. In this paper, we compare the topologies generated by NAS across two different experiments: linguistic grammaticality judgment and the MNIST task. Our analysis reveals a distinctive fork-like structure that consistently emerges in both experiments. Interestingly, this structure is highly effective despite not being typically designed by human experts. The emergence of this fork-like structure sheds new light on the potential of NAS to provide alternative designs that go beyond incremental improvements. Our paper offers a fresh perspective on automated architecture design, highlighting the potential of NAS to enable innovative approaches that can be applied across multiple domains.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13095333"
+    },
+    {
+        "id": 19949,
+        "title": "Lightweight multi-objective evolutionary neural architecture search with low-cost proxy metrics",
+        "authors": "Ngoc Hoang Luong, Quan Minh Phan, An Vo, Tan Ngoc Pham, Dzung Tri Bui",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.119856"
+    },
+    {
+        "id": 19950,
+        "title": "Gated Recurrent Unit Neural Networks for Wind Power Forecasting based on Surrogate-Assisted Evolutionary Neural Architecture Search",
+        "authors": "Kehao Zhang, Huaiping Jin, Huaikang Jin, Bin Wang, Wangyang Yu",
+        "published": "2023-5-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ddcls58216.2023.10166074"
+    },
+    {
+        "id": 19951,
+        "title": "Neural Architecture Search for Bearing Fault Classification",
+        "authors": "Edicson Diaz, Enrique Naredo, Nicolas Díaz, Douglas Dias, Maria Diaz, Susan Harnett, Conor Ryan",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012373100003636"
+    },
+    {
+        "id": 19952,
+        "title": "Genetic Structural NAS: A Neural Network Architecture Search with Flexible Slot Connections",
+        "authors": "Jakub Sadel, Michal Kawulok, Mateusz Przeliorz, Jakub Nalepa, Daniel Kostrzewa",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3596435"
+    },
+    {
+        "id": 19953,
+        "title": "EDANAS: Adaptive Neural Architecture Search for Early Exit Neural Networks",
+        "authors": "Matteo Gambella, Manuel Roveri",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191876"
+    },
+    {
+        "id": 19954,
+        "title": "Knowledge transfer evolutionary search for lightweight neural architecture with dynamic inference",
+        "authors": "Xiaoxue Qian, Fang Liu, Licheng Jiao, Xiangrong Zhang, Xinyan Huang, Shuo Li, Puhua Chen, Xu Liu",
+        "published": "2023-11",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.109790"
+    },
+    {
+        "id": 19955,
+        "title": "Improving the accuracy and speed of fast <scp>template‐matching</scp> algorithms by neural architecture search",
+        "authors": "Seyed Mahdi Shariatzadeh, Mahmood Fathy, Reza Berangi",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "AbstractNeural architecture search can be used to find convolutional neural architectures that are precise and robust while enjoying enough speed for industrial image processing applications. In this paper, our goal is to achieve optimal convolutional neural networks (CNNs) for multiple‐templates matching for applications such as licence plates detection (LPD). We perform an iterative local neural architecture search for the models with minimum validation error as well as low computational cost from our search space of about 32 billion models. We describe the findings of the experience and discuss the specifications of the final optimal architectures. About 20‐times error reduction and 6‐times computational complexity reduction is achieved over our engineered neural architecture after about 500 neural architecture evaluation (in about 10 h). The typical speed of our final model is comparable to classic template matching algorithms while performing more robust and multiple‐template matching with different scales.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/exsy.13358"
+    },
+    {
+        "id": 19956,
+        "title": "A Gradient-Guided Evolutionary Neural Architecture Search",
+        "authors": "Yu Xue, Xiaolong Han, Ferrante Neri, Jiafeng Qin, Danilo Pelusi",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2024.3371432"
+    },
+    {
+        "id": 19957,
+        "title": "Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow",
+        "authors": "An Vo, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong",
+        "published": "2023-8-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31449/inf.v47i3.4736"
+    },
+    {
+        "id": 19958,
+        "title": "Neural Architecture Search Method Based on Improved Monte Carlo Tree Search",
+        "authors": "Jianyun Qiu, Yuntao Zhao, Weigang Li",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451718"
+    },
+    {
+        "id": 19959,
+        "title": "NDARTS: A Differentiable Architecture Search Based on the Neumann Series",
+        "authors": "Xiaoyu Han, Chenyu Li, Zifan Wang, Guohua Liu",
+        "published": "2023-11-25",
+        "citations": 0,
+        "abstract": "Neural architecture search (NAS) has shown great potential in discovering powerful and flexible network models, becoming an important branch of automatic machine learning (AutoML). Although search methods based on reinforcement learning and evolutionary algorithms can find high-performance architectures, these search methods typically require hundreds of GPU days. Unlike searching in a discrete search space based on reinforcement learning and evolutionary algorithms, the differentiable neural architecture search (DARTS) continuously relaxes the search space, allowing for optimization using gradient-based methods. Based on DARTS, we propose NDARTS in this article. The new algorithm uses the Implicit Function Theorem and the Neumann series to approximate the hyper-gradient, which obtains better results than DARTS. In the simulation experiment, an ablation experiment was carried out to study the influence of the different parameters on the NDARTS algorithm and to determine the optimal weight, then the best performance of the NDARTS algorithm was searched for in the DARTS search space and the NAS-BENCH-201 search space. Compared with other NAS algorithms, the results showed that NDARTS achieved excellent results on the CIFAR-10, CIFAR-100, and ImageNet datasets, and was an effective neural architecture search algorithm.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16120536"
+    },
+    {
+        "id": 19960,
+        "title": "Bandit-NAS: Bandit Sampling Method for Neural Architecture Search",
+        "authors": "Yiqi Lin, Ru Wang",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191003"
+    },
+    {
+        "id": 19961,
+        "title": "From Xception to NEXcepTion: New Design Decisions and Neural Architecture Search",
+        "authors": "Hadar Shavit, Filip Jatelnicki, Pol Mor-Puigventós, Wojtek Kowalczyk",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011623100003411"
+    },
+    {
+        "id": 19962,
+        "title": "Evolutionary Approaches for Adversarial Attacks on Neural Source Code Classifiers",
+        "authors": "Valeria Mercuri, Martina Saletta, Claudio Ferretti",
+        "published": "2023-10-12",
+        "citations": 0,
+        "abstract": "As the prevalence and sophistication of cyber threats continue to increase, the development of robust vulnerability detection techniques becomes paramount in ensuring the security of computer systems. Neural models have demonstrated significant potential in identifying vulnerabilities; however, they are not immune to adversarial attacks. This paper presents a set of evolutionary techniques for generating adversarial instances to enhance the resilience of neural models used for vulnerability detection. The proposed approaches leverage an evolution strategy (ES) algorithm that utilizes as the fitness function the output of the neural network to deceive. By starting from existing instances, the algorithm evolves individuals, represented by source code snippets, by applying semantic-preserving transformations, while utilizing the fitness to invert their original classification. This iterative process facilitates the generation of adversarial instances that can mislead the vulnerability detection models while maintaining the original behavior of the source code. The significance of this research lies in its contribution to the field of cybersecurity by addressing the need for enhanced resilience against adversarial attacks in vulnerability detection models. The evolutionary approach provides a systematic framework for generating adversarial instances, allowing for the identification and mitigation of weaknesses in AI classifiers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16100478"
+    },
+    {
+        "id": 19963,
+        "title": "Evolutionary-Based Neural Architecture Search for an Efficient CAES and PV Farm Joint Operation Strategy Using Deep Reinforcement Learning",
+        "authors": "Amirhossein Dolatabadi, Hussein Abdeltawab, Yasser Abdel-Rady I. Mohamed",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gtd49768.2023.00085"
+    },
+    {
+        "id": 19964,
+        "title": "Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation",
+        "authors": "José-Antonio Fuentes-Tomás, Efrén Mezura-Montes, Héctor-Gabriel Acosta-Mesa, Aldo Márquez-Grajales",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2024.3353182"
+    },
+    {
+        "id": 19965,
+        "title": "Neural Architecture Search in the Context of Deep Multi-Task Learning",
+        "authors": "Guilherme Gadelha, Herman Gomes, Leonardo Batista",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011696200003417"
+    },
+    {
+        "id": 19966,
+        "title": "Enhancing Cryptanalysis of DES Encryption using Neural Networks and Firefly Algorithms",
+        "authors": "Varshini Balaji, Vallidevi Krishnamurthy",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392499"
+    },
+    {
+        "id": 19967,
+        "title": "A Boosted Evolutionary Neural Architecture Search for Timeseries Forecasting with Application to South African COVID-19 Cases",
+        "authors": "Solomon Oluwole Akinola, Wang Qingguo, Peter Olukanmi, Marwala Tshilidzi",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "In recent years, there has been an increase in studies on time-series forecasting for the future occurrence of disease incidents. Improvements in deep learning approaches offer techniques for modelling long-term temporal relationships. Nonetheless, this design practice is rigorously painstaking, prone to errors, and requires human expertise. The advent of feature enrichment with automatic architecture search typically optimises the discovery of new neural architectures applicable in domains such as time-series modelling. The main methodological contribution of this study is an approach for time-series forecasting using feature-enriched filters and an evolutionary neural architecture search with sequence-to-sequence gated recurrent units (GRU-Seq2Seq). This is applied to the prediction of daily cases of coronavirus disease in South Africa. The highly pathogenic coronavirus pandemic incident data was modelled with filters, optimised hyper-parameter search trials and an evolutional neural algorithm. The proposed model was benchmarked against ARIMA and SARIMA. The model predicted trends for 30, 60 and 90-day horizons and evaluated them for 7, 14 and 31 days. Simulation results demonstrate that observed daily case counts with added filters and evolutionary search optimisation for forecasting improve performance accuracy. Generally, the proposed bFilter+GRU-Seq2Seq with optimal search configuration outperformed ARIMA and SARIMA with lower error scores and higher performance metrics, with an R2 score of 7.48E-01 for a 30-day forecast horizon. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3991/ijoe.v19i14.41291"
+    },
+    {
+        "id": 19968,
+        "title": "Surrogate-Assisted Evolutionary Multiobjective Neural Architecture Search based on Transfer Stacking and Knowledge Distillation",
+        "authors": "Kuangda Lyu, Hao Li, Maoguo Gong, Lining Xing, A. K. Qin",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3319567"
+    },
+    {
+        "id": 19969,
+        "title": "Evolution and Efficiency in Neural Architecture Search: Bridging the Gap between Expert Design and Automated Optimization",
+        "authors": "",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "The paper provides a comprehensive overview of Neural Architecture Search (NAS), emphasizing its evolution from manual design to automated, computationally driven approaches. It covers the inception and growth of NAS, highlighting its application across various domains, including medical imaging and natural language processing. The document details the shift from expert-driven design to algorithm-driven processes, exploring initial methodologies like reinforcement learning and evolutionary algorithms. It also discusses the challenges of computational demands and the emergence of efficient NAS methodologies, such as Differentiable Architecture Search and hardware-aware NAS. The paper further elaborates on NAS's application in computer vision, NLP, and beyond, demonstrating its versatility and potential for optimizing neural network architectures across different tasks. Future directions and challenges, including computational efficiency and the integration with emerging AI domains, are addressed, showcasing NAS's dynamic nature and its continued evolution towards more sophisticated and efficient architecture search methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/jmtcm.03.03.01"
+    },
+    {
+        "id": 19970,
+        "title": "Efficient spiking neural network design via neural architecture search",
+        "authors": "Jiaqi Yan, Qianhui Liu, Malu Zhang, Lang Feng, De Ma, Haizhou Li, Gang Pan",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2024.106172"
+    },
+    {
+        "id": 19971,
+        "title": "E2SCNet: Efficient Multiobjective Evolutionary Automatic Search for Remote Sensing Image Scene Classification Network Architecture",
+        "authors": "Yuting Wan, Yanfei Zhong, Ailong Ma, Junjue Wang, Liangpei Zhang",
+        "published": "2024",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3220699"
+    },
+    {
+        "id": 19972,
+        "title": "Online Human Activity Recognition Using Efficient Neural Architecture Search with Low Environmental Impact",
+        "authors": "Nassim Mokhtari, Alexis Nédélec, Marlène Gilles, Pierre De Loor",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012314600003660"
+    },
+    {
+        "id": 19973,
+        "title": "Improving Differentiable Architecture Search via self-distillation",
+        "authors": "Xunyu Zhu, Jian Li, Yong Liu, Weiping Wang",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.08.062"
+    },
+    {
+        "id": 19974,
+        "title": "Efficient multi-objective evolutionary neural architecture search for U-Nets with diamond atrous convolution and Transformer for medical image segmentation",
+        "authors": "Weiqin Ying, Qiaoqiao Zheng, Yu Wu, Kaihao Yang, Zekun Zhou, Jiajun Chen, Zilin Ye",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110869"
+    },
+    {
+        "id": 19975,
+        "title": "An efficient evolutionary architecture search for variational autoencoder with alternating optimization and adaptive crossover",
+        "authors": "Ronghua Shang, Hangcheng Liu, Wenzheng Li, Weitong Zhang, Teng Ma, Licheng Jiao",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2024.101520"
+    },
+    {
+        "id": 19976,
+        "title": "Development of Resources Library System Based on J2EE Layered Architecture",
+        "authors": "Quanquan Wu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393716"
+    },
+    {
+        "id": 19977,
+        "title": "Towards Full Forward On-Tiny-Device Learning: A Guided Search for a Randomly Initialized Neural Network",
+        "authors": "Danilo Pau, Andrea Pisani, Antonio Candelieri",
+        "published": "2024-1-5",
+        "citations": 0,
+        "abstract": "In the context of TinyML, many research efforts have been devoted to designing forward topologies to support On-Device Learning. Reaching this target would bring numerous advantages, including reductions in latency and computational complexity, stronger privacy, data safety and robustness to adversarial attacks, higher resilience against concept drift, etc. However, On-Device Learning on resource constrained devices poses severe limitations to computational power and memory. Therefore, deploying Neural Networks on tiny devices appears to be prohibitive, since their backpropagation-based training is too memory demanding for their embedded assets. Using Extreme Learning Machines based on Convolutional Neural Networks might be feasible and very convenient, especially for Feature Extraction tasks. However, it requires searching for a randomly initialized topology that achieves results as good as those achieved by the backpropagated model. This work proposes a novel approach for automatically composing an Extreme Convolutional Feature Extractor, based on Neural Architecture Search and Bayesian Optimization. It was applied to the CIFAR-10 and MNIST datasets for evaluation. Two search spaces have been defined, as well as a search strategy that has been tested with two surrogate models, Gaussian Process and Random Forest. A performance estimation strategy was defined, keeping the feature set computed by the MLCommons-Tiny benchmark ResNet as a reference model. In as few as 1200 search iterations, the proposed strategy was able to achieve a topology whose extracted features scored a mean square error equal to 0.64 compared to the reference set. Further improvements are required, with a target of at least one order of magnitude decrease in mean square error for improved classification accuracy. The code is made available via GitHub to allow for the reproducibility of the results reported in this paper.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a17010022"
+    },
+    {
+        "id": 19978,
+        "title": "Symbolic Neural Architecture Search for Differential Equations",
+        "authors": "Paulius Sasnauskas, Linas Petkevičius",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3342023"
+    },
+    {
+        "id": 19979,
+        "title": "Evolutionary architecture search via adaptive parameter control and gene potential contribution",
+        "authors": "Ronghua Shang, Songling Zhu, Hangcheng Liu, Teng Ma, Weitong Zhang, Jie Feng, Licheng Jiao, Rustam Stolkin",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.swevo.2023.101354"
+    },
+    {
+        "id": 19980,
+        "title": "EPC-DARTS: Efficient partial channel connection for differentiable architecture search",
+        "authors": "Zicheng Cai, Lei Chen, Hai-Lin Liu",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.029"
+    },
+    {
+        "id": 19981,
+        "title": "LISSNAS: Locality-based Iterative Search Space Shrinkage for Neural Architecture Search",
+        "authors": "Bhavna Gopal, Arjun Sridhar, Tunhou Zhang, Yiran Chen",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "Search spaces hallmark the advancement of Neural Architecture Search (NAS). Large and complex search spaces with versatile building operators and structures provide more opportunities to brew promising architectures, yet pose severe challenges on efficient exploration and exploitation. Subsequently, several search space shrinkage methods optimize by selecting a single sub-region that contains some well-performing networks.  Small performance and efficiency gains are observed with these methods but such techniques leave room for significantly improved search performance and are ineffective at retaining architectural diversity. We propose LISSNAS, an automated algorithm that shrinks a large space into a diverse, small search space with SOTA search performance. Our approach leverages locality, the relationship between structural and performance similarity, to efficiently extract many pockets of well-performing networks. We showcase our method on an array of search spaces spanning various sizes and datasets. We accentuate the effectiveness of our shrunk spaces when used in one-shot search by achieving the best Top-1 accuracy in two different search spaces. Our method achieves a SOTA Top-1 accuracy of 77.6% in ImageNet under mobile constraints, best-in-class Kendal-Tau, architectural diversity, and search space size.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/86"
+    },
+    {
+        "id": 19982,
+        "title": "Efficient Object Detection through Migration-Based Neural Architecture Search",
+        "authors": "Amrita Rana, Kyung Ki Kim",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isocc59558.2023.10396054"
+    },
+    {
+        "id": 19983,
+        "title": "Neural Logic Circuits: An evolutionary neural architecture that can learn and generalize",
+        "authors": "Hamit Taner Ünal, Fatih Başçiftçi",
+        "published": "2023-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.110379"
+    },
+    {
+        "id": 19984,
+        "title": "Optimizing hyperparameters in Hopfield neural networks using evolutionary search",
+        "authors": "Safae Rbihou, Khalid Haddouch, Karim El moutaouakil",
+        "published": "2024-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12597-024-00746-4"
+    },
+    {
+        "id": 19985,
+        "title": "Model Predictive Evolutionary Temperature Control via Neural-Network-Based Digital Twins",
+        "authors": "Cihan Ates, Dogan Bicat, Radoslav Yankov, Joel Arweiler, Rainer Koch, Hans-Jörg Bauer",
+        "published": "2023-8-12",
+        "citations": 0,
+        "abstract": "In this study, we propose a population-based, data-driven intelligent controller that leverages neural-network-based digital twins for hypothesis testing. Initially, a diverse set of control laws is generated using genetic programming with the digital twin of the system, facilitating a robust response to unknown disturbances. During inference, the trained digital twin is utilized to virtually test alternative control actions for a multi-objective optimization task associated with each control action. Subsequently, the best policy is applied to the system. To evaluate the proposed model predictive control pipeline, experiments are conducted on a multi-mode heat transfer test rig. The objective is to achieve homogeneous cooling over the surface, minimizing the occurrence of hot spots and energy consumption. The measured variable vector comprises high dimensional infrared camera measurements arranged as a sequence (655,360 inputs), while the control variable includes power settings for fans responsible for convective cooling (3 outputs). Disturbances are induced by randomly altering the local heat loads. The findings reveal that by utilizing an evolutionary algorithm on measured data, a population of control laws can be effectively learned in the virtual space. This empowers the system to deliver robust performance. Significantly, the digital twin-assisted, population-based model predictive control (MPC) pipeline emerges as a superior approach compared to individual control models, especially when facing sudden and random changes in local heat loads. Leveraging the digital twin to virtually test alternative control policies leads to substantial improvements in the controller’s performance, even with limited training data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16080387"
+    },
+    {
+        "id": 19986,
+        "title": "Search for Efficient Deep Visual-Inertial Odometry Through Neural Architecture Search",
+        "authors": "Yu Chen, Mingyu Yang, Hun-Seok Kim",
+        "published": "2023-6-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10095166"
+    },
+    {
+        "id": 19987,
+        "title": "A Survey on Search Strategy of Evolutionary Multi-Objective Optimization Algorithms",
+        "authors": "Zitong Wang, Yan Pei, Jianqiang Li",
+        "published": "2023-4-6",
+        "citations": 11,
+        "abstract": "The multi-objective optimization problem is difficult to solve with conventional optimization methods and algorithms because there are conflicts among several optimization objectives and functions. Through the efforts of researchers and experts from different fields for the last 30 years, the research and application of multi-objective evolutionary algorithms (MOEA) have made excellent progress in solving such problems. MOEA has become one of the primary used methods and technologies in the realm of multi-objective optimization. It is also a hotspot in the evolutionary computation research community. This survey provides a comprehensive investigation of MOEA algorithms that have emerged in recent decades and summarizes and classifies the classical MOEAs by evolutionary mechanism from the viewpoint of the search strategy. This paper divides them into three categories considering the search strategy of MOEA, i.e., decomposition-based MOEA algorithms, dominant relation-based MOEA algorithms, and evaluation index-based MOEA algorithms. This paper selects the relevant representative algorithms for a detailed summary and analysis. As a prospective research direction, we propose to combine the chaotic evolution algorithm with these representative search strategies for improving the search capability of multi-objective optimization algorithms. The capability of the new multi-objective evolutionary algorithm has been discussed, which further proposes the future research direction of MOEA. It also lays a foundation for the application and development of MOEA with these prospective works in the future.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13074643"
+    },
+    {
+        "id": 19988,
+        "title": "Enhancing Training-Free Multi-Objective Pruning-Based Neural Architecture Search with Low-Cost Local Search",
+        "authors": "Quan Minh Phan, Ngoc Hoang Luong",
+        "published": "2023-12-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rivf60135.2023.10471840"
+    },
+    {
+        "id": 19989,
+        "title": "A Survey on Evolutionary Neural Architecture Search",
+        "authors": "Yuqiao Liu, Yanan Sun, Bing Xue, Mengjie Zhang, Gary G. Yen, Kay Chen Tan",
+        "published": "2023-2",
+        "citations": 150,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2021.3100554"
+    },
+    {
+        "id": 19990,
+        "title": "Design of Industrial and Commercial Systems based on Neural Networks",
+        "authors": "Haifeng Liao",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393820"
+    },
+    {
+        "id": 19991,
+        "title": "Two-Phase Evolutionary Convolutional Neural Network Architecture Search for Medical Image Classification",
+        "authors": "Arjun Ghosh, Nanda Dulal Jana, Swagatam Das, Rammohan Mallipeddi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3323705"
+    },
+    {
+        "id": 19992,
+        "title": "Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search",
+        "authors": "Yingying Gao, Shilei Zhang, Zihao Cui, Chao Deng, Junlan Feng",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-341"
+    },
+    {
+        "id": 19993,
+        "title": "Multi-Objective Fine-Grained Neural Architecture Search",
+        "authors": "Andrey Arhipov, Ivan Fomin",
+        "published": "2023-9-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/rusautocon58002.2023.10272824"
+    },
+    {
+        "id": 19994,
+        "title": "Search for optimal deep neural network architecture for gamma ray search at KASCADE",
+        "authors": "Nikita Petrov, Mikhail Kuznetsov, Ivan Plokhikh, Vladimir Sotnikov, Margarita Tsobenko",
+        "published": "2023-2-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22323/1.423.0091"
+    },
+    {
+        "id": 19995,
+        "title": "A Training-Free Neural Architecture Search Algorithm Based on Search Economics",
+        "authors": "Meng-Ting Wu, Hung-I Lin, Chun-Wei Tsai",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3264533"
+    },
+    {
+        "id": 19996,
+        "title": "Neural Architecture Search Based on a Multi-Objective Evolutionary Algorithm With Probability Stack",
+        "authors": "Yu Xue, Chen Chen, Adam Słowik",
+        "published": "2023-8",
+        "citations": 18,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3252612"
+    },
+    {
+        "id": 19997,
+        "title": "Prediction of Mix Proportioning of High-Performance Concrete using Harmony Search Algorithms",
+        "authors": "Dina E. Tobbala",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21608/njace.2024.341290"
+    },
+    {
+        "id": 19998,
+        "title": "Hardware-Aware Zero-Shot Neural Architecture Search",
+        "authors": "Yutaka Yoshihama, Kenichi Yadani, Shota Isobe",
+        "published": "2023-7-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/mva57639.2023.10216205"
+    },
+    {
+        "id": 19999,
+        "title": "Convolutional Neural Network Graph-based Embedding for Neural Architecture Search",
+        "authors": "Evgeny Bessonnitsyn, Vsevolod Shaldin, Valeria Efimova, Viacheslav Shalamov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.12.006"
+    },
+    {
+        "id": 20000,
+        "title": "NAS-PINN: Neural architecture search-guided physics-informed neural network for solving PDEs",
+        "authors": "Yifan Wang, Linlin Zhong",
+        "published": "2024-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jcp.2023.112603"
+    },
+    {
+        "id": 20001,
+        "title": "OFA<sup>2</sup>: A Multi-Objective Perspective for the Once-for-All Neural Architecture Search",
+        "authors": "Rafael Claro Ito, Fernando J. Von Zuben",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191589"
+    },
+    {
+        "id": 20002,
+        "title": "Necessary neural architecture search in deep learning escalation",
+        "authors": "Xingsheng Pu",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "Since contemporary information-retrieval systems rely heavily on the content of titles and abstracts to identify relevant articles in literature searches, great care should be taken in constructing both. Since the AI hypothesis was proposed during the twentieth 100 years, With the development of related research and the persistent improvement of PC figuring power, AI has become increasingly more generally utilized. The brain structure search procedure can look through the brain network structure reasonably for a particular errand in an enormous arrangement of competitor organizations since brain engineering search is supposed to accelerate the method involved with finding brain network designs that will create great models for explicit datasets. taken in the paper has summed up certain discovery courses to make sense of the information on profound learning, comprehended presented the brain design search in the advancement of profound learning through writing research, and acquired a few accomplishments toward it. Results show that cell-based search space is additionally effectively utilized by numerous new works. The study will give clues to important examination of profound learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/48/20241492"
+    },
+    {
+        "id": 20003,
+        "title": "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search",
+        "authors": "Afzal Ahmad, Zhiyao Xie, Wei Zhang",
+        "published": "2023-7-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dac56929.2023.10247756"
+    },
+    {
+        "id": 20004,
+        "title": "BaDENAS: Bayesian Based Neural Architecture Search for Retinal Vessel Segmentation",
+        "authors": "Zeki Kuş, Berna Kiraz",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223862"
+    },
+    {
+        "id": 20005,
+        "title": "FSD: Fully-Specialized Detector via Neural Architecture Search",
+        "authors": "Zhe Huang, Yudian Li",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccci59363.2023.10210167"
+    },
+    {
+        "id": 20006,
+        "title": "Performing Neural Architecture Search Without Gradients",
+        "authors": "Pavel Rumiantsev, Mark Coates",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094582"
+    },
+    {
+        "id": 20007,
+        "title": "An Evolutionary Algorithm-Based Neural Architecture Search for Feature Separation in Classification Problems",
+        "authors": "Qing Zhang, YingMing Luo, Guoliang Gong, Lin Lin",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsmd60522.2023.10490799"
+    },
+    {
+        "id": 20008,
+        "title": "Bi-fidelity evolutionary multiobjective search for adversarially robust deep neural architectures",
+        "authors": "Jia Liu, Ran Cheng, Yaochu Jin",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126465"
+    },
+    {
+        "id": 20009,
+        "title": "Evolutionary neural architecture search based on group whitening residual ConvNet and large kernel subspace attention module",
+        "authors": "Yang Xu, Yongjie Ma",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/1206212x.2023.2300221"
+    },
+    {
+        "id": 20010,
+        "title": "Evolutionary Algorithms Approach For Search Based On Semantic Document Similarity",
+        "authors": "Chandrashekar Muniyappa, Eunjin Kim",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3617733.3617753"
+    },
+    {
+        "id": 20011,
+        "title": "AutoEER: automatic EEG-based emotion recognition with neural architecture search",
+        "authors": "Yixiao Wu, Huan Liu, Dalin Zhang, Yuzhe Zhang, Tianyu Lou, Qinghua Zheng",
+        "published": "2023-8-1",
+        "citations": 2,
+        "abstract": "Abstract\n\nObjective. Emotion recognition based on electroencephalography (EEG) is garnering increasing attention among researchers due to its wide-ranging applications and the rise of portable devices. Deep learning-based models have demonstrated impressive progress in EEG-based emotion recognition, thanks to their exceptional feature extraction capabilities. However, the manual design of deep networks is time-consuming and labour-intensive. Moreover, the inherent variability of EEG signals necessitates extensive customization of models, exacerbating these challenges. Neural architecture search (NAS) methods can alleviate the need for excessive manual involvement by automatically discovering the optimal network structure for EEG-based emotion recognition. Approach. In this regard, we propose AutoEER (Automatic EEG-based Emotion Recognition), a framework that leverages tailored NAS to automatically discover the optimal network structure for EEG-based emotion recognition. We carefully design a customized search space specifically for EEG signals, incorporating operators that effectively capture both temporal and spatial properties of EEG. Additionally, we employ a novel parameterization strategy to derive the optimal network structure from the proposed search space. Main results. Extensive experimentation on emotion classification tasks using two benchmark datasets, DEAP and SEED, has demonstrated that AutoEER outperforms state-of-the-art manual deep and NAS models. Specifically, compared to the optimal model WangNAS on the accuracy (ACC) metric, AutoEER improves its average accuracy on all datasets by 0.93%. Similarly, compared to the optimal model LiNAS on the F1 Ssore (F1) metric, AutoEER improves its average F1 score on all datasets by 4.51%. Furthermore, the architectures generated by AutoEER exhibit superior transferability compared to alternative methods. Significance. AutoEER represents a novel approach to EEG analysis, utilizing a specialized search space to design models tailored to individual subjects. This approach significantly reduces the labour and time costs associated with manual model construction in EEG research, holding great promise for advancing the field and streamlining research practices.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1741-2552/aced22"
+    },
+    {
+        "id": 20012,
+        "title": "Optimization-inspired manual architecture design and neural architecture search",
+        "authors": "Yibo Yang, Zhengyang Shen, Huan Li, Zhouchen Lin",
+        "published": "2023-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11432-021-3527-7"
+    },
+    {
+        "id": 20013,
+        "title": "Open-NAS: A customizable search space for Neural Architecture Search",
+        "authors": "Leo Pouy, Fouad Khenfri, Patrick Leserf, Chokri Mhraida, Cherif Larouci",
+        "published": "2023-3-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3589883.3589898"
+    },
+    {
+        "id": 20014,
+        "title": "Deep Neural Network Architecture Search via Decomposition-Based Multi-Objective Stochastic Fractal Search",
+        "authors": "Hongshang Xu, Bei Dong, Xiaochang Liu, Xiaojun Wu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.041177"
+    },
+    {
+        "id": 20015,
+        "title": "Multi-Objective Evolutionary Search of Compact Convolutional Neural Networks with Training-Free Estimation",
+        "authors": "Junhao Huang, Bing Xue, Yanan Sun, Mengjie Zhang",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3583133.3590535"
+    },
+    {
+        "id": 20016,
+        "title": "An Efficient Multi-Objective Evolutionary Zero-Shot Neural Architecture Search Framework for Image Classification",
+        "authors": "Jianwei Zhang, Lei Zhang, Yan Wang, Junyou Wang, Xin Wei, Wenjie Liu",
+        "published": "2023-5",
+        "citations": 4,
+        "abstract": " Neural Architecture Search (NAS) has recently shown a powerful ability to engineer networks automatically on various tasks. Most current approaches navigate the search direction with the validation performance-based architecture evaluation methodology, which estimates an architecture’s quality by training and validating on a specific large dataset. However, for small-scale datasets, the model’s performance on the validation set cannot precisely estimate that on the test set. The imprecise architecture evaluation can mislead the search to sub-optima. To address the above problem, we propose an efficient multi-objective evolutionary zero-shot NAS framework by evaluating architectures with zero-cost metrics, which can be calculated with randomly initialized models in a training-free manner. Specifically, a general zero-cost metric design principle is proposed to unify the current metrics and help develop several new metrics. Then, we offer an efficient computational method for multi-zero-cost metrics by calculating them in one forward and backward pass. Finally, comprehensive experiments have been conducted on NAS-Bench-201 and MedMNIST. The results have shown that the proposed method can achieve sufficiently accurate, high-throughput performance on MedMNIST and 20[Formula: see text]faster than the previous best method. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0129065723500168"
+    },
+    {
+        "id": 20017,
+        "title": "HNAS-Reg: Hierarchical Neural Architecture Search for Deformable Medical Image Registration",
+        "authors": "Jiong Wu, Yong Fan",
+        "published": "2023-4-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isbi53787.2023.10230534"
+    },
+    {
+        "id": 20018,
+        "title": "ATNAS: Automatic Termination for Neural Architecture Search",
+        "authors": "Kotaro Sakamoto, Hideaki Ishibashi, Rei Sato, Shinichi Shirakawa, Youhei Akimoto, Hideitsu Hino",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neunet.2023.07.011"
+    },
+    {
+        "id": 20019,
+        "title": "Privacy-Preserving Implementation of Local Search Algorithms for Collaboratively Solving Assignment Problems in Time-Critical Contexts",
+        "authors": "Kevin Schuetz, Christoph G. Schuetz, Samuel Jaburek",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cec53210.2023.10253978"
+    },
+    {
+        "id": 20020,
+        "title": "Recommendation System Based on Sparrow Search Optimization Algorithm",
+        "authors": "Nagendar Yamsani, M. Sasikala, A. Radhika, S. S. Rajasekar, N. Samanvita",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393464"
+    },
+    {
+        "id": 20021,
+        "title": "Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models",
+        "authors": "Shangshang Yang, Cheng Zhen, Ye Tian, Haiping Ma, Yuanchao Liu, Panpan Zhang, Xingyi Zhang",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/docs60977.2023.10294588"
+    },
+    {
+        "id": 20022,
+        "title": "Memristor based Spiking Neural Networks: Cooperative Development of Neural Network Architecture/Algorithms and Memristors",
+        "authors": "Huihui Peng, Lin Gan, Xin Guo, H.H. Peng, L. Gan, X. Guo",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chip.2024.100093"
+    },
+    {
+        "id": 20023,
+        "title": "Sparse Gate for Differentiable Architecture Search",
+        "authors": "Liang Fan, Handing Wang",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191908"
+    },
+    {
+        "id": 20024,
+        "title": "Problems of Neural Network Architecture Benchmarking and Search",
+        "authors": "A. S. Shcherbin",
+        "published": "2023-9-21",
+        "citations": 0,
+        "abstract": "In this paper we made a survey of neural architecture search algorithms and their benchmarking. Based on our survey we highlight the current problems in the quality of neural network architecture benchmarking and in the comparison of neural architecture search algorithms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25205/1818-7900-2023-21-2-51-62"
+    },
+    {
+        "id": 20025,
+        "title": "Deciphering Neural Codes: A Resource Search Network Perspective on Brain Connectivity",
+        "authors": "Aishwarya Vijayan",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3639631.3639664"
+    },
+    {
+        "id": 20026,
+        "title": "A Hybrid Search Method for Accelerating Convolutional Neural Architecture Search",
+        "authors": "Zhou Xun, Liu Songbai, Wong Ka-Chun, Lin Qiuzhen, Tan Kaychen",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3587716.3587745"
+    },
+    {
+        "id": 20027,
+        "title": "On the Strengths of Pure Evolutionary Algorithms in Generating Adversarial Examples",
+        "authors": "Antony Bartlett, Cynthia C. S. Liem, Annibale Panichella",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sbft59156.2023.00012"
+    },
+    {
+        "id": 20028,
+        "title": "Telecom Churn Classification using Scatter Search and Random Forest Classifier",
+        "authors": "Varun A S, Tina Babu, Rekha R Nair, Kishore S",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392595"
+    },
+    {
+        "id": 20029,
+        "title": "DE-DARTS: Neural architecture search with dynamic exploration",
+        "authors": "Jiwoo Mun, Seokhyeon Ha, Jungwoo Lee",
+        "published": "2023-6",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.icte.2022.04.005"
+    },
+    {
+        "id": 20030,
+        "title": "Gradient-Based Neural Architecture Search: A Comprehensive Evaluation",
+        "authors": "Sarwat Ali, M. Arif Wani",
+        "published": "2023-9-14",
+        "citations": 1,
+        "abstract": "One of the challenges in deep learning involves discovering the optimal architecture for a specific task. This is effectively tackled through Neural Architecture Search (NAS). Neural Architecture Search encompasses three prominent approaches—reinforcement learning, evolutionary algorithms, and gradient descent—that have demonstrated noteworthy potential in identifying good candidate architectures. However, approaches based on reinforcement learning and evolutionary algorithms often necessitate extensive computational resources, requiring hundreds of GPU days or more. Therefore, we confine this work to a gradient-based approach due to its lower computational resource demands. Our objective encompasses identifying the optimal gradient-based NAS method and pinpointing opportunities for future enhancements. To achieve this, a comprehensive evaluation of the use of four major Gradient descent-based architecture search methods for discovering the best neural architecture for image classification tasks is provided. An overview of these gradient-based methods, i.e., DARTS, PDARTS, Fair DARTS and Att-DARTS, is presented. A theoretical comparison, based on search spaces, continuous relaxation strategy and bi-level optimization, for deriving the best neural architecture is then provided. The strong and weak features of these methods are also listed. Experimental results for comparing the error rate and computational cost of these gradient-based methods are analyzed. These experiments involved using bench marking datasets CIFAR-10, CIFAR-100 and ImageNet. The results show that PDARTS is better and faster among the examined methods, making it a potent candidate for automating Neural Architecture Search. By effectively conducting a comparative analysis, our research provides valuable insights and future research directions to address the criticism and gaps in the literature.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/make5030060"
+    },
+    {
+        "id": 20031,
+        "title": "Neural architecture search: A contemporary literature review for computer vision applications",
+        "authors": "Matt Poyser, Toby P. Breckon",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patcog.2023.110052"
+    },
+    {
+        "id": 20032,
+        "title": "A novel hybrid search strategy for evolutionary fuzzy optimization approach",
+        "authors": "Héctor Escobar-Cuevas, Erik Cuevas, Jorge Gálvez, Karla Avila",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-09161-0"
+    },
+    {
+        "id": 20033,
+        "title": "Bandit-NAS: Bandit sampling and training method for Neural Architecture Search",
+        "authors": "Yiqi Lin, Yuki Endo, Jinho Lee, Shunsuke Kamijo",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2024.127684"
+    },
+    {
+        "id": 20034,
+        "title": "SVD-NAS: Coupling Low-Rank Approximation and Neural Architecture Search",
+        "authors": "Zhewen Yu, Christos-Savvas Bouganis",
+        "published": "2023-1",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wacv56688.2023.00155"
+    },
+    {
+        "id": 20035,
+        "title": "Neural Architecture Search for Text Classification With Limited Computing Resources Using Efficient Cartesian Genetic Programming",
+        "authors": "Xuan Wu, Di Wang, Huanhuan Chen, Lele Yan, Yubin Xiao, Chunyan Miao, Hongwei Ge, Dong Xu, Yanchun Liang, Kangping Wang, Chunguo Wu, You Zhou",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tevc.2023.3346969"
+    },
+    {
+        "id": 20036,
+        "title": "Multicriteria Optimization of Modal Filters Using Evolutionary Algorithms and Random Search Method",
+        "authors": "Viktoriya O. Gordeyeva, Anton O. Belousov",
+        "published": "2023-6-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/edm58354.2023.10225018"
+    },
+    {
+        "id": 20037,
+        "title": "Evolutionary Neural Architecture Search for Facial Expression Recognition",
+        "authors": "Shuchao Deng, Zeqiong Lv, Edgar Galván, Yanan Sun",
+        "published": "2023-10",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tetci.2023.3289974"
+    },
+    {
+        "id": 20038,
+        "title": "Better wind forecasting using Evolutionary Neural Architecture search driven Green Deep Learning",
+        "authors": "Keerthi Nagasree Pujari, Srinivas Soumitri Miriyala, Prateek Mittal, Kishalay Mitra",
+        "published": "2023-3",
+        "citations": 15,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.119063"
+    },
+    {
+        "id": 20039,
+        "title": "Ranking‐based architecture generation for surrogate‐assisted neural architecture search",
+        "authors": "Songyi Xiao, Wenjun Wang",
+        "published": "2024-2-26",
+        "citations": 0,
+        "abstract": "AbstractArchitectures generation optimization has been received a lot of attention in neural architecture search (NAS) since its efficiency in generating architecture. By learning the architecture representation through unsupervised learning and constructing a latent space, the prediction process of predictors is simplified, leading to improved efficiency in architecture search. However, searching for architectures with top performance in complex and large NAS search spaces remains challenging. In this paper, an approach that combined a ranker and generative model is proposed to address this challenge through regularizing the latent space and identifying architectures with top rankings. We introduce the ranking error to gradually regulate the training of the generative model, making it easier to identify architecture representations in the latent space. Additionally, a surrogate‐assisted evolutionary search method that utilized neural network Bayesian optimization is proposed to efficiently explore promising architectures in the latent space. We demonstrate the benefits of our approach in optimizing architectures with top rankings, and our method outperforms state‐of‐the‐art techniques on various NAS benchmarks. The code is available at \nhttps://github.com/outofstyle/RAGS‐NAS.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/cpe.8051"
+    },
+    {
+        "id": 20040,
+        "title": "Construction of an English Translation Intelligent Recognition System Based on BP Neural Algorithm",
+        "authors": "Nayila Yarmamat, Jie Lan",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392560"
+    },
+    {
+        "id": 20041,
+        "title": "MixPath: A Unified Approach for One-shot Neural Architecture Search",
+        "authors": "Xiangxiang Chu, Shun Lu, Xudong Li, Bo Zhang",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccv51070.2023.00549"
+    },
+    {
+        "id": 20042,
+        "title": "Tea Leaf Disease Detection using Deep Learning Convolutional Neural Network Model",
+        "authors": "Gurjot Kaur, Neha Sharma, Rupesh Gupta",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393773"
+    },
+    {
+        "id": 20043,
+        "title": "Efficient graph neural architecture search using Monte Carlo Tree search and prediction network",
+        "authors": "TianJin Deng, Jia Wu",
+        "published": "2023-3",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2022.118916"
+    },
+    {
+        "id": 20044,
+        "title": "One-shot Based Knowledge Graph Embedded Neural Architecture Search Algorithm",
+        "authors": "Wenli Li, Gang Wu",
+        "published": "2023-5-4",
+        "citations": 0,
+        "abstract": "The quality of embeddings is crucial for downstream tasks in knowledge graphs. Researchers usually introduce neural network architecture search into knowledge graph embedding for machine automatic construction of appropriate neural networks for each dataset. An existing approach is to divide the search space into macro search space and micro search space. The search strategy for micro space is based on one-shot weight sharing strategy, but it will lead to all the information obtained from the previous supernet training is discarded and the advantages of one-shot algorithm are not fully utilized. In this paper, we conduct experiments on common datasets for two important downstream tasks of knowledge graph embedding entity alignment and link prediction problems, respectively-and compare the search performance with existing manually designed neural networks as well as good neural network search algorithms. The results show that the improved algorithm can search better architectures for the same time when experiments are performed on the same dataset; the improved algorithm takes less time to search architectures with similar performance. Also, the improved algorithm searched the model on the dataset due to the human optimal level.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/fcis.v3i3.7982"
+    },
+    {
+        "id": 20045,
+        "title": "Supervised Federated Neural Architecture Search and Its Application in Power System Forecasting",
+        "authors": "Amirhossein Dolatabadi, Jhelum Chakravorty, Xiaoming Feng",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pesgm52003.2023.10252675"
+    },
+    {
+        "id": 20046,
+        "title": "Novel Surrogate Measures Based on a Similarity Network for Neural Architecture Search",
+        "authors": "Zeki Kuş, Can Akkan, Ayla Gülcü",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3252887"
+    },
+    {
+        "id": 20047,
+        "title": "Hardware-aware neural architecture search for stochastic computing-based neural networks on tiny devices",
+        "authors": "Yuhong Song, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Rui Xu, Xiaowei Xu, Bingzhe Li, Lei Yang",
+        "published": "2023-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysarc.2022.102810"
+    },
+    {
+        "id": 20048,
+        "title": "Neural architecture search for energy-efficient always-on audio machine learning",
+        "authors": "Daniel T. Speckhard, Karolis Misiunas, Sagi Perel, Tenghui Zhu, Simon Carlile, Malcolm Slaney",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "AbstractMobile and edge computing devices for always-on classification tasks require energy-efficient neural network architectures. In this paper we present several changes to neural architecture searches that improve the chance of success in practical situations. Our search simultaneously optimizes for network accuracy, energy efficiency and memory usage. We benchmark the performance of our search on real hardware, but since running thousands of tests with real hardware is difficult, we use a random forest model to roughly predict the energy usage of a candidate network. We present a search strategy that uses both Bayesian and regularized evolutionary search with particle swarms, and employs early stopping to reduce the computational burden. Our search, evaluated on a sound event classification dataset based upon AudioSet, results in an order of magnitude less energy per inference and a much smaller memory footprint than our baseline MobileNetV1/V2 implementations while slightly improving task accuracy. We also demonstrate how combining a 2D spectrogram with a convolution with many filters causes a computational bottleneck for audio classification and that alternative approaches reduce the computational burden but sacrifice task accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08345-y"
+    },
+    {
+        "id": 20049,
+        "title": "An Affordable Hardware-aware Neural Architecture Search for Deploying Convolutional Neural Networks on Ultra-low-power Computing Platforms",
+        "authors": "Andrea Mattia Garavagno, Edoardo Ragusa, Antonio Frisoli, Paolo Gastaldo",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/lsens.2024.3387056"
+    },
+    {
+        "id": 20050,
+        "title": "How predictors affect the RL-based search strategy in Neural Architecture Search?",
+        "authors": "Jia Wu, Tianjin Deng, Qi Hu",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121742"
+    },
+    {
+        "id": 20051,
+        "title": "GeNAS: Neural Architecture Search with Better Generalization",
+        "authors": "Joonhyun Jeong, Joonsang Yu, Geondo Park, Dongyoon Han, YoungJoon Yoo",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "Neural Architecture Search (NAS) aims to automatically excavate the optimal network architecture with superior test performance. Recent neural architecture search (NAS) approaches rely on validation loss or accuracy to find the superior network for the target data. In this paper, we investigate a new neural architecture search measure for excavating architectures with better generalization. We demonstrate that the flatness of the loss surface can be a promising proxy for predicting the generalization capability of neural network architectures. We evaluate our proposed method on various search spaces, showing similar or even better performance compared to the state-of-the-art NAS methods. Notably, the resultant architecture found by flatness measure generalizes robustly to various shifts in data distribution (e.g. ImageNet-V2,-A,-O), as well as various tasks such as object detection and semantic segmentation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24963/ijcai.2023/101"
+    },
+    {
+        "id": 20052,
+        "title": "Wireless sensor network coverage optimization strategy based on improved cuckoo search algorithm",
+        "authors": "Siyang Li",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004648"
+    },
+    {
+        "id": 20053,
+        "title": "Carbon-Efficient Neural Architecture Search",
+        "authors": "Yiyang Zhao, Tian Guo",
+        "published": "2023-7-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3604930.3605708"
+    },
+    {
+        "id": 20054,
+        "title": "Migraine Categorization using the Scatter Search and Random Forest Classifier",
+        "authors": "K Mary Litta David, Vengala Venkata Sai Sharmili, Tina Babu, Rekha R Nair",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393599"
+    },
+    {
+        "id": 20055,
+        "title": "Latent Space Neural Architecture Search via LambdaNDCGloss-Based Listwise Ranker",
+        "authors": "Songyi Xiao, Bo Zhao, Derong Liu",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csis-iac60628.2023.10364134"
+    },
+    {
+        "id": 20056,
+        "title": "TD-NAAS: Template-Based Differentiable Neural Architecture Accelerator Search",
+        "authors": "HaYoung Lim, Yeseo Jang, Juyeon Kim, Jaehyeong Sim",
+        "published": "2023-10-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isocc59558.2023.10396202"
+    },
+    {
+        "id": 20057,
+        "title": "A Two-Stage Hybrid GA-Cellular Encoding Approach to Neural Architecture Search",
+        "authors": "Trevor Londt, Xiaoying Gao, Peter Andreae, Yi Mei",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ssci52147.2023.10371929"
+    },
+    {
+        "id": 20058,
+        "title": "ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search",
+        "authors": "Li Yan, Zhipeng Zhang, Jing Liang, Boyang Qu, Kunjie Yu, Kongyuan Wang",
+        "published": "2023-10",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110639"
+    },
+    {
+        "id": 20059,
+        "title": "CNN-LSTM Based on Crow Search Optimization Algorithm for Product Review Classification",
+        "authors": "Nagendar Yamsani, B. Jothi, N. Srinivasan, R. Dineshkumar, Ramachandra A C",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392773"
+    },
+    {
+        "id": 20060,
+        "title": "Fully Pipelined FPGA Acceleration of Binary Convolutional Neural Networks with Neural Architecture Search",
+        "authors": "Mengfei Ji, Zaid Al-Ars, Yuchun Chang, Baolin Zhang",
+        "published": "2024-2-14",
+        "citations": 0,
+        "abstract": " In this paper, we present a fully pipelined and semi-parallel channel convolutional neural network hardware accelerator structure. This structure can trade off the compute time and the hardware utilization, allowing the accelerator to be layer pipelined without the need for fully parallelizing the input and output channels. A parallel strategy is applied to reduce the time gap in transferring the output results between different layers. The parallelism can be decided based on the hardware resources on the target FPGA. We use this structure to implement a binary ResNet18 based on the neural architecture search strategy, which can increase the accuracy of manually designed binary convolutional neural networks. Our optimized binary ResNet18 can achieve a Top-1 accuracy of 60.5% on the ImageNet dataset. We deploy this ResNet18 hardware implementation on an Alphadata 9H7 FPGA, connected with an OpenCAPI interface, to demonstrate the hardware capabilities. Depending on the amount of parallelism used, the latency can range from 1.12 to 6.33[Formula: see text]ms, with a corresponding throughput of 4.56 to 0.71 TOPS for different hardware utilization, with a 200[Formula: see text]MHz clock frequency. Our best latency is [Formula: see text] lower and our best throughput is [Formula: see text] higher compared to the best previous works. The code for our implementation is open-source and publicly available on GitHub at https://github.com/MFJI/NASBRESNET . ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218126624501706"
+    },
+    {
+        "id": 20061,
+        "title": "Research on Emotion Classification Model of Digital Music Based on Convolutional Neural Network",
+        "authors": "Qiaolan Tang, Lingyan Qiao, Xinyu Sun",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10392847"
+    },
+    {
+        "id": 20062,
+        "title": "Brake light detection of vehicles using differential evolution based neural architecture search",
+        "authors": "Medipelly Rampavan, Earnest Paul Ijjina",
+        "published": "2023-11",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2023.110839"
+    },
+    {
+        "id": 20063,
+        "title": "Traffic Spatial-Temporal Prediction Based on Neural Architecture Search",
+        "authors": "Dongran Zhang, Gang Luo, Jun Li",
+        "published": "2023-8-23",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3609956.3609962"
+    },
+    {
+        "id": 20064,
+        "title": "Retracted: Identifying Animals in Camera Trap Images via Neural Architecture Search",
+        "authors": "",
+        "published": "2023-12-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9836359"
+    },
+    {
+        "id": 20065,
+        "title": "InstaTune: Instantaneous Neural Architecture Search During Fine-Tuning",
+        "authors": "Sharath Nittur Sridhar, Souvik Kundu, Sairam Sundaresan, Maciej Szankin, Anthony Sarah",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00166"
+    },
+    {
+        "id": 20066,
+        "title": "NASEI: Neural Architecture Search-Based Specific Emitter Identification Method",
+        "authors": "Yuxuan Huang, Xixi Zhang, Yu Wang, Donglai Jiao, Guan Gui, Tomoaki Ohtsuki",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/vtc2023-spring57618.2023.10199409"
+    },
+    {
+        "id": 20067,
+        "title": "ENASA: Towards Edge Neural Architecture Search based on CIM acceleration",
+        "authors": "Shixin Zhao, Songyun Qu, Ying Wang, Yinhe Han",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/date56975.2023.10137157"
+    },
+    {
+        "id": 20068,
+        "title": "Hypergraph Neural Architecture Search",
+        "authors": "Wei Lin, Xu Peng, Zhengtao Yu, Taisong Jin",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "In recent years, Hypergraph Neural Networks (HGNNs) have achieved considerable success by manually designing architectures, which are capable of extracting effective patterns with high-order interactions from non-Euclidean data. However, such mechanism is extremely inefficient, demanding tremendous human efforts to tune diverse model parameters. In this paper, we propose a novel Hypergraph Neural Architecture Search (HyperNAS) to automatically design the optimal HGNNs. The proposed model constructs a search space suitable for hypergraphs, and derives hypergraph architectures through differentiable search strategies. A hypergraph structure-aware distance criterion is introduced as a guideline for obtaining an optimal hypergraph architecture via the leave-one-out method. Experimental results for node classification on benchmark Cora, Citeseer, Pubmed citation networks and hypergraph datasets show that HyperNAS outperforms existing HGNNs models and graph NAS methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i12.29290"
+    },
+    {
+        "id": 20069,
+        "title": "Adaptive Speed Controller for Micro Gas Turbine Systems Using Evolutionary Search Based on Genetic Algorithms",
+        "authors": " OlowoyeyeJoseph and Ogbonna Bartholomew Odinaka",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46253/jcmps.v6i4.a2"
+    },
+    {
+        "id": 20070,
+        "title": "Training-free Neural Architecture Search for RNNs and Transformers",
+        "authors": "Aaron Serianni, Jugal Kalita",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-long.142"
+    },
+    {
+        "id": 20071,
+        "title": "A Neural Architecture Search Method with Multi-Dimensional Correlation Representation for Fault Diagnosis",
+        "authors": "Yumeng Liu, Tingqi Wang, Xu Zheng, Ling Tian, Hongan Wang",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/swc57546.2023.10448678"
+    },
+    {
+        "id": 20072,
+        "title": "Evolving blocks by segmentation for neural architecture search",
+        "authors": "Xiaoping Zhao, Liwen Jiang, Adam Slowik, Zhenman Zhang, Yu Xue",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "<abstract><p>Convolutional neural networks (CNNs) play a prominent role in solving problems in various domains such as pattern recognition, image tasks, and natural language processing. In recent years, neural architecture search (NAS), which is the automatic design of neural network architectures as an optimization algorithm, has become a popular method to design CNN architectures against some requirements associated with the network function. However, many NAS algorithms are characterised by a complex search space which can negatively affect the efficiency of the search process. In other words, the representation of the neural network architecture and thus the encoding of the resulting search space plays a fundamental role in the designed CNN performance. In this paper, to make the search process more effective, we propose a novel compact representation of the search space by identifying network blocks as elementary units. The study in this paper focuses on a popular CNN called DenseNet. To perform the NAS, we use an ad-hoc implementation of the particle swarm optimization indicated as PSO-CNN. In addition, to reduce size of the final model, we propose a segmentation method to cut the blocks. We also transfer the final model to different datasets, thus demonstrating that our proposed algorithm has good transferable performance. The proposed PSO-CNN is compared with 11 state-of-the-art algorithms on CIFAR10 and CIFAR100. Numerical results show the competitiveness of our proposed algorithm in the aspect of accuracy and the number of parameters.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/era.2024092"
+    },
+    {
+        "id": 20073,
+        "title": "Hidden Design Principles in Zero-Cost Performance Predictors for Neural Architecture Search",
+        "authors": "André Ramos Fernandes da Silva, Lucas Marcondes Pavelski, Luiz Alberto Queiroz Cordovil Júnior",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191474"
+    },
+    {
+        "id": 20074,
+        "title": "LoNAS: Low-Cost Neural Architecture Search Using a Three-Stage Evolutionary Algorithm [Research Frontier]",
+        "authors": "Wei Fang, Zhenhao Zhu, Shuwei Zhu, Jun Sun, Xiaojun Wu, Zhichao Lu",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mci.2023.3245799"
+    },
+    {
+        "id": 20075,
+        "title": "EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation",
+        "authors": "Caiyang Yu, Yixi Wang, Chenwei Tang, Wentao Feng, Jiancheng Lv",
+        "published": "2023-12",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.compbiomed.2023.107579"
+    },
+    {
+        "id": 20076,
+        "title": "Efficient Re-parameterization Operations Search for Easy-to-Deploy Network Based on Directional Evolutionary Strategy",
+        "authors": "Xinyi Yu, Xiaowei Wang, Jintao Rong, Mingyang Zhang, Linlin Ou",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11063-023-11184-6"
+    },
+    {
+        "id": 20077,
+        "title": "TPENAS: A Two-Phase Evolutionary Neural Architecture Search for Remote Sensing Image Classification",
+        "authors": "Lei Ao, Kaiyuan Feng, Kai Sheng, Hongyu Zhao, Xin He, Zigang Chen",
+        "published": "2023-4-21",
+        "citations": 5,
+        "abstract": "The application of deep learning in remote sensing image classification has been paid more and more attention by industry and academia. However, manually designed remote sensing image classification models based on convolutional neural networks usually require sophisticated expert knowledge. Moreover, it is notoriously difficult to design a model with both high classification accuracy and few parameters. Recently, neural architecture search (NAS) has emerged as an effective method that can greatly reduce the heavy burden of manually designing models. However, it remains a challenge to search for a classification model with high classification accuracy and few parameters in the huge search space. To tackle this challenge, we propose TPENAS, a two-phase evolutionary neural architecture search framework, which optimizes the model using computational intelligence techniques in two search phases. In the first search phase, TPENAS searches for the optimal depth of the model. In the second search phase, TPENAS searches for the structure of the model from the perspective of the whole model. Experiments on three open benchmark datasets demonstrate that our proposed TPENAS outperforms the state-of-the-art baselines in both classification accuracy and reducing parameters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/rs15082212"
+    },
+    {
+        "id": 20078,
+        "title": "Calorie estimation of real time south Indian food data using Convolutional Neural Network",
+        "authors": "Vishal Aravinth A, Aakash G, Preethiya T",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393042"
+    },
+    {
+        "id": 20079,
+        "title": "Optimized Deep Neural Networks Using Sparrow Search Algorithms for Hate\nSpeech Detection",
+        "authors": "Ashwini Kumar, Santosh Kumar",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.12785/ijcds/150145"
+    },
+    {
+        "id": 20080,
+        "title": "Facilitating hardware-aware neural architecture search with learning-based predictive models",
+        "authors": "Xueying Wang, Guangli Li, Xiu Ma, Xiaobing Feng",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.sysarc.2023.102838"
+    },
+    {
+        "id": 20081,
+        "title": "SARNas: A Hardware-Aware SAR Target Detection Algorithm via Multi-Objective Neural Architecture Search",
+        "authors": "Wentian Du, Jie Chen, Zhixiang Huang",
+        "published": "2023-7-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/igarss52108.2023.10283237"
+    },
+    {
+        "id": 20082,
+        "title": "Multi-Objective Evolutionary Architecture Search for Parameterized Quantum Circuits",
+        "authors": "Li Ding, Lee Spector",
+        "published": "2023-1-3",
+        "citations": 4,
+        "abstract": "Recent work on hybrid quantum-classical machine learning systems has demonstrated success in utilizing parameterized quantum circuits (PQCs) to solve the challenging reinforcement learning (RL) tasks, with provable learning advantages over classical systems, e.g., deep neural networks. While existing work demonstrates and exploits the strength of PQC-based models, the design choices of PQC architectures and the interactions between different quantum circuits on learning tasks are generally underexplored. In this work, we introduce a Multi-objective Evolutionary Architecture Search framework for parameterized quantum circuits (MEAS-PQC), which uses a multi-objective genetic algorithm with quantum-specific configurations to perform efficient searching of optimal PQC architectures. Experimental results show that our method can find architectures that have superior learning performance on three benchmark RL tasks, and are also optimized for additional objectives including reductions in quantum noise and model size. Further analysis of patterns and probability distributions of quantum operations helps identify performance-critical design choices of hybrid quantum-classical learning systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e25010093"
+    },
+    {
+        "id": 20083,
+        "title": "MedPipe: End-to-End Joint Search of Data Augmentation and Neural Architecture for 3D Medical Image Classification",
+        "authors": "Xin He, Xiaowen Chu",
+        "published": "2023-11-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/medai59581.2023.00053"
+    },
+    {
+        "id": 20084,
+        "title": "Research on the Construction of a Knowledge Graph Information Search Engine in the web Domain",
+        "authors": "Yuzhong Zhou, Zhengping Lin, Jiahao Shi, Yuliang Yang, Ronghui Wei",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393039"
+    },
+    {
+        "id": 20085,
+        "title": "Training-free neural architecture search: A review",
+        "authors": "Meng-Ting Wu, Chun-Wei Tsai",
+        "published": "2024-2",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.icte.2023.11.001"
+    },
+    {
+        "id": 20086,
+        "title": "Hierarchical quantum circuit representations for neural architecture search",
+        "authors": "Matt Lourens, Ilya Sinayskiy, Daniel K. Park, Carsten Blank, Francesco Petruccione",
+        "published": "2023-8-5",
+        "citations": 0,
+        "abstract": "AbstractQuantum circuit algorithms often require architectural design choices analogous to those made in constructing neural and tensor networks. These tend to be hierarchical, modular and exhibit repeating patterns. Neural Architecture Search (NAS) attempts to automate neural network design through learning network architecture and achieves state-of-the-art performance. We propose a framework for representing quantum circuit architectures using techniques from NAS, which enables search space design and architecture search. We use this framework to justify the importance of circuit architecture in quantum machine learning by generating a family of Quantum Convolutional Neural Networks (QCNNs) and evaluating them on a music genre classification dataset, GTZAN. Furthermore, we employ a genetic algorithm to perform Quantum Phase Recognition (QPR) as an example of architecture search with our representation. Finally, we implement the framework as an open-source Python package to enable dynamic circuit creation and facilitate circuit search space design for NAS.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41534-023-00747-z"
+    },
+    {
+        "id": 20087,
+        "title": "Finding Antimagic Labelings of Trees by Evolutionary Search",
+        "authors": "Luke Branson, Andrew M. Sutton, Xiankun Yan",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594805.3607133"
+    },
+    {
+        "id": 20088,
+        "title": "A hybrid neural architecture search for hyperspectral image classification",
+        "authors": "Aili Wang, Yingluo Song, Haibin Wu, Chengyang Liu, Yuji Iwahori",
+        "published": "2023-3-8",
+        "citations": 0,
+        "abstract": "Convolution neural network (CNN)is widely used in hyperspectral image (HSI) classification. However, the network architecture of CNNs is usually designed manually, which requires careful fine-tuning. Recently, many technologies for neural architecture search (NAS) have been proposed to automatically design networks, further improving the accuracy of HSI classification to a new level. This paper proposes a circular kernel convolution-β-decay regulation NAS-confident learning rate (CK-βNAS-CLR) framework to automatically design the neural network structure for HSI classification. First, this paper constructs a hybrid search space with 12 kinds of operation, which considers the difference between enhanced circular kernel convolution and square kernel convolution in feature acquisition, so as to improve the sensitivity of the network to hyperspectral information features. Then, the β-decay regulation scheme is introduced to enhance the robustness of differential architecture search (DARTS) and reduce the discretization differences in architecture search. Finally, we combined the confidence learning rate strategy to alleviate the problem of performance collapse. The experimental results on public HSI datasets (Indian Pines, Pavia University) show that the proposed NAS method achieves impressive classification performance and effectively improves classification accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fphy.2023.1159266"
+    },
+    {
+        "id": 20089,
+        "title": "Faster phase retrieval using deep learning model generated by neural architecture search",
+        "authors": "Xin Shu, Yi Zhang, Mengxuan Niu, Renjie Zhou, Hongfei Zhu",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2648788"
+    },
+    {
+        "id": 20090,
+        "title": "EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition",
+        "authors": "Haiyang Sun, Zheng Lian, Bin Liu, Ying Li, Jianhua Tao, Licai Sun, Cong Cai, Meng Wang, Yuan Cheng",
+        "published": "2023-8-20",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1351"
+    },
+    {
+        "id": 20091,
+        "title": "An Experimental Protocol for Neural Architecture Search in Super-Resolution",
+        "authors": "Jesús Leopoldo Llano García, Raúl Monroy, Víctor Adrián Sosa Hernández",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccvw60793.2023.00447"
+    },
+    {
+        "id": 20092,
+        "title": "A Generative Adversarial Framework for Dialogue Generation with Neural Architecture Search",
+        "authors": "Yi Huang, Wei Hu, Junlan Feng",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10446133"
+    },
+    {
+        "id": 20093,
+        "title": "PerFedRLNAS: One-for-All Personalized Federated Neural Architecture Search",
+        "authors": "Dixi Yao, Baochun Li",
+        "published": "2024-3-24",
+        "citations": 0,
+        "abstract": "Personalized federated learning is a new paradigm to address heterogeneous problems (e.g. issues with non-i.i.d. data) in federated learning. However, existing personalized federated learning methods lack standards for how personalized and shared parts of the models are designed. Sometimes, manual design can even lead to worse performance than non-personalization. As a result, we propose a new algorithm for personalized federated neural architecture search, called PerFedRLNAS, to automatically personalize the architectures and weights of models on each client. With such an algorithm, we can solve the issues of low efficiency as well as failure to adapt to new search spaces in previous federated neural architecture search work. We further show that with automatically assigning different client architectures can solve heterogeneity of data distribution, efficiency and memory in federated learning.  In our experiments, we empirically show that our framework shows much better performance with respect to personalized accuracy and overall time compared to state-of-the-art methods. Furthermore, PerFedRLNAS has a good generalization ability to new clients, and is easy to be deployed in practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i15.29576"
+    },
+    {
+        "id": 20094,
+        "title": "Running hardware-aware neural architecture search on embedded devices under 512MB of RAM",
+        "authors": "Andrea Mattia Garavagno, Edoardo Ragusa, Antonio Frisoli, Paolo Gastaldo",
+        "published": "2024-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icce59016.2024.10444268"
+    },
+    {
+        "id": 20095,
+        "title": "Improved Forecasting of Electric Vehicle Charging Load using Neural Architecture Search",
+        "authors": "Subhadeep Kar, Sayanee Das, Paramita Chattopadhyay",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cera59325.2023.10455262"
+    },
+    {
+        "id": 20096,
+        "title": "Are neural architecture search benchmarks well designed? A deeper look into operation importance",
+        "authors": "Vasco Lopes, Bruno Degardin, Luís A. Alexandre",
+        "published": "2023-12",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.119695"
+    },
+    {
+        "id": 20097,
+        "title": "Neural architecture search based on packed samples for identifying animals in camera trap images",
+        "authors": "Liang Jia, Ye Tian, Junguo Zhang",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-023-08247-z"
+    },
+    {
+        "id": 20098,
+        "title": "Split-Level Evolutionary Neural Architecture Search With Elite Weight Inheritance",
+        "authors": "Junhao Huang, Bing Xue, Yanan Sun, Mengjie Zhang, Gary G. Yen",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3269816"
+    },
+    {
+        "id": 20099,
+        "title": "GlorotUniform Kernel Initializer based Conv2D Sequential Convolutional Neural Network for Diabetic Retinopathy Detection",
+        "authors": "D. Umanandhini, M. Shyamala Devi, S. Sri Devi",
+        "published": "2023-10-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/easct59475.2023.10393224"
+    },
+    {
+        "id": 20100,
+        "title": "SegQNAS: Quantum-inspired Neural Architecture Search applied to Medical Image Semantic Segmentation",
+        "authors": "Guilherme Carlos, Karla Figueiredo, Abir Hussain, Marley Vellasco",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191869"
+    },
+    {
+        "id": 20101,
+        "title": "KL-DNAS: Knowledge Distillation-Based Latency Aware-Differentiable Architecture Search for Video Motion Magnification",
+        "authors": "Jasdeep Singh, Subrahmanyam Murala, G. Sankara Raju Kosuru",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2023.3346169"
+    },
+    {
+        "id": 20102,
+        "title": "A Novel IoT-based Arrhythmia Detection System with ECG Signals Using a Hybrid Convolutional Neural Network and Neural Architecture Search Network",
+        "authors": "Ceren Gülen, Umit Senturk, Kemal Polat",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijads.2024.10057677"
+    },
+    {
+        "id": 20103,
+        "title": "Generic neural architecture search toolkit for efficient and real-world deployment of visual inspection convolutional neural networks in industry",
+        "authors": "Nikola Pižurica, Kosta Pavlović, Slavko Kovačević, Igor Jovančević, Miguel de Prado",
+        "published": "2024-2-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jei.33.3.031203"
+    },
+    {
+        "id": 20104,
+        "title": "Data-Aware Zero-Shot Neural Architecture Search for Image Recognition",
+        "authors": "Yi Fan, Zhong-Han Niu, Yu-Bin Yang",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10094741"
+    }
+]

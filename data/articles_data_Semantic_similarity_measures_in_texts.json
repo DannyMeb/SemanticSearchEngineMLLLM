@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 25505,
+        "title": "Formation Networks of Terms for Identifying Semantic Similarity or Difference Degree of Texts in Cybersecurity",
+        "authors": "Oleh Dmytrenko",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "\r\n\r\n\r\nThis paper devoted the problem of identifying a semantic similarity degree or difference of text in cybersecurity field. The paper presents a method for comparing text documents based on the formation and comparison of the corresponding semantic networks. The directed weighted network of terms, where the nodes of such networks are key terms of the text, and edges are semantic relationships between these terms in the text are considered as a semantic network. The algorithm for formation semantic networks as one of the types of ontologies is also presented. Formation of network of term includes pre-processing of text data, extraction of key terms, construction of undirected network of terms (using the algorithm of horizontal visibility graph), determining undirected connections between terms, and further determining the directions of connections and their weight values. The Frobenius norm of the difference of matrices corresponding to the semantic networks is considered to compare the semantic networks. An identifying the critically different texts that can have similar keywords but different semantic between them is important to ensure cybersecurity. Also, the proposed approach can be helpful while solving the problem of accumulating text data semantically similar in content. In general, this approach can also be used in systems of automatic information retrieval to determine the degree of similarity or difference in the structure and semantics of texts and identify the sources of information that have a destructive impact on the information space.\r\n\r\n\r\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20535/tacs.2664-29132022.1.274118"
+    },
+    {
+        "id": 25506,
+        "title": "A Language Framework for Measuring Semantic and Syntactic Similarity for Arabic Texts",
+        "authors": "Shimaa Ismail, AbdelWahab Alsammak, Tarek Elshishtawy",
+        "published": "2024-3-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-024-02691-x"
+    },
+    {
+        "id": 25507,
+        "title": "EVALUATING OF EFFICACY SEMANTIC SIMILARITY METHODS FOR COMPARISON OF ACADEMIC THESIS AND DISSERTATION TEXTS",
+        "authors": "Ramadan T. Hassan, Nawzat S. Ahmed",
+        "published": "2023-8-14",
+        "citations": 0,
+        "abstract": "Detecting semantic similarity between documents is vital in natural language processing applications. One widely used method for measuring the semantic similarity of text documents is embedding, which involves converting texts into numerical vectors using various NLP methods. This paper presents a comparative analysis of four embedding methods for detecting semantic similarity in theses and dissertations , namely Term Frequency–Inverse Document Frequency, Document to Vector, Sentence Bidirectional Encoder Representations from Transformers, and Bidirectional Encoder Representations from Transformers with cosine similarity. The study used two datasets consisting of 27 documents from Duhok Polytechnic University and 100 documents from ProQuest.com. The texts from these documents were pre-processed to make them suitable for semantic similarity analysis. The evaluation of the methods was based on several metrics, including accuracy, precision, Recall, F1 score, and processing time. The results showed that the traditional method, TF-IDF, outperformed modern methods in embedding and detecting actual semantic similarity between documents, with processing time not exceeding a few seconds.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25271/sjuoz.2023.11.3.1120"
+    },
+    {
+        "id": 25508,
+        "title": "Model of Lexico-Semantic Bonds between Texts for Creating Their Similarity Metrics and Developing Statistical Clustering Algorithm",
+        "authors": "Liliya Demidova, Dmitry Zhukov, Elena Andrianova, Vladimir Kalinin",
+        "published": "2023-4-5",
+        "citations": 0,
+        "abstract": "To solve the problem of text clustering according to semantic groups, we suggest using a model of a unified lexico-semantic bond between texts and a similarity matrix based on it. Using lexico-semantic analysis methods, we can create “term–document” matrices based both on the occurrence frequencies of words and n-grams and the determination of the degrees of nodes in their semantic network, followed by calculating the cosine metrics of text similarity. In the process of the construction of the text similarity matrix using lexical or semantic analysis methods, the cosine of the angle for a vector pair describing such texts will determine the degree of similarity in the lexical or semantic presentation, respectively. Based on the averaging procedure described in this paper, we can obtain a matrix of cosine metric values that describes the lexico-semantic bonds between texts. We propose an algorithm for solving text clustering problems. This algorithm allows one to use the statistical characteristics of the distribution functions of element values in the rows of the cosine metric value matrix in the model of the lexico-semantic bond between documents. In addition, this algorithm allows one to separately describe the matrix of the cosine metric values obtained separately based on the lexical or semantic properties of texts. Our research has shown that the developed model for the lexico-semantic presentation of texts allows one to slightly increase the accuracy of their subsequent clustering. The statistical text clustering algorithm based on this model shows excellent results that are comparable to those of the widely used affinity propagation algorithm. Additionally, our algorithm does not require specification of the degree of similarity for combining vectors into a common cluster and other configuration parameters. The suggested model and algorithm significantly expand the list of known approaches for determining text similarity metrics and their clustering.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16040198"
+    },
+    {
+        "id": 25509,
+        "title": "Transfer learning for semantic similarity measures based on symbolic regression",
+        "authors": "Jorge Martinez-Gil, Jose Manuel Chaves-Gonzalez",
+        "published": "2023-7-2",
+        "citations": 0,
+        "abstract": "Recently, transfer learning strategies have become ideal for reusing acquired knowledge through a training phase. The key idea is that reusing such knowledge brings advantages such as increased accuracy and considerable resource savings. In this work, we design a novel strategy for effective and efficient transfer learning in semantic similarity. Our approach is based on generating and transferring optimal models obtained through a symbolic regression process being able to stack evaluation scores from several fundamental techniques. After an exhaustive empirical study, the results lead to high accuracy in addition to significant savings in terms of training time consumed in most of the scenarios considered.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-230141"
+    },
+    {
+        "id": 25510,
+        "title": "An Investigation into Fuzzy Negation in Semantic Similarity Measures",
+        "authors": "Naeemeh Adel, Keeley Crockett, Joao P. Carvalho",
+        "published": "2023-8-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fuzz52849.2023.10309737"
+    },
+    {
+        "id": 25511,
+        "title": "The Semantic Similarity Effect on Short-Term Memory: Null Effects of Affectively Defined Semantic Similarity",
+        "authors": "Sho Ishiguro, Satoru Saito",
+        "published": "2024-2-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5334/joc.349"
+    },
+    {
+        "id": 25512,
+        "title": "Assessing Semantic Similarity Measures and Proposing a WuP-Resnik Hybrid Metric for Enhanced Arabic Language Processing",
+        "authors": "Tahar Dilekh, Mohamed Abderrahmen Boulahia, Saber Benharzallah",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/ria.370524"
+    },
+    {
+        "id": 25513,
+        "title": "EXPLORING STRATEGIES FOR MEASURING SEMANTIC SIMILARITY IN SHORT ARABIC TEXTS",
+        "authors": "Mohamed Abd-Elnabi I. I. Gabr, Ahmed Z. Badr, Hani M. K. Mahdi",
+        "published": "2023-6-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21817/indjcse/2023/v14i3/231403057"
+    },
+    {
+        "id": 25514,
+        "title": "SSTSA: A Self-Supervised Topic Sentiment Analysis Using Semantic Similarity Measures and Transformers",
+        "authors": "Azam Seilsepour, Reza Ravanmehr, Ramin Nassiri",
+        "published": "2023-8-2",
+        "citations": 2,
+        "abstract": " The exponentially increasing amount of data generated by the public on social media platforms is a precious source of information. It can be used to find the topics and analyze the comments. Some researchers have extended the Latent Dirichlet Allocation (LDA) method by adding a sentiment layer to simultaneously find the topics and their related sentiments. However, most of these approaches do not achieve admirable accuracy in Topic Sentiment Analysis (TSA), particularly when there is insufficient training data or the texts are complex, ambiguous, and short. In this paper, a self-supervised novel approach called SSTSA is proposed for TSA that extracts the hidden topics and analyzes the total sentiment related to each topic. The SSTSA proposes a new method called Pseudo-label Generator. For this purpose, first, it employs semantic similarity and Word Mover’s Distance (WMD) measures. Then, the document embedding technique is employed to semantically estimate the sentiment orientation of samples and generate the pseudo-labels (positive or negative). Afterward, a hybrid classifier composed of a pre-trained Robustly Optimized BERT (RoBERTa) and a Long Short-Term Memory (LSTM) model is trained to predict the sentiment of unseen data. The evaluation results on different datasets of various domains demonstrate that the SSTSA outperforms similar unsupervised/self-supervised methods. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0219622023500736"
+    },
+    {
+        "id": 25515,
+        "title": "Survey on the Biomedical Text Summarization Techniques with an Emphasis on Databases, Techniques, Semantic Approaches, Classification Techniques, and Similarity Measures",
+        "authors": "Dipti Pawar, Shraddha Phansalkar, Abhishek Sharma, Gouri Kumar Sahu, Chun Kit Ang, Wei Hong Lim",
+        "published": "2023-2-26",
+        "citations": 0,
+        "abstract": "Biomedical text summarization (BTS) is proving to be an emerging area of work and research with the need for sustainable healthcare applications such as evidence-based medicine practice (EBM) and telemedicine which help effectively support healthcare needs of the society. However, with the rapid growth in the biomedical literature and the diversities in its structure and resources, it is becoming challenging to carry out effective text summarization for better insights. The goal of this work is to conduct a comprehensive systematic literature review of significant and high-impact literary work in BTS with a deep understanding of its major artifacts such as databases, semantic similarity measures, and semantic enrichment approaches. In the systematic literature review conducted, we applied search filters to find high-impact literature in the biomedical text summarization domain from IEEE, SCOPUS, Elsevier, EBSCO, and PubMed databases. The systematic literature review (SLR) yielded 81 works; those were analyzed for qualitative study. The in-depth study of the literature shows the relevance and efficacy of the deep learning (DL) approach, context-aware feature extraction techniques, and their relevance in BTS. Biomedical question answering (BQA) system is one of the most popular applications of text summarizations for building self-sufficient healthcare systems and are pointing to future research directions. The review culminates in realization of a proposed framework for the BQA system MEDIQA with design of better heuristics for content screening, document screening, and relevance ranking. The presented framework provides an evidence-based biomedical question answering model and text summarizer that can lead to real-time evidence-based clinical support system to healthcare practitioners.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15054216"
+    },
+    {
+        "id": 25516,
+        "title": "Impact of Similarity Measures in Graph-based Automatic Text Summarization of Konkani Texts",
+        "authors": "Jovi D'Silva, Uzzal Sharma",
+        "published": "2023-3-31",
+        "citations": 2,
+        "abstract": "Automatic text summarization is a popular area in Natural Language Processing and Machine Learning. In this work, we adopt a graph-based text summarization approach, using PageRank algorithm, for automatically summarizing Konkani text documents. Konkani is an Indo-Aryan language spoken primarily in the state of Goa, which is on the west coast of India. It is a low-resource language with limited language processing tools. Such tools are readily available in other popular languages of choice for automatic text summarization, like English. The Konkani language dataset used for this purpose is based on Konkani folktales. We examine the impact of various language-independent and language-dependent similarity measures on the construction of the graph. The language-dependent similarity measures use pre-trained fastText word embeddings. A fully connected undirected graph is constructed for each document with the sentences represented as the graph's vertices. The vertices are connected to each other based on how strongly they are related to one another. Thereafter, PageRank algorithm is used for ranking the scores of the vertices. The top-ranking sentences are used to generate the summary. ROUGE toolkit was used for evaluating the quality of these system-generated summaries, and the performance was evaluated against human generated “gold-standard” abstracts and also compared with baselines and benchmark systems. The experimental results show that language-independent similarity measures performed well compared to language-dependent similarity measures despite not using language-specific tools, such as stop-words list, stemming, and word embeddings.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3554943"
+    },
+    {
+        "id": 25517,
+        "title": "Semantic Similarity Covariance Matrix Shrinkage",
+        "authors": "Guillaume Becquin, Saher Esmeir",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.668"
+    },
+    {
+        "id": 25518,
+        "title": "Linked Data Semantic Distance with Global Normalization for evaluating Semantic Similarity in a Taxonomy",
+        "authors": "Anna Formica, Francesco Taglino",
+        "published": "2023-6-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61416/ceai.v25i2.8353"
+    },
+    {
+        "id": 25519,
+        "title": "Semantic Image Captioning using Cosine Similarity Ranking with Semantic Search",
+        "authors": "Kirti Jain, Shrey Gandhi, Shivam Singhal, Suryansh Rajput",
+        "published": "2023-8-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3607947.3607987"
+    },
+    {
+        "id": 25520,
+        "title": "SiameseBERT: A Bert-Based Siamese Network Enhanced with a Soft Attention Mechanism for Arabic Semantic Textual Similarity",
+        "authors": "Rakia Saidi, Fethi Jarray, Mohammed Alsuhaibani",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011624800003393"
+    },
+    {
+        "id": 25521,
+        "title": "Semantic Textual Similarity Assessment in Chest X-ray Reports Using a Domain-Specific Cosine-Based Metric",
+        "authors": "Sayeh Gholipour Picha, Dawood Al Chanti, Alice Caplier",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012429600003657"
+    },
+    {
+        "id": 25522,
+        "title": "A Study on Drug Similarity Measures for Predicting Drug-Drug Interactions and Severity Using Machine Learning Techniques",
+        "authors": "Deepa Kumari",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012298300003636"
+    },
+    {
+        "id": 25523,
+        "title": "Enhancing semantic text similarity with functional semantic knowledge (FOP) in patents",
+        "authors": "Hao Teng, Nan Wang, Hongyu Zhao, Yingtong Hu, Haitao Jin",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.joi.2023.101467"
+    },
+    {
+        "id": 25524,
+        "title": "LEXICAL AND SEMANTIC FEATURES OF TRANSLATION ERRORS",
+        "authors": "I. O. Siliutina",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30525/978-9934-26-394-1-8"
+    },
+    {
+        "id": 25525,
+        "title": "Retroactive interference arises from semantic similarity",
+        "authors": "Teresa Schubert",
+        "published": "2023-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s44159-023-00154-3"
+    },
+    {
+        "id": 25526,
+        "title": "Criminal Deduction Using Similarity Analysis Between Mystery Stories",
+        "authors": "Shotaro Hattori, Akihiro Fujii",
+        "published": "2023-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsc56153.2023.00057"
+    },
+    {
+        "id": 25527,
+        "title": "Models of binary classification of the semantic colouring of texts",
+        "authors": "Nataliya Boyko",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "Introduction: The purpose of the research is to compare different types of recurrent neural network architectures, namely the long short-term memory and gate recurrent node architecture and the convolutional neural network, and to explore their performance on the example of binary text classification. Material and Methods: To achieve this, the research evaluates the performance of these two popular deep-learning approaches on a dataset consisting of film reviews that are marked with both positive and adverse opinions. The real-world dataset was used to train neural network models using software implementations. Results and Discussion: The research focuses on the implementation of a recurrent neural network for the binary classification of a dataset and explores different types of architecture, approaches and hyperparameters to determine the best model to achieve optimal performance. The software implementation allowed evaluating of various quality metrics, which allowed comparing the performance of the proposed approaches. In addition, the research explores various hyperparameters such as learning rate, packet sizes, and regulation methods to determine their impact on model performance. Conclusion: In general, the research provides valuable insights into the performance of neural networks in binary text classification and highlights the importance of careful architecture selection and hyperparameter tuning to achieve optimal performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15649/2346075x.3553"
+    },
+    {
+        "id": 25528,
+        "title": "Robust Hadith IR using Knowledge-Graphs and Semantic-Similarity Classification",
+        "authors": "Omar Shafie, Kareem Darwish, Bernard J. Jansen",
+        "published": "2023-7-22",
+        "citations": 0,
+        "abstract": "Hadith is the term used to describe the narration of the sayings and actions of Prophet Mohammad (p.b.u.h.). The study of Hadith can be modeled into a pipeline of tasks performed on a collection of textual data. Although many attempts have been made for developing Hadith search engines, existing solutions are repetitive, text-based, and manually annotated. This research documents 6 Hadith Retrieval methods, discusses their limitations, and introduces 2 methods for robust narrative retrieval. Namely, we address the challenge of user needs by reformulating the problem in a two-fold solution: declarative knowledge-graph querying; and semantic-similarity classification for Takhreej groups retrieving. The classifier was built by fine-tuning an AraBERT transformer model on a 200k pairs sample and scored 90% recall and precision. This work demonstrated how the Hadith Retrieval could be more ef icient and insightful with a user-centered methodology, which is an under-explored area with high potential.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131215"
+    },
+    {
+        "id": 25529,
+        "title": "SimE4KG: Distributed and Explainable Multi-Modal Semantic Similarity Estimation for Knowledge Graphs",
+        "authors": "Carsten Felix Draschner, Hajira Jabeen, Jens Lehmann",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": " In recent years, exciting sources of data have been modeled as knowledge graphs (KGs). This modeling represents both structural relationships and the entity-specific multi-modal data in KGs. In various data analytics pipelines and machine learning (ML), the task of semantic similarity estimation plays a significant role. Assigning similarity values to entity pairs is needed in recommendation systems, clustering, classification, entity matching/disambiguation and many others. Efficient and scalable frameworks are needed to handle the quadratic complexity of all-pair semantic similarity on Big Data KGs. Moreover, heterogeneous KGs demand multi-modal semantic similarity estimation to cover the versatile contents like categorical relations between classes or their attribute literals like strings, timestamps or numeric data. In this paper, we propose the SimE4KG framework as a resource providing generic open-source modules that perform semantic similarity estimation in multi-modal KGs. To justify the computational costs of similarity estimation, the SimE4KG generates reproducible, reusable and explainable results. The pipeline results are a native semantic RDF KG, including the experiment results, hyper-parameter setup and explanation of the results, like the most influential features. For fast and scalable execution in memory, we implemented the distributed approach using Apache Spark. The entire development of this framework is integrated into the holistic distributed Semantic ANalytics StAck (SANSA). ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s1793351x23600012"
+    },
+    {
+        "id": 25530,
+        "title": "The similarity of the similarity measures in the context of clustering algorithms for categorical data",
+        "authors": "Agnieszka Nowak Brzezińska, Wojciech Ogiegło",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.10.449"
+    },
+    {
+        "id": 25531,
+        "title": "SEMANTIC SIMILARITY BETWEEN PROTEINS OF THE GENE ONTOLOGY GRAPH",
+        "authors": "",
+        "published": "2023-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets34968"
+    },
+    {
+        "id": 25532,
+        "title": "Unveiling the Potential of Similarity Measures in Rough Labeling of Graphs",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28924/apjm/11-22"
+    },
+    {
+        "id": 25533,
+        "title": "Comparison of Computer Semantic  Similarity Calculation and Human Judgment of Semantic Relationship  Strength",
+        "authors": "MinWoo Lee, Jungjoon Kil",
+        "published": "2024-3-30",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.19033/sks.2024.3.83.123"
+    },
+    {
+        "id": 25534,
+        "title": "Similarity joins and clustering for SPARQL",
+        "authors": "Sebastián Ferrada, Benjamin Bustos, Aidan Hogan",
+        "published": "2024-3-6",
+        "citations": 0,
+        "abstract": "The SPARQL standard provides operators to retrieve exact matches on data, such as graph patterns, filters and grouping. This work proposes and evaluates two new algebraic operators for SPARQL 1.1 that return similarity-based results instead of exact results. First, a similarity join operator is presented, which brings together similar mappings from two sets of solution mappings. Second, a clustering solution modifier is introduced, which instead of grouping solution mappings according to exact values, brings them together by using similarity criteria. For both cases, a variety of algorithms are proposed and analysed, and use-case queries that showcase the relevance and usefulness of the novel operators are presented. For similarity joins, experimental results are provided by comparing different physical operators over a set of real world queries, as well as comparing our implementation to the closest work found in the literature, DBSimJoin, a PostgreSQL extension that supports similarity joins. For clustering, synthetic queries are designed in order to measure the performance of the different algorithms implemented.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/sw-243540"
+    },
+    {
+        "id": 25535,
+        "title": "Addressing Semantic Similarity Attacks in Online Social Networks",
+        "authors": "Amardeep Singh, Monika Singh",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbds58040.2023.10346577"
+    },
+    {
+        "id": 25536,
+        "title": "GOG: SEMANTIC SIMILARITY BETWEEN PROTEINS OF THE GENE ONTOLOGY GRAPH",
+        "authors": "",
+        "published": "2023-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets35871"
+    },
+    {
+        "id": 25537,
+        "title": "Word to Sentence Visual Semantic Similarity for Caption Generation: Lessons Learned",
+        "authors": "Ahmed Sabir",
+        "published": "2023-7-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/mva57639.2023.10215754"
+    },
+    {
+        "id": 25538,
+        "title": "Semantic Similarity of Product and Service Names in Portuguese",
+        "authors": "Eduardo Gonçalves",
+        "published": "2023-3-18",
+        "citations": 0,
+        "abstract": "The problem of conceptual comparison of names plays an important role in the field of natural language processing. In this task, the goal is to choose, among a set of names, which one refers to the same concept or object as a given input name. In this paper, we propose an algorithm for comparing names of products and services in Portuguese that takes account of the semantic information contained in the names. The semantic similarity between two names is calculated using information from Onto.PT, the largest public lexical ontology for the Portuguese language. Experiments were conducted on a dataset composed of 5,000 pairs of names of products and services in Portuguese. Our experimental results show that the algorithm based on Onto.PT is more effective than other well-known algorithms for name comparison, producing the highest recall and precision. Moreover, results also provide interesting insights into the advantages and disadvantages of using Onto.PT for assessing the semantic similarity of names and other kinds of short texts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.19153/cleiej.25.3.3"
+    },
+    {
+        "id": 25539,
+        "title": "Research on Chinese Semantic Similarity Algorithm",
+        "authors": "Xinlin Liu, Wei Deng, Jian Zhang",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eiecs59936.2023.10435567"
+    },
+    {
+        "id": 25540,
+        "title": "Efficient Textual Similarity using Semantic MinHashing",
+        "authors": "Waqas Nawaz, Maryam Baig, Kifayat Ullah Khan",
+        "published": "2024-2-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp60711.2024.00048"
+    },
+    {
+        "id": 25541,
+        "title": "Semantic Similarity Caculating based on BERT",
+        "authors": "Denghui Yang, Dengyun Zhu, Hailong Gai, Fucheng Wan",
+        "published": "2024-4-4",
+        "citations": 0,
+        "abstract": "The exploration of semantic similarity is a fundamental aspect of natural language processing, as it aids in comprehending the significance and usage of vocabulary present in a language. The advent of pre-training language models has significantly simplified the process of research in this field. This article delves into the methodology of utilizing the pre-trained language model, BERT, to calculate the semantic similarity among Chinese words. In order to conduct this study, we first trained our own model using the bert-base-chinese pre-trained model. This allowed us to acquire the word embeddings for every single word, which served as the basis for calculating semantic similarity. Essentially, word embeddings are vector-based depictions of words that encapsulate word’s significance and surroundings, allowing for the measurement of the semantic similarity between words. Next, we executed a sequence of experiments to assess the efficiency of the BERT model in managing semantic similarity tasks within the Chinese language. The results were encouraging, as the BERT model demonstrated remarkable performance in these tasks. Furthermore, it was observed that the BERT model outperformed traditional methods in terms of performance and generalization capabilities. This study, therefore, underscores the potential of the BERT model in natural language processing, particularly in the Chinese language. This emphasizes the model’s capacity to accurately calculate semantic similarity, paving the way for its widespread adoption in related fields.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52783/jes.1099"
+    },
+    {
+        "id": 25542,
+        "title": "Measuring Semantic Similarity of Persian Sentences Using ParsBERT Model",
+        "authors": "Ali Zareshahi, MohammadAli Javadzade, Esmaeel Bastami",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/qicar61538.2024.10496609"
+    },
+    {
+        "id": 25543,
+        "title": "Path and information content based semantic similarity measure to estimate word-pair similarity",
+        "authors": "Krishna Siva Prasad Mudigonda, Chandra Mohan Dasari, Nilesh Chandra K. Pikle, Snehal B. Shinde",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0143216"
+    },
+    {
+        "id": 25544,
+        "title": "English Translation Model and System Design Based on Semantic Similarity",
+        "authors": "Jing Liang",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eebda60612.2024.10485706"
+    },
+    {
+        "id": 25545,
+        "title": "ON THE SEMANTIC DIFFERENTIATION OF COMMON-ROOT DENOMINAL ADJECTIVES IN  PROFESSIONAL TEXTS",
+        "authors": "Mykhailo Ginzburg",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The article examines the trends of using common-root denominal adjectives with the suffixes ‑н‑ and  ‑ов‑/‑ев‑ both in general and professional texts, which are necessary to form two-word terms and general phrases  based on the model < denominal adjective> + <noun 1>, where the denominal adjective expresses the permanent  characteristic of the first material object, named by noun 1, which is related with the second material object.\nThe theoretical basis of this study was the works of leading Ukrainian linguists Ivan Kunets, Halyna Shherbatiuk,  Arnold Hryshchenko, and Kateryna Horodenska, which considered the historical evolution of Ukrainian denominal  adjectives with the suffixes ‑н‑ and ‑ов‑/‑ев‑and in language for general purpose the parallel functioning of adjectives with these suffixes formed from the same noun stem.\nIt has been established that the suffix ‑н‑, whose primary meaning was that of general neutral relativity, in modern  Ukrainian has become a multifunctional suffix allowing to form both relative and qualitative adjectives from noun  stems, and the suffix ‑ов‑/‑ев‑, which by its origin was suffix of possessive adjectives, transformed into a suffix of  relative adjectives. Hence the modern Ukrainian has numerous examples of parallel forms that have a common\nderivative noun stem and differ in the meaning due to the difference in suffixes: adjectives with the suffix ‑н‑ express qualitative meanings, both direct and figurative, and adjectives with the suffix ‑ов‑/‑ев‑ – the meanings of general  relativity and material origin.\nSuch diversity of the Ukrainian language makes it possible to specify the meaning with the adjective form itself,  which is necessary for professional texts, although it is often useful for general texts as well.\nThe semantic differentiation of two pairs of adjectives: сонячний and сонцевий, хмарний and хмаровий, which are very important for professional texts, is considered, and the practicability of the proposed approach is shown. The  tables provide a collection of terms and two-word phrases clearly showing when to use a relative adjective with the suffix ‑ов‑/‑ев‑, and when to use a qualitative adjective with the suffix -н-. This refutes the statement that the  proposed differentiation makes it much more difficult to learn and use the terminology.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37919/2221-8807-2023-7-4"
+    },
+    {
+        "id": 25546,
+        "title": "Detecting Semantic Similarity of Diseases based Machine Learning",
+        "authors": "Emma Qumsiyeh, Zaidoun Salah, Rashid Jayousi, Malik Yousef",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385728"
+    },
+    {
+        "id": 25547,
+        "title": "Early Discovery of Emerging Entities in Persian Twitter with Semantic Similarity",
+        "authors": "Shahin Yousefi, Mohsen Hooshmand, Mohsen Afsharchi",
+        "published": "2023-5-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icwr57742.2023.10139028"
+    },
+    {
+        "id": 25548,
+        "title": "In-Context Meta-Learning vs. Semantic Score-Based Similarity: A Comparative Study in Arabic Short Answer Grading",
+        "authors": "Menna Fateen, Tsunenori Mina",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.28"
+    },
+    {
+        "id": 25549,
+        "title": "Validity of neural distance measures in representational similarity analysis",
+        "authors": "Fabian Soto",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1167/jov.23.9.5764"
+    },
+    {
+        "id": 25550,
+        "title": "SOME TRIGONOMETRIC SIMILARITY MEASURES OF COMPLEX FUZZY SETS WITH APPLICATION",
+        "authors": "Md. Yasin Ali",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "Similarity measures of fuzzy sets are applied to compare the closeness among fuzzy sets. These measures have numerous applications in pattern recognition, image processing, texture synthesis, medical diagnosis, etc. However, in many cases of pattern recognition, digital image processing, signal processing, and so forth, the similarity measures of the fuzzy sets are not appropriate due to the presence of dual information of an object, such as amplitude term and phase term. In these cases, similarity measures of complex fuzzy sets are the most suitable for measuring proximity between objects with two-dimensional information. In the present paper, we propose some trigonometric similarity measures of the complex fuzzy sets involving similarity measures based on the sine, tangent, cosine, and cotangent functions. Furthermore, in many situations in real life, the weight of an attribute plays an important role in making the right decisions using similarity measures. So in this paper, we also consider the weighted trigonometric similarity measures of the complex fuzzy sets, namely, the weighted similarity measures based on the sine, tangent, cosine, and cotangent functions. Some properties of the similarity measures and the weighted similarity measures are discussed. We also apply our proposed methods to the pattern recognition problem and compare them with existing methods to show the validity and effectiveness of our proposed methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15826/umj.2023.1.002"
+    },
+    {
+        "id": 25551,
+        "title": "ANNOTATING UNSTRUCTURED TEXTS FOR ENHANCING SEMANTIC ANALYSIS PROCESSES",
+        "authors": "",
+        "published": "2023-10-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33965/ijcsis_2023180103"
+    },
+    {
+        "id": 25552,
+        "title": "Contextualized Semantic Distance between Highly Overlapped Texts",
+        "authors": "Letian Peng, Zuchao Li, Hai Zhao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.694"
+    },
+    {
+        "id": 25553,
+        "title": "SEMANTIC MOTIVATION OF LATIN AND UKRAINIAN SCIENTIFIC NAMES OF CROP PLANTS",
+        "authors": "O. Yu. Balalaieva",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30525/978-9934-26-394-1-1"
+    },
+    {
+        "id": 25554,
+        "title": "Regulation of Antitrust Law on Information Concentration of Platform Economy Users under Flexible Semantic Similarity",
+        "authors": "Chen Liuhong",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/wconf58270.2023.10235051"
+    },
+    {
+        "id": 25555,
+        "title": "\"ROLE OF NAMED ENTITIES IN UNDERSTANDING SEMANTIC SIMILARITY OF ENGLISH TEXT\"",
+        "authors": "",
+        "published": "2023-3-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33965/es_ml2023_202302s056"
+    },
+    {
+        "id": 25556,
+        "title": "Similarity Measures for Person Identification with Face Mask",
+        "authors": "Muhammad Hakimi Huzaimi, Lucyantie Mazalan",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isiea58478.2023.10212158"
+    },
+    {
+        "id": 25557,
+        "title": "Some novel <i>q</i>‐rung orthopair fuzzy similarity measures and entropy measures with their applications",
+        "authors": "Abdul Haseeb Ganie, Surender Singh",
+        "published": "2023-7",
+        "citations": 2,
+        "abstract": "AbstractIn this paper, we have introduced some new similarity measures for ‐rung orthopair fuzzy sets and discussed their various features. These similarity measures have been constructed with the help of t‐conorms. The suggested similarity measures are more effective than the available ones in computing the similarity between distinct ‐rung orthopair fuzzy sets. With the help of these suggested similarity measures, we have also developed some novel entropy measures for ‐rung orthopair fuzzy sets. The newly proposed entropy measures are more effective than the existing ones in handling linguistic hedges. The applicability of the suggested similarity measures has been demonstrated in pattern analysis and the findings have been found to be better than due to existing ones. The traditional decision‐making method namely, the technique for order preference by similarity to the ideal solution gives us a compromise solution that is either closest to the positive ideal solution and farthest from the negative ideal solution but not both. So, to overcome this major drawback, we suggest a novel multi‐attribute decision‐making method in the ‐rung orthopair fuzzy environment and apply it to a decision‐making problem.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/exsy.13240"
+    },
+    {
+        "id": 25558,
+        "title": "Evaluating semantic similarity and relatedness between concepts by combining taxonomic and non-taxonomic semantic features of WordNet and Wikipedia",
+        "authors": "Muhammad Jawad Hussain, Heming Bai, Shahbaz Hassan Wasti, Guangjian Huang, Yuncheng Jiang",
+        "published": "2023-5",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.01.007"
+    },
+    {
+        "id": 25559,
+        "title": "Improving Audio Captioning Using Semantic Similarity Metrics",
+        "authors": "Rehana Mahfuz, Yinyi Guo, Erik Visser",
+        "published": "2023-6-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10096522"
+    },
+    {
+        "id": 25560,
+        "title": "Text Comparison Based on Semantic Similarity",
+        "authors": "Sonali Mhatre, Shilpa Satre, Mansi Hajare, Aditi Hire, Aniket Itankar, Shruti Patil",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/conit59222.2023.10205616"
+    },
+    {
+        "id": 25561,
+        "title": "Semantic-Similarity Collaborative Knowledge Distillation Framework for Whole Slide Image Classification",
+        "authors": "Zehua Ye, Yonghong He, Tian Guan",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385681"
+    },
+    {
+        "id": 25562,
+        "title": "Automatic Short Answer Grading onHigh School’s E-Learning Using Semantic Similarity Methods",
+        "authors": "Daniel Wilianto, Abba Suganda Girsang",
+        "published": "2023-2-27",
+        "citations": 0,
+        "abstract": "Grading students’ answers has always been a daunting task which takes a lot of teachers’ time. The aim of this study is to grade students’ answers automatically in a high school’s e-learning system. The grading process must be fast, and the result must be as close as possible to the teacher assigned grades. We collected a total of 840 answers from 40 students for this study, each already graded by their teachers. We used Python library sentence-transformers and three of its latest pre-trained machine learning models (all-mpnet-base-v2, all-distilroberta-v1, all-MiniLM-L6-v2) for sentence embeddings. Computer grades were calculated using Cosine Similarity. These grades were then compared with teacher assigned grades using both Mean Absolute Error and Root Mean Square Error. Our results showed that all-MiniLM-L6-v2 gave the most similar grades to teacher assigned grades and had the fastest processing time. Further study may include testing these models on more answers from more students, also fine tune these models using more school materials.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18421/tem121-37"
+    },
+    {
+        "id": 25563,
+        "title": "Semantic similarity metrics for image registration",
+        "authors": "Steffen Czolbe, Paraskevas Pegios, Oswin Krause, Aasa Feragen",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.media.2023.102830"
+    },
+    {
+        "id": 25564,
+        "title": "Analisis Kemiripan Model Proses Bisnis PMBoK dan Scrum menggunakan Metode Jaccard Coefficient Similarity dan Semantic Similarity",
+        "authors": "Seta Murdha Pamungkas, Ibrohim Aqimuddin, Chandra Gunawan, Muhammad Ainul Yaqin, Abd. Charis Fauzan",
+        "published": "2023-8-30",
+        "citations": 0,
+        "abstract": "Pengukuran perbandingan kemiripan model bisnis PMBoK dan Scrum dilakukan untuk mengetahui titik nilai tertinggi antara kedua objek perbandingan. Fokus perbandingan menggunakan model proses bisnis PMBoK dan Scrum. Kedua model proses bisnis tersebut memiliki sifat yang berbeda sehingga dengan dengan diketahuinya titik nilai tertinggi dan titik nilai terendah persamaan keduanya, diharapkan dapat digunakan untuk pendukung dalam pembangunan aplikasi manajemen proyek. Perhitungan ini menggunakan perbandingan kemiripan semantic menggunakan Algoritma Wu Palmer, structural dan behavioral yang keduanya menggunakan Algoritma Jaccard Coefficient Similarity. Ketiga perbandingan itu lalu dicari nilai akumulasinya menggunakan pembobotan dengan nilai bobot yang berbeda setiap kemiripan. Hasil akumulasi tersebut lalu dikelompokkan/clustering dengan batas nilai minimal. Hasil pengelompokkan nilai lalu dicari tingkat akurasinya untuk mengetahui seberapa besar akurasi yang didapat. Hasil perhitungan nilai pembobotan didapatkan komposisi nilai bobot semantic sebesar 0.57, structural sebesar 0.33, dan behavioral sebesar 0.1. Pada proses pengelompokkan/clustering menggunakan nilai batas minimal yaitu 0.49 dan nilai batas maksimal yaitu 0.55. Sehingga dari perhitungan tersebut didapatkan sebuah nilai persamaan tertinggi dan terendah.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28926/ilkomnika.v5i2.396"
+    },
+    {
+        "id": 25565,
+        "title": "Text Similarity From Image Contentsusing Statistical and Semantic Analysis Techniques",
+        "authors": "Sagar Kulkarni, Sharvari Govilkar, Dhiraj Amin",
+        "published": "2023-8-19",
+        "citations": 0,
+        "abstract": "Plagiarism detection is one of the most researched areas among the Natural Language Processing(NLP) community. A good plagiarism detection covers all the NLP methods including semantics, named entities, paraphrases etc. and produces detailed plagiarism reports. Detection of Cross Lingual Plagiarism requires deep knowledge of various advanced methods and algorithms to perform effective text similarity checking. Nowadays the plagiarists are also advancing themselves from hiding the identity from being catch in such offense. The plagiarists are bypassed from being detected with techniques like paraphrasing, synonym replacement, mismatching citations, translating one language to another. Image Content Plagiarism Detection (ICPD) has gained importance, utilizing advanced image content processing to identify instances of plagiarism to ensure the integrity of image content. The issue of plagiarism extends beyond textual content, as images such as figures, graphs, and tables also have the potential to be plagiarized. However, image content plagiarism detection remains an unaddressed challenge. Therefore, there is a critical need to develop methods and systems for detecting plagiarism in image content. In this paper, the system has been implemented to detect plagiarism form contents of Images such as Figures, Graphs, Tables etc. Along with statistical algorithms such as Jaccard and Cosine, introducing semantic algorithms such as LSA, BERT, WordNet outperformed in detecting efficient and accurate plagiarism.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131405"
+    },
+    {
+        "id": 25566,
+        "title": "Intelligent Text Clustering Analysis of Novels Based on Digital Semantic Similarity Calculation",
+        "authors": "Xiaoming Sun",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14733/cadaps.2024.s16.199-213"
+    },
+    {
+        "id": 25567,
+        "title": "Debiased momentum contrastive learning for multimodal video similarity measures",
+        "authors": "Kuanghong Liu, Jin Wang, Xuejie Zhang",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.neucom.2023.126938"
+    },
+    {
+        "id": 25568,
+        "title": "Using cosine similarity classifier for NLP analysis in construction field texts",
+        "authors": "Alexander Sak",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0143607"
+    },
+    {
+        "id": 25569,
+        "title": "A Graph-based Method for Merging Business Process Models by Considering Semantic Similarity",
+        "authors": "",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.0430.14"
+    },
+    {
+        "id": 25570,
+        "title": "Neurofuzzy semantic similarity measurement",
+        "authors": "Jorge Martinez-Gil, Riad Mokadem, Josef Küng, Abdelkader Hameurlain",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.datak.2023.102155"
+    },
+    {
+        "id": 25571,
+        "title": "Semantic Textual Similarity: In Defense of Wordnet-Based Methods",
+        "authors": "Eduardo Corrêa Gonçalves",
+        "published": "2023-9-25",
+        "citations": 0,
+        "abstract": "Wordnets have long been used as a tool for evaluating the semantic similarity between short texts. In addition to being simpler than recent deep learning approaches, methods based on wordnets offer an important advantage: they deliver results that are easy to interpret as their decisions are usually taken by considering the proximity between graph nodes. In this work, we explore a lightweight approach based on a Portuguese wordnet to solve the ASSIN 2 Semantic Textual Similarity (STS) shared task. In this task, each object of a dataset consists of a pair of Portuguese sentences annotated with its semantic score and the goal is to learn an STS model to estimate the similarity value of new, previously unseen, sentence pairs. Experiments show that our results are competitive with state-of-the-art methods in terms of mean squared error.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5753/stil.2023.233464"
+    },
+    {
+        "id": 25572,
+        "title": "Web Caching Hybrid Algorithm by Semantic Similarity",
+        "authors": "Abdualmajed Ahmed G. Al-Khulaidi, Mohammed Abdulbaqi Al-Sayani",
+        "published": "2023-4-30",
+        "citations": 0,
+        "abstract": "Recently, most companies have been conducting their business through the cloud network, so increasing the speed of data access via the Internet has become very important. Therefore, the importance of cache algorithms lies in increasing the speed of data access. As we know, there are cache substitution algorithms that work well with the cache when applied to the processor cache, but they hardly work when applied to caching for web purposes. The reason for this discrepancy is that it is not intended to increase the complexity of this type of storage. Considering the challenges of cache usage in terms of the large discrepancy in file size and the heterogeneous model of user access to data in a web environment, especially with pages with dynamic content, there is a real need to develop 'web cache' algorithms. In this paper, a hybrid algorithm for web caching using semantic similarity is developed. The GDFS algorithm was developed using NGD (Normalized Google Distance) to determine the semantic similarity between cache objects, which resulted in better performance in comparison to other algorithms. The results showed that the web cache hybrid algorithm using semantic similarity increased the hit rate compared to the basic algorithms by up to 80.10%. The proposed hybrid algorithm was able to overcome the problem of the low byte hit rate in the GDFS algorithm. The improvement in the byte hit rate reached 65%. This indicates an increase in the byte hit rate. The results showed that the web cache hybrid algorithm using semantic similarity reduced the page load time using distance measured from Google compared to the page load time using other algorithms that do not use semantic similarity and do not use cache. The results showed that the web cache hybrid algorithm using semantic similarity reduced the page load time from 4.17 seconds using GDFS-Line to 2.16 seconds using GDFS-NGD.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59628/jast.v1i2.328"
+    },
+    {
+        "id": 25573,
+        "title": "AUTHORSHIP ANALYSIS IN ELECTRONIC TEXTS USING SIMILARITY COMPARISON METHOD",
+        "authors": "Devi Ambarwati Puspitasari, Hanif Fakhrurroja, Adi Sutrisno",
+        "published": "2024-1-31",
+        "citations": 0,
+        "abstract": "The most recent changes to the criteria in legal process for scientific evidence have emphasized scientific methods of authorship analysis. This study examined the authorship of electronic texts using a quantitative method based on forensic stylistics and computer technologies. This study uses 300 digital texts produced by 100 authors, including 100 questioned texts (Q-text) and 200 known texts (K-text). Personal texts of WhatsApp messages are used in this study as electronic texts. Authorship analysis was conducted by tracing the n-gram and testing all the text sets using the Similarity Comparison Method (SCM). Based on the results of the word 1-gram test, the SCM accuracy was found to be quite high, ranging from 85% to 96%. The findings of employing the tiny set are promising, with the various stylistic traits offering dependable accuracy ranging from 92% to 98.5%. The character-level n-gram tracing indicates a key feature of authorship attribution.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26499/li.v42i1.544"
+    },
+    {
+        "id": 25574,
+        "title": "Exploring Sacred Texts: Leveraging Computer Science for Dataset Similarity Analysis in Religious Studies",
+        "authors": "Muhammad Raffiudin",
+        "published": "2024-4-16",
+        "citations": 0,
+        "abstract": "Studying the Quran and the Hadith side by side can help us understand that the two are fundamental and two main resources and essential wellspring of Islamic knowledge and law. There are many debates about similarities between those holy scriptures from many famous preachers and scholars. Technology can be used as an alternative solution to solve these problems. There are at least two overall approaches to determine text-similarity; the vector space model and semantic similarity —define the similarity or the distance. The similarity between words is often represented by a similarity between concepts associated with the words. This paper presents a method for identifying semantic sentence similarity among each sentence from each dataset using semantic relation of word senses between different synsets using WordNet path similarity and Wu-Palmer similarity. This method is also evaluated and has acceptable accuracy. Although both Path Similarity and Wu-Palmer Similarity successfully identify the similarity between two sentences; still, they have slightly different accuracy. The Wu-Palmer similarity is superior to path similarity when identifying sentences between Quran Sahih International and An-Nawawi Forty Hadith Translation. Looking ahead, we might be able to improve our results by using multipliers such as reverse document frequency (TF-IDF), combining the results of several steps in WordNet similarity, using vector space models, and optimal matching methods.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4028/p-ke3xms"
+    },
+    {
+        "id": 25575,
+        "title": "Adaptive geofields similarity measure based on binary similarity measures generalization",
+        "authors": "O.G. Gvozdev, A.V. Materuhin, A.A. Maiorov",
+        "published": "2024-1-20",
+        "citations": 0,
+        "abstract": "\nThe authors discuss the task of geofield similarity measurement. The local and global approaches to it are reviewed. The rationale of inapplicability of measures, originally developed for images, for general case of geofields is given. The adaptive function family based on generalization of binary similarity measures is proposed. It assumes adaptation to specific scales, tasks and subject domain. The software implementation of this functions family is discussed. Its applicability for detection of similarities and difference of several geofield special cases is considered. The computational performance of the proposed mechanism different use is studied. It is shown that MT-IoU one (Multi-threshold Intersection-over-Union) is flexible and performant framework for building specialized geofield similarity measure functions\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22389/0016-7126-2023-1002-12-38-48"
+    },
+    {
+        "id": 25576,
+        "title": "A study of concept similarity in Wikidata",
+        "authors": "Filip Ilievski, Kartik Shenoy, Hans Chalupsky, Nicholas Klein, Pedro Szekely",
+        "published": "2024-1-8",
+        "citations": 0,
+        "abstract": "Robust estimation of concept similarity is crucial for applications of AI in the commercial, biomedical, and publishing domains, among others. While the related task of word similarity has been extensively studied, resulting in a wide range of methods, estimating concept similarity between nodes in Wikidata has not been considered so far. In light of the adoption of Wikidata for increasingly complex tasks that rely on similarity, and its unique size, breadth, and crowdsourcing nature, we propose that conceptual similarity should be revisited for the case of Wikidata. In this paper, we study a wide range of representative similarity methods for Wikidata, organized into three categories, and leverage background information for knowledge injection via retrofitting. We measure the impact of retrofitting with different weighted subsets from Wikidata and ProBase. Experiments on three benchmarks show that the best performance is achieved by pairing language models with rich information, whereas the impact of injecting knowledge is most positive on methods that originally do not consider comprehensive information. The performance of retrofitting is conditioned on the selection of high-quality similarity knowledge. A key limitation of this study, similar to prior work lies in the limited size and scope of the similarity benchmarks. While Wikidata provides an unprecedented possibility for a representative evaluation of concept similarity, effectively doing so remains a key challenge.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/sw-233520"
+    },
+    {
+        "id": 25577,
+        "title": "Algorithm Implementation of Japanese Machine Translation System Based on Similarity of Semantic Distribution",
+        "authors": "Li Shan, Itai Misa",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/acedpi58926.2023.00006"
+    },
+    {
+        "id": 25578,
+        "title": "Estimating Semantic Similarity between In-Domain and Out-of-Domain Samples",
+        "authors": "Rhitabrat Pokharel, Ameeta Agrawal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.starsem-1.35"
+    },
+    {
+        "id": 25579,
+        "title": "Semantic Similarity in a Taxonomy by Refining the Relatedness of Concept Intended Senses",
+        "authors": "Anna Formica, Francesco Taglino",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31577/cai_2023_1_191"
+    },
+    {
+        "id": 25580,
+        "title": "Time-aware and Semantic Resume Analysis for Talent Similarity Calculation",
+        "authors": "Canmei Huang, Li Cheng, Feng Yao",
+        "published": "2023-11-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dtpi59677.2023.10365442"
+    },
+    {
+        "id": 25581,
+        "title": "A Review on the Determination of Semantic Similarity of Patent Documents",
+        "authors": "Ahmet KAYAKÖKÜ, Aslıhan TÜFEKCİ",
+        "published": "2023-12-7",
+        "citations": 0,
+        "abstract": "Teknik anlamda en güncel bilgileri barındıran, yüksek hacmiyle bilgi keşfi açısından müthiş bir potansiyele sahip olan ve teknoloji yönetimi alanında kilit bir rol üstlenen patent verisinin işlenmesinde patent madenciliği çalışmaları giderek önem kazanmaktadır. Patent verisi içerisinde bulunan yapısal veya yapısal olmayan verilerin hepsi önemli olsa da, patent madenciliği çalışmalarının en kritik hedefi patent dokümanlarının anlamsal benzerliğini tespit edebilmektir. Patentlerin anlamsal benzerlik tespiti ile patent başvuru sürecinin en zor ve en çok vakit alan safhası olan patentlenebilirlik kriterlerinin tespitinin otomatik olarak yapılabilmesi mümkün olacaktır. Patent metinlerinin, metin madenciliği yöntemleri ile yapısal hale getirilerek birbirine ne kadar benzediklerini tespit etmek için küme teorisi yaklaşımları, vektör uzay modeli yaklaşımları veya ontoloji vb. bilgi kaynaklarından faydalanılan yaklaşımlar mevcuttur. Ancak patent metinlerinin karmaşık yapısı ve kendine has terminolojisi sebebiyle bu yöntemlerden hedeflenen verim alınamamaktadır. Bu eksikliği gidermek için kullanıldığı her alanda büyük başarılar ortaya koyan derin öğrenme yöntemlerinden, patent metinlerinin anlamsal olarak karşılaştırılmasında da faydalanılması gerekmektedir. Bu alanda çalışmalar yapılmasına rağmen etkin bir şekilde patentlenebilirlik tespiti yapabilen modeller henüz başlangıç aşamasındadır. Nitelikli bir model geliştirilerek patentlenebilirlik tespiti yapıldıktan sonra patent araştırma raporunun otomatik olarak hazırlanması teknoloji yönetimi alanındaki büyük ihtiyacın karşılanabilmesi adına önemli bir adım olacaktır.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2339/politeknik.1294789"
+    },
+    {
+        "id": 25582,
+        "title": "Short-Text Semantic Similarity Model of BERT-Based Siamese Network",
+        "authors": "Haoyu Jiang",
+        "published": "2023-1-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3585967.3585994"
+    },
+    {
+        "id": 25583,
+        "title": "Hierarchical Structure of Texts: : Algorithm shows the Semantic Object, its characteristics, and functions",
+        "authors": "Koichi Sanoki",
+        "published": "2023-6-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23919/cisti58278.2023.10211517"
+    },
+    {
+        "id": 25584,
+        "title": "Matrix Similarity Analysis Of Texts Written In Romanian And Spanish",
+        "authors": "Artur Niewiarowski, Anna Plichta",
+        "published": "2023-6-23",
+        "citations": 0,
+        "abstract": "This publication presents the results of a study of similarity between texts written in Romanian and Spanish, using a matrix analysis method based on Levenshtein's edit distance. The method used in the study does not contain implemented language-dependent vocabulary rules and exhibits the feature of linguistic universality in terms of similarity analysis. The study was carried out on the basis of the commercial computer program Antyplagius, created by the New Data Mining Systems company, which performs similarity analysis exclusively using the aforementioned method. The texts being compared were taken from excerpts from Wikipedia translated by online translators of popular companies which are based on artificial intelligence solutions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7148/2023-0507"
+    },
+    {
+        "id": 25585,
+        "title": "STRUCTURAL AND SEMANTIC CHARACTERIZATION OF GERMAN ADVERTISING TEXTS",
+        "authors": "N.I. Holovchak, O.O. Kushnirchuk",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32782/tps2663-4880/2023.28.1.17"
+    },
+    {
+        "id": 25586,
+        "title": "Semantic Coherence Analysis of English Texts Based on Sentence Semantic Graphs",
+        "authors": "Nanxiao Deng, Yabing Wang, Guimin Huang, Ya Zhou, Yiqun Li",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "With the reform of China's education industry, more and more universities are using computers to conduct examinations. For the automatic correction of essays as subjective questions, existing automatic English text scoring systems suffer from insufficient extraction of coherence information and low accuracy when analysing text coherence. Therefore, this paper proposes an unsupervised semantic coherence analysis model for English texts based on sentence semantic graphs, taking Chinese students' English compositions as the research context. Guided by the semantic coherence theory, the English text is represented as a sentence semantic graph, and an improved VF2 subgraph matching algorithm is used to mine the frequently occurring subgraph patterns in the sentence semantic graph. After that, the set of frequent subgraphs is generated by filtering the subgraph patterns according to their frequencies, and the subgraph frequency of each frequent subgraph is calculated separately. Finally, the distribution characteristics of frequent subgraphs and the semantic values of subgraphs in the sentence semantic graphs are extracted to quantify the overall coherence quality of English texts. The experimental results show that the model proposed in this paper has higher accuracy and practical value compared with the current methods of coherence analysis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4108/eetsis.3312"
+    },
+    {
+        "id": 25587,
+        "title": "Evolutionary Algorithms Approach For Search Based On Semantic Document Similarity",
+        "authors": "Chandrashekar Muniyappa, Eunjin Kim",
+        "published": "2023-8-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3617733.3617753"
+    },
+    {
+        "id": 25588,
+        "title": "Semantic Similarity Models for Depression Severity Estimation",
+        "authors": "Anxo Pérez, Neha Warikoo, Kexin Wang, Javier Parapar, Iryna Gurevych",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.1000"
+    },
+    {
+        "id": 25589,
+        "title": "Learning to Rank Hypernyms of Financial Terms Using Semantic Textual Similarity",
+        "authors": "Sohom Ghosh, Ankush Chopra, Sudip Kumar Naskar",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02134-z"
+    },
+    {
+        "id": 25590,
+        "title": "Retracted: Accurate Estimation of English Word Similarity Based on Semantic Network",
+        "authors": "",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9842343"
+    },
+    {
+        "id": 25591,
+        "title": "A New Semantic Similarity Scheme for More Accurate Identification in Medical Data",
+        "authors": "Colin Wilcox, Soufiene Djahel, Vasilios Giagos, Kristopher Welsh, Nicholas Costen",
+        "published": "2023-9-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isc257844.2023.10293563"
+    },
+    {
+        "id": 25592,
+        "title": "Semantic similarity models for automated fact-checking: ClaimCheck as a claim matching tool",
+        "authors": "Irene Larraz, Rubén Míguez, Francesca Sallicati",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "This article presents the experimental design of ClaimCheck, an artificial intelligence tool for detecting repeated falsehoods in political discourse using a semantic similarity model developed by the fact-checking organization Newtral in collaboration with ABC Australia. The study reviews the state of the art in algorithmic fact-checking and proposes a definition of claim matching. Additionally, it outlines the scheme for annotating similar sentences and presents the results of experiments conducted with the tool.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3145/epi.2023.may.21"
+    },
+    {
+        "id": 25593,
+        "title": "Solving Jigsaw Puzzles Using Computer Vision and Curve Similarity Measures",
+        "authors": "Olivér Balogh, Zoltán Vámossy",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/saci58269.2023.10158589"
+    },
+    {
+        "id": 25594,
+        "title": "Pretrained Sentence Embedding and Semantic Sentence Similarity Language Model for Text Classification in NLP",
+        "authors": "V.Valli Mayil, T.Ratha Jeyalakshmi",
+        "published": "2023-3-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aisp57993.2023.10134937"
+    },
+    {
+        "id": 25595,
+        "title": "A Parametric Family of Fuzzy Similarity Measures for Intuitionistic Fuzzy Sets",
+        "authors": "Madiha Qayyum, Etienne E. Kerre, Samina Ashraf",
+        "published": "2023-7-19",
+        "citations": 0,
+        "abstract": "Measuring the similarity between two objects and classifying them on the basis of their resemblance level has been a fundamental tool of the human mind. In an intuitionistic fuzzy environment, we find researchers that have attempted to generalize the fuzzy versions of similarity measures between fuzzy sets to their intuitionistic forms for measuring the level of similarity between the intuitionistic fuzzy sets. Though many different forms of intuitionistic fuzzy similarity measures have been introduced so far, a comparative study reveals that among all these measures, it is difficult for one to claim the existence of a single measure that alone has the capability to recognize every single pattern assigned to it. This paper presents a four-parametric family of similarity measures for intuitionistic fuzzy sets employing weighted average cardinality and intuitionistic fuzzy t-norms along with their dual t-co-norms. A combinational variation of the parameters involved in this family resulted in some of the famous similarity measures having an intuitionistic version. These new measures are analyzed for their properties, and they have shown some remarkable results. Moreover, the proposed family has a practical advantage over the other measures in the existing literature because every member not only possesses the capability of successfully recognizing any pattern assigned to it up to a fine accuracy but also a choice of different t-norms and co-norms within a single measure equips it with the capacity to portray different mindsets of a decision-maker who, besides being unbiased, can possess a deep psychology of being an optimist, pessimist, or possessing neutral behavior in general. Lastly, the members of this family are tested for their feasibility in a sensitive medical decision process of detection of COVID-19.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11143163"
+    },
+    {
+        "id": 25596,
+        "title": "The generalized similarity measures based on cubic complex hesitant fuzzy sets and their applications",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30546/1683-6154.22.4.2023.351"
+    },
+    {
+        "id": 25597,
+        "title": "Using Planning to Improve Semantic Parsing of Instructional Texts",
+        "authors": "Vanya Cohen, Raymond Mooney",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.nlrse-1.5"
+    },
+    {
+        "id": 25598,
+        "title": "Reviewing Evolution of Learning Functions and Semantic Information Measures for Understanding Deep Learning",
+        "authors": "Chenguang Lu",
+        "published": "2023-5-15",
+        "citations": 1,
+        "abstract": "A new trend in deep learning, represented by Mutual Information Neural Estimation (MINE) and Information Noise Contrast Estimation (InfoNCE), is emerging. In this trend, similarity functions and Estimated Mutual Information (EMI) are used as learning and objective functions. Coincidentally, EMI is essentially the same as Semantic Mutual Information (SeMI) proposed by the author 30 years ago. This paper first reviews the evolutionary histories of semantic information measures and learning functions. Then, it briefly introduces the author’s semantic information G theory with the rate-fidelity function R(G) (G denotes SeMI, and R(G) extends R(D)) and its applications to multi-label learning, the maximum Mutual Information (MI) classification, and mixture models. Then it discusses how we should understand the relationship between SeMI and Shannon’s MI, two generalized entropies (fuzzy entropy and coverage entropy), Autoencoders, Gibbs distributions, and partition functions from the perspective of the R(G) function or the G theory. An important conclusion is that mixture models and Restricted Boltzmann Machines converge because SeMI is maximized, and Shannon’s MI is minimized, making information efficiency G/R close to 1. A potential opportunity is to simplify deep learning by using Gaussian channel mixture models for pre-training deep neural networks’ latent layers without considering gradients. It also discusses how the SeMI measure is used as the reward function (reflecting purposiveness) for reinforcement learning. The G theory helps interpret deep learning but is far from enough. Combining semantic information theory and deep learning will accelerate their development.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e25050802"
+    },
+    {
+        "id": 25599,
+        "title": "Novel construction method for Pythagorean fuzzy similarity measures",
+        "authors": "Koushal Singh, Surender Singh",
+        "published": "2024-3-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41870-023-01689-7"
+    },
+    {
+        "id": 25600,
+        "title": "Abstractive summarization with deep reinforcement learning using semantic similarity rewards",
+        "authors": "Figen Beken Fikri, Kemal Oflazer, Berrin Yanıkoğlu",
+        "published": "2023-10-31",
+        "citations": 0,
+        "abstract": "Abstract\nAbstractive summarization is an approach to document summarization that is not limited to selecting sentences from the document but can generate new sentences as well. We address the two main challenges in abstractive summarization: how to evaluate the performance of a summarization model and what is a good training objective. We first introduce new evaluation measures based on the semantic similarity of the input and corresponding summary. The similarity scores are obtained by the fine-tuned BERTurk model using either the cross-encoder or a bi-encoder architecture. The fine-tuning is done on the Turkish Natural Language Inference and Semantic Textual Similarity benchmark datasets. We show that these measures have better correlations with human evaluations compared to Recall-Oriented Understudy for Gisting Evaluation (ROUGE) scores and BERTScore. We then introduce a deep reinforcement learning algorithm that uses the proposed semantic similarity measures as rewards, together with a mixed training objective, in order to generate more natural summaries in terms of human readability. We show that training with a mixed training objective function compared to only the maximum-likelihood objective improves similarity scores.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s1351324923000505"
+    },
+    {
+        "id": 25601,
+        "title": "From jeopardy champion to drug discovery; semantic similarity artificial intelligence",
+        "authors": "Natalia Moskal, G. Angus McQuibban",
+        "published": "2023-5-14",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15548627.2023.2210995"
+    },
+    {
+        "id": 25602,
+        "title": "Semantic Similarity-Based Mobile Application Isomorphic Graphical User Interface Identification",
+        "authors": "Jing Cheng, Jiayi Zhao, Weidong Xu, Tao Zhang, Feng Xue, Shaoying Liu",
+        "published": "2023-1-18",
+        "citations": 0,
+        "abstract": "Applying robots to mobile application testing is an emerging approach to automated black-box testing. The key to supporting automated robot testing is the efficient modeling of GUI elements. Since the application under testing often contains a large number of similar GUIs, the GUI model obtained often contains many redundant nodes. This causes the state space explosion of GUI models which has a serious effect on the efficiency of GUI testing. Hence, how to accurately identify isomorphic GUIs and construct quasi-concise GUI models are key challenges faced today. We thus propose a semantic similarity-based approach to identifying isomorphic GUIs for mobile applications. Using this approach, the information of GUI elements is first identified by deep learning network models, then, the GUI structure model feature vector and the semantic model feature vector are extracted and finally merged to generate a GUI embedding vector with semantic information. Finally, the isomorphic GUIs are identified by cosine similarity. Then, three experiments are conducted to verify the generalizability and effectiveness of the method. The experiments demonstrate that the proposed method can accurately identify isomorphic GUIs and shows high compatibility in terms of cross-platform and cross-device applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11030527"
+    },
+    {
+        "id": 25603,
+        "title": "Semantic Similarity for Text Comparison between Textual Documents or Sentences",
+        "authors": "Anshul Modi, Yuvraj Singh Dhanjal, Anamika Larhgotra",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icses60034.2023.10465440"
+    },
+    {
+        "id": 25604,
+        "title": "Personalized advertising Push method based on Semantic similarity and data mining",
+        "authors": "Shibiao Mu, Shuaijing Yu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijwbc.2023.10048310"
+    },
+    {
+        "id": 25605,
+        "title": "Linked data-based recommender system using hybrid semantic similarity measure",
+        "authors": "Ahmed Mounaf Mahdi, Asaad Sabah Hadi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0150904"
+    },
+    {
+        "id": 25606,
+        "title": "Author-Profile-Based Journal Recommendation for a Candidate Article: Using Hybrid Semantic Similarity and Trend Analysis",
+        "authors": "Mehmet Yașar Bayraktar, Mehmet Kaya",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3271732"
+    },
+    {
+        "id": 25607,
+        "title": "Semantic Deviations in \"Abdulqadir Saeed's\" Poetic Texts",
+        "authors": "Fazil Majed Mahmud, Sangar Askar Muhammad",
+        "published": "2023-6-29",
+        "citations": 0,
+        "abstract": "Deviation is one of the characteristics that the poet uses in the construction of the poetic text and through it to express thoughts, feelings and emotions, but this expression in a language completely different from ordinary language, so the poet resorts to using an interesting language. Meanwhile, semantic deviation plays a significant role in giving poetry aesthetics. In this regard, our research entitled (Semantic Deviations in Abdulqadir Saeed's Poetic Texts) attempts to answer the question of whether he has been able to artistically express semantic deviations in his poetic texts.\r\nFinally, the results, sources used and a summary of the study are presented in English.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26750/vol(10).no(2).paper8"
+    },
+    {
+        "id": 25608,
+        "title": "Novel Surrogate Measures Based on a Similarity Network for Neural Architecture Search",
+        "authors": "Zeki Kuş, Can Akkan, Ayla Gülcü",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3252887"
+    },
+    {
+        "id": 25609,
+        "title": "Vector Similarity Measures of Dual Hesitant Fuzzy Linguistic Term Sets and Their Applications",
+        "authors": "Jawad Ali, Ahmad N. Al-kenani",
+        "published": "2023-2-10",
+        "citations": 5,
+        "abstract": "The dual hesitant fuzzy linguistic term set (DHFLTS) is defined by two functions that express the grade of membership and the grade of non-membership using a set of linguistic terms. In the present work, we first quote an example to point out that the existing complement operation of DHFLTS is on the wrong track. Meanwhile, we redefine this operation to fill the holes in the existing ones. Next, the notion of information energy under a dual hesitant fuzzy linguistic background is provided in order to build the criteria weight determination model. To further facilitate the theory of DHFLTS, we propose two vector similarity measures, i.e., Jaccard and Dice similarity measures, and their weighted forms for DHFLTS. In addition, we pioneer some generalized similarity measures of DHFLTSs and indicate that the Dice similarity measures are particular instances of the generalized similarity measures for some parameter values. Afterward, the similarity measures-based model with unknown weight information under the background of dual hesitant fuzzy linguistic environment is constructed. Lastly, an illustrated example is included to validate the method’s application, along with sensitivity analysis and comparative analysis, demonstrating the practicality and validity of its results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/sym15020471"
+    },
+    {
+        "id": 25610,
+        "title": "Trigonometric Similarity Measures of Pythagorean Neutrosophic Hypersoft Sets",
+        "authors": "Ramya G, Francina Shalini A",
+        "published": "2023-9-9",
+        "citations": 0,
+        "abstract": "\r\nIn our daily life, most problems stem from the wrong decisions. Similarity measures (SMs) are very helpful in making good decisions. In this paper, distinct similarities of Pythagorean Neutrosophic Hypersoft Sets (PNHSSs) and its properties are presented. Finally, the proposed SMs applied for converting plastic waste into energy source problems. Comparing various suggested similarities makes decision-making simple, easy, and accurate.\r\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61356/j.nswa.2023.53"
+    },
+    {
+        "id": 25611,
+        "title": "Some capacity development measures making information texts for students in high school in Vietnam",
+        "authors": "",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47750/jett.2023.14.01.027"
+    },
+    {
+        "id": 25612,
+        "title": "SSNet: Learning Self-Similarity for Few-Shot Semantic Segmentation",
+        "authors": "Weisheng Lan, Yu Liu",
+        "published": "2023-7-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icarm58088.2023.10218769"
+    },
+    {
+        "id": 25613,
+        "title": "Simcryocluster: a semantic similarity clustering method of cryo-EM images by adopting contrastive learning",
+        "authors": "Huanrong Tang, Yaowu Wang, Jianquan Ouyang, Jinlin Wang",
+        "published": "2024-2-20",
+        "citations": 0,
+        "abstract": "Abstract\nBackground\nCryo-electron microscopy (Cryo-EM) plays an increasingly important role in the determination of the three-dimensional (3D) structure of macromolecules. In order to achieve 3D reconstruction results close to atomic resolution, 2D single-particle image classification is not only conducive to single-particle selection, but also a key step that affects 3D reconstruction. The main task is to cluster and align 2D single-grain images into non-heterogeneous groups to obtain sharper single-grain images by averaging calculations. The main difficulties are that the cryo-EM single-particle image has a low signal-to-noise ratio (SNR), cannot manually label the data, and the projection direction is random and the distribution is unknown. Therefore, in the low SNR scenario, how to obtain the characteristic information of the effective particles, improve the clustering accuracy, and thus improve the reconstruction accuracy, is a key problem in the 2D image analysis of single particles of cryo-EM.\n\nResults\nAiming at the above problems, we propose a learnable deep clustering method and a fast alignment weighted averaging method based on frequency domain space to effectively improve the class averaging results and improve the reconstruction accuracy. In particular, it is very prominent in the feature extraction and dimensionality reduction module. Compared with the classification method based on Bayesian and great likelihood, a large amount of single particle data is required to estimate the relative angle orientation of macromolecular single particles in the 3D structure, and we propose that the clustering method shows good results.\n\nConclusions\nSimcryoCluster can use the contrastive learning method to perform well in the unlabeled high-noise cryo-EM single particle image classification task, making it an important tool for cryo-EM protein structure determination\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1186/s12859-023-05565-w"
+    },
+    {
+        "id": 25614,
+        "title": "Spam email classification and sentiment analysis based on semantic similarity methods",
+        "authors": "Ulligaddala Srinivasarao, Aakanksha Sharaff",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcse.2023.129147"
+    },
+    {
+        "id": 25615,
+        "title": "Multi-Source Soft Pseudo-Label Learning with Domain Similarity-based Weighting for Semantic Segmentation",
+        "authors": "Shigemichi Matsuzaki, Hiroaki Masuzawa, Jun Miura",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10342159"
+    },
+    {
+        "id": 25616,
+        "title": "Medical Documents Search Engine in the Comprehensive Hospital System Using Ontology-Based Semantic Similarity Measurement",
+        "authors": "Samaneh Yousefi, Sina Dami",
+        "published": "2024-2-21",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aisp61396.2024.10475239"
+    },
+    {
+        "id": 25617,
+        "title": "Spam email classification and sentiment analysis based on semantic similarity methods",
+        "authors": "Ulligaddala Srinivasarao, Aakanksha Sharaff",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijcse.2023.10054278"
+    },
+    {
+        "id": 25618,
+        "title": "TSD-CAM: transformer-based self distillation with CAM similarity for weakly supervised semantic segmentation",
+        "authors": "Lingyu Yan, Jiangfeng Chen, Yuanyan Tang",
+        "published": "2024-3-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/1.jei.33.2.023029"
+    },
+    {
+        "id": 25619,
+        "title": "Hybridization model of frame semantics and deep learning for text semantic similarity calculation",
+        "authors": "Haijing Liu",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3004103"
+    },
+    {
+        "id": 25620,
+        "title": "WordNet-based Computation of Semantic Similarity Between Two Vietnamese Nouns",
+        "authors": "Trang Thi My Phan, An Thi Duong, Phuong Thi Minh Tran",
+        "published": "2023-5-9",
+        "citations": 0,
+        "abstract": "Abstract. This study aimed to measure the semantic distance between Vietnamese nouns to determine their similarities and differences in terms of semantics. The study utilized a dataset of 1000 randomly selected noun pairs from the Vietnamese WordNet and applied different semantic distance measurement formulas, such as Path-length, Leacock & Chodorow, Wu & Palmer, Resnik, Lin, and Jiang-Conrath measures. The results showed that the Resnik measure is suitable for evaluating noun similarity among primitive concepts of the same class and for measuring proximity between two classes of primitive concepts. On the other hand, the Leacock & Chodorow measure is appropriate for measuring the semantic distance between nouns belonging to two distant classes of primitive concepts. The methods used in this study have various potential applications in different fields of linguistics, such as determining synonyms, identifying semantically similar words, defining lexical-semantic fields, and detecting plagiarism.   ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47577/tssj.v43i1.8859"
+    },
+    {
+        "id": 25621,
+        "title": "Noam Chomsky at SemEval-2023 Task 4: Hierarchical Similarity-aware Model for Human Value Detection",
+        "authors": "Sumire Honda, Sebastian Wilharm",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.188"
+    },
+    {
+        "id": 25622,
+        "title": "Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity",
+        "authors": "Katharina Haemmerl, Alina Fastowski, Jindřich Libovický, Alexander Fraser",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.439"
+    },
+    {
+        "id": 25623,
+        "title": "Bipolar Sentiment Analysis of Japanese Social Media Posts: A Semantic Similarity Based Approach",
+        "authors": "M. Fahim Ferdous Khan, Nanami Oi, Ken Sakamura",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/is3c57901.2023.00060"
+    },
+    {
+        "id": 25624,
+        "title": "Evaluating Factual Consistency of Texts with Semantic Role Labeling",
+        "authors": "Jing Fan, Dennis Aumiller, Michael Gertz",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.starsem-1.9"
+    },
+    {
+        "id": 25625,
+        "title": "Semantic Clustering and Transfer Learning in Social Media Texts Authorship Attribution",
+        "authors": "Anastasia Fedotova, Anna Kurtukova, Aleksandr Romanov, Alexander Shelupanov",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3377231"
+    },
+    {
+        "id": 25626,
+        "title": "A Hierarchical Orthographic Similarity Measure for Interconnected Texts Represented by Graphs",
+        "authors": "Maxime Deforche, Ilse De Vos, Antoon Bronselaer, Guy De Tré",
+        "published": "2024-2-14",
+        "citations": 0,
+        "abstract": "Similarity measures play a pivotal role in automatic techniques designed to analyse large volumes of textual data. Conventional approaches, treating texts as paradigmatic examples of unstructured data, tend to overlook their structural nuances, leading to a loss of valuable information. In this paper, we propose a novel orthographic similarity measure tailored for the semi-structured analysis of texts. We explore a graph-based representation for texts, where the graph’s structure is shaped by a hierarchical decomposition of textual discourse units. Employing the concept of edit distances, our orthographic similarity measure is computed hierarchically across all components in this textual graph, integrating precomputed similarity values among lower-level nodes. The relevance and applicability of the presented approach are illustrated by a real-world example, featuring texts that exhibit intricate interconnections among their components. The resulting similarity scores, between all different structural levels of the graph, allow for a deeper understanding of the (structural) interconnections among texts and enhances the explainability of similarity measures as well as the tools using them.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14041529"
+    },
+    {
+        "id": 25627,
+        "title": "Strict intuitionistic fuzzy distance/similarity measures based on Jensen-Shannon divergence",
+        "authors": "Xinxing Wu, Zhiyi Zhu, Shyi-Ming Chen",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2024.120144"
+    },
+    {
+        "id": 25628,
+        "title": "Meta-Learning for Indian Languages: Performance Analysis and Improvements With Linguistic Similarity Measures",
+        "authors": "C. S. Anoop, A. G. Ramakrishnan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3300790"
+    },
+    {
+        "id": 25629,
+        "title": "Benzerlik Ölçülerine Dayalı Entropi ile Hipergraflarda Merkezilik Tespiti",
+        "authors": "İhsan TUĞAL, Zeydin PALA",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "Hypergraphs and simplicial complexes can be used to model higher-order interactions. Graphs are limited to model and describe pairwise interactions. In this study, the issue of centrality in hypergraphs was studied. We introduce centrality measures based on the entropy of nodes and hyperedges in the hypergraphs. Until now, a lot of measures from various perspectives have been proposed to identify influential nodes, yet non provides a complete solution to the centrality problem. Because there are different perspectives on centrality. It is important to try different models to reach a solution in centrality problems. Entropy, which is a measure of uncertainty, is a guide in centrality measurements. It can produce ideal solutions for centrality. In complex systems, the entropy can be measured by different methods. In this study, the entropy calculation was made according to the union, intersection, and jaccard similarity values for nodes. The way that similarity is measured indicates the type of centrality. Local centralities were detected more precisely when the degree and union similarity values were used. The intersection and jaccard similarities showed us the global centralities. Traditional methods of centrality were also compared with the results of the proposed method. The accuracy of the method was tested with different hypergraph datasets. It has been shown that we can produce efficient results with different similarity parameters according to our wishes in hypergraphs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24012/dumf.1241450"
+    },
+    {
+        "id": 25630,
+        "title": "Lexical and semantic means of emotional coloring of German military texts",
+        "authors": "Iryna Khodykina",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32782/2617-3921.2023.23.161-170"
+    },
+    {
+        "id": 25631,
+        "title": "Analysing lexical semantic changes in chinese educational texts by integrating machine learning methods",
+        "authors": "Xiaohui Shen",
+        "published": "2024-2-29",
+        "citations": 0,
+        "abstract": "Analyzing Lexical Semantic Changes (LSC) in Educational Texts (ET) refers to examining how the meanings of words, terms, or phrases used in ET have evolved. It involves learning shifts in the semantic content, connotations, and language associations within educational resources such as textbooks, research articles, and instructional content. The analysis can reveal how educational models, pedagogical methods, and terminology have transformed in response to technological innovations, societal changes, and pedagogical developments. This analysis provides visions into the dynamic nature of educational discourse, helping researchers, educators, and policymakers understand how language has adapted to reflect changes in educational paradigms and the broader educational context. This research investigates the semantic analysis and classification performance within ET, employing the innovative Decision Tree + Feed Forward Neural Networks (DT + FFNNs) framework. This research shows the dynamic semantic relationships inherent in educational terminology by diverse semantic similarity measures and contextualized embeddings. It looks at how educational language changes to reflect changes in society, technology, and pedagogy. The study uses a DT + FFNN framework for semantic analysis and classification. The study uses several embeddings and semantic similarity metrics, and Spearman’s Correlation Coefficient (SCC) is employed to evaluate their effectiveness. This study highlights the DT + FFNN framework’s capacity to capture complex semantics in an educational setting and offers insights into the adaptive nature of educational discourse. SCC serves as a guiding metric, offering insights into the efficiency of several embeddings and measures. The findings show the pivotal role of fine-tuning in significantly enhancing the accuracy of DT + FFNNs across measures, revealing its remarkable potential in capturing semantics within an educational context.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-237410"
+    },
+    {
+        "id": 25632,
+        "title": "Research On Method Of User Preference Analysis Based on Entity Similarity and Semantic Assessment",
+        "authors": "Chengjie Mou, Weinan Dai, Xuesong Ye, Jun Wu",
+        "published": "2023-7-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsip57908.2023.10271084"
+    },
+    {
+        "id": 25633,
+        "title": "ALBERT with Knowledge Graph Encoder Utilizing Semantic Similarity for Commonsense Question Answering",
+        "authors": "Byeongmin Choi, YongHyun Lee, Yeunwoong Kyung, Eunchan Kim",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.032783"
+    },
+    {
+        "id": 25634,
+        "title": "CaML: Carbon Footprinting of Household Products with Zero-Shot Semantic Text Similarity",
+        "authors": "Bharathan Balaji, Venkata Sai Gargeya Vunnava, Geoffrey Guest, Jared Kramer",
+        "published": "2023-4-30",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3543507.3583882"
+    },
+    {
+        "id": 25635,
+        "title": "The effect of semantic and physical similarity on vocabulary learning",
+        "authors": "Nguyen Thien An Bach, Samuel Barclay",
+        "published": "2023-11-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/09571736.2023.2286239"
+    },
+    {
+        "id": 25636,
+        "title": "Collective Human Opinions in Semantic Textual Similarity",
+        "authors": "Yuxia Wang, Shimin Tao, Ning Xie, Hao Yang, Timothy Baldwin, Karin Verspoor",
+        "published": "2023-8-15",
+        "citations": 0,
+        "abstract": "Abstract\nDespite the subjective nature of semantic textual similarity (STS) and pervasive disagreements in STS annotation, existing benchmarks have used averaged human ratings as gold standard. Averaging masks the true distribution of human opinions on examples of low agreement, and prevents models from capturing the semantic vagueness that the individual ratings represent. In this work, we introduce USTS, the first Uncertainty-aware STS dataset with ∼15,000 Chinese sentence pairs and 150,000 labels, to study collective human opinions in STS. Analysis reveals that neither a scalar nor a single Gaussian fits a set of observed judgments adequately. We further show that current STS models cannot capture the variance caused by human disagreement on individual instances, but rather reflect the predictive confidence over the aggregate dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/tacl_a_00584"
+    },
+    {
+        "id": 25637,
+        "title": "Query based biomedical document retrieval for clinical information access with the semantic similarity",
+        "authors": "Supriya Gupta, Aakanksha Sharaff, Naresh Kumar Nagwani",
+        "published": "2023-12-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-17783-8"
+    },
+    {
+        "id": 25638,
+        "title": "Accelerating Legislation Processes through Semantic Similarity Analysis with BERT-based Deep Learning",
+        "authors": "J. Naseri, H. Hasanpour, A. Ghanbari Sorkhi",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5829/ije.2024.37.06c.01"
+    },
+    {
+        "id": 25639,
+        "title": "Exploring the interpretability of the BERT model for semantic similarity",
+        "authors": "Diana Anahí Ledesma Roque, Olga Kolesnikova, Ricardo Menchaca Méndez",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "This study addresses the issue of semantic similarity in sentences using the BERT model through various aggregation techniques, such as max-pooling, mean-pooling, and an LSTM network applied to the output of the BERT model. Subsequently, the linguistic interpretability of the BERT-Base transformer model is analyzed through the unsupervised learning approach, specifically through dimensionality reduction using autoencoders and clustering algorithms, utilizing the representation of the classification token CLS. The results highlight that the CLS classification token achieves better abstractions than the proposed methods. In terms of interpretability, it is observed that sequence length is relevant in the early layers, with a gradual decrease across the layers. Additionally, attention to semantic similarity is concentrated in the intermediate and upper layers, especially in layers 6, 8, 9, and 10. All these findings were obtained by addressing the semantic similarity task using the STS-Benchmark dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/jifs-219359"
+    },
+    {
+        "id": 25640,
+        "title": "Dynamic Application of Trademark Preliminary Publication Notification Data in Tobacco Enterprises Based on Semantic Similarity and Machine Learning Method",
+        "authors": "Hong Zhang, Xiaojuan Wang",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.52202/068701-0041"
+    },
+    {
+        "id": 25641,
+        "title": "Semantic Similarity Based on Taxonomies",
+        "authors": "Antonio De Nicola, Anna Formica, Ida Mele, Francesco Taglino",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "The evaluation of the semantic similarity of concepts organized according to taxonomies is a long-standing problem in computer science and has attracted great attention from researchers over the decades. In this regard, the notion of information content plays a key role, and semantic similarity measures based on it are still on the rise. In this review, we address the methods for evaluating the semantic similarity between either concepts or sets of concepts belonging to a taxonomy that, often, in the literature, adopt different notations and formalisms. The results of this systematic literature review provide researchers and academics with insight into the notions that the methods discussed have in common through the use of the same notation, as well as their differences, overlaps, and dependencies, and, in particular, the role of the notion of information content in the evaluation of semantic similarity. Furthermore, in this review, a comparative analysis of the methods for evaluating the semantic similarity between sets of concepts is provided.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app132111959"
+    },
+    {
+        "id": 25642,
+        "title": "Syntactic-Semantic Similarity Based on Dependency Tree Kernel",
+        "authors": "Marwah Alian, Arafat Awajan",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-023-07694-z"
+    },
+    {
+        "id": 25643,
+        "title": "Personalised advertising push method based on semantic similarity and data mining",
+        "authors": "Shibiao Mu, Shuaijing Yu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijwbc.2023.131385"
+    },
+    {
+        "id": 25644,
+        "title": "How do centrality measures help to predict similarity patterns in molecular chemical structural graphs?",
+        "authors": "Nirmala Parisutham",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.aichem.2023.100007"
+    },
+    {
+        "id": 25645,
+        "title": "Understanding lexico-semantic opposition empty/full in official business texts: Quantitative and qualitative research",
+        "authors": "Demyanchuk Yuliya",
+        "published": "2024-1-2",
+        "citations": 0,
+        "abstract": "This paper discusses the lexical-semantic opposition EMPTY/FULL in the corpus of legal, military and medical texts. The study analyzes 130 official business texts, in which we examined the problem of defining and constructing the lexical-semantic opposition EMPTY/FULL. The analysis promoted the construction of quantitative sampling, which demonstrates the weight of the lexemes in the corpus of official business texts. The purpose of the proposed analysis was to determine the distribution of the lexical-semantic opposition EMPTY/FULL, especially to find out the total number of occurrences, the average number of occurrences and the edge limits of the lexeme EMPTY and the lexeme FULL in the corpus of texts. The main results of the study outline the diversity of the lexical-semantic opposition EMPTY/FULL in different contexts, that underlines the functional diversification of the lexeme EMPTY and lexeme FULL. The results showed that in legal texts lexemes EMPTY/FULL nominate a legal concept; in medical texts they perform the function of medical conditions assessment; within the limits of military texts, they establish an associative connection between the nomination and semantic components (military actions, targets and objects of military use, consequences of war). Another important finding was the determination of the dominant lexeme in the corpus of legal texts and the dominant lexeme in the corpus of military texts. The similarities between EMPTY and FULL are primarily due to their antonymy. However, their differences are fixed in their distinct core meanings, contextual usage, pragmatic significance and connotations. These differences make them adaptable in various contexts of military, legal and medical texts to convey precise and often contrasting information about the state of objects and concepts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59400/fls.v6i1.2004"
+    },
+    {
+        "id": 25646,
+        "title": "Urgency Detection in Social Media Texts Using Natural Language Processing",
+        "authors": "Navya Makkena, Abm Rezbaul Islam, Cihan Varol, Min Kyung An",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsc59802.2024.00031"
+    },
+    {
+        "id": 25647,
+        "title": "External clustering validity index based on extended similarity measures",
+        "authors": "Najmeh Akbarpour, Ebrahim Akbari, Homayun Motameni",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jocs.2023.102116"
+    },
+    {
+        "id": 25648,
+        "title": "The informativeness of risk factor disclosures: estimating the covariance matrix of stock returns using similarity measures",
+        "authors": "Lukas Tillmann, Martin Walther",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21314/jor.2023.003"
+    },
+    {
+        "id": 25649,
+        "title": "Semantic-structure of polysemantic words in memory texts",
+        "authors": "I.T Hojaliyev, M.Sh Kholmatov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56292/sjfsu/vol29_iss1/a109"
+    },
+    {
+        "id": 25650,
+        "title": "AFFINITY PROPAGATION AND K-MEANS ALGORITHM FOR DOCUMENT CLUSTERING BASED ON SEMANTIC SIMILARITY",
+        "authors": "Avan A. Mustafa, Karwan Jacksi",
+        "published": "2023-4-3",
+        "citations": 0,
+        "abstract": "Clustering text documents is the process of dividing textual material into groups or clusters. Due to the large volume of text documents in electronic forms that have been made with the development of internet technology, document clustering has gained considerable attention. Data mining methods for grouping these texts into meaningful clusters are becoming a critical method. Clustering is a branch of data mining that is a blind process used to group data by a similarity known as a cluster. However, the clustering should be based on semantic similarity rather than using syntactic notions, which means the documents should be clustered according to their meaning rather than keywords. This article presents a novel strategy for categorizing articles based on semantic similarity. This is achieved by extracting document descriptions from the IMDB and Wikipedia databases. The vector space is then formed using TFIDF, and clustering is accomplished using the Affinity propagation and K-means methods. The findings are computed and presented on an interactive website.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25271/sjuoz.2023.11.2.1148"
+    },
+    {
+        "id": 25651,
+        "title": "MCM-CASR: Novel Alert Correlation Framework for Cyber Attack Scenario Reconstruction Based on NLP, NER, and Semantic Similarity",
+        "authors": "Mouhamadou Lamine Diakhame, Cherif Diallo, Mohamed Mejri",
+        "published": "2023-10-16",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csnet59123.2023.10339751"
+    },
+    {
+        "id": 25652,
+        "title": "Sentence Semantic Similarity based Complex Network approach for Word Sense Disambiguation",
+        "authors": "Et al. Gopal Mohadikar",
+        "published": "2023-11-2",
+        "citations": 0,
+        "abstract": "Word Sense Disambiguation is a branch of Natural Language Processing(NLP) that deals with multi-sense words. The multi-sense words are referred to as the polysemous words. The term lexical ambiguity is introduced by the multi-sense words. The existing sense disambiguation module works effectively for single sentences with available context information. The word embedding plays a vital role in the process of disambiguation. The context-dependent word embedding model is used for disambiguation. The main goal of this research paper is to disambiguate the polysemous words by considering available context information. The main identified challenge of disambiguation is the ambiguous word without context information. The discussed complex network approach is disambiguating ambiguous sentences by considering the semantic similarities. The sentence semantic similarity-based network is constructed for disambiguating ambiguous sentences. The proposed methodology is trained with SemCor, Adaptive-Lex, and OMSTI standard lexical resources. The findings state that the discussed methodology is working fine for disambiguating large documents where the sense of ambiguous sentences is on the adjacent sentences.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17762/ijritcc.v11i10.8491"
+    },
+    {
+        "id": 25653,
+        "title": "Semantic Coherence Guided Multi-View Similarity For Image Classification With Varied Supervision",
+        "authors": "Chunjie Zhang, Ping Cao, Huihui Bai, Xiaolong Zheng",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tai.2023.3339593"
+    },
+    {
+        "id": 25654,
+        "title": "Efficient discrete cross-modal hashing with semantic correlations and similarity preserving",
+        "authors": "Fan Yang, Qiaoxi Zhang, Fumin Ma, Xiaojian Ding, Yufeng Liu, Deyu Tong",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ins.2023.119222"
+    },
+    {
+        "id": 25655,
+        "title": "SSMI: Semantic Similarity and Mutual Information Maximization Based Enhancement for Chinese NER",
+        "authors": "Pengnian Qi, Biao Qin",
+        "published": "2023-6-26",
+        "citations": 1,
+        "abstract": "The Chinese NER task consists of two steps, first determining entity boundaries and then labeling them. Some previous work incorporating related words from pre-trained vocabulary into character-based models has been demonstrated to be effective. However, the number of words that characters can match in the vocabulary is large, and their meanings vary widely. It is unreasonable to concatenate all the matched words into the character's representation without making semantic distinctions. This is because words with different semantics also have distinct vectors by the distributed representation. Moreover, mutual information maximization (MIM) provides a unified way to characterize the correction between different granularity of embeddings, we find it can be used to enhance the features in our task. Consequently, this paper introduces a novel Chinese NER model named SSMI based on semantic similarity and MIM. We first match all the potential word boundaries of the input characters from the pre-trained vocabulary and employ BERT to segment the input sentence to get the segmentation containing these characters. After computing their cosine similarity, we obtain the word boundary with the highest similarity and the word group with similarity score larger than a specific threshold. Then, we concatenate the most relevant word boundaries with character vectors. We further calculate the mutual information maximization of group, character and sentence, respectively. Finally, we feed the result from the above steps to our novel network. The results on four Chinese public NER datasets show that our SSMI achieves state-of-the-art performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i11.26580"
+    },
+    {
+        "id": 25656,
+        "title": "Semantic similarity-based program retrieval: a multi-relational graph perspective",
+        "authors": "Qianwen Gou, Yunwei Dong, YuJiao Wu, Qiao Ke",
+        "published": "2024-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11704-023-2678-8"
+    },
+    {
+        "id": 25657,
+        "title": "A Quantum Genetic Algorithm for Building a Semantic Textual Similarity Estimation Framework for Plagiarism Detection Applications",
+        "authors": "Saad M. Darwish, Ibrahim Abdullah Mhaimeed, Adel A. Elzoghabi",
+        "published": "2023-8-29",
+        "citations": 0,
+        "abstract": "The majority of the recent research on text similarity has been focused on machine learning strategies to combat the problem in the educational environment. When the originality of an idea is copied, it increases the difficulty of using a plagiarism detection system in practice, and the system fails. In cases like active-to-passive conversion, phrase structure changes, synonym substitution, and sentence reordering, the present approaches may not be adequate for plagiarism detection. In this article, semantic extraction and the quantum genetic algorithm (QGA) are integrated in a unified framework to identify idea plagiarism with the aim of enhancing the performance of existing methods in terms of detection accuracy and computational time. Semantic similarity measures, which use the WordNet database to extract semantic information, are used to capture a document’s idea. In addition, the QGA is adapted to identify the interconnected, cohesive sentences that effectively convey the source document’s main idea. QGAs are formulated using the quantum computing paradigm based on qubits and the superposition of states. By using the qubit chromosome as a representation rather than the more traditional binary, numeric, or symbolic representations, the QGA is able to express a linear superposition of solutions with the aim of increasing gene diversity. Due to its fast convergence and strong global search capacity, the QGA is well suited for a parallel structure. The proposed model has been assessed using a PAN 13-14 dataset, and the result indicates the model’s ability to achieve significant detection improvement over some of the compared models. The recommended PD model achieves an approximately 20%, 15%, and 10% increase for TPR, PPV, and F-Score compared to GA and hierarchical GA (HGA)-based PD methods, respectively. Furthermore, the accuracy rate rises by approximately 10–15% for each increase in the number of samples in the dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e25091271"
+    },
+    {
+        "id": 25658,
+        "title": "A cosine similarity measures between hesitancy fuzzy graphs and its application to decision making",
+        "authors": "Rajagopal Reddy N, Sharief Basha S",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "<abstract><p>A new cosine similarity measure between hesitancy fuzzy graphs, which have been shown to have greater discriminating capacity than certain current ones in group decision making problems by example verification. This study proposes a novel method for estimating expert-certified repute scores by determining the ambiguous information of hesitancy fuzzy preference relations as well as the regular cosine similarity grades from one separable hesitancy fuzzy preference relation to some others. The new approach considers both \"objective\" and \"subjective\" information given by experts. We construct working procedures for assessing the eligible reputational scores of the experts by applying hesitancy fuzzy preference relations. In an evaluation in which multiple conflicting factors are taken into consideration, this can be applied to increase or reduce the relevancy of specified criteria. Applying the two effective methods, the newly developed cosine similarity measure, the energy of hesitancy fuzzy graph, and we provide a solution to a decisional issue. Finally, the two working procedures and examples are given to verify the practicality and dominance of the proposed techniques.</p></abstract>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/math.2023597"
+    },
+    {
+        "id": 25659,
+        "title": "Comparison of Graph Distance Measures for Movie Similarity Using a Multilayer Network Model",
+        "authors": "Majda Lafhel, Hocine Cherifi, Benjamin Renoust, Mohammed El Hassouni",
+        "published": "2024-2-8",
+        "citations": 0,
+        "abstract": "Graph distance measures have emerged as an effective tool for evaluating the similarity or dissimilarity between graphs. Recently, there has been a growing trend in the application of movie networks to analyze and understand movie stories. Previous studies focused on computing the distance between individual characters in narratives and identifying the most important ones. Unlike previous techniques, which often relied on representing movie stories through single-layer networks based on characters or keywords, a new multilayer network model was developed to allow a more comprehensive representation of movie stories, including character, keyword, and location aspects. To assess the similarities among movie stories, we propose a methodology that utilizes a multilayer network model and layer-to-layer distance measures. We aim to quantify the similarity between movie networks by verifying two aspects: (i) regarding many components of the movie story and (ii) quantifying the distance between their corresponding movie networks. We tend to explore how five graph distance measures reveal the similarity between movie stories in two aspects: (i) finding the order of similarity among movies within the same genre, and (ii) classifying movie stories based on genre. We select movies from various genres: sci-fi, horror, romance, and comedy. We extract movie stories from movie scripts regarding character, keyword, and location entities to perform this. Then, we compute the distance between movie networks using different methods, such as the network portrait divergence, the network Laplacian spectra descriptor (NetLSD), the network embedding as matrix factorization (NetMF), the Laplacian spectra, and D-measure. The study shows the effectiveness of different methods for identifying similarities among various genres and classifying movies across different genres. The results suggest that the efficiency of an approach on a specific network type depends on its capacity to capture the inherent network structure of that type. We propose incorporating the approach into movie recommendation systems.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/e26020149"
+    },
+    {
+        "id": 25660,
+        "title": "Rough approximations of similarity measures under Pythagorean fuzzy information: a novel approach to decision-making",
+        "authors": "Saba Fatima, Musavarah Sarwar, Fariha Zafar",
+        "published": "2023-10-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-09193-7"
+    },
+    {
+        "id": 25661,
+        "title": "Data Augmentation Using Transformers and Similarity Measures for Improving Arabic Text Classification",
+        "authors": "Dania Refai, Saleh Abu-Soud, Mohammad J. Abdel-Rahman",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3336311"
+    },
+    {
+        "id": 25662,
+        "title": "Comparison of Similarity Measures for Trajectory Clustering - Aviation Use Case",
+        "authors": "Marija Todoric, Toni Mastelic",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24138/jcomss-2022-0116"
+    },
+    {
+        "id": 25663,
+        "title": "Comparative Analysis of Path-based Similarity Measures for Word Sense Disambiguation",
+        "authors": "Prajna Jha, Shreya Agarwal, Ali Abbas, Tanveer Siddiqui",
+        "published": "2023-3-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aisp57993.2023.10134960"
+    },
+    {
+        "id": 25664,
+        "title": "CREATING A MODEL OF SEMANTIC ANALYSIS OF EXTREMIIST TEXTS IN THE KAZAKH LANGUAGE",
+        "authors": "Aigerim Zhumakhanova",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26577/jmmcs2024121111"
+    },
+    {
+        "id": 25665,
+        "title": "Semantic Role Labeling for Information Extraction on Indonesian Texts: A Literature Review",
+        "authors": "Amelia Devi Putri Ariyanto, Chastine Fatichah, Diana Purwitasari",
+        "published": "2023-7-26",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/isitia59021.2023.10221008"
+    },
+    {
+        "id": 25666,
+        "title": "Automated Essay Scoring Menggunakan Semantic Textual Similarity Berbasis Transformer Untuk Penilaian Ujian Esai",
+        "authors": "Kharisma Ayu Pradani, Lya Hulliyyatus Suadaa",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "Ujian berbasis esai seringkali digunakan untuk menguji pemahaman siswa dalam menyelesaikan permasalahan. Tak terkecuali dalam pelaksanaan ujian di Politeknik Statistika STIS. Dalam melakukan penilaian pada jawaban tipe ini, dibutuhkan waktu serta tenaga yang besar, dan sering kali menimbulkan ketidakkonsistenan dalam penilaian. Hal ini dapat terjadi salah satunya karena perbedaan cara penilaian yang dilakukan oleh orang yang berbeda. Oleh karena itu diperlukan penyelesaian yang bisa mengefektifkan waktu, tenaga serta menjaga kekonsistenan aspek penilaian, diantaranya yaitu dengan automated essay scoring (AES). AES merupakan suatu model yang dilatih untuk menilai suatu esai secara otomatis berdasarkan kemiripan jawaban dengan kunci jawaban. Pada penelitian ini, metode yang diusulkan untuk menghitung kemiripan semantik teks berbahasa Indonesia antara jawaban esai dan kunci jawabannya yaitu model berbasis Transformers IndoBERT. Sebagai baseline, digunakan teknik ekstraksi fitur Term Frequency - Inverse Document Frequency (TF-IDF) dan penghitungan kemiripan fitur menggunakan cosine similarity dan linear regression. Selanjutnya nilai kemiripan tersebut dikonversi ke rentang nilai yang diinginkan sebagai prediksi nilai dari setiap esai. Berdasarkan hasil evaluasi, diperoleh bahwa model fine-tuned IndoBERT merupakan model terbaik dengan nilai MAE dan RMSE sebesar 0.1285 dan 0.2001.\n \nAbstract\nEssay-based exams are often used to test students’ understanding of solving problems. However, assessing this type of answer takes a lot of time and effort and often results in inconsistencies. One of the reasons is the different ways between people while doing the assessment. Therefore, a solution is needed to streamline time, effort, and maintain consistency in aspects of assessment, including automated essay scoring (AES). AES is a model trained to assess an essay automatically based on the similarity of answers with the answer key. In this study, the method proposed to calculate the semantic similarity of Indonesian text between essay answers and answer keys is a model based on the Transformer BERT. As a baseline, the Term Frequency – Inverse Document Frequency (TF-IDF) feature extraction technique is used and calculating feature similarity using cosine similarity and linear regression. Then the similarity value is converted to the desired range of values as the predicted value of each essay. Based on the evaluation results, it was found that the fine-tuned IndoBERT model was the best model, with MAE and RMSE values of 0.1285 and 0.2001.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25126/jtiik.1067338"
+    },
+    {
+        "id": 25667,
+        "title": "Behavioral representational similarity analysis reveals how episodic learning is influenced by and reshapes semantic memory",
+        "authors": "Catherine R. Walsh, Jesse Rissman",
+        "published": "2023-11-20",
+        "citations": 1,
+        "abstract": "AbstractWhile semantic and episodic memory have been shown to influence each other, uncertainty remains as to how this interplay occurs. We introduce a behavioral representational similarity analysis approach to assess whether semantic space can be subtly re-sculpted by episodic learning. Eighty participants learned word pairs that varied in semantic relatedness, and learning was bolstered via either testing or restudying. Next-day recall is superior for semantically related pairs, but there is a larger benefit of testing for unrelated pairs. Analyses of representational change reveal that successful recall is accompanied by a pulling together of paired associates, with cue words in semantically related (but not unrelated) pairs changing more across learning than target words. Our findings show that episodic learning is associated with systematic and asymmetrical distortions of semantic space which improve later recall by making cues more predictive of targets, reducing interference from potential lures, and establishing novel connections within pairs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41467-023-42770-w"
+    },
+    {
+        "id": 25668,
+        "title": "Going Beyond Sentence Embeddings: A Token-Level Matching Algorithm for Calculating Semantic Textual Similarity",
+        "authors": "Hongwei Wang, Dong Yu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-short.49"
+    },
+    {
+        "id": 25669,
+        "title": "Clickbait Classification Model on Online News with Semantic Similarity Calculation Between News Title and Content",
+        "authors": "Hero Akbar Ahmadi, Andry Chowanda",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "Clickbait is a sensational title that makes us click internet links to an article, image, or video. Online content providers use clickbait to gain user traffic, that leads to increasing income from the placed ads in their page. To attract more and more traffic, online content providers write sensational and hyperbolic titles, and even misleading and not telling the whole story. This can give us, the internet consumer, wrong perspective, and half-truth. And nowadays, clickbait titles are worse than ever. Modern clickbait titles are not hyperbolic nor ambiguous enough, and sometimes very hard to identify. This paper aims to classify clickbait titles, to help humans identify clickbait and stop sharing more online content that contains clickbait and misleading titles. This model classifies clickbait by calculating semantic similarity between the article title and the summary of the article content. The article content is summarized by T5 (Text-to-text Transfer Transformer) model. IndoBERT is then used to calculate semantic similarity score between generated summary and the article title. The article title, content, summary, and semantic similarity score are used for clickbait classification with various algorithms. The result shows that by adding article content alongside article title in the classification process improves F1-score by 7% when classified with IndoBERT. In another future research, this model can be integrated with another application such as twitter or telegram bot to send us warning every time a user consumes online content with clickbait title. Thus, it can prevent online communities from sharing misleading information caused by clickbait",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47065/bits.v4i4.3030"
+    },
+    {
+        "id": 25670,
+        "title": "Search and Inference of Collision-Preventing Regulations Based on Chinese Semantic Similarity",
+        "authors": "Renhao Xiong, Lei Zhao, Peizheng Li, Caofei Luo, Fumin Wu",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ainit59027.2023.10212712"
+    },
+    {
+        "id": 25671,
+        "title": "Analysis of User-generated Content in Visitor Reviews of Tourist Attractions Using Semantic Similarity",
+        "authors": "Ni Made Satvika Iswari, I Gede Juliana Eka Putra",
+        "published": "2023-6-30",
+        "citations": 0,
+        "abstract": "The tourism industry plays an important role in the world economic sector because it makes a significant contribution to the global economy, creates jobs, and strengthens economic growth. Therefore, visitor satisfaction is very important in this industry. Currently tourists use information in online media to find tourist attractions that suit their needs and expectations. Reviews of tourist attractions are growing on the internet. Customers can post reviews, recommendations, or ratings of a tourist spot. Online reviews in the form of User-generated Content (UGC) can provide benefits for business managers to obtain feedback from customers and improve certain product attributes or service characteristics in order to increase business value and support marketing activities. In this study, data collection will be carried out from one of the UGC tourism data sources, namely visitor reviews on Google Maps. Data analysis was performed using the natural language processing method. Analysis of these data will produce comprehensive information about tourist feedback.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.31937/ti.v15i1.3139"
+    },
+    {
+        "id": 25672,
+        "title": "SkyWords: An automatic keyword extraction system based on the skyline operator and semantic similarity",
+        "authors": "Furkan Goz, Alev Mutlu",
+        "published": "2023-8",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.engappai.2023.106338"
+    },
+    {
+        "id": 25673,
+        "title": "Inequality-induced similarity measures for radial electronic probability densities in hydrogenic atoms",
+        "authors": "Takuya Yamano",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10910-023-01450-2"
+    },
+    {
+        "id": 25674,
+        "title": "Trajectory Angles Evaluation for the Flight Vehicle via Wavelet Transforms and Similarity Measures",
+        "authors": "Kunkun Li, Mingrui Qi, Rui Cao",
+        "published": "2023-2-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/itnec56291.2023.10082717"
+    },
+    {
+        "id": 25675,
+        "title": "Overlapping Sociolinguistic Underpinnings with Semantic Aspects of Cross-cultural Communication in African Drama Texts Translation",
+        "authors": "TANGYIE EVANI",
+        "published": "2023-4-8",
+        "citations": 0,
+        "abstract": "Analyzing semantic aspects of cross-cultural communication in drama texts translation within the African socio-cultural perspective constitutes a major challenge in the field of sociolinguistics, especially in this era of globalization influenced by aided technology, linguistic diffusion, and socio-cultural identity adulteration. Within this perspective, it is obliging for translation problems to constitute the core of communication across cultures, especially African cultures that are still considered rudimentary. The fact that many African languages do not exist in written forms constitutes a limitation to the effective transference of mother tongue socio-cultural linguistic nuances to learned official languages entangled with sociocultural context meanings of actions, thoughts and feelings as lived and experienced within the immediate or larger linguistic community. Present trends on effective drama text translation – (delocalization, polarization between performability and readability) are in favor of reviewing social structures as meaning oriented, while observed behavior is now equally being recognized as a manifestation of a deeper set of codes and rules. From this, the task of the translator is seen more as that of unraveling contextually appropriate communication within cultural frames than just a lexicosemantic restitution of texts. This study sets out to examine the convergent stances in sociology and linguistics and to postulate that the language used in a social context raises serious questions about language and communication in heterogeneous speech communities. The paper further argues that analyzing semantic aspects of cross-cultural communication in drama texts translation within the African socio-cultural perspective constitutes a major challenge in communicating across cultures since translators must sort to establish the highest possible degree of semantic agreement and intelligibility. The paper rabes up with the justification as to why sociolinguistic analysis should have precedence over semantics, for not only what is said is central to translation but how, to whom, in what manner and under what particular social circumstances must be seen as semantic markers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32996/jhsss.2023.5.4.8"
+    },
+    {
+        "id": 25676,
+        "title": "Artificial Intelligence Technology-Based Semantic Sentiment Analysis on Network Public Opinion Texts",
+        "authors": "Xingliang Fan",
+        "published": "2023-2-16",
+        "citations": 2,
+        "abstract": "Considering that the current social network text analysis works poorly in accurate and effective sentiment prediction and management, a deep learning (D-L)-based text sentiment analysis method is proposed for the big data environment. First, the autoregressive language model mode XLNet is used to capture bidirectional text information and a sentiment analysis model XLNet-Multi-Attention-BiGRU. Then, considering the context information of social network texts, the defect of traditional GRU units only reading texts in order is overcome by introducing a BiGRU model to extract features in both directions. Finally, a multi-headed attention layer is added between the BiGRU and CRF layers to better capture the key information in the sentence by integrating multiple single-head attention. The results show that the precision, recall, and F1 value of the method proposed in this paper are the largest, with the highest reaching 92.64%, 92.32%, and 91.25%, respectively, which are 12.40%, 10.17%, and 9.63% higher than the maximum values of the other three methods, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4018/ijitsa.318447"
+    },
+    {
+        "id": 25677,
+        "title": "Structural and Semantic Realizations of Phrase Scheme “not + infinitive + same” in Newspaper and Literary Texts",
+        "authors": "L. A. Zolotareva, Tczianxin Zhen",
+        "published": "2023-1-5",
+        "citations": 0,
+        "abstract": "The article deals with the structural and semantic features of the phrase scheme “not + infinitive + same” associated with the functioning of the structure in newspaper and literary texts. The study showed that in the structural composition, not only constant components (not, infinitive, same), but also optional ones are possible: after all, well, indeed. They retain their semantic and pragmatic properties; when used with a phrase scheme, they help to convince the interlocutor. In the context, the phrase scheme “not + infinitive + same” can be combined with other phraseologized structures or repeated several times to strengthen the argument. It is possible to use this phrase scheme as part of lexical phraseological units. When describing the semantic aspect, additional meanings were revealed in various contextual uses. In fiction and newspaper texts, the phrase scheme is characterized by colloquial stylistic coloring, its functioning is distinguished by the composition of constructions, the semantic characteristics of the infinitive. The constructions with the most frequent verbs in fiction and newspaper discourses are also considered in the article. The material was texts from the Russian National Corpus.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24224/2227-1295-2022-11-10-55-69"
+    },
+    {
+        "id": 25678,
+        "title": "The importance of a semantic approach in understanding the texts of the Holy Quran and Sunnah",
+        "authors": "Sansyzbay Chukhanov, Nurlan Kairbekov",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "The relevance of the study is determined by contemporary ideas of modernisation and radicalisation of Islam, the formation of which is directly linked to the problem of interpreting the sacred texts of the Muslim world. Therefore, the aim of the research work is to determine the veracity of applying linguistic and semantic approaches to the interpretation of the Holy Quran in order to find new ways of regulating the socio-cultural space. The research was conducted on the basis of the semantic, cultural, semiotic and formal-logical approaches, using such methods of scientific knowledge as induction, deduction, linguistic analysis, systematisation, comparison, synthesis and generalisation. In the course of the research work, key narratives of contemporary Islam were analysed in terms of their specific understanding of the Holy Quran. The current state of research into the interpretation of the sacred texts of Islam is reviewed. The specifics of understanding the Holy Quran in the context of its metaphorical constructions are explored. The relationship between the linguistic structure of\nthe Arabic language and the interpretations of the texts of the holy injunctions has been established, on the basis of which two ways of investigating the understanding of the Quran have been proposed. A comparative analysis of the research findings with other research findings in the category of modern interpretation of the Quran and Sunnah has been conducted. The trend towards digitalisation of the sacred texts of Islam, as well as the use of artificial intelligence technologies to interpret the ayahs, has been noted. The practical significance of the research work lies in proposing new methodologies for interpreting sacred texts, which can then be qualitatively applied in practice.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46222/pharosjot.105.36"
+    },
+    {
+        "id": 25679,
+        "title": "Linear Diophantine Fuzzy Sets: Image Edge Detection Techniques based on Similarity Measures",
+        "authors": "Basak Aldemir, Elif Guner, Halis Aygun",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "In the digital imaging process, fuzzy logic provides many advantages, including uncertainty management, adaptability to variations, noise tolerance, and adaptive classification. One of the techniques of digital image processing is the edge detection. The edge detection process is an essential tool to segment the foreground objects from the image background. So, it facilitates subsequent analysis and comprehension of the image’s underlying structural properties. This process can be moved on with the notion of fuzzy sets and their generalizations. The concept of Linear Diophantine fuzzy sets is a generalization of fuzzy sets where reference parameters correspond to membership and non-membership grades. This study aims to apply linear Diophantine fuzzy sets (LDFSs) to edge detection of images. The novelty of this paper is twofold. The first one is that we conduct a comprehensive evaluation to ascertain the similarity values using the linear Diophantine fuzzy similarity measure by leveraging the gray normalized membership values associated with fundamental edge detection techniques. The other is to modify the image pixels into the LDFSs and then filter the images by using the presented similarity measure operators given in the LDFS environment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37394/232014.2023.19.22"
+    },
+    {
+        "id": 25680,
+        "title": "Novel fuzzy similarity measures and their applications in pattern recognition and clustering analysis",
+        "authors": "Surender Singh, Koushal Singh",
+        "published": "2023-11",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41066-023-00393-y"
+    },
+    {
+        "id": 25681,
+        "title": "Retracted: Some Novel Cosine Similarity Measures Based on Complex Hesitant Fuzzy Sets and Their Applications",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9760804"
+    },
+    {
+        "id": 25682,
+        "title": "Semantic inconsistency measures using 3-valued logics",
+        "authors": "John Grant, Anthony Hunter",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijar.2023.02.008"
+    },
+    {
+        "id": 25683,
+        "title": "Semantic Similarity Comparison Between Production Line Failures for Predictive Maintenance",
+        "authors": "Hilal TEKGÖZ, Sevinç İLHAN OMURCA, Kadir Yunus KOÇ, Umut TOPÇU, Osman ÇELİK",
+        "published": "2023-2-15",
+        "citations": 1,
+        "abstract": "With the introduction of Industry 4.0 into our lives and the creation of smart factories, predictive maintenance has become even more important. Predictive maintenance systems are often used in the manufacturing industry. On the other hand, text analysis and Natural Language Processing (NLP) techniques are gaining a lot of attention by both research and industry due to their ability to combine natural languages and industrial solutions. There is a great increase in the number of studies on NLP in the literature. Even though there are studies in the field of NLP in predictive maintenance systems, no studies were found on Turkish NLP for predictive maintenance. This study focuses on the similarity analysis of failure texts that can be used in the predictive maintenance system we developed for VESTEL, one of the leading consumer electronics manufacturers in Turkey. In the manufacturing industry, operators record descriptions of failure that occur on production lines as short texts. However, these descriptions are not often used in predictive maintenance work. In this study, semantic text similarities between fault definitions in the production line were compared using traditional word representations, modern word representations and Transformer models. Levenshtein, Jaccard, Pearson, and Cosine scales were used as similarity measures and the effectiveness of these measures were compared. Experimental data including failure texts were obtained from a consumer electronics manufacturer in Turkey. When the experimental results are examined, it is seen that the Jaccard similarity metric is not successful in grouping semantic similarities according to the other three similarity measures. In addition, Multilingual Universal Sentence Encoder (MUSE), Language-agnostic BERT Sentence Embedding (LAbSE), Bag of Words (BoW) and Term Frequency - Inverse Document Frequency (TF-IDF) outperform FastText and Language-Agnostic Sentence Representations (LASER) models in semantic discovery of error identification in embedding methods. Briefly to conclude, Pearson and Cosine are more effective at finding similar failure texts; MUSE, LAbSE, BoW and TF-IDF methods are more successful at representing the failure text.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54569/aair.1142568"
+    },
+    {
+        "id": 25684,
+        "title": "Enhance Local Feature Consistency with Structure Similarity Loss for 3D Semantic Segmentation",
+        "authors": "Cheng- Wei Lin, Fang-Yu Syu, Yi-Ju Pan, Kuan-Wen Chen",
+        "published": "2023-10-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iros55552.2023.10342338"
+    },
+    {
+        "id": 25685,
+        "title": "Advanced NLP Based Entity Key Phrase Extraction and Text-Based Similarity Measures in Hadoop Environment",
+        "authors": "Adyasha Dash, Aryan Mohanty, Sohini Ghosh",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iscon57294.2023.10112121"
+    },
+    {
+        "id": 25686,
+        "title": "Rescue factor for similarity measures of single-valued neutrosophic sets with insufficiencies",
+        "authors": "Bin Ji, Ze Chen, Chuhao Zhou, Shuai Zheng",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mfc.2024012"
+    },
+    {
+        "id": 25687,
+        "title": "Multi-criteria decision making based on vector similarity measures of picture type-2 hesitant fuzzy sets",
+        "authors": "Şerif Özlü",
+        "published": "2023-11",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s41066-023-00382-1"
+    },
+    {
+        "id": 25688,
+        "title": "Probabilistic hesitant fuzzy multiple criteria decision-making with triangular norm based similarity and entropy measures",
+        "authors": "B. Farhadinia, M. Abdollahian, U. Aickelin",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2024.100465"
+    },
+    {
+        "id": 25689,
+        "title": "Similarity measures for q-rung orthopair fuzzy sets and applications to decision making",
+        "authors": "Hari Darshan Arora, Anjali Naithani, Radhika Chanian",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3934/mfc.2024007"
+    },
+    {
+        "id": 25690,
+        "title": "Semantic temporality analysis: A computational approach to time in English and German texts",
+        "authors": "Kohei Watanabe, Marius Sältzer",
+        "published": "2023-7",
+        "citations": 1,
+        "abstract": " Temporality is an important aspect of political discourse. Politicians and policymakers attempt to construct the past and the future to gain power, legitimize their policies, claim success for themselves and blame others. To make computational analysis of temporality more accessible, we develop a new methodology using a semisupervised machine-learning algorithm called Latent Semantic Scaling. Only with a set of common verbs in the past perfect and future tense as seed words, the algorithm estimates the temporality of all other words. We demonstrate that it can identify temporal orientation of English and German sentences from election manifestos around 60–70% accurately, which is comparable to the results from a recent study based on supervised machine-learning algorithms. We also apply it to Twitter posts by German political parties to reveal temporal orientation of policy issues. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/20531680231197456"
+    },
+    {
+        "id": 25691,
+        "title": "Automatically Finding Actors in Texts: A Performance Review of Multilingual Named Entity Recognition Tools",
+        "authors": "Paul Balluff, Hajo G. Boomgaarden, Annie Waldherr",
+        "published": "2024-3-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/19312458.2024.2324789"
+    },
+    {
+        "id": 25692,
+        "title": "Categorization of key semantic components in conflictogenic polycode texts",
+        "authors": "Olga Yurevna Gukosyants",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "The paper is devoted to the calculation of significant semantic components contained in conflictogenic polycode texts (demotivators) dedicated to movements and subcultures of a destructive nature. The identified frequently updated concepts, the semantic component of which is reflected in the selected research material, are divided into the appropriate categories (Natural object, Locus, Mechanism, Process, Ideal phenomenon, Characteristic, Substance, Construction, Agent, Situation, Material, Instrument), which allows determining the degree representativeness of each category. In the course of the analysis, the categories of semantic components characteristic of conflictogenic demotivators dedicated to movements and subcultures of a destructive nature are identified, a number of frequency language units representing semantic components) are indicated. The number of such categories, correlated with frequently updated concepts, the semantic component of which is observed in the analyzed polycode texts verbally and non-verbally, includes: the Agent category (representatives of groups, organizations, their leaders, persons in need of protection, persons who need to be destroyed), Characteristics (signs correlated with subjects, objects, actions presented in demotivators), Ideal phenomenon (images, symbols, signs, nominations of regimes and ideologies, slogans, abstract phenomena) and Process (represented actions), and Object and Locus categories (objects and places of commission actions). The concepts of the Situation (conditions for performing actions) and Substance (natural substances) categories are reflected in the analyzed material, but are present in small quantities. The Mechanism, Construction, Material and Instrument categories are recognized as non-representative. The volume of the semantic components of each category within the total sample size, as well as the percentage of frequency semantic components of the content within each category is calculated in the paper.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1051/shsconf/202316400071"
+    },
+    {
+        "id": 25693,
+        "title": "Extracting Semantic Relations from the Texts of Scientifc Articles",
+        "authors": "O. Yu. Tikhobaeva, E. P. Bruches, T. V. Batura",
+        "published": "2023-2-12",
+        "citations": 0,
+        "abstract": "Nowadays, the number of scientifc publications existing in the form of electronic text is constantly growing. As a result, the tasks related to the text processing of scientifc articles become especially actual. This paper is dedicated to the task of extracting semantic relations between entities from the texts of scientifc articles in Russian, where we consider scientifc terms as entities. Relation extraction can be useful in some specialized areas, such as searching and question-answering systems, as well as in the compilation of ontologies. In our work, we have created a corpus of scientifc texts consisting of 136 abstracts of scientifc articles in Russian, in which 353 relations of the following types were highlighted: USAGE, ISA, TOOL, SYNONYMS, PART_OF, CAUSE. This corpus was used to train the machine learning models. In addition, we have implemented the automatic semantic relation extraction algorithm and tested it on the already existing corpus RuSERRC. The neural network model BERT was used to implement the algorithm. We’ve done a number of experiments using vectors derived from diﬀerent language models, as well as two neural network architectures. The developed tool and the annotated corpus are publicly available and can be useful for other researchers.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25205/1818-7900-2022-20-3-65-76"
+    },
+    {
+        "id": 25694,
+        "title": "Diversity Measures: Domain-Independent Proxies for Failure in Language Model Queries",
+        "authors": "Noel Ngu, Nathaniel Lee, Paulo Shakarian",
+        "published": "2024-2-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icsc59802.2024.00034"
+    },
+    {
+        "id": 25695,
+        "title": "Semantic similarity detection based on knowledge augmentation for short text",
+        "authors": "Wenyang Xu, Guosheng Hao, Xia Wang, Wenting Tang",
+        "published": "2023-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icpeca56706.2023.10075781"
+    },
+    {
+        "id": 25696,
+        "title": "Semantic Textual Similarity in Requirement Specification and Use Case Description based on Sentence Transformer Model",
+        "authors": "Meizan Arthur Alfianto, Yudi Priyadi, Kusuma Ayu Laksitowening",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iaict59002.2023.10205769"
+    },
+    {
+        "id": 25697,
+        "title": "Sentences Similarity Model Based on Fusion of Semantic, Syntactic and Word Order Multi-Features",
+        "authors": "Ya Zhou, Ning Zhao, Guimin Huang, Nanxiao Deng, Qingkai Guo",
+        "published": "2023-7-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ispds58840.2023.10235400"
+    },
+    {
+        "id": 25698,
+        "title": "<i>MixMap</i>: a user-driven approach to place-based semantic similarity",
+        "authors": "Grant McKenzie, Sarah Battersby, Vidya Setlur",
+        "published": "2023-3-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/15230406.2023.2176930"
+    },
+    {
+        "id": 25699,
+        "title": "Revolutionizing ransomware detection and criticality assessment: Multiclass hybrid machine learning and semantic similarity-based end2end solution",
+        "authors": "Chaithanya B N, Brahmananda S H",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16946-x"
+    },
+    {
+        "id": 25700,
+        "title": "C-STS: Conditional Semantic Textual Similarity",
+        "authors": "Ameet Deshpande, Carlos Jimenez, Howard Chen, Vishvak Murahari, Victoria Graf, Tanmay Rajpurohit, Ashwin Kalyan, Danqi Chen, Karthik Narasimhan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.345"
+    },
+    {
+        "id": 25701,
+        "title": "Selecting Relevant Documents for Multilingual Content Analysis:: An Evaluation of Keyword and Semantic Similarity Search Approaches",
+        "authors": " Sean Palicki,  Stefanie Walter,  Wouter van Atteveldt,  Alice Beazer,  Isaac Bravo",
+        "published": "2023-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5117/ccr2023.2.5.pali"
+    },
+    {
+        "id": 25702,
+        "title": "ITTC at SemEval 2023-Task 7: Document Retrieval and Sentence Similarity for Evidence Retrieval in Clinical Trial Data",
+        "authors": "Rahmad Mahendra, Damiano Spina, Karin Verspoor",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.316"
+    },
+    {
+        "id": 25703,
+        "title": "SemSyn: Semantic-Syntactic Similarity Based Automatic Machine Translation Evaluation Metric",
+        "authors": "Shweta Chauhan, Rahul Kumar, Shefali Saxena, Amandeep Kaur, Philemon Daniel",
+        "published": "2023-4-17",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/03772063.2023.2195819"
+    },
+    {
+        "id": 25704,
+        "title": "Evaluating Question generation models using QA systems and Semantic Textual Similarity",
+        "authors": "Safwan Shaheer, Ishmam Hossain, Sudipta Nandi Sarna, Md Humaion Kabir Mehedi, Annajiat Alim Rasel",
+        "published": "2023-3-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccwc57344.2023.10099244"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 16905,
+        "title": "Applying ensemble learning to multiple stock price predictions: A comparative study",
+        "authors": "Shenghua Ye",
+        "published": "2024-3-25",
+        "citations": 0,
+        "abstract": "Predicting stock prices has been a perennial challenge and topic of interest for financial analysts, investors, and researchers alike. This holds true especially for influential tech companies that significantly impact the stock market landscape like Google and Tesla. While numerous models and methods have been applied to forecast stock prices globally, there remains a gap in a comparative, in-depth evaluation using Support Vector Regression (SVR), Recurrent Neural Network (RNN), Long Short-Term Memory network (LSTM), and XGBoost models for predicting prices of prominent tech stocks. This paper aims to bridge this gap, presenting a comprehensive model comparison for stock price forecasting. A series of datasets, inclusive of Google's stock prices and Tesla stock price, form the backbone of the analysis. Among the evaluated models, our preliminary findings indicate that LSTM and XGBoost demonstrate superior predictive capabilities, capturing intricate market dynamics with high precision. Further, the paper delves into the underlying factors and patterns driving stock prices, gleaning insights from the models' predictions. Through this research, this paper offers valuable benchmarks and insights for the best model for research in the field of stock price predictions and some evaluation of different features in the field of stock price predictions.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54254/2755-2721/50/20241501"
+    },
+    {
+        "id": 16906,
+        "title": "A Machine Learning Approach for Probabilistic Multi-Model Ensemble Predictions of Indian Summer Monsoon Rainfall",
+        "authors": "Nachiketa Acharya, KyleJosephChen Hall",
+        "published": "2023-3-29",
+        "citations": 2,
+        "abstract": "Due to the uncertainty associated with Indian summer monsoon rainfall (ISMR), probabilistic seasonal forecasts which can convey the inherent uncertainty of ISMR are more useful to the user community than a single deterministic forecast. While such probabilistic seasonal forecasts can be produced from general circulation model (GCM) output, one single model generally does not represent all sources of error. The probabilistic multi model ensemble (PMME) is a well-accepted way to improve on the skill of probabilistic forecasts by individual GCMs. PMME can be constructed with one of two approaches: non-parametric, or parametric with respect to the occurrence of three categories of seasonal total rainfall—below, near, and above normal as defined by the climatological base period. Both the methods have their limitations. Non-parametric PMME use a smaller ensemble size which results in overconfident forecasts, and parametric PMME make the inaccurate assumption that total rainfall follows a Gaussian distribution. To avoid these problems, we propose the use of the Extreme Learning Machine (ELM), a novel machine learning (ML) approach, to construct PMME for ISMR forecasting. ELM is a state-of-the-art generalized form of single-hidden-layer feed-forward neural network. However, since the traditional ELM network only produces a deterministic outcome, we use a modified version of ELM called Probabilistic Output Extreme Learning Machine (PO-ELM). PO-ELM uses sigmoid additive neurons and slightly different linear programming to make probabilistic predictions. The performance of such PO-ELM based PMME is assessed rigorously in terms of Generalized Receiver Operating Characteristic scores and reliability diagrams over a 37 years period spanning from 1982 to 2018 following a leave-three-year-out cross-validation scheme. It is demonstrated that our new strategy for PMME based on ML is capable of producing skillful MME forecasts over large regions of India.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54302/mausam.v74i2.5997"
+    },
+    {
+        "id": 16907,
+        "title": "Better Together: Promoting Cooperative Learning in Physical Education",
+        "authors": "Mijoo Kim, Seungyeon Park",
+        "published": "2024-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/08924562.2024.2304177"
+    },
+    {
+        "id": 16908,
+        "title": "EN-Beats: A Novel Ensemble Learning-Based Method for Multiple Resource Predictions in Cloud",
+        "authors": "Ming Chen, Maria Rodriguez Read, Patricia Arroba, Rajkumar Buyya",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cloud60044.2023.00025"
+    },
+    {
+        "id": 16909,
+        "title": "Machine-learning-based predictions of imprinting quality using ensemble and non-linear regression algorithms",
+        "authors": "Bita Yarahmadi, Seyed Majid Hashemianzadeh, Seyed Mohammad-Reza Milani Hosseini",
+        "published": "2023-7-26",
+        "citations": 2,
+        "abstract": "AbstractThe molecularly imprinted polymers are artificial polymers that, during the synthesis, create specific sites for a definite purpose. These polymers due to their characteristics such as stability, easy of synthesis, reproducibility, reusability, high accuracy, and selectivity have many applications. However, the variety of the functional monomers, templates, solvents, and synthesis conditions like pH, temperature, the rate of stirring, and time, limit the selectivity of imprinting. The Practical optimization of the synthetic conditions has many drawbacks, including chemical compound usage, equipment requirements, and time costs. The use of machine learning (ML) for the prediction of the imprinting factor (IF), which indicates the quality of imprinting is a very interesting idea to overcome these problems. The ML has many advantages, for example a lack of human error, high accuracy, high repeatability, and prediction of a large amount of data in the minimum time. In this research, ML was used to predict the IF using non-linear regression algorithms, including classification and regression tree, support vector regression, and k-nearest neighbors, and ensemble algorithms, like gradient boosting (GB), random forest, and extra trees. The data sets were obtained practically in the laboratory, and inputs, included pH, the type of the template, the type of the monomer, solvent, the distribution coefficient of the MIP (KMIP), and the distribution coefficient of the non-imprinted polymer (KNIP). The mutual information feature selection method was used to select the important features affecting the IF. The results showed that the GB algorithm had the best performance in predicting the IF, and using this algorithm, the maximum R2 value (R2 = 0.871), and the minimum mean absolute error (MAE = − 0.982), and mean square error were obtained (MSE = − 2.303).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-39374-1"
+    },
+    {
+        "id": 16910,
+        "title": "Enhancing bank marketing strategies with ensemble learning: Empirical analysis",
+        "authors": "Xing Tang, Yusi Zhu",
+        "published": "2024-1-11",
+        "citations": 0,
+        "abstract": "In order to enhance market share and competitiveness, large banks are increasingly focusing on promoting marketing strategies. However, the traditional bank marketing strategy often leads to the homogenization of customer demand, making it challenging to distinguish among various products. To address this issue, this paper presents a customer demand learning model based on financial datasets and optimizes the distribution model of bank big data channels through induction to rectify the imbalance in bank customer transaction data. By comparing the prediction models of random forest model and support vector machine (SVM), this paper analyzes the ability of the prediction model based on ensemble learning to significantly enhance the market segmentation of e-commerce banks. The empirical results reveal that the accuracy of random forest model reaches 92%, while the accuracy of SVM model reaches 87%. This indicates that the ensemble learning model has higher accuracy and forecasting ability than the single model. It enables the bank marketing system to implement targeted marketing, effectively maintain the relationship between customers and banks, and significantly improve the success probability of product marketing. Meanwhile, the marketing model based on ensemble learning has achieved a sales growth rate of 20% and improved customer satisfaction by 30%. This demonstrates that the implementation of the ensemble learning model has also significantly elevated the overall marketing level of bank e-commerce services. Therefore, this paper offers valuable academic guidance for bank marketing decision-making and holds important academic and practical significance in predicting bank customer demand and optimizing product marketing strategy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0294759"
+    },
+    {
+        "id": 16911,
+        "title": "Supplemental Material for Does Testing Potentiate New Learning Because It Enables Learners to Use Better Strategies?",
+        "authors": "",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/xlm0001233.supp"
+    },
+    {
+        "id": 16912,
+        "title": "A hybrid ensemble learning approach for indoor thermal comfort predictions utilizing the ASHRAE RP-884 database",
+        "authors": "Xue Feng, Eryan Bin Zainudin, Hong Wen Wong, King Jet Tseng",
+        "published": "2023-7",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.enbuild.2023.113083"
+    },
+    {
+        "id": 16913,
+        "title": "Using Ultrasound Image Augmentation and Ensemble Predictions to Prevent Machine-Learning Model Overfitting",
+        "authors": "Eric J. Snider, Sofia I. Hernandez-Torres, Ryan Hennessey",
+        "published": "2023-1-23",
+        "citations": 5,
+        "abstract": "Deep learning predictive models have the potential to simplify and automate medical imaging diagnostics by lowering the skill threshold for image interpretation. However, this requires predictive models that are generalized to handle subject variability as seen clinically. Here, we highlight methods to improve test accuracy of an image classifier model for shrapnel identification using tissue phantom image sets. Using a previously developed image classifier neural network—termed ShrapML—blind test accuracy was less than 70% and was variable depending on the training/test data setup, as determined by a leave one subject out (LOSO) holdout methodology. Introduction of affine transformations for image augmentation or MixUp methodologies to generate additional training sets improved model performance and overall accuracy improved to 75%. Further improvements were made by aggregating predictions across five LOSO holdouts. This was done by bagging confidences or predictions from all LOSOs or the top-3 LOSO confidence models for each image prediction. Top-3 LOSO confidence bagging performed best, with test accuracy improved to greater than 85% accuracy for two different blind tissue phantoms. This was confirmed by gradient-weighted class activation mapping to highlight that the image classifier was tracking shrapnel in the image sets. Overall, data augmentation and ensemble prediction approaches were suitable for creating more generalized predictive models for ultrasound image analysis, a critical step for real-time diagnostic deployment.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/diagnostics13030417"
+    },
+    {
+        "id": 16914,
+        "title": "“We got so much better at reading each other’s energy”: Knowing, acting, and attuning as an improv ensemble",
+        "authors": "Kevin Leander, Laura Carter-Stone, Emma Supica",
+        "published": "2023-3-15",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10508406.2022.2154157"
+    },
+    {
+        "id": 16915,
+        "title": "Ensemble flood predictions for River Thames under climate change",
+        "authors": "Yurui Fan",
+        "published": "2024-1-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1360/nso/20230027"
+    },
+    {
+        "id": 16916,
+        "title": "Toward Better Pedestrian Trajectory Predictions: The Role of Density and Time-to-Collision in Hybrid Deep-Learning Algorithms",
+        "authors": "Raphael Korbmacher, Antoine Tordeux",
+        "published": "2024-4-8",
+        "citations": 0,
+        "abstract": "Predicting human trajectories poses a significant challenge due to the complex interplay of pedestrian behavior, which is influenced by environmental layout and interpersonal dynamics. This complexity is further compounded by variations in scene density. To address this, we introduce a novel dataset from the Festival of Lights in Lyon 2022, characterized by a wide range of densities (0.2–2.2 ped/m2). Our analysis demonstrates that density-based classification of data can significantly enhance the accuracy of predictive algorithms. We propose an innovative two-stage processing approach, surpassing current state-of-the-art methods in performance. Additionally, we utilize a collision-based error metric to better account for collisions in trajectory predictions. Our findings indicate that the effectiveness of this error metric is density-dependent, offering prediction insights. This study not only advances our understanding of human trajectory prediction in dense environments, but also presents a methodological framework for integrating density considerations into predictive modeling, thereby improving algorithmic performance and collision avoidance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/s24072356"
+    },
+    {
+        "id": 16917,
+        "title": "USING GENETIC PROGRAMMING FOR ENSEMBLE PREDICTIONS OF WAVE SETUP",
+        "authors": "CHARLINE DALINGHAUS, GIOVANNI COCO, PABLO HIGUERA",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/9789811275135_0177"
+    },
+    {
+        "id": 16918,
+        "title": "Better Together: Ensemble Learning for Earthquake Detection and Phase Picking",
+        "authors": "Congcong Yuan, Yiyu Ni, Youzuo Lin, Marine Denolle",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tgrs.2023.3320148"
+    },
+    {
+        "id": 16919,
+        "title": "Improved patient mortality predictions in emergency departments with deep learning data-synthesis and ensemble models",
+        "authors": "Byounghoon Son, Jinwoo Myung, Younghwan Shin, Sangdo Kim, Sung Hyun Kim, Jong-Moon Chung, Jiyoung Noh, Junho Cho, Hyun Soo Chung",
+        "published": "2023-9-12",
+        "citations": 3,
+        "abstract": "AbstractThe triage process in emergency departments (EDs) relies on the subjective assessment of medical practitioners, making it unreliable in certain aspects. There is a need for a more accurate and objective algorithm to determine the urgency of patients. This paper explores the application of advanced data-synthesis algorithms, machine learning (ML) algorithms, and ensemble models to predict patient mortality. Patients predicted to be at risk of mortality are in a highly critical condition, signifying an urgent need for immediate medical intervention. This paper aims to determine the most effective method for predicting mortality by enhancing the F1 score while maintaining high area under the receiver operating characteristic curve (AUC) score. This study used a dataset of 7325 patients who visited the Yonsei Severance Hospital’s ED, located in Seoul, South Korea. The patients were divided into two groups: patients who deceased in the ED and patients who didn’t. Various data-synthesis techniques, such as SMOTE, ADASYN, CTGAN, TVAE, CopulaGAN, and Gaussian Copula, were deployed to generate synthetic patient data. Twenty two ML models were then utilized, including tree-based algorithms like Decision tree, AdaBoost, LightGBM, CatBoost, XGBoost, NGBoost, TabNet, which are deep neural network algorithms, and statistical algorithms such as Support Vector Machine, Logistic Regression, Random Forest, k-nearest neighbors, and Gaussian Naive Bayes, as well as Ensemble Models which use the results from the ML models. Based on 21 patient information features used in the pandemic influenza triage algorithm (PITA), the models explained previously were applied to aim for the prediction of patient mortality. In evaluating ML algorithms using an imbalanced medical dataset, conventional metrics like accuracy scores or AUC can be misleading. This paper emphasizes the importance of using the F1 score as the primary performance measure, focusing on recall and specificity in detecting patient mortality. The highest-ranked model for predicting mortality utilized the Gaussian Copula data-synthesis technique and the CatBoost classifier, achieving an AUC of 0.9731 and an F1 score of 0.7059. These findings highlight the effectiveness of machine learning algorithms and data-synthesis techniques in improving the prediction performance of mortality in EDs.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-023-41544-0"
+    },
+    {
+        "id": 16920,
+        "title": "The effectiveness of machine learning‐based multi‐model ensemble predictions of <scp>CMIP6</scp> in Western Ghats of India",
+        "authors": "Swathi Shetty, Pruthviraj Umesh, Amba Shetty",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "AbstractThe popularity of cutting‐edge machine learning ensemble approaches has solved many climate change research and prediction issues. The six top‐performing GCMs obtained from Technique for Order Preference by Similarity to an Ideal Solution were ensembled using seven machine learning ensemble methods such as Random Forest Regressor (RFR), Support Vector Regressor (SVR), Linear Regression (LR), Adaptive Boosting Regressor (AdaBoost), Extreme Gradient Boosting Regressor (XGBR), Extra Tree Regressor (ETR), Multi‐Layer Perceptron neural network (MLP) and simple Arithmetic Mean (AM) over the diverse geo‐climatic basins. Precipitation is best simulated by EC‐Earth3 and BCC‐CSM2‐MR. Maximum temperature by MPI‐ESM1‐2‐HR, EC‐Earth3‐Veg, INM‐CM5‐0 and MPI‐ESM1‐2‐LR. Minimum temperature by INM‐CM5‐0 and MPI‐ESM1‐2‐LR model. The MME of XGBR and RFR stand out for their superior performance across all six basins, with exceptional performance over the per‐humid basins, while AdaBoost, SVR and the AM underperform. Examining the interseasonal variability of the simulated MMEs over the basins highlights the reliability of these MME models. The anticipated change in maximum and minimum temperature in the SSP245 and SSP585 in the future horizon corroborates the undeniable rise in temperature by all the MMEs with a dramatic change in future temperature in AM and AdaBoost in precipitation with a factor of two rises in the far future over the recent past. Though climate change is expected to increase precipitation, atmospheric stabilization over the Ghats will affect the spatiotemporal distribution of precipitation. We recommend a comprehensive testing and validation approach to generate ensembles in regional investigations involving complicated and diverse precipitation mechanisms.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/joc.8131"
+    },
+    {
+        "id": 16921,
+        "title": "Better accounting of droughts in long-range inflow predictions with TULIP",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.horsley"
+    },
+    {
+        "id": 16922,
+        "title": "FastRealBoostBins: An ensemble classifier for fast predictions implemented in Python via numba.jit and numba.cuda",
+        "authors": "Przemysław Klęsk",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.softx.2024.101644"
+    },
+    {
+        "id": 16923,
+        "title": "Optimizable Ensemble Regression for Arousal and Valence Predictions from Visual Features",
+        "authors": "Itaf Omar Joudeh, Ana-Maria Cretu, Stéphane Bouchard",
+        "published": "2023-11-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/ecsa-10-16009"
+    },
+    {
+        "id": 16924,
+        "title": "AI-driven ensemble three machine learning to enhance digital marketing strategies in the food delivery business",
+        "authors": "Chairote Yaiprasert, Achmad Nizar Hidayanto",
+        "published": "2023-5",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.iswa.2023.200235"
+    },
+    {
+        "id": 16925,
+        "title": "Correction of sub-seasonal predictions of summer precipitation in Southwest China based on the Transformer-Seq2Seq-DNN ensemble deep learning model",
+        "authors": "Qu Guo, Fei Luo, Hongyu Tang, Yonghua Li",
+        "published": "2023-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00704-023-04439-8"
+    },
+    {
+        "id": 16926,
+        "title": "More is not always better? Vocabulary learning strategies instruction in online environment",
+        "authors": "Chin-Hsi Lin, Keyi Zhou, Fangzhou Jin, Wai Ming Cheung",
+        "published": "2024-3-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/10494820.2024.2324333"
+    },
+    {
+        "id": 16927,
+        "title": "Does testing potentiate new learning because it enables learners to use better strategies?",
+        "authors": "Dahwi Ahn, Jason C. K. Chan",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1037/xlm0001233"
+    },
+    {
+        "id": 16928,
+        "title": "Recurrent Neural Networks With More Flexible Memory: Better Predictions Than Rough Volatility",
+        "authors": "Damien Challet, Vincent Ragel",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4514331"
+    },
+    {
+        "id": 16929,
+        "title": "AbLEF: Antibody Language Ensemble Fusion for thermodynamically empowered property predictions",
+        "authors": "Zachary A Rollins, Talal Widatalla, Andrew Waight, Alan C Cheng, Essam Metwally",
+        "published": "2024-4-16",
+        "citations": 0,
+        "abstract": "Abstract\n\nMotivation\nPre-trained protein language and/or structural models are often fine-tuned on drug development properties (ie, developability properties) to accelerate drug discovery initiatives. However, these models generally rely on a single structural conformation and/or a single sequence as a molecular representation. We present a physics-based model whereby 3D conformational ensemble representations are fused by a transformer-based architecture and concatenated to a language representation to predict antibody protein properties. AbLEF enables the direct infusion of thermodynamic information into latent space and this enhances property prediction by explicitly infusing dynamic molecular behavior that occurs during experimental measurement.\n\n\nResults\nWe showcase the AbLEF model on two developability properties: hydrophobic interaction chromatography retention time (HIC-RT) and temperature of aggregation (Tagg). We find that (1) 3D conformational ensembles that are generated from molecular simulation can further improve antibody property prediction for small datasets, (2) the performance benefit from 3D conformational ensembles matches shallow machine learning methods in the small data regime, and (3) fine-tuned large protein language models can match smaller antibody-specific language models at predicting antibody properties.\n\n\nAvailability and implementation\nAbLEF codebase is available at https://github.com/merck/AbLEF.\n\n\nSupplementary information\nSupplementary data are available at Bioinformatics online.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btae268"
+    },
+    {
+        "id": 16930,
+        "title": "High-Dimensional Ensemble Learning Classification: An Ensemble Learning Classification Algorithm Based on High-Dimensional Feature Space Reconstruction",
+        "authors": "Miao Zhao, Ning Ye",
+        "published": "2024-2-27",
+        "citations": 0,
+        "abstract": "When performing classification tasks on high-dimensional data, traditional machine learning algorithms often fail to filter out valid information in the features adequately, leading to low levels of classification accuracy. Therefore, this paper explores the high-dimensional data from both the data feature dimension and the model ensemble dimension. We propose a high-dimensional ensemble learning classification algorithm focusing on feature space reconstruction and classifier ensemble, called the HDELC algorithm. First, the algorithm considers feature space reconstruction and then generates a feature space reconstruction matrix. It effectively achieves feature selection and reconstruction for high-dimensional data. An optimal feature space is generated for the subsequent ensemble of the classifier, which enhances the representativeness of the feature space. Second, we recursively determine the number of classifiers and the number of feature subspaces in the ensemble model. Different classifiers in the ensemble system are assigned mutually exclusive non-intersecting feature subspaces for model training. The experimental results show that the HDELC algorithm has advantages compared with most high-dimensional datasets due to its more efficient feature space ensemble capability and relatively reliable ensemble operation performance. The HDELC algorithm makes it possible to solve the classification problem for high-dimensional data effectively and has vital research and application value.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app14051956"
+    },
+    {
+        "id": 16931,
+        "title": "Ensemble of best linear unbiased predictor, machine learning and deep learning models predict maize yield better than each model alone",
+        "authors": "Daniel R Kick, Jacob D Washburn",
+        "published": "2023-7-1",
+        "citations": 0,
+        "abstract": "Abstract\nPredicting phenotypes accurately from genomic, environment and management factors is key to accelerating the development of novel cultivars with desirable traits. Inclusion of management and environmental factors enables in silico studies to predict the effect of specific management interventions or future climates. Despite the value such models would confer, much work remains to improve the accuracy of phenotypic predictions. Rather than advocate for a single specific modelling strategy, here we demonstrate within large multi-environment and multi-genotype maize trials that combining predictions from disparate models using simple ensemble approaches most often results in better accuracy than using any one of the models on their own. We investigated various ensemble combinations of different model types, model numbers and model weighting schemes to determine the accuracy of each. We find that ensembling generally improves performance even when combining only two models. The number and type of models included alter accuracy with improvements diminishing as the number of models included increases. Using a genetic algorithm to optimize ensemble composition reveals that, when weighted by the inverse of each model’s expected error, a combination of best linear unbiased predictor, linear fixed effects, deep learning, random forest and support vector regression models performed best on this dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/insilicoplants/diad015"
+    },
+    {
+        "id": 16932,
+        "title": "Diagnosing the Consequence of Uncertain Nutrient Deficiency, and its Sectionalization in Oryza Sativa Using Ensemble Learning Strategies",
+        "authors": "R. Sethumadhavi, M. A. Saleemdurai",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": " Nutrition is an essential component in agriculture worldwide to assure high and consistent crop yields. The leaves frequently present signs of nutritional deficiencies in rice crops. A nutritional deficiency in the rice plant can also be diagnosed based on the leaf color and form. Image categorization is an effective and rapid method for analyzing such conditions. However, despite significant success in image classification, Ensemble Learning (EL) has remained elusive in paddy nutrition analysis. Ensemble learning is a technique for deliberately constructing and combining numerous classifier models to tackle a specific computational issue. In this work, we investigate the preciseness of several uncertain deep learning algorithms to detect nutritional deficits in rice leaves. Through soil and agricultural studies, around 2000 images of rice plant leaves were collected encompassing complete nutritional and about five divisions of nutrient deficiencies. The image proportion for learning via training, validation via evaluation, and testing phase were split into 4: 2: 2. For this, an EL method is chosen for the diagnosis and classification of nutritional deficits. Here, EL procedures are considered as a hybrid classification model that integrates CapsNET (Capsule network) and GCN (Graph Convolutional Neural) networks to evaluate the classification. The hybrid classification effectiveness was verified through color and lesion features which were compared with standard machine learning techniques. This research shows that EL strategies can effectively detect nutritional deficits in paddy. Furthermore, the suggested hybrid classification model achieved a better accuracy rate, along with sensitivity and specificity rates of 97.13%, 97.22%, and 96.47% correspondingly. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s1752890922420028"
+    },
+    {
+        "id": 16933,
+        "title": "AIPPT: Predicts anti-inflammatory peptides using the most characteristic subset of bases and sequences by stacking ensemble learning strategies",
+        "authors": "Ruiqi Liu, Xiuhao Fu, Shankai Yan, Zilong Zhang, Feifei Cui",
+        "published": "2023-12-5",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10385565"
+    },
+    {
+        "id": 16934,
+        "title": "Biological Activity Predictions of Ligands Based on Hybrid Molecular Fingerprinting and Ensemble Learning",
+        "authors": "Mengshan Li, Ming Zeng, Hang Zhang, Huijie Chen, Lixin Guan",
+        "published": "2023-2-14",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1021/acsomega.2c06944"
+    },
+    {
+        "id": 16935,
+        "title": "Optimization of Cutting Parameters and Result Predictions with Response Surface Methodology, Individual and Ensemble Machine Learning Algorithms in End Milling of AISI 321",
+        "authors": "Deniz Demircioglu Diren, Neslihan Ozsoy, Murat Ozsoy, Huseyin Pehlivan",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13369-023-07642-x"
+    },
+    {
+        "id": 16936,
+        "title": "3How do constructivism learning environments generate better motivation and learning strategies? The Design Science Approach",
+        "authors": "Hai-Ninh Do, Bich Ngoc Do, Minh Hue Nguyen",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2023.e22862"
+    },
+    {
+        "id": 16937,
+        "title": "An ensemble self-learning framework combined with dynamic model selection and divide-conquer strategies for carbon emissions trading price forecasting",
+        "authors": "Rui Yang, Hui Liu, Yanfei Li",
+        "published": "2023-8",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.chaos.2023.113692"
+    },
+    {
+        "id": 16938,
+        "title": "How Far Can We Trust the Predictions of Learning Analytics Systems?",
+        "authors": "Amal Ben Soussia, Anne Boyer",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012057800003470"
+    },
+    {
+        "id": 16939,
+        "title": "Dynamic weighted ensemble for diarrhoea incidence predictions",
+        "authors": "Thanh Duy Do, Thuan Dinh Nguyen, Viet Cuong Ta, Duong Tran Anh, Tuyet-Hanh Tran Thi, Diep Phan, Son T. Mai",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s10994-023-06465-z"
+    },
+    {
+        "id": 16940,
+        "title": "Tree-Based Ensemble Learning Models for Wall Temperature Predictions in Post-Critical Heat Flux Flow Regimes at Subcooled and Low-Quality Conditions",
+        "authors": "Qingqing Liu, Yang Liu, Adam Burak, Joseph Kelly, Stephen Bajorek, Xiaodong Sun",
+        "published": "2023-4-1",
+        "citations": 0,
+        "abstract": "Abstract\nAccurately predicting post-critical heat flux (CHF) heat transfer is an important but challenging task in water-cooled reactor design and safety analysis. Although numerous heat transfer correlations have been developed to predict post-CHF heat transfer, these correlations are only applicable to relatively narrow ranges of flow conditions due to the complex physical nature of the post-CHF heat transfer regimes. In this paper, a large quantity of experimental data is collected and summarized from the literature for steady-state subcooled and low-quality film boiling regimes with water as the working fluid in vertical tubular test sections. A low-quality water film boiling (LWFB) database is consolidated with a total of 22,813 experimental data points, which cover a wide flow range of the system pressure from 0.1 to 9.0 MPa, mass flux from 25 to 2750 kg/m2 s, and inlet subcooling from 1 to 70 °C. Two machine learning (ML) models, based on random forest (RF) and gradient boosted decision tree (GBDT), are trained and validated to predict wall temperatures in post-CHF flow regimes. The trained ML models demonstrate significantly improved accuracies compared to conventional empirical correlations. To further evaluate the performance of these two ML models from a statistical perspective, three criteria are investigated and three metrics are calculated to quantitatively assess the accuracy of these two ML models. For the full LWFB database, the root-mean-square errors between the measured and predicted wall temperatures by the GBDT and RF models are 5.7% and 6.2%, respectively, confirming the accuracy of the two ML models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1115/1.4056763"
+    },
+    {
+        "id": 16941,
+        "title": "Developing smart air purifier control strategies for better IAQ and energy efficiency using reinforcement learning",
+        "authors": "Wenzhe Shang, Junjie Liu, Congcong Wang, Jiayu Li, Xilei Dai",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.buildenv.2023.110556"
+    },
+    {
+        "id": 16942,
+        "title": "Intelligent Ultrasound Imaging for Enhanced Breast Cancer Diagnosis: Ensemble Transfer Learning Strategies",
+        "authors": "Kuncham Sreenivasa Rao, Panduranga Vital Terlapu, D. Jayaram, Kalidindi Kishore Raju, G. Kiran Kumar, Rambabu Pemula, M. Venu Gopalachari, S. Rakesh",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2024.3358448"
+    },
+    {
+        "id": 16943,
+        "title": "Analyzing chloride diffusion for durability predictions of concrete using contemporary machine learning strategies",
+        "authors": "HuiPing Zhang, XiaoChao Li, Muhammad Nasir Amin, Ahmed A. Alawi Al-Naghi, Siyab Ul Arifeen, Fadi Althoey, Ayaz Ahmad",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mtcomm.2024.108543"
+    },
+    {
+        "id": 16944,
+        "title": "Can Ensemble Learning Approaches for Offside Detection Work?",
+        "authors": "Kurt Buttigieg, David Suda, Mark Caruana",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012159800003587"
+    },
+    {
+        "id": 16945,
+        "title": "Mastering Commercial Market Predictions: A Stacked Ensemble Approach with Credit Scoring Models",
+        "authors": "R. Ramesh, M. Jeyakarthic",
+        "published": "2024-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iitcee59897.2024.10467543"
+    },
+    {
+        "id": 16946,
+        "title": "A Computational Analysis of Drug-Expanse Predictions from Biomaterials Using Ensemble Model for Healthcare Applications",
+        "authors": "G. Sasipriya, B. Lavanya",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ised59382.2023.10444532"
+    },
+    {
+        "id": 16947,
+        "title": "Predicting Lung Cancer Survivability: A Machine Learning Ensemble Method On Seer Data",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 1,
+        "abstract": "Ensemble methods are powerful techniques used in machine learning to improve the prediction accuracy of classifier learning systems. In this study, different ensemble learning methods for lung cancer survival prediction were evaluated on the Surveillance, Epidemiology and End Results (SEER) dataset. Data were preprocessed in several steps before applying classification models. The popular ensemble methods Bagging, Adaboost and three classification algorithms, K-Nearest Neighbours, Decision Tree and Neural Networks as base classifiers were evaluated for lung cancer survival prediction. The results empirically showed that ensemble methods are able to evaluate the performance of their base classifiers and they are appropriate methods for analysis of cancer survival.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33140/ijcrt.08.04.03"
+    },
+    {
+        "id": 16948,
+        "title": "Ensemble Learning for Cough-Based Subject-Independent COVID-19 Detection",
+        "authors": "Vincenzo Conversano, Stavros Ntalampiras",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011651700003411"
+    },
+    {
+        "id": 16949,
+        "title": "ABPET: An AutomaticSoftware Bug Prediction Using Ensemble Learning Technique",
+        "authors": "",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.16.nq880461"
+    },
+    {
+        "id": 16950,
+        "title": "How Developmental Psychology Strategies Can Help the In-Class Assignments More Interesting in Order to Help Elementary School Students Get Better Grades in Learning Mandarin?",
+        "authors": "Ziyi Zhou",
+        "published": "2023-1-13",
+        "citations": 0,
+        "abstract": "Action research is a method of research that is being conducted to gain knowledge of a certain study or theory. It often requires the person who performs the research to take action and interact with the participants during the research process. It also includes a series of experiments and a conclusion at the end of the research. Using developmental psychology strategies when designing the in-class worksheets for Mandarin class will make the class time more interesting. Observation has shown that It will also increase the completion rate of the in-class worksheets. Therefore, to help elementary school students get better grades in learning mandarin.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/ehss.v7i.4010"
+    },
+    {
+        "id": 16951,
+        "title": "An Ensemble Deep Learning Model for Provincial Load Forecasting Based on Reduced Dimensional Clustering and Decomposition Strategies",
+        "authors": "Kaiyan Wang, Haodong Du, Jiao Wang, Rong Jia, Zhenyu Zong",
+        "published": "2023-6-20",
+        "citations": 0,
+        "abstract": "The accurate prediction of short-term load is crucial for the grid dispatching department in developing power generation plans, regulating unit output, and minimizing economic losses. However, due to the variability in customers’ electricity consumption behaviour and the randomness of load fluctuations, it is challenging to achieve high prediction accuracy. To address this issue, we propose an ensemble deep learning model that utilizes reduced dimensional clustering and decomposition strategies to mitigate large prediction errors caused by non-linearity and unsteadiness of load sequences. The proposed model consists of three steps: Firstly, the selected load features are dimensionally reduced using singular value decomposition (SVD), and the principal features are used for clustering different loads. Secondly, variable mode decomposition (VMD) is applied to decompose the total load of each class into intrinsic mode functions of different frequencies. Finally, an ensemble deep learning model is developed by combining the strengths of LSTM and CNN-GRU deep learning algorithms to achieve accurate load forecasting. To validate the effectiveness of our proposed model, we employ actual residential electricity load data from a province in northwest China. The results demonstrate that the proposed algorithm performs better than existing methods in terms of predictive accuracy.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/math11122786"
+    },
+    {
+        "id": 16952,
+        "title": "Federated Ensemble YOLOv5 – A Better Generalized Object Detection Algorithm",
+        "authors": "Vinit Hegiste, Tatjana Legler, Martin Ruskowski",
+        "published": "2023-9-18",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/fmec59375.2023.10305958"
+    },
+    {
+        "id": 16953,
+        "title": "A Game Theoretic Approach Based on Differential Evolution to Ensemble Learning for Classification",
+        "authors": "Rodica Lung",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012192700003595"
+    },
+    {
+        "id": 16954,
+        "title": "An Ensemble Approach to Short-Term Wind Speed Predictions Using Stochastic Methods, Wavelets and Gradient Boosting Decision Trees",
+        "authors": "Khathutshelo Steven Sivhugwana, Edmore Ranganai",
+        "published": "2024-2-4",
+        "citations": 0,
+        "abstract": "Considering that wind power is proportional to the cube of the wind speed variable, which is highly random, complex power grid management tasks have arisen as a result. Wind speed prediction in the short term is crucial for load dispatch planning and load increment/decrement decisions. The chaotic intermittency of speed is often characterised by inherent linear and nonlinear patterns, as well as nonstationary behaviour; thus, it is generally difficult to predict it accurately and efficiently using a single linear or nonlinear model. In this study, wavelet transform (WT), autoregressive integrated moving average (ARIMA), extreme gradient boosting trees (XGBoost), and support vector regression (SVR) are combined to predict high-resolution short-term wind speeds obtained from three Southern African Universities Radiometric Network (SAURAN) stations: Richtersveld (RVD); Central University of Technology (CUT); and University of Pretoria (UPR). This hybrid model is termed WT-ARIMA-XGBoost-SVR. In the proposed hybrid, the ARIMA component is employed to capture linearity, while XGBoost captures nonlinearity using the wavelet decomposed subseries from the residuals as input features. Finally, the SVR model reconciles linear and nonlinear predictions. We evaluated the WT-ARIMA-XGBoost-SVR’s efficacy against ARIMA and two other hybrid models that substitute XGBoost with a light gradient boosting machine (LGB) component to form a WT-ARIMA-LGB-SVR hybrid model and a stochastic gradient boosting machine (SGB) to form a WT-ARIMA-SGB-SVR hybrid model. Based on mean absolute error (MAE), mean absolute percentage error (MAPE), root mean square error (RMSE), coefficient of determination (R2), and prediction interval normalised average width (PINAW), the proposed hybrid model provided more accurate and reliable predictions with less uncertainty for all three datasets. This study is critical for improving wind speed prediction reliability to ensure the development of effective wind power management strategies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/wind4010003"
+    },
+    {
+        "id": 16955,
+        "title": "Malignant Melanoma Classification using Ensemble Machine Learning Techniques",
+        "authors": "",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2019.17.03.2011"
+    },
+    {
+        "id": 16956,
+        "title": "To Play Better and Increase Fun, Manage Expectations: A Golf Example",
+        "authors": "Bradford Strand",
+        "published": "2023-7-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/08924562.2023.2221709"
+    },
+    {
+        "id": 16957,
+        "title": "Efficient Deep Learning Ensemble for Skin Lesion Classification",
+        "authors": "David Gaviria, Md Saker, Petia Radeva",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011816100003417"
+    },
+    {
+        "id": 16958,
+        "title": "Cost-Aware Ensemble Learning Approach for Overcoming Noise in Labeled Data",
+        "authors": "Abdulrahman Gharawi, Jumana Alsubhi, Lakshmish Ramaswamy",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011675200003393"
+    },
+    {
+        "id": 16959,
+        "title": "Melanoma Classification Through Deep Ensemble Learning and Explainable AI",
+        "authors": "Wadduwage Perera, Abm Islam, Van Pham, Min An",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012575400003657"
+    },
+    {
+        "id": 16960,
+        "title": "Machine-learning model makes predictions about network biology",
+        "authors": "",
+        "published": "2023-5-31",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/d41586-023-01504-0"
+    },
+    {
+        "id": 16961,
+        "title": "Adapting JULES for improved hydrological predictions in Australia: Challenges, strategies and future plans",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.tian575"
+    },
+    {
+        "id": 16962,
+        "title": "Expanded ensemble predictions of water-toluene partition coefficients for small drug-like molecules",
+        "authors": "Steven R. Goold, Robert M. Raddi, Vincent A. Voelz",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bpj.2023.11.2584"
+    },
+    {
+        "id": 16963,
+        "title": "4mCBERT: A computing tool for the identification of DNA N4-methylcytosine sites by sequence- and chemical-derived information based on ensemble learning strategies",
+        "authors": "Sen Yang, Zexi Yang, Jun Yang",
+        "published": "2023-3",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijbiomac.2023.123180"
+    },
+    {
+        "id": 16964,
+        "title": "Ensemble forecaster based on the combination of time-frequency analysis and machine learning strategies for very short-term wind speed prediction",
+        "authors": "Fermín Rodríguez, Sandra Alonso-Pérez, Ignacio Sánchez-Guardamino, Ainhoa Galarza",
+        "published": "2023-1",
+        "citations": 11,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.epsr.2022.108863"
+    },
+    {
+        "id": 16965,
+        "title": "WiSARD-based Ensemble Learning",
+        "authors": "Leopoldo Lusquino Filho, Felipe França, Priscila Lima",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14428/esann/2023.es2023-76"
+    },
+    {
+        "id": 16966,
+        "title": "Together for better care: lutter ensemble contre la pénurie de personnel qualifié",
+        "authors": "Cline Dsire Fh",
+        "published": "2023-8-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4414/phc-f.2023.10726"
+    },
+    {
+        "id": 16967,
+        "title": "Random Forest Ensemble-Based Predictions of On-Road Vehicular Emissions and Fuel Consumption in Developing Urban Areas",
+        "authors": "Muhammed A. Hassan, Hindawi Salem, Nadjem Bailek, Ozgur Kisi",
+        "published": "2023-1-12",
+        "citations": 4,
+        "abstract": "The transportation sector is one of the primary sources of air pollutants in megacities. Strict regulations of newly added vehicles to the local market require precise prediction models of their fuel consumption (FC) and emission rates (ERs). Simple empirical and complex analytical models are widely used in the literature, but they are limited due to their low prediction accuracy and high computational costs. The public literature shows a significant lack of machine learning applications related to onboard vehicular emissions under real-world driving conditions due to the immense costs of required measurements, especially in developing countries. This work introduces random forest (RF) ensemble models, for the urban areas of Greater Cairo, a metropolitan city in Egypt, based on large datasets of precise measurements using 87 representative passenger cars and 10 typical driving routes. Five RF models are developed for predicting FC, as well as CO2, CO, NOx, and hydrocarbon (HC) ERs. The results demonstrate the reliability of RF models in predicting the first four variables, with up to 97% of the data variance being explained. Only the HC model is found less reliable due to the diversity of considered vehicle models. The relative influences of different model inputs are demonstrated. The FC is the most influential input (relative importance of >23%) for CO2, CO, and NOx predictions, followed by the engine speed and the vehicle category. Finally, it is demonstrated that the prediction accuracy of all models can be further improved by up to 97.8% by limiting the training dataset to a single-vehicle category.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/su15021503"
+    },
+    {
+        "id": 16968,
+        "title": "Advancing Alpha-Thalassemia Carrier Screening for Better Predictions Using Explainable AI",
+        "authors": "Aditya H Meti, B. Uma Maheswari, Aditya Vijjapu",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/c2i659362.2023.10430520"
+    },
+    {
+        "id": 16969,
+        "title": "Improving predictions: Enhancing in-hospital mortality forecast for ICU patients with sepsis-induced coagulopathy using a stacking ensemble model",
+        "authors": "Xuhui Liu, Hao Niu, Jiahua Peng",
+        "published": "2024-4-5",
+        "citations": 0,
+        "abstract": "The incidence of sepsis-induced coagulopathy (SIC) is high, leading to increased mortality rates and prolonged hospitalization and intensive care unit (ICU) stays. Early identification of SIC patients at risk of in-hospital mortality can improve patient prognosis. The objective of this study is to develop and validate machine learning (ML) models to dynamically predict in-hospital mortality risk in SIC patients. A ML model is established based on the Medical Information Mart for Intensive Care IV (MIMIC-IV) database to predict in-hospital mortality in SIC patients. Utilizing univariate feature selection for feature screening. The optimal model was determined by calculating the area under the curve (AUC) with a 95% confidence interval (CI). The optimal model was interpreted using Shapley Additive Explanation (SHAP) values. Among the 3112 SIC patients included in MIMIC-IV, a total of 757 (25%) patients experienced mortality during their ICU stay. Univariate feature selection helps us to pick out the 20 most critical variables from the original feature. Among the 10 developed machine learning models, the stacking ensemble model exhibited the highest AUC (0.795, 95% CI: 0.763–0.827). Anion gap and age emerged as the most significant features for predicting the mortality risk in SIC. In this study, an ML model was constructed that exhibited excellent performance in predicting in-hospital mortality risk in SIC patients. Specifically, the stacking ensemble model demonstrated superior predictive ability.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1097/md.0000000000037634"
+    },
+    {
+        "id": 16970,
+        "title": "Ensemble Learning Approaches for Improved Predictive Analytics in Healthcare",
+        "authors": "Venugopal. Y. R, Dr. Srikanth V",
+        "published": "2024-3-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.55248/gengpi.5.0324.0629"
+    },
+    {
+        "id": 16971,
+        "title": "An ensemble machine learning based bank loan approval predictions system with a smart application",
+        "authors": "Nazim Uddin, Md. Khabir Uddin Ahamed, Md Ashraf Uddin, Md. Manwarul Islam, Md. Alamin Talukder, Sunil Aryal",
+        "published": "2023-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ijcce.2023.09.001"
+    },
+    {
+        "id": 16972,
+        "title": "A locally time-invariant metric for climate model ensemble predictions of extreme risk",
+        "authors": "Mala Virdee, Markus Kaiser, Carl H. Ek, Emily Shuckburgh, Ieva Kazlauskaite",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Abstract\nAdaptation-relevant predictions of climate change are often derived by combining climate model simulations in a multi-model ensemble. Model evaluation methods used in performance-based ensemble weighting schemes have limitations in the context of high-impact extreme events. We introduce a locally time-invariant method for evaluating climate model simulations with a focus on assessing the simulation of extremes. We explore the behavior of the proposed method in predicting extreme heat days in Nairobi and provide comparative results for eight additional cities.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/eds.2023.13"
+    },
+    {
+        "id": 16973,
+        "title": "Harnessing Volatility Cascades with Ensemble Learning",
+        "authors": "Mingmian Cheng",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4682793"
+    },
+    {
+        "id": 16974,
+        "title": "When less is more: How increasing the complexity of machine learning strategies for geothermal energy assessments may not lead toward better estimates",
+        "authors": "Stanley P. Mordensky, John J. Lipor, Jacob DeAngelo, Erick R. Burns, Cary R. Lindsey",
+        "published": "2023-5",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.geothermics.2023.102662"
+    },
+    {
+        "id": 16975,
+        "title": "Interpretable ensemble imbalance learning strategies for the risk assessment of severe‐low‐level wind shear based on LiDAR and PIREPs",
+        "authors": "Afaq Khattak, Pak‐Wai Chan, Feng Chen, Haorong Peng",
+        "published": "2023-9-13",
+        "citations": 2,
+        "abstract": "AbstractThe occurrence of severe low‐level wind shear (S‐LLWS) events in the vicinity of airport runways poses a significant threat to flight safety and exacerbates a burgeoning problem in civil aviation. Identifying the risk factors that contribute to occurrences of S‐LLWS can facilitate the improvement of aviation safety. Despite the significant influence of S‐LLWS on aviation safety, its occurrence is relatively infrequent in comparison to non‐SLLWS incidents. In this study, we develop an S‐LLWS risk prediction model through the utilization of ensemble imbalance learning (EIL) strategies, namely, BalanceCascade, EasyEnsemble, and RUSBoost. The data for this study were obtained from PIREPs and LiDAR at Hong Kong International Airport. The analysis revealed that the BalanceCascade strategy outperforms EasyEnsemble and RUSBoost in terms of prediction performance. Afterward, the SHapley Additive exPlanations (SHAP) interpretation tool was used in conjunction with the BalanceCascade model for the risk assessment of various factors. The four most influential risk factors, according to the SHAP interpretation tool, were hourly temperature, runway 25LD, runway 25LA, and RWY (encounter location of LLWS). S‐LLWS was likely to happen at Runway 25LD and Runway 25LA in temperatures ranging from low to moderate. Similarly, a high proportion of S‐LLWS events occurred near the runway threshold, and a relatively small proportion occurred away from it. The EIL strategies in conjunction with the SHAP interpretation tool may accurately predict the S‐LLWS without the need for data augmentation in the data pre‐processing phase.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/risa.14215"
+    },
+    {
+        "id": 16976,
+        "title": "Developing regional soil micronutrient management strategies through ensemble learning based digital soil mapping",
+        "authors": "Shubhadip Dasgupta, Santonu Debnath, Ayan Das, Asim Biswas, David C. Weindorf, Bin Li, Arvind Kumar Shukla, Shreya Das, Sushanta Saha, Somsubhra Chakraborty",
+        "published": "2023-5",
+        "citations": 8,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.geoderma.2023.116457"
+    },
+    {
+        "id": 16977,
+        "title": "Ensemble Learning-Based Edge Caching Strategies for Internet of Vehicles: Outage and Finite SNR Analysis",
+        "authors": "Tan Zheng Hui Ernest, A. S. Madhukumar",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ojcoms.2023.3236319"
+    },
+    {
+        "id": 16978,
+        "title": "Customer Satisfaction with Cryptocurrencies: A Quest For Better Strategies",
+        "authors": "Karandeep Sonewane",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4332601"
+    },
+    {
+        "id": 16979,
+        "title": "Exploitation of the ensemble-based machine learning strategies to elevate the precision of CORDEX regional simulations in precipitation projection",
+        "authors": "Alireza Ghaemi, Seyed Arman Hashemi Monfared, Abdolhamid Bahrpeyma, Peyman Mahmoudi, Mohammad Zounemat-Kermani",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12145-024-01234-5"
+    },
+    {
+        "id": 16980,
+        "title": "Solving dynamic multi-objective optimization problems via quantifying intensity of environment changes and ensemble learning-based prediction strategies",
+        "authors": "Zhenwu Wang, Liang Xue, Yinan Guo, Mengjie Han, Shangchao Liang",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.asoc.2024.111317"
+    },
+    {
+        "id": 16981,
+        "title": "ABPET: An Automatic Software Bug Prediction Using Ensemble Learning Technique",
+        "authors": "",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.14.nq880182"
+    },
+    {
+        "id": 16982,
+        "title": "Optimized Deep Learning Models Using Ensemble Learning for COVID-19 Detection on CT Scan Images",
+        "authors": "d d, d d, d d, d d,  ",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "Early identification of COVID-19 can facilitate the establishment of a swift medical response plan, thereby slowing the rapid dissemination of this deadly disease. Recent advancements in medical imaging technology, coupled with the successful application of deep learning to visual tasks, have driven numerous studies investigating early disease diagnosis through medical imaging. In particular, deep learning has been employed for COVID-19 diagnosis from CT scan images. This paper proposes an ensemble COVID detection model that integrates four models including GoogleNet, EfficientNet, Hybrid EfficientNet and DOLG, and DenseNet121. And an augmentation dataset for training/testing is utilized in this work. To comparing performance, we train four models separately with our ensemble model and evaluate their results. The results demonstrate that our ensemble model outperforms all individual models, obtaining a detection accuracy of 94 percents. Hence, our proposed ensemble model shows the potential of the ensemble method in improving the accuracy of COVID diagnosis.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37727/jkdas.2023.25.6.2027"
+    },
+    {
+        "id": 16983,
+        "title": "Seismic predictions of fluids via supervised deep learning: Incorporating various class-rebalance strategies",
+        "authors": "Shunli Gao, Minghui Xu, Luanxiao Zhao, Yuanyuan Chen, Jianhua Geng",
+        "published": "2023-7-1",
+        "citations": 1,
+        "abstract": " Seismic fluids prediction under the machine-learning framework is of great significance for the exploration and development of oil and gas resources, geothermal energy exploitation, carbon dioxide sequestration monitoring, and groundwater management. Data-driven supervised machine-learning algorithms often rely heavily on the characteristics of the data (number of labels and data distribution). The disparity in the number of different labels for the majority and minority samples can hinder the generalization ability of the machine-learning model, especially weakening the predicting power for minority groups (e.g., hydrocarbon-bearing rocks) which are often of essential interest to us. For a clastic reservoir exhibiting a typical class imbalance (the ratio of gas sandstone to other lithofluids is significantly low), under the framework of a supervised convolutional neural network, we investigate and compare various class-rebalance methods to enhance the model’s prediction ability for gas-bearing sandstones. To achieve the purpose of class rebalance, we mainly use sampling methods to obtain class-balanced data sets and cost-sensitive learning methods to modify loss functions. The crosswell blind tests indicate that the ensemble-based undersampling method of BalanceCascade is found to be most effective in enhancing the prediction performance, increasing the F1 score of gas sandstone by as much as 15%. We also propose the combination of Balance Cascade and focal-loss (FL) methods, which can further improve the F1 score of gas-bearing sandstone in several wells compared with using BalanceCascade or FL alone. By incorporating class-rebalance strategies into model building, we finally obtain more reliable seismic prediction results for gas-bearing sandstone. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1190/geo2022-0363.1"
+    },
+    {
+        "id": 16984,
+        "title": "Estimating Continuous Production Well Flow Rates Using Ensemble Machine Learning and Deep Learning Algorithms",
+        "authors": "V. Martinez",
+        "published": "2023-10-2",
+        "citations": 0,
+        "abstract": "Abstract\nThis study proposes a novel approach that combines machine learning algorithms with deep learning algorithms to improve the performance of predictive models while estimating the continuous well production flow rate using daily operational conditions. This approach is a hybrid or stacked model where predictions of several base models are combined using bagging as ensemble method. The models are trained and evaluated using dataset of operational data, including well pressure, temperature, water cut, water-oil ratio, etc., collected over a period of several years. Results demonstrate that the ensemble machine learning approach achieves high accuracy. The findings suggest that the proposed approach can provide a reliable and efficient solution for estimating well production flow rates in the oil and gas industry when well flow rate measurements are not performed continuously.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2118/216162-ms"
+    },
+    {
+        "id": 16985,
+        "title": "Ensemble Learning for Enhanced Breast Cancer Detection: A Machine Learning Approach",
+        "authors": "Snigdha Bairi -",
+        "published": "2023-10-19",
+        "citations": 0,
+        "abstract": "Breast cancer is the most common cancer among women worldwide, with early \ndetection being crucial for improved patient outcomes. Traditional machine learning \nalgorithms have been employed in this domain, but their performance can be limited when dealing with complex medical datasets. This study investigates the potential of ensemble learning to enhance breast cancer detection accuracy. We implemented and evaluated popular ensemble learning methods on a well-established breast cancer dataset.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36948/ijfmr.2023.v05i05.7707"
+    },
+    {
+        "id": 16986,
+        "title": "The better work, better care framework: 7 strategies for sustainable healthcare system process improvement",
+        "authors": "W.P. Neumann, N. Purdy",
+        "published": "2023-10-2",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1080/20476965.2023.2198580"
+    },
+    {
+        "id": 16987,
+        "title": "A hybrid ensemble-based automated deep learning approach to generate 3D geo-models and uncertainty analysis",
+        "authors": "Abbas Abbaszadeh Shahri, Shan Chunling, Stefan Larsson",
+        "published": "2023-8-8",
+        "citations": 11,
+        "abstract": "AbstractThere is an increasing interest in creating high-resolution 3D subsurface geo-models using multisource retrieved data, i.e., borehole, geophysical techniques, geological maps, and rock properties, for emergency managements. However, dedicating meaningful, and thus interpretable 3D subsurface views from such integrated heterogeneous data requires developing a new methodology for convenient post-modeling analyses. To this end, in the current paper a hybrid ensemble-based automated deep learning approach for 3D modeling of subsurface geological bedrock using multisource data is proposed. The uncertainty then was quantified using a novel ensemble randomly automated deactivating process implanted on the jointed weight database. The applicability of the automated process in capturing the optimum topology is then validated by creating 3D subsurface geo-model using laser-scanned bedrock-level data from Sweden. In comparison with intelligent quantile regression and traditional geostatistical interpolation algorithms, the proposed hybrid approach showed higher accuracy for visualizing and post-analyzing the 3D subsurface model. Due to the use of integrated multi-source data, the approach presented here and the subsequently created 3D model can be a representative reconcile for geoengineering applications.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00366-023-01852-5"
+    },
+    {
+        "id": 16988,
+        "title": "A Soft Voting Ensemble Classifier to Improve Survival Rate Predictions of Cardiovascular Heart Failure Patients",
+        "authors": "Arif Munandar, Wiga Maulana Baihaqi, Ade Nurhopipah",
+        "published": "2023-8-16",
+        "citations": 1,
+        "abstract": "Cardiovascular disease is one of the deadliest diseases, claiming around 17 million lives worldwide each year. According to data from the World Health Organization (WHO), more than four out of five deaths from cardiovascular disease are caused by heart attacks and strokes, and one-third of these deaths occur prematurely in people under the age of 70. Machine learning approaches can be used to detect the disease. This research aims to improve the prediction model of cardiovascular heart failure patient survival using C4.5, KNN, Logistic Regression algorithms, and the ensemble learning method of Voting Classifier. Based on the testing results, each model showed a significant increase in accuracy in the 70:30 ratio. Logistic Regression and C4.5 achieved the same accuracy, 89.47%, KNN obtained 91.23%, and Voting Classifier experienced a considerable improvement, reaching 94.74%. In testing with ratios of 90:10, 80:20, and 70:30, KNN demonstrated high accuracy but had significant overfitting, with a difference of 7-9% between training and testing accuracy scores in the 90:10 and 80:20 ratios. On the other hand, Voting Classifier showed stable performance in the 70:30 ratio, with an accuracy difference between training and testing scores below 1%. The conclusion of this research is that the Voting Classifier can assist the performance improvement of algorithms for classifying the survival expectancy of cardiovascular heart failure patients into 'Survived' or 'Deceased', compared to Logistic Regression, KNN, and C4.5.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.33096/ilkom.v15i2.1632.344-352"
+    },
+    {
+        "id": 16989,
+        "title": "Assessing ocean ensemble drift predictions by comparison with observed oil slicks",
+        "authors": "Victor de Aguiar, Johannes Röhrs, Anna Malin Johansson, Torbjørn Eltoft",
+        "published": "2023-5-16",
+        "citations": 2,
+        "abstract": "Geophysical models are cornerstone pieces in marine forecasting of floating objects and pollution, such as marine surface oil slicks. Trajectory forecasts of oil spills inherit the uncertainties from the underlying geophysical forcing. In this work we compare the forecast capabilities of an ocean ensemble prediction system (EPS) to those from a higher resolution deterministic model on the representation of oil slick drift. As reference, we use produced water (PW) slicks detected and delineated from 41 C–band Sentinel-1A/B satellite synthetic aperture radar images between April and December, 2021. We found that the EPS provided at least equivalent member-wise results relative to simulations forced with the deterministic model. Ensemble verification through rank histograms and spread-error relationship showed that including the ocean fields is necessary to address model uncertainties. Whether considering the ocean field or not, the modeled slicks were counterclockwise rotated between 20° and 30° relative to the ones observed in the satellite images, and these were deflected about 45° to the right of the observed wind direction.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fmars.2023.1122192"
+    },
+    {
+        "id": 16990,
+        "title": "Heterogeneous Ensemble Feature Selection and Multilevel Ensemble Approach to Machine Learning Phishing Attack Detection",
+        "authors": "Dele Olukoya, Gabriel Ogunleye",
+        "published": "2023-12-30",
+        "citations": 0,
+        "abstract": "Over the decade, technology has presented human facets with easiest means of accomplishing complex tasks seamlessly, especially in the area of communication. Malicious and vicious links are consciously doctored to resemble the original and sent through emails to millions of users at once at a lower price. Since the emergence of phishing and its cohorts, every solution and means to mitigate the attacks has proven unsuccessful due to the dynamic nature of the attacks. Meanwhile, machine learning (ML) is adopted as the right antidote to phishing detection, with its performance based on diverse steps, especially feature selection. Most studies in the problem domain concentrate more on model optimization than sourcing for a reliable feature selection system and fail to integrate a reliable feature selection along with the classification model. The systems are fed with low-quality data that hampers the performance of such models. The authors noticed the contribution of feature selection to the performance of machine learning models and developed a novel Heterogeneous Ensemble Feature Selection (HEFS) framework for multilevel ensemble machine learning-based phishing detection. In HEFS, three filter-based statistical techniques were exploited to produce a primary subset of phishing features, and the variable selected by each of the techniques was automatically aggregated to produce the baseline features. The selection of the techniques is to overcome each limitation since their ranking principles are different. The experiment revealed that the multilevel ensemble (stacked) on the baseline features outperformed others with an accuracy of 98.8%., including multilevel model on each filter-based method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46792/fuoyejet.v8i4.1105"
+    },
+    {
+        "id": 16991,
+        "title": "Classification of Grapevine Leaf Images with Deep Learning Ensemble Models",
+        "authors": "Qingcong Lv",
+        "published": "2023-5-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cvidl58838.2023.10165757"
+    },
+    {
+        "id": 16992,
+        "title": "From Scores to Predictions in Multi-Label Classification: Neural Thresholding Strategies",
+        "authors": "Karol Draszawka, Julian Szymański",
+        "published": "2023-6-27",
+        "citations": 0,
+        "abstract": "In this paper, we propose a novel approach for obtaining predictions from per-class scores to improve the accuracy of multi-label classification systems. In a multi-label classification task, the expected output is a set of predicted labels per each testing sample. Typically, these predictions are calculated by implicit or explicit thresholding of per-class real-valued scores: classes with scores exceeding a given threshold value are added to a prediction set. In our work, we propose a neural network-based thresholding phase for multi-label classification systems and examine its influence on the overall classification performance measured by micro- and macro-averaged F1 scores on synthetic and real datasets. In contrast to classic thresholding methods, our approach has the unique property of being able to recover from scoring errors, because each decision about a given label prediction depends on the corresponding class score, as well as on all the other class scores for a given sample at once. The method can be used in combination with any classification system that outputs real-valued class scores. The proposed thresholding methods are trained offline, after the completion of the scoring phase. As such, it can be considered a universal fine-tuning step that can be employed in any multi-label classification system that seeks to find the best multi-label predictions based on class scores. In our experiments on real datasets, the input class scores were obtained from two third-party baseline classification systems. We show that our approach outperforms the traditional thresholding methods, which results in the improved performance of all tested multi-label classification tasks. In terms of relative improvement, on real datasets, the micro-F1 score is higher by up to 40.6%, the macro-F1 score is higher by up to 3.6%, and the averaged micro–macro-F1 score is higher by up to 30.1%, considering single models only. We show that ensembles and hybrid models give even better results. We show examples of successful extreme recoveries, where the system, equipped with our method, was able to correctly predict labels, which were highly underscored after the scoring phase.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13137591"
+    },
+    {
+        "id": 16993,
+        "title": "Heterogeneous Ensemble Learning for Modelling Species Distribution: A Case Study of Redstarts Habitat Suitability",
+        "authors": "Omar El Alaoui, Ali Idri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012118100003541"
+    },
+    {
+        "id": 16994,
+        "title": "AI-powered ensemble machine learning to optimize cost strategies in logistics business",
+        "authors": "Chairote Yaiprasert, Achmad Nizar Hidayanto",
+        "published": "2024-4",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jjimei.2023.100209"
+    },
+    {
+        "id": 16995,
+        "title": "Comparative Analysis of Machine Learning, Ensemble Learning and Deep Learning Classifiers for Parkinson’s Disease Detection",
+        "authors": "Palak Goyal, Rinkle Rani",
+        "published": "2023-12-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02368-x"
+    },
+    {
+        "id": 16996,
+        "title": "Integrating EEMD and ensemble CNN with X (Twitter) sentiment for enhanced stock price predictions",
+        "authors": "Nabanita Das, Bikash Sadhukhan, Susmit Sekhar Bhakta, Satyajit Chakrabarti",
+        "published": "2024-1-24",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13278-023-01190-w"
+    },
+    {
+        "id": 16997,
+        "title": "Ensemble Feature Selection (EFS) And Deep Learning Ensemble (DLE) Classifier For Cervical Cancer Diagnosis",
+        "authors": "B. Jayanthi, Anjali Kuruvilla",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbra.2024.10061872"
+    },
+    {
+        "id": 16998,
+        "title": "Predictions of photophysical properties of phosphorescent platinum(<scp>II</scp>) complexes based on ensemble machine learning approach",
+        "authors": "Shuai Wang, ChiYung Yam, Shuguang Chen, LiHong Hu, Liping Li, Faan‐Fung Hung, Jiaqi Fan, Chi‐Ming Che, GuanHua Chen",
+        "published": "2024-3-5",
+        "citations": 0,
+        "abstract": "AbstractCyclometalated Pt(II) complexes are popular phosphorescent emitters with color‐tunable emissions. To render their practical applications as organic light‐emitting diodes emitters, it is required to develop Pt(II) complexes with high radiative decay rate constant and photoluminescence (PL) quantum yield. Here, a general protocol is developed for accurate predictions of emission wavelength, radiative decay rate constant, and PL quantum yield based on the combination of first‐principles quantum mechanical method, machine learning, and experimental calibration. A new dataset concerning phosphorescent Pt(II) emitters is constructed, with more than 200 samples collected from the literature. Features containing pertinent electronic properties of the complexes are chosen and ensemble learning models combined with stacking‐based approaches exhibit the best performance, where the values of squared correlation coefficients are 0.96, 0.81, and 0.67 for the predictions of emission wavelength, PL quantum yield and radiative decay rate constant, respectively. The accuracy of the protocol is further confirmed using 24 recently reported Pt(II) complexes, which demonstrates its reliability for a broad palette of Pt(II) emitters.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/jcc.27238"
+    },
+    {
+        "id": 16999,
+        "title": "Time series traffic collision analysis of London hotspots: Patterns, predictions and prevention strategies",
+        "authors": "Mohammad Balawi, Goktug Tenekeci",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2024.e25710"
+    },
+    {
+        "id": 17000,
+        "title": "New Perspectives on Data Exfiltration Detection for Advanced Persistent Threats Based on Ensemble Deep Learning Tree",
+        "authors": "Xiaojuan Cai, Hiroshi Koide",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012181200003584"
+    },
+    {
+        "id": 17001,
+        "title": "EnC-SVMWEL: Ensemble Approach using CNN and SVM Weighted Average Ensemble Learning for Sugarcane Leaf Disease Detection",
+        "authors": "Uvarani Vignesh, Bala Subramanian Chokkalingam",
+        "published": "2023-3-23",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscds56580.2023.10104818"
+    },
+    {
+        "id": 17002,
+        "title": "Using Deep Ensemble Learning In Digital Mammogram for Automated Classification Breast Mass",
+        "authors": "",
+        "published": "2023-5-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2019.17.03.2021"
+    },
+    {
+        "id": 17003,
+        "title": "Correction: Integrating EEMD and ensemble CNN with X (Twitter) sentiment for enhanced stock price predictions",
+        "authors": "Nabanita Das, Bikash Sadhukhan, Susmit Sekhar Bhakta, Satyajit Chakrabarti",
+        "published": "2024-3-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s13278-024-01237-6"
+    },
+    {
+        "id": 17004,
+        "title": "Improved forest canopy evaporation leads to better predictions of ecohydrological processes",
+        "authors": "Henrique Haas, Latif Kalin, Haw Yen",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ecolmodel.2024.110620"
+    },
+    {
+        "id": 17005,
+        "title": "From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting",
+        "authors": "Zhen Zeng, Rachneet Kaur, Suchetha Siddagangappa, Tucker Balch, Manuela Veloso",
+        "published": "2023-11-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3604237.3626905"
+    },
+    {
+        "id": 17006,
+        "title": "Causality-Aware Predictions in Static Anticausal Machine Learning Tasks",
+        "authors": "Elias Chaibub Neto",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/tnnls.2022.3202151"
+    },
+    {
+        "id": 17007,
+        "title": "Teaching research methods better? or Research methods for better teaching?",
+        "authors": "Jo Ferrie, Catriona Forrest, Thees Spreckelsen",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "This special issue invited papers relating either to the pedagogy of research practice, or how we can harness methods, methodologies, and research design to better evaluate our teaching.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56230/osotl.71"
+    },
+    {
+        "id": 17008,
+        "title": "Ensemble transfer learning for plant leave disease identification",
+        "authors": "Ranjith Thaivalappil Karunan, Li Zhang",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/9789811269264_0033"
+    },
+    {
+        "id": 17009,
+        "title": "Risk Estimate of Complications in Type 2 Diabetes Using Ensemble Learning and Deep Learning",
+        "authors": "Kanika Sood, Aneesh Reddy Sannapu",
+        "published": "2023-6-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/aiiot58121.2023.10174407"
+    },
+    {
+        "id": 17010,
+        "title": "Ensemble of explainable artificial intelligence predictions through discriminate regions: A model to identify COVID-19 from chest X-ray images",
+        "authors": "Shiva Prasad Koyyada, Thipendra P. Singh",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "Abstract\nIn 2019, lung disease severely affected human health and was later renamed coronavirus disease 2019 (COVID-2019). Since then, several research methods have been proposed, such as reverse transcription polymerase chain reaction (RT-PCR), and disease identification through chest X-rays and computed tomography (CT) scans, to help the healthcare sector. RT-PCR was time-consuming when more patients were present, and a CT scan was costly. Several deep-learning (DL) methods were used to identify diseases using computer-aided tools. Among those convolutional neural networks (CNNs), the state of the art was adopted in the machinery to predict cancer. However, there is a lack of explainability (XAI) in how CNN predicts the disease. In this article, we construct XAI ensembles with Local Interpretation Model Agnostic Explanation(LIME), Grad CAM, and a Saliency map. It provides a visual explanation for a DL prognostic model that predicts COVID-19 respiratory infection in patients. Our quantitative experimental results have shown that ensemble XAI with an accuracy of 98.85%, although individual LIME has scored an accuracy of 99.62% on test data, is more reliable since it is the combination of models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/jisys-2023-0163"
+    },
+    {
+        "id": 17011,
+        "title": "Prediction of Heart Disease using Ensemble Learning",
+        "authors": "P Muthulakshmi,  , M Parveen, P Rajeswari",
+        "published": "2023-5-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17485/ijst/v16i20.2279"
+    },
+    {
+        "id": 17012,
+        "title": "Harvest Forecasting Improvement Using Federated Learning and Ensemble Model",
+        "authors": "j j, Jin Gwang Koh, Sung Keun Lee,  ",
+        "published": "2023-11-30",
+        "citations": 0,
+        "abstract": "Harvest forecasting is the great demand of multiple aspects like temperature, rain, environment, and their relations. The existing study investigates the climate conditions and aids the cultivators to know the harvest yields before planting in farms. The proposed study uses federated learning. In addition, the additional widespread techniques such as bagging classifier, extra tees classifier, linear discriminant analysis classifier, quadratic discriminant analysis classifier, stochastic gradient boosting classifier, blending models, random forest regressor, and AdaBoost are utilized together. These presented nine algorithms achieved exemplary satisfactory accuracies. The powerful contributions of proposed algorithms can create exact harvest forecasting. Ultimately, we intend to compare our study with the earlier research's results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30693/smj.2023.12.10.9"
+    },
+    {
+        "id": 17013,
+        "title": "Learning Disability Predictions using Machine Learning: A detailed Evaluation on Predicting risk of Dyslexia",
+        "authors": "Aneetta Sara Shany, S Shailesh",
+        "published": "2023-8-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscc59169.2023.10334933"
+    },
+    {
+        "id": 17014,
+        "title": "Malware Detection Using Ensemble Learning",
+        "authors": "",
+        "published": "2023-9-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets41214"
+    },
+    {
+        "id": 17015,
+        "title": "Credit Risk Prediction using Ensemble Machine Learning Algorithms",
+        "authors": "Vijaya Kanaparthi",
+        "published": "2023-4-26",
+        "citations": 6,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icict57646.2023.10134486"
+    },
+    {
+        "id": 17016,
+        "title": "Bone Fracture Classification Using Heterogeneous Ensemble Machine Learning and Deep Learning Algorithms",
+        "authors": "Amare Tesfaw, Abay Teshager, AZANU MIROLGN, Eyerusalem Ambachew",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4700025"
+    },
+    {
+        "id": 17017,
+        "title": "Identification of Cardiovascular Disease using Machine Learning and Ensemble Learning",
+        "authors": "Shreya Chopra, Nidhi Kalra, Rinkle Rani",
+        "published": "2023-3-14",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icidca56705.2023.10099508"
+    },
+    {
+        "id": 17018,
+        "title": "Software Fault Prediction Using an RNN-Based Deep Learning Approach and Ensemble Machine Learning Techniques",
+        "authors": "Emin Borandag",
+        "published": "2023-1-27",
+        "citations": 10,
+        "abstract": "Alongside the modern software development life cycle approaches, software testing has gained more importance and has become an area researched actively within the software engineering discipline. In this study, machine learning and deep learning-related software fault predictions were made through a data set named SFP XP-TDD, which was created using three different developed software projects. A data set of five different classifiers widely used in the literature and their Rotation Forest classifier ensemble versions were trained and tested using this data set. Numerous publications in the literature discussed software fault predictions through ML algorithms addressing solutions to different problems. Some of these articles indicated the usage of feature selection algorithms to improve classification performance, while others reported operating ensemble machine learning algorithms for software fault predictions. Besides, a detailed literature review revealed that there were few studies involving software fault prediction with DL algorithms due to the small sample sizes in the data sets and the low success rates in the tests performed on these datasets. As a result, the major contribution of this research was to statistically demonstrate that DL algorithms outperformed ML algorithms in data sets with large sample values via employing three separate software fault prediction datasets. The experimental outcomes of a model that includes a layer of recurrent neural networks (RNNs) were enclosed within this study. Alongside the aforementioned and generated data sets, the study also utilized the Eclipse and Apache Active MQ data sets in to test the effectiveness of the proposed deep learning method.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13031639"
+    },
+    {
+        "id": 17019,
+        "title": "Analysis of Stacked Ensemble Classification Models in Cervical Cancer Prediction using Machine learning",
+        "authors": "",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.19.nq99296"
+    },
+    {
+        "id": 17020,
+        "title": "A machine learning framework for elastic constants predictions in multi-principal element alloys",
+        "authors": "Nathan Linton, Dilpuneet S. Aidhy",
+        "published": "2023-3-1",
+        "citations": 9,
+        "abstract": "On the one hand, multi-principal element alloys (MPEAs) have created a paradigm shift in alloy design due to large compositional space, whereas on the other, they have presented enormous computational challenges for theory-based materials design, especially density functional theory (DFT), which is inherently computationally expensive even for traditional dilute alloys. In this paper, we present a machine learning framework, namely PREDICT (PRedict properties from Existing Database In Complex alloys Territory), that opens a pathway to predict elastic constants in large compositional space with little computational expense. The framework only relies on the DFT database of binary alloys and predicts Voigt–Reuss–Hill Young’s modulus, shear modulus, bulk modulus, elastic constants, and Poisson’s ratio in MPEAs. We show that the key descriptors of elastic constants are the A–B bond length and cohesive energy. The framework can predict elastic constants in hypothetical compositions as long as the constituent elements are present in the database, thereby enabling property exploration in multi-compositional systems. We illustrate predictions in a FCC Ni-Cu-Au-Pd-Pt system.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0129928"
+    },
+    {
+        "id": 17021,
+        "title": "A comparative work of incremental learning and ensemble learning for brainprint identification",
+        "authors": "",
+        "published": "2023-8-13",
+        "citations": 0,
+        "abstract": "Electroencephalogram (EEG) signals are nonstationary and vary across time. The static learning model requires large training data to ensure sufficient knowledge acquisition to build a robust model. However, it is very challenging to achieve complete concept learning due to the behavioural changes in model learning. This issue is particularly critical in brainprint identification, where data acquisition in a short time cannot ensure sufficient training data for comprehensive model learning. Thus, dynamic learning, i.e., incremental learning and ensemble learning, presents a better solution for encapsulating EEG signal changes and variations. Both incremental and ensemble learning follow different approaches to manag the concept learning. Incremental learning merges new variations of EEG signals into the existing learning model over time, while ensemble learning uses multiple models for prediction. Nevertheless, limited research works were reported on comparing these two learning methods to prove the efficiency in handling nonstationary data for brainprint identification. Thus, this paper aims to compare incremental learning and ensemble learning for brainprint identification modelling. Incremental Fuzzy-Rough nearest Neighbour (IncFRNN) and Random Forest are selected to represent incremental learning and ensemble learning, respectively. Accuracy, area under the ROC curve (AUC) and F-measure were used to evaluate the classification performance. The experimental results proved that incremental learning outperformed ensemble learning when the training data were limited. The classification results of IncFRNN model were recorded at 0.9160, 0.9827 and 0.9169 while the Random Forest model only yielded 0.8113, 0.9709, and 0.9169 in accuracy, AUC, and F-measure, respectively. The ongoing learning process in incremental learning helps to capture the new changes in EEG signals and improve the classification performance.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59018/0623161"
+    },
+    {
+        "id": 17022,
+        "title": "Behavioural insights for better teaching and learning",
+        "authors": "Filia Garivaldis",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "A persisting assumption in education is that students have the same passion and motivation to learn that educators have to teach. \nThis assumption can lead to the use of a familiar but narrow set of solutions for addressing teaching and learning challenges. However, there are many barriers students face when attempting to engage fully with their courses or units of study, that are seldom addressed by educators. Behavioural science can offer valuable insights into addressing such barriers. From understanding students and the context of their learning better, to designing pedagogical methods better aligned with these needs, behavioural science can help create targeted solutions to the ongoing challenges experienced in the field of education. In this workshop, we offer a range of practical and theoretical examples from the area of behavioural science, that challenge the assumption that providing access to learning material is enough. We also draw on the expertise of educators and scholars in higher education, to brainstorm solutions, beyond just the use of pedagogy, that can address some of these challenges.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14742/apubs.2023.478"
+    },
+    {
+        "id": 17023,
+        "title": "Learning from Patients: Better Engagement for Better Care",
+        "authors": "Abdul Rahman Jazieh",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36401/jqsh-23-x5"
+    },
+    {
+        "id": 17024,
+        "title": "HISET: Hybrid interpretable strategies with ensemble techniques for respiratory sound classification",
+        "authors": "Sunil Kumar Prabhakar, Dong-Ok Won",
+        "published": "2023-8",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2023.e18466"
+    },
+    {
+        "id": 17025,
+        "title": "Impacts of climate change on hydrological hazards: mechanisms, predictions and coping strategies",
+        "authors": "Yan Lu",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "Abstract\nClimate change is triggering more frequent and intense hydrological disasters, which significantly impact society and economy. This paper discusses the specific impacts of these changes on hydrological hazards. It analyzes the early warning mechanism, risk assessment, and coping strategies to provide a scientific basis for effective response. This paper aims to explore the impact of climate change on hydrological disasters and develop effective prediction and response strategies. The effects of climate change on the mechanisms of hydrological disasters, risk assessment theory, influencing factors, and early warning mechanisms is studied through a comprehensive analysis method. According to the study, climate change significantly impacts the frequency and intensity of hydrological disasters. In a particular region, there has been a 30% increase in the frequency of floods caused by heavy rainfall over the past 20 years, leading to a 40% increase in economic losses. In addition, climate model-based risk assessment methods effectively predicted the potential impacts of these disasters. The study revealed that enhancing early warning systems and raising public awareness can reduce catastrophe risk. Climate change significantly impacts hydrological hazards, and more systematic and integrated management strategies are needed to reduce their impacts.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2478/amns-2024-0704"
+    },
+    {
+        "id": 17026,
+        "title": "Improving structure-based protein-ligand affinity prediction by graph representation learning and ensemble learning",
+        "authors": "Jia Guo",
+        "published": "2024-1-17",
+        "citations": 0,
+        "abstract": "Predicting protein-ligand binding affinity presents a viable solution for accelerating the discovery of new lead compounds. The recent widespread application of machine learning approaches, especially graph neural networks, has brought new advancements in this field. However, some existing structure-based methods treat protein macromolecules and ligand small molecules in the same way and ignore the data heterogeneity, potentially leading to incomplete exploration of the biochemical information of ligands. In this work, we propose LGN, a graph neural network-based fusion model with extra ligand feature extraction to effectively capture local features and global features within the protein-ligand complex, and make use of interaction fingerprints. By combining the ligand-based features and interaction fingerprints, LGN achieves Pearson correlation coefficients of up to 0.842 on the PDBbind 2016 core set, compared to 0.807 when using the features of complex graphs alone. Finally, we verify the rationalization and generalization of our model through comprehensive experiments. We also compare our model with state-of-the-art baseline methods, which validates the superiority of our model. To reduce the impact of data similarity, we increase the robustness of the model by incorporating ensemble learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0296676"
+    },
+    {
+        "id": 17027,
+        "title": "Developing Practical Strategies to Enable Better Teamwork and Communication",
+        "authors": "Carl Macrae",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1001/jamanetworkopen.2023.43474"
+    },
+    {
+        "id": 17028,
+        "title": "Water Quality Predictions for Urban Streams Using Machine Learning",
+        "authors": "Lokesh Jalagam, Nathaniel Shepherd, Jingyi Qi, Nicole Barclay, Michael Smith",
+        "published": "2023-4-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/southeastcon51012.2023.10115154"
+    },
+    {
+        "id": 17029,
+        "title": "Transfer Learning in Heterogeneous Drug-Target Interaction Predictions Using Federated Boosting",
+        "authors": "Dániel Sándor, Péter Antal",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3311/minisy2023-011"
+    },
+    {
+        "id": 17030,
+        "title": "Literature Review: Machine Learning in Stock Predictions",
+        "authors": "Neal Li",
+        "published": "2024-1-22",
+        "citations": 0,
+        "abstract": "Machine learning has revolutionized the field of stock prediction by offering a wide range of models capable of handling complex patterns and making accurate forecasts. Machine learning models vary widely in their application, uses, and effectiveness, and stocks vary as well in terms of volatility within the stock and also between stocks of different industries and at different market conditions. As such, the selection of the proper algorithmic tool to aid an investor is often difficult. This literature review paper provides an overview of ten popular machine learning models over two problem types (prediction and classification), namely Linear Regression, XGBoost, LSTM, ARIMA, GARCH, Random Forest, Logistic Regression, Adaboost, GRU, and CNN. By providing an exploration of these ten machine learning models, this literature review offers valuable insights into their underlying principles, applications and uses, results strengths, and limitations. This paper equally, by consequent, facilitates informed decision-making and encourages further research in the field of machine learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/81x6z947"
+    },
+    {
+        "id": 17031,
+        "title": "Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions",
+        "authors": "Zhi Li, Ryu Takeda, Takahiro Hara",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-510"
+    },
+    {
+        "id": 17032,
+        "title": "Multiple Disease Predictions using Machine Learning and Deep Learning Algorithms",
+        "authors": "Anish Fathima B, Vikram R, Siddarth S, Sri Vishnu M",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscan58655.2023.10395506"
+    },
+    {
+        "id": 17033,
+        "title": "Error Structure Analysis for Multiple Dual-polarization Radar using Ensemble Learning",
+        "authors": "d d, d d, d d, d d,  ",
+        "published": "2023-12-31",
+        "citations": 0,
+        "abstract": "Accurate quantitative precipitation estimation (QPE) was essential for the prediction and prevention of natural disasters. Recently, radar has been attracting attention as a technique for performing QPE with high spatiotemporal resolution. In particular, the QPE was improved by introducing a dual-polarization technique that observed several hydrometeorological variables at various scales compared to the single polarization radar that utilized only the existing reflectivity-precipitation relationship. This study aimed to analyze the error structure of dual-polarization radar by predicting gauged rainfall using ensemble models. The location of the radar was Gwanaksan, Garisan, and Gwangdeoksan which belonged to the Bukhan river basin. The Pearson correlation coefficients between reflectance-precipitation and gauged rainfall were examined initially. After that, each gauged rainfall was predicted using ensemble learning, which included random forest (RF), gradient boost, and XGboost. Mean absolute error, root mean squared error, and R squared were evaluated as the predictive performance. Hyper-parameters were optimized by 5-fold cross-validation, and the reliability of the research results was obtained by 10 iterations. The result showed that RF had better predictive performance than other models. Gauged stations that operated at high altitudes were not good enough for the QPE because of the mountain effect. Due to the mountain range effect, the importance of the Gwanaksan radar at an altitude of 3 km was very high.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.37727/jkdas.2023.25.6.2017"
+    },
+    {
+        "id": 17034,
+        "title": "Advanced Deep Transfer Learning Using Ensemble Models for COVID-19 Detection from X-ray Images",
+        "authors": "Walid Hariri, Imed Haouli",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011703900003417"
+    },
+    {
+        "id": 17035,
+        "title": "An Ensemble Learning Method for Volunteer Retention Prediction",
+        "authors": "Fanfan Zhao, Yuanquan Hu, Wai Kin Victor Chan",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10285988"
+    },
+    {
+        "id": 17036,
+        "title": "Less is More? Reducing Biases and Overfitting in Machine Learning Return Predictions",
+        "authors": "Clint Howard",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4497739"
+    },
+    {
+        "id": 17037,
+        "title": "Intrusion Detection Using an Ensemble Deep Learning Approach",
+        "authors": "",
+        "published": "2023-4-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/ijfans/v11/i12/198"
+    },
+    {
+        "id": 17038,
+        "title": "Flood Prediction in Nigeria Using Ensemble Machine Learning Techniques",
+        "authors": "",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54908/iljs.2023.10.01.004"
+    },
+    {
+        "id": 17039,
+        "title": "Explainable Ensemble Machine Learning for Wheat Grain Identification",
+        "authors": "Małgorzata Charytanowicz",
+        "published": "2023-12-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdmw60847.2023.00121"
+    },
+    {
+        "id": 17040,
+        "title": "A Within-Group Approach to Ensemble Machine Learning Methods for Causal Inference in Multilevel Studies",
+        "authors": "Youmi Suk",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3102/ip.23.2058728"
+    },
+    {
+        "id": 17041,
+        "title": "ANDROID MALWARE DETECTION USING ENSEMBLE LEARNING",
+        "authors": "",
+        "published": "2023-4-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets36109"
+    },
+    {
+        "id": 17042,
+        "title": "A gridded air quality forecast through fusing site-available machine learning predictions from RFSML v1.0 and chemical transport model results from GEOS-Chem v13.1.0 using the ensemble Kalman filter",
+        "authors": "Li Fang, Jianbing Jin, Arjo Segers, Hong Liao, Ke Li, Bufan Xu, Wei Han, Mijie Pang, Hai Xiang Lin",
+        "published": "2023-8-29",
+        "citations": 1,
+        "abstract": "Abstract. Statistical methods, particularly machine learning models, have gained significant popularity in air quality predictions. These prediction models are commonly trained using the historical measurement datasets independently collected at the environmental monitoring stations and their operational forecasts in advance using inputs of the real-time ambient pollutant observations. Therefore, these high-quality machine learning models only provide site-available predictions and cannot solely be used as the operational forecast. In contrast, deterministic chemical transport models (CTMs), which simulate the full life cycles of air pollutants, provide predictions that are continuous in the 3D field. Despite their benefits, CTM predictions are typically biased, particularly on a fine scale, owing to the complex error sources due to the emission, transport, and removal of pollutants. In this study, we proposed a fusion of site-available machine learning prediction, which is from our regional feature selection-based machine learning model (RFSML v1.0), and a CTM prediction. Compared to the normal pure machine learning model, the fusion system provides a gridded prediction with relatively high accuracy. The prediction fusion was conducted using the Bayesian-theory-based ensemble Kalman filter (EnKF). Background error covariance was an essential part in the assimilation process. Ensemble CTM predictions driven by the perturbed emission inventories were initially used for representing their spatial covariance statistics, which could resolve the main part of the CTM error. In addition, a covariance inflation algorithm was designed to amplify the ensemble perturbations to account for other model errors next to the uncertainty in emission inputs. Model evaluation tests were conducted based on independent measurements. Our EnKF-based prediction fusion presented superior performance compared to the pure CTM. Moreover, covariance inflation further enhanced the fused prediction, particularly in cases of severe underestimation.\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5194/gmd-16-4867-2023"
+    },
+    {
+        "id": 17043,
+        "title": "Towards the Diagnosis of Heart Disease Using an Ensemble Learning Approach",
+        "authors": "Zheng Zhang, Liangliang Xu, Yida Bao, Sanjeev Baskiyar",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icmla58977.2023.00288"
+    },
+    {
+        "id": 17044,
+        "title": "A Robust Ensemble Learning Approach for Medical Image Segmentation with Transfer Learning",
+        "authors": "Ritu Shree, Kavitha R, Shweta Singh",
+        "published": "2024-1-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icocwc60930.2024.10470526"
+    },
+    {
+        "id": 17045,
+        "title": "Ensemble Learning strategy in modeling of future generation nanoscale devices using Machine Learning",
+        "authors": "Rachita Ghoshhajra, Kalyan Biswas, Mahamuda Sultana, Angsuman Sarkar",
+        "published": "2023-4-7",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/devic57758.2023.10134917"
+    },
+    {
+        "id": 17046,
+        "title": "Ensemble Learning method for improving the Healthcare IoT System",
+        "authors": "R. Ramakrishnan, A. Chirputkar",
+        "published": "2023-2-14",
+        "citations": 0,
+        "abstract": "Wireless Body Area Network (WBAN) is several wearable sensor nodes with unstable sensing, storage, computation, and communication capabilities. Heart infection is an essential origin of death internationally, and early recognition is vital in avoiding the development of the infection. This article presents an Ensemble Learning (EL) method for improving the Healthcare Internet of Things (IoT) System. This approach aims to forecast the risk of heart infection. This method involves dividing the dataset into subgroups at random using a mean-based split. The data is then divided into multiple groups using a classification and regression tree. A weighted aging classifier ensemble is used to create an ensemble from the many trees used for classification and regression. It makes sure an optimal function is reached. The experimental outcomes on the datasets reached better classification accuracies that outperformed other machine learning algorithms like Artificial Neural Network, Naıve Bayes, and Support Vector Machine. The outcomes demonstrate that the risk of heart infection can be forecasted efficiently through ensemble learning.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18137/cardiometry.2022.25.171177"
+    },
+    {
+        "id": 17047,
+        "title": "Using ensemble learning to analyse hurricane images to identify damage",
+        "authors": "",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.36334/modsim.2023.kumarapathirana"
+    },
+    {
+        "id": 17048,
+        "title": "Ensemble Learning Based Electrical Load Prediction",
+        "authors": "Manisha Chandna",
+        "published": "2023-12-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/peeic59336.2023.10450323"
+    },
+    {
+        "id": 17049,
+        "title": "Effective Communication in Learning: Teacher Strategies and Their Impact on Student Learning Outcomes",
+        "authors": "Sutiono Mahdi",
+        "published": "2023-9-11",
+        "citations": 0,
+        "abstract": "Effective communication management plays an important role in learning. This article discusses effective communication strategies for teachers in learning contexts. The four main components that need to be considered in implementing this strategy include: 1) systematic communication, which includes steps such as pre-communication, presenting information, and closing activities to ensure the message is conveyed well; 2) communication methods for learning, with an emphasis on conveying messages clearly and simply; 3) communication media, which considers the selection of appropriate media for learning purposes; and 4) efficient time management in the communication process. Understanding and implementing these strategies can help teachers increase learning effectiveness, ensure better understanding by students, and better achieve learning goals.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46336/ijlcb.v1i4.26"
+    },
+    {
+        "id": 17050,
+        "title": "Implementation of active learning strategies: The case of secondary schools: learning strategies",
+        "authors": "Asrat Dagnew",
+        "published": "2023-3",
+        "citations": 1,
+        "abstract": "The purpose of this study was to investigate implementation of active learning strategies at secondary schools in Ethiopia. To conduct the study, descriptive survey design was employed. A total of 109 teachers were participated in the study through systematic sampling technique. The study was complemented by mixed method approach that employed both qualitative and quantitative data collection tools such as observation checklists, questionnaires and interviews. The quantitative data was analyzed using frequency, percentage, mean value, grand mean and mean ranking and the qualitative data was analyzed in organizing, summarizing and interpreting narrative description. The findings of the study reported that most of the respondents have perceived active learning strategies positively. In spite of their good perceptions, their practices of active learning strategies were low. The major factors affecting the effective implementation of active learning strategies were large class size, student lack of interest, shortage of time, teachers lack of commitment, students’ beliefs and perceptions and diversity of student interest were among the most influential factors hindering its implementation. Finally, it is recommended that responsible bodies should reorganize the conditions and facilitate necessary inputs for the implementation of active learning strategies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18690/rei.16.1.1315"
+    },
+    {
+        "id": 17051,
+        "title": "Completion of upper secondary education: Predictions of the psychosocial learning environment and academic achievement",
+        "authors": "Maren Stabel Tvedt, Edvin Bru",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.learninstruc.2023.101824"
+    },
+    {
+        "id": 17052,
+        "title": "Ensemble learning framework for landslide susceptibility mapping: Different basic classifier and ensemble strategy",
+        "authors": "Taorui Zeng, Liyang Wu, Dario Peduto, Thomas Glade, Yuichi S. Hayakawa, Kunlong Yin",
+        "published": "2023-11",
+        "citations": 28,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.gsf.2023.101645"
+    },
+    {
+        "id": 17053,
+        "title": "Machine Learning for Fuel Property Predictions: A Multi-Task and Transfer Learning Approach",
+        "authors": "Tara Larsson, Florence Vermeire, Sebastian Verhelst",
+        "published": "2023-4-11",
+        "citations": 2,
+        "abstract": "<div class=\"section abstract\"><div class=\"htmlview paragraph\">Despite the increasing number of electrified vehicles the transportation system still largely depends on the use of fossil fuels. One way to more rapidly reduce the dependency on fossil fuels in transport is to replace them with biofuels. Evaluating the potential of different biofuels in different applications requires knowledge of their physicochemical properties. In chemistry, message passing neural networks (MPNNs) correlating the atoms and bonds of a molecule to properties have shown promising results in predicting the properties of individual chemical components. In this article a machine learning approach, developed from the message passing neural network called Chemprop, is evaluated for the prediction of multiple properties of organic molecules (containing carbon, nitrogen, oxygen and hydrogen). A novel approach using transfer learning based on estimated property values from theoretical estimation methods is applied. Moreover, the effect of multi-task learning (MTL) on the predictions of fuel properties is evaluated. The result show that both transfer learning and multi-task learning are good strategies to improve the accuracy of the predicted values, and that accurate predictions for multiple fuel properties can be obtained using this approach.</div></div>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4271/2023-01-0337"
+    },
+    {
+        "id": 17054,
+        "title": "Enhancing predictions with a stacking ensemble model for ICU mortality risk in patients with sepsis-associated encephalopathy",
+        "authors": "Xuhui Liu, Hao Niu, Jiahua Peng",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "Objective We identified predictive factors and developed a novel machine learning (ML) model for predicting mortality risk in patients with sepsis-associated encephalopathy (SAE). Methods In this retrospective cohort study, data from the Medical Information Mart for Intensive Care IV (MIMIC-IV) and eICU Collaborative Research Database were used for model development and external validation. The primary outcome was the in-hospital mortality rate among patients with SAE; the observed in-hospital mortality rate was 14.74% (MIMIC IV: 1112, eICU: 594). Using the least absolute shrinkage and selection operator (LASSO), we built nine ML models and a stacking ensemble model and determined the optimal model based on the area under the receiver operating characteristic curve (AUC). We used the Shapley additive explanations (SHAP) algorithm to determine the optimal model. Results The study included 9943 patients. LASSO identified 15 variables. The stacking ensemble model achieved the highest AUC on the test set (0.807) and 0.671 on external validation. SHAP analysis highlighted Glasgow Coma Scale (GCS) and age as key variables. The model ( https://sic1.shinyapps.io/SSAAEE/ ) can predict in-hospital mortality risk for patients with SAE. Conclusions We developed a stacked ensemble model with enhanced generalization capabilities using novel data to predict mortality risk in patients with SAE. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1177/03000605241239013"
+    },
+    {
+        "id": 17055,
+        "title": "Improvement of an extended ensemble coupled data Assimilation–Forecast system and its application in El Niño diversity predictions",
+        "authors": "Yanqiu Gao, Jicai Zhang, Kui Liu, Haibo Chen, Minjie Xu",
+        "published": "2024-1",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ocecoaman.2023.106917"
+    },
+    {
+        "id": 17056,
+        "title": "Using CNN framework to improve multi-GCM ensemble predictions of monthly precipitation at local areas: An application over China and comparison with other methods",
+        "authors": "Lei Sun, Yufeng Lan, Rongsheng Jiang",
+        "published": "2023-8",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jhydrol.2023.129866"
+    },
+    {
+        "id": 17057,
+        "title": "A Comparative Study of Signal Recognition Based on Ensemble Learning and Deep Learning",
+        "authors": "Yue Yang, Meili Zhang, Hongmei Pei",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/scset58950.2023.00081"
+    },
+    {
+        "id": 17058,
+        "title": "Proposed better normal marketing strategies for selected small businesses in Roxas, Oriental Mindoro",
+        "authors": "Ann Louelen Dalaodao",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4682455"
+    },
+    {
+        "id": 17059,
+        "title": "Innovation and Artificial Intelligence: Towards A Better Understanding of the Two Strategies",
+        "authors": "Yassine ELKHATIBI,  , Redouane BENABDELOUAHED,  ",
+        "published": "2024-4-15",
+        "citations": 0,
+        "abstract": "In a world where technology is seen as the ultimate solution to all progress, this study aims to explore and deepen the relationship between innovation and artificial intelligence (AI), highlighting their complex interactions and impact on the economic, social and technological domains. The main aim is to provide a comprehensive perspective on these two key strategies in the contemporary technological landscape. What sets this article apart is its attempt to synthesise existing research on innovation and AI, while offering new perspectives and analyses on their mutual relationship. The results of this study highlight the deep interconnection between innovation and AI, demonstrating how these two concepts feed off each other to catalyse technological advances. The article also highlights the ethical, social and economic challenges associated with the increasing integration of AI into innovation processes. The contribution of this article lies in its ability to provide a solid conceptual framework for understanding and analysing the interaction between innovation and AI.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.58806/ijirme.2024.v3i4n09"
+    },
+    {
+        "id": 17060,
+        "title": "Toward \"Better\" Meat? Aligning Meat Sourcing Strategies with Corporate Climate and Sustainability Goals",
+        "authors": "Richard Waite, Jessica Zionts, Clara Cho",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "This report helps consumer-facing food companies with climate and other sustainability goals plan to source not only “less meat” but also “better meat.” Because “better meat” has many meanings, this report reviews evidence on the links between meat production, climate change, and other aspects of sustainability, looking across production practices and systems. It recommends six steps to help food companies meet multiple sustainability goals, from environmental impact measurement and sourcing strategy design to supplier engagement.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.46830/wrirpt.22.00006"
+    },
+    {
+        "id": 17061,
+        "title": "Heart disease prediction using ensemble methods of machine learning",
+        "authors": "Janvi Arora, Mohit Goyal, Sanjay Patidar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0169651"
+    },
+    {
+        "id": 17062,
+        "title": "Lung Cancer Classification using Reinforcement Learning-based Ensemble Learning",
+        "authors": "Shengping Luo",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14569/ijacsa.2023.01408120"
+    },
+    {
+        "id": 17063,
+        "title": "Detecting Students’ Behavior on the E-Learning System Using SVM Kernels - Based Ensemble Learning Algorithm",
+        "authors": "",
+        "published": "2023-2-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.0228.13"
+    },
+    {
+        "id": 17064,
+        "title": "Integrated deep learning and ensemble learning model for deep feature-based wheat disease detection",
+        "authors": "Hatice Catal Reis, Veysel Turk",
+        "published": "2024-2",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.microc.2023.109790"
+    },
+    {
+        "id": 17065,
+        "title": "Deep Learning based Spectrum predictions for Cognitive Healthcare system",
+        "authors": "Parnika Kansal",
+        "published": "2023-7-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccnt56998.2023.10307849"
+    },
+    {
+        "id": 17066,
+        "title": "RAINFALL-RUNOFF PREDICTIONS IN RAINFED AGRICULTURE USING MACHINE LEARNING",
+        "authors": "",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56726/irjmets33836"
+    },
+    {
+        "id": 17067,
+        "title": "How effective is machine learning in stock market predictions?",
+        "authors": "Nazif Ayyildiz, Omer Iskenderoglu",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2024.e24123"
+    },
+    {
+        "id": 17068,
+        "title": "A Deep Learning Ensemble Method for Forecasting Daily Crude Oil Price Based on Snapshot Ensemble of Transformer Model",
+        "authors": "Ahmed Fathalla, Zakaria Alameer, Mohamed Abbas, Ahmed Ali",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/csse.2023.035255"
+    },
+    {
+        "id": 17069,
+        "title": "Coal price forecasting using complete ensemble empirical mode decomposition and stacking‐based ensemble learning with semisupervised data processing",
+        "authors": "Jing Tang, Yida Guo, Yilin Han",
+        "published": "2024-1-4",
+        "citations": 0,
+        "abstract": "AbstractGlobally, coal is a critical energy source, and the profits of related enterprises are highly related to changes in the coal price. A robust coal purchasing cost forecasting method may enhance the coal purchasing strategies of coal‐consuming enterprises and obtain key information for reducing global carbon emissions. However, forecasting the price of coal is a challenging task due to the noise and high random fluctuation of coal price data. To overcome these obstacles, this research proposes a novel forecasting method combining data decomposition, semisupervised feature engineering, and ensemble learning to forecast coal prices. Initially, the Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN) method is employed to decompose the coal price series to reduce the complexity. Second, considering the fluctuation of coal price is influenced by various factors (such as transportation cost and coal mine production), the proposed system incorporates an adaptive data fusion module to fuse data from multiple sources. Finally, a stacking‐based ensemble learning model is adopted in the method to increase the forecasting accuracy by combining the forecasting results of multiple models. The Bohai‐Rim Steam‐Coal Price Index was used to validate the proposed method, and the result of the case study shows that the proposed method provides superior performance than the other nine baseline models in all measured indices. The outcomes of ablation tests indicate the precision of each algorithm is improved by combining CEEMDAN, which proves that the decomposition algorithm is necessary.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1002/ese3.1660"
+    },
+    {
+        "id": 17070,
+        "title": "Bilgisayarlı Görmede Topluluk Öğrenimi (Ensemble Learning) Yaklaşımları",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.59287/as-proceedings.225"
+    },
+    {
+        "id": 17071,
+        "title": "Multi-Choice Diet Recommendation Application for Indian Scenario Based on Insights from Ensemble Learning Techniques",
+        "authors": "Karthika Subbaraj",
+        "published": "2024-3-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/engproc2024062013"
+    },
+    {
+        "id": 17072,
+        "title": "Big data classification of learning behavior based on data reduction and ensemble learning",
+        "authors": "Xiaoxuan Wu, Taotao Wang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijceell.2024.10053215"
+    },
+    {
+        "id": 17073,
+        "title": "Ensemble-in-One: Ensemble Learning within Random Gated Networks for Enhanced Adversarial Robustness",
+        "authors": "Yi Cai, Xuefei Ning, Huazhong Yang, Yu Wang",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Adversarial attacks have threatened modern deep learning systems by crafting adversarial examples with small perturbations to fool the convolutional neural networks (CNNs). To alleviate that, ensemble training methods are proposed to facilitate better adversarial robustness by diversifying the vulnerabilities among the sub-models, simultaneously maintaining comparable natural accuracy as standard training. Previous practices also demonstrate that enlarging the ensemble can improve the robustness. However, conventional ensemble methods are with poor scalability, owing to the rapidly increasing complexity when containing more sub-models in the ensemble. Moreover, it is usually infeasible to train or deploy an ensemble with substantial sub-models, owing to the tight hardware resource budget and latency requirement. In this work, we propose Ensemble-in-One (EIO), a simple but effective method to efficiently enlarge the ensemble with a random gated network (RGN). EIO augments a candidate model by replacing the parametrized layers with multi-path random gated blocks (RGBs) to construct an RGN. The scalability is significantly boosted because the number of paths exponentially increases with the RGN depth. Then by learning from the vulnerabilities of numerous other paths within the RGN, every path obtains better adversarial robustness. Our experiments demonstrate that EIO consistently outperforms previous ensemble training methods with smaller computational overheads, simultaneously achieving better accuracy-robustness trade-offs than adversarial training methods under black-box transfer attacks. Code is available at https://github.com/cai-y13/Ensemble-in-One.git",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i12.26722"
+    },
+    {
+        "id": 17074,
+        "title": "An Ensemble Learning Approach for SMS Spam Detection",
+        "authors": "Shaghayegh Hosseinpour, Hadi Shakibian",
+        "published": "2023-5-3",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icwr57742.2023.10139070"
+    },
+    {
+        "id": 17075,
+        "title": "Learning Less Generalizable Patterns for Better Test-Time Adaptation",
+        "authors": "Thomas Duboudin, Emmanuel Dellandréa, Corentin Abgrall, Gilles Hénaff, Liming Chen",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011893800003417"
+    },
+    {
+        "id": 17076,
+        "title": "Statistical Predictions of Trading Strategies in Electronic Markets",
+        "authors": "Álvaro Cartea, Samuel N. Cohen, Rob Graumans, Saad Labyad, Leandro Sánchez-Betancourt, Leon van Veldhuijzen",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2139/ssrn.4442770"
+    },
+    {
+        "id": 17077,
+        "title": "Does Early Unit Size Impact the Formation of Linguistic Predictions? Grammatical Gender as a Case Study",
+        "authors": "Rana Abu‐Zhaya, Inbal Arnon",
+        "published": "2024-4-2",
+        "citations": 0,
+        "abstract": "AbstractMaking adults learn from larger linguistic units can facilitate learning article–noun agreement. Here we ask whether initial exposure to larger units improves learning by increasing the predictive associations between the article and noun. Using an artificial language learning paradigm, we taught 106 Hebrew‐speaking participants novel article–noun associations with either segmented input first or unsegmented input first, and tested their learning of the article–noun association and their ability to use articles to predict nouns. Our results showed that participants exposed to unsegmented input first were more likely to treat the article–noun unit as one word and were more accurate at learning the correct article–noun associations. However, participants in the unsegmented‐first condition did not show increased gaze to the target compared to those in the segmented‐first condition. We discuss how these findings inform our understanding of the challenges that adults face when learning a second language.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1111/lang.12638"
+    },
+    {
+        "id": 17078,
+        "title": "Ensemble Two Stage Machine Learning for Network Abnormal Detection",
+        "authors": "Runze Du, Runzhi Li, Zijiao Zhang",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3587716.3587732"
+    },
+    {
+        "id": 17079,
+        "title": "Becoming Better Learners, Becoming Better Teachers: Augmenting Learning via Cognitive and Motivational Theories",
+        "authors": "Veronica X. Yan, Brendan A. Schuetze, Stephany Duany Rea",
+        "published": "2023-11-28",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42087-023-00383-1"
+    },
+    {
+        "id": 17080,
+        "title": "Learning Better Masking for Better Language Model Pre-training",
+        "authors": "Dongjie Yang, Zhuosheng Zhang, Hai Zhao",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-long.400"
+    },
+    {
+        "id": 17081,
+        "title": "Deep Learning AD Detection Model based on a Two-Layer Ensemble Module with Data Augmentation and Contrastive Learning",
+        "authors": "Weicheng Wang",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3590003.3590061"
+    },
+    {
+        "id": 17082,
+        "title": "Improving road safety with ensemble learning: Detecting driver anomalies using vehicle inbuilt cameras",
+        "authors": "Tumlumbe Juliana Chengula, Judith Mwakalonge, Gurcan Comert, Saidi Siuhi",
+        "published": "2023-12",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.mlwa.2023.100510"
+    },
+    {
+        "id": 17083,
+        "title": "Leveraging ensemble learning for stealth assessment model with game-based learning environment",
+        "authors": "Dineshkumar Rajendran, Prasanna Santhanam",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00500-023-09605-8"
+    },
+    {
+        "id": 17084,
+        "title": "Envisaging and Retaining College Workforce Attrition using Machine Learning and Ensemble Learning",
+        "authors": "Avinash Golande, Vasudev Surwase, Neha Patil, Janhvi Bhandekar, Jay Shinde",
+        "published": "2023-1-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iconat57137.2023.10080463"
+    },
+    {
+        "id": 17085,
+        "title": "Strategies Taken by the Government of Kenya to Ensure Better Community Policing in Lurambi Sub-County, Kenya",
+        "authors": "",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7176/ppar/13-5-02"
+    },
+    {
+        "id": 17086,
+        "title": "Few-Shot Classification of Seals Based on Improved Ensemble Learning Algorithm",
+        "authors": "Chao Wang, Xiaohua Niu, Qilin Zhou",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlccim60412.2023.00065"
+    },
+    {
+        "id": 17087,
+        "title": "Comparative Analysis of Deep Learning Architecture with Ensemble Learning in Cranial and Mediolateral View Images",
+        "authors": "H S Sushma, Kavitha Sooda",
+        "published": "2023-11-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iciics59993.2023.10421073"
+    },
+    {
+        "id": 17088,
+        "title": "Modelling flood susceptibility based on deep learning coupling with ensemble learning models",
+        "authors": "Yuting Li, Haoyuan Hong",
+        "published": "2023-1",
+        "citations": 22,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jenvman.2022.116450"
+    },
+    {
+        "id": 17089,
+        "title": "Detection of Cataracts from Retinal Fundus Image Using Ensemble Machine Learning Approach",
+        "authors": "Md. Nahid Hasan, Md. Ali Hossain",
+        "published": "2023-6-16",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ncim59001.2023.10212644"
+    },
+    {
+        "id": 17090,
+        "title": "Research on Demand Forecasting Method of Shared Bicycle Based on Ensemble Learning",
+        "authors": "Qiongshuai Lyu, Ruizhe Zhang",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424944"
+    },
+    {
+        "id": 17091,
+        "title": "Enhancing sugarcane disease classification with ensemble deep learning: A comparative study with transfer learning techniques",
+        "authors": "Swapnil Dadabhau Daphal, Sanjay M. Koli",
+        "published": "2023-8",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.heliyon.2023.e18261"
+    },
+    {
+        "id": 17092,
+        "title": "Role of Machine Learning Ensemble in DDoS Intrusion Detection",
+        "authors": "Ravindra S. Tambe, Hiren Dand, Mangesh D. Salunke",
+        "published": "2023-10-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icccmla58983.2023.10346867"
+    },
+    {
+        "id": 17093,
+        "title": "Study on Trends and Predictions of Convergence in Cybersecurity Technology Using Machine Learning",
+        "authors": "Sungwook Ryu Sungwook Ryu, Jinsu Kim Sungwook Ryu, Namje Park Jinsu Kim",
+        "published": "2023-5",
+        "citations": 0,
+        "abstract": "\n                        <p>The indiscriminate convergence of technologies makes prediction difficult and can cause many difficulties in technology investment. This makes it difficult to choose capital investment and can induce excessive investment in inefficient technologies. Therefore, analyzing the trend of convergence technology and predicting a highly influential convergence area in the future can induce effective investment, and lead the highly influential technology to achieve great technological development. The purpose of this paper is to analyze technologies that are expected to have high influence in the future through prediction of major fusion areas and to present fusion areas that can be used as indicators of investment. The proposed mechanism selected four prominent journals in the security area and collected metadata to generate a dataset in terms of technological excellence and a dataset in terms of commercialization through patent metadata collection. Thereafter, a process of extracting a main keyword according to a topic from a metadata set by applying a Latent Dirichlet Allocation (LDA) is performed. The extracted topics and keywords are not related to topics and keywords of other years. Therefore, a dynamic topic model (DTM) is applied to analyze the trend of the extracted topics and perform prediction. DTM analyzes the topics in the fusion area classified by LDA and the trend of changing topics linked by year for each topic keyword. Finally, the association of the fusion region is analyzed to derive a fusion region with high influence. These results are believed to be used as an indicator of effective technology investment by providing a high impact area in the convergence area of cybersecurity.</p>\n<p>&nbsp;</p>\n                    ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.53106/160792642023052403016"
+    },
+    {
+        "id": 17094,
+        "title": "Protein pKa predictions with machine learning",
+        "authors": "Mingzhe Shen, Ruibin Liu, Jana Shen",
+        "published": "2024-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.bpj.2023.11.3324"
+    },
+    {
+        "id": 17095,
+        "title": "Macroeconomic Predictions Using Payments Data and Machine Learning",
+        "authors": "James T. E. Chapman, Ajit Desai",
+        "published": "2023-11-27",
+        "citations": 0,
+        "abstract": "This paper assesses the usefulness of comprehensive payments data for macroeconomic predictions in Canada. Specifically, we evaluate which type of payments data are useful, when they are useful, why they are useful, and whether machine learning (ML) models enhance their predictive value. We find payments data with a factor model can help improve accuracy up to 25% in predicting GDP, retail, and wholesale sales; and nonlinear ML models can further improve the accuracy up to 20%. Furthermore, we find the retail payments data are more useful than the data from the wholesale system; and they add more value during crisis and at the nowcasting horizon due to the timeliness. The contribution of the payments data and ML models is small and linear during low and normal economic growth periods. However, their contribution is large, asymmetrical, and nonlinear during crises such as COVID-19. Moreover, we propose a cross-validation approach to mitigate overfitting and use tools to overcome interpretability in the ML models to improve their effectiveness for policy use.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/forecast5040036"
+    },
+    {
+        "id": 17096,
+        "title": "Improved Variance Predictions in Approximate Message Passing",
+        "authors": "Zilu Zhao, Dirk Slock",
+        "published": "2023-9-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlsp55844.2023.10286007"
+    },
+    {
+        "id": 17097,
+        "title": "Computing the Ensemble Spread From Deterministic Weather Predictions Using Conditional Generative Adversarial Networks",
+        "authors": "Rüdiger Brecht, Alex Bihlo",
+        "published": "2023-1-28",
+        "citations": 5,
+        "abstract": "AbstractEnsemble prediction systems are an invaluable tool for weather forecasting. Practically, ensemble predictions are obtained by running several perturbations of the deterministic control forecast. However, ensemble prediction is associated with a high computational cost and often involves statistical post‐processing steps to improve its quality. Here we propose to use deep‐learning‐based algorithms to learn the statistical properties of an ensemble prediction system, the ensemble spread, given only the deterministic control forecast. Thus, once trained, the costly ensemble prediction system will not be needed anymore to obtain future ensemble forecasts, and the statistical properties of the ensemble can be derived from a single deterministic forecast. We adapt the classical pix2pix architecture to a three‐dimensional model and train them against several years of operational (ensemble) weather forecasts for the 500 hPa geopotential height. The results demonstrate that the trained models indeed allow obtaining a highly accurate ensemble spread from the control forecast only.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1029/2022gl101452"
+    },
+    {
+        "id": 17098,
+        "title": "Special Issue on Ensemble Learning and/or Explainability",
+        "authors": "Panagiotis Pintelas, Ioannis E. Livieris",
+        "published": "2023-1-11",
+        "citations": 0,
+        "abstract": "This article will summarize the works published in a Special Issue of Algorithms, entitled “Ensemble Learning and/or Explainability”(https://www [...]",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/a16010049"
+    },
+    {
+        "id": 17099,
+        "title": "Online Shoppers' Purchase Intention using Ensemble Learning Approach",
+        "authors": "Jhimli Adhikari",
+        "published": "2023-11-28",
+        "citations": 0,
+        "abstract": "The customer’s purchase intention can be predicted by analyzing the history of the customers. In this study, we have analyzed the data of online shoppers for building a better prediction model to predict their purchase intention. Initially exploratory data analysis is performed on the dataset. We have used different ensemble algorithms such as Random Forest, Gradient Boosting, XGBoost and LightGBM to predict whether a customer, visiting the website of an online shop, will end up with a purchase or not. Later we have performed ensemble methods to boost up the performance of the algorithms using SMOTE to overcome class imbalance. Lastly model performance evaluation is done using parameter tuning. Study has shown that XGBoost model predicts with 89.97 % accuracy on imbalanced data, whereas Random Forest displays 93% accuracy after using SMOTE to predict the customer’s purchase intention. Moreover, XGBoost shows the highest accuracy, which is 93.54% after parameter tuning. Execution time of the models is also observed in the study.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.47164/ijngc.v14i4.1065"
+    },
+    {
+        "id": 17100,
+        "title": "Integrating Ensemble Weather Predictions in a Hydrologic-Hydraulic Modelling System for Fine-Resolution Flood Forecasting: The Case of Skala Bridge at Evrotas River, Greece",
+        "authors": "George Varlas, Anastasios Papadopoulos, George Papaioannou, Vassiliki Markogianni, Angelos Alamanos, Elias Dimitriou",
+        "published": "2024-1-19",
+        "citations": 0,
+        "abstract": "Ensemble weather forecasting involves the integration of multiple simulations to improve the accuracy of predictions by introducing a probabilistic approach. It is difficult to accurately predict heavy rainfall events that cause flash floods and, thus, ensemble forecasting could be useful to reduce uncertainty in the forecast, thus improving emergency response. In this framework, this study presents the efforts to develop and assess a flash flood forecasting system that combines meteorological, hydrological, and hydraulic modeling, adopting an ensemble approach. The integration of ensemble weather forecasting and, subsequently, ensemble hydrological-hydraulic modeling can improve the accuracy of flash flood predictions, providing useful probabilistic information. The flash flood that occurred on 26 January 2023 in the Evrotas river basin (Greece) is used as a case study. The meteorological model, using 33 different initial and boundary condition datasets, simulated heavy rainfall, the hydrological model, using weather inputs, simulated discharge, and the hydraulic model, using discharge data, estimated water level at a bridge. The results show that the ensemble modeling system results in timely forecasts, while also providing valuable flooding probability information for 1 to 5 days prior, thus facilitating bridge flood warning. The continued refinement of such ensemble multi-model systems will further enhance the effectiveness of flash flood predictions and ultimately save lives and property.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/atmos15010120"
+    },
+    {
+        "id": 17101,
+        "title": "Ensemble Machine Learning Approaches for Prediction of Türkiye’s Energy Demand",
+        "authors": "Merve Kayacı Çodur",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "Energy demand forecasting is a fundamental aspect of modern energy management. It impacts resource planning, economic stability, environmental sustainability, and energy security. This importance is making it critical for countries worldwide, particularly in cases like Türkiye, where the energy dependency ratio is notably high. The goal of this study is to propose ensemble machine learning methods such as boosting, bagging, blending, and stacking with hyperparameter tuning and k-fold cross-validation, and investigate the application of these methods for predicting Türkiye’s energy demand. This study utilizes population, GDP per capita, imports, and exports as input parameters based on historical data from 1979 to 2021 in Türkiye. Eleven combinations of all predictor variables were analyzed, and the best one was selected. It was observed that a very high correlation exists among population, GDP, imports, exports, and energy demand. In the first phase, the preliminary performance was investigated of 19 different machine learning algorithms using 5-fold cross-validation, and their performance was measured using five different metrics: MSE, RMSE, MAE, R-squared, and MAPE. Secondly, ensemble models were constructed by utilizing individual machine learning algorithms, and the performance of these ensemble models was compared, both with each other and the best-performing individual machine learning algorithm. The analysis of the results revealed that placing Ridge as the meta-learner and using ET, RF, and Ridge as the base learners in the stacking ensemble model yielded the highest R-squared value, which was 0.9882, indicating its superior performance. It is anticipated that the findings of this research can be applied globally and prove valuable for energy policy planning in any country. The results obtained not only highlight the accuracy and effectiveness of the predictive model but also underscore the broader implications of this study within the framework of the United Nations’ Sustainable Development Goals (SDGs).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/en17010074"
+    },
+    {
+        "id": 17102,
+        "title": "Using Ensemble Learning in Language Variety Identification",
+        "authors": "Mihaela Gaman",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.vardial-1.23"
+    },
+    {
+        "id": 17103,
+        "title": "Phishing Website Detection Using Ensemble Learning",
+        "authors": "",
+        "published": "2023-1-10",
+        "citations": 1,
+        "abstract": "Phishing is also the most common type of data breach. As a result, it is carried out by sending an email with links that lead to fraudulent websites. This technique is especially targeted to large companies. Usually, the attackers send emails with work-related information. Machine learning is one of the most successful techniques for detecting phishing. This paper analyzed the results of various machine learning techniques for predicting phishing websites. And also describes the various methods that are used to identify phishing websites. Some of these include the SVM classification method, Random Forest method, and AdaBoost method. Ensemble model that combines the SVM, Random Forest, and AdaBoost methods was able to classify a phishing site with an accuracy of 96%",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30534/ijeter/2023/031112023"
+    },
+    {
+        "id": 17104,
+        "title": "Heart disease prediction using machine learning ensemble",
+        "authors": "Drawpada Sharma,  Vishwanath",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0191651"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 25705,
+        "title": "Named Entity Recognition for Arabic Medical Texts Using Deep Learning Models",
+        "authors": "Hamada Nayel, Nourhan Marzouk, Ahmed Elsawy",
+        "published": "2023-7-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/imsa58542.2023.10217658"
+    },
+    {
+        "id": 25706,
+        "title": "Multilingual Named Entity Recognition in archaeology: an approach based on deep learning",
+        "authors": "Maria Pia di Buono",
+        "published": "2024-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.24072/pci.archaeo.100394"
+    },
+    {
+        "id": 25707,
+        "title": "Named Entity Recognition from Chinese Medical Literature Based on Deep Learning Method",
+        "authors": "Chen Wenqi, Han Pu, Zhong Yule, Gu Liang, Li Xiaoyan",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10451997"
+    },
+    {
+        "id": 25708,
+        "title": "A Deep Learning Model of Spatial Distance and Named Entity Recognition (SD-NER) for Flood Mark Text Classification",
+        "authors": "Robert Szczepanek",
+        "published": "2023-3-20",
+        "citations": 5,
+        "abstract": "Information on historical flood levels can be communicated verbally, in documents, or in the form of flood marks. The latter are the most useful from the point of view of public awareness building and mathematical modeling of floods. Information about flood marks can be found in documents, but nowadays, they are starting to appear more often on the Internet. The only problem is finding them. The aim of the presented work is to create a new model for classifying Internet sources using advanced text analysis (including named entity recognition), deep neural networks, and spatial analysis. As a novelty in models of this type, it was proposed to use a matrix of minimum distances between toponyms (rivers and towns/villages) found in the text. The resulting distance matrix for Poland was published as open data. Each of the methods used is well known, but so far, no one has combined them into one ensemble machine learning model in such a way. The proposed SD-NER model achieved an F1 score of 0.920 for the binary classification task, improving the model without this spatial module by 17%. The proposed model can be successfully implemented after minor modifications for other classification tasks where spatial information about toponyms is important.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/w15061197"
+    },
+    {
+        "id": 25709,
+        "title": "A Survey on Deep Learning for Named Entity Recognition : Extended Abstract",
+        "authors": "Jing Li, Aixin Sun, Jianglei Han, Chenliang Li",
+        "published": "2023-4",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icde55515.2023.00335"
+    },
+    {
+        "id": 25710,
+        "title": "Biomedical Named Entity Recognition Through Deep Reinforcement Learning",
+        "authors": "Zhehuan Zhao, Yuying Zou, Menghan Wang, Bo Xu, Zhihao Yang, Hongfei Lin",
+        "published": "2023-12-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bibm58861.2023.10386014"
+    },
+    {
+        "id": 25711,
+        "title": "A hybrid drug named entity recognition framework for real time  pubmed data using deep learning and text summarization  techniques",
+        "authors": "Mathu T",
+        "published": "2023-8-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.15199/48.2023.08.18"
+    },
+    {
+        "id": 25712,
+        "title": "Cybersecurity Named Entity Recognition Based on Word-level Enhancement and Multi-task Learning",
+        "authors": "Yiqin Lu, Hong Qi, Jiancheng Qin, Jiarui Chen, Weiqiang Pan",
+        "published": "2023-7-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3613330.3613346"
+    },
+    {
+        "id": 25713,
+        "title": "Weak Supervision Approach for Arabic Named Entity Recognition",
+        "authors": "Olga Simek, Courtland VanDam",
+        "published": "2023-9-16",
+        "citations": 0,
+        "abstract": "Arabic named entity recognition (NER) is a challenging problem, especially in conversational data such as social media posts. To address this problem, we propose an Arabic weak learner NER model called ANER-HMM, which leverages low quality predictions that provide partial recognition of entities. By combining these predictions, we achieve state of the art NER accuracy for cases for out-of-domain predictions. ANER-HMM leverages a hidden markov model to combine multiple predictions from weak learners and gazetteers. We demonstrate that ANER-HMM outperforms the state-of-the-art Arabic NER methods without requiring any labeled data or training deep learning models which often require large computing resources.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131602"
+    },
+    {
+        "id": 25714,
+        "title": "Deep Span Representations for Named Entity Recognition",
+        "authors": "Enwei Zhu, Yiyang Liu, Jinpeng Li",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.672"
+    },
+    {
+        "id": 25715,
+        "title": "Named Entity Recognition of Ancient Wine Texts Based on Deep Learning Models",
+        "authors": "Wei Zhang, Yadong Wu, Weihan Zhang, Yuling Zhang, Xiang Ji",
+        "published": "2023-1-4",
+        "citations": 0,
+        "abstract": "Named entity recognition of ancient wine canonical books helps to excavate the history of wine culture, inherit ancient Chinese wine culture and help modern wine industry. In this paper, the collection of ancient wine data was carried out through the web and books, and after analysis and discussion, five types of entities were selected for manual entity annotation: wine name, person name, place name, event name and time, and the corpus was trained and compared using machine learning method CRF and deep learning method LTSM with BERT pre-training model. BERT pre-training model has the best effect among all models, and the reconciliation of entity recognition The average is higher than other models, up to 88.33%. The subsequent annotation process and BERT model can be optimized or the sample corpus can be expanded to improve the training effect, and the entity annotation system of ancient Chinese text can also provide a reference for subsequent research.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/ajst.v4i2.3978"
+    },
+    {
+        "id": 25716,
+        "title": "A lattice-transformer-graph deep learning model for Chinese named entity recognition",
+        "authors": "Min Lin, Yanyan Xu, Chenghao Cai, Dengfeng Ke, Kaile Su",
+        "published": "2023-3-31",
+        "citations": 0,
+        "abstract": "Abstract\nNamed entity recognition (NER) is the localization and classification of entities with specific meanings in text data, usually used for applications such as relation extraction, question answering, etc. Chinese is a language with Chinese characters as the basic unit, but a Chinese named entity is normally a word containing several characters, so both the relationships between words and those between characters play an important role in Chinese NER. At present, a large number of studies have demonstrated that reasonable word information can effectively improve deep learning models for Chinese NER. Besides, graph convolution can help deep learning models perform better for sequence labeling. Therefore, in this article, we combine word information and graph convolution and propose our Lattice-Transformer-Graph (LTG) deep learning model for Chinese NER. The proposed model pays more attention to additional word information through position-attention, and therefore can learn relationships between characters by using lattice-transformer. Moreover, the adapted graph convolutional layer enables the model to learn both richer character relationships and word relationships and hence helps to recognize Chinese named entities better. Our experiments show that compared with 12 other state-of-the-art models, LTG achieves the best results on the public datasets of Microsoft Research Asia, Resume, and WeiboNER, with the F1 score of 95.89%, 96.81%, and 72.32%, respectively.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1515/jisys-2022-2014"
+    },
+    {
+        "id": 25717,
+        "title": "Research on Named Entity Recognition of Laboratory Safety Knowledge based on Deep Learning",
+        "authors": "Cong Han, Bin Wen, Xin Wan",
+        "published": "2023-8-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icbase59196.2023.10303220"
+    },
+    {
+        "id": 25718,
+        "title": "E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition",
+        "authors": "Zhen Zhang, Mengting Hu, Shiwan Zhao, Minlie Huang, Haotian Wang, Lemao Liu, Zhirui Zhang, Zhe Liu, Bingzhe Wu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.103"
+    },
+    {
+        "id": 25719,
+        "title": "Named Entity Recognition for English Language Using Deep Learning Based Bi Directional LSTM-RNN",
+        "authors": "Sanjay Kumar Duppati, A.Ramesh Babu",
+        "published": "2023-5-17",
+        "citations": 1,
+        "abstract": "The NER has been important in different applications like data Retrieval and Extraction, Text Summarization, Machine Translation, Question Answering (Q-A), etc. While several investigations have been carried out for NER in English, a high-accuracy tool still must be designed per the Literature Survey. This paper suggests an English Named Entities Recognition methodology using NLP algorithms called Bi-Directional Long short-term memory-based recurrent neural network (LSTM-RNN). Most English Language NER systems use detailed features and handcrafted algorithms with gazetteers. The proposed model is language-independent and has no domain-specific features or handcrafted algorithms. Also, it depends on semantic knowledge from word vectors realized by an unsupervised learning algorithm on an unannotated corpus. It achieved state-of-the-art performance in English without the use of any morphological research or without using gazetteers of any sort. A little database group of 200 sentences includes 3080 words. The features selection and generations are presented to catch the Name Entity. The proposed work is desired to forecast the Name Entity of the focus words in a sentence with high accuracy with the benefit of practical knowledge acquisition techniques.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17762/ijritcc.v11i5.6621"
+    },
+    {
+        "id": 25720,
+        "title": "German BERT Model for Legal Named Entity Recognition",
+        "authors": "Harshil Darji, Jelena Mitrović, Michael Granitzer",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011749400003393"
+    },
+    {
+        "id": 25721,
+        "title": "Advancements in Named Entity Recognition using Deep Learning Techniques: A Comprehensive Study on Emerging Trends",
+        "authors": " Shalini Sharma,  Reetesh Kumar Srivastava,  Dr. Piyush Pratap Singh",
+        "published": "2023-6-24",
+        "citations": 0,
+        "abstract": "Because of the amount of computer-processable text material and processing hardware, deep learning architecture has been the focus of knowledge projects. The task of named entity recognition in natural language processing is no exception. Because of the volume of text material that computers can process and their processing capability, knowledge projects are now focusing on deep learning architecture. Named entity recognition, is a frequently occurring task in natural language processing. Deep learning models, particularly recurrent neural net- works (RNNs) and their variations such as gated recurrent units (GRUs) and long short-term memory (LSTM) , have revolutionised natural language pro- cessing (NER) by capturing intricate contextual connections. These models can accurately forecast the borders and types of named entities because they can effectively capture the sequential and hierarchical patterns inside text. However, using deep learning in NER is a challenging task in itself. Annotated training data is critical for building reliable models, but getting labelled data for all item kinds and domains can be time-consuming. To solve this difficulty, transfer learn- ing and domain adaptation strategies have arisen, using pre-trained models and adapting them to various domains or target tasks. This paper looks at recent deep learning methods for NER and how they evolved from older linear learning approaches. It also analyses the status of activities that are either upstream or downstream of NER, such as sequence tagging and entity linking, among other things",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48175/ijarsct-11657"
+    },
+    {
+        "id": 25722,
+        "title": "An Effective Biomedical Named Entity Recognition by Handling Imbalanced Data Sets Using Deep Learning and Rule-Based Methods",
+        "authors": "S. M. Archana, Jay Prakash, Pramod Kumar Singh, Waquar Ahmed",
+        "published": "2023-8-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-02068-6"
+    },
+    {
+        "id": 25723,
+        "title": "Automatic Configuration of Deep Learning Algorithms for an Arabic Named Entity Recognition System",
+        "authors": "AZROUMAHLI Chaimae, MOUHIB Ibtihal, El YOUNOUSSI Yacine, BADIR Hassan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.14569/ijacsa.2023.0141012"
+    },
+    {
+        "id": 25724,
+        "title": "Transfer Learning for Low-Resource Clinical Named Entity Recognition",
+        "authors": "Nevasini Sasikumar, Krishna Sri Ipsit Mantri",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.clinicalnlp-1.53"
+    },
+    {
+        "id": 25725,
+        "title": "An Efficient Named Entity Recognition Model In Medical Health Records Using Water Wave Optimization With Kernel Extreme Learning Machine",
+        "authors": "",
+        "published": "2023-5-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.48047/nq.2022.20.3.nq22958"
+    },
+    {
+        "id": 25726,
+        "title": "AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning",
+        "authors": "Ling Luo, Chih-Hsuan Wei, Po-Ting Lai, Robert Leaman, Qingyu Chen, Zhiyong Lu",
+        "published": "2023-5-4",
+        "citations": 3,
+        "abstract": "Abstract\n\nMotivation\nBiomedical named entity recognition (BioNER) seeks to automatically recognize biomedical entities in natural language text, serving as a necessary foundation for downstream text mining tasks and applications such as information extraction and question answering. Manually labeling training data for the BioNER task is costly, however, due to the significant domain expertise required for accurate annotation. The resulting data scarcity causes current BioNER approaches to be prone to overfitting, to suffer from limited generalizability, and to address a single entity type at a time (e.g. gene or disease).\n\n\nResults\nWe therefore propose a novel all-in-one (AIO) scheme that uses external data from existing annotated resources to enhance the accuracy and stability of BioNER models. We further present AIONER, a general-purpose BioNER tool based on cutting-edge deep learning and our AIO schema. We evaluate AIONER on 14 BioNER benchmark tasks and show that AIONER is effective, robust, and compares favorably to other state-of-the-art approaches such as multi-task learning. We further demonstrate the practical utility of AIONER in three independent tasks to recognize entity types not previously seen in training data, as well as the advantages of AIONER over existing methods for processing biomedical text at a large scale (e.g. the entire PubMed data).\n\n\nAvailability and implementation\nThe source code, trained models and data for AIONER are freely available at https://github.com/ncbi/AIONER.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btad310"
+    },
+    {
+        "id": 25727,
+        "title": "Reinforcement learning based distantly supervised biomedical named entity recognition",
+        "authors": "Manish Bali, S.P. Anandaraj",
+        "published": "2023-5-15",
+        "citations": 0,
+        "abstract": "Data used by current Biomedical named entity recognition (BioNER) systems has mostly been manually labelled for supervision. However, it might be difficult to find large amounts of annotated data, especially in fields with a high level of specialization, such as biomedical, bioinformatics, and so on. When dictionaries and ontologies are available, which are domain-specific knowledge resources, automatically tagged distantly supervised biomedical training data can be developed. However, any such distantly supervised NER result is normally noisy. The prevalence of false positives and false negatives with this type of autonomously generated data is the main problem that directly affects efficiency. This research investigates distant supervision to detect false positive occurrences in BioNER task. A reinforcement learning technique is employed that is modelled as a graphical processing unit (GPU) accelerated Markov decision process (MDP) with a neural network policy. To deal with false negative cases, we employ a partial annotation conditional random field (CRF) technique. Results on two benchmark datasets show a cutting-edge methodology that can enhance the functionality of the neural NER system. It goes on to show how the proposed approach cuts down on human annotated data for BioNER tasks in Natural Language Processing (NLP).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/idt-220205"
+    },
+    {
+        "id": 25728,
+        "title": "An effective undersampling method for biomedical named entity recognition using machine learning",
+        "authors": "S. M. Archana, Jay Prakash",
+        "published": "2024-4-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12530-024-09573-w"
+    },
+    {
+        "id": 25729,
+        "title": "Medical Named Entity Recognition (MedNER): A Deep Learning Model for Recognizing Medical Entities (Drug, Disease) from Scientific Texts",
+        "authors": "M. Saef Ullah Miah, Junaida Sulaiman, Talha Bin Sarwar, Saima Sharleen Islam, Mizanur Rahman, Md. Samiul Haque",
+        "published": "2023-7-6",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eurocon56442.2023.10199075"
+    },
+    {
+        "id": 25730,
+        "title": "Chinese engineering geological named entity recognition by fusing multi-features and data enhancement using deep learning",
+        "authors": "Qinjun Qiu, Miao Tian, Zhen Huang, Zhong Xie, Kai Ma, Liufeng Tao, Dexin Xu",
+        "published": "2024-3",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.eswa.2023.121925"
+    },
+    {
+        "id": 25731,
+        "title": "Sensitivity Analysis of Named Entity Extraction based on Deep Learning",
+        "authors": "Lea Roj, Aleksander Pur, Štefan Kohek, Niko Lukač",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.26493/scores23.12"
+    },
+    {
+        "id": 25732,
+        "title": "Implementing deep learning-based named entity recognition for obtaining narcotics abuse data in Indonesia",
+        "authors": "Daris Azhar, Robert Kurniawan, Waris Marsisno, Budi Yuniarto, Sukim Sukim, Sugiarto Sugiarto",
+        "published": "2024-3-1",
+        "citations": 0,
+        "abstract": "<span lang=\"EN-US\">The availability of drug abuse data from the official website of the National Narcotics Board of Indonesia is not up-to-date. Besides, the drug reports from Indonesian National Narcotics Board are only published once a year. This study aims to utilize online news sites as a data source for collecting information about drug abuse in Indonesia. In addition, this study also builds a named entity recognition (NER) model to extract information from news texts. The primary NER model in this study uses the convolutional neural network-long short-term memory (CNNs-LSTM) architecture because it can produce a good performance and only requires a relatively short computation time. Meanwhile, the baseline NER model uses the bidirectional long short-term memory-conditional random field (Bi-LSTMs-CRF) architecture because it is easy to implement using the Flair framework. The primary model that has been built results in a performance (F1 score) of 82.54%. Meanwhile, the baseline model only results in a performance (F1 score) of 69.67%. Then, the raw data extracted by NER is processed to produce the number of drug suspects in Indonesia from 2018-2020. However, the data that has been produced is not as complete as similar data sourced from Indonesian National Narcotics Board publications.</span>",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.11591/ijai.v13.i1.pp375-382"
+    },
+    {
+        "id": 25733,
+        "title": "Zero-shot Learning for Named Entity Recognition in Software Specification Documents",
+        "authors": "Souvick Das, Novarun Deb, Agostino Cortesi, Nabendu Chaki",
+        "published": "2023-9",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/re57278.2023.00019"
+    },
+    {
+        "id": 25734,
+        "title": "Few-Shot Named Entity Recognition via Meta-Learning (Extended Abstract)",
+        "authors": "Jing Li, Billy Chiu, Shanshan Feng, Hao Wang",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icde55515.2023.00329"
+    },
+    {
+        "id": 25735,
+        "title": "Optimizing Arabic Named Entity Recognition through Active Learning and AraBERT",
+        "authors": "Hassen Mahdhaoui, Abdelkarim Mars, Mounir Zrigui",
+        "published": "2023-9-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/inista59065.2023.10310315"
+    },
+    {
+        "id": 25736,
+        "title": "Retracted: Named Entity Recognition of Medical Text Based on the Deep Neural Network",
+        "authors": "",
+        "published": "2023-10-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1155/2023/9805297"
+    },
+    {
+        "id": 25737,
+        "title": "Dart Games Optimizer with Deep Learning-Based Computational Linguistics Named Entity Recognition",
+        "authors": "Mesfer Al Duhayyim, Hala J. Alshahrani, Khaled Tarmissi, Heyam H. Al-Baity, Abdullah Mohamed, Ishfaq Yaseen, Amgad Atta Abdelmageed, Mohamed I. Eldesouki",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/iasc.2023.034827"
+    },
+    {
+        "id": 25738,
+        "title": "Research on Named Entity Recognition Based on Prompt Learning",
+        "authors": "Qing Zhou, Tso Yong, Dongzhi Lamao, Jiacuo Cairang",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/dsins60115.2023.10455402"
+    },
+    {
+        "id": 25739,
+        "title": "Deep Learning–Based Named Entity Recognition and Resolution of Referential Ambiguities for Enhanced Information Extraction from Construction Safety Regulations",
+        "authors": "Xiyu Wang, Nora El-Gohary",
+        "published": "2023-9",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1061/(asce)cp.1943-5487.0001064"
+    },
+    {
+        "id": 25740,
+        "title": "A deep neural framework for named entity recognition with boosted word embeddings",
+        "authors": "Archana Goyal, Vishal Gupta, Manish Kumar",
+        "published": "2023-7-13",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11042-023-16176-1"
+    },
+    {
+        "id": 25741,
+        "title": "EASAL: Entity-Aware Subsequence-Based Active Learning for Named Entity Recognition",
+        "authors": "Yang Liu, Jinpeng Hu, Zhihong Chen, Xiang Wan, Tsung-Hui Chang",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "Active learning is a critical technique for reducing labelling load by selecting the most informative data. Most previous works applied active learning on Named Entity Recognition (token-level task) similar to the text classification (sentence-level task). They failed to consider the heterogeneity of uncertainty within each sentence and required access to the entire sentence for the annotator when labelling. To overcome the mentioned limitations, in this paper, we allow the active learning algorithm to query subsequences within sentences and propose an Entity-Aware Subsequences-based Active Learning (EASAL) that utilizes an effective Head-Tail pointer to query one entity-aware subsequence for each sentence based on BERT. For other tokens outside this subsequence, we randomly select 30% of these tokens to be pseudo-labelled for training together where the model directly predicts their pseudo-labels. Experimental results on both news and biomedical datasets demonstrate the effectiveness of our proposed method. The code is released at https://github.com/lylylylylyly/EASAL.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i7.26069"
+    },
+    {
+        "id": 25742,
+        "title": "Knowledge Distillation Scheme for Named Entity Recognition Model Based on BERT",
+        "authors": "Chengqiong Ye, Alexander A. Hernandez",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlbdbi60823.2023.10482264"
+    },
+    {
+        "id": 25743,
+        "title": "Research on Named Entity Recognition Method Based on Option Hierarchical Reinforcement Learning",
+        "authors": "Rui Zeng, Jinyan Cai, Lingyun Yuan",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icise-ie60962.2023.10456409"
+    },
+    {
+        "id": 25744,
+        "title": "Assessing Conventional and Deep Learning-Based Approaches for Named Entity Recognition in Unstructured Hungarian Medical Reports",
+        "authors": "Gergő Bogacsovics, Balázs Harangi, Marcell Beregi-Kovács, Dávid Kupás, Róbert Lakatos, Norbert Dániel Serbán, Attila Tiba, János Tóth",
+        "published": "2024-1-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/sami60510.2024.10432795"
+    },
+    {
+        "id": 25745,
+        "title": "Chinese Named Entity Recognition based on Knowledge-Based Question",
+        "authors": "Arvind Chandrasekaran",
+        "published": "2023-10-28",
+        "citations": 0,
+        "abstract": "The knowledge-Based Question Answering (KBQA) system is an essential part of the customer service system aiming to answer natural language questions by recovering the structured data stored under the knowledge base. KBQA answers the natural language questions by recovering the structured data stored under the knowledge base.KBQA receives the user’s query and first needs to recognize the topic for the query entities like the location, name,organization, etc., The process is Named Entity Recognition (NER) using the Bidirectional Long Short-Term Memory Conditional Random Field model, and the SoftLexicon method is introduced as the Chinese NER tasks. A fuzzy matching module is proposed to analyze the application scenario characteristics using multiple methods. The module efficiently modifies the error recognition results, improving entity recognition performance. The fuzzy matching and the NER model are combined into the NER system. The power grid-related original data is collected to improvise the system following the power grid data characteristics.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5121/csit.2023.131910"
+    },
+    {
+        "id": 25746,
+        "title": "SKD-NER: Continual Named Entity Recognition via Span-based Knowledge Distillation with Reinforcement Learning",
+        "authors": "Yi Chen, Liang He",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.413"
+    },
+    {
+        "id": 25747,
+        "title": "Enhancing Hindi Named Entity Recognition through Ensemble Learning",
+        "authors": "Aayushi Singh, Sumit Singh, Uma Shanker Tiwary",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/upcon59197.2023.10434322"
+    },
+    {
+        "id": 25748,
+        "title": "A Novel Named Entity Recognition Mehod for Bus Route Identification in Social Media",
+        "authors": "Yanfang Shou, Jianmin Xu",
+        "published": "2023-7-25",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/mlccim60412.2023.00014"
+    },
+    {
+        "id": 25749,
+        "title": "Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset",
+        "authors": "Arthur Amalvy, Vincent Labatut, Richard Dufour",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.642"
+    },
+    {
+        "id": 25750,
+        "title": "Noise-Robust Training with Dynamic Loss and Contrastive Learning for Distantly-Supervised Named Entity Recognition",
+        "authors": "Zhiyuan Ma, Jintao Du, Shuheng Zhou",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.643"
+    },
+    {
+        "id": 25751,
+        "title": "Joint Speech Translation and Named Entity Recognition",
+        "authors": "Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi",
+        "published": "2023-8-20",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.21437/interspeech.2023-1767"
+    },
+    {
+        "id": 25752,
+        "title": "Re-weighting Tokens: A Simple and Effective Active Learning Strategy for Named Entity Recognition",
+        "authors": "Haocheng Luo, Wei Tan, Ngoc Nguyen, Lan Du",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.847"
+    },
+    {
+        "id": 25753,
+        "title": "BIOptimus: Pre-training an Optimal Biomedical Language Model with Curriculum Learning for Named Entity Recognition",
+        "authors": "Vera Pavlova, Mohammed Makhlouf",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.bionlp-1.31"
+    },
+    {
+        "id": 25754,
+        "title": "ESPVR: Entity Spans Position Visual Regions for Multimodal Named Entity Recognition",
+        "authors": "Xiujiao Li, Guanglu Sun, Xinyu Liu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.522"
+    },
+    {
+        "id": 25755,
+        "title": "A clinical named entity recognition model using pretrained word embedding and deep neural networks",
+        "authors": "Adyasha Dash, Subhashree Darshana, Devendra Kumar Yadav, Vinti Gupta",
+        "published": "2024-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dajour.2024.100426"
+    },
+    {
+        "id": 25756,
+        "title": "Compression Models via Meta-Learning and Structured Distillation for Named Entity Recognition",
+        "authors": "Qing Zhang, Zhan Gao, Mei Zhang, Jianyong Duan, Hao Wang, Li He",
+        "published": "2023-11-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ialp61005.2023.10336991"
+    },
+    {
+        "id": 25757,
+        "title": "Adversarial Transfer Learning for Biomedical Named Entity Recognition",
+        "authors": "Yue Wu, Jiana Meng, Dandan Zhao, Di Zhao, Wen Su",
+        "published": "2023-3-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594409.3594423"
+    },
+    {
+        "id": 25758,
+        "title": "Named Entity Recognition via Machine Reading Comprehension: A Multi-Task Learning Approach",
+        "authors": "Yibo Wang, Wenting Zhao, Yao Wan, Zhongfen Deng, Philip Yu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-ijcnlp.2"
+    },
+    {
+        "id": 25759,
+        "title": "Chinese named entity recognition based on MacBERT and Joint Learning",
+        "authors": "Dangguo Shao, Kun Huang, Lei Ma, Sanli Yi",
+        "published": "2023-8-12",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ccis59572.2023.10262869"
+    },
+    {
+        "id": 25760,
+        "title": "UM6P &amp; UL at WojoodNER shared task: Improving Multi-Task Learning for Flat and Nested Arabic Named Entity Recognition",
+        "authors": "Abdelkader Mahdaouy, Salima Lamsiyah, Hamza Alami, Christoph Schommer, Ismail Berrada",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.87"
+    },
+    {
+        "id": 25761,
+        "title": "Nested Named Entity Recognition based on Star-Transformer and BiLSTM",
+        "authors": "Wenyan Hu, Pengfei Duan, Aoxing Wang, Xiaoying Chen",
+        "published": "2023-2-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3587716.3587729"
+    },
+    {
+        "id": 25762,
+        "title": "A deep learning approach for Named Entity Recognition in Urdu language",
+        "authors": "Rimsha Anam, Muhammad Waqas Anwar, Muhammad Hasan Jamal, Usama Ijaz Bajwa, Isabel de la Torre Diez, Eduardo Silva Alvarado, Emmanuel Soriano Flores, Imran Ashraf",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "Named Entity Recognition (NER) is a natural language processing task that has been widely explored for different languages in the recent decade but is still an under-researched area for the Urdu language due to its rich morphology and language complexities. Existing state-of-the-art studies on Urdu NER use various deep-learning approaches through automatic feature selection using word embeddings. This paper presents a deep learning approach for Urdu NER that harnesses FastText and Floret word embeddings to capture the contextual information of words by considering the surrounding context of words for improved feature extraction. The pre-trained FastText and Floret word embeddings are publicly available for Urdu language which are utilized to generate feature vectors of four benchmark Urdu language datasets. These features are then used as input to train various combinations of Long Short-Term Memory (LSTM), Bidirectional LSTM (BiLSTM), Gated Recurrent Unit (GRU), CRF, and deep learning models. The results show that our proposed approach significantly outperforms existing state-of-the-art studies on Urdu NER, achieving an F-score of up to 0.98 when using BiLSTM+GRU with Floret embeddings. Error analysis shows a low classification error rate ranging from 1.24% to 3.63% across various datasets showing the robustness of the proposed approach. The performance comparison shows that the proposed approach significantly outperforms similar existing studies.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1371/journal.pone.0300725"
+    },
+    {
+        "id": 25763,
+        "title": "A Dynamic Optimization-Based Ensemble Learning Method for Traditional Chinese Medicine Named Entity Recognition",
+        "authors": "Zongyao Zhao, Yue Qian, Qirui Liu, Jiaxu Chen, Yueyun Liu",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3313608"
+    },
+    {
+        "id": 25764,
+        "title": "Fine-Tuning a Named Entity Recognition Model using Data Augmentation and Oracle-based learning",
+        "authors": "Megh Panandikar, Aditya Raghavan",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/upcon59197.2023.10434751"
+    },
+    {
+        "id": 25765,
+        "title": "CEPTNER: Contrastive learning Enhanced Prototypical network for Two-stage few-shot Named Entity Recognition",
+        "authors": "Enze Zha, Delong Zeng, Man Lin, Ying Shen",
+        "published": "2024-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2024.111730"
+    },
+    {
+        "id": 25766,
+        "title": "Cross-Dialectal Named Entity Recognition in Arabic",
+        "authors": "Niama Elkhbir, Urchade Zaratiana, Nadi Tomeh, Thierry Charnois",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.12"
+    },
+    {
+        "id": 25767,
+        "title": "Event Detection in News Articles: A Hybrid Approach Combining Topic Modeling, Clustering, and Named Entity Recognition",
+        "authors": "Nikos Kapellas, Sarantos Kapidakis",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0012234300003598"
+    },
+    {
+        "id": 25768,
+        "title": "MCA-NER: Multi-Contextualized Adversarial-Based Attentional Deep Neural Network for Named Entity Recognition",
+        "authors": "Shufeng He, Peng Zhu, Yanxia Zhao, Dianqi Sun",
+        "published": "2023-9-30",
+        "citations": 0,
+        "abstract": " Multi-contextualized representations learning is vital for named entity recognition (NER), which is a fundamental task for effectively extracting structured information from unstructured text, and forming knowledge bases. This task is particularly challenging when dealing with Chinese text given the absence of evident word boundaries. Chinese word segmentation (CWS) can be leveraged to recognize word boundaries, but named entities often encompass multiple segmented words, making it crucial to use boundary information to correctly recognize and distinguish the relationships between these words. In this paper, we propose MCA-NER, a multi-contextualized adversarial-based attentional deep learning approach for Chinese NER, which combines CWS and part-of-speech (POS) tagging information with the classic BiLSTM-CRF NER model, using adversarial multi-task learning. The model incorporates several self-attention components for adversarial and multi-task learning, effectively synthesizing task-specific and common information attribution while improving performance across all three tasks. Experimental results on the three datasets provide compelling evidence that supports the effectiveness and performance of our model. ",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/s0218001423500283"
+    },
+    {
+        "id": 25769,
+        "title": "Assisting Multimodal Named Entity Recognition by cross-modal auxiliary tasks",
+        "authors": "Zhengjie Chen, Yu Zhang, Siya Mi",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.10.004"
+    },
+    {
+        "id": 25770,
+        "title": "Multi-task Joint Learning to Enhance Named Entity Recognition",
+        "authors": "Xiajiong Shen, Xiaojie Hu, Ning Liu, Yatian Shen",
+        "published": "2023-2-1",
+        "citations": 0,
+        "abstract": "Abstract\nNamed Entity Recognition (NER) models have achieved good performance in recent years but also have some shortcomings. Existing models regard NER as a sequence labeling task for label prediction, without considering the impact of different stages in the entity recognition process on the final result. NER can be viewed as two separate subtasks: boundary detection task and type prediction task. The two subtasks can transmit information and cooperate in the process of entity recognition, so the synergy of the two subtasks is beneficial to NER. In this paper, we propose a method to split the NER task into multiple subtasks and use the information of each subtask to enhance the NER task. According to the characteristics of different subtasks, we use different feature extraction method models to extract structural information useful for this task effectively. Using the information extracted from each subtask or the final results of the subtasks, the performance of NER was enhanced through the gating network. We conducted extensive experiments on the CONLL2003 dataset, and the experimental results show that our proposed multi-task joint learning enhances the effectiveness of the named entity recognition model.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1088/1742-6596/2428/1/012037"
+    },
+    {
+        "id": 25771,
+        "title": "In-context Learning for Few-shot Multimodal Named Entity Recognition",
+        "authors": "Chenran Cai, Qianlong Wang, Bin Liang, Bing Qin, Min Yang, Kam-Fai Wong, Ruifeng Xu",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.196"
+    },
+    {
+        "id": 25772,
+        "title": "Extracting Named Entity Using Entity Labeling in Geological Text Using Deep Learning Approach",
+        "authors": "Qinjun Qiu, Miao Tian, Zhong Xie, Yongjian Tan, Kai Ma, Qingfang Wang, Shengyong Pan, Liufeng Tao",
+        "published": "2023-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s12583-022-1789-8"
+    },
+    {
+        "id": 25773,
+        "title": "Few-shot named entity recognition with hybrid multi-prototype learning",
+        "authors": "Zenghua Liao, Junbo Fei, Weixin Zeng, Xiang Zhao",
+        "published": "2023-9",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s11280-023-01143-5"
+    },
+    {
+        "id": 25774,
+        "title": "SoftLexicon-BERT-BiLSTM-CRF-based Named Entity Recognition Model for Transportation Organization Design Domain",
+        "authors": "Houyi Wang, Chen Zhang, Boxu Zhang, Peng Wang",
+        "published": "2023-11-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicml60161.2023.10424743"
+    },
+    {
+        "id": 25775,
+        "title": "Active learning with feature matching for clinical named entity recognition",
+        "authors": "Linh Le, Gianluca Demartini, Guido Zuccon, Genghong Zhao, Xia Zhang",
+        "published": "2023-9",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nlp.2023.100015"
+    },
+    {
+        "id": 25776,
+        "title": "Software Entity Automated Visual Recognition Method Based on Deep Learning Algorithm",
+        "authors": "Hui Gao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.11.100"
+    },
+    {
+        "id": 25777,
+        "title": "Named Entity Recognition Model Based on Feature Fusion",
+        "authors": "Zhen Sun, Xinfu Li",
+        "published": "2023-2-17",
+        "citations": 4,
+        "abstract": "Named entity recognition can deeply explore semantic features and enhance the ability of vector representation of text data. This paper proposes a named entity recognition method based on multi-head attention to aim at the problem of fuzzy lexical boundary in Chinese named entity recognition. Firstly, Word2vec is used to extract word vectors, HMM is used to extract boundary vectors, ALBERT is used to extract character vectors, the Feedforward-attention mechanism is used to fuse the three vectors, and then the fused vectors representation is used to remove features by BiLSTM. Then multi-head attention is used to mine the potential word information in the text features. Finally, the text label classification results are output after the conditional random field screening. Through the verification of WeiboNER, MSRA, and CLUENER2020 datasets, the results show that the proposed algorithm can effectively improve the performance of named entity recognition.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/info14020133"
+    },
+    {
+        "id": 25778,
+        "title": "El-Kawaref at WojoodNER shared task: StagedNER for Arabic Named Entity Recognition",
+        "authors": "Nehal Elkaref, Mohab Elkaref",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.91"
+    },
+    {
+        "id": 25779,
+        "title": "DanfeNER - Named Entity Recognition in Nepali Tweets",
+        "authors": "Nobal Niraula, Jeevan Chapagain",
+        "published": "2023-5-8",
+        "citations": 0,
+        "abstract": "Twitter allows users to easily post tweets on any subject or event anytime, generating massive amounts of rich text content on diverse topics. Automated methods such as Named Entity Recognition (NER) are required to process the massive tweet data. Processing tweets, however, poses a special challenge as they are informal posts with incomplete context and often contain acronyms, hashtags, misspellings, abbreviations, and URLs due to length constraints. This paper presents the first systematic study of NER in Nepali tweets corresponding to five different entity types: Person Name (PER), Location (LOC), Organization (ORG), Date (DAT), and Event (EVT). We develop DanfeNER, the first human-labeled high-quality NER benchmark data sets for the low-resource language Nepali. DanfeNER contains 5,366 records and 3,463 entities in its train set and 2,301 records and 1,503 entities in its test set. Using this data set, we benchmark several state-of-the-art Nepali monolingual and multilingual transformer models, obtaining micro-averaged F1 scores up to 81%.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32473/flairs.36.133384"
+    },
+    {
+        "id": 25780,
+        "title": "2INER: Instructive and In-Context Learning on Few-Shot Named Entity Recognition",
+        "authors": "Jiasheng Zhang, Xikai Liu, Xinyi Lai, Yan Gao, Shusen Wang, Yao Hu, Yiqing Lin",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.259"
+    },
+    {
+        "id": 25781,
+        "title": "A novel feature integration and entity boundary detection for named entity recognition in cybersecurity",
+        "authors": "Xiaodi Wang, Jiayong Liu",
+        "published": "2023-1",
+        "citations": 7,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2022.110114"
+    },
+    {
+        "id": 25782,
+        "title": "Improving biomedical named entity recognition through transfer learning and asymmetric tri-training",
+        "authors": "Medha Bhattacharya, Swati Bhat, Sirshasree Tripathy, Anvita Bansal, Monika Choudhary",
+        "published": "2023",
+        "citations": 4,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.procs.2023.01.244"
+    },
+    {
+        "id": 25783,
+        "title": "CAIR-NLP at SemEval-2023 Task 2: A Multi-Objective Joint Learning System for Named Entity Recognition",
+        "authors": "Sangeeth N, Biswajit Paul, Chandramani Chaudhary",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.265"
+    },
+    {
+        "id": 25784,
+        "title": "Deep purified feature mining model for joint named entity recognition and relation extraction",
+        "authors": "Youwei Wang, Ying Wang, Zhongchuan Sun, Yinghao Li, Shizhe Hu, Yangdong Ye",
+        "published": "2023-11",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.ipm.2023.103511"
+    },
+    {
+        "id": 25785,
+        "title": "Named Entity Recognition on Medical text by using Deep Nueral Networks",
+        "authors": "B. VeerasekharReddy, Venkata Nagaraju Thatha, Narasimha Swamy Biyyapu, J Satya Venu Gopala Krishna, Dr Ajith Sundaram, Daria Sandeep",
+        "published": "2023-10-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/gcat59970.2023.10353439"
+    },
+    {
+        "id": 25786,
+        "title": "SAGE: Semantic-Aware Global Explanations for Named Entity Recognition",
+        "authors": "Andrea Zugarini, Leonardo Rigutini",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191364"
+    },
+    {
+        "id": 25787,
+        "title": "Named Entity Recognition Using NLP",
+        "authors": "Keerthana R",
+        "published": "2024-2-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.61463/ijset.vol.12.issue2.142"
+    },
+    {
+        "id": 25788,
+        "title": "Named Entity Recognition in a Very Homogenous Domain",
+        "authors": "Oshin Agarwal, Ani Nenkova",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-eacl.138"
+    },
+    {
+        "id": 25789,
+        "title": "Learning In-context Learning for Named Entity Recognition",
+        "authors": "Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao, Xianpei Han, Le Sun",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-long.764"
+    },
+    {
+        "id": 25790,
+        "title": "Analysis of Transfer Learning for Named Entity Recognition in South-Slavic Languages",
+        "authors": "Nikola Ivačič, Thi Hong Hanh Tran, Boshko Koloski, Senja Pollak, Matthew Purver",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.bsnlp-1.13"
+    },
+    {
+        "id": 25791,
+        "title": "Chinese Named Entity Recognition based on ERNIE",
+        "authors": "Xing Qi",
+        "published": "2023-4-6",
+        "citations": 0,
+        "abstract": "The traditional named entity recognition model based on neural network uses static word vector, which can’t represent the ambiguity of the word in the context. The ERNIE-BiLSTM-CRF model is proposed. The ERNIE pre-training model can output different word vectors for different contexts by using multiple layers of Transformer, obtaining dynamic word vectors that contain overall sequence information. Secondly, the word vectors are input into the BiLSTM layer, which can obtain sentence context information through forward and backward LSTM and obtain more sentence features, thereby improving the model's effectiveness. Finally, the sequence is labeled through the CRF layer to obtain the globally optimal labeling information and complete the named entity recognition task. The experimental results show that compared with the traditional model, the F1 score of this model has significantly improved.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/fcis.v3i2.6912"
+    },
+    {
+        "id": 25792,
+        "title": "Streamlining Resume Annotation with Named Entity Recognition",
+        "authors": "Vrunda Gadesha, Keyur D. Joshi, Madana Bachika",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indicon59947.2023.10440786"
+    },
+    {
+        "id": 25793,
+        "title": "Chinese Named Entity Recognition Method for Domain-Specific Text",
+        "authors": "",
+        "published": "2023-12-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17559/tv-20230324000477"
+    },
+    {
+        "id": 25794,
+        "title": "Developing a Named Entity Recognition Dataset for Tagalog",
+        "authors": "Lester James Miranda",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.sealp-1.2"
+    },
+    {
+        "id": 25795,
+        "title": "DATG: Data Augmentation with Transformer-Based Generation for Low-Resource Named Entity Recognition",
+        "authors": "Qian Yili, Xu Haonan",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cac59555.2023.10450919"
+    },
+    {
+        "id": 25796,
+        "title": "Analysis of Machine-Based Learning Algorithm Used in Named Entity Recognition",
+        "authors": "Francis Mithanga Kamau, Kennedy Ogada, Cheruiyot Wilson Kipruto",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Aim/Purpose: The amount of information published has increased dramatically due to the information explosion. The issue of managing information as it expands at this rate lies in the development of information extraction technology that can turn unstructured data into organized data that is understandable and controllable by computers\n\nBackground: The primary goal of named entity recognition (NER) is to extract named entities from amorphous materials and place them in pre-defined semantic classes.\n\nMethodology: In our work, we analyze various machine learning algorithms and implement K-NN which has been widely used in machine learning and remains one of the most popular methods to classify data.\n\nContribution: To the researchers’ best knowledge, no published study has presented Named entity recognition for the Kikuyu language using a machine learning algorithm. This research will fill this gap by recognizing entities in the Kikuyu language.\n\nFindings: An evaluation was done by testing precision, recall, and F-measure. The experiment results demonstrate that using K-NN is effective in classification performance.\n\nRecommendation for Researchers: With enough training data, researchers could perform an experiment and check the learning curve with accuracy that compares to state of art NER.\n\nFuture Research: Future studies may be done using unsupervised and semi-supervised learning algorithms for other resource-scarce languages.\n\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.28945/5073"
+    },
+    {
+        "id": 25797,
+        "title": "WikiGoldSK: Annotated Dataset, Baselines and Few-Shot Learning Experiments for Slovak Named Entity Recognition",
+        "authors": "David Suba, Marek Suppa, Jozef Kubik, Endre Hamerlik, Martin Takac",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.bsnlp-1.16"
+    },
+    {
+        "id": 25798,
+        "title": "Biomedical named entity recognition based on reinforcement learning label correction",
+        "authors": "ZiQiang Hao, Fang Tian, Ying Tang, Yan Zhang, Weida Zhan, Yanfeng Tang",
+        "published": "2024-2-19",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.3021378"
+    },
+    {
+        "id": 25799,
+        "title": "Named Entity Recognition in the Moroccan Dialect",
+        "authors": "Hanane Nour Moussa, Asmaa Mourhir",
+        "published": "2023-12-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cist56084.2023.10409973"
+    },
+    {
+        "id": 25800,
+        "title": "Named Entity Recognition Utilized to Enhance Text Classification While Preserving Privacy",
+        "authors": "Mohammed Kutbi",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/access.2023.3325895"
+    },
+    {
+        "id": 25801,
+        "title": "ERPG: Enhancing Entity Representations with Prompt Guidance for Complex Named Entity Recognition",
+        "authors": "Xingyu Zhu, Feifei Dai, Xiaoyan Gu, Haihui Fan, Bo Li, Weiping Wang",
+        "published": "2023-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icme55011.2023.00478"
+    },
+    {
+        "id": 25802,
+        "title": "A named entity recognition model based on context and multi-granularity feature fusion for Chinese medical text",
+        "authors": "Xiong Liao, Zhen Jia, Fan Zhang, Tianrui Li",
+        "published": "2023-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1142/9789811269264_0073"
+    },
+    {
+        "id": 25803,
+        "title": "Gaussian Prior Reinforcement Learning for Nested Named Entity Recognition",
+        "authors": "Yawen Yang, Xuming Hu, Fukun Ma, Shu’Ang Li, Aiwei Liu, Lijie Wen, Philip S. Yu",
+        "published": "2023-6-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp49357.2023.10097163"
+    },
+    {
+        "id": 25804,
+        "title": "Coarse-to-fine Few-shot Learning for Named Entity Recognition",
+        "authors": "Ruotian Ma, Zhang Lin, Xuanting Chen, Xin Zhou, Junzhe Wang, Tao Gui, Qi Zhang, Xiang Gao, Yun Wen Chen",
+        "published": "2023",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.253"
+    },
+    {
+        "id": 25805,
+        "title": "Causal Intervention-based Few-Shot Named Entity Recognition",
+        "authors": "Zhen Yang, Yongbin Liu, Chunping Ouyang",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.1046"
+    },
+    {
+        "id": 25806,
+        "title": "In-Context Learning for Few-Shot Nested Named Entity Recognition",
+        "authors": "Meishan Zhang, Bin Wang, Hao Fei, Min Zhang",
+        "published": "2024-4-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icassp48485.2024.10446653"
+    },
+    {
+        "id": 25807,
+        "title": "NAMED ENTITY RECOGNITION USING OPENAI GPT SERIES MODELS",
+        "authors": "B. Pavlyshenko, I. Drozdov",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.30970/eli.23.5"
+    },
+    {
+        "id": 25808,
+        "title": "Consistency enhancement of model prediction on document-level named entity recognition",
+        "authors": "Minbyul Jeong, Jaewoo Kang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Abstract\n\nSummary\nBiomedical named entity recognition (NER) plays a crucial role in extracting information from documents in biomedical applications. However, many of these applications require NER models to operate at a document level, rather than just a sentence level. This presents a challenge, as the extension from a sentence model to a document model is not always straightforward. Despite the existence of document NER models that are able to make consistent predictions, they still fall short of meeting the expectations of researchers and practitioners in the field. To address this issue, we have undertaken an investigation into the underlying causes of inconsistent predictions. Our research has led us to believe that the use of adjectives and prepositions within entities may be contributing to low label consistency. In this article, we present our method, ConNER, to enhance a label consistency of modifiers such as adjectives and prepositions. By refining the labels of these modifiers, ConNER is able to improve representations of biomedical entities. The effectiveness of our method is demonstrated on four popular biomedical NER datasets. On three datasets, we achieve a higher F1 score than the previous state-of-the-art model. Our method shows its efficacy on two datasets, resulting in 7.5%–8.6% absolute improvements in the F1 score. Our findings suggest that our ConNER method is effective on datasets with intrinsically low label consistency. Through qualitative analysis, we demonstrate how our approach helps the NER model generate more consistent predictions.\n\n\nAvailability and implementation\nOur code and resources are available at https://github.com/dmis-lab/ConNER/.\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btad361"
+    },
+    {
+        "id": 25809,
+        "title": "GFMRC: A machine reading comprehension model for named entity recognition",
+        "authors": "Yuefan Fei, Xiaolong Xu",
+        "published": "2023-8",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.patrec.2023.06.011"
+    },
+    {
+        "id": 25810,
+        "title": "Evaluation of Deep Learning Techniques for Entity Matching",
+        "authors": "Paulo Lima, Douglas Santana, Wellington Martins, Leonardo Ribeiro",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5220/0011996200003467"
+    },
+    {
+        "id": 25811,
+        "title": "Name entity recognition for Air Traffic Control transcripts using deep learning based approach",
+        "authors": "Brundha J, Priyanka C. Nair, Deepa Gupta, Jitender Agarwal",
+        "published": "2023-12-14",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/indicon59947.2023.10440794"
+    },
+    {
+        "id": 25812,
+        "title": "Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning",
+        "authors": "Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.acl-long.222"
+    },
+    {
+        "id": 25813,
+        "title": "A Weighted BioBERT and Active Learning based Biomedical Named Entity Recognition Method with Small Amount of Labeled Data",
+        "authors": "Zhouyin Shi, Meijing Li, Hongfu Zhou",
+        "published": "2023-11-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icn60549.2023.10426620"
+    },
+    {
+        "id": 25814,
+        "title": "Enhanced Named Entity Recognition Based on Multi-Feature Fusion Using Dual Graph Neural Networks",
+        "authors": "Hanzhao Gu, Jialin Ma, Yanran Zhao, Ashim Khadka",
+        "published": "2024-4-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56578/ataiml030202"
+    },
+    {
+        "id": 25815,
+        "title": "Multimodal Named Entity Recognition with Bottleneck Fusion and Contrastive Learning",
+        "authors": "Peng WANG, Xiaohang CHEN, Ziyu SHANG, Wenjun KE",
+        "published": "2023-4-1",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1587/transinf.2022edp7116"
+    },
+    {
+        "id": 25816,
+        "title": "Transformer-based Named Entity Recognition for Clinical Cancer Drug Toxicity by Positive-unlabeled Learning and KL Regularizers",
+        "authors": "Weixin Xie, Jiayu Xu, Chengkui Zhao, Jin Li, Shuangze Han, Tianyu Shao, Limei Wang, Weixing Feng",
+        "published": "2024-1-15",
+        "citations": 0,
+        "abstract": "\nBackground:\nWith increasing rates of polypharmacy, the vigilant surveillance of clinical\ndrug toxicity has emerged as an important concern. Named Entity Recognition (NER) stands as\nan indispensable undertaking, essential for the extraction of valuable insights regarding drug safety\nfrom the biomedical literature. In recent years, significant advancements have been achieved in the\ndeep learning models on NER tasks. Nonetheless, the effectiveness of these NER techniques relies\non the availability of substantial volumes of annotated data, which is labor-intensive and inefficient.\n\n\nbackground:\nWith increasing rates of polypharmacy, clinical drug toxicity has been closely monitored. Named Entity Recognition (NER) is a vital task for extracting valuable drug safety information from biomedical literature. Recently, many deep learning models in biomedical domain have made great progress for NER, especially pre-trained language models. However, these NER methods require large amounts of high-quality manually annotated data with named entities, which is labor intensive and inefficient.\n\n\nMethods:\nThis study introduces a novel approach that diverges from the conventional reliance on\nmanually annotated data. It employs a transformer-based technique known as Positive-Unlabeled\nLearning (PULearning), which incorporates adaptive learning and is applied to the clinical cancer\ndrug toxicity corpus. To improve the precision of prediction, we employ relative position embeddings\nwithin the transformer encoder. Additionally, we formulate a composite loss function that integrates\ntwo Kullback-Leibler (KL) regularizers to align with PULearning assumptions. The outcomes\ndemonstrate that our approach attains the targeted performance for NER tasks, solely relying\non unlabeled data and named entity dictionaries.\n\n\nobjective:\nTo improve the performance of prediction\n\n\nConclusion:\nOur model achieves an overall NER performance with an F1 of 0.819. Specifically, it\nattains F1 of 0.841, 0.801 and 0.815 for DRUG, CANCER, and TOXI entities, respectively. A\ncomprehensive analysis of the results validates the effectiveness of our approach in comparison to\nexisting PULearning methods on biomedical NER tasks. Additionally, a visualization of the associations\namong three identified entities is provided, offering a valuable reference for querying their\ninterrelationships.\n\n\nmethod:\nIn this work, instead of relying on the manually labeled data, a transformer-based Positive-Unlabeled Learning (PULearning) is proposed with adaptive learning and applied on the clinical cancer drug toxicity corpus. To improve the precision of prediction, relative position embeddings are used in transformer encoder. And then, a mixed loss is designed with two Kullback-Leibler (KL) regularizers for PULearning assumptions. Through adaptive sampling, our approach meets the expected performance for NER task only using unlabeled data and named entity dictionaries.\n\n\nresult:\nThe overall NER performance of our model obtains 0.819 of F1-score, while 0.841, 0.801 and 0.815 of F1-score on DRUG, CANCER and TOXI, respectively.\n\n\nother:\nNone\n",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.2174/0115748936278299231213045441"
+    },
+    {
+        "id": 25817,
+        "title": "MULTI-DOMAIN MACHINE LEARNING APPROACH OF NAMED ENTITY RECOGNITION FOR ARABIC BOOKING CHATBOT ENGINES USING PRE-TRAINED BIDIRECTIONAL TRANSFORMERS",
+        "authors": "Boshra Sadder, Rahma Sadder, Gheith Abandah, Iyad Jafar",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "Chatbots have recently become essential in various fields, ranging from customer service and information acquisition to entertainment. The use of chatbots reduces operational costs and human errors while providing services at any time. This work presents a Named Entity Recognition (NER) model for the Arabic booking chatbot, focusing on booking tickets and appointments across multiple domains. This research paves the way for the development of chatbots that can support multiple booking domains, contributing to the advancement of the Arabic language in this field. We adopt deep machine learning and transfer learning approaches to solve this task. Specifically, we utilized and fine-tuned the AraBERTv0.2 base model to develop the Named Entity Recognition for Booking Queries (NERB) model. Furthermore, we extended it to the Domain-Aware Named Entity Recognition for Booking Queries (DA-NERB) model by adding an additional input for domain type and an embedding layer. The input to our proposed model consists of text sequences of reservation requests, while the output includes sequences of tags representing entities within the input sequences. For training and testing, we synthesized the Arabic Booking Chatbot-Synthetic Dataset (ABC-S Dataset), comprising 76,117 reservation samples that span seven different domains and encompassing 26 categories of named entities.  Additionally, we collected the Arabic Booking Chatbot-Collected Dataset (ABC-C Dataset) from volunteers to evaluate our model using various samples. It's worth noting that these datasets are written in informal Arabic, specifically the Levantine dialect. The proposed model achieves 100% and 96.9% accuracy scores on ABC-S (test set) and ABC-C, respectively. Both the datasets and the code for our model are publicly available to support research in the field of Arabic chatbots.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.5455/jjcit.71-1694435791"
+    },
+    {
+        "id": 25818,
+        "title": "Chinese Named Entity Recognition Method Based on Multiscale Feature Fusion",
+        "authors": "Xiaoguang Jiang",
+        "published": "2024",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1504/ijbm.2024.10060537"
+    },
+    {
+        "id": 25819,
+        "title": "Chinese-clinical-record Named Entity Recognition using IDCNN-BiLSTM-Highway Network",
+        "authors": "",
+        "published": "2023-7-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3837/tiis.2023.07.001"
+    },
+    {
+        "id": 25820,
+        "title": "EU-BERT: Efficient Unified Named Entity Recognition via Multi-exit BERT",
+        "authors": "Xinyu Liu",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cipae60493.2023.00125"
+    },
+    {
+        "id": 25821,
+        "title": "Research on Named Entity Recognition Method Based on Language Pre-Training Model",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.23977/acss.2023.070111"
+    },
+    {
+        "id": 25822,
+        "title": "Sampling Better Negatives for Distantly Supervised Named Entity Recognition",
+        "authors": "Lu Xu, Lidong Bing, Wei Lu",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.300"
+    },
+    {
+        "id": 25823,
+        "title": "Deep learning for named entity recognition: a survey",
+        "authors": "Zhentao Hu, Wei Hou, Xianxing Liu",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s00521-024-09646-6"
+    },
+    {
+        "id": 25824,
+        "title": "Prompts in Few-Shot Named Entity Recognition",
+        "authors": "I. S. Rozhkov, N. V. Loukachevitch",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1134/s1054661823020104"
+    },
+    {
+        "id": 25825,
+        "title": "NeRBERT- A Biomedical Named Entity Recognition Tagger",
+        "authors": "Manish Bali, Anandaraj Shanthi Pichandi",
+        "published": "2023-2-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18280/ria.370130"
+    },
+    {
+        "id": 25826,
+        "title": "Unified Named Entity Recognition as Multi-Label Sequence Generation",
+        "authors": "Jindian Su, Hong Yu",
+        "published": "2023-6-18",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191921"
+    },
+    {
+        "id": 25827,
+        "title": "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition",
+        "authors": "Yongqi Li, Yu Yu, Tieyun Qian",
+        "published": "2023",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.598"
+    },
+    {
+        "id": 25828,
+        "title": "Named Entity Recognition Method Based on BERT-whitening and Dynamic Fusion Model",
+        "authors": "Meng Liang, Yao Shi",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnlp58431.2023.00041"
+    },
+    {
+        "id": 25829,
+        "title": "Information Extraction from Indonesian Crime News with Named Entity Recognition",
+        "authors": "Roy Rachman Sedik, ADE Romadhony",
+        "published": "2023-2-21",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/kst57286.2023.10086789"
+    },
+    {
+        "id": 25830,
+        "title": "A Review on Clinical Named Entity Recognition",
+        "authors": "Poonam Kashtriya, Pardeep Singh, Parul Bansal",
+        "published": "2023-2-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/otcon56053.2023.10113977"
+    },
+    {
+        "id": 25831,
+        "title": "Correction to: HunFlair: an easy-to-use tool for state-of-the-art biomedical named entity recognition",
+        "authors": "",
+        "published": "2023-11-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1093/bioinformatics/btad705"
+    },
+    {
+        "id": 25832,
+        "title": "DroNER: Dataset for drone named entity recognition",
+        "authors": "Swardiantara Silalahi, Tohari Ahmad, Hudan Studiawan",
+        "published": "2023-6",
+        "citations": 3,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.dib.2023.109179"
+    },
+    {
+        "id": 25833,
+        "title": "Custom Named Entity Recognition VS ChatGPT Prompting: A Paleontology Experiment",
+        "authors": "Konstantinos Tsitseklis, Georgia Stavropoulou, Symeon Papavassiliou",
+        "published": "2024-3-28",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/pacet60398.2024.10497008"
+    },
+    {
+        "id": 25834,
+        "title": "Domain Knowledge Enhanced BERT for Chinese Named Entity Recognition",
+        "authors": "Hongchang Wang, Qingxin Ma",
+        "published": "2023-9-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/eiecs59936.2023.10435553"
+    },
+    {
+        "id": 25835,
+        "title": "Özgeçmişlerde varlık isimlerinin tanınması Named entity recognition in resumes",
+        "authors": "Ege Kesim, Aysu Deliahmetoglu Intern, Senem Tanberk",
+        "published": "2023-10-11",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/asyu58738.2023.10296807"
+    },
+    {
+        "id": 25836,
+        "title": "A Multimodal Named Entity Recognition Method with Dynamic Bidirectional Gating Mechanism",
+        "authors": "Hao Chen",
+        "published": "2023-12-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ricai60863.2023.10489754"
+    },
+    {
+        "id": 25837,
+        "title": "CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset",
+        "authors": "Susanna Rücker, Alan Akbik",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.533"
+    },
+    {
+        "id": 25838,
+        "title": "Customized Named Entity Recognition Using Bert for the Social Learning Management System Platform CourseNetworking",
+        "authors": "Kayal Padmanandam, KVN Sunitha, Behafarid Mohammad Jafari, Ali Jafari, Mengyuan Zhao, Nikitha Pitla",
+        "published": "2024-1-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3844/jcssp.2024.88.95"
+    },
+    {
+        "id": 25839,
+        "title": "CDANER: Contrastive Learning with Cross-domain Attention for Few-shot Named Entity Recognition",
+        "authors": "Wei Li, Hui Li, Jingguo Ge, Lei Zhang, Liangxiong Li, Bingzhen Wu",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191439"
+    },
+    {
+        "id": 25840,
+        "title": "A Confidence-based Partial Label Learning Model for Crowd-Annotated Named Entity Recognition",
+        "authors": "Limao Xiong, Jie Zhou, Qunxi Zhu, Xiao Wang, Yuanbin Wu, Qi Zhang, Tao Gui, Xuanjing Huang, Jin Ma, Ying Shan",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.89"
+    },
+    {
+        "id": 25841,
+        "title": "A RoBERTa-GlobalPointer-Based Method for Named Entity Recognition of Legal Documents",
+        "authors": "Xinrui Zhang, Xudong Luo, Jiaye Wu",
+        "published": "2023-6-18",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191275"
+    },
+    {
+        "id": 25842,
+        "title": "Named Entity Recognition in Fire Control Texts Based on BERT",
+        "authors": "XiangRu Meng, PengFei Cao, ManNing Ma",
+        "published": "2023-4",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ictech58362.2023.00013"
+    },
+    {
+        "id": 25843,
+        "title": "ScdNER: Span-Based Consistency-Aware Document-Level Named Entity Recognition",
+        "authors": "Ying Wei, Qi Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.970"
+    },
+    {
+        "id": 25844,
+        "title": "Named entity recognition and emotional viewpoint monitoring in online news using artificial intelligence",
+        "authors": "Manzi Tu",
+        "published": "2024-1-10",
+        "citations": 0,
+        "abstract": "Network news is an important way for netizens to get social information. Massive news information hinders netizens to get key information. Named entity recognition technology under artificial background can realize the classification of place, date and other information in text information. This article combines named entity recognition and deep learning technology. Specifically, the proposed method introduces an automatic annotation approach for Chinese entity triggers and a Named Entity Recognition (NER) model that can achieve high accuracy with a small number of training data sets. The method jointly trains sentence and trigger vectors through a trigger-matching network, utilizing the trigger vectors as attention queries for subsequent sequence annotation models. Furthermore, the proposed method employs entity labels to effectively recognize neologisms in web news, enabling the customization of the set of sensitive words and the number of words within the set to be detected, as well as extending the web news word sentiment lexicon for sentiment observation. Experimental results demonstrate that the proposed model outperforms the traditional BiLSTM-CRF model, achieving superior performance with only a 20% proportional training data set compared to the 40% proportional training data set required by the conventional model. Moreover, the loss function curve shows that my model exhibits better accuracy and faster convergence speed than the compared model. Finally, my model achieves an average accuracy rate of 97.88% in sentiment viewpoint detection.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.7717/peerj-cs.1715"
+    },
+    {
+        "id": 25845,
+        "title": "Multilingual Fine-Grained Named Entity Recognition",
+        "authors": "Viorica-Camelia Lupancu, Adrian Iftene",
+        "published": "2023-12",
+        "citations": 0,
+        "abstract": "The “MultiCoNER II Multilingual Complex Named Entity Recognition” task1 within SemEval 2023 competition focuses on identifying complex named entities (NEs), such as the titles of creative works (e.g., songs, books, movies), people with different titles (e.g., politicians, scientists, artists, athletes), different categories of products (e.g., food, drinks, clothing), and so on, in several languages. In the context of SemEval, our team, FII_Better, presented an exploration of a base transformer model’s capabilities regarding the task, focused more specifically on five languages (English, Spanish, Swedish, German, and Italian). We took DistilBERT (a distilled version of BERT) and BERT (Bidirectional Encoder Representations from Transformers) as two examples of basic transformer models, using DistilBERT as a baseline and BERT as the platform to create an improved model. In this process, we managed to get fair results in the chosen languages. We have managed to get moderate results in the English track (we ranked 17th out of 34), while our results in the other tracks could be further improved in the future (overall third to last).",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.56415/csjm.v31.16"
+    },
+    {
+        "id": 25846,
+        "title": "A Named Entity Recognition Method Enhanced with Lexicon Information and Text Local Feature",
+        "authors": "",
+        "published": "2023-6-15",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.17559/tv-20230121000257"
+    },
+    {
+        "id": 25847,
+        "title": "Enhanced Named Entity Recognition through Joint Dependency Parsing",
+        "authors": "Peng Wang, Zhe Wang, Xiaowang Zhang, Kewen Wang, Zhiyong Feng",
+        "published": "2023-6-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191834"
+    },
+    {
+        "id": 25848,
+        "title": "Improving Cybersecurity Named Entity Recognition with Large Language Models",
+        "authors": "Zhe Qiao, Chen Zhang, Gang Du",
+        "published": "2023-12-22",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/csecs60003.2023.10428218"
+    },
+    {
+        "id": 25849,
+        "title": "Named Entity Recognition for Protecting Sensitive Data using Hybrid CNN",
+        "authors": "Sheela Gowr. P, Kumar. N",
+        "published": "2023-1-23",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icssit55814.2023.10061119"
+    },
+    {
+        "id": 25850,
+        "title": "Applications of Named Entity Recognition Using Graph Convolution Network",
+        "authors": "Monica Madan, Ashima Rani, Neha Bhateja",
+        "published": "2023-3-17",
+        "citations": 1,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1007/s42979-023-01739-8"
+    },
+    {
+        "id": 25851,
+        "title": "Biomedical Named Entity Recognition from Malaria Literature using BioBERT",
+        "authors": "N. Devika, V. S. Anoop, Jose Thekkiniath",
+        "published": "2023-8-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icscc59169.2023.10335049"
+    },
+    {
+        "id": 25852,
+        "title": "Less than One-shot: Named Entity Recognition via Extremely Weak Supervision",
+        "authors": "Letian Peng, Zihan Wang, Jingbo Shang",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.908"
+    },
+    {
+        "id": 25853,
+        "title": "A Chinese named entity recognition model incorporating recurrent cell and information state recursion",
+        "authors": "Qingbin Han, Jialin Ma",
+        "published": "2024-3-6",
+        "citations": 0,
+        "abstract": "AbstractChinese is characterized by high syntactic complexity, chaotic annotation granularity, and slow convergence. Joint learning models can effectively improve the accuracy of Chinese Named Entity Recognition (NER), but they focus too much on local feature information and reduce the ability of long sequence feature extraction. To address the limitations of long sequence feature extraction ability, we propose a Chinese NER model called Incorporating Recurrent Cell and Information State Recursion (IRCSR-NER). The model integrates recurrent cells and information state recursion to improve the recognition ability of long entity boundaries. To solve the problem that Chinese and English have different focuses in syntactic analysis. We use the syntactic dependency approach to add lexical relationship information to sentences represented at the word level. The IRCSR-NER is applied to sequence feature extraction to improve the model efficiency and long-text feature extraction ability. The model captures contextual long-distance dependent information while focusing on local feature information. We evaluated our proposed model using four public datasets and compared it with other mainstream models. Experimental results demonstrate that our model outperforms traditional and mainstream models.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1038/s41598-024-56166-3"
+    },
+    {
+        "id": 25854,
+        "title": "Few-shot Named Entity Recognition with Supported and Dependent Label Representations",
+        "authors": "Yasuhide Miura, Takumi Takahashi",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-ijcnlp.34"
+    },
+    {
+        "id": 25855,
+        "title": "A lightweight biomedical named entity recognition with pre-trained model",
+        "authors": "Yunhe Gou, Cao Jie",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icdsca59871.2023.10392374"
+    },
+    {
+        "id": 25856,
+        "title": "Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks",
+        "authors": "Xuming Hu, Yong Jiang, Aiwei Liu, Zhongqiang Huang, Pengjun Xie, Fei Huang, Lijie Wen, Philip S. Yu",
+        "published": "2023",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.578"
+    },
+    {
+        "id": 25857,
+        "title": "A Web Semantic-Based Text Analysis Approach for Enhancing Named Entity Recognition Using PU-Learning and Negative Sampling",
+        "authors": "Shunqin Zhang, Sanguo Zhang, Wenduo He, Xuan Zhang",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "The NER task is largely developed based on well-annotated data. However, in many scenarios, the entities may not be fully annotated, leading to serious performance degradation. To address this issue, the authors propose a robust NER approach that combines a novel PU-learning algorithm and negative sampling. Unlike many existing studies, the proposed method adopts a two-step procedure for handling unlabeled entities, thereby enhancing its capability to mitigate the impact of such entities. Moreover, this algorithm demonstrates high versatility and can be integrated into any token-level NER model with ease. The effectiveness of the proposed method is verified on several classic NER models and datasets, demonstrating its strong ability to handle unlabeled entities. Finally, the authors achieve competitive performances on synthetic and real-world datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.4018/ijswis.335113"
+    },
+    {
+        "id": 25858,
+        "title": "NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval",
+        "authors": "Uri Katz, Matan Vetzler, Amir Cohen, Yoav Goldberg",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.218"
+    },
+    {
+        "id": 25859,
+        "title": "Research on Named Entity Recognition Based on ERNIE-BiLSTM-CRF",
+        "authors": "Zhongyuan Bao, Lejun Zhang, Zhengyu Lu",
+        "published": "2023-8-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cipae60493.2023.00105"
+    },
+    {
+        "id": 25860,
+        "title": "Biomedical Named Entity Recognition Using Scikit-Learn And Keras",
+        "authors": "P. Baskaran, Somasundaram SK, Thirunavukarasan M, Sathya K",
+        "published": "2023-10-10",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/cset58993.2023.10346943"
+    },
+    {
+        "id": 25861,
+        "title": "Research on named entity recognition method for rich text elements of test questions",
+        "authors": "Zhong Shao, Lulu Yang",
+        "published": "2023-4-7",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iccea58433.2023.10135254"
+    },
+    {
+        "id": 25862,
+        "title": "Improving Named Entity Recognition via Bridge-based Domain Adaptation",
+        "authors": "Jingyun Xu, Changmeng Zheng, Yi Cai, Tat-Seng Chua",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.findings-acl.238"
+    },
+    {
+        "id": 25863,
+        "title": "RGAT at SemEval-2023 Task 2: Named Entity Recognition Using Graph Attention Network",
+        "authors": "Abir Chakraborty",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.23"
+    },
+    {
+        "id": 25864,
+        "title": "Comparing Open Arabic Named Entity Recognition Tools",
+        "authors": "Abdullah Aldumaykhi, Saad Otai, Abdulkareem Alsudais",
+        "published": "2023-8",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iri58017.2023.00016"
+    },
+    {
+        "id": 25865,
+        "title": "Biomedical named entity recognition based on fusion multi-features embedding",
+        "authors": "Meijing Li, Hao Yang, Yuxin Liu",
+        "published": "2023-3-29",
+        "citations": 0,
+        "abstract": "BACKGROUND: With the exponential increase in the volume of biomedical literature, text mining tasks are becoming increasingly important in the medical domain. Named entities are the primary identification tasks in text mining, prerequisites and critical parts for building medical domain knowledge graphs, medical question and answer systems, medical text classification. OBJECTIVE: The study goal is to recognize biomedical entities effectively by fusing multi-feature embedding. Multiple features provide more comprehensive information so that better predictions can be obtained. METHODS: Firstly, three different kinds of features are generated, including deep contextual word-level features, local char-level features, and part-of-speech features at the word representation layer. The word representation vectors are inputs into BiLSTM as features to obtain the dependency information. Finally, the CRF algorithm is used to learn the features of the state sequences to obtain the global optimal tagging sequences. RESULTS: The experimental results showed that the model outperformed other state-of-the-art methods for all-around performance in six datasets among eight of four biomedical entity types. CONCLUSION: The proposed method has a positive effect on the prediction results. It comprehensively considers the relevant factors of named entity recognition because the semantic information is enhanced by fusing multi-features embedding.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/thc-"
+    },
+    {
+        "id": 25866,
+        "title": "Evaluation on Network Social Media Named Entity Recognition Model Based on Active Learning",
+        "authors": "Guijiao He, Yunfeng Zhou, Yaodong Zheng",
+        "published": "2023-9-5",
+        "citations": 0,
+        "abstract": "The medical security privacy and named entity recognition (NER) technology under the blockchain technology has been a hot topic in all walks of life. As a typical representative of medical security risks and NER, the NER model of online social media based on active learning has attracted worldwide attention. NER is an important part of natural language processing. Traditional recognition technology usually requires a lot of external information, and through the manual identification of its features, which costs a lot of time and energy. In order to solve the shortcomings of traditional recognition algorithms and the lack of feature extraction in network media NER, a new active learning model was introduced in this paper. In the information age, people are increasingly demanding for a large amount of text information, and NER technology came into being. Its main function is to accurately identify important information from text and provide useful information for high-level work. The initial design of NER system is mainly based on the recognition of rules, so as to realize the recognition of named entities. However, in a complex network environment, it takes a lot of time and energy to establish rules without conflicts, and it has poor mobility. In recent years, with the continuous development of computer technology, the use of machine learning to actively learn the unknown information in the target area reduces the workload of manual annotation, thus realizing the active learning of large amounts of data. The research showed that the recognition accuracy under the traditional NER was low, and the information processing speed was slow; the accuracy rate of NER based on active learning was as high as 97%, and the speed of information processing had also been greatly improved, which had solved many problems under the traditional mode. User satisfaction could be as high as 95%, which showed that the latter had broad prospects. The progress of the new era cannot be separated from the support of new technologies. The research of this article has important guiding significance for medical security privacy and the application of NER under blockchain technology.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3600055"
+    },
+    {
+        "id": 25867,
+        "title": "Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-Grained Student Ensemble",
+        "authors": "Xiaoye Qu, Jun Zeng, Daizong Liu, Zhefeng Wang, Baoxing Huai, Pan Zhou",
+        "published": "2023-6-26",
+        "citations": 2,
+        "abstract": "Distantly-Supervised Named Entity Recognition (DS-NER) effectively alleviates the data scarcity problem in NER by automatically generating training samples. Unfortunately, the distant supervision may induce noisy labels, thus undermining the robustness of the learned models and restricting the practical application. \nTo relieve this problem, recent works adopt self-training teacher-student frameworks to gradually refine the training labels and improve the generalization ability of NER models. However, we argue that the performance of the current self-training frameworks for DS-NER is severely underestimated by their plain designs, including both inadequate student learning and coarse-grained teacher updating. Therefore, in this paper, we make the first attempt to alleviate these issues by proposing:  \n(1) adaptive teacher learning comprised of joint training of two teacher-student networks and considering both consistent and inconsistent predictions between two teachers, thus promoting comprehensive student learning. \n(2) fine-grained student ensemble that updates each fragment of the teacher model with a temporal moving average of the corresponding fragment of the student, which enhances consistent predictions on each model fragment against noise. \nTo verify the effectiveness of our proposed method, we conduct experiments on four DS-NER datasets. The experimental results demonstrate that our method significantly surpasses previous SOTA methods. The code is available at https://github.com/zenhjunpro/ATSEN.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v37i11.26583"
+    },
+    {
+        "id": 25868,
+        "title": "MCL-NER: Cross-Lingual Named Entity Recognition via Multi-View Contrastive Learning",
+        "authors": "Ying Mo, Jian Yang, Jiahao Liu, Qifan Wang, Ruoyu Chen, Jingang Wang, Zhoujun Li",
+        "published": "2024-3-24",
+        "citations": 1,
+        "abstract": "Cross-lingual named entity recognition (CrossNER) faces challenges stemming from uneven performance due to the scarcity of multilingual corpora, especially for non-English\ndata. While prior efforts mainly focus on data-driven transfer methods, a significant aspect that has not been fully explored is aligning both semantic and token-level representations across diverse languages. In this paper, we propose Multi-view Contrastive Learning for Cross-lingual Named\nEntity Recognition (MCL-NER). Specifically, we reframe the CrossNER task into a problem of recognizing relationships between pairs of tokens. This approach taps into the\ninherent contextual nuances of token-to-token connections within entities, allowing us to align representations across\ndifferent languages. A multi-view contrastive learning framework is introduced to encompass semantic contrasts between\nsource, codeswitched, and target sentences, as well as contrasts among token-to-token relations. By enforcing agreement within both semantic and relational spaces, we minimize the gap between source sentences and their counterparts of both codeswitched and target sentences. This alignment\nextends to the relationships between diverse tokens, enhancing the projection of entities across languages. We further\naugment CrossNER by combining self-training with labeled source data and unlabeled target data. Our experiments on\nthe XTREME benchmark, spanning 40 languages, demonstrate the superiority of MCL-NER over prior data-driven\nand model-based approaches. It achieves a substantial increase of nearly +2.0 F1 scores across a broad spectrum and\nestablishes itself as the new state-of-the-art performer.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1609/aaai.v38i17.29843"
+    },
+    {
+        "id": 25869,
+        "title": "Named Entity Recognition of Electronic Medical Records Based on Multi-Feature Fusion",
+        "authors": "Xiaoqin Tan",
+        "published": "2023-5-4",
+        "citations": 0,
+        "abstract": "Named entity recognition (NER) is a very basic task in natural language processing (NLP). The paper studies the problem of named entity recognition in Chinese electronic medical records, and proposes a method based on the Bert-Bi-LSTM-CRF model. In addition, the model incorporates the functionality of radical components and dictionaries to improve the recognition accuracy. The complexity of Chinese medical record entities, the ambiguity in language expression, and the lack of adequate labeled data make traditional rule-based or machine learning methods less effective. To address this problem, we adopt the Bert-Bi-LSTM-CRF model, which effectively captures contextual information and semantic relationships to improve entity recognition accuracy. Furthermore, to further enhance the model's performance, we introduce the functionality of radical components and dictionaries. Radical components are an important component of Chinese characters and can be used to assist in identifying entities and improve the model's generalization ability. We also utilize medical dictionaries to assist in entity recognition. These dictionaries contain rich medical terms and vocabulary, which can effectively help the model identify entities. The proposed method is evaluated on the public dataset CCKS2019, and the experimental results demonstrate that it outperforms traditional methods, achieving an F1 score improvement of nearly 7 percentage points, and achieves good experimental results.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.54097/fcis.v3i3.7983"
+    },
+    {
+        "id": 25870,
+        "title": "AlexU-AIC at WojoodNER shared task: Sequence Labeling vs MRC and SWA for Arabic Named Entity Recognition",
+        "authors": "Shereen Elkordi, Noha Adly, Marwan Torki",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.86"
+    },
+    {
+        "id": 25871,
+        "title": "Improving Named Entity Recognition in Bahasa Indonesia with Transformer-Word2Vec-CNN-Attention Model",
+        "authors": "",
+        "published": "2023-8-31",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.22266/ijies2023.0831.53"
+    },
+    {
+        "id": 25872,
+        "title": "NER2Map: Positive Transfer from Named Entity Recognition to Address Parsing in Low Data Regimes",
+        "authors": "Mikail Okyay, Aydın Gerek",
+        "published": "2023-7-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/siu59756.2023.10223918"
+    },
+    {
+        "id": 25873,
+        "title": "Named Entity Recognition and Normalization for Alzheimer’s Disease Eligibility Criteria",
+        "authors": "Zenan Sun, Cui Tao",
+        "published": "2023-6-26",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ichi57859.2023.00100"
+    },
+    {
+        "id": 25874,
+        "title": "Indonesian news classification application with named entity recognition approach",
+        "authors": "Nurchim Nurchim, Nurmalitasari Nurmalitasari, Zalizah Awang Long",
+        "published": "2023-5-23",
+        "citations": 0,
+        "abstract": "Nowadays, many netizens search for news via search engines with countless amounts of information, so it is increasingly difficult to determine when the number of news articles that appear changes very quickly and dynamically. Thus, it is necessary to process the extraction of news information to display the core information of the news. Problems arise, especially in Indonesian, which has a structure of various noun phrase entities with shallow parsing or grammatical induction. Named Entity Recognition (NER) has the opportunity to overcome this because it can extract news entities in depth, starting from proper nouns in text documents containing information search, machine translation, answering questions, and automatic summarization. This study aims to apply NER in Indonesian language news classification. This study uses Design-Based Research whose process includes (1) pre-implementation, (2) design, (3) implementation and revision, and finally, (4) reflection and evaluation. This application was developed on the platform python, streamlit, BeautifulSoup, gnews, and spacy library. The results of application accuracy testing have an F1-score value of 89.69% for all entities consisting of place, figure, day, date, and organization.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.20895/infotel.v15i2.909"
+    },
+    {
+        "id": 25875,
+        "title": "A Survey on Deep Learning for Chinese Medical Named Entity Recognition",
+        "authors": "Chenquan Dai, Xiaobin Zhuang, Jiaxin Cai",
+        "published": "2023-3-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3594315.3594359"
+    },
+    {
+        "id": 25876,
+        "title": "Negation-based transfer learning for improving biomedical Named Entity Recognition and Relation Extraction",
+        "authors": "Hermenegildo Fabregat, Andres Duque, Juan Martinez-Romo, Lourdes Araujo",
+        "published": "2023-2",
+        "citations": 5,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.jbi.2022.104279"
+    },
+    {
+        "id": 25877,
+        "title": "Research on named entity recognition of adverse drug reactions based on NLP and deep learning",
+        "authors": "Jianxiang Wei, Tianling Hu, Jimin Dai, Ziren Wang, Pu Han, Weidong Huang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "Introduction: Adverse drug reactions (ADR) are directly related to public health and become the focus of public and media attention. At present, a large number of ADR events have been reported on the Internet, but the mining and utilization of such information resources is insufficient. Named entity recognition (NER) is the basic work of many natural language processing (NLP) tasks, which aims to identify entities with specific meanings from natural language texts.Methods: In order to identify entities from ADR event data resources more effectively, so as to provide valuable health knowledge for people, this paper introduces ALBERT in the input presentation layer on the basis of the classic BiLSTM-CRF model, and proposes a method of ADR named entity recognition based on the ALBERT-BiLSTM-CRF model. The textual information about ADR on the website “Chinese medical information query platform” (https://www.dayi.org.cn) was collected by the crawler and used as research data, and the BIO method was used to label three types of entities: drug name (DRN), drug component (COM), and adverse drug reactions (ADR) to build a corpus. Then, the words were mapped to the word vector by using the ALBERT module to obtain the character level semantic information, the context coding was performed by the BiLSTM module, and the label decoding was using the CRF module to predict the real label.Results: Based on the constructed corpus, experimental comparisons were made with two classical models, namely, BiLSTM-CRF and BERT-BiLSTM-CRF. The experimental results show that the F1 of our method is 91.19% on the whole, which is 1.5% and 1.37% higher than the other two models respectively, and the performance of recognition of three types of entities is significantly improved, which proves the superiority of this method.Discussion: The method proposed can be used effectively in NER from ADR information on the Internet, which provides a basis for the extraction of drug-related entity relationships and the construction of knowledge graph, thus playing a role in practical health systems such as intelligent diagnosis, risk reasoning and automatic question answering.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3389/fphar.2023.1121796"
+    },
+    {
+        "id": 25878,
+        "title": "An efficient named entity recognition for emergency plans",
+        "authors": "Tong Liu, Qiuyang Wang",
+        "published": "2023-6-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2681637"
+    },
+    {
+        "id": 25879,
+        "title": "Research on named entity recognition of Chinese geographical names and addresses",
+        "authors": "Zhongyue Wang",
+        "published": "2023-2-2",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2660791"
+    },
+    {
+        "id": 25880,
+        "title": "DzNER: A large Algerian Named Entity Recognition dataset",
+        "authors": "Abdelhalim Hafedh Dahou, Mohamed Amine Cheragui",
+        "published": "2023-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.nlp.2023.100005"
+    },
+    {
+        "id": 25881,
+        "title": "A study on the application of named entity recognition in resume parsing",
+        "authors": "Haifeng Liang",
+        "published": "2023-1-13",
+        "citations": 2,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2655918"
+    },
+    {
+        "id": 25882,
+        "title": "Duplicate Bug Report detection using Named Entity Recognition",
+        "authors": "Wei Zheng, Yunfan Li, Xiaoxue Wu, Jingyuan Cheng",
+        "published": "2024-1",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2023.111258"
+    },
+    {
+        "id": 25883,
+        "title": "AlphaBrains at WojoodNER shared task: Arabic Named Entity Recognition by Using Character-based Context-Sensitive Word Representations",
+        "authors": "Toqeer Ehsan, Amjad Ali, Ala Al-Fuqaha",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.arabicnlp-1.88"
+    },
+    {
+        "id": 25884,
+        "title": "Improving Norwegian Translation of Bicycle Terminology Using Custom Named-Entity Recognition and Neural Machine Translation",
+        "authors": "Daniel Hellebust, Isah A. Lawal",
+        "published": "2023-5-22",
+        "citations": 0,
+        "abstract": "The Norwegian business-to-business (B2B) market for bicycles consists mainly of international brands, such as Shimano, Trek, Cannondale, and Specialized. The product descriptions for these brands are usually in English and need local translation. However, these product descriptions include bicycle-specific terminologies that are challenging for online translators, such as Google. For this reason, local companies outsource translation or translate product descriptions manually, which is cumbersome. In light of the Norwegian B2B bicycle industry, this paper explores transfer learning to improve the machine translation of bicycle-specific terminology from English to Norwegian, including generic text. Firstly, we trained a custom Named-Entity Recognition (NER) model to identify cycling-specific terminology and then adapted a MarianMT neural machine translation model for the translation process. Due to the lack of publicly available bicycle-terminology-related datasets to train the proposed models, we created our dataset by collecting a corpus of cycling-related texts. We evaluated the performance of our proposed model and compared its performance with that of Google Translate. Our model outperformed Google Translate on the test set, with a SacreBleu score of 45.099 against 36.615 for Google Translate on average. We also created a web application where the user can input English text with related bicycle terminologies, and it will return the detected cycling-specific words in addition to a Norwegian translation.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/electronics12102334"
+    },
+    {
+        "id": 25885,
+        "title": "Multi-Feature Fusion Method for Chinese Shipping Companies Credit Named Entity Recognition",
+        "authors": "Lin He, Shengnan Wang, Xinran Cao",
+        "published": "2023-5-8",
+        "citations": 1,
+        "abstract": "Shipping Enterprise Credit Named Entity Recognition (NER) aims to recognize shipping enterprise credit entities from unstructured shipping enterprise credit texts. Aiming at the problem of low entity recognition rate caused by complex and diverse entities and nesting phenomenon in the field of shipping enterprise credit, a deep learning method based on multi-feature fusion is proposed to improve the recognition effect of shipping enterprise credit entities. In this study, the shipping enterprise credit dataset is manually labeled using the BIO labeling model, combining the pre-trained model Bidirectional Encoder Representations from Transformers (BERT) and bidirectional gated recurrent unit (BiGRU) with conditional random field (CRF) to form the BERT-BiGRU-CRF model, and changing the input of the model from a single feature vector to a multi-feature vector (MF) after stitching character vector features, word vector features, word length features, and part-of-speech (pos) features; BiGRU is introduced to extract the contextual features of shipping enterprise credit texts. Finally, CRF completes the sequence annotation task. According to the experimental results, using the BERT-MF-BiGRU-CRF model for NER of shipping enterprise credit text data, the F1 Score (F1) reaches 91.7%, which is 8.37% higher than the traditional BERT-BiGRU-CRF model. The experimental results show that the BERT-MF-BiGRU-CRF model can effectively perform NER for shipping enterprise credit text data, which is helpful to construct a credit knowledge graph for shipping enterprises, while the research results can provide references for complex entities and nested entities recognition in other fields.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3390/app13095787"
+    },
+    {
+        "id": 25886,
+        "title": "Knowledge Enhanced Fine-grained Biomedical Named Entity Recognition",
+        "authors": "Jintao Tang, Chengxian Zhang, Shasha Li, Ting Wang",
+        "published": "2023-10-27",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1145/3633637.3633675"
+    },
+    {
+        "id": 25887,
+        "title": "SAB at SemEval-2023 Task 2: Does Linguistic Information Aid in Named Entity Recognition?",
+        "authors": "Siena Biales",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.157"
+    },
+    {
+        "id": 25888,
+        "title": "Korean named entity recognition based on language-specific features",
+        "authors": "Yige Chen, KyungTae Lim, Jungyeul Park",
+        "published": "2023-6-29",
+        "citations": 1,
+        "abstract": "Abstract\nIn this paper, we propose a novel way of improving named entity recognition (NER) in the Korean language using its language-specific features. While the field of NER has been studied extensively in recent years, the mechanism of efficiently recognizing named entities (NEs) in Korean has hardly been explored. This is because the Korean language has distinct linguistic properties that present challenges for modeling. Therefore, an annotation scheme for Korean corpora by adopting the CoNLL-U format, which decomposes Korean words into morphemes and reduces the ambiguity of NEs in the original segmentation that may contain functional morphemes such as postpositions and particles, is proposed herein. We investigate how the NE tags are best represented in this morpheme-based scheme and implement an algorithm to convert word-based and syllable-based Korean corpora with NEs into the proposed morpheme-based format. Analyses of the results of traditional and neural models reveal that the proposed morpheme-based format is feasible, and the varied performances of the models under the influence of various additional language-specific features are demonstrated. Extrinsic conditions were also considered to observe the variance of the performances of the proposed models, given different types of data, including the original segmentation and different types of tagging formats.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1017/s1351324923000311"
+    },
+    {
+        "id": 25889,
+        "title": "Named entity recognition for natural language understanding using BERT model",
+        "authors": "Sandeep Kumar, Arun Solanki",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1063/5.0181535"
+    },
+    {
+        "id": 25890,
+        "title": "Chinese Cyber Threat Intelligence Named Entity Recognition via RoBERTa-wwm-RDCNN-CRF",
+        "authors": "Zhen Zhen, Jian Gao",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.32604/cmc.2023.042090"
+    },
+    {
+        "id": 25891,
+        "title": "nerblackbox: A High-level Library for Named Entity Recognition in Python",
+        "authors": "Felix Stollenwerk",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.nlposs-1.20"
+    },
+    {
+        "id": 25892,
+        "title": "Python source code vulnerability detection with named entity recognition",
+        "authors": "Melanie Ehrenberg, Shahram Sarkani, Thomas A. Mazzuchi",
+        "published": "2024-5",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.cose.2024.103802"
+    },
+    {
+        "id": 25893,
+        "title": "Few-shot nested named entity recognition",
+        "authors": "Hong Ming, Jiaoyun Yang, Fang Gui, Lili Jiang, Ning An",
+        "published": "2024-6",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1016/j.knosys.2024.111688"
+    },
+    {
+        "id": 25894,
+        "title": "Named Entity Recognition Based on Pre-training Model and Multi-head Attention Mechanism",
+        "authors": "GuoHua Zhu, Jian Wang",
+        "published": "2023-3",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icnlp58431.2023.00040"
+    },
+    {
+        "id": 25895,
+        "title": "LLM Based Biological Named Entity Recognition from Scientific Literature",
+        "authors": "Sung Jae Jung, Hajung Kim, Kyoung Sang Jang",
+        "published": "2024-2-18",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/bigcomp60711.2024.00095"
+    },
+    {
+        "id": 25896,
+        "title": "Chinese Named Entity Recognition Based on Multi-Feature Fusion FLAT Model in the Medical Field",
+        "authors": "",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25236/ajcis.2023.060602"
+    },
+    {
+        "id": 25897,
+        "title": "Chinese named entity recognition incorporating syntactic information",
+        "authors": "Jiahao Li, Long Zhang, Qiusheng Zheng, Kaige Yu",
+        "published": "2023-4-29",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1117/12.2671165"
+    },
+    {
+        "id": 25898,
+        "title": "A Named Entity Recognition Method for Substation Location Selection",
+        "authors": "Aigang Cao, Zhenchang Wang, Yongjie Ye, Tiefeng Zhang",
+        "published": "2023-11-17",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/iske60036.2023.10481498"
+    },
+    {
+        "id": 25899,
+        "title": "Chinese Named Entity Recognition Based on Graph Neural Network",
+        "authors": "Yi Ren, An Du, Ning Tao, Ayesha Siddiqua",
+        "published": "2023-2-24",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/icicacs57338.2023.10100006"
+    },
+    {
+        "id": 25900,
+        "title": "Biomedical named entity recognition based on fusion multi-features embedding",
+        "authors": "Meijing Li, Hao Yang, Yuxin Liu",
+        "published": "2023-4-28",
+        "citations": 1,
+        "abstract": "BACKGROUND: With the exponential increase in the volume of biomedical literature, text mining tasks are becoming increasingly important in the medical domain. Named entities are the primary identification tasks in text mining, prerequisites and critical parts for building medical domain knowledge graphs, medical question and answer systems, medical text classification. OBJECTIVE: The study goal is to recognize biomedical entities effectively by fusing multi-feature embedding. Multiple features provide more comprehensive information so that better predictions can be obtained. METHODS: Firstly, three different kinds of features are generated, including deep contextual word-level features, local char-level features, and part-of-speech features at the word representation layer. The word representation vectors are inputs into BiLSTM as features to obtain the dependency information. Finally, the CRF algorithm is used to learn the features of the state sequences to obtain the global optimal tagging sequences. RESULTS: The experimental results showed that the model outperformed other state-of-the-art methods for all-around performance in six datasets among eight of four biomedical entity types. CONCLUSION: The proposed method has a positive effect on the prediction results. It comprehensively considers the relevant factors of named entity recognition because the semantic information is enhanced by fusing multi-features embedding.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.3233/thc-236011"
+    },
+    {
+        "id": 25901,
+        "title": "Named Entity Recognition of Medical Examination Reports Based on BiLSTM+CRF Model",
+        "authors": "Ying Zhang, Fan Zhang",
+        "published": "2023-6-16",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1109/ainit59027.2023.10212675"
+    },
+    {
+        "id": 25902,
+        "title": "Few-shot Named Entity Recognition with Joint Token and Sentence Awareness",
+        "authors": "Wen Wen, Yongbin Liu, Qiang Lin, Chunping Ouyang",
+        "published": "2023-8-1",
+        "citations": 0,
+        "abstract": "ABSTRACT\nFew-shot learning has been proposed and rapidly emerging as a viable means for completing various tasks. Recently, few-shot models have been used for Named Entity Recognition (NER). Prototypical network shows high efficiency on few-shot NER. However, existing prototypical methods only consider the similarity of tokens in query sets and support sets and ignore the semantic similarity among the sentences which contain these entities. We present a novel model, Few-shot Named Entity Recognition with Joint Token and Sentence Awareness (JTSA), to address the issue. The sentence awareness is introduced to probe the semantic similarity among the sentences. The Token awareness is used to explore the similarity of the tokens. To further improve the robustness and results of the model, we adopt the joint learning scheme on the few-shot NER. Experimental results demonstrate that our model outperforms state-of-the-art models on two standard Few-shot NER datasets.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.1162/dint_a_00195"
+    },
+    {
+        "id": 25903,
+        "title": "Kombinasi Intent Classification dan Named Entity Recognition pada Data Berbahasa Indonesia dengan Metode Dual Intent and Entity Transformer",
+        "authors": "Zahra Asma Annisa, Rizal Setya Perdana, Putra Pandu Adikara",
+        "published": "2023-12-29",
+        "citations": 0,
+        "abstract": "Pelayanan pelanggan atau customer service adalah sebuah bentuk upaya pemenuhan keinginan dan kebutuhan pelanggan yang disertai dengan ketepatan penyampaian sesuai standar perusahaan demi memenuhi harapan pelanggan. Pada beberapa kasus seperti layanan perbankan, diperlukan layanan pelanggan yang dapat diakses setiap saat dengan ketepatan dan daya tanggap tinggi. Atas kebutuhan pelayanan dengan kualitas tinggi ini, perusahaan dapat mengaplikasikan konsep pelayanan prima. Salah satu penerapan konsep kecerdasan buatan demi pelaksanaan pelayanan prima adalah penggunaan chatbot, yang memerlukan metode yang tepat bagi proses klasifikasi intensi pengguna maupun Named Entity Recognition (NER). Salah satu kekurangan dari pelaksanaan klasifikasi intensi dan NER secara terpisah terletak pada representasi numerik yang digunakan dalam tiap model. Meski menggunakan data latih dan arsitektur model yang serupa, model dapat menghasilkan representasi numerik yang berbeda dalam tahap fiturisasi, sehingga berpotensi mengurangi tingkat generalisasi model. Untuk mengatasi masalah tersebut, klasifikasi intensi dan NER dapat digabungkan dengan menggunakan mekanisme multi-task learning dalam bentuk model Dual Intent and Entity Transformer (DIET). Penelitian dilakukan dengan memanfaatkan data sekunder dari Helpdesk TIK UB, merancang model DIET menggunakan pustaka PyTorch dan Transformers, lalu mengevaluasi model DIET menggunakan f1-score. Kombinasi hyperparameter terbaik yang didapatkan adalah warm-up step sebesar 70, early stopping patience sebesar 15, weight decay sebesar 0,01, bobot loss NER sebesar 0,6, dan bobot loss klasifikasi intensi berupa 0,4. Kombinasi hyperparameter yang telah diperoleh menghasilkan kapabilitas yang berbeda apabila terdapat perubahan dalam data yang digunakan, karena kapabilitas model DIET baik dalam melakukan klasifikasi intensi maupun NER sangat bergantung terhadap data.\n \nAbstract\n \nCustomer service is a way to fulfill the wants and needs of customers accompanied by the accuracy of delivery according to company standards in order to meet customer expectations. In some cases such as banking services, customer service is needed that can be accessed at any time with high accuracy and responsiveness. For this high-quality service requirement, companies can implement the concept of excellent service. One application of artificial intelligence for service excellence is the use of a chatbot, which requires an appropriate method for the classification of user intent and Named Entity Recognition (NER). One of the drawbacks of performing intent classification and NER separately lies in the different numerical representations used in each model. Despite using similar training data and model architecture, the models may produce different numerical representations in the featurization stage, potentially reducing the generalization ability of the model. To overcome this problem, intent and NER classification can be combined using a multi-task learning mechanism in the form of a Dual Intent and Entity Transformer (DIET) model. The research was conducted by utilizing secondary data from Helpdesk TIK UB, designing DIET models using PyTorch and Transformers libraries, then evaluating DIET models using f1-score. The best hyperparameter combination obtained is a warm-up step of 70, early stopping patience of 15, weight decay of 0.01, NER loss weight of 0.6, and intent classification loss weight of 0.4. The combination of hyperparameters that have been obtained produce different capabilities if there are changes in the data that is used because the capabilities of the DIET model in both intention and NER classification are highly dependent on the data.",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.25126/jtiik.1077985"
+    },
+    {
+        "id": 25904,
+        "title": "PAI at SemEval-2023 Task 2: A Universal System for Named Entity Recognition with External Entity Information",
+        "authors": "Long Ma, Kai Lu, Tianbo Che, Hailong Huang, Weiguo Gao, Xuan Li",
+        "published": "2023",
+        "citations": 0,
+        "abstract": "No Abstract or Keywords available",
+        "keywords": "",
+        "link": "http://dx.doi.org/10.18653/v1/2023.semeval-1.102"
+    }
+]
